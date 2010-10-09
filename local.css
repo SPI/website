@@ -46,12 +46,12 @@ body {
 .header {
 	font-size: 100%;
 	font-weight: normal;
+	margin-left: 100px;
 }
 
 .title {
 	display: block;
 	margin-top: .2em;
-	margin-left: 100px;
 	font: 140% sans-serif;
 	text-transform: capitalize;
 }
