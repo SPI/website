@@ -37,7 +37,7 @@ body {
 .pageheader {
 	margin: 0;
 	padding: 1em 2em 0 2em;
-	background: #1e6497;
+	background: #1e6497 url(logo.png) no-repeat;
 	border-color: #999;
 	border-style: none none solid none;
 	border-width: 1px;
@@ -51,6 +51,7 @@ body {
 .title {
 	display: block;
 	margin-top: .2em;
+	margin-left: 100px;
 	font: 140% sans-serif;
 	text-transform: capitalize;
 }
