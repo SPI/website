@@ -1,0 +1,17 @@
+# madwifi.org
+
+<center>![madwifi.org](madwifi-logo.png)</center>
+
+[madwifi.org](http://www.madwifi.org/) is a team of voluntary developers who
+provide Linux drivers for WLAN devices based on Atheros chipsets, namely
+MadWifi and ath5k.
+
+MadWifi is one of the most advanced WLAN drivers available for Linux
+today. It is stable and has an established userbase. The driver itself
+is open source but depends on the proprietary Hardware Abstraction Layer
+(HAL) that is available in binary form only.
+
+ath5k is a relatively new and emerging driver and does not depend on the
+HAL. It is intended for inclusion into the mainline Linux kernel, exceed
+MadWifi feature-wise and replace MadWifi in the long run.
+
