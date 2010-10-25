@@ -1,0 +1,532 @@
+20:01 < bdale> Welcome all.  First order of business is roll call.  Maulkin, do you want to follow the previous procedure?
+20:01 < Maulkin> Sure
+20:01 < cdlu> Maulkin, agenda is spelled out in by-laws.
+20:02 < bdale> ok, then all board members please state your names for the record, all contributing members please /msg Maulkin if you want your attendance to be recorded.
+20:02 < Diziet> Ian Jackson
+20:02 < cdlu> David Graham
+20:02 < schultmc> Michael Schultheiss
+20:02 < Maulkin> Neil McGovern
+20:02 < slef> Maulkin: http://www.spi-inc.org/corporate/by-laws
+20:02 < bdale> Bdale Garbee
+20:02 < Overfiend_> Branden Robinson
+20:02 < jberkus> Josh Berkus
+20:02 < cdlu> <Joey> Martin Schulze
+20:02 < Hydroxide> Jimmy Kaplowitz
+20:02 < bdale> wow, that's everyone?
+20:03 < cdlu> 9/9
+20:03 < Maulkin> yup :)
+20:03 < jberkus> hey, we just got elected
+20:03 < bdale> thank you all.  Josh and I are on the show floor at Linuxworld, hoping our connectivity stays up.
+20:03 < xzilla> yes, the new board hasnt had time to get cyncial and combative yet
+20:03 < bdale> I don't have a formal report today, though I'll pipe in on several items of discussion as they come up on the agenda.
+20:03 < bdale> Do we have a treasurer's report today?
+20:04 -!- greg [~greg@pool-72-78-112-50.phlapa.fios.verizon.net] has joined #spi
+20:04 < Diziet> No, but we had a back report from Jimmy.
+20:04 < jberkus> for the record, we have not yet been able to do the treasurer handoff
+20:04 < Diziet> I mean, the discussion about it.
+20:04 < Hydroxide> bdale: as I said above to Maulkin, I submitted reports from Jan through April on July 29 or 30, and we never approved the December 2005 report which was on some agenda like May's, or similar
+20:05 < Hydroxide> jberkus: I'm still going to get the checkbook and other docs to you soon. I've just been really busy.
+20:05 < bdale> Hydroxide: I saw your reports, thanks.  Do we need to take any action on them today, or are we mostly waiting for the handoff to happen at this point?
+20:05 < Hydroxide> jberkus: although, don't expect too many docs, since Branden has most
+20:05 < Hydroxide> bdale: well, in general we've voted to approve them, but I'm not aware of that being required
+20:05 < jberkus> I also need an account on the server where the spreadsheets are, OR we need to move them
+20:05 < Hydroxide> jberkus: i.e., new-chic
+20:06 < Overfiend_> we've changed hardware AGAIN?
+20:06 < bdale> schultmc: can you work on getting jberkus the access he needs?
+20:06 < schultmc> bdale: will do
+20:06 < cdlu> Overfiend, new website is on new hardware in new data centre 
+20:06 < Overfiend_> Wichert told me not to host anything on chic in the first place.  Is that now moot?
+20:06 < Overfiend_> where chic->new-chic ?
+20:06 < aj> Hydroxide: (for the record, your mail was dated Date: Tue, 1 Aug 2006 04:13:09 -0400)
+20:06 < Hydroxide> aj: ah, it's possible. I was up late that night, so it was sort of the 30th ;P
+20:06 < Hydroxide> err, 31st
+20:06 < Hydroxide> never mind
+20:06 < Overfiend_> aj: well, that's next month in .au time
+20:07 < bdale> jberkus/Hydroxide: I'm not inclined to take any action today on Jimmy's reports, instead waiting for the handoff to occur and some sort of updated report from Josh.  Does that make sense?
+20:07 < Hydroxide> bdale: I'm fine with that
+20:07 < cdlu> bdale, ditto
+20:07  * Maulkin agrees with that
+20:07 < Diziet> bdale: That sounds sane to me.
+20:07 < jberkus> ok
+20:07 -!- ore [~romain@yeast.orebokech.com] has joined #spi
+20:07 < aj> Overfiend_: dude, you have no idea how awesome linux australia's financial recording is going to get rsn
+20:07 < Hydroxide> just to be clear,
+20:07 < Overfiend_> schultmc: anyway, just tell me where I should put my (electronic) treasurer junk when you can
+20:07 < bdale> ok, then thanks to Jimmy for his work to date, hope that the handoff happens soon, and we'll look forward to a report next time.
+20:07 < jberkus> Overfiend_: did you ever talk to Frank at Mark's?
+20:07 < Hydroxide> by "handoff" you mean me mailing my paper docs to Josh, right?
+20:07 < Hydroxide> or is it something else?
+20:07 < jberkus> Hydroxide: and the phone conference
+20:07 < Hydroxide> jberkus: bookeeping+tax are later
+20:08 < Hydroxide> jberkus: right
+20:08 < schultmc> Overfiend_: that's still a wiggy/joy decision for now
+20:08 < Overfiend_> schultmc: ok
+20:08 < Hydroxide> jberkus: you wanted to do the phone conference this weekend, which is fine
+20:08 < Diziet> Hydroxide: And of course anything Josh wants from Branden.
+20:08  * schultmc is like admin "project manager" atm
+20:08 < jberkus> Hydroxide: and me having access to the files and the bookkeeper
+20:08 < cdlu> Hydroxide, let's define the hand-off as the point at which Josh is comfortable that he is able to do his job as treasurer. :)
+20:08 < Hydroxide> Diziet: yeah, although Branden is continuing on as Deputy Treasurer so that's not so important
+20:08 < Overfiend_> jberkus: not since I talked to him about you.  He hasn't emailed me as he said as of early this morning, either.
+20:08 < Hydroxide> let's move on
+20:08 < Overfiend_> jberkus: I've been on vacation for nearly a week, and then my car was in the shop yesterday, so I haven't done much.
+20:09 < jberkus> Hydroxide: I can't say that I agree with that.  
+20:09  * Overfiend_ doesn't either.
+20:09 < bdale> nor do I
+20:09 < bdale> ok, I like the idea that the handoff is about getting Josh able to act as treasurer in all meaningful ways
+20:09 < Overfiend_> schultmc: do you know on which host I should be putting the stuff if not new-chic?  Is it purcel?
+20:09 < bdale> let's focus on that between now and the next meeting, ok?
+20:09 < Maulkin> Overfiend_: chic.spi-inc.org :)
+20:09 < Hydroxide> bdale: *nod*
+20:10 < schultmc> Overfiend_: nope
+20:10 < Overfiend_> Maulkin: no, wiggy told me that was wrong
+20:10 < bdale> ok, next item.  Maulkin, would you like to address the outstanding minutes?
+20:10 < Joey> Could you negotiate on a date off-list/off-meeting?
+20:10 < Maulkin> bdale: sure.
+20:11 < Maulkin> August 1st, 2006 is ready to be voted on. cdlu is processing the previous ones. We'll have these next meeting to vote on.
+20:11 < bdale> has everyone reviewed the 1 Aug minutes so that we can vote on approving them?
+20:11  * Overfiend_ has.
+20:11  * cdlu is ready to vote
+20:11  * schultmc has
+20:12  * jberkus has not, so hopefully I can abstain
+20:12  * Maulkin moves to vote in August 1st, 2006 minutes
+20:12  * cdlu seconds
+20:12  * Hydroxide has
+20:12 < bdale> ok, it's not like they're all that complicated.  do we have vote machinery, or does Maulkin get to count hands?
+20:12  * Maulkin will count hands
+20:12  * cdlu holds up three
+20:12 < Maulkin> My voting script isn't ready yet
+20:12 < Overfiend_> we haven't had our bot in months.
+20:12 < Maulkin> Well, it counts votes, but bets a bit confused if someone tries to vote twice
+20:12 < bdale> ok, then let's vote.
+20:13 < Overfiend_> !vote yes
+20:13 < cdlu> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < Hydroxide> !vote yes
+20:13 < Maulkin> !vote yes
+20:13 < bdale> !vote yes
+20:13 < Overfiend_> if you abstain, please do so explicitly...
+20:13 < Overfiend_> so that you're not mistaken for idling.
+20:13 < jberkus> !abstain
+20:13 < cdlu> since that would put you in violation of the absence policy which will be voted on shortly :)
+20:13 < Diziet> !vote abstain
+20:13 < Overfiend_> (see section 9 of 2006-08-07.dbg.2 )
+20:14 < bdale> Joey: ?
+20:14 < Overfiend_> what cdlu said.
+20:14 < Maulkin> Joey: ?
+20:14 < Diziet> Let's move on.
+20:14 < bdale> agreed.  motion passes, Aug 1 minutes are approved.
+20:14 < Maulkin> Vote passes with: 6 yes, 0 no, 2 abstain, 1 missing
+20:14 < bdale> Maulkin: thanks
+20:14 < Maulkin> No probs :) That bit of my script works :)
+20:15 < Joey> Sorry, lost my connection.
+20:15 < bdale> ok, will look forward to remainder of minutes backlog next time
+20:15 < bdale> next item, 6.1 the Debian trademark in Spain
+20:15 < Diziet> We still haven't heard from Greg about this, have we ?
+20:15 < bdale> any update from Greg?  I'm slightly behind on email
+20:15 < jberkus> no, we've heard nothing from Greg
+20:16 < cdlu> I've seen nothing.
+20:16 < Hydroxide> no update, no
+20:16 < Overfiend_> Did we hear back from Greg?  I'm behind on mail and have no connectivity to my spi mailboxes right now.
+20:16 < Joey> !vote yes
+20:16 < Overfiend_> Okay.
+20:16 < Diziet> We should action someone to chase Greg.
+20:16 < Overfiend_> heh.
+20:16 < jberkus> on that or a couple other questions
+20:16 < bdale> this seems to be a sadly persistent state
+20:16 < Maulkin> Joey: noted :)
+20:16 < jberkus> although there have been mailissue
+20:16 < Maulkin> Vote passes with: 7 yes, 0 no, 2 abstain, 0 missing
+20:16 < bdale> ok, any volunteers?  perhaps I should contact Greg directly, I haven't done that since the officer elections.
+20:16 < Diziet> Well volunteered.
+20:17  * bdale sighs
+20:17 < Maulkin> bdale: That would be useful. I sent a 'hi' mail, but didn't hear anything back.
+20:17 < Diziet> If you don't want to I can do it but I'm galivanting (Ubuntu conf in Wiesbaden) shortly.
+20:17 < bdale> ok, I'll take an action to follow up with Greg and see if we can't get this to closure.  I'm tired of having it on the agenda.
+20:17 < cdlu> bdale, as president you might want to get his phone number and try that approach.
+20:17 < Overfiend_> A phone call might be speedier.
+20:17 < bdale> cdlu: noted
+20:17 < Overfiend_> great minds...
+20:17 < cdlu> fools...
+20:17 < Diziet> Who has his phone number ?
+20:17 < cdlu> mako
+20:17 < Hydroxide> I do
+20:17 < Overfiend_> lemme see
+20:17 < bdale> if anyone has better contact info for Greg, please forward it to me by email
+20:17 < Overfiend_> oh, nm then
+20:17 < Diziet> Hydroxide: OK, please tell bdale.
+20:17 < Hydroxide> actually, we all do
+20:17 < Hydroxide> it's in all of his email sigs
+20:18 < Diziet> Oh :-).
+20:18 < Diziet> OK then.
+20:18 < Hydroxide> when he uses his @cgsh.com address
+20:18 < cdlu> so it is. and a fax number.
+20:18 < Hydroxide> yup
+20:18 < Overfiend_> nah, I don't have his number in my phone anyway
+20:18 < bdale> ok, next item, 6.2 the attendance policy resolution.  who wants to present this?
+20:18 < cdlu> I'll take it
+20:18 < javifs> It's been four years since this issue was brought up and four months since this item is pending in the SPI agenda. This is not how a trademark is defended.
+20:18 -!- greg is now known as G_SabinoMullane
+20:18  * javifs is annoyed
+20:18 < bdale> javifs: noted.  I am too.
+20:18 < bdale> cdlu: go for it
+20:19 < cdlu> ok
+20:19 < jberkus> at some point, we may have to get a paid attorney
+20:19 < cdlu> the resolution proposed is a modernisation of the attendance policy that has been in force for 5 years
+20:19 < jberkus> It's hard to get on Greg's case when he's pro-bono
+20:19 < cdlu> it is a bit lengthly, but provides two major changes. 
+20:19 < cdlu> first, it creates a one-year rolling attendance period
+20:19 < cdlu> and second, it provides penalty for not participating in meetings
+20:19 < jberkus> did you e-mail us a copy of the full policy?  I don't remember seeing it
+20:19 < Diziet> Who is responsible for recordkeeping ?
+20:19 < Overfiend_> (minor point: s/supercedes/supersedes/  )
+20:20 < cdlu> Diziet, minutes.. ie secretary.
+20:20  * Maulkin is
+20:20 < Joey> javifs: ack - but it's also a precident for SPI, so the corporation has to be careful
+20:20 < cdlu> that's all I have to say on it. more questions?
+20:20  * Joey doesn't say that it's handled well, though
+20:20 < slef> bdale: in section 6, the labels would be clearer if none were exact subsets
+20:20 < slef> of each other. I suggest 6.a. Absent without regrets, 6.d. Present and active, and any consequent changes.
+20:20 -!- lostinfog [~is001652@separata.thechildrenshospital.org] has joined #spi
+20:20 < Diziet> Overfiend_: supercedes is perfectly fine spelling.
+20:21 < slef> s/subset/substring/
+20:21 < Hydroxide> Overfiend_: supercedes indeed. supersedes is incorrect I believe
+20:21 < jberkus> can someone give me a subject line for that e-mail, or a link?
+20:21 < cdlu> I think supersedes is actually correct, but I have supercedes stuck in memory because it makes more sense to me.
+20:21 < aj> dict prefers supersede
+20:21 < Maulkin> ispell says supercedes :)
+20:21 < cdlu> jberkus, for the resolution? it's in the agenda.
+20:21 < cdlu> http://www.spi-inc.org/secretary/agenda/resolveuid/bcc0a3517330057f730dc09d32605f99
+20:21 < cdlu> not sure what the funny letters are (md5sum?)
+20:22 < schultmc> Main Entry: su·per·cede
+20:22 < schultmc> variant of SUPERSEDE
+20:22 < bdale> I find it frustrating to have to spend time on things like an attendance policy at all, but given the history of the organization I understand the perceived need.
+20:22 < slef> (is it NNTP that misspelt super[sc]ede?)
+20:22 < Maulkin> Internal pointer for links in case things move
+20:22 < Hydroxide> cdlu: if you click on the link it resolves to a friendlier URL
+20:22 < Diziet> slef: Yes.
+20:22 < Overfiend_> yeesh, people, I made my remark parenthetical for a reason
+20:22 < cdlu> (overfiend, dangerous)
+20:22 < Overfiend_> (no kidding :( )
+20:22 < cdlu> anyway, slef has raised a concern. Does anyone share it?
+20:22 < Diziet> I would like to suggest slef's suggestion for retitling the categories.
+20:23 < Diziet> Err, that is, formally propose.
+20:23 < Overfiend_> cdlu: I like the changes, and am neutral about the renaming.
+20:23 < bdale> looking at the resolution on the web, I don't think I've completely pondered this current version yet.  I don't see anything I strenuously object to, but I wonder whether the concensus of the rest of you is that we're ready to vote on this today, or should discuss the details further on list first?
+20:23 < Diziet> I would be very happy to discuss some more.
+20:23 < Diziet> It doesn't seem urgent.
+20:23 < Overfiend_> bdale: as author of the original AP, I don't see any changes apart from those cdlu mentioned.
+20:23  * slef thinks he only had notice of it today.
+20:24 < cdlu> we have an attendance policy that remains in force in the meantime
+20:24  * Maulkin notes that it's been posted to the list for a while now with no comments.
+20:24 < Overfiend_> But if we keep having perfect attendance and activity, I agree it's not a big deal.
+20:24 < Maulkin> But I'm happy to leave it till next month
+20:24 < slef> Maulkin: "the list"?
+20:24 < jberkus> I think it's ok except that the accounting system is too complex
+20:24 < Maulkin> slef: board@
+20:24 < cdlu> jberkus, and to think it's a simplification :)
+20:24 < bdale> ok, I'd like to suggest we defer a vote on this until our next meeting, then.  I was going to comment later on the fact that we need to be more engaged with each other on the list now that the server transition and related mail issues are hopefully behind us.
+20:24 < Overfiend_> jberkus: it's complex b/c it has evolved to meet the problems we have in real life with our Board meetings
+20:25 < Diziet> bdale: Right.
+20:25 < bdale> ok, let's move on to the next item.  6.3, accepting freedesktop.org
+20:25 < cdlu> also as I noted prior to meeting, the by-laws requires us to have a board member removal procedure, which I do not believe we have on the books.
+20:25 < cdlu> so we'll need to address that on list too.
+20:25 < jberkus> hmmm
+20:25 < Diziet> freedesktop.org> Did spi-private get a notification in reasonable time ?
+20:26 < bdale> keithp is offline right now
+20:26 < Maulkin> (SPI resolution 2006-08-15.bg.1)
+20:26 < jberkus> Diziet: 48 hours
+20:26 < jberkus> Diziet: and there was no discussion
+20:26  * Overfiend_ is for it.
+20:26 < jberkus> except two positive comments
+20:26 < aj> Date: Sun, 13 Aug 2006 14:26:10 -0700
+20:26 < Diziet> That's barely sufficient I think.  In this case I'm happy to get it go.
+20:26 < cdlu> I have no objection to freedesktop.org and don't consider it particularly controversial.
+20:26 < Diziet> Right.
+20:26 < aj> cosmicray posted a supportive response, as did linuxpoet
+20:26 < linuxpoet> I don't get to vote, but I will confirm a supportive response
+20:27  * cdlu moves to approve 2006-08-15.bg.1
+20:27 < aj> likewise, fwiw
+20:27  * Overfiend_ seconds
+20:27 < Diziet> In general we should give people a week or so to say `but this Fred who is supposedly in charge of OpenNightmare is in fact an axe-murderer' or whatever.
+20:27 < bdale> if there are any questions, we can defer, but the respone so far has been unanimously positive, and I wouldn't have proposed the resolution if I didn't think it a good idea.
+20:27 < CosmicRay> linuxpoet: likewise with me
+20:27  * Hydroxide is ready to vote to approve
+20:27 < Diziet> So let's vote.
+20:27 < bdale> yes, let's vote
+20:27 < Overfiend_> it's not like fd.o is an unknown quantity
+20:27 < Diziet> !vote yes
+20:27 < Maulkin> !vote start 2006-08-15.bg.1
+20:27 < Diziet> !vote yes
+20:27 < cdlu> !vote yes
+20:27 < schultmc> !vote yes
+20:27 < jberkus> !vote yes
+20:27 < Overfiend_> to anyone, really, who hasn't had their head in a cave for the past 2-3 years
+20:27 < Overfiend_> !vote yes
+20:27 < Hydroxide> !vote yes
+20:27 < bdale> !vote yes
+20:27 < Maulkin> !vote yes
+20:27 < Diziet> Caves are nice.
+20:27 < Overfiend_> Joey.....
+20:28 < bdale> Diziet: ;-)
+20:28 < jberkus> now, OpenOffice.org will require discussion
+20:28 < cdlu> Joey reported a flakey connection. he'll vote soon I'm sure. :)
+20:28 < bdale> jberkus: yes
+20:28 < slef> Overfiend_: it's large and quite difficult to browse.  I assume SPI support is limited to the parts which are free software (may be all, haven't checked).
+20:28 < Overfiend_> cdlu: I was just helping his IRC client get his attention :)
+20:28 < Maulkin> Vote passes with: 7 yes, 0 no, 2 abstain, 0 missing
+20:28 < Maulkin> !vote stop
+20:28 < Overfiend_> slef: OO.o, or fd.o ?
+20:28 < cdlu> overfiend, ah, right. :) he's most responsive to /msg pings.
+20:28 < slef> Overfiend_: fd.o
+20:28 < Maulkin> Hmm... I'll have to fix that ordering
+20:28 < bdale> ok, thanks everyone.  Maulkin, do you want to notify keithp, or should I?
+20:28 < schultmc> Maulkin: that count was the last vote
+20:29 < cdlu> Maulkin, you've got one more vote in your tally than were cast :)
+20:29 < Hydroxide> slef: fd.o is all free software to the best of my knowledge
+20:29 < Overfiend_> slef: I don't think there's anything major in fd.o which is non-free
+20:29 < Maulkin> bdale: I will :)
+20:29 < Maulkin> Bah.
+20:29 < cdlu> not to mention 2 abstains that I did not see :)
+20:29 < Overfiend_> Hydroxide: well....
+20:29 < Maulkin> Vote passes with: 8 yes, 0 no, 0 abstain, 1 missing
+20:29 < Maulkin> tada
+20:29 < mako> cdlu: yes, sorry.. i'm here now
+20:29 < Overfiend_> Hydroxide: there's some REALLY old stuff lingering in there that is unclearly licensed.
+20:29 < cdlu> oh hey mako, I was just saying that you had gmp's phone number. Hydroxide pointed out we all do.
+20:29 < Hydroxide> ah.
+20:29 < Overfiend_> Hydroxide: I wrote up a detailed analysis back when the XFree86 license-changing schism happened.
+20:29 < Hydroxide> *nod*
+20:29 < Diziet> Overfiend_: That sounds like the kind of thing that interested parties can try to agitate about getting fixed.
+20:29 < Overfiend_> Hydroxide: people thanked me for doing it, but I don't think much action was taken.
+20:30 < slef> Hydroxide, Overfiend_: some parts use some licences I can't remember, like Arphic.  That's all.
+20:30 < Overfiend_> there was nothing in there really critical IIRC
+20:30 < Hydroxide> that doesn't sound like it's going to be a fatal flaw for SPI and fd.o, though I agree it should be fixed
+20:30 < Joey> Maulkin: Err.. what did you just vote on?  Guess what, my irc connection/screen just died...
+20:30 < Diziet> Anyway, we've voted now.
+20:30 < Diziet> Joey: freedesktop.org
+20:30 < bdale> ok, let's move on to the next agenda item.  6.4 on tax filing and book keeping status.  Jimmy?
+20:30 < Joey> that I agree on, vote yes :)
+20:30 < Overfiend_> yeah, Debian's already a member project and has similar problems -- kernel blobs and FDL docs.
+20:30 < Joey> It's so )(*#@$)(* todya
+20:30 < cdlu> it's unanimous. we're so agreeable. today. 
+20:30 < Maulkin> Ha-ha. Maulkin messed up the vote command! Everyone laugh at him.
+20:30 < Hydroxide> bdale: as I said to Maulkin, this is what Branden has been working on
+20:30 < Maulkin> Damn.
+20:30 < bdale> Overfiend_: update?
+20:31 < Hydroxide> Overfiend_: regarding the tax filing, did you get the form 8868 in?
+20:31 < aj> (well, technically, debian has an entire non-free/ section on its servers...)
+20:31 < Hydroxide> Overfiend_: (if not, you can still get it postmarked today)
+20:31 < Diziet> aj: non-free> In many cases, our servers, in fact.
+20:31 < Overfiend_> you can be unanimous and spank me, no, I didn't and in fact I forgot about it over my vacation
+20:31 < Overfiend_> so yes, I will get my ass to the post office TODAY
+20:31 < Overfiend_> please accept my apologies
+20:31 < Hydroxide> Overfiend_: good, postmarked today is sufficient
+20:31 < Hydroxide> thanks
+20:31 < jberkus> which one is he 8688?
+20:31 < Hydroxide> jberkus: extension
+20:31 < jberkus> ah
+20:31 < Hydroxide> jberkus: for 990
+20:32 < Hydroxide> or 990-EZ
+20:32 < Overfiend_> Isn't it 8868?
+20:32 < Hydroxide> for 2005, we probably can do the 990-EZ (which is how we filled out the first extension form)
+20:32 < Overfiend_> www.irs.gov/pub/irs-pdf/f8868.pdf
+20:32 < Hydroxide> yes, 8868
+20:32 < Diziet> Is there some background I'm missing here ?  Because I have no idea what a 4758 and a 747 and so forth are ...
+20:32 < bdale> being on the verge of needing an extension to file our request for extension is not good...
+20:32 < Overfiend_> that's what I've got
+20:32 < jberkus> no.  apparently I'm going to spend a good portion of September doing filings
+20:32 < bdale> Overfiend_: ok, please get that filed today.
+20:33 < Ganneff> Diziet: us tax free stuff
+20:33 < Hydroxide> jberkus: well, it extends the deadline to November. But, please don't leave it until then :)
+20:33 < Overfiend_> bdale: will do
+20:33 < bdale> jberkus: if you need help, ask.  it's important that we get all this done and get back in order.
+20:33 < Diziet> Ganneff: Err, yes, I can tell that from context.
+20:33 < bdale> s/in order/on schedule/
+20:33 < Hydroxide> yes, I'm willing to give help as appropriate too
+20:33 < slef> Hydroxide: do these things have English names?
+20:33 < vorlon> Ganneff: s/free ///
+20:33 < bdale> Diziet: try to avoid learning the details of US tax law if you can...
+20:34 < bdale> ok, next item.  6.5 on the website rebuild.  Maulkin?
+20:34 < schultmc> slef: Application for Extension of Time To File an Exempt Organization Return
+20:34 < Diziet> I'd like to have a handle on what the legal requirements are.  After all we're supposed to be making sure it gets done ...
+20:34 < Hydroxide> slef: "Application for Extension of Time To File an Exempt Organization Return"
+20:34 < Maulkin> The website transition has happened (\o/)
+20:34 < Hydroxide> slef: you see why people use the numbers :P [including the IRS]
+20:34 < jberkus> bdale: yes, well, I may be coming next month with a motion to change bookkeepers
+20:34 < jberkus> Mark's has not impressed me so far
+20:34 < Maulkin> We're now using a new server (and I'd like to extend my thanks to teh admin team and BlackCat Networks for this).
+20:34 < bdale> Diziet: makes good sense.  I hate heaping things on, but perhaps jberkus and I can work up a summary for the board as part of the handover and get-caught-up process.
+20:35 < Diziet> website> In my browser, it has a horizontal scrollbar.  Can that be fixed ?
+20:35 < Maulkin> There was a couple of issues during the transition process, but these seem mostly resolved now
+20:35  * bdale hates horizontal scrollbars too
+20:35 < Maulkin> schultmc: Any comments?
+20:35 < Diziet> bdale: That would be excellent.  It sounds like a real drag.
+20:35 < slef> Hydroxide: put up or link a dictionary, please.  I mean, if we started talking about 363s and so on, you'd be SOL too.
+20:35 < Maulkin> Diziet: I can try... :) Can you send me a mail?
+20:35 < Diziet> jberkus: Mark's> Yes, they don't seem to have been as dynamic and useful as we might have hoped for.
+20:35 < cdlu> Diziet, unfortunately our website uses icky fixed-widthness.
+20:35 < Joey> Uh... could web issues maybe... discussed on the web list?  (there should be spi-web or something, no?)
+20:35 < Overfiend_> If my home net access is restored this evening, I will send an email after I have mailed the extension form.  If not, I will once it's back up (the guy is supposed to be out to fix it tomorrow if it's not a regional outage).
+20:36 < jberkus> Diziet: actually, AFAIK they don't do anything at all.
+20:36  * Maulkin nods spi-www@lists.spi-inc.org
+20:36 < Overfiend_> Failing that, my phone number is +1 317 362 4352 and people are welcome to call to check the status.
+20:36 < schultmc> Maulkin: not really, other than I've been pinging wiggy and joy with every issue I've discovered since I don't have access to fix things myself.  They've been sufficiently available
+20:36 < Overfiend_> Or have me call you.
+20:36 < bdale> ok, the point was not to have a discussion about our web content, but to get a report on where we are in the process of transition.
+20:36 < xzilla> Maulkin: would it be possible to allow member organizations to have access over thier pages? 
+20:36 < Joey> Thanks for the new website, let's hope it can be maintained easier than the old one and will actually be kept up to date.  Thanks.
+20:36 < Maulkin> xzilla: Yes, pleas email me
+20:36 < slef> Where is the new webmaster guide?
+20:37 < jberkus> xzilla: yes.  I have access to the PostgreSQL page, Maulkin can give you a login
+20:37 < jberkus> I'd be thrilled to turn it over to you
+20:37 < Maulkin> The system is granular enough to give access to anyone for any section
+20:37 < bdale> I'd like to take this opportunity to thank everyone involved for getting the transition to the new infrastructure done.  I've had positive feedback from various folks who went to look after our recent election results were announced.
+20:37 < Maulkin> Just ask me :)
+20:37  * Overfiend_ seconds that.
+20:37 < slef> s/webmaster/web editing contribution doodah patch people/
+20:37 < xzilla> jberkus: i know how you hate using websites that dont allow cvs access :-P
+20:37 < Overfiend_> The new website looks shockingly modern compared to the old one.
+20:37 < Maulkin> slef: No idea what you're talkign about :) Can you mail me please?
+20:38 < jberkus> xzilla: I was thinking that we could transition the CMS to TeX
+20:38 < bdale> Maulkin: ok, anything else we need to hear about regarding the web site today, or can we move on?
+20:38 < Maulkin> bdale: I'm done
+20:38 < slef> Overfiend_: shockingly modern? You mean it scrolls sideways?
+20:38 < Overfiend_> it doesn't for me :)
+20:38 < bdale> ok, next item.  6.6, items from the DPL.  
+20:38 < cdlu> me neither. it's a narrow strip down the middle of my screen. :)
+20:38  * cdlu gives aj a cup of coffee to help him through this item
+20:38 < xzilla> slef: use links
+20:39 < Diziet> bdale: What would you like from us on these points ?
+20:39 < aj> (yo)
+20:39 < bdale> I have re-read the list, and it feels to me like several items need to be on my list for talking to Greg about.  aj, anything we should discuss here today?
+20:39 < Diziet> I mean, aj:.
+20:39 < aj> (1)-(3) need input from greg, (4) and (5) are treasury stuff, (6) you might want to discuss while you've got a meeting?
+20:40  * Maulkin would like to see (at least) a show of support for Item 6
+20:40 < jberkus> I don't see a (6)
+20:40 < bdale> aj: this is the set of changes that basically make it clear that SPI isn't the only org that might be holding Debian assets?
+20:40 < Diziet> Re (6) I think we don't need a resolution but I hope I speak for all of us when I say that we don't feel threatened or slighted or anything.
+20:40 < Diziet> bdale: Yes.
+20:40 < aj> jberkus: it was in a second mail, scroll down
+20:40 < cdlu> jberkus,     6) I think Debian would appreciate it if SPI would formally comment
+20:40 < cdlu>        on the asset handling changes proposed on debian-vote, to ensure we
+20:40 < cdlu>        can maintain a friendly and consultative relationship. (Even if the
+20:40 < cdlu>        comment is just "yup, that's fine by us!" or whatever) See the threads
+20:40 < cdlu>        related to:
+20:41 < aj> bdale: yup
+20:41 < jberkus> hmmm
+20:41 < bdale> I saw nothing threatening there, either.
+20:41 < Overfiend_> Last I checked that thread, it basically just wanted to generalize the assets-held-in-trust language in the Debian Constitution.
+20:41 < jberkus> somenone would have to be designaged to do that
+20:41 < jberkus> from the board
+20:41 < Hydroxide> I certainly don't have a problem with that Debian GR either
+20:41 < Overfiend_> the threatening part would, I guess, be how Manoj appears to feel about SPI these days.
+20:41 < Diziet> jberkus: To do what ?  Formally comment ?
+20:41 < Overfiend_> However, nothing in the content of the proposed GR is hostile to SPI.
+20:41  * schultmc has no problem w/ the GR
+20:41 < jberkus> Diziet: yes
+20:41 < Hydroxide> Overfiend_: I agree on both counts
+20:41 < bdale> when SPI was started, mostly to provide services to Debian, I think lots of people were a little naive about what a truly international project would look like today
+20:41 < Diziet> I'd be happy to play volunteer for that.
+20:41 < Maulkin> As I read it, other people may be holding Debian money, and the request is "Does spi have a problem with that?"
+20:42 < jberkus> oh, that resolution
+20:42 < jberkus> no, it seemed very clear
+20:42 < Overfiend_> I wish I understood *why* Manoj felt that way, but he's had nothing but venom to say to me on any subject for the past several months, on the few occasions we've spoken.
+20:42 < Diziet> So how about I just post to debian-project and tell them we've discussed it and we're fine with it.
+20:42 < Overfiend_> Maulkin: it really just ratifies the status quo as far back as anyone can remember
+20:42 < Diziet> It seems to me like a good piece of housekeeping.
+20:42  * cdlu agrees with Diziet (shock!)
+20:43 < bdale> ok.  then I'll take up 1-3 with Greg, jberkus would you please ponder 4 and 5 and lead conversation on our list(s) as appropriate to put some sort of reply together?
+20:43  * Maulkin backs Diziet 
+20:43 < jberkus> I replied to Anthony
+20:43 < jberkus> he'll have the data when I have it
+20:43 < bdale> aj: with respect to 6, you can either go forth with that I feel is the concensus of the SPI board that we're ok with it, or you can propose a resolution for us to vote on next time.  k?
+20:43 < Diziet> Surely (3) isn't a question for Greg.
+20:43 < jberkus> the medium-term plan is to have a web-based accounting system that allows projects direct read-only access to their funds
+20:44 < Diziet> Why don't we have some US person (this kook is a US person, we think, right?) talk to the cops ?
+20:44 < bdale> Diziet: to the extent that it involves SPI at all, I'd think it is?
+20:44 < aj> bdale: sounds fine
+20:44 < cdlu> diziet, I think it's a civil matter, cops won't care.
+20:44 < Diziet> Or are we planning to subpoena ISPs or something and launch civil suits ?
+20:44 < Diziet> cdlu: OK.  Over here it would be criminal, probably.
+20:44 < bdale> Diziet: nearly all of that has been suggested at one time or another.
+20:45 < jberkus> Diziet: that's what Debian wants to find out.  What *can* they do?
+20:45 < Diziet> Not that you'd be able to get any of our mostly tech-ignorant cops to understand.
+20:45 < Overfiend_> What list is that 20060610000450.GN13192@mauritius.dodds.net on?
+20:45 < Hydroxide> Diziet: whether we do civil suits or talk to the cops (i.e. for either civil or criminal), we probably want to get our lawyer's advice for either path
+20:45 < Overfiend_> Google shows only SPI's own agenda...
+20:45 < Diziet> jberkus: Fair enough.
+20:45 < Diziet> Hydroxide: OK, I see now.
+20:45 < aj> bdale, jberkus: happy with the mails i've got so far on (4) and (5), looking forward to more:)
+20:45 < Hydroxide> Diziet: additionally, our lawyer is both tech-savvy and law-savvy, so he could bridge between us and the cops
+20:45 < aj> Overfiend_: board@spi
+20:45 < Diziet> Right.  If he has time ...
+20:45 < bdale> I'll ask Greg about the class of issue represented by 3, we can then figure out what to do with the knowledge.
+20:46 < Overfiend_> aj: Right, which I don't have access to right now.
+20:46 < Overfiend_> Argh.
+20:46  * Overfiend_ shakes his fist at his cable company
+20:46 < Overfiend_> Good thing we have a competitive market in high-speed internet services in central Indiana, so that everyone is compelled to excel.
+20:46  * Hydroxide steps out for a brief moment and will be right back
+20:46 < bdale> ok, I think we've come to the end of the list of agenda items other than agreeeing on a next meeting date.  Before we move one, are there any other items of old or new business the board needs to address today?
+20:46  * Overfiend_ laughs and weeps.
+20:47 < bdale> s/one/on/
+20:47 < Diziet> I would like to ask Maulkin to email the board about minutes that get added to the agenda.
+20:47 < Diziet> And indeed anything else.
+20:47 < jberkus> yes, what will it take to make sure that last week's e-mail outage never happens again?
+20:47 < Diziet> Anyone else who gets stuff put on the agenda ends up emailing board@ so you can follow stuff there.
+20:47 < Joey> We should add some pressure on the Spanish trademark issue, or it'll become rediculous.
+20:47 < schultmc> if i had full admin access i could've helped, rather than directing our current admins
+20:47 < Overfiend_> Can someone explain/reiterate what the actual mail problem was caused by?
+20:47 < bdale> Diziet: noted
+20:47 < Hydroxide> , regarding a next meeting date: Did you guys see the fact that Tuesdays 1900 UTC won't be any good for me at all this fall semester?
+20:47  * linuxpoet repeats his offer to help technologically if needed (has great references)
+20:48  * schultmc can send a summary to board@
+20:48 < Diziet> Joey: See ^ (in your lost scrool no doubt) where bdale volunteered to chase Greg about it.
+20:48 < bdale> schultmc: thanks
+20:48 < Hydroxide> I think I've emailed out my schedule in past mails
+20:48 < cdlu> ohh, another opportunity to open the meeting schedule can of worms. :)
+20:48 < Overfiend_> evenings UTC, Monday through Thursday are good for me
+20:48 < Diziet> linuxpoet: Who are you, JOOI ? :-)
+20:48 < bdale> schultmc: as part of taking on the admin team part of your VP responsibilities, reviewing the current state of spi-inc.org infrastructure and proposing any donations we should solicit, etc, to get to a state we're happy with makes good sense
+20:49 < schultmc> bdale: ok
+20:49 < Maulkin> Diziet: I'm not sure what you mean... there was a reminder on teh 8th, and one yesterday. Did you want the items actually attaching, or what? :)
+20:49 < cdlu> bdale, can we tentatively set the next meeting for the time stated? We can discuss alternatives on the list, but short of a time we all agree on, the status quo will remain.
+20:49 < Diziet> Maulkin: I mean that I don't want to get an email which says `please poll this web page to see what you might need to read'.
+20:49 < bdale> schultmc: I had a chat with Josh about it this morning, and regardless of how we got to where we are, as we take on more high-profile projects, we need to ensure we're not thinking of SPI intrastructure as an afterthought.
+20:50 < jberkus> xzilla, linuxpoet: my apologies for not straightening out the alias to board@.  Last week's e-mail outage kind of made it hard to test
+20:50 < Maulkin> Diziet: See the reminders.
+20:50 < cdlu> Hydroxide, I'm also assuming the end of DST will allow you to attend?
+20:50 < slef> I think I read a paper that said the most efficient meeting arranging was if president suggests 5 possible meeting times and the most popular one is used, but damned if I can find it.
+20:50 < Hydroxide> cdlu: not this time
+20:50 < schultmc> bdale: I agree.  I'd like our infrastructure to be managed better.  this transition went fairly poorly imho
+20:50 < bdale> ok, any other items can and should be brought to the lists
+20:50 < Hydroxide> cdlu: I'll be busy from 12 to 4 local time on Tuesdays
+20:50 < cdlu> ok
+20:50 < Overfiend_> Hydroxide: please state (un)availability in UTC :)
+20:50 < Diziet> Maulkin: Right, these reminders are an improvement.
+20:50 < bdale> board members, please see if we can't be a little more interactive with each other by email between meetings!  I'll try too.
+20:50 < jberkus> ok, adjorned?
+20:50 < Hydroxide> Overfiend_: I have in previous emails, which I'm trying to dig up now
+20:50 < cdlu> adjourn as soon as we schedule the next meeting
+20:50 < bdale> for the next board meeting, I like the 19th at 19:00
+20:50 < Ganneff> schultmc: get yourself and me admin then. :)
+20:51 < cdlu> otherwise the president will have to do a special call of it two weeks in advance :)
+20:51 < schultmc> Ganneff: working on it :)
+20:51 < bdale> we can discuss what happens after that by email.
+20:51  * Overfiend_ is fine with 09-19 @ 1900 UTC
+20:51 < Maulkin> I've got the next one as    7. Tuesday, September 19th, 2006
+20:51 < Maulkin> s/7. //
+20:51 < bdale> Maulkin: at 19:00 UTC?
+20:51 < jberkus> I'm good with that
+20:51 < cdlu> yep, sounds right.
+20:51 < Diziet> Fine by me.
+20:51 < Maulkin> Yup, sorry, 19:00 UTC
+20:51 < schultmc> fine by me
+20:51 < Hydroxide> bdale, Maulkin: consider this my regrets for that time
+20:51 < bdale> Hydroxide: so noted
+20:51 < Maulkin> Hydroxide: Okies
+20:51 < cdlu> has the gavel dropped?
+20:52 < Overfiend_> Hydroxide: the Bruce Perens attendance policy says you have to give notice less than 24 hours in advance, if at all.
+20:52  * Overfiend_ wags his finger.
+20:52 < Hydroxide> hehe
+20:52 < bdale> thanks everyone, we kept it under an hour even with novice officers...  ;-)  thanks, meeting adjourned until the 19th of Sept at 19:00 UTC

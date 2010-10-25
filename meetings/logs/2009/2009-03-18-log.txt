@@ -1,0 +1,276 @@
+16:00 < bdale> *GAVEL*
+16:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+16:00 < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-02-11.html
+16:00 < bdale> [item 2, Roll Call]
+16:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+16:00 < bdale> Guests (including board advisors), please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+16:00 < bdale> I believe we have regrets from Martin and Neil?
+16:00 < cdlu> David Graham
+16:00 < linuxpoet> Joshua D. Drake
+16:00 < schultmc> Michael Schultheiss
+16:00 < Ganneff> Joerg Jaspert
+16:00 < bdale> Bdale Garbee
+16:00 < Hydroxide> Jimmy Kaplowitz
+16:00 < Hydroxide> bdale: correct
+16:00 < bdale> cool, quorum reached
+16:00 < bdale> luk_: ?
+16:01 < schultmc> bdale: today's agenda is at http://www.spi-inc.org/secretary/agenda/2009/2009-03-18.html
+16:01 < bdale> oops
+16:01 < bdale> sorry about that
+16:01 < luk_> Luk Claes
+16:01 < bdale> un-edited cut'n'paste error
+16:01 < bdale> cool, everyone expected is now here... let's proceed
+16:01 < bdale> [item 3, President's Report]
+16:01 < bdale> I mentioned briefly last month that I was running for a seat on the Linux Foundation board representing individual affiliates.  Congratulations to Tim Golde
+16:01 < bdale> n was elected as a new board member, and Larry Augustin who was re-elected to another term.
+16:01 < bdale> I expect to attend both the CELF Embedded Linux Conference and LF Collaboration Summit in San Francisco next month.
+16:01 < bdale> [item 4, Treasurer's Report]
+16:01 < bdale> Michael?
+16:02 < schultmc> A report for February 2009 was sent out and is included in the agenda
+16:02 < schultmc> Several contributing members have expressed concern over the relatively large bank balance SPI has currently
+16:02 < bdale> schultmc: was I correct in my assertion about the general reserves line in email?
+16:03 < schultmc> bdale: yes, if I recall correctly
+16:03 < bdale> good
+16:03 < Hydroxide> seemed right to me too
+16:04 < schultmc> Regardless of SPI's own reserves, the associated projects should be encouraged not to build up reserves but instead use the funds that have been donated for their intended purpose
+16:04 < bdale> for the benefit of those here who didn't see the email exchange, I pointed out that only about 32k of the total is SPI's, the rest is held in trust for associated projects
+16:04 < bdale> schultmc: agreed
+16:04 < linuxpoet> agreed
+16:04 < jello> why does SPI require such a large reserve?
+16:04 < schultmc> That's all I have, unless there are questions
+16:04 < linuxpoet> jello: we don't "require"
+16:05 < bdale> there was a point in time when SPI was nearly out of cash, and needed to spend some money on things like financial record keeping assistance and tax reporting
+16:05 < jello> then why not reduce the 5% fee, if it's not required _at this time_
+16:05 < bdale> we can discuss that, preferably in email, and come to a resolution
+16:06 < jello> fair enough
+16:06 < linuxpoet> bdale: agreed
+16:06 < bdale> any other questions about the financial report?  
+16:06 < linuxpoet> I just want to say I am happy that we are getting them regularly now, good work.
+16:06 < cdlu> I would argue that a large financial reserve is not a bad idea to keep for SPI anyway, in the event of legal trouble or anything that requires a rapid outflow of a lot of cash. 
+16:07 < bdale> cdlu: yes, that's been my position too, but I'm happy to have some reasoned discussion on the topic possibly leading to a resolution
+16:07 < bdale> let's just not try to deep-dive on it here
+16:07 < cdlu> sure
+16:07 < bdale> schultmc: thanks from me, too, for the good work on getting reports out each month... *very* appreciated!
+16:07  * cdlu seconds
+16:07  * Hydroxide agrees
+16:07 < bdale> [item 5, Secretary's report]
+16:07 < bdale> Jimmy?
+16:07 < Hydroxide> nothing to add to what's in the agenda. I'll be glad to take any questions.
+16:08 < bdale> I have none.  anyone else?
+16:08 < cdlu> not I
+16:08 < bdale> [item 6, Outstanding minutes]
+16:08 < bdale> Jimmy, we have several sets to vote on today?
+16:08 < Hydroxide> yes
+16:08 < Hydroxide> regarding minutes, I'm happy to say that I've caught up on all the backlogged minutes from my term as Secretary! :) I'll do the remaining few details for the March 2008 minutes before the April meeting as well as check in with Martin regarding the June-August 2008 minutes.
+16:08 < bdale> woot!
+16:09 < linuxpoet> Cool.
+16:09  * bdale appreciates the progress being made
+16:09 < Hydroxide> so we have Dec 2008 through Feb 2009 to vote on today
+16:09 < Hydroxide> do you want to do them individually or en masse?
+16:09  * cdlu reminds Hydroxide that the first year as secretary is always good, and the second year is always bad
+16:09 < cdlu> who wants the job in july? :)
+16:09 < Hydroxide> cdlu: I'm not planning to continue as secretary, no worries :)
+16:09 < schultmc> Hydroxide: individually - I was absent for January 2009
+16:09 < Hydroxide> schultmc: ok
+16:10 < Hydroxide> Voting started, 7 people (bdale,hydroxide,cdlu,linuxpoet,schultmc,ganneff,luk_) allowed to vote on Approve December 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:10 < cdlu> !vote yes
+16:10 < schultmc> !vote yes
+16:10 < luk_> !vote yes
+16:10 < Hydroxide> !vote yes
+16:10 < linuxpoet> !vote yes
+16:10 < Ganneff> !vote yes
+16:10 < bdale> !vote yes
+16:10 < Hydroxide> Current voting results for "Approve December 2008 minutes": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+16:10 < Hydroxide> Voting for "Approve December 2008 minutes" closed.
+16:10 < Hydroxide> unanimously passes.
+16:10 < Hydroxide> Voting started, 7 people (bdale,hydroxide,cdlu,linuxpoet,schultmc,ganneff,luk_) allowed to vote on Approve January 2009 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:10 < cdlu> !vote yes
+16:10 < Ganneff> !vote yes
+16:10 < luk_> !vote yes
+16:10 < bdale> !vote abstain
+16:10 < schultmc> !vote abstain
+16:10 < Hydroxide> !vote yes
+16:11  * louis_to abstains
+16:11 < Hydroxide> linuxpoet: ?
+16:11 < linuxpoet> !vote yes
+16:11  * linuxpoet was reading
+16:11 < Hydroxide> no problem
+16:11 < Hydroxide> Current voting results for "Approve January 2009 minutes": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+16:11 < Hydroxide> Voting for "Approve January 2009 minutes" closed.
+16:11 < Hydroxide> Voting started, 7 people (bdale,hydroxide,cdlu,linuxpoet,schultmc,ganneff,luk_) allowed to vote on Approve February 2009 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:11 < Ganneff> !vote yes
+16:11 < Hydroxide> !vote yes
+16:11 < bdale> !vote yes
+16:11 < luk_> !vote yes
+16:11 < cdlu> !vote abstain
+16:11 < linuxpoet> !vote yes
+16:12 < schultmc> !vote yes
+16:12 < Hydroxide> Current voting results for "Approve February 2009 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+16:12 < Hydroxide> Voting for "Approve February 2009 minutes" closed.
+16:12 < Hydroxide> all approved. yay.
+16:12 < bdale> and we'll address the ones Martin is working on next time?
+16:12 < Ganneff> the march one seems to be ready?
+16:12 < Hydroxide> to whatever extent he makes progress on them, yes. or else I'll start to catch up.
+16:12 < Ganneff> besides its non-html-ified look
+16:13 < Hydroxide> Ganneff: I have to do one or two tasks regarding that, like dig up the text of a resolution
+16:13 < cdlu> registered guests not listed apparently
+16:13 < Hydroxide> Ganneff: so I'll have that one for April
+16:13 < Ganneff> well fine.
+16:13 < bdale> ok, let's defer for next time
+16:13 < Hydroxide> yes
+16:13 < bdale> moving right along...
+16:13 < bdale> [item 7, Items up for discussion]
+16:13 < bdale> [item 7.1, Resolution 2009-03-18.mcs.1 - Update Ameriprise's owner list]
+16:13 < bdale> Michael?
+16:13 < schultmc> this is fairly routine and is necessary to reflect changes in our board makeup and inform Ameriprise of those changes
+16:14 < bdale> looks fine to me
+16:14 < bdale> any discussion?
+16:14  * cdlu read it and is prepared to vote
+16:14  * Hydroxide seconds the call to vote
+16:14 < Hydroxide> Voting started, 7 people (bdale,hydroxide,cdlu,linuxpoet,schultmc,ganneff,luk_) allowed to vote on Resolution 2009-03-18.mcs.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:14 < schultmc> !vote yes
+16:14 < bdale> !vote yes
+16:14 < Hydroxide> !vote yes
+16:14 < Ganneff> !vote yes
+16:14 < luk_> !vote yes
+16:14 < cdlu> !vote yes
+16:15 < linuxpoet> !vote yes
+16:15 < Hydroxide> Current voting results for "Resolution 2009-03-18.mcs.1": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+16:15 < Hydroxide> Voting for "Resolution 2009-03-18.mcs.1" closed.
+16:15 < Hydroxide> passed.
+16:15 < bdale> great
+16:15 < bdale> [item 7.2, Resolution 2009-03-16.jrk.1.iwj.1: OpenWRT as associated project]
+16:15 < bdale> Jimmy?
+16:15 < bdale> oops, another icky typo
+16:15  * bdale whacks himself ... sorry
+16:16 < bdale> oh
+16:16 < Hydroxide> this one has been discussed a bunch on the list. I agree that many of this resolution's flaws mentioned there are valid, but I still think it's workable enough to approve
+16:16 < Hydroxide> if anyone from OpenWRT is here, please speak up
+16:16 < bdale> maybe not... what's with the rsolution suffix?  is this an iwj modification of a jrk proposal?
+16:16 < schultmc> bdale: yes
+16:16 < bdale> ok
+16:16 < Hydroxide> bdale: really it's a jrk modification of a iwj modification of a jrk proposal
+16:16 < Hydroxide> bdale: but I didn't want to get too unwieldy
+16:16  * linuxpoet laughs
+16:17 < bdale> ok, in future, just increment the suffix number and don't do this concat thing, makes my brain hurt
+16:17 < Hydroxide> heh
+16:17 < luk_> what nick names do the OpenWRT people use, anyone an idea?
+16:17 < Hydroxide> we should standardize resolution numbers anyway - sometimes punctuation has been inconsistent
+16:17 < Hydroxide> glp is Gregers Petersen, but he's not here
+16:17 < Hydroxide> I *hope* he's on spi-general but I dunno
+16:17 < cdlu> hydroxide, there is a resolution defining resolution titles
+16:17 < cdlu> erm, designations
+16:17 < cdlu> check under 2001 :)
+16:18 < Hydroxide> cdlu: I will :) later though
+16:18 < bdale> so, to summarize my contributions to previous discussion.  I support adding OpenWRT as an associated project.  I don't like the complexity of (5) in the current resolution and the ripple effect it has on the rest of the resolution, and would prefer a single identified contact.
+16:18 < luk_> right, is also what I'm thinking
+16:18 < Hydroxide> we could just make Gregers Petersen the identified contact
+16:18 < linuxpoet> I too support adding OpenWRT however I do not like the way the resolution reads
+16:18 < Hydroxide> since we've never heard from Andy Boyett
+16:18 < linuxpoet> Hydroxide: I don't think we can do that without talking to OpenWRT though can we?
+16:19 < luk_> sure we can, they have to accept or deny anyway
+16:19 < bdale> we can resolve anything, OpenWRT has the option of not accepting the invite and asking us to try again, right?
+16:19 < Hydroxide> linuxpoet: dunno. would anyone object to passing it as is and then requiring them to figure out a single identified contact, which we would then specify via an amended resolution?
+16:19 < Hydroxide> or we can just specify Gregers
+16:19 < Hydroxide> since he's the only one we've heard from at all
+16:19 < bdale> I'd prefer the latter, I think.
+16:20 < linuxpoet> I am not in favor of passing the resolution unless it has a single contact
+16:20  * schultmc also prefers the latter
+16:20 < Ganneff> i would vote against the current thing
+16:20  * luk_ also prefers the latter
+16:20 < bdale> seems like we're approaching a concensus
+16:20 < Hydroxide> one sec, let me pull up an email...
+16:20 < cdlu> hydroxide, proper procedure here would be to vote to have #5 and #6 amended (you can make the actual changes after the meeting) to reflect a single representative
+16:20 < cdlu> and then vote on the amended (or not) resolution
+16:20 < bdale> want me to so move?
+16:20 < cdlu> we don't need to amend it in advance as long as the instruction to make it for a single contact is clear
+16:20 < cdlu> bdale, sure, and I so second.
+16:20 < Hydroxide> wait
+16:21  * cdlu turns blue
+16:21 < Hydroxide> I replace my proposal with Ian's proposal here: http://lists.spi-inc.org/pipermail/spi-general/2009-March/002737.html and then replace "Andy Boyett and Gregers Petersen" with "Gregers Petersen", then make appropriate grammatical changes
+16:21 < Hydroxide> (s/have been/has been/ and s/liaisons/the liaison/)
+16:21 < cdlu> correct, and append clause #6 to not say everyone, 'cause there's only one
+16:22 < cdlu> but those are trivial changes and don't need us to argue over wording
+16:22 < cdlu> imo
+16:22 < linuxpoet> I could live with that
+16:22 < Hydroxide> cdlu: in the version at the URL I gave it's the usual wording
+16:22 < cdlu> works for me :)
+16:22 < Hydroxide> and I'll number it 2009-03-18.jrk.1
+16:22 < bdale> Hydroxide: I'm ok with your proposal to use that version with only Gregers as contact
+16:22 < cdlu> shall we vote on the amendment or is it friendly? :)
+16:22 < Hydroxide> just for consistency with schultmc's which was submitted in advance
+16:23 < Hydroxide> it's friendly
+16:23 < cdlu> 'k
+16:23 < Hydroxide> ready to vote?
+16:23 < bdale> so I move we vote 
+16:23 < linuxpoet> second
+16:23 < Hydroxide> seconded
+16:23  * cdlu thirds
+16:23 < Ganneff> 4th
+16:23 < Ganneff> :)
+16:23 < Hydroxide> Voting started, 7 people (bdale,hydroxide,cdlu,linuxpoet,schultmc,ganneff,luk_) allowed to vote on Resolution 2009-03-18.jrk.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:23 < linuxpoet> !vote yes
+16:23 < cdlu> !vote yes
+16:23 < Ganneff> !vote yes
+16:23 < bdale> !vote yes
+16:23 < schultmc> !vote yes
+16:23 < Hydroxide> !vote yes
+16:23 < luk_> !vote yes
+16:23  * cdlu loves voting on unwritten resolutions. It's like town council. :)
+16:23 < Hydroxide> cdlu: at least it's clearly specified
+16:24 < Hydroxide> cdlu: in the log of this meeting
+16:24 < cdlu> yep
+16:24  * linuxpoet would rather vote on unwritten versus unread :P
+16:24 < bdale> Hydroxide: I assume you'll notify Gregers of the invitation?
+16:24 < cdlu> linuxpoet, hahah
+16:24 < Hydroxide> bdale: yes
+16:24 < Hydroxide> Current voting results for "Resolution 2009-03-18.jrk.1": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+16:24 < Hydroxide> Voting for "Resolution 2009-03-18.jrk.1" closed.
+16:24 < Hydroxide> yay.
+16:24 < Hydroxide> they're approved.
+16:24 < Ganneff> linuxpoet: what, we have to read something?
+16:24 < bdale> [item 8, Any other business]
+16:24 < bdale> Do any board members have other items for discussion they would like to address briefly?
+16:24 < linuxpoet> I have a couple of things
+16:25 < slef> cdlu: town councils here aren't allowed to do that ;)
+16:25  * cdlu is still available for hire if anyone wants him... but other than that, no. :)
+16:25 < cdlu> slef, here they do it all the time. the city clerk sits there and frantically writes all the resolutions as the meeting progresses. :)
+16:25 < linuxpoet> I requested calling out to members for help with the membership application. I have heard no grumblings one way or another. Thoughts?
+16:25 < Hydroxide> linuxpoet: I don't object, though keep membership@s-i.o and admin@s-i.o in the loop
+16:25 < cdlu> who's membership ctte these days?
+16:25 < Hydroxide> linuxpoet: (admin@ handles sysadmin stuff)
+16:25 < schultmc> cdlu: schultmc, Maulkin and luk
+16:26 < cdlu> k
+16:26 < bdale> anything else?
+16:26 < Hydroxide> linuxpoet: and board@ preferably, though not necessarily on every email
+16:26 < linuxpoet> I also wanted to know the status of the new web site
+16:26 < Hydroxide> linuxpoet: unchanged since last meeting. we've all been otherwise occupied unfortunately.
+16:26 < linuxpoet> O.k. that is all I have.
+16:26 < bdale> [item 9, Next board meeting]
+16:26 < bdale> I believe our default would be Wednesday, April 15th, 2009.  That date is ok for me, but We need to decide on 19:00 vs 20:00 UTC.  Any strong opinions?
+16:27  * Hydroxide notes that the EU will be on summer time by then
+16:27 < Ganneff> 20utc
+16:27 < linuxpoet> When did we do it then?
+16:27 < linuxpoet> err now
+16:27 < Ganneff> dont care about idiotic time moves please
+16:27 < Hydroxide> linuxpoet: it's currently 20:00 UTC.
+16:27 < linuxpoet> O.k. I am good with 20:00
+16:27 < bdale> 20:00 works fine for me
+16:27 < bdale> any strong objections?
+16:27 < cdlu> not from me
+16:27 < Hydroxide> I think someone did who isn't here
+16:27 < Hydroxide> but, tough luck to them :)
+16:27 < linuxpoet> snooze you lose
+16:28 < bdale> right
+16:28 < Hydroxide> yes
+16:28 < schultmc> 20:00 works for me although I occasionally have conflicts at 21:00
+16:28 < cdlu> yes, people who can't make it to meetings have a lot of trouble arguing their case for different times. :)
+16:28 < Hydroxide> 20:00 is fine with me
+16:28 < Hydroxide> cdlu: zobel has a pretty good reason this time, which he told me privately
+16:28 < bdale> ok, then let's do 15th April at 20:00 UTC
+16:28 < Hydroxide> but, yes
+16:28 < Ganneff> cdlu: they now get it an hour different in their local time :)
+16:28 < bdale> I know zobel's reason for today, too, and agree it's a good use of his time
+16:28 < cdlu> can we move to abolish DST? :)
+16:28 < bdale> Ok, thank you to everyone present for participating today.
+16:28 < bdale> *GAVEL*

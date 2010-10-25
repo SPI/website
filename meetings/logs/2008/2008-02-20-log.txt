@@ -1,0 +1,98 @@
+19:02 < Ganneff> *GAVEL*
+19:02 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+19:02 < Ganneff> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2008/2008-02-20.html
+19:02 < Ganneff> [item 2, Roll Call]
+19:02 < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to Maulkin if you wish your attendance to be recorded in the minutes of this meeting.
+19:02 < Maulkin> Neil McGovern
+19:02 < cdlu> David Graham
+19:02 < schultmc> Michael Schultheiss
+19:02 < Ganneff> Joerg Jaspert
+19:02 < cdlu> 4/6
+19:02 < linuxpoet> Joshua Drake
+19:03 < cdlu> 5...
+19:03  * Maulkin waits
+19:03 < Ganneff> ok. there, i could go on. :)
+19:03 < cdlu> anyone have bdale's number? get ahold of him and he can attend by phone. :)
+19:04 < Ganneff> seems like we dont get quorum.
+19:04 < weasel> too bad
+19:04 < schultmc> there's a phone # listed in db.debian.org
+19:04 < Ganneff> item 7 would have been interesting
+19:04  * schultmc can call
+19:04  * Ganneff gives it 3 more minutes
+19:05 < Maulkin> Someone call him :)
+19:05  * Maulkin is running out of time :P
+19:05  * schultmc calls
+19:05 < Maulkin> Thanks Michael :)
+19:05 < schultmc> straight to voice mail
+19:05 < schultmc> heh
+19:05 < mc> n1
+19:05 < schultmc> the mailbox for...Bdale Garbee...is full
+19:05 < linuxpoet> That... is not a good sign
+19:06 < cdlu> how about berkus? linuxpoet, want to call him and see if he can give us one last hurrah?
+19:06 < linuxpoet> sure
+19:06 < cdlu> thanks
+19:06  * Maulkin says give it until 19:10.
+19:06 < linuxpoet> 30 seconds?
+19:06 < Maulkin> Eh?
+19:06 < cdlu> our by-laws are poorly enough written that our quorum requirements do not require a quorum of board members to attend at any one time, only to be present at some point during the meeting
+19:06  * Maulkin hands linuxpoet ntp
+19:07 < Maulkin> Wed Feb 20 19:07:01 GMT 2008
+19:07 < linuxpoet> voicemail
+19:07 < cdlu> damn
+19:07 < cdlu> the other two are regretted.
+19:07  * Maulkin nods
+19:07 < Maulkin> zobel for a damn good reason too. :)
+19:07 < cdlu> Maulkin, update colour-coded attendance record accordingly? :)
+19:07 < cdlu> yeah, making future board members.
+19:07 < linuxpoet> would we have made quorum if xzilla and Hydroxide were on board :P
+19:07 < xzilla> Hydroxide: i can play berkus if you want to play bdale
+19:07 < Ganneff> yay for cooking and chairing a meeting at the same time. :)
+19:07 < slef> cdlu: what do they say about quorum-wait and meeting postponements?
+19:07 < Hydroxide> can we text-message someone?
+19:07 < Hydroxide> if voicemail is full, I mean
+19:07 < cdlu> slef, a lesser number can postpone a meeting... that's about it.
+19:07 < linuxpoet> text is going to be the same is voicemail
+19:07 < linuxpoet> Hydroxide: oh... yeah probably
+19:08 < Maulkin> regrets, partially basent, absent, present, and 'feeding child' ?
+19:08 < mc> heh
+19:08 < linuxpoet> I say... we postpone for one week
+19:08 < Hydroxide> I'd say let's wait until at least 19;15
+19:08 < slef> did he blog it or are we leaking?
+19:08 < Hydroxide> 19:15
+19:08 < linuxpoet> same time, say place, same bat channel
+19:08 < Ganneff> Hydroxide: no. :10
+19:08 < linuxpoet> I agree :10
+19:08  * schultmc has a conflict next wednesday at this time
+19:08 < Ganneff> we doodle.ch that out, i sent a link to -board later today
+19:08 < schultmc> I can possibly participate
+19:08 < Hydroxide> slef: it was previously discussed in #spi with zobel as a participant, I believe
+19:09 < Maulkin> 19:34 -!- Irssi: Join to #spi was synced in 122 secs
+19:09 < Maulkin> 21:18 < zobel> baby came today, i won't attent tomorrows meetings, sorry.
+19:09 < Ganneff> for wednesday a few times, thursday and tuesday too.
+19:09 < mc> hihi
+19:09 < cdlu> maulkin, in the interim we should move to email resolution to appoint a new board member... if we had the new one in place now this meeting would be quorate.
+19:09 < mc> kids
+19:09 < mc> ,
+19:09 < mc> ++
+19:09 < Hydroxide> cdlu: that would require unanimity amoung all 9 board members
+19:09 < cdlu> hydroxide, if we don't get it we don't get it. it can't hurt to try.
+19:09 < jcristau> slef: also, http://blog.zobel.ftbfs.de/debian/how-to-release-properly
+19:10 < Ganneff> fine for -board.
+19:10 < Maulkin> (mc is on mobile, ignore him :P)
+19:10 < Hydroxide> cdlu: just mentioning.
+19:10 < linuxpoet> I would like more discussion on the matter. 
+19:10 < linuxpoet> I raised some concerns on board that at this point have been ignored
+19:10 < mc> thanks maulkin :)
+19:10 < Maulkin> Well, if we put if off for another 2 months, it won't matter :)
+19:10 < cdlu> http://www.spi-inc.org/corporate/resolutions/2004-10-15-dbg.1
+19:11 < cdlu> those are the rules for non-meeting voting.
+19:11 < cdlu> maulkin, there is that. :)
+19:11 < Hydroxide> Maulkin: more than 2, right?
+19:11 < Ganneff> still under quorum and no hope to get more, i close the meeting and postpone it a week. will sent mail to the list so we can decide on an exact date/time, but next wednesday is a good start i think.
+19:11 < Ganneff> comments?
+19:11 < Hydroxide> Maulkin: the new board doesn't start until late july
+19:11 < Ganneff> 5 .................. 4
+19:11 < Maulkin> Hydroxide: 2 + some.
+19:11 < Ganneff> 3
+19:11 < Maulkin> Ganneff: now + 7 days, ack
+19:11 < Ganneff> *GAVEL*

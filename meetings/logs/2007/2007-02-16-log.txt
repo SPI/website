@@ -1,0 +1,606 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+20:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+20:00 < bdale> and details of pending resolutions can be found on the web at:
+20:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-02-16.html
+20:00 < bdale>  
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board
+20:00 < bdale> members, quorum for today's meeting is six.  Guests, please /msg your names
+20:00 < bdale> to Maulkin if you wish your attendance to be recorded in the minutes of this
+20:00 < bdale> meeting.
+20:00 < Overfiend> jberkus: if money got diverted to rebels in Chiapas, we might have a problem :)
+20:00 < Maulkin> Neil McGovern
+20:00 < cdlu> David Graham
+20:00 < Hydroxide> Jimmy Kaplowitz
+20:00 < schultmc> Michael Schultheiss
+20:00 < Overfiend> Branden Robinson
+20:00 < bdale> Bdale Garbee
+20:00 < cdlu> quorum.
+20:00 < bdale> Neil, I see regrets from Joey and Jimmy in the agenda, is that still correct?
+20:00 < bdale> I see Jimmy is here
+20:00 < Hydroxide> bdale: I'm here. my regrets were tentative
+20:00 < Hydroxide> bdale: although I did submit them
+20:01 < Hydroxide> bdale: it turned out that I was able to attend
+20:01 < bdale> Hydroxide: right, I saw your email.  hopefully we'll be done in time for you to get where you're going next.
+20:01 < Maulkin> bdale: yup, though Hydroxide is here
+20:01 -!- iwj [~ian@xenophobe.extern.relativity.greenend.org.uk] has joined #spi
+20:01 < Hydroxide> bdale: if it's under an hour, we'll be fine
+20:01 -!- iwj is now known as IanJackson
+20:01 < bdale> Maulkin: ok, thanks
+20:01 < IanJackson> Sorry I'm late.
+20:01 < Hydroxide> IanJackson: we're still doing roll call
+20:01 < Maulkin> < IanJackson> Ian Jackson
+20:01 < IanJackson> Hydroxide: Good :-).
+20:01 < Maulkin> We missing anyone?
+20:01 < bdale> Maulkin: that's everyone then?
+20:02 < bdale> ok, let's proceed
+20:02 -!- slef [~mjr@86.53.37.59] has quit [Read error: Connection reset by peer]
+20:02 < Maulkin> jberkus?
+20:02 < jberkus> what?
+20:02 < bdale> jberkus: state your name for the record
+20:02 < jberkus> Josh Berkus
+20:03 < bdale> ok, thanks
+20:03 < bdale> [item 3, President's Report]
+20:03 < bdale> Nothing significant to report this month.
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Josh, thanks for the report you submitted this month, shows clear evidence of
+20:03 < bdale> the progress you've been making!  You have the floor.
+20:03 < jberkus> Yes, I'm very excited about being so close to having a set of books
+20:03  * Hydroxide concurs
+20:03  * Maulkin thanks jberkus for the amazing work :)
+20:03 < jberkus> just a few things to add to the report:
+20:04 < jberkus> see e-mail from 40 minutes ago regarding January income and questions about how to report income
+20:04 -!- slef [~mjr@86.53.37.59] has joined #spi
+20:04 < IanJackson> jberkus: I'm afraid I haven't read that.
+20:04 < bdale> nor have I
+20:05 < Overfiend> Jimmy had a fairly elaborate reply
+20:05 < Overfiend> which he plans to further elaborate
+20:05 < jberkus> secondly, I will be working with the CPA, schultmc and other relevant parties about how to get this into a proper accounting system for our 2006 taxes
+20:05 < jberkus> and beyond
+20:05 < Hydroxide> well, upon request at a more convenient time, yes, though there are lots of other references on the same topic
+20:05 < Hydroxide> i.e. accural-based accounting
+20:05 -!- azeem [~mbanck@host109.natpool.mwn.de] has quit [Ping timeout: 480 seconds]
+20:05 < Hydroxide> s/accural/accrual/
+20:05 < jberkus> if anyone on the board wants to be involved in that let me know
+20:06 < jberkus> Hydroxide: it's not a question of how we do our actual accounting, this is a question of how I report it to the project leads/membership
+20:06 < bdale> jberkus: I'd like to understand our working relationship with the accounting firm at some point after it's established, willing to help if you need help in getting to that point
+20:06 -!- slef [~mjr@86.53.37.59] has quit [Read error: Connection reset by peer]
+20:06 < Hydroxide> jberkus: given that the accural-based accounting indicates both how much cash we have and how much money we are owed, we can use that method even for our member/project reports
+20:06 < Maulkin> Ditto
+20:06 < jberkus> anyway, that can proceed by e-mail
+20:07 < bdale> jberkus: ok
+20:07 < bdale> jberkus: anything else today?
+20:07 < jberkus> yes, I'm also planning on spending some money on software development/support
+20:07 < xzilla>  /msg Maulkin Robert Treat (postgresql rep)
+20:07 < jberkus> which I believe is covered under "anything we need for our taxes"
+20:07 < bdale> jberkus: is that something you'll elaborate on in email, or do we need to take any action today?
+20:07 -!- slef [~mjr@86.53.37.59] has joined #spi
+20:08 < jberkus> no action required
+20:08 < bdale> jberkus: ok, thanks again for the report
+20:08 < Ganneff> dont we run ledgersmb to make accountiing easier/better?
+20:08 < bdale> [item 5, Secretary's report]
+20:08 < bdale> Neil?
+20:08 < Maulkin> It's customary, but not required to vote on the reports btw.
+20:08 < jberkus> Ganneff: let's take that up by e-mail later
+20:08 < Maulkin> Do we want to do that? :)
+20:08 < bdale> Maulkin: we can
+20:08 < Maulkin> okies...
+20:08 < IanJackson> We should accept the report.
+20:09  * Hydroxide moves to vote to accept the treasurer's report
+20:09  * Overfiend seconds
+20:09 < IanJackson> But can that be done by acclamation ?
+20:09 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Approve treasurer's report. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:09 < Hydroxide> !vote yes
+20:09 < IanJackson> !vote yesxd
+20:09 < IanJackson> !vote yes
+20:09 < jberkus> !vote yes
+20:09 < Overfiend> uhhhh
+20:09 < cdlu> !vote yes
+20:09 < IanJackson> That'll do.
+20:09 < Maulkin> !vote yes
+20:09 < schultmc> !vote yes
+20:09 < Overfiend> shouldn't the president CFV?
+20:09 < Hydroxide> Overfiend: ?
+20:09 < bdale> IanJackson: let's discuss process for the future by email, vote to accept today
+20:09 < Overfiend> anyway
+20:09 < bdale> !vote yes
+20:09 < Overfiend> !vote yes
+20:09 < IanJackson> bdale: Sure.
+20:09 < Maulkin> Current voting results for "Approve treasurer's report": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:09 < Maulkin> Voting for "Approve treasurer's report" closed.
+20:09 < Maulkin> 8:0:0
+20:09 < Hydroxide> Overfiend: it doesn't matter who makes the motion, and having the secretary start the vote is reasonable too
+20:09 < Overfiend> I'm all for expediency, but the meeting chair is supposed to control it.
+20:09 < Hydroxide> let's go on
+20:09 < Overfiend> anyway
+20:09 < bdale> Maulkin: ok, thanks.  floor is now really yours for secretary report
+20:10 < cdlu> overfiend's point of orderis correct, but I can assume from the unanimous vote that noone minds :)
+20:10 < IanJackson> Let's not stand on ceremony too much.  Provided anyone can call a halt if we're going too fast, it benefits us all to carry on.
+20:10 < bdale> I'll work on my script for next month
+20:10 < Maulkin> Two votes, one for marking Josh as with-regrets in the Jan '07 minutes, and one for those minutes
+20:10 < bdale> Maulkin: this is secretary's report, you had minutes at item 7
+20:10  * cdlu moves to accept Josh's regrets
+20:10 < Maulkin> oh, damn
+20:11 < Maulkin> Sorry
+20:11  * cdlu unmoves
+20:11 < bdale> Maulkin: I Was going to ask you before next time if those shouldn't be combined
+20:11 < Maulkin> Right: There's been a mail which is on spi-general. All other communication has been resolutions and on public lists
+20:11 < Maulkin> <end>
+20:11 < bdale> ok, I don't think we need to vote to accept that report...
+20:11  * Maulkin nods
+20:12 < bdale> [item 6, Spanish Trademark report]
+20:12 < bdale> Neil?
+20:12 < Maulkin> No further follow up to what's on the agenda
+20:12 < Maulkin> I hope to have more next meeting :)
+20:12 < bdale> Maulkin: my only comment on this would be that our resolution was intended to acknowledge/convey some sense of urgency, so please keep after this
+20:12  * Maulkin nods
+20:12  * Hydroxide agrees
+20:12 < bdale> [item 7, Outstanding minutes]
+20:12 < bdale> Neil, what's ready for us today?
+20:12 < Maulkin> Two votes, one for marking Josh as with-regrets in the Jan '07 minutes, and one for those minutes.
+20:13 < cdlu> those should per the absence policy be separate votes
+20:13  * cdlu moves to accept josh's regrets
+20:13  * bdale seconds
+20:13  * schultmc seconds
+20:13 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Mark Josh Berkus as absent with regrets in January 16th 2006 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < Overfiend> !vote yes
+20:13 < Maulkin> !vote yes
+20:13 < IanJackson> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < cdlu> !vote yes
+20:13 < bdale> !vote yes
+20:13 < jberkus> do I vote?
+20:13 < Maulkin> jberkus: I'd suggest abstaining :)
+20:13 < cdlu> jberkus, unless you don't have confidence in your own regrets :)
+20:13 < IanJackson> jberkus: I think you're allowed to.
+20:13 < bdale> jberkus: abstain
+20:13 < jberkus> !vote abstain
+20:14 < Maulkin> Current voting results for "Mark Josh Berkus as absent with regrets in January 16th 2006 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( hydroxide )
+20:14 < bdale> ok, good enough
+20:14 < Maulkin> Current voting results for "Mark Josh Berkus as absent with regrets in January 16th 2006 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( hydroxide )
+20:14 < Maulkin> Voting for "Mark Josh Berkus as absent with regrets in January 16th 2006 minutes" closed.
+20:14 < Maulkin> Now, the actual minutes, as amended :)
+20:14  * cdlu moves to accept the minutes for the january meeting as amended
+20:15  * Overfiend seconds
+20:15  * schultmc seconds
+20:15 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Approve January 16th 2006 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:15 < cdlu> !vote yes
+20:15 < Overfiend> !vote yes
+20:15 < schultmc> !vote yes
+20:15 < Maulkin> !vote yes
+20:15 < IanJackson> !vote yes
+20:15 < bdale> !vote yes
+20:15 < Hydroxide> !vote yes
+20:15 < jberkus> !vote abstain
+20:15 < Maulkin> Current voting results for "Approve January 16th 2006 minutes": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:15 < Maulkin> Voting for "Approve January 16th 2006 minutes" closed.
+20:15 < cdlu> Hydroxide, vote on the amendment too ;) otherwise you might be marked 'Present, with exception, with regrets' :p
+20:15 < bdale> thanks everyone
+20:15 < Maulkin> That's it for this month :)
+20:15 < bdale> [item 8, Items up for discussion]
+20:15 < bdale> [item 8.1, Member communications]
+20:15 < bdale> We have a resolution, and a proposed amendment/replacement for that
+20:15 < bdale> resolution.  Are we ready to vote, or would someone on the board like to
+20:15 < bdale> lead any additional discussion here first?
+20:15 < IanJackson> I need to speak.
+20:16 < bdale> IanJackson: ok, go ahead
+20:16 < Hydroxide> Maulkin: could you change my vote from missing to yes on marking Josh as absent with regrets?
+20:16 < IanJackson> Firstly, I would like to point out that the draft 2007-01-16.iwj.1 as on the agenda page does not incorporate my full intended text because it doesn't incorporate my change in <17837.8773.980106.152136@chiark.greenend.org.uk>
+20:16 < Maulkin> Hydroxide: noted, and wilco
+20:16 < IanJackson> on Tue, 16 Jan 2007 19:06:45 +0000, with the additional text as follows:
+20:16 < Hydroxide> cdlu: is that the vote you meant?
+20:16 < cdlu> Hydroxide, yes.
+20:16 < Hydroxide> cdlu: good.
+20:16 < IanJackson> After `text to be considered' add:   Agenda items which consist of reports to the board or to the membership should come with the complete text of the report as it is to be considered by the board, by this same deadline
+20:17 < IanJackson> Apologies for not spotting this lapse earlier.
+20:17 < Maulkin> IanJackson: I can't see that
+20:17 < cdlu> Ian, I would s/should/shall/
+20:17  * Maulkin goes to find
+20:17 < cdlu> should is horribly ambiguous in a resolution
+20:17 < IanJackson> The rest of the paragraph says `should' but I don't really care.
+20:17 < IanJackson> And anyway you are requested to incorporate a timetable `resembling' this one so you get to fix the wording.
+20:18 < IanJackson> I would like to move my thus-amended amendment.
+20:18 < IanJackson> Does anyone have any other comments on it ?
+20:18 < bdale> any other discussion?
+20:18 < Hydroxide> yes
+20:18 < bdale> Hydroxide: go
+20:18 < Hydroxide> slef: do you have any comments before we vote given that it's amending your resolution? (not too long please)
+20:18 < IanJackson> For the avoidance of any doubt, this motion is to replace the proposed text of 2006-12-18.mjr.iwj.1 with my different text.
+20:19 < bdale> IanJackson: thanks, I understood it that way
+20:19 < Hydroxide> if he's not here, we can proceed, but I thought I'd ask him
+20:19 < slef> Hydroxide: I mourn the loss of the web-related parts, but Ian Jackson's amendment is an improvement over the current practice as it's developed
+20:19 < IanJackson> Not that any board member has proposed MJR's text.
+20:19 < Maulkin> IanJackson: Just so I understand, is this askign for the full text of the items to be attached to the agenda mail?
+20:19 < Maulkin> IanJackson: you did, last meeting :)
+20:19 < slef> I didn't think he did.
+20:19 < jberkus> hmmm
+20:19 < IanJackson> No, I don't support slef's text as he proposed it.
+20:19 < Hydroxide> slef: thanks for the comments.
+20:20 < IanJackson> But there are some useful stuff there.
+20:20  * slef shrugs and mutes
+20:20 < jberkus> that doesn't seem necessary as long as the item shows up in e-mail somehow
+20:20 < IanJackson> Maulkin: Full text> yes, that's one of the things I'm asking for.
+20:20  * Hydroxide personally thinks the web stuff is not necessary to be part of a resolution and can be simple communication between those requesting it and admin@spi-inc.org
+20:20 < bdale> IanJackson: I personally prefer the agenda emails refer to the web site for full texts.  agree?
+20:20 < IanJackson> What Hydroxide says.
+20:20 < IanJackson> bdale: No, I disagree.
+20:20 < schultmc> Hydroxide: s/admin/webmaster/
+20:20 < Maulkin> hrm... ok. Personally, I disagree with that bit. Would you consider that as a seperate vote?
+20:20  * cdlu doesn't strictly see a need for this resolution either in its original or amended form, but will not vote against
+20:21 < Hydroxide> schultmc: ah, correct, sorry for the confusion
+20:21 < IanJackson> This is because web pages are not a timestamped, fixed-content publication medium.
+20:21 < jberkus> IanJackson: what if they were?
+20:21 < IanJackson> That is, it is not possible afterwards for an independent observer to see what was on a particular page at a particular time.
+20:21 < Maulkin> IanJackson: considering that the items have to be sent to the lists anyway, I'm not sure there's a need.
+20:21 < jberkus> like, what if we set up wikimedia?
+20:21 < bdale> IanJackson: ok, I understand
+20:21 < Ganneff> brrrr.
+20:22  * Maulkin would prefer the 'amendment to the amendment' to be a seperate vote, if you don't mind Ian
+20:22 < bdale> being able to review the agenda in detail offline (on a plane) would be an advantage to me, too
+20:22 < Overfiend> does inlining the full text of all materials to be voted on include the previous meeting's minutes?
+20:22 < Hydroxide> how about the text gets included in the emails and also posted on the website, with any changes marked separately on the website with a vote required to treat them as emergency?
+20:22 < IanJackson> I would be happy with a reference to a specific email sent to the same place as the agenda.
+20:22 < IanJackson> Maulkin: You're confused.
+20:22 < Maulkin> Cause I don't like that bit, but I'm happy with the rest of it.
+20:22 < IanJackson> Just a moment.
+20:22 < jberkus> IanJackson: that seems reasonable
+20:22 < IanJackson> Maulkin: the amendment to the amendment is _separate_ to the thing about linking vs. including.
+20:22 < jberkus> bdale: if only I could get disconnected IMAP to work
+20:23 < bdale> normally, with this much discussion I'd suggest we defer this to list discussion and put it on the agenda again next month.  Given were we are in the agenda, I'm willing to continue if the rest of the board does?
+20:23 < IanJackson> The amendment to the amendment is to make it that reports to the meeting have to be in by the deadline.
+20:23  * Maulkin is lost now
+20:23 < cdlu> bdale, could I propose a two minute recess for ian and neil to figure out what's happening? :)
+20:23  * Hydroxide is very confused too
+20:23 < IanJackson> I'm disappointed that you're all disagreeing now, given that this has been on the cards for a month ...
+20:24 < IanJackson> Have you found my email <17837.8773.980106.152136@chiark.greenend.org.uk> ?
+20:24 < jberkus> I'm confused on what we're changing
+20:24  * Hydroxide has no preference as to whether we vote now or delay, or as to the structure of any vote today on this issue
+20:24 < Maulkin> IanJackson: right, got it
+20:24 < bdale> IanJackson: the full text amendment to the amendment makes a practical change, I think that's the issue
+20:24 < IanJackson> http://www.chiark.greenend.org.uk/~ijackson/t.txt
+20:24 < Maulkin> IanJackson: sorry for not amending earlier, the amend-amend bit is fine by me.
+20:25 < IanJackson> ... is the amendment to the amendment and is separate to the question about linking vs containing.
+20:25  * Overfiend wonders if he should trust that URL, as it's not a timestamped, fixed-content publication medium...
+20:25 < bdale> so, do we have three things to vote on, or still just two?
+20:25 < IanJackson> Overfiend: Well, you could look in your email !
+20:25  * Maulkin suggests we just vote for two
+20:25 < IanJackson> bdale: No, because I'm only proposing the amended amendment and not the original one.
+20:25 < Overfiend> IanJackson: I have...just teasing :)
+20:25 < bdale> IanJackson: ok, got it
+20:25 < cdlu> can we vote on the subamendment, the amendment, and the resolution?
+20:26 < IanJackson> If we want to take account of Maulkin's comment about linking vs containing, how about.
+20:26 < bdale> cdlu: why?  
+20:26 < Hydroxide> gah
+20:26 < Maulkin> Sorry, there is no sub-amendment
+20:26 < bdale> cdlu: I think we have a motion from ian on the amended amendment on the table, right?
+20:26  * Maulkin nods
+20:26 < Overfiend> it needs a second
+20:26 < IanJackson> how about this:  after `NB, _containing_ not _linking to_' add `; however a reference to a specific email message sent to all the same places as the agenda is sufficient'
+20:27 < cdlu> ok, if that's what's happening. I'm lost a bit in this. :)
+20:27 < IanJackson> I want to take account of Maulkin's comment.
+20:27 < IanJackson> Unless others disapprove.
+20:27 < Overfiend> IanJackson: that sounds good to me
+20:27 < IanJackson> IE I'm happy with emails but not with web pages.
+20:27  * Hydroxide requests that, before any vote takes place, a web page be provided with the exact text we're voting on
+20:27 < Maulkin> IanJackson: s/same places/to a public spi mailing list/ ?
+20:27 < Maulkin> Hydroxide: okies, I'll update it
+20:27  * cdlu echos Hydroxide
+20:27 < IanJackson> Maulkin: Yes, please do.
+20:27 < xzilla> Hydroxide: does that webpage need to be emailed out as well ?
+20:28 < bdale> xzilla: can be in the minutes
+20:28 < IanJackson> Maulkin: No, the same places as the agenda is to be posted.
+20:28 < Overfiend> posting the text to a webpage instead of sending it email doesn't make it look like we're really embracing the spirit of this resolution
+20:28 < IanJackson> All of the same places.
+20:28 < Maulkin> IanJackson: so resolutions should be sent to spi-annouce?
+20:28 < IanJackson> Maulkin: Hmmm.
+20:28 < cdlu> only once approved.
+20:28 < Maulkin> IanJackson: see the issue? :) Would a link to (eg: spi-general) do?
+20:28 < IanJackson> cdlu: No, we don't want -announce full of draft resolutions.
+20:28 < Overfiend> that knackers the language IWJ just proposed, though
+20:28 < IanJackson> I see the issue.
+20:29 < Hydroxide> I agree that only approved resolutions should go to -announce
+20:29 < jberkus> hmmm
+20:29 < IanJackson> All right, `to a publicly archived spi mailing list'
+20:29 < jberkus> sounds like we don't have final text for this
+20:29  * cdlu moves to defer
+20:29 < bdale> I agree with jberkus
+20:29 < IanJackson> I object.
+20:29 < Maulkin> Two minutes, and I'll have the text ready...
+20:29 < IanJackson> People who wanted to argue about wording should have done so earlier.
+20:29  * Hydroxide seconds cdlu's motion and calls for a vote, but plans to abstain in the vote to defer since I don't have a strong preference
+20:29 < jberkus> IanJackson: we're not arguing about the workind on the web page
+20:30 < Hydroxide> s/I don't/he doesn't/
+20:30 < IanJackson> Those who would like to defer should move to censure those who are bringing matters up at this late stage.
+20:30 < jberkus> IanJackson: the rest of us missed your 2nd amendment
+20:30 < cdlu> Hydroxide, don't second unless you have a strong opinion :)
+20:30 < Maulkin> IanJackson: How about: I'll do this anyway, lets defer the vote.
+20:30 < Hydroxide> cdlu: my opinion is that the motion is worth voting on now, hence the second
+20:30 < Hydroxide> Maulkin, bdale: we have a seconded motion on the table and a vote requested. can we vote?
+20:30 < cdlu> Ian, so we should censure you for failing to ensure your resolution and amendment were accurately represented in the agenda? that's teh gist of that comment. :)
+20:30 < bdale> ?  I didn't see a second?
+20:31 < cdlu> never mind bdale, I withdraw my motion. I'm prepared to vote, I'd just like to do it today.
+20:31 < Hydroxide> ok, then my second goes poof
+20:31 < IanJackson> Maulkin: do you have final text on the webpage yet ?
+20:31 < Maulkin> IanJackson: doing now
+20:31  * Overfiend does not hold as a paramount value the ability to conduct a board meeting in 5 minutes
+20:31 < jberkus> 30 seconds
+20:31 < jberkus> 158 milleseconds
+20:31 < Overfiend> many of Ian's proposals over the years have designed with that aim
+20:32 < cdlu> Overfiend, yes, an irony I've been pondering :)
+20:32 < IanJackson> http://www.chiark.greenend.org.uk/~ijackson/u.txt
+20:32 < IanJackson> final text5
+20:32  * cdlu reads
+20:32 < Overfiend> I'm all for efficiency, but I also see the value in permitting the board to actual have real-time deliberations at its public meetings.
+20:32 < Overfiend> If a Board member is unable to make the time once a month for such an event, then they may wish to re-evaluate their ability to contribute.
+20:33 < Overfiend> s/actual/&ly/
+20:33 < IanJackson> I'm trying to make this board work like any normal committee, where papers and briefings and so on are prepared in advance.
+20:33 < cdlu> Overfiend, I have no objection to deliberations, but 10 minutes of confusion tends not to be productive.
+20:33 < bdale> Overfiend: I do too, but when something proposed as a minor amendment is received as a significant change, whether we can really close on it in a few more minutes of discussion goes into doubt for me
+20:33 < Overfiend> IanJackson: s/spi/SPI/
+20:33 < Maulkin> IanJackson: ok, http://www.chiark.greenend.org.uk/~ijackson/u.txt addresses my concerns
+20:33 < Overfiend> IanJackson: in your latest final text
+20:33 < IanJackson> Overfiend: Fine.
+20:33 < IanJackson> Right, anyone object now ?
+20:33 < IanJackson> Let's vote.
+20:34 < IanJackson> Overfiend: Fixed.
+20:34 < jberkus> wait, let me read it
+20:34 < Overfiend> that's the president'y call
+20:34 < Overfiend> s/'y/'s/
+20:34 < bdale> I've read it, I'm pondering.
+20:34 < IanJackson> _Pondering_ ?
+20:34 < Overfiend> Action first, deliberation later.
+20:34 < Overfiend> IanJackson: you are SO gonna invade Iraq
+20:34 < Maulkin> heh
+20:35 < IanJackson> We had deliberation for the _last month_.
+20:35 < IanJackson> But apparently not.
+20:35 < jberkus> ok, looks good to me
+20:35 < Maulkin> IanJackson: any idea what the resolution revision is?
+20:35 < Maulkin> .4 ?
+20:35 < IanJackson> Maulkin: Don't mind.  Call it .4 if you like.
+20:35 < Maulkin> IanJackson: ok :)
+20:35 < jberkus> mind you, it doesn't contain a deadline for the contents of regular reports
+20:35  * cdlu assumes 1-4 are preambles, 5-6 are the resolution
+20:35 < IanJackson> jberkus: Yes, it does.
+20:35 < jberkus> but I'm impose my own deadline for me
+20:36 < IanJackson> cdlu: No, the whole thing is the resolution.
+20:36 < cdlu> so there are no preambles. 
+20:36 < jberkus> oh, 7 days
+20:36 < bdale> IanJackson: what I'm pondering is the practical consequences of the procedural changes since the draft I had reviewed prior to the meeting.  I understand that you meant this all along, but not objecting to your prior text is not the same as immediately agreeing with the revised text.
+20:36  * Overfiend used to use "WHEREAS," and "RESOLVED THAT," clauses to distinguish preamble from actual resolved stuff, but that just got me mocked.
+20:36 < jberkus> ok, as long as people are willing to accept that I'm liable to lag a month behind then
+20:36 < cdlu> branden, a practice I encourage.
+20:36 < IanJackson> Overfiend: WHEREAS clauses are resolved too.
+20:36 < Maulkin> Overfiend: I've always done that too...
+20:36 < jberkus> because that requires me to prepare the treasurer's report in the first 7 days of each month
+20:36 < jberkus> which I can't always do
+20:36 < Overfiend> IanJackson: I don't have a term handy in my brain for the "RESOLVED THAT," clauses.
+20:37 < IanJackson> jberkus: We changed the date of the meeting for your benefit and we can change it again.
+20:37 < Overfiend> as opposed to "WHEREAS," clauses.  Some are prefatory or foundational, the others are....active?
+20:37 < jberkus> IanJackson: since when?
+20:37 < Maulkin> jberkus: It's now (meeting date - 7 days) AIUI
+20:37 < IanJackson> bdale: The differences are 1. allowing references to emails 2. wanting reports as well as motions 7 days in advance.
+20:37 < cdlu> jberkus, meetings used to be 1st tuesday of the month
+20:37 < IanJackson> jberkus: Err, for Hydroxide's benefit I mean.
+20:37 < bdale> IanJackson: I also think there's a difference between elements of the Treasurer's report that we deserve notice of, and the numbers which I'd be ok with a fairly last-minute delivery of
+20:37 < cdlu> moved to 3rd to allow treasurer to keep up
+20:37 < jberkus> this meeting date isn't for my benefit
+20:38 < IanJackson> bdale: I disagree.
+20:38 < bdale> IanJackson: the reports a week in advance is what I'm pondering
+20:38 < IanJackson> jberkus: If you find it too difficult to get the report in in time we will move the meeting week.
+20:38 < IanJackson> Reports in advance is essential.
+20:38 < Overfiend> moving the meetings around is disruptive
+20:38 < jberkus> yeah, I'm going to have to vote against it
+20:38 < cdlu> bdale, for the record I plan to vote for the amendment, but against the resolution-as-amended. I think this resolution is unnecessary.
+20:38 < IanJackson> No other serious organisation allows non-emergency reports to be delivered orally at the last minute.
+20:39 < jberkus> IanJackson: I could do 48 hours
+20:39 < jberkus> maybe 72
+20:39 < bdale> IanJackson: requiring a week in advance is not standard practice for any other serious organization I'm personally part of, fyi
+20:39 < IanJackson> 48 hours is not enough time to ensure everyone is sure ot have read it, discussed it, produced motions why result, etc.
+20:39 < IanJackson> bdale: If we were full time we could do it more quickly.
+20:39 < jberkus> IanJackson: I can also report one month behind
+20:39 < IanJackson> jberkus: That would be fine too.
+20:39 < jberkus> IanJackson: i.e. report February in April
+20:39 < bdale> IanJackson: I'm including other non-professional orgs, too
+20:40 < Overfiend> bdale: Ian's trying to trick us into upholding his ideal standards so that he can then point to us and try to get other clubs he's a member of to follow our lead :)
+20:40 < cdlu> heh
+20:40 < IanJackson> If everyone hates 7 days for reports we could compromise on 72h for reports perhaps.
+20:40 < cdlu> are we still deliberating or are we just dancing in circles now? I mean, can we vote? :)
+20:40 < bdale> IanJackson: to me, if I know there's a board meeting at a given date, knowing that I need to prepare to pay attentiong 48 or 24 hours ahead of time seems simple compared to requiring that everything be ready some arbitrarily longer time in advance.
+20:40 < IanJackson> Would that satisfy the objections ?
+20:41 < Overfiend> I'm fine with giving people up to T - 24 hours to get their reports in.
+20:41 < Overfiend> Personally.
+20:41 -!- christel [~christel@gentooexperimental.org] has joined #spi
+20:41 < bdale> jberkus: you had the strongest time objection, your opinion?
+20:41 < jberkus> 24 is fine
+20:42 < jberkus> like I said, I can do 48
+20:42 < IanJackson> Overfiend: That gives us no time to draft and argue about a resolution if the report should need some kind of complicated decision.
+20:42 < bdale> IanJackson: how about 48 hours?
+20:42 < IanJackson> I suppose I could just about cope with 48.
+20:42 < Overfiend> IanJackson: so we fight about it *at* the meeting, call a special meeting, or just let it percolate until the next meeting
+20:42 < IanJackson> http://www.chiark.greenend.org.uk/~ijackson/v.txt
+20:42 < Overfiend> not everything has to be an emergency.
+20:42 < IanJackson> v.txt has 48h for reports.
+20:43  * Overfiend for one has had his fill of emergencies and wire transfers and cashier's checks with 0/1 day notice, etc.
+20:43 < IanJackson> Yers.
+20:43 < IanJackson> 48h means that reading the reports isn't an emergency :-).
+20:43 < Overfiend> and we're gonna keep having those, so I'm in favor of not goosing the urgency of routine items
+20:43 < bdale> any further discussion?
+20:44 < IanJackson> So I'm proposing to replace slef's motion with v.txt.
+20:44 < Overfiend> IanJackson: it wouldn't be anyway -- you're concerned about the situation where a regular report causes a pre-meeting freakout
+20:44 < IanJackson> You can call it yadaydad.iwj.v if you like :-).
+20:44 -!- btdn [~newmanbe@tor-irc.dnsbl.oftc.net] has quit [Remote host closed the connection]
+20:44  * Maulkin moves to vote on 2007-01-16.iwj.5 (v.txt)
+20:44 < Overfiend> from my memory of SPI meetings, the regular reports haven't ever done that.
+20:44 < IanJackson> Maulkin: Right.
+20:44 < bdale> is there a second?
+20:44 < cdlu> Maulkin, as an amenmdnet
+20:44 < IanJackson> bdale: Yes, me.
+20:44  * cdlu seconds to get on with it
+20:44 -!- btdn [~newmanbe@tor-irc.dnsbl.oftc.net] has joined #spi
+20:44 < IanJackson> Overfiend: Sometimes they've caused discussion and need for decison discussion etc.
+20:44 < bdale> Maulkin: let's vote 
+20:44 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Approve amendment 2007-01-16.iwj.5 - Member communications. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:44 < IanJackson> We can do that profitably by email.
+20:44 < IanJackson> !vote yes
+20:44 < cdlu> !vote yes
+20:44 < Maulkin> !vote yes
+20:44 < schultmc> !vote yes
+20:44 < Hydroxide> !vote yes
+20:45 < Overfiend> where's the 48 hours?
+20:45 < jberkus> !vote yes
+20:45 < Overfiend> I don't see it in v.txt
+20:45 < IanJackson> Overfiend: Line 32.
+20:45 < cdlu>       T-48hours: Agenda items which consist of reports to the board or to
+20:45 < cdlu> ...
+20:45 < bdale> !vote yes
+20:45 < Overfiend> oh...I was reading the items as if they were chronologically sorted
+20:46 < Overfiend> !vote abstain
+20:46 < Maulkin> Current voting results for "Approve amendment 2007-01-16.iwj.5 - Member communications": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:46 < Maulkin> Voting for "Approve amendment 2007-01-16.iwj.5 - Member communications" closed.
+20:46 < Maulkin> 7:0:1
+20:46 < Hydroxide> now we vote on the resolution as amended
+20:46 < Hydroxide> right?
+20:46  * Maulkin nods
+20:46 < IanJackson> Yes.
+20:46  * Hydroxide has to go in 7-10 minutes
+20:46 < bdale> Hydroxide: we're getting there
+20:46  * Maulkin moves so
+20:46 < bdale> second?
+20:46  * schultmc seconds
+20:46  * Hydroxide seconds
+20:47 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Approve resolution 2007-01-16.iwj.5 (amended from 2006-12-18.mjr.iwj.1 - Member communications. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:47 < Hydroxide> !vote abstain
+20:47 < cdlu> !vote no
+20:47 < IanJackson> !vote yes
+20:47 < Overfiend> !vote abstain
+20:47 < Hydroxide> (no preference)
+20:47 < schultmc> !vote yes
+20:47 < jberkus> !vote yes
+20:47 < bdale> !vote yes
+20:47 < Maulkin> !vote abstain
+20:47 < Overfiend> oh, and I was just about to give bdale a drum roll
+20:47 < Maulkin> Current voting results for "Approve resolution 2007-01-16.iwj.5 (amended from 2006-12-18.mjr.iwj.1 - Member communications": Yes: 4, No: 1, Abstain: 3, Missing: 0 ()
+20:47 < Maulkin> Voting for "Approve resolution 2007-01-16.iwj.5 (amended from 2006-12-18.mjr.iwj.1 - Member communications" closed.
+20:47 < Maulkin> 4:1:3
+20:47 < Maulkin> passes
+20:47 < IanJackson> Hmm, re the temporal ordering:
+20:47 < IanJackson> Maulkin: Since `timetable resembling', you'll have to fix a deadline for notice that a report is going to be considered, for non-regular reports, and adjust the wording appropriately so that the agenda can make sense.
+20:48 < IanJackson> But we can leave all that to you.
+20:48 < Hydroxide> lovely. let's move on
+20:48 < IanJackson> Do it sensibly and we won't argue :-).
+20:48 < bdale> [item 8.2, Outstanding items requesting comment from the DPL]
+20:48 < bdale> The two remaining items on this list have been covered in conversation with
+20:48 < bdale> the DPL since the agenda was posted, and/or as part of Josh's report earlier
+20:48 < bdale> in this meeting.  This item is therefore closed.  Let's move on.
+20:48 < bdale> [item 8.3, Report on opensource.org discussion]
+20:48 < bdale> Neil?
+20:48 < Maulkin> Ok. For those watching:
+20:48 -!- slef [~mjr@86.53.37.59] has quit [Read error: Connection reset by peer]
+20:48 < IanJackson> I move that we publish the discussion mbox to members.
+20:49  * Overfiend seconds
+20:49 < Overfiend> but, uh, Neil has the floor
+20:49 < IanJackson> Indeed.
+20:49 < Hydroxide> IanJackson: no need to move
+20:49 < IanJackson> I'm saving time by multitasking :-).
+20:49 < Maulkin> There has been a request that the discussion that took place on the list spi-board is released to the membership
+20:49 < cdlu> but now we have a seconded motion on the floor for something that is already intended to happen :)
+20:49 < Hydroxide> IanJackson: or do we?
+20:49 -!- slef [~mjr@86.53.37.59] has joined #spi
+20:49 < Overfiend> so let's make ourselves look resolute, and resolve to do it!
+20:50  * IanJackson revolves Overfiend.
+20:50 < IanJackson> Oops.
+20:50 < IanJackson> Sorry, my poor spelling.
+20:50  * Hydroxide doesn't care whether we vote on it or not, but just wants us to proceed quickly unless anyone disagrees with it
+20:50 < Maulkin> For this, we plan to releae the mailbox to the membership, and a summary of the discussion publically to follow.
+20:50 < Overfiend> IanJackson: ouch..you should really apply proper topical gels first.
+20:50 < bdale> ok, thanks Neil.  I see a motion and second.  Any discussion before we vote?
+20:50 < Maulkin> I haven't finished this yet (5h and counting...) but should have this ready shotly
+20:50 < IanJackson> I think we should vote just so that any board members who have failed to object can be told they should have objected now.
+20:50 < Hydroxide> bdale: one comment
+20:50 < IanJackson> Summary is excellent.
+20:50 < bdale> Hydroxide: go
+20:50 < IanJackson> Thanks Maulkin, yay, etc.
+20:51 < cdlu> I don't see a need to put it to a voted motion, but I don't really care either way. I have no objections to this specific publication.
+20:51 < Hydroxide> bdale: I just want it to be understood that irrelevant private headers like Received: and similar are not included in the published .mbox
+20:51 < IanJackson> Maulkin: Can I suggest that you send the proposed summary round to -board first so that we can correct anything we feel is a misrepresentation fo what we said ?
+20:51 < IanJackson> It's a bit like minutes really.
+20:51 < IanJackson> Set a deadline for responses.
+20:51 < Maulkin> IanJackson: of course :)
+20:51 < bdale> Maulkin: your intentions relative to Jimmy's concern?
+20:51 < Hydroxide> bdale: I provided a list of what I thought were the necessary headers in an email to -board in response to Maulkin's request for consent
+20:51 < Hydroxide> bdale: necessary headers to include, I mean, not to leave out
+20:51 < Maulkin> Hydroxide: already redacted :)
+20:51 < Hydroxide> Maulkin: sounds good
+20:52 < bdale> ok.  any other discussion?
+20:52 < IanJackson> Hydroxide: Yes, for the avoidance of doubt I agree with Jimmy's request to leave out all but intentionally-included headers.
+20:52 < Maulkin> Oh, and the summary will be attached as a appendix to this set of minutes
+20:52 < Maulkin> (once approved)
+20:52  * Maulkin is done
+20:52 < Overfiend> a motion is pending.
+20:52 < cdlu> Maulkin, they will be approved at the next meeting I presume, so they can go on those minutes.
+20:52 < bdale> it's not clear to me that we need to vote on this, but we have a motion and second.
+20:52 < Maulkin> cdlu: or on board@
+20:52 < Maulkin> bdale: want a vote?
+20:52 < Overfiend> bdale: as chair, you could scotch the motion
+20:52 < IanJackson> Overfiend: Can I amend it:   `I move we release the mbox, including only specifically-intended relevant headers, to the members'.
+20:52 < bdale> Maulkin: why not.  they're easy
+20:53 < Maulkin> Voting started, 8 people (maulkin,cdlu,hydroxide,schultmc,overfiend,bdale,ianjackson,jberkus) allowed to vote on Release redacted mbox of opensource.org discussion to spi contributing membership. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:53 < Maulkin> !vote yes
+20:53 < IanJackson> !vote yes
+20:53 < bdale> IanJackson: accepted
+20:53 < Hydroxide> !vote yes
+20:53 < Overfiend> IanJackson: I concur
+20:53 < cdlu> !vote yes
+20:53 < bdale> !vote yes
+20:53 < schultmc> !vote yes
+20:53 < Overfiend> !vote yes
+20:53 < jberkus> !vote yes
+20:53 < Maulkin> Current voting results for "Release redacted mbox of opensource.org discussion to spi contributing membership": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:53 < Maulkin> Voting for "Release redacted mbox of opensource.org discussion to spi contributing membership" closed.
+20:53 < Maulkin> Done
+20:53 < IanJackson> Right.  Yay.  etc.
+20:53 < Hydroxide> (this does not need to affect the vote, but I'm just pointing out for the record that "to the members" means -private not -general)
+20:53 < Hydroxide> (which I agree with)
+20:53 < Maulkin> Hydroxide: yes
+20:53 < bdale> Maulkin: thanks
+20:53 < Maulkin> Hydroxide: contributing members :)
+20:54 < bdale> [item 9, Next board meeting - Friday March 16th, 2007]
+20:54 < bdale> Neil, any discussion required?  I'm good with that date at the usual time.
+20:54 < Overfiend>      March 2007     
+20:54 < Overfiend> Su Mo Tu We Th Fr Sa
+20:54 < Overfiend>              1  2  3
+20:54 < Overfiend>  4  5  6  7  8  9 10
+20:54 < Overfiend> 11 12 13 14 15 16 17
+20:54 < Overfiend> 18 19 20 21 22 23 24
+20:54 < Overfiend> 25 26 27 28 29 30 31
+20:54 < Maulkin> Friday March 16th, 2007, 20:00 UTC
+20:54 < jberkus> ok
+20:54 < bdale> works for me
+20:54 < IanJackson> Is that past the DST change ?
+20:54 < cdlu> one quick note -- who will be at DebConf? If enough of us can get there, we should defer our June meeting by one week and hold it in person.
+20:54 < Maulkin> There was an onjection last time, but I can't remember who from
+20:54 < bdale> cdlu: I will be
+20:54 < Overfiend> I think the U.S. goes on DST on 11 March this year
+20:54  * Maulkin will be
+20:54 < schultmc> yes - US DST changes on March 11
+20:54  * cdlu intends to be
+20:54 < Overfiend> I don't know when British Summer Time begins
+20:54  * Hydroxide will be at DebConf
+20:54 < IanJackson> It's not DST here.
+20:54 < Maulkin> ok... who isn't? :)
+20:54  * schultmc plans on going to Debconf
+20:55 < bdale> ok, Maulkin, please note the suggested change for June.  I'm ok with it.
+20:55 < Ganneff> Maulkin: vote on it. :)
+20:55  * Overfiend will not be at DebConf
+20:55 < IanJackson> But the April meeting I will want to be at err 2100Z ?
+20:55 < bdale> we can have everyone not there participate by irc
+20:55  * Hydroxide wants to end ASAP due to needing to be somewhere in 5 minutes
+20:55 < Maulkin> bdale: note for june?
+20:55 < IanJackson> Or do I mean 1900Z ?
+20:55 < cdlu> bdale, or by teleconference, as I think it'd be annoying to have an in-person meeting take place on IRC.
+20:55 < Maulkin> IanJackson:  you mean 19:00 :)
+20:55 < IanJackson> Maulkin: That seems to make more sense.
+20:56 < bdale> good point.  let's discuss the june mtg logistics in email, then.  we have our March date and time, so we're done for today.
+20:56 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+20:56 < bdale> *GAVEL*

@@ -1,0 +1,157 @@
+16:00 < bdale> *GAVEL*
+16:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+16:00 < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-04-15.html
+16:00 < bdale> [item 2, Roll Call]
+16:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+16:00 < bdale> Guests (including board advisors), please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+16:00 < cdlu> David Graham
+16:00 < bdale> I think I saw regrets from Neil?
+16:00 < schultmc> Michael Schultheiss
+16:00 < linuxpoet> Joshua D. Drake
+16:00 < luk> Luk Claes
+16:00 < linuxpoet> bdale: yes
+16:00 < cdlu> bdale, I saw them too
+16:00 < bdale> Bdale Garbee
+16:00 < zobel> Martin Zobel-Helas
+16:00 < devil> Ferdinand Thommes
+16:01 < bdale> ok, cool
+16:01 < bdale> looks like we have quorum
+16:01 < cdlu> one short for quorum
+16:01 < bdale> oh, sorry, you're right
+16:01 < linuxpoet> tap tap tap
+16:01 < bdale> who are we expecting but missing?
+16:01 < schultmc> cdlu: no, that's six
+16:01 < zobel> Ganneff: ^^
+16:01  * cdlu pokes hydroxide
+16:01 < bdale> Ferdnand isn't a board member
+16:01 < cdlu> yes but one of them is not a board member
+16:01 < schultmc> cdlu, schultmc, linuxpoet, luk, bdale, zobel
+16:01 < schultmc> ^^ 6
+16:01 < Ganneff> Joerg Jaspert
+16:01 < schultmc> 7
+16:02 < zobel> great.
+16:02 < luk> right, I think some cannot count :-)
+16:02 < bdale> trying to count with a phone in one ear is HARD
+16:02 < luk> anyway 7 board members are present
+16:02 < cdlu> ok :)
+16:03 < bdale> [item 3, President's Report]
+16:03 < bdale> Nothing exciting today.  All of last week I was in San Francisco for the CELF Embedded Linux Conference and LF Collaboration Summit, but have little to repo
+16:03 < bdale> rt from that of interest to SPI members.
+16:03 < bdale> [item 4, Treasurer's Report]
+16:03 < bdale> Michael?
+16:03  * cdlu pokes hydroxide
+16:03 < Hydroxide> Jimmy Kaplowitz
+16:03 < schultmc> treasurer's report was mailed out this morning and is posted in the agenda
+16:03 < Hydroxide> people came over at work right before the meeting started, unfortunately. I'm free again now.
+16:03 < schultmc> only comment I have is to reiterate my comments from last month (encouraging projects to spend rather than hoard funds)
+16:03 < bdale> schultmc: do we need to take any explicit action on that?
+16:04 < schultmc> bdale: I can send a message to -projects
+16:04 < bdale> sounds like a good plan
+16:04 < bdale> [item 5, Secretary's report]
+16:04 < bdale> Jimmy?
+16:04 < Hydroxide> bdale: nothing to add to what's in the agenda as of a few minutes before the meeting :)
+16:05 < Hydroxide> I do want people opinions on whether OpenWRT's acceptance meets the terms of the resolution
+16:05 < bdale> that was since I read the agenda... care to elaborate briefly?
+16:05 < Hydroxide> I think it does, but I wasn't one of the more vocal people arguing for a single liaison
+16:05 < Hydroxide> I'll just paste the few lines I added
+16:06 < Hydroxide> I notified Gregers Petersen and the openwrt-hackers email list of SPI's invitation to become an SPI associated project with Gregers as sole liaison, and mentioned the 60-day deadline of May 17, 2009. I checked with them on April 14th, and Gregers replied on the 15th accepting the offer with himself serving "as main liaison, and Andy Boyett as second/back-up liaison." Unless the Board deems the existence of a second/back-up liaison to be at odds with the resolution passed in March, this makes OpenWRT's associated project status official.
+16:06 < Hydroxide> that's the whole secretary's report
+16:06 < bdale> ok
+16:06 < bdale> I can live with that, I think.  one primary point of contact seems to meet our needs.
+16:06 < linuxpoet> Well the way postgresql does it, is if I am not available I designate someone as liaison. I believe when I did that the one time I emailed board to let them know
+16:06 < luk> right
+16:06 < bdale> any other opinions?
+16:06 < cdlu> I think it meets the terms. That's merely an instruction from the Liaison to listen to the other. :)
+16:07 < Hydroxide> I agree it's fine. just thought I'd run it by you all
+16:07 < bdale> cdlu: right, I think we can interpret it that way and be happy
+16:07 < Hydroxide> in that case, glp, are you there? I'm happy now to say to OpenWRT: Welcome to SPI! :-)
+16:07 < cdlu> do we need a motion on this or can we all agree and be happy wrt WRT? :)
+16:07 < Hydroxide> I think we're all happy now.
+16:07  * linuxpoet does the Happy Feet
+16:07 < bdale> let's move on
+16:07 < bdale> [item 6, Outstanding minutes]
+16:07 < bdale> Jimmy, we have a couple sets to vote on today?
+16:07 -!- juliank [~juliank@p5B25281B.dip0.t-ipconnect.de] has quit [Quit: Verlassend]
+16:08 < Hydroxide> yes. I finally got the remaining info for the March 2008 minutes (thanks to some members on -private for supplementing registered guests list)
+16:08 < Hydroxide> and did last month's too
+16:08  * zobel needs to admit to not yet have done the other outstanding ones from Neil yet. :/ i hope to have them finished for the next month.
+16:08 < Hydroxide> so March '08 and March '09 are ready for voting
+16:09  * cdlu moves the motion
+16:09  * schultmc has a comment on march 09
+16:09 < Hydroxide> I also fixed the typo in Tim Golden's name which bdale mentioned, though it's possible that typo actually occurred during the meeting to :)
+16:09 < Hydroxide> (in March '09)
+16:09 < bdale> not sure
+16:09 < Hydroxide> schultmc: go ahead
+16:09 < bdale> yes, let's vote
+16:09 < schultmc> 2009-03-18.mcs.1 isn't listed in appendix b (approved resolutions)
+16:09 < Hydroxide> schultmc had a comment
+16:09 < bdale> oh
+16:09 < bdale> good point
+16:10 < Hydroxide> yes. if you can wait literally a couple of minutes I'll fix that :)
+16:10 < bdale> did Slef have a correction?  said so in a blog post?
+16:10 < Hydroxide> I got his correction
+16:10 < bdale> ok, good
+16:10 < bdale> if you accept the suggested changes, I'm happy to proceed with a vote on the minutes as amended
+16:11 < Hydroxide> schultmc: does it look good now?
+16:12 < Hydroxide> I'll do it as two votes
+16:12 < schultmc> Hydroxide: yes
+16:13 < Hydroxide> Voting started, 8 people (hydroxide,schultmc,bdale,cdlu,luk_,linuxpoet,zobel,ganneff) allowed to vote on Approve March 19, 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:13 < schultmc> !vote yes
+16:13 < cdlu> !vote yes
+16:13 < bdale> !vote yes
+16:13 < Hydroxide> !vote yes
+16:13 < linuxpoet> $vote abstain
+16:13 < zobel> !vote yes
+16:13 < linuxpoet> !vote abstain
+16:13 < Ganneff> !vote yes
+16:13 < Hydroxide> Current voting results for "Approve March 19, 2008 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( luk_ )
+16:13 < Hydroxide> Voting for "Approve March 19, 2008 minutes" closed.
+16:13 < Hydroxide> erg
+16:13 < Hydroxide> sorry
+16:13 < luk> !vote yes
+16:13 < Hydroxide> FOR THE MINUTES: 7 yes, 0 no, 1 abstain
+16:13 < Hydroxide> good
+16:14 < bdale> next
+16:14 < Hydroxide> Voting started, 8 people (hydroxide,schultmc,bdale,cdlu,luk,linuxpoet,zobel,ganneff) allowed to vote on Approve March 18, 2009 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:14 < schultmc> !vote yes
+16:14 < bdale> !vote yes
+16:14 < Ganneff> !vote yes
+16:14 < luk> sorry, wanted to have a look at the updated ones
+16:14 < zobel> !vote abstain
+16:14 < linuxpoet> !vote yes
+16:14 < Hydroxide> !vote yes
+16:14 < luk> !vote yes
+16:14 < cdlu> !vote yes
+16:14 < Hydroxide> luk: no problem. I also used your wrong nick for the voting script
+16:14 < Hydroxide> (the first time)
+16:14 < Hydroxide> Current voting results for "Approve March 18, 2009 minutes": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+16:14 < Hydroxide> Voting for "Approve March 18, 2009 minutes" closed.
+16:14 < Hydroxide> both approved.
+16:14 < bdale> cool
+16:15 < bdale> [item 7, Items up for discussion]
+16:15 < bdale> (none)
+16:15 < bdale> [item 8, Any other business]
+16:15 < bdale> Do any board members have other items for discussion they would like to address briefly?
+16:15 < luk> I even changed my nick before the meeting to have it easy :-)
+16:15 < Hydroxide> luk: I was used to the old one :)
+16:15 < luk> Steve McIntyre got reelected
+16:15  * Hydroxide cheers and congratulates him.
+16:15 < bdale> yes, noted
+16:15 < cdlu> luk, first multi-term DPL in years
+16:15 < luk> and I'll will be delegated as assistant :-)
+16:15 < bdale> since tbm
+16:16 < cdlu> ya, tbm was right after you wasn't he?
+16:16 < bdale> yes
+16:16 < bdale> he survived 2 years
+16:16 < bdale> anything else?
+16:16 < cdlu> not from me
+16:16 < bdale> [item 9, Next board meeting]
+16:16 < bdale> I believe our default would be Wednesday, May 20th, 2009, at 20:00 UTC.  That date and time is ok for me.  Any strong objections?
+16:16 < Hydroxide> it's fine for me too.
+16:16 < schultmc> that's fine with me
+16:16 < linuxpoet> its my birthday
+16:16 < linuxpoet> so tentative regrets
+16:16 < Hydroxide> linuxpoet: ok. congrats! :)
+16:16 < linuxpoet> :)
+16:16 < bdale> Ok, thank you to everyone present for participating today.
+16:16 < bdale> *GAVEL*

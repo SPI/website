@@ -1,0 +1,228 @@
+--- Log opened Wed Sep 17 14:49:52 2008
+15:00 < Ganneff> *BANG*
+15:00 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.  Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2008/2008-09-17.html
+15:00 < luk__> Luk Claes
+15:00 < Ganneff> [item 2, Roll Call]
+15:00 < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  Guests, please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+15:00 < Ganneff> Hydroxide: please update us on known and tentative regrets.
+15:00 < zobel> Martin Zobel-Helas
+15:00 < luk__> Luk Claes
+15:00 < linuxpoet> Joshua D. Drake
+15:00 < Maulkin> Neil Mcgovernm
+15:00 < Ganneff> luk__: too early.
+15:00 < schultmc> Michael Schultheiss
+15:00 < Hydroxide> Ganneff: agenda is correct - David Graham has sent regrets
+15:00 < Ganneff> Joerg Jaspert
+15:00 < Hydroxide> Jimmy Kaplowitz
+15:00 < Hydroxide> Ganneff: MJ Ray also can't be here, which is only worth noting since one of the agenda items was drafted by him.
+15:01 < Ganneff> we seem to have quota, lets go on.
+15:01 < luk__> I was only too early because it kept ringing :-)
+15:01 < Ganneff> [item 3, President's Report]
+15:01 < Ganneff> None.
+15:01 < Ganneff> [item 4, Treasurer's Report]
+15:01 < Ganneff> schultmc: have fun
+15:01 < schultmc> http://www.spi-inc.org/treasurer/2008-09-17-draft-report.html/view is a draft report
+15:01 < linuxpoet> allow a moment for viewing please
+15:01 < schultmc> I'm currently working with Josh Berkus to get the outstanding credit card donations imported
+15:02 < Ganneff> schultmc: when is it scheduled to be non-draft? 
+15:02 < schultmc> Josh is also documenting his process so I can run reports ad hoc
+15:02 < schultmc> Ganneff: as soon as the credit card info has been input
+15:02 < Hydroxide> schultmc: what time period does this report cover?
+15:02 < schultmc> I anticipate that data to be available in the next few days
+15:02 < Hydroxide> schultmc: (it's an income/expense statement, not a balance statement)
+15:03 < schultmc> Hydroxide: start of the data entry system until today - expenses are current as of today, donations via check as end of august
+15:03 < linuxpoet> Question in regards to financials
+15:03 < schultmc> linuxpoet: go ahead
+15:03 < Hydroxide> schultmc: hrm. not a very useful time period, unless it happens to have started on January 1, 2008 or similar.
+15:03 < linuxpoet> are we in control of the data yet? (as in not being hosted by personal servers)
+15:03 < schultmc> yes
+15:04 < schultmc> all data is on treasurer.spi-inc.org
+15:04 < linuxpoet> O.k. I have questions about that but I can ask after meeting
+15:04 < schultmc> ok
+15:04 < Ganneff> more on this topic?
+15:04 < linuxpoet> I have one more item
+15:04 < Ganneff> go
+15:04 < linuxpoet> I am trying to understand this income/expense statement. Am I correct in that it doesn't actually have balances
+15:05 < linuxpoet> because it doesn't reflect my knowledge of PostgreSQL's finances
+15:05 < schultmc> the net column is an approximation of balances
+15:05 < Hydroxide> linuxpoet: it's not a balance sheet, as I said
+15:05 < schultmc> it's approximate since the credit card donations haven't been imported yet
+15:05 < Hydroxide> schultmc: but it only takes into account transactions since the start of the data entry system, right?
+15:05 < Hydroxide> schultmc: it hasn't been added to pre-existing balances ('retained earnings' or similar)
+15:05 < schultmc> Hydroxide: yes
+15:05 < Hydroxide> (though that's a non-profit term)
+15:05 < Hydroxide> *not a non-profit term
+15:06 < luk__> normally one begins with a starting balance, so the approximation might not be very good?
+15:06 < Hydroxide> schultmc: I appreciate all the re-working of the treasurer infrastructure since I yielded the post, but we do seem to have lost some of the regularity and completeness of the reports since then.
+15:06 < Ganneff> so this is not the real amount of money projects have with us?! when/where/do we get a report with that info?
+15:07 < schultmc> as soon as the credit card data has been input I'll generate a proper report
+15:07 < Hydroxide> schultmc: whether you considered the numbers in my treasurer's reports accurate or not, please try to get some approximation of that set of information. (optionally minus some of the detail at the sub-project level)
+15:07 < Ganneff> schultmc: on -private within two weeks a good timeframe?
+15:08 < schultmc> Ganneff: yes, that should be doable
+15:08 < schultmc> Hydroxide: that's my goal
+15:08 < Ganneff> everyone ok with it? more question for this topic? more to say (schultmc?)
+15:08 < Hydroxide> schultmc: I'll also send status request in a week to see if you're still making progress, ok? (it's taken a while)
+15:08 < schultmc> Hydroxide: sure
+15:08 < Hydroxide> cool
+15:09 < Ganneff> nothing more?
+15:09 < Ganneff> [item 5, Secretary's report]
+15:09 < Ganneff> Hydroxide: your time
+15:09 < Ganneff> i guess none as in agenda?
+15:09 < Hydroxide> well
+15:09 < Hydroxide> I'll just mention one thing
+15:10 < Hydroxide> Neil is still working on the minutes for the meetings during which he was secretary, up to and including the August meeting
+15:10 < Hydroxide> I'll be responsible for minutes starting this meeting
+15:10 < Ganneff> fine.
+15:10 < Hydroxide> that's about it in that regard.
+15:10 < Ganneff> [item 6, Outstanding minutes]
+15:10 < Ganneff> Again for Hydroxide. Or well, Maulkin.
+15:10 < Hydroxide> who isn't here. as of some time in the last 24 hours, he said they were coming along "slowly", but didn't report any ready yet
+15:11 < Maulkin> None from me I'm afraid, I hope to get these for next meeting
+15:11 < Hydroxide> oh, hi there
+15:11 < Maulkin> I am here! :)
+15:11 < Ganneff> so the agenda is wrong?
+15:11 < Hydroxide> <Maulkin> Neil McGovern
+15:11 < Hydroxide> Ganneff: what's wrong? it says they're outstanding, not that they're ready for approval
+15:11 < Ganneff> well, lets go on.
+15:11 < Hydroxide> Ganneff: none of them are links and none have text
+15:12  * Hydroxide nods
+15:12 < Ganneff> [item 7, Stuff for discussion]
+15:12 < Ganneff> We seem to have 2 items here, "Resolution 2008-09-17.mcs.1: Tux4Kids from Michael" and then "Statement supporting the World Day Against Software Patents from MJ Ray".
+15:12  * kendrick perks up
+15:12  * Hydroxide suggests that schultmc or kendrick talk about the first one
+15:12 < kendrick> sure
+15:13 < Ganneff> go
+15:13  * schultmc initially proposed Tux4Kids join SPI when Sam Hart was still involved
+15:13 < kendrick> so a little history.  Tux4Kids is participating in Google Summer of Code this year
+15:13 < schultmc> that process stalled since T4K needed different things at the time
+15:13 < kendrick> towards the end, we discovered that payments to mentor orgs are made as a lump sum to each org
+15:13 < kendrick> schultmc: i'm sure tux4kids still needs a lot of the same things as it did back then, but that's another issue. :)
+15:14 < kendrick> anyway, since i was admin of Tux4Kid's participation in GSOC, i figured i'd end up taking the lump sum, which i plan to disperse to the other mentors.  that would cause a big tax hit for me.
+15:15 < kendrick> so in looking for solutions, i noticed some of the other mentor orgs participating in GSOC were part of SPI  (hi, josh)  so decided to look into joining
+15:15 < kendrick> tux4kids is not currently a non-profit.  a friend org, OSEF, is also not currently a non-profit, i think.  and SPI looks like a very good fit.
+15:16 < kendrick> we're busy trying to develop edu software  (and manage projects, maintain websites, do PR, etc. etc.)  so having one more thing to do (taxes, finances, etc.) would be a big burden
+15:16  * Hydroxide makes minor clarifications to the Tux4Kids line item in the agenda
+15:16 < kendrick> should we refresh that page, Hydroxide?
+15:16 < Hydroxide> not important, no
+15:17 < Hydroxide> anyway, sounds like your needs are indeed a good fit for SPI
+15:17 < kendrick> i personally have a long history in Tux4Kids and linux orgs.  i co-founded the LUG in my town, and now (nearly 10 years later) continue to run it.
+15:17 < kendrick> i've been working, mostly non-stop, on Tux Paint since mid-2002
+15:18 < Ganneff> now. sounds all good and fine, and it seems we dont hate tux4kids, so how about we go on and vote about it?
+15:18 < kendrick> and i'm also a glutton for more work, so i've offered to be the 'decision maker' for T4K, with David Bruce (head of one of the other T4K projects) as an assist.
+15:18  * Hydroxide seconds
+15:18 < kendrick> and noone seemed to care, and hey. looks like you're voting
+15:18 < Hydroxide> kendrick: I think we're ready to vote. yes. it has been discussed via email, after all. :)
+15:18 < kendrick> (strike that -- people ENCOURAGED me be the desicionmaker :) )
+15:19 < kendrick> Hydroxide: good point. :)  i'll shut up now.
+15:19 < Hydroxide> Voting started, 7 people (ganneff,schultmc,hydroxide,luk__,linuxpoet,zobel,maulkin) allowed to vote on Tux4Kids as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+15:19 < schultmc> !vote yes
+15:19 < Ganneff> !vote yes
+15:19 < Hydroxide> !vote yes
+15:19 < linuxpoet> !vote yes
+15:19 < zobel> !vote yes
+15:19 < Maulkin> !vote yes
+15:19 < Hydroxide> luk__: ?
+15:19 < Hydroxide> going once...
+15:19 < luk__> !vote yes
+15:20 < Hydroxide> Current voting results for "Tux4Kids as associated project": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+15:20 < Hydroxide> Voting for "Tux4Kids as associated project" closed.
+15:20 < Hydroxide> it passes.
+15:20 < linuxpoet> Welcome aboard
+15:20 < kendrick> (won't someone think of the children?)
+15:20 < Maulkin> Welcome schultmc :)
+15:20 < zobel> kendrick: welcome 
+15:20 < Ganneff> welcome tux4kids, if you accept it
+15:20 < Maulkin> err... =ken
+15:20 < Maulkin> bah
+15:20 < kendrick> :)
+15:20 < Hydroxide> kendrick: for the record, do you accept the invitation to join as per the framework linked from the resolution text?
+15:20 < schultmc> Maulkin: thanks? :)
+15:20 < Ganneff> now, the other point, Statement supporting the World Day Against Software Patents
+15:20 < kendrick>     http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1                ?
+15:20 < Ganneff> who wants to speak?
+15:20 < Hydroxide> Ganneff: one sec
+15:20 < linuxpoet> Ganneff: hold
+15:20 < kendrick> yes, i accept
+15:21 < Hydroxide> kendrick: cool. that was primarily for the record so that the invitation didn't lapse, etc
+15:21 < Ganneff> there. now, who wants to speak? :)
+15:21 < Hydroxide> Ganneff: I'll just say one or two things since slef isn't here
+15:21 < linuxpoet> let me do a quick review again
+15:21 < Ganneff> Hydroxide: go
+15:22 < Hydroxide> making a statement in support of this event was proposed via email by slef on -general a couple of weeks ago, and he proposed the text in the agenda one week ago
+15:22 < linuxpoet> Ok I read it
+15:22 < Hydroxide> it speaks for itself and doesn't really need slef here to explain it, which is why it's still on the agenda in his absence
+15:22 < Hydroxide> any comments, wishes to vote, etc?
+15:22 < linuxpoet> Yes
+15:23 < Ganneff> well. i say we should vote.
+15:23 < linuxpoet> I think there is a question as to whether we want to be an activist organization
+15:23 < Hydroxide> linuxpoet: that's definitely a relevant question. do any other board members or non-board attendees have thoughts on that?
+15:24 < Hydroxide> linuxpoet: we already do have a stated position opposed to software patents as per the resolution which MJ references in his second preamble paragraph
+15:24 < Ganneff> difference to proposed text?
+15:24 < linuxpoet> Right but my question isn't really relevant to software patents (which I concur are bad)
+15:24 < linuxpoet> Its about aligning ourselves in a political manner and thus representing ourselves as an activist organization versus an educational one
+15:25 < linuxpoet> *shrug*
+15:25 < luk__> linuxpoet: well I think we can make an exception for software patents, no?
+15:25 < Hydroxide> anyone else have thoughts or motions? I'd like to hear from at least one or two other board members
+15:25 < Hydroxide> (such as luk__ )
+15:25 < schultmc> http://www.spi-inc.org/corporate/resolutions/1998-11-16.iwj.2 is already a statement on software patents (and other IP)
+15:25 < Ganneff> i think its ok to support this anti-patent stuff (and already proposed to vote on this, thats unchanged) :)
+15:26 < Hydroxide> personally, I have no problem with us taking stances on issues directly related to free software
+15:26 < Hydroxide> especially when it isn't related to specific legislation or politicians
+15:26  * Hydroxide points out that anyone can cause a vote on the statement by seconding it
+15:26 < Hydroxide> (seconding Ganneff's call to vote)
+15:26  * Maulkin seconds
+15:27 < Hydroxide> ok
+15:27 < Hydroxide> Voting started, 7 people (ganneff,schultmc,hydroxide,luk__,linuxpoet,zobel,maulkin) allowed to vote on Statement on World Day Against Software Patents. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+15:27 < Maulkin> !vote abstain
+15:27 < linuxpoet> !vote abstain
+15:27 < Ganneff> !vote yes
+15:27 < Hydroxide> !vote yes
+15:27 < luk__> !vote yes
+15:27 < schultmc> !vote yes
+15:27 < zobel> !vote yes
+15:27 < Hydroxide> Current voting results for "Statement on World Day Against Software Patents": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+15:27 < Hydroxide> Voting for "Statement on World Day Against Software Patents" closed.
+15:28 < Hydroxide> it passes.
+15:28 < Ganneff> fine. lets go on.
+15:28 < Ganneff> [item 8, Next board meeting]
+15:28 < Ganneff> Going with third Wed of months it should be on Wednesday, 14th October 2008 - 19:00 UTC i think
+15:28 < luk__> Hydroxide: I guess you take care of the press announcement?
+15:28 < Hydroxide> who wants to work with me to draft the news release and notice to members?
+15:28 < Hydroxide> Ganneff: one sec
+15:28 < Ganneff> Hydroxide: sure.
+15:28 < Hydroxide> luk__: I'll be responsible for making sure it happens, yes
+15:28 < Hydroxide> I guess we can talk about this another time. just contact me if you're available to help.
+15:29 < luk__> Ganneff: it's Wed *15*th
+15:29 < Ganneff> ok. right
+15:29 < Ganneff> Going with third Wed of months it should be on Wednesday, 15th October 2008 - 19:00 UTC i think
+15:29 < Hydroxide> yes. and Daylight Saving / Summer Time will not have changed at all in US/EU
+15:29 < Ganneff> anyone against this?
+15:29 < Hydroxide> *US/EU/CA
+15:29 < linuxpoet> Works for me at this time
+15:29  * Maulkin sends tentative regrets
+15:29 < Hydroxide> works for me
+15:29 < schultmc> works for me
+15:29 < Maulkin> I have a council meeting at 6 UK time, and if it's on, it's unlikely I'll make it
+15:29 < Hydroxide> Maulkin: please email me too
+15:29 < Ganneff> thanks everyone for attending, now:
+15:29 < Hydroxide> Maulkin: to state that
+15:29 < Maulkin> ack.
+15:30 < Hydroxide> k
+15:30 < Ganneff> *GAVEL*
+15:30 < linuxpoet> Ganneff: hold
+15:30  * Maulkin thanks ganneff
+15:30 < linuxpoet> Ganneff: you forgot the final remarks segment
+15:30 < Ganneff> right. aob (could we put it in agenda please?)
+15:30 < Ganneff> for future.
+15:30 < Hydroxide> Ganneff: sure, will do.
+15:30 < Ganneff> linuxpoet: go, secretary: please include it in a log later.
+15:30 < linuxpoet> O.k. I have two things
+15:31 < Hydroxide> Ganneff: I'm still logging.
+15:31 < linuxpoet> 1. PostgreSQL is having their West conference Oct 10-12th in Portland :) Anyone West of Denver please join us http://www.pgcon.us/
+15:31 < linuxpoet> 2. I know we have a new deadline for finance finalization but I would like it noted for the record that the PostgreSQL Project is getting increasingly agitated at the continual delays.
+15:31 < linuxpoet> That is all.
+15:32 < Ganneff> anyone else something to add?
+15:32 < Hydroxide> linuxpoet: noted for the record.
+15:32 < linuxpoet> ty
+15:32 < luk__> nope
+15:32 < Ganneff> *GAVEL* (now really)

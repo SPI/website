@@ -1,0 +1,150 @@
+15:00 < Ganneff> *BANG*
+15:00 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.  Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-01-21.html
+15:00 < Ganneff> [item 2, Roll Call]
+15:00 < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  Guests, please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+15:00 < Ganneff> Hydroxide: please update us on known and tentative regrets.
+15:00 < Maulkin> Neil McGovern
+15:00 < cdlu> David Graham
+15:00 < Ganneff> Joerg Jaspert
+15:00 < Hydroxide> Jimmy Kaplowitz
+15:00 < linuxpoet> Joshua D. Drake
+15:00 < cdlu> 1 more for quorum
+15:00 < Hydroxide> known regrets from Michael Schultheiss
+15:00 < zobel> Martin Zobel-Helas
+15:00 < Hydroxide> tentative regrets from Bdale Garbee
+15:00 < cdlu> quorum
+15:00 < Ganneff> damn you zobel. quorum
+15:00 < luk> Luk Claes
+15:00 < Ganneff> [item 3, President's Report]
+15:00 < Ganneff> None, i think? and no bdale.
+15:01 < Hydroxide> right.
+15:01 < Ganneff> [item 4, Treasurer's Report]
+15:01 < Ganneff> schultmc - not here, so nothing
+15:01 < Ganneff> [item 5, Secretary's report]
+15:01 < Ganneff> Hydroxide: your time
+15:01 < Hydroxide> right.
+15:01 < Hydroxide> I put a secretary's report in the agenda with various updates. any questions?
+15:01 < Ganneff> the git repo is there now.
+15:01 < Ganneff> nothing much more done besides that.
+15:02 < Hydroxide> ok
+15:02 < Ganneff> done?
+15:02 < linuxpoet> done
+15:02 < Hydroxide> cdlu: the 3/19 meeting minutes link works for me
+15:02 < Hydroxide> cdlu: it goes to http://www.spi-inc.org/corporate/meeting-minutes/2008/meeting-minutes-2008-03-19.txt/view
+15:02 < Hydroxide> cdlu: clear your cache maybe
+15:02 < Ganneff> [item 6, Outstanding minutes]
+15:02 < Ganneff> Again for Hydroxide.
+15:03 < cdlu> it works now
+15:03 < Hydroxide> Last meeting's minutes are not yet ready due to me being sick - will have them for next meeting. We have three meeting minutes from before my term as Secretary, generously prepared by zobel 
+15:03 < Hydroxide> thank you very much, Martin!
+15:03 < Ganneff> lets vote. :)
+15:03 < Hydroxide> one of them needs a few additional details to be added later, as per the agenda.
+15:03 < Hydroxide> (that can be a separate vote, later, but we can approve what's there now)
+15:03 < Hydroxide> we need three votes or one?
+15:03  * Maulkin would suggest leaving one that isn't ready yet
+15:04 < Hydroxide> I can do that too
+15:04 < Maulkin> Just one? :)
+15:04 < Hydroxide> the second and third are ready
+15:04 < Ganneff> anyone against voting on both together?
+15:04 < cdlu> anyone want to move for separation? :)
+15:04  * cdlu is prepared to vote in bulk
+15:04 < zobel> i will try to get the other three ready for next meeting, unless Maulkin will do it.
+15:04 < linuxpoet> Considering I don't even remember the meeting, I am indifferent
+15:04 < Ganneff> so lets do them together.
+15:05 < luk> s/announced announced/announced/ for the May one
+15:05 < Hydroxide> Voting started, 7 people (linuxpoet,luk,ganneff,hydroxide,maulkin,cdlu,zobel) allowed to vote on Approve April/May 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+15:05 < zobel> linuxpoet: we could also move the vote and i will add the logs of those meetings to the minutes,
+15:05 < Ganneff> !vote yes
+15:05 < cdlu> !vote yes
+15:05 < Hydroxide> !vote yes
+15:05 < linuxpoet> !vote abstain
+15:05 < Maulkin> !vote yes
+15:06 < luk> !vote yes (though want the repetition removed ;-))
+15:06 < zobel> !vote yes
+15:06 < Ganneff> luk: only vote, comment seperately.
+15:06 < Hydroxide> luk: try voting again
+15:06 < Ganneff> dont confuse the script
+15:06 < luk> !vote yes
+15:06 < Hydroxide> luk: I'll fix the typo
+15:06 < Hydroxide> Current voting results for "Approve April/May 2008 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+15:06 < Hydroxide> Voting for "Approve April/May 2008 minutes" closed.
+15:06 < Hydroxide> good.
+15:06 < Ganneff> good.
+15:06 < Ganneff> thats all we have to vote on here, right?
+15:06 < Hydroxide> as far as minutes, yes
+15:06 < Hydroxide> next item is linuxpoet's resolution
+15:07 < Ganneff> [item 7, Stuff for discussion]
+15:07 < Ganneff> We seem to have 1 item here, "Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative (Joshua D. Drake)"
+15:07 < linuxpoet> Right
+15:07 < linuxpoet> I spoke with SFLC
+15:07 < Hydroxide> lots of info in the agenda, previously sent to -private a while ago
+15:07 < linuxpoet> I received the following:
+15:07 < linuxpoet> Sounds great, but agree that there are certain considerations for handling these kinds of donations that you need to be careful about.
+15:07 < linuxpoet> I'll need to do a little bit of research to refresh my memory and could get back to you Wednesday or Thursday. Is that soon enough?
+15:07 < linuxpoet> From Karen Sandler
+15:07 < linuxpoet> I have not heard as of yet
+15:08 < Hydroxide> sounds like we'll probably be able to approve them in the end but might want to wait until February so we can hear from her?
+15:08 < linuxpoet> I suggest we table voting until we have exact procedures required to ensure this will work appropriately
+15:08  * Maulkin is unhappy on votingfor this without a legal brief
+15:08  * Hydroxide agrees
+15:08 < linuxpoet> Only question I have is, do we have to wait until Februrary?
+15:08  * luk too
+15:08 < Ganneff> same here.
+15:08 < linuxpoet> If we get what we need in two days, can we hold an email vote?
+15:08 < Ganneff> linuxpoet: well. we *can* do email votes, if really needed.
+15:08 < Maulkin> But it'... interesting
+15:08 < Hydroxide> linuxpoet: it's easiest. we may want clarifications, etc. and email votes are allowed but need 100% unanimity among all 9 board members under NY law
+15:08 < Hydroxide> linuxpoet: (despite our bylaws)
+15:09 < linuxpoet> Ahh so we need consent (same as Oregon law)
+15:09 < cdlu> the procedure for email votes is arcane, we could always have a conditional vote now
+15:09  * Hydroxide moves to wait until February on this resolution, pending legal advice from SFLC
+15:09 < Maulkin> cdlu: wording?
+15:09 < linuxpoet> I just hate to hold these guys off for another four weeks if we find out tomorrow
+15:09 < cdlu> we approve helios contingent on nobody bringing up objections following our legal advice, or somesuch
+15:09  * Ganneff moves for a vote under "its only valid if we get positive feedback from our lawyers"
+15:09 < luk> linuxpoet: we could also agree to hold the February meeting earlier? :-)
+15:10 < linuxpoet> True enough
+15:10  * Hydroxide nods at luk 
+15:10 < linuxpoet> O.k. how about that? 
+15:10  * Hydroxide withdraws his motion
+15:10 < cdlu> our by-laws allow a special meeting to be called 
+15:10 < cdlu> we could just do that
+15:10 < linuxpoet> +1
+15:10 < Maulkin> What notice is needed?
+15:10 < cdlu> when we get the legal advice, president+secretary call the meeting and off we go.
+15:10 < cdlu> 2 weeks, like any meeting.
+15:10 < Hydroxide> guys, it's easiest to just have an earlier february meeting
+15:10 < Maulkin> That's a while...
+15:11 < Maulkin> *shrug*
+15:11 < luk> Maulkin: in 10 days it's February already :-)
+15:11 < linuxpoet> If we need two weeks, let's just have next meeting first week of Feb
+15:11 < cdlu> I think conditional approval now is our fastest, easiest, and best bet.
+15:11 < Ganneff> ok. so this point is done for now, i think? 2 weeks should be ok, and we can move a meeting if need be.
+15:11  * Maulkin nods at cdlu 
+15:11 < Hydroxide> cdlu: there's also a defect in the resolution
+15:11 < linuxpoet> There is?
+15:11 < cdlu> ok, then defer it. I'm not partial. :)
+15:12 < Hydroxide> cdlu: i.e. it doesn't include the backup liaison that the HeliOS's application email referred to
+15:12  * Maulkin seconds Hydroxide to defer.
+15:12 < Hydroxide> Ganneff: let's go on.
+15:12  * cdlu thinks we have enough unvoted seconds to run us a whole hour
+15:12 < Ganneff> [item 8, Next board meeting]
+15:12 < Ganneff> Going with third Wed of months it should be on Wednesday, February 18th, 2009, 20:00 UTC. Unless we screw this later by mail.
+15:12 < Maulkin> (we can recall it at a special if needed)
+15:12  * Hydroxide moves to meet Feb 11th instead
+15:12 < zobel> so no item up for discussion?! :)
+15:12 < Hydroxide> and not worry about a special
+15:12 < Hydroxide> any objection to the 11th?
+15:13 < cdlu> long agenda, short meeting. foolproof. :)
+15:13 < zobel> Hydroxide: no
+15:13 < linuxpoet> 11th is beter for me
+15:13 < cdlu> no objection here, but please send loud obnoxious reminders
+15:13 < Maulkin> Apologies for me next month.
+15:13 < Hydroxide> I will.
+15:13 < linuxpoet> I travelling the week of the 18th
+15:13 < Hydroxide> 11th going once...
+15:13 < Ganneff> send reminders, twice. so its the 11th then.
+15:13 < Hydroxide> twice...
+15:13 < Hydroxide> good.
+15:13 < Hydroxide> will send reminders.
+15:13 < Ganneff> *GAVEL*

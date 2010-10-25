@@ -1,0 +1,509 @@
+19:02 < bdale_gprs> *GAVEL*
+19:02 < schultmc> [item 2, roll call] Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  I note for the record that regrets have been received from Jimmy Kaplowitz
+19:02 < bdale_gprs> [item 1, Opening] Welcome to today's Software in the Public Interest
+19:02 < bdale_gprs> board of directors meeting, which is now called to order.  Today's agenda
+19:02 < bdale_gprs> and details of pending resolutions can be found on the web at:
+19:02 < bdale_gprs> http://www.spi-inc.org/secretary/agenda/2006/2006-11-21.html
+19:02 < bdale_gprs> [item 2, Roll Call]
+19:02 < bdale_gprs> Board members, please state your name for the record.  As we have nine board
+19:02 < schultmc> heh
+19:02 < bdale_gprs> members, quorum for today's meeting is six.  Guests, please /msg your names
+19:02 < bdale_gprs> to Maulkin if you wish your attendance to be recorded in the minutes of this
+19:02 < bdale_gprs> meeting.
+19:02 < bdale_gprs> I note that regrets have been received from Jimmy Kaplowitz.
+19:02 < iwj> Ian Jackson
+19:02 < bdale_gprs> Bdale Garbee
+19:03 < jberkus> Josh Berkus
+19:03 < cdlu> David Graham
+19:03 < Maulkin> Neil McGovern
+19:03 < Overfiend> Branden Robinson
+19:03 < schultmc> Michael Schultheiss
+19:03 < cdlu> quorum
+19:03  * Maulkin prods Joey 
+19:04 < Maulkin> I guess not.
+19:04 < bdale_gprs> has my stuff ever made it through, or am I hopelessly lagged?
+19:04 < Maulkin> bdale_gprs: 19:02 :)
+19:04 < schultmc> bdale_gprs: it did eventually
+19:04 < bdale_gprs> ok.  since we have quorum, let's move along
+19:04 < bdale_gprs> [item 3, President's Report]
+19:04 < bdale_gprs> I've had several interesting discussions with representatives of current and
+19:04 < bdale_gprs> potential associated projects in person (particularly at LW-UK) or by email
+19:04 < bdale_gprs> and IRC in the last month, but nothing from those conversations is ready for
+19:04 < bdale_gprs> board action at this time.
+19:04 < bdale_gprs> Greg Pomerantz and I have exchanged several emails since our last board
+19:04 < bdale_gprs> meeting.  I missed a chance to talk to him last night by phone due to not
+19:04 < bdale_gprs> seeing his email invitation until this morning, but he's engaged and reviewing
+19:05 < bdale_gprs> our list of open questions.  I regret not having his inputs for this meeting,
+19:05 < bdale_gprs> but hopefully I'll have an update for the board by email this week.
+19:05 < bdale_gprs> [item 4, Treasurer's Report]
+19:05 < bdale_gprs> Josh, you have the floor.
+19:05 < jberkus> bdale: comment on your report: I would like us to have the completed Associated Projects HOWTO
+19:05 < jberkus> online before we accept anyone else
+19:05 < jberkus> and for the record, LedgerSMB and OpenOffice.org are both pending us getting stuff togehter
+19:06 < bdale_gprs> jberkus: understood and agreed
+19:06 < jberkus> now, Treasurer's report
+19:06 < jberkus> I did a fairly extensive writeup online:
+19:07 < jberkus> http://www.spi-inc.org/treasurer/treasurer-s-report-11-2006.html
+19:07 < jberkus> no need to rehash it here
+19:07 < jberkus> the one thing that didn't make my report is that based on feedback we may want to revisit the 5% rule
+19:07 < jberkus> as our way of allocating SPI funds
+19:07 -!- sladen [paul@starsky.19inch.net] has joined #spi
+19:07 < jberkus> for some kind of modified rule
+19:08 < jberkus> we will discuss this on e-mail
+19:08 < jberkus> LedgerSMB should be ready to data entry next week
+19:08 < jberkus> volunteers appreciated
+19:08 < bdale_gprs> good.  thanks, by the way, both for your continued work to get our books up to date, and for the discussion of the last day or two regarding the 5% rule
+19:08 < jberkus> done
+19:08  * cdlu echos bdale
+19:08 < Overfiend> I have a question
+19:08 < iwj> jberkus: Well, we could so some kind of per-transaction fee but that starts to make small donations unattractive.  But yes, email is good.
+19:08 < bdale_gprs> Overfiend: ask
+19:09 < Overfiend> sure...did we mail our 990 in to the IRS via a trackable method?
+19:09 < aj> jberkus: q: what sort of volunteering for ledgersmb data entry is possible
+19:09 < iwj> jberkus: What bdale said: thanks a lot.  You've been doing great work.
+19:09 < bdale_gprs> iwj: I like the percentage with cap idea, personally, but more discussion than we want to have here today will be required to get it right
+19:09 < jberkus> Overfiend: return reciept
+19:09 < iwj> bdale_gprs: Right.
+19:09 < Overfiend> jberkus: okay...so we know they've actually got it?
+19:09 < jberkus> not until I get the receipt, but then we will
+19:09 < Overfiend> okay
+19:09 < bdale_gprs> ok, thanks Josh
+19:09 < bdale_gprs> [item 5, Outstanding Minutes]
+19:09 < bdale_gprs> Neil, what do you have for us today?
+19:10 < Overfiend> jberkus: well, once you do, congratulations on your alchemical victory, going where no SPI Treasurer has gone before
+19:10 < Overfiend> jberkus: :)
+19:10 < jberkus> note that we've had no repsonse on our change-of-address
+19:10 < jberkus> so that might be an issue
+19:10 < Maulkin> I have one set of minutes for approval this month, October 17th, 2006; they're available at
+19:10 < Maulkin> http://www.spi-inc.org/secretary/corporate/meeting-minutes/2006/board-meeting-october-17th-2006.html
+19:10 < Maulkin>  
+19:10 < Overfiend> jberkus: yeah, neither Mike nor I have seen anything yet
+19:10 -!- Colin [~colin@81.111.45.55] has joined #spi
+19:10 < schultmc> i sent it certified and verified they received it
+19:10 < bdale_gprs> any discussion before we vote on the minutes?
+19:10 < Maulkin> If there's no comments,
+19:10  * Maulkin moves to vote
+19:10 < Ganneff> ajs question was missed
+19:11  * cdlu seconds motion to vote
+19:11 < Maulkin> Ganneff: ?
+19:11 < aj> jberkus: q: what sort of volunteering for ledgersmb data entry is possible
+19:11 < Ganneff> 20:09:10 <aj> jberkus: q: what sort of volunteering for ledgersmb data entry is possible
+19:11 < jberkus> aj: data entry of donations and expenses for the year
+19:12 < aj> jberkus: physical records -> ledgersmb, or trasncription from pdf/spreadsheet, or?
+19:12 < Ganneff> who can volunteer? anyone? or just contribuing members?
+19:12 < jberkus> I'd like to confine it to the board for accountability reasons
+19:12 < jberkus> this is our accounting system
+19:12 < Ganneff> k
+19:12 < jberkus> well, and sysadmins
+19:12 < bdale_gprs> jberkus: need for geographic location?
+19:12 < jberkus> nope, it's web
+19:12 < jberkus> let's take this to board@ or chat after the meeting
+19:12 < aj> tnx
+19:13 < Maulkin> Can this be done on-list? :)
+19:13 < bdale_gprs> ok, cool.  any volunteers, please contact Josh directly outside this meeting 
+19:13 < bdale_gprs> Maulkin: I think we're ready to vote on minutes
+19:13 < Maulkin> Voting started, 6 people (ijw,bdale_gprs,jberkus,cdlu,overfiend,schultmc) allowed to vote on Accept minutes from October 17th, 2006. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:13 < cdlu> !vote yes
+19:13 < schultmc> !vote yes
+19:13 < Overfiend> !vote abstain (I was not present)
+19:13 < Maulkin> !vote yes
+19:13 < bdale_gprs> !vote yes
+19:13 < jberkus> !vote yes
+19:13 < iwj> !vote yes
+19:13 < Maulkin> iwj ?
+19:13 < Maulkin> Current voting results for "Accept minutes from October 17th, 2006": Yes: 4, No: 0, Abstain: 0, Missing: 2 ( ijw  overfiend )
+19:13 < Maulkin> Voting for "Accept minutes from October 17th, 2006" closed.
+19:13 < Overfiend> bah
+19:14 < Maulkin> Well, that failed
+19:14 < aj> Maulkin: you can't vote?
+19:14 < Overfiend> nice regex!
+19:14 < iwj> I've turned into ijw!
+19:14 < Maulkin> I'll redo that :)
+19:14 < Overfiend> !vote abstain
+19:14 < iwj> They did that too me at the Ubuntu allhands meeting too.
+19:14 < iwj> I had to edit my badge.
+19:14 < Maulkin> Vote passes with yes: 6, abstain: 1
+19:14 < Overfiend> iwj: maybe they're biased against gender-neutral pronouns
+19:14 < Joey> !vote yes
+19:14 < Maulkin> And a Joey :)
+19:14 < cdlu> <Joey> Martin Schulze :)
+19:14 < Joey> *grr*
+19:15 < bdale_gprs> Maulkin: so, it appears to me that the vote passed even if the script failed?
+19:15 < Joey> Sorry folks, DSL went down right when I wanted to vote, just before I hit [enter]
+19:15 < Maulkin> bdale_gprs: yes, sorry :)
+19:15 < iwj> bdale_gprs: Right.
+19:15 < Overfiend> Joey: the bot didn't know you were present, so your vote wouldn't have been recognized anyway
+19:15 < Overfiend> Joey: see "Voting started" above
+19:16 < schultmc> the script didn't include Maulkin either
+19:16 < Maulkin> Vote passes with yes: 7, abstain: 1
+19:16 < Overfiend> hmmm, point
+19:16 < Maulkin> Cause I forgot to type my name
+19:16 < cdlu> Maulkin, careful, we're dangerously close to losing our meeting to a vote on minutes. :)
+19:16 < Overfiend> So that's a feature, not a bug.
+19:17 < Overfiend> The bot is programmed to coax Joey out of his Patrick McGoohan impression.
+19:17 < Maulkin> It passed, I'm done on this section :P
+19:17 < iwj> bdale_gprs: Please gavel people on to the next item.
+19:18 < cdlu> schultmc, please take over... this is silly.
+19:18 < Overfiend> schultmc: Our gallant young President has been struck down in his prime.  Can you fill in?
+19:18 < bdale_gprs> ok, let's move along then
+19:18 < bdale_gprs> [item 6, Items up for Discussion]
+19:18 < bdale_gprs> [item 6.1, Further on Debian trademark in Spain (Resolution 2006-04-03.jfsp.1)] Action on this remains pending input from Greg.  Anyone else have anything to add on this item today?
+19:18 < bdale_gprs> Overfiend: ?
+19:18 < bdale_gprs> anyone have anything to add on 6.1, or do I move along?
+19:19 < Overfiend> bdale_gprs: you got eaten by lag...sorry
+19:19 < cdlu> has anyone spoken to Greg?
+19:19 -!- mc [many@mc.netop.oftc.net] has joined #spi
+19:19 < Overfiend> cdlu: see Bdale's President's Report
+19:19 < jberkus> bdale_gprs: what's the holdup on this?  it's embarassing
+19:19 < Overfiend> above
+19:19  * bdale_gprs moves his phone and gets more bars.  better?
+19:19 < bdale_gprs> cdlu: I've spoken to him, no advice on the spain issue yet
+19:19 < jberkus> Debian has money, maybe we should just pay an attorney
+19:19 < iwj> bdale_gprs: Does he now know about this spain thing ?
+19:19 < cdlu> ok
+19:19 < iwj> As in, have you mentioned it ?
+19:19 < iwj> Does he know we've been trying to get an answer for months ?
+19:20 < bdale_gprs> iwj: it was part of a list of questions pending his input I reminded him of by email over the weekend
+19:20 < iwj> bdale_gprs: Did you speak to him on the phone at all ?
+19:20 < iwj> Give us some feedback here ...
+19:20 < bdale_gprs> iwj: he replied with an invite for a phone call to catch up last night that I didn't see until today
+19:20 < iwj> Ah.
+19:20 < iwj> Err, did you do anything about this last weekend ?
+19:20 < iwj> I mean, before last weekend.
+19:21 < bdale_gprs> my bad for being last-minute-ish catching up with him before the meeting, but I'm not yet sure why he hasn't responded to the initial query back in April, since he should have had it and several pings since
+19:21 < Overfiend> April(!)
+19:21 < iwj> Yes, it's mystifying.
+19:21 < bdale_gprs> Overfiend: note the resolution date
+19:21 < iwj> Maybe we should have a rota.
+19:21 < jberkus> um, I think that we need to look at getting a paid attorney
+19:21 < iwj> For pinging him.
+19:21 < jberkus> or paying Greg
+19:21 < iwj> Possibly.
+19:22 < iwj> This kind of thing eats money quite quickly though.
+19:22 < Overfiend> or pre-authorize Greg to call some or all Board members at any time
+19:22 < Joey> before paying "any" attorny we should consider paying Greg.
+19:22 < jberkus> because it seems that Greg does not have enough pro-bono time to take care of all of our advice issues
+19:22 < bdale_gprs> I got enthusiastic when he engaged on one of our lists recently, then he went quiet again which is why I sent him the ping this weekend hoping for some answers before today
+19:22 < jberkus> Joey: sure, unless we need a specialist
+19:22 < Joey> ack
+19:23  * Overfiend seconds Joey.  Greg does have the virtue of being intimately familiar with Debian and Free Software issues, which is still a real minority characteristic among practicing attorneys.
+19:23 < iwj> So what are we going to do right now ?
+19:23 < bdale_gprs> I think we need to figure out how much of this is that he's not plugged in to our communication streams and/or pending request list vs how much he does or doesn't have time
+19:23 < aj> (i'd apprecaite advice from SPI board and/or US folks on having Debian pay an attorney and/or how much are appropriate fees etc)
+19:23 < iwj> Bdale is going to return Greg's call and also ask whether having Greg do some non-pro-bono work would help ?
+19:23 < linuxpoet> Might I suggest that we pay Greg a retainer not to exceed $n dollars
+19:24 < Overfiend> Bdale proposed following up again this week, with an email to the Board, see Bdale's President's Report above.
+19:24 < linuxpoet> Specifically for the purpose of pursuing whatever it is you guys want
+19:24 < jberkus> aj: we'll find that out
+19:24 < Overfiend> did people flood-ignore Bdale's report?
+19:24 < aj> jberkus: thanks
+19:24 < bdale_gprs> yes, I repled to Greg's invite already today apologizing for not seeing it until this morning and asking when I should call him today/tomorrow
+19:24 < jberkus> Josh notes that if Greg is unavailable even for $$ PostgreSQL has a trademark attorney who discounts
+19:24 < bdale_gprs> Overfiend: perhaps.  it wasn't very exciting, after all...  ;-)
+19:24 < bdale_gprs> jberkus: noted, thanks
+19:25 < iwj> OK.  If we don't hear from Bdale by the weekend I will make a note in my diary to chase it personally.
+19:25 < Overfiend> bdale_gprs: yeah, except it answered questions people have been frantically asking about *since* then... :-/
+19:25 < bdale_gprs> ok.  I don't like leaving this unresolved yet again, but I don't see anything else we can do on this item today.
+19:25 < jberkus> iwj: note that it's a major holiday in the US
+19:25 < Joey> jberkus: Good to know.
+19:25 < iwj> When should I time out ?
+19:25 < bdale_gprs> jberkus: true, that's why I'm on a mountaintop in West Virginia connected by laggy GPRS...  ;-)
+19:25 < jberkus> iwj: Tuesday?
+19:26 < bdale_gprs> iwj: Wed a week from tomorrow
+19:26 < iwj> Right.
+19:26 < iwj> Noted for the 29th.
+19:26 < Overfiend> 29 November, 1700 UTC?
+19:26 < bdale_gprs> ok, let's move along
+19:26  * Maulkin nods
+19:26 < bdale_gprs> [item 6.2, Resolution 2006-11-21.jmb.1 - Removal of OpenVAS as an associated project]
+19:26 < bdale_gprs> Josh, you have the floor.
+19:27 < jberkus> Sure, openvas.org is down and shows no signs of going back up
+19:27  * Overfiend seconds.
+19:27 < jberkus> we can't contact the liason
+19:27  * Maulkin notes that his messages to Tim haven't had a reply
+19:27 < jberkus> question: some board members were going to try ...
+19:27 < cdlu> based on that information I am prepared to approve this resolution
+19:27 < jberkus> ah, that was the question
+19:27 < Maulkin> :)
+19:27 < bdale_gprs> anyone from OpenVAS happen to be here today?
+19:27 < schultmc> Maulkin is from OpenVAS iirc
+19:27 < Maulkin> Tentitively, me
+19:27 < Overfiend> heh
+19:27 < iwj> Right.
+19:28 < Maulkin> But I'm not a liason
+19:28 < Maulkin> I have root on the box where it's hosted, but that's down
+19:28 < bdale_gprs> ok, any further discussion before we vote?
+19:28 < cdlu> Maulkin, simple question: is OpenVAS dead? :)
+19:28  * Overfiend moves to clean Maulkin's OpenVAS ears out with a cotton swab
+19:28 < Joey> ... but you could let us know if the project still exists or not, no?
+19:28 < jberkus> we had a last-minute suggestion that we amend the resolution with a line explaining what we'll do if we receive money for them
+19:28 < iwj> Note that Josh has an edit to that resolution:  `4. Further donations received for OpenVAS, if any, will be held and not deposited until the donor can be contacted for disposition'
+19:28 < iwj> Which I'm sure is uncontroversial.
+19:28 < jberkus> yes, that
+19:28 < Overfiend> Joey: volunteer projects seldom go formally defunct; they just kinda wither
+19:28 < Maulkin> AFAICT, there's been no activity at all recently
+19:28 < iwj> So are we ready to vote on the amended version ?
+19:28 < bdale_gprs> I am
+19:28  * schultmc is
+19:29 < Joey> Overfiend: Ack, it's a process, but members should notice
+19:29 < jberkus> yes
+19:29 < Maulkin> hang on...
+19:29 < Overfiend> Joey: the exceptions are flameouts due to volatile personalities and/or deliberate implosion designed to try to screw someone else over
+19:29 < Overfiend> Joey: agreed
+19:29 < Maulkin> Right, ready
+19:29 < Maulkin> Proposal and second? :)
+19:29  * cdlu proposes
+19:29  * schultmc seconds
+19:29  * Overfiend re-seconds
+19:29 < cdlu> (with amendment)
+19:29 < Maulkin> Voting started, 8 people (iwj,bdale_gprs,jberkus,cdlu,overfiend,schultmc,joey,maulkin) allowed to vote on Resolution 2006-11-21.jmb.2 - Removal of OpenVAS as an associated project (amended). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:29 < Overfiend> er
+19:29 < Overfiend> wait
+19:29 < iwj> !vote yes
+19:29 < Maulkin> Ok...
+19:29 < cdlu> overfiend, ?
+19:29 < Overfiend> sorry, I missed the last part
+19:30 < jberkus> !vote yes
+19:30 < schultmc> !vote yes
+19:30 < Maulkin> !vote yes
+19:30  * cdlu holds his vote until Overfiend expands his 'wait'
+19:30 < Overfiend> I object to the progress of the vote
+19:30 < bdale_gprs> Overfiend: ?
+19:30 < Overfiend> I withdraw my re-second
+19:30 < Joey> Err...
+19:30 < Overfiend> "held and not deposited"
+19:30  * Joey objects as well.
+19:30 < Overfiend> I've taken enough heat for holding checks too long
+19:30 < Joey> I'd like to year Maulkin's opinion on it first.
+19:30 < Overfiend> I do *NOT* want to start doing it on purpose
+19:30 < iwj> Overfiend: It's fail safe in this case.
+19:30 -!- nemith [~bennetb@nemith.netop.oftc.net] has joined #spi
+19:30 < Overfiend> besides, it leaves the donors in the lurch, not the member project
+19:30 < linuxpoet> Checks are only good for a certain period of time.
+19:30 < Joey> Overfiend: Don't try to turn into me, it doesn't work.
+19:30 < jberkus> Overfiend: um, if we get a check for OpenVAS, and OpenVAS is not an AP, we *can't* deposit it
+19:31 < sladen> "held and not distributed" perhaps?
+19:31 < linuxpoet> I suggest returning all checks
+19:31 < cdlu> overfiend, if we approve it without the amendment, then the default reaction should be to decline the donations for a project we don't support correct?
+19:31 < cdlu> so can we safely vote for the original version?
+19:31 < Overfiend> cdlu: yes
+19:31 < bdale_gprs> good point
+19:31 < Maulkin> Joey: Well, I'm of the opinion it's dead. We can reverse it if OpenVAS gets a second lease of life.
+19:31 < Overfiend> just send the checks back
+19:31 < Joey> Ok.
+19:31 < Joey> then I'm in favour
+19:31 < Joey> !vote yes
+19:31 < bdale_gprs> how do we deal with electronic donations?
+19:31 < Overfiend> it's *probably* a void point given the total lack of recent donations
+19:31 < aj> linuxpoet, overfiend: ack
+19:31 < jberkus> we have to do the new amendment and re-vote
+19:31 < iwj> Sometimes donations will come automatically.
+19:31 < Overfiend> bdale_gprs: harder to cope with -- cross that bridge if it ever shows up?
+19:31 < cdlu> overfiend, do you remove your objections to the vote, or should we restart? :)
+19:31 < iwj> Eg, NFG.
+19:32 < Overfiend> cdlu: since we're back in discussion, yes
+19:32 < Overfiend> I made my protest, we can return to procedure
+19:32 < Maulkin> Current voting results for "Resolution 2006-11-21.jmb.2 - Removal of OpenVAS as an associated project (amended)": Yes: 5, No: 0, Abstain: 0, Missing: 3 ( cdlu  overfiend  bdale_gprs )
+19:32 < Maulkin> Voting for "Resolution 2006-11-21.jmb.2 - Removal of OpenVAS as an associated project (amended)" closed.
+19:32 < bdale_gprs> I think we understand the desired spirit, but I'd like to see text before I vote
+19:32 < cdlu> !vote yes
+19:32 < Overfiend> eh?
+19:32 < Maulkin> R[cancelled]
+19:32 < cdlu> heh
+19:32 < jberkus> Amendment: 4. Further donations received for OpenVAS, if any, will be returned or refunded to the donor.
+19:32 < Overfiend> cdlu: now you're just *trying* to confuse me :)
+19:32 < cdlu> Overfiend, you answered Yes to an either/or question. :)
+19:32 < bdale_gprs> jberkus: ok, that works
+19:32  * Overfiend seconds jberkus's new amendment.
+19:32 < jberkus> the "refunded" covers NfG
+19:33 < iwj> jberkus: We'll lose some processing costs, then, won't we ?
+19:33  * cdlu moves to vote on jberkus' amendment
+19:33 < cdlu> iwj, low risk
+19:33  * schultmc seconds
+19:33 < Overfiend> jberkus: we won't have their addresses so it'll still be tricky -- but like I said, cross that bridge...
+19:33 < jberkus> iwj: we're not going to receive any, so I'm not going to worry about it
+19:33 < iwj> OK
+19:33 < Maulkin> Can we vote yet?
+19:33 < cdlu> Maulkin, move/second for vote on amendment to resolution
+19:33 < iwj> But we'll use this as a template.
+19:33 < bdale_gprs> let's vote
+19:33 < jberkus> yes
+19:33 < cdlu> which should make it clearer
+19:33  * Overfiend is cool with proceeding to a vote
+19:33 < iwj> I suppose we can improve it next time.
+19:33 < Maulkin> Voting started, 8 people (iwj,bdale_gprs,jberkus,cdlu,overfiend,schultmc,joey,maulkin) allowed to vote on Resolution 2006-11-21.jmb.3 - Removal of OpenVAS as an associated project (amended,amended). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:33 < schultmc> !vote yes
+19:33 < iwj> !vote abstain
+19:33 < bdale_gprs> !vote yes
+19:33 < jberkus> !vote yes
+19:33 < Maulkin> !vote yes
+19:33 < Overfiend> !vote yes
+19:33 < cdlu> !vote yes
+19:33 < Maulkin> Joey: ?
+19:34 < iwj> NB that this means unfortunately the minutes will have to show us doing a weird thing where we pass one and then pass an amended version.
+19:34 < iwj> (Otherwise my vote doesn't make sense.)
+19:34 < Overfiend> no, I objected to the first as being out of order, or something
+19:34 < cdlu> yes, a point of order in all but name :)
+19:34 < Overfiend> I was asked to vote for the USA PATRIOT act without having time to read it first.
+19:34 < Overfiend> Or something.
+19:34 < bdale_gprs> Overfiend: I think iwj doesn't want his abstain to go un-explained
+19:34 < cdlu> I move that all board members be sent a copy of Robert's Rules and be forced to learn thim.
+19:34 < cdlu> them
+19:34 < Overfiend> bdale_gprs: ah, okay.
+19:35  * Overfiend redacts.  <Overfiend> Point of order, I didn't know what I was doing when I seconded that.
+19:35 < bdale_gprs> cdlu: please don't.
+19:35 < iwj> Overfiend: It wasn't out of order.  You just happened to notice something which was raised and then discussed.
+19:35 < linuxpoet> *cough*
+19:35 < Maulkin> Current voting results for "Resolution 2006-11-21.jmb.3 - Removal of OpenVAS as an associated project (amended,amended)": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( joey )
+19:35 < Maulkin> Voting for "Resolution 2006-11-21.jmb.3 - Removal of OpenVAS as an associated project (amended,amended)" closed.
+19:35 < Maulkin> (bored of waiting)
+19:35 < jberkus> can we finish the vote?   Joey?
+19:35 < bdale_gprs> ok, thanks
+19:35 < bdale_gprs> let's move along
+19:36 < bdale_gprs> [item 6.3, Resolution 2006-11-18.dbg.mjs.1 - Open Source Initiative domain]
+19:36 < bdale_gprs> David, you have the floor.
+19:36 < cdlu> ok, item 6.3 - resolution 2006-11-18.dbg.mjs.1, as amended by Michael Schultheiss
+19:36 < cdlu> Rationale: Former SPI project, the Open Source Initiative has requested that its domains (opensource.org and opensource.net) be turned over to their own 501c3.
+19:36 < cdlu> In the past there has been some discussion of this being an unfavourable thing to do due to OSI's governance structure.
+19:36 < cdlu> I put it to the board that the governance structures of other 501(c)3 non-profits is none of our business and that we have a responsibility to turn these domains over to OSI at the earliest opportunity. I am not willing to postpone this vote as I believe it is an issue that should be settled for once and for all.
+19:36 < cdlu> </cdlu>
+19:36 < iwj> Can I suggest that as this is contentious we should finish the discussion on email which is hot at the moment ?
+19:36 < schultmc> amended by me and Joey Schulze
+19:36 < cdlu> schultmc, either way... as amended. :)
+19:36 < jberkus> I also move for postponement.  Joey has raised a prior board resolution which I have not had time to read
+19:36 < Overfiend> iwj: that's kinda contrary to the final sentence of the proposed resolution, no?
+19:36 < iwj> It would also help make sure that the maximum number of board members turn up.
+19:37 < cdlu> iwj, 8 of 9 are here
+19:37 < xzilla> OSI owns the trademark for open source doesnt it ?
+19:37 < jberkus> at the least, we'll have to mention the prior resolution in this one
+19:37 < bdale_gprs> iwj: your concern is noted, but my last check of email an hour or so ago didn't suggest to me that there was hot discussion?
+19:37 < Maulkin> xzilla: no
+19:37 < cdlu> xzilla, no, there is no such trademark - it expired and is public domain.
+19:37 < jberkus> xzilla: there is no trademark
+19:37 < Overfiend> xzilla: no
+19:37 < aj> xzilla: OSI considers it untrademarkable
+19:37 < iwj> aj: So do we.
+19:37 < jberkus> bdale: I got mail at little as an hour ago
+19:37 < bdale_gprs> jberkus: ok, then I'm not current.
+19:38 < bdale_gprs> jberkus: can you summarize?  
+19:38 < iwj> This item was put on the agenda on Friday at 0823Z.
+19:38 < Overfiend> xzilla: the TM process was started while OSI Board Members were still at SPI, IIRC, then 3/4ths of the SPI Board quit and founded OSI, but didn't properly transfer "ownership" of the pending registration to OSI, and Bruce Perens's action to do so might not have been completely...kosher.
+19:38 < cdlu> is anyone not clear on the issues?
+19:38 < iwj> Err, wrong message, sorry.
+19:38 < jberkus> bdale_gprs: basically that there may be history and/or prior resolutions which the new board members are not aware of
+19:38 < Overfiend> xzilla: the issue was then not pursued by either OSI or SPI with the USPTO, so the USPTO canned the application
+19:39 < iwj> Even later: 1532Z on Saturday.
+19:39  * schultmc is aware of the history and prior resolutions
+19:39 < iwj> With 25 messages I think that's controversial.
+19:39 < iwj> We should give the discussion time to die out.
+19:39 < Overfiend> xzilla: that's my understanding, but iwj is the only person here who was on the SPI Board at the time, and the only one with continuity back that far
+19:39 < iwj> That way we can avoid having to have the substantive conversation here.
+19:39 < xzilla> Overfiend: ah...ok. OSI still claims the trademark though... 
+19:39 < iwj> Which would be heated and a waste of everyone's time.
+19:39 < cdlu> is there any seconded motion on the floor?
+19:40 < Overfiend> xzilla: AIUI, that is a meaningless statement, and I say that in a strictly literal sense.
+19:40 < cdlu> if not, I move to vote on the resolution.
+19:40 < iwj> I move to postpone.
+19:40 < cdlu> people have their choice of seconds.
+19:40 < jberkus> I second the postponement
+19:40 < iwj> And vote next meeting.
+19:40 < Overfiend> xzilla: a dead mark cannot be owned under U.S. trademark law
+19:40 < aj> xzilla: OSI have an "OSI" trademark, not "open source (tm)"
+19:40 < iwj> I move that we vote on the postponement.
+19:40 < cdlu> maulkin, vote on postponement?
+19:40  * cdlu will not give his consent
+19:40 < Maulkin> hang on a sec
+19:40 < bdale_gprs> given the dicussion, I believe we should postpone a vote
+19:40 < Joey> I also move that we postpone this 
+19:40 < iwj> cdlu: That sounds like a second.
+19:40 < xzilla> Overfiend: understood... but if they dont own the trademark, then they have no legal right to the domain, meaning we could just reditect it to spi and tell them to go register osi.com 
+19:40 < iwj> xzilla: Order!
+19:40 < Overfiend> xzilla: er, but aj does have a point, but the "OSI" mark has never been in dispute between SPI and OSI, Inc., nor do we own any domains relevant to the mark "OSI"
+19:41 < iwj> Mr Chairman, please call the vote.
+19:41 < iwj> Overfiend: Order!
+19:41 < Maulkin> Voting started, 8 people (iwj,bdale_gprs,jberkus,cdlu,overfiend,schultmc,joey,maulkin) allowed to vote on Postpone Resolution 2006-11-18.dbg.mjs.1 until next Board Meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:41 < iwj> !vote yes
+19:41 < Overfiend> sorry
+19:41 < jberkus> !vote yes
+19:41 < bdale_gprs> my concern, though, is that if we postpone a vote, are we going to carry the discussion through to conclusion in time to vote next time, or are we going to defer forever?
+19:41 < cdlu> !vote no
+19:41 < Maulkin> !vote no
+19:41 < schultmc> !vote no
+19:41 < jberkus> the postponement is until next month
+19:41 < Overfiend> bdale_gprs: the latter's been working for the 4 years I've been with the SPI Board...
+19:41 < bdale_gprs> Overfiend: define 'working'?
+19:41 < Overfiend> for some values of "working" :)
+19:41 < iwj> bdale_gprs: Yes, we will vote next time and we'll have had the email discussion died down by then
+19:42 < Overfiend> !vote yes
+19:42 < iwj> Joey ... ?
+19:42 < jberkus> I really don't understand the rush
+19:42  * Overfiend isn't all caught up on the mail
+19:42 < bdale_gprs> ok, so the current vote is a vote to postpone the vote on this resolution until the Dec 2006 meeting?
+19:42 < iwj> bdale_gprs: Right.
+19:42  * Maulkin tries to cound votes
+19:42 < Overfiend> jberkus: some SPI folks feel the issue is an albratross.
+19:42 < bdale_gprs> !vote yes
+19:42 < jberkus> Joey: vote!
+19:42 < Maulkin> Current voting results for "Postpone Resolution 2006-11-18.dbg.mjs.1 until next Board Meeting": Yes: 4, No: 3, Abstain: 0, Missing: 1 ( joey )
+19:42 < Overfiend> hah, if Joey votes no then this will fail due to a tie Board vote for the second time in a row
+19:42 < Joey> !vote yes
+19:42 < Maulkin> Current voting results for "Postpone Resolution 2006-11-18.dbg.mjs.1 until next Board Meeting": Yes: 5, No: 3, Abstain: 0, Missing: 0 ()
+19:42 < Maulkin> Voting for "Postpone Resolution 2006-11-18.dbg.mjs.1 until next Board Meeting" closed.
+19:43 < iwj> Great.
+19:43  * cdlu rolls eyes
+19:43 < bdale_gprs> ok.
+19:43 < jberkus> let's automatically calendar that for next meeting
+19:43 < iwj> Hopefully we can do the vote in 3 minutes next month.
+19:43 < Maulkin> Resolution 2006-11-18.dbg.mjs.1 postponed until next Board meeting
+19:43 < Overfiend> the last time this got jammed up, Bruce didn't show up to advocate his own issue
+19:43 < cdlu> iwj, sure, once you realise that we're not in a position to tell other organisations what they can and can not do.
+19:43 < jberkus> Overfiend: yes, but that's no longer relevant
+19:43 < iwj> cdlu: Order!
+19:43 < jberkus> hey, I thought we moved this to e-mail?
+19:43 < bdale_gprs> let me be very clear about this.  I'd like to close this issue one way or another, once and for all.  I will not tolerate another postponement, so please, everyone on the board continue to discuss and be ready to vote on the resolution a month hence.
+19:43 < Overfiend> iwj: er, shouldn't the meeting chair be doing that?
+19:44 < iwj> (or: You mean once you realise that a bunch of <insult insult> can't <insult> <insult>)
+19:44 < iwj> Overfiend: But he's not.
+19:44 < bdale_gprs> [item 6.4, Outstanding items requesting comment from the DPL]
+19:44 < bdale_gprs> aj, I believe item 1 may now be moot given the Sun announcement regarding GPL Java?
+19:44 < bdale_gprs> Items 2 and 3 are on the list I've asked Greg to comment on.
+19:44 < bdale_gprs> Items 4 and 5 were for the treasurer.
+19:44 < bdale_gprs> I don't believe any further discussion is required here today?
+19:44 < aj> iwj: so ask him to
+19:44 < Overfiend> iwj: take 2 cards for raising a point of order during a point of order :-P
+19:44 < Maulkin> heh
+19:44 < jberkus> items 4 and 5 depend on the data entry now
+19:44 < bdale_gprs> aj: any comment on the GPL Java vs item 1?
+19:44 < aj> bdale_gprs: i don't believe so; the stuff covered by the DLJ isn't GPLed yet, and i don't think will be in time for etch
+19:45 < bdale_gprs> aj: ok, I'll add it back to my list of stuff to talk to Greg about, then
+19:45 < Overfiend> Sun hasn't actually done *any* code dumping yet, have they?
+19:45 < jberkus> no
+19:45 < Overfiend> it's still vapor-licensed?
+19:45 < aj> bdale_gprs: either way, we need an answer on that ASAP
+19:45 < jberkus> there's an enormous process 
+19:45 < bdale_gprs> ok, I haven't been following the details, since Java isn't really my thing
+19:45 < Maulkin> aj: I assume even if it's "We don't know"
+19:45 < iwj> Can we take that offline ?
+19:45 < aj> there's some code out there already
+19:45 < aj> Maulkin: yes
+19:46 < bdale_gprs> so 1,2,3 are on my list for Greg, 4,5 pending data entry and jberkus process.  done for today.
+19:46  * Maulkin nods
+19:46 < bdale_gprs> [item 7, Next board meeting]
+19:46 < bdale_gprs> Neil, I presume this will be here on Tuesday, December 19th, 2006 at 19:00 UTC?
+19:46 < Overfiend> "this"?
+19:46 < Maulkin> Tuesday, December 19th, 2006 19:00 UTC #spi 
+19:46 < Overfiend>    December 2006    
+19:46 < Overfiend> Su Mo Tu We Th Fr Sa
+19:46 < Overfiend>                 1  2
+19:46 < Overfiend>  3  4  5  6  7  8  9
+19:46 < Overfiend> 10 11 12 13 14 15 16
+19:46 < Overfiend> 17 18 19 20 21 22 23
+19:46 < Overfiend> 24 25 26 27 28 29 30
+19:46 < Maulkin> Unless everyone gets notified differently
+19:46 < Overfiend> 31
+19:46 < Overfiend> if this inteferes with someone's holidays, please say so now
+19:46 < bdale_gprs> it shouldn't
+19:46 < cdlu> 19th is fine.
+19:47 < jberkus> I'll be on holiday, but I can dial in
+19:47 < bdale_gprs> Ok, thank you to everyone present for participating today.  Until next time!
+19:47 < bdale_gprs> *GAVEL*

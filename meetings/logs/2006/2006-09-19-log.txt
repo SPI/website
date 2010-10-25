@@ -1,0 +1,699 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+20:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+20:00 < bdale> and details of pending resolutions can be found on the web at:
+20:00 < bdale> http://www.spi-inc.org/secretary/agenda/2006-09-19.html
+20:00 < Diziet> Ian Jackson
+20:00  * Maulkin prepares for the flood
+20:00 < Diziet> Oops.
+20:00 < bdale> Bdale Garbee
+20:00 < Overfiend> Branden Robinson
+20:00 < schultmc> Michael Schultheiss
+20:00 < Maulkin> Neil McGovern
+20:00 < cdlu> David Graham
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board
+20:00 < bdale> members, quorum for today's meeting is six.  Guests, please /msg your names
+20:00 < bdale> to Maulkin if you wish your attendance to be recorded in the minutes of this
+20:01 < cdlu> I guess that counts as roll call anyway :)
+20:01 < bdale> meeting.
+20:01 < bdale> I note that regrets have been received from Jimmy Kaplowitz.  Also, Keith Packard,
+20:01 < bdale> noted that he has a meeting conflict and will be unable to attend today.
+20:01 < bdale> assuming Joey is present, are we quorate?
+20:01 < cdlu> Joey is present. we're extra-quorate.
+20:02  * bdale holds his breath to see if jberkus actually signs in...
+20:02 < aj> Anthony Towns
+20:02  * aj yawns
+20:02 < cdlu> good early morning aj
+20:02 < Overfiend> bored 2 minutes into the meeting, someone give the DPL Ritalin
+20:02 < jberkus> Josh Berkus
+20:02 < cdlu> everyone who did not send regrets is present. cool.
+20:02 < bdale> great
+20:02 < bdale> [item 3, President's Report]
+20:02 < bdale> I have little to report today.  I took an action item at our last meeting to
+20:02 < bdale> contact Greg Pomerantz, which I have not completed yet.  I hope to catch up
+20:02 < bdale> with him later this week.
+20:03 < bdale>  
+20:03 < bdale> While it has been a while since SPI used Freenode services on a regular basis,
+20:03 < bdale> I note for the record my dismay at learning of the untimely passing of Rob Levin.
+20:03 < bdale>  
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Josh, you have the floor.
+20:03 < cdlu> bdale, who was at one time an advisor to SPI's board of directors.
+20:03 < Overfiend> seconded
+20:03 < Overfiend> :(
+20:03 < jberkus> first, we have full treasurer's reports for January-April
+20:03 < jberkus> do those need to be approved?
+20:04 < Maulkin> It's traditional, yes
+20:04 < Overfiend> probably
+20:04 < jberkus> ok, can the secretary take a vote?
+20:04 < bdale> jberkus: are you refering to the ones that Jimmy put on the list a while back?
+20:04 < jberkus> yes, they're on today's agenda
+20:04 < Overfiend> let's try a blanket motion to approve all 4 first
+20:04 < Maulkin> yup
+20:04 < cdlu> so moved.
+20:04 < Overfiend> if that fails, I suppose we can individualize 'em and go to email voting
+20:04 < Maulkin> so seconded
+20:04 < Overfiend> in which abstention will count as "yes" :-/
+20:04  * Overfiend glares at certain nameless board members
+20:05 < Overfiend> bah, 7 years bad luck
+20:05 < bdale> Maulkin: prepared to count votes?
+20:05 < Maulkin> Aye
+20:05 < Maulkin> !vote start
+20:05 < Diziet> !vote yes
+20:05 < Overfiend> !vote yes
+20:05 < jberkus> !vote yes
+20:05 < schultmc> !vote yes
+20:05 < bdale> !vote yes
+20:05 < Maulkin> !vote yes
+20:05 < cdlu> !vote yes
+20:05 < Joey> !vote abstain
+20:06 < Maulkin> y: 7 n: 0 a: 1
+20:06 < cdlu> *stamp*
+20:06 < bdale> jberkus: ok, that's done.  
+20:06 < Maulkin> Vote passes.
+20:06 < Maulkin> !vote stop
+20:06 < jberkus> second, I just posted account balances for may-august
+20:06 < bdale> I haven't seen them yet
+20:06 < jberkus> these are not full finanical statements, so I will still need to produced those
+20:07 < jberkus> bdale: mailing list
+20:07 < bdale> any big surprises?
+20:07  * Overfiend sees 'em
+20:07 < jberkus> no, just that we have $80,000 in the account
+20:07 < Overfiend> we should move some of that into the Ameriprise account
+20:07 < bdale> ok, so noted.  will look forward to the full reports.
+20:07 < Overfiend> jberkus is still struggling with signing authority
+20:07 < Overfiend> so I may need to do that if we want to do it soon
+20:07 < jberkus> my plan is to get all activity back to 1/1/06 loaded into LedgerSMB
+20:08  * Overfiend would like to note something
+20:08 < jberkus> so that we can produce online reports
+20:08 < jberkus> DT, go ahead?
+20:08 < Overfiend> Our original resolution that authorized change of banks to FirstIB pledged the Treasurer's effort keep the balance below $5,000
+20:08 < Overfiend> I have two observations on that
+20:08 < Overfiend> 1) We've certainly not been doing that
+20:08 < Overfiend> 2) That ceiling is probably too low given the magnitude of some transactions we're asked to handle
+20:09 < Overfiend> that is all.
+20:09 < bdale> so noted
+20:09 < jberkus> please note that most of the $80,000 is Debian funds
+20:09 < bdale> not surprisng
+20:10 < jberkus> ok, the signing authority is later on the agenda, yes?
+20:10 < bdale> item 6.5, the firstib form?
+20:10 < jberkus> yeah
+20:10 < jberkus> ok.
+20:10 < bdale> ok
+20:10 < bdale> jberkus: is that all, then?
+20:10 < Overfiend> jberkus: I should have enough of a paper trail for us to electrify records from 2005 as well
+20:10 < Overfiend> jberkus: at least once we have all our FirstIB statements back from MBS
+20:10 < jberkus> final treasurer report item:  as you know, I'm struggling with backfilling a lot of finanical data
+20:10 < Overfiend> I have always photocopied every check and deposit slip I  have handled
+20:10 < jberkus> and trying to get us on web-based accounting
+20:11 < jberkus> Overfiend: great
+20:11 < Joey> Overfiend: Wow!  That was clever.
+20:11 < bdale> jberkus: is there anything you need from the board to help with that?
+20:11 < Overfiend> Joey: it's why I got backlogged and checks went undeposited a few years ago
+20:11 < jberkus> our current bookkeeping service is extremely noncommunicative, partly because they are cheap
+20:11 < Overfiend> Joey: it's never been as simple as just stamping the backs of the checks and mailing them to the bank
+20:11 < jberkus> they also do not have a CPA and so do not prepare taxes
+20:12 < jberkus> within the next two years, we are looking at having more than a dozen associated projects and a budget up to $200,000 per year
+20:12 < Overfiend> that said, I saw custom stamps on sale at Office Depot the other day, and I covet one for SPI if I'm going to stay in the check-depositing role
+20:12 < jberkus> or even more
+20:13 < linuxpoet> Overfiend: typically the bank provides those when you order checks
+20:13 < Overfiend> being able to bang my fist a lot will increase my job satisfaction
+20:13 < Maulkin> Overfiend: sounds like treasurer operating expenses... :)
+20:13 < bdale> jberkus: I know you're investigating new sources of help.  Anything in particular to report from that and/or ask us to vote on yet?
+20:13 < Overfiend> linuxpoet: never for any bank I've dealt with
+20:13 < Overfiend> jberkus: sorry to ramble over the top of your report
+20:13 < jberkus> ok, I've talked to 3 agenices that were recommended to me
+20:14 < jberkus> Rich and Bander in NY were extremely responsive, but expensive on first estimate
+20:14 < jberkus> I've been talking to them about reducing the scope of services to reduce the total cost
+20:14 < jberkus> which is possible
+20:14 < jberkus> I interviewed a second firm in Oregon which is very eager to help us but may not be able to deal with NY taxes
+20:14 < Overfiend> $6,000/year for $200,000/year in gross receipts is 3%
+20:15 < Overfiend> it seems like a big figure to me too, but if we really expect to play in the six digits, I think I could swallow it.
+20:15 < Overfiend> NfG already bites 3% out of everything they send *to* us
+20:15 < jberkus> the third firm, from NY, has not been very responsive, and has yet to get me an estimate after 3 weeks of phone tag
+20:15 < jberkus> so I'm scratching them 
+20:15 < Overfiend> yikes
+20:16 < jberkus> so the real question for this meeting, is what is the board willing to consider for a good bookkeeper?
+20:16  * linuxpoet notes that he has professional experience with the Oregon firm
+20:16 < jberkus> it will be at least $3000
+20:16 < linuxpoet> just for full disclosure
+20:16 < bdale> it's important that we're managing the overhead applied to donations carefully, but it's equally important that our books are in good order and our tax filings and such are handled on time.  I've said for quite a while that I think we should be paying for good help.  It's not clear to me that you've found the right folks yet, Josh, but it sounds like you're making progress.
+20:16 < cdlu> jberkus, anyone who keeps the treasurer's workload low enough for us to keep a treasurer.
+20:16 < Overfiend> how plausible is it that we'd be able to prep NY State tax forms ourselves if the Federal return is already done for us?
+20:16 < Diziet> jberkus: I think it would be better to pay over the odds for a year or two while we get things straightened out.
+20:16 < aj> what was the estimate used for mark's, or what's the current cost of mark's?
+20:16 < Overfiend> Hydroxide might know, and he's not here
+20:17 < Diziet> Then we'll have a much better idea of what we want our paid assistance to do.
+20:17 < Maulkin> aj: IIRC, 0
+20:17 < jberkus> Overfiend: I'm more concerned about being able to get advice on NY tax issues
+20:17 < jberkus> aj: I believe it is less than $1500 per year
+20:17 < Overfiend> jberkus: acknowledged.  That is valuable, important, and necessary.
+20:17 < jberkus> keep in mind that the R&B estimate includes an indefinite amount of tax advice
+20:18 < bdale> sadly, I think Mark's has been a real disappointment.  I'm not particularly interested in trying to assign blame for that, but I do note that we need to expect more and are likely to have to pay more to get it.
+20:18 < mako> apologies for showing up late, i'm here :)
+20:18 < Overfiend> jberkus: as in, unlimited?
+20:18 < aj> jberkus: given psql and fdo's involvement now, doubling that seems unquestionably reasonable to me, fwiw
+20:18 < jberkus> including about things like Dunc-Tank and payroll issues, hint, hint
+20:18 < Diziet> What bdale said.
+20:18  * Maulkin would echo Diziet's sentiments here
+20:18 < Overfiend> ahhh
+20:18 < jberkus> Overfiend: within reason
+20:18 < bdale> ok
+20:18 < Overfiend> jberkus: well, I didn't mean to suggest "defend us in an audit at no additional charge" :)
+20:18 < bdale> jberkus: thanks for the update.  anything else we need to hear today?  if not, in the interest of time I'd like to move along.
+20:18 < jberkus> ok, that's all.  I'll probably be briging this to an e-mail vote before the next meeting
+20:18 < Maulkin> mako: State your name :)
+20:19 < bdale> ok, next item then
+20:19 < bdale> [item 5, Outstanding Minutes]
+20:19 < bdale> Maulkin, what do you have for us today?
+20:19 < Maulkin> Unfortunately, not all of the previous minutes have been received by me
+20:19 < Maulkin> cdlu is working on them at the moment.
+20:19 < Overfiend> eh?  
+20:19 < cdlu> but there are 4 sets in the agenda
+20:19 < Maulkin> yes.
+20:19 < Overfiend> I thought they were all publicly up on the website, just not...done
+20:20 < bdale> so, are we being asked to vote to approve any of them today?
+20:20 < Maulkin> I would advise not to vote on August 16th, 2005 yet, as that went up about 25mins before this meeting started
+20:20 < Maulkin> I would like to move to vote, and approve:
+20:20 < Maulkin> July 1st, 2006 / July 11th, 2006
+20:20 < Maulkin> # August 15th, 2006
+20:21 < Overfiend> oh, bollocks, I suppose I haven't reviewed these
+20:21 -!- nanday [bruce@dhcp701-1-122.dsl.ucc-net.ca] has joined #spi
+20:21 < Overfiend> Maulkin: URLs?
+20:21 < Maulkin> These have all been on the agenda > 1 week, so I'm happy to have them approved :)
+20:21 < bdale> Overfiend: they're in the agenda
+20:21 < bdale> Overfiend: links, I mean
+20:21 < Overfiend> oh.  My fault.
+20:21 < jberkus> Can I vote on July?  I wasn't on the board
+20:21 < Overfiend> freakin' topic scrolls off in epic
+20:22 < Diziet> jberkus: You should abstain I think.
+20:22 < bdale> jberkus: if you were present, you know as much as anyone about what happened
+20:22 < Diziet> There is that.
+20:22 < jberkus> ok
+20:22 < jberkus> we'll need to vote individually though
+20:22  * Maulkin would suggest abstaining for those you weren't present at :)
+20:22 < jberkus> since I have to abstain from 7/11
+20:22 < bdale> my general rule is to abstain on any meeting I wasn't present for, since I couldn't possibly know what actually happened... otherwise, I vote
+20:22 < cdlu> Maulkin, that doesn't leave many people to vote for july 1st :)
+20:22 < Overfiend> I'm, confused.
+20:22 < bdale> yes, minutes pretty much always have to be done one at a time
+20:22 < cdlu> considering I'm the only person present today who was present July 1st.
+20:23 < jberkus> can we get started, then?
+20:23 < Overfiend> If we actually had the 07-01 meeting on 07-11, where are the minutes for 07-11?
+20:23  * schultmc was there, but not a board member
+20:23 < Maulkin> cdlu: I was.
+20:23 < bdale> Maulkin: please call for votes on the first one you want approved
+20:23 < cdlu> oh, wait, two current board members were guests :)
+20:23 < schultmc> Overfiend: click July 11th, 2006
+20:23 < Diziet> Can I ask the chair to try to speed this meeting up a bit ?  It's 23 minutes past already and at this rate we'll be two hours ...
+20:23 < Overfiend> schultmc: there's no link for that
+20:23 < schultmc> yes there is 
+20:23 < bdale> cdlu: being there or not matters, being on the board or not at the time probably doesn't
+20:23 < Overfiend>   2006-07-01     by Neil McGovern   -- last modified 2006-08-03 18:59
+20:23 < Overfiend>       
+20:23 < Overfiend> 2006-08-15 by Neil McGovern -- last modified 2006-08-15 18:53
+20:23  * Maulkin calls for votes on Board Meeting, July 1st, 2006
+20:23 < cdlu> bdale, the president can call a vote at any time... generally their perogative.
+20:23 < Overfiend>      it skips from 07-01 to 08-15
+20:23 < bdale> Diziet: we're stopping after an hour regardless due to my schedule
+20:24  * bdale bangs his gavel
+20:24 < jberkus> can we vote then, please?
+20:24 < bdale> Maulkin: please call for votes on the first set of minutes
+20:24 < Maulkin> I have :)
+20:24 < Maulkin> Board Meeting, July 1st, 2006
+20:24 < Overfiend> oh, d'oh
+20:24 < cdlu> !vote yes
+20:24 < Maulkin> Second?
+20:24 < Diziet> bdale, Maulkin: Can I suggest that bdale says `!vote start' at the appropriate point ?
+20:24 < Joey> !vote abstain
+20:24 < bdale> !vote abstain
+20:24 < Diziet> !vote yes
+20:24 < Overfiend> okay, I'm unconfused
+20:24 < bdale> Diziet: ok
+20:24 < Overfiend> !vote abstain
+20:24 < Maulkin> !vote yes
+20:24 < Overfiend> I was not present
+20:24 < jberkus> !vote yes
+20:24 < schultmc> !vote yes
+20:25 < bdale> Maulkin: so procedurally, I'll do a vote start, you do the vote stop and report results.  ok?
+20:25 < Maulkin> y: 5 n: 0 a: 3
+20:25 < Maulkin> bdale: sure
+20:25 < bdale> ok, good.  which one is next?
+20:25 < cdlu> july 11
+20:25 < Diziet> 2006-07-01
+20:25 < Maulkin> I still need a second for that vote though...
+20:25 < Diziet> Unless we're not voting on that.
+20:25 < cdlu> Maulkin, I'll second it retroactively.
+20:26 < Maulkin> thanks
+20:26 < Diziet> Maulkin: I think we can take seconds as read if someone voted yes.
+20:26 < Overfiend> what?
+20:26 < Overfiend> we just voted on 2006-07-01
+20:26  * Maulkin calls for votes on the minutes of Board Meeting, July 11th, 2006
+20:26 < Diziet> Overfiend: Oh, I misread.
+20:26 < Overfiend> Diziet: why did you say -01 is next?
+20:26 < Joey> !vote yes
+20:26 < Overfiend> ah, okay
+20:26 < bdale> !vote start
+20:26 < cdlu> !vote yes
+20:26 < Overfiend> !vote yes
+20:26 < schultmc> !vote yes
+20:26 < Diziet> !vote yes
+20:26 < bdale> !vote yes
+20:26 < Maulkin> !vote abstain
+20:26 < jberkus> !vote yes
+20:26 < Maulkin> y: 7 n: 0: a: 1
+20:27 < Maulkin> !vote stop
+20:27 < bdale> Maulkin: please count Joey's vote even though it technically predated my tardy start
+20:27 < Maulkin> vote passes
+20:27 < jberkus> Maulkin: I voted on the wrong one
+20:27 < Maulkin> bdale: counted
+20:27  * bdale growls
+20:27 < jberkus> Maulkin: I should have abstained on 7/1, not 7/11
+20:27 < Maulkin> jberkus: ok, so noted
+20:27 < Joey> Oh... sorry bdale :)
+20:27 < jberkus> I was confused on the order of votes
+20:27 < cdlu> it doesn't change the results. yesses still exceed nos. :)
+20:27 < bdale> Joey: no worries
+20:27 < Diziet> Right.  And 2006-08-15 we'll defer.
+20:27 < Overfiend> DO NOT make the Bdale angry.
+20:27  * Maulkin calls to votes on the minutes of Board Meeting, August 15th, 2006
+20:27 < bdale> !vote start
+20:27 < Diziet> !vote no
+20:28 < Overfiend> Diziet: stop being pseudo-secretary
+20:28 < cdlu> !vote yes
+20:28 < Overfiend> :)
+20:28 < Diziet> There was no time to review it before the meeting.
+20:28 < jberkus> wait, aren't we defering?
+20:28 < Maulkin> !vote yes
+20:28 < schultmc> !vote yes
+20:28 < Maulkin> Diziet: It's been there > 1 week
+20:28 < cdlu> no
+20:28 < Overfiend> I have an amdnement I'd like to make to the 08-15 minutes
+20:28 < jberkus> !vote abstain
+20:28 < Overfiend> "Branden Robinson to action."
+20:28 < Diziet> Err, am I confused again ?
+20:28 < schultmc> we're deferring 2005-08-16
+20:28 < Overfiend> That's not a sentence.
+20:28 < cdlu> we're deferring on 2005-08-16, not 2006-08-15 :)
+20:28 < Diziet> Oh.
+20:28 < bdale> note that 16 Aug 2005 != 15 Aug 2006
+20:28 < Diziet> OK
+20:28 < Diziet> !vote yes
+20:28 < bdale> !vote yes
+20:28 < Overfiend> ??????
+20:28 < Joey> !vote yes
+20:28 < Diziet> Sorry, this coffee doesn't seem to have taken effect yet.
+20:28 < Overfiend> http://www.spi-inc.org/corporate/meeting-minutes/2006/board-meeting-august-15th-2006.html
+20:28 < bdale> Diziet: no worries
+20:28 < Overfiend> that's not the 16th
+20:29 < Maulkin> Missing one...
+20:29 < Joey> Uh!
+20:29 < jberkus> (sorry, I didn't review them yet)
+20:29 < Diziet> I'm all at 5's and 6's.  It's like 6's and 7's only one less.
+20:29 < Joey> What?
+20:29 < Joey> err... ok.
+20:29 < schultmc> 2005-08-16 is deferred, 2006-08-15 is not
+20:29 < Overfiend> I refuse to vote until I know what I'm voting on.
+20:29 < Overfiend> THERE IS NO GOD DAMN 2005-08-16 MEETING
+20:29 < cdlu> the current vote is quite clearly on 2006-08-15's minutes
+20:29 < Maulkin> Overfiend: http://www.spi-inc.org/corporate/meeting-minutes/2006/board-meeting-august-15th-2006.html
+20:29 < Joey> Overfiend: I hope, it's the 2006 meeting, otherwise I'm doomed.
+20:29 < bdale> Overfiend: * Maulkin calls to votes on the minutes of Board Meeting, August 15th, 2006
+20:29 < Overfiend> why do people keep talking about 08-16?
+20:29 < Maulkin> Overfiend: Ignore that one :)
+20:29 < Overfiend> 15:29 < schultmc> 2005-08-16 is deferred, 2006-08-15 is not
+20:29 < Overfiend> 15:28 < schultmc> we're deferring 2005-08-16
+20:29 < schultmc> it's on the agenda but deffered
+20:30 < bdale> Overfiend: because the one from last year has been deferred.
+20:30 < Overfiend> ohhhh
+20:30 < Overfiend> I wasn't even LOOKING at the year.
+20:30 < cdlu> Overfiend, 2005-08-16 is deferred. 2006-08-15 is the subject of the vote. :)
+20:30 < Diziet> 200{5,6}-08-{15,16}
+20:30 < Overfiend> thank you!
+20:30 < bdale> this will be MUCH LESS CONFUSING when we're caught up
+20:30 < Overfiend> whew
+20:30 < bdale> Maulkin: all votes in?
+20:30 < Maulkin> y: 6 n: a: 1
+20:30 < Maulkin> missing one
+20:30 < Diziet> Let's carry on.
+20:30 < Overfiend> I have not reviewed the 13-month old minutes yet, I must abstain
+20:30  * bdale taps his foot impatiently
+20:30 < Maulkin> It'll do :)
+20:30 < Overfiend> !vote abstain
+20:30 < Maulkin> y: 6 n: a: 2
+20:30 < Maulkin> Vote passes
+20:30 < cdlu> Overfiend, they are not the subject of the vote
+20:30 < Maulkin> !vote stop
+20:30 < bdale> ok, thank you
+20:30 < cdlu> the current ones are :)
+20:31 < Overfiend> I had an amendment to those proposed.
+20:31 < bdale> Maulkin: are we done with minutes for this meeting?
+20:31 < Overfiend> Too late, I guess.
+20:31 < Maulkin> bdale: done
+20:31 < bdale> ok
+20:31 < bdale> [item 6, Items up for Discussion]
+20:31 < bdale> [item 6.1, Further on Debian trademark in Spain (Resolution 2006-04-03.jfsp.1)]
+20:31 < bdale> I believe further action on this is pending information from Greg that I hope
+20:31 < bdale> to get when I catch up with him.  Anything we need to discuss about this today?
+20:31 < Overfiend> my abstention stands since my amendement was not entertained. :)
+20:31 < Diziet> Overfiend: An amendment to the August 2006 ?  Was it important ?
+20:31 < Overfiend> Diziet: only if grammar matters :)
+20:31 < Maulkin> No :)
+20:31 < jberkus> bdale: AFAIK, we have a number of outstanding issues for Greg that I've seen no response on in months
+20:31 < Diziet> Grammar fixes can be done by the secretary, obviously, without us having to vote on it.
+20:31 < Overfiend> Diziet: and as I can tell from your nonstandard orthography, it doesn't. ;-)
+20:32 < bdale> jberkus: that's why I took an action to get with him at our last meeting, which I previously noted I have failed to complete before today's meeting.
+20:32  * Overfiend wonders if those are non-breaking spaces before Diziet's question marks.
+20:32 < aj> bdale: will that be able to be fixed soon?
+20:32 < bdale> anyone have anything else on this item?
+20:32 < Overfiend> jberkus: He did say that.
+20:32 < bdale> aj: this week, I hope
+20:32 < aj> bdale: excellent news
+20:33 < bdale> ok, next
+20:33 < Overfiend> bdale: would you like to delegate the task to another officer if you cannot...
+20:33 < Overfiend> well, nevermind.
+20:33 < jberkus> yes, I wasn't clear on whether that was just the (R) or everything
+20:33 < bdale> [item 6.2, Attendance Policy (Resolution 2006-08-07-dbg.2)]
+20:33 < bdale> David, you have the floor.
+20:33 < cdlu> umm... we discussed this last meeting. It was to to go discussion for a month and be voted on today.
+20:33 < bdale> Overfiend: I should do this, I've just let real life get in the way
+20:33 < cdlu> I, for one, am ready to vote.
+20:33 < Overfiend> bdale: scandalous
+20:33 < bdale> I've seen precious little discussion on the lists about it.  any here before we call for a vote?
+20:34 < Maulkin> precious little == none.
+20:34 < Overfiend> agreed
+20:34 < jberkus> yeah, I'll change my vote, since obviously I'm not going to get to revising it
+20:34 < Overfiend> there's been traffic on the board list but none about this.
+20:34 < Diziet> I would like to suggest one amendment:
+20:34 < Maulkin> Go ahead.
+20:34 < Overfiend> it's still morally equivalent to my attendance policy
+20:34 < Overfiend> so I still like it
+20:34 < Diziet> In para 12, instead of `A board member shall be asked to resign', say `The board will vote on whether to ask the board member to resign'.
+20:35 < Overfiend> I disagree with that.
+20:35 < Overfiend> Let the rules be the rules.
+20:35 < Diziet> That makes it clear who is doing the asking, and it gives the board the chance to let the errant member off the hook.
+20:35 < cdlu> the rules ask.
+20:35 < Diziet> Feh.
+20:35 < Overfiend> I don't want to let the errant member of the hook.
+20:35 < jberkus> should have an officer associated, though
+20:35 < Overfiend> They can refuse to resign.
+20:35 < Diziet> The errant member can choose not to resign.
+20:35 < jberkus> what about "The President will ask ..."
+20:35 < cdlu> the problem we have right now is precisely that the board has to vote on the request, so it never happens.
+20:35 < Maulkin> It was very specific that we removed the board will vote, and made it compulsary
+20:36 < Diziet> But if they choose not to resign when the board asks them to by voting then their position will be untenable.
+20:36 < Overfiend> what cdlu said.
+20:36 < bdale> cdlu: really?  I don't recall the board being asked to vote.
+20:36 < Diziet> When if it's just the rules asking they can say "no-one pays any attention to that" or some similar nonsense.
+20:36 < cdlu> bdale, that's the point.
+20:36 < bdale> cdlu: then I don't understand the point
+20:36 < Overfiend> we've had people who were deep in Dutch with the AP before, but we didn't have the balls to do any more than grumble
+20:36 < Overfiend> if we haven't the balls, let's put the balls in the rules
+20:36 < Diziet> My suggestion is to arrange for the removal motion to turn up automatically on the agenda.
+20:36 < bdale> that'd work
+20:36 < cdlu> bdale, current rules require all violations to be brought to the attention of the board and be voted on. these proposed new rules make it automatic, requesting board members to voluntarily resign when in violation without the board getting involved.
+20:36 < Diziet> That way the Secretary doesn't have to take the deeply political decision to call for the vote.
+20:37 < Overfiend> Diziet: okay, that's acceptable.
+20:37 < linuxpoet> The people element should be removed, thus the board *must* act
+20:37 < Diziet> The difficult bit isn't getting the board to vote yes, it's getting the secretary to take that stedp.
+20:37 < Overfiend> I like the idea of automatically agendizing it.
+20:37 < Diziet> linuxpoet: Nonsense.  If we don't trust the board we might as well all go home.
+20:37 < cdlu> Maulkin, what say you?
+20:37 < Overfiend> and the Secretary can always hide behind the duties of his office.
+20:37  * Maulkin is happy to enforce it rigourously.
+20:37 < Diziet> We're an institution of people, and we should rely on our people.
+20:37 < jberkus> I can support that
+20:37 < Overfiend> "nothing personal, but this is what the rules direct me to do"
+20:37 < cdlu> Diziet, want to formalise an amendment to vote on?
+20:37 < jberkus> and it resolves the "what if the president is the one being removed" issue
+20:37 < bdale> I prefer the notion of an automatic agenda item if the rules trigger to an automatic ask them to resign.
+20:38 < Overfiend> in practice, the chair of the meeting can always skip the item.
+20:38 < Diziet> cdlu: I did, my phrasing above.  Or I can be more clear.
+20:38 < jberkus> however, it does raise one issue
+20:38 < Diziet> Let me have another go:
+20:38 < Overfiend> so there's STILL an escape hatch
+20:38 < jberkus> what if, due to non-attendance, we can't get a quorum?
+20:38 < Overfiend> jberkus: then we're badly fucked and there is no procedural way to climb out of the downward spiral
+20:38 < Overfiend> SPI has been there before, more than once.
+20:38 < Overfiend> It is only personal will and cooperation that gets us out.
+20:38 < jberkus> ah, then we just call for new electiong
+20:38 < Overfiend> Never any sort of document.
+20:39 < Diziet> `If a board member is (a), (b) or (c), the Secretary will table at the next Board meeting a motion to ask the board member to resign; the Board intends to pass such a resolution in the absence of exceptional circumstances'.
+20:39 < jberkus> ok, I'll support the resolution with the amendment.  are we good to vote?
+20:39 < bdale> ok, cdlu, since this is your proposal... do you accept the proposed change or want us to vote as is?
+20:39 < Overfiend> Diziet: *not table*
+20:39 < Overfiend> s/table/raise/
+20:39 < Maulkin> Overfiend: noted :)
+20:39  * Overfiend amends Diziet's amendment.
+20:39 < Diziet> Err, sorry, yes.
+20:39 < Joey> Diziet: s/table at/add to
+20:39 < bdale> Overfiend: this is the diff between US and UK use of 'table' in meetings, I think
+20:39 < Diziet> `If a board member is (a), (b) or (c), the Secretary will put onto the agenda for the next Board meeting a motion to ask the board member to resign; the Board intends to pass such a resolution in the absence of exceptional circumstances'.
+20:39 < Overfiend> bdale: yes, see one of my mails to -board today
+20:39 < jberkus> (FYI, in the US "table" means to *not* vote on something)
+20:39 < Overfiend> yup
+20:39 < cdlu> diziet, only part I don't like about it is legislating the board's intentions
+20:40 < Diziet> To replace para 12 with the text of (a) (b) (c) inserted.
+20:40 < Overfiend> in SPI we should use "raise" and "shelve"
+20:40 < Diziet> cdlu: It doesen't legislate them.  It states the board's current intent.
+20:40 < cdlu> bdale, I'd rather it be voted on as an amendment to the resolution
+20:40 < cdlu> vote on the amendment, then the resolution as or as not amended
+20:40 < Overfiend> cdlu: that's only proper
+20:40 < bdale> cdlu/Diziet: I'd leave out the bit about intentions
+20:40 < Overfiend> That's straight out of Robert's Rules of Order.
+20:40 < Diziet> I'd be happy to leave that intentions bit out of people prefer.
+20:40 < cdlu> overfiend, of which I keep an abbreviated copy on my desk.
+20:40 < Overfiend> cdlu: :)
+20:40 < bdale> Diziet: please
+20:40 < Diziet> `If a board member is (a), (b) or (c), the Secretary will put onto the agenda for the next Board meeting a motion to ask the board member to resign..
+20:41 < bdale> ok
+20:41 < bdale> let's vote on the amendment
+20:41  * Overfiend seconds that.
+20:41 < bdale> !vote start
+20:41 < Diziet> !vote yes
+20:41 < Overfiend> was it already seconded?
+20:41 < Overfiend> !vote yes
+20:41 < bdale> !vote yes
+20:41 < jberkus> !vote yes
+20:41 < schultmc> !vote yes
+20:41 < bdale> Overfiend: I'm impatient, sorry
+20:41  * bdale is watching the clock
+20:41 < cdlu> I'm not personally happy with the chance and will
+20:41 < Diziet> Let's not do the silly waiting for seconds thing please.
+20:41 < cdlu> !vote no
+20:41 < Maulkin> !vote no
+20:41 < cdlu> in protest, but it will still carry.
+20:41 < Overfiend> bdale: hey, the fiduciary burden is all on you, Mr. President ;-)
+20:41 < Joey> !vote abstain
+20:42 < Diziet> cdlu: No, that's quite fair.  That's what we have votes for after all.
+20:42 < bdale> cdlu: understood
+20:42 < Maulkin> y: 5 n: 2 a: 1
+20:42 < cdlu> s/chance/change/
+20:42 < Maulkin> amendment passes
+20:42 < Maulkin> !vote stop
+20:42 < jberkus> can we re-arrange the agenda to cover all the voting items before bdale leaves?
+20:42 < Overfiend> let's update the annotation then, to .dbg.2.iwj.1
+20:42 < bdale> ok, any more discussion before we vote on the ammended proposal?
+20:42 < Overfiend> Maulkin: I guess that's for your benefit.
+20:42 < Maulkin> None from me :)
+20:42 < Maulkin> Overfiend: ta
+20:42 < Diziet> Fine by me.
+20:42 < cdlu> nope, I'm prepared to vote
+20:42  * Maulkin calls to vote on Attendance Policy (Resolution 2006-08-07-dbg.2.iwj.1) amended.
+20:43  * bdale seconds
+20:43  * Overfiend seconds.
+20:43 < bdale> !vote start
+20:43 < Diziet> !vote yes
+20:43 < cdlu> !vote yes
+20:43 < Overfiend> !vote yes
+20:43 < schultmc> !vote yes
+20:43 < Maulkin> !vote yes
+20:43 < Joey> !vote abstain
+20:43 < bdale> Diziet: I'm not sure I'm supposed to second, but it seems an useful/expedient hack if so...  ;-)
+20:43 < Maulkin> 2 more
+20:43 < Overfiend> cdlu and...
+20:43 < Diziet> bdale: :-).
+20:43 < bdale> !vote yes
+20:43 < schultmc> bdale and jberkus
+20:43 < Overfiend> heh
+20:43 < jberkus> !vote yes
+20:43 < Diziet> Yes, you are allowed, definitely.
+20:43 < jberkus> sorry, lag
+20:43 < cdlu> as this board is signatory to this attendance policy, we have all been appropriately cautionned about attendance. :)
+20:44 < Overfiend> oh, cdlu DID vote
+20:44 < Maulkin> y: 7 n: a: 1
+20:44 < Maulkin> Vote passes
+20:44 < Maulkin> !vote stop
+20:44 < bdale> ok, next
+20:44 < Overfiend> Yes, we now see the red-hot branding iron of shame
+20:44 < bdale> [item 6.3, Accepting Gallery as Associated Project (Resolution 2006-09-19.mcs.1)]
+20:44 < bdale> Michael, you have the floor.
+20:44 < schultmc> I've ammended the resolution per suggestions from the board
+20:44 < schultmc> i also notified -private and saw no objections there
+20:44 < Overfiend> I wish the lines in schultmc's proposal were wrapped...
+20:45 < Maulkin> It's now 2006-09-19.mcs.2 BTW
+20:45 < Overfiend> it's the only one on the agenda I have to scroll horizontally
+20:45 < bdale> Overfiend: looks ok on the web in Firefox to me
+20:45 < bdale> any discussion before I call for a vote?
+20:45 < Overfiend> I'm using Firefox, too, on sarge, though.
+20:45 < Maulkin> None here
+20:45 < Diziet> All of the pages have horizontal scrolling for me.  Try making your browser only 800px wide.  I tried to mail the www list but all the computers were broken ...
+20:45 < Diziet> No discussion from me either.
+20:45 < cdlu> it looks fine in lynx.
+20:46 < Overfiend> that's right, *all* the computers *in the world*.  Knuth was having a diabetic seizure.
+20:46 < Maulkin> bdale: Call to vote? :)
+20:46 < bdale> ok, then I call for a vote on resolution  2006-09-19.mcs.2
+20:46 < bdale> !vote start
+20:46 < Diziet> !vote yes
+20:46  * Maulkin seconds
+20:46 < Overfiend> seconded
+20:46 < Maulkin> !vote yes
+20:46 < schultmc> !vote yes
+20:46 < Overfiend> !vote yes
+20:46 < bdale> !vote yes
+20:46 < jberkus> !vote yes
+20:46 < cdlu> !vote yes
+20:46 < Overfiend> Joey...
+20:47 < Diziet> Overfiend: Well, my effort to report the problem that I couldn't report the problem with the website, bounced.
+20:47 < Joey> !vote yes
+20:47 < Maulkin> y: 8 n: 0 a: 0
+20:47 < Maulkin> Vote passes
+20:47 < Maulkin> !vote stop
+20:47 < Diziet> Luckily I was able to report that I wasn't able to report that I wasn't able to report that I wasn't able to see the website nicely.
+20:47 < Overfiend> Diziet: I know.  I was just being silly.  I reviewed all of jberkus's pained mails about our infrastructure earlier today.
+20:47 < Joey> Overfiend: Shhhh  I didn't have the resolution yet.
+20:47 < cdlu> I should note that if we continue to accept a new associated project every board meeting, we will soon become unmanageably large. :)
+20:47 < Joey> the web page was apparently changed in the middle of the meeting.
+20:47 < bdale> in the interest of time management, I'm going to take 6.5 before 6.4.
+20:48 < bdale> [item 6.5, FirstIB form]
+20:48 < bdale> Josh, you have the floor.
+20:48 < Maulkin> No probs :)
+20:48 < jberkus> ok, the form is simple
+20:48 < jberkus> we need to update who can sign for stuff with our bank
+20:48 < jberkus> this needs to be formally approved by the board
+20:48  * schultmc has a potential work around regarding the form
+20:48 < jberkus> my suggestion, per on-list discussion
+20:48 < Maulkin> I think Overfiend was looking into an alternative too
+20:48 < Overfiend> schultmc: does it involve state or federal time?
+20:49 < Overfiend> Maulkin: no, I was just worried about the "corporate seal".
+20:49 < jberkus> is that I & Branden be allowed to sign checks & EFT with one signature
+20:49 < Maulkin> ahh, ok
+20:49 < bdale> please keep the chatter down
+20:49 < Overfiend> Which I do not have, nor have I ever had, and which may have not ever physically existed.
+20:49 < schultmc> Overfiend: I don't think so - we discussed it last week (seeing if we could notarize the new officers resolution)
+20:49 < Overfiend> Sorry
+20:49 < Overfiend> ah, right.
+20:49 < Overfiend> I remember.
+20:49 < Maulkin> This could have 'issues' with the by-laws
+20:49 < jberkus> and that I, Branden, Bdale and secretary be allowed to sign for other stuff (like closing the account) with two signatures
+20:50 < bdale> any discussion?
+20:50 < Maulkin> personally, I don't think I should be made to sign cheques, but that's what they say.
+20:50 < jberkus> Maulkin: we don't have you on for checks
+20:50 < Overfiend> changing the bylaws is even more tedious than this.
+20:50 < Maulkin> jberkus: I know. That's the problem.
+20:50 < Joey> Well, if things are formally required, you should take the required step to get them done, i.e. mailing the form around and getting notarised signatures of the proper people on it.
+20:51 < Overfiend> Maulkin: I was told it is exorbitantly expensive to get things notarized in the U.K.
+20:51 < bdale> jberkus: am I correct that we need a board vote on this for the bank's benefit?
+20:51 < Maulkin> It's about 150USD
+20:51 < Overfiend> Is that true?  DO we have alternaties?
+20:51 < Overfiend> Maulkin: gack
+20:51 < jberkus> bdale: yes
+20:51 < Diziet> `Notarised' doesn't play the same role in the UK as it does in the US.
+20:51 < linuxpoet> 8 minutes
+20:52 < jberkus> Joey: I'll be talking to firstib about whether everyone needs to be notarized, or just you
+20:52 < Joey> (I don't think all of the board need to be able to sign cheques, but only the treasurer(s) and one of P/VP)
+20:52 < Joey> jut me?  Not me at all.
+20:52 < bdale> jberkus: ok, then I don't have any trouble with the plan.
+20:52 < Diziet> jberkus: Can you tell them that we in the UK don't do notarisation ?
+20:52 < Maulkin> The current by laws state that the secretary MUST sign cheques.
+20:52 < jberkus> um, I don't know that anyone in the UK is on the list
+20:52 < bdale> jberkus: I suspect that if the US ones are notarized we're good
+20:52 < Diziet> We have a thing called `notarisation' but really it's different (and so more expensive).
+20:52 < Diziet> jberkus: Oh, good.
+20:52 < schultmc> Maulkin (secretary) is in the UK
+20:52 < bdale> jberkus: Maulkin is secretary, he's in the UK
+20:52 < Diziet> Oh.
+20:52 < jberkus> oh, crap
+20:52 < Overfiend> We could just make a best effort and see if First IB bounces us.
+20:53 < Maulkin> I think it's wrong, but that's what it says :)
+20:53 < jberkus> ok, I'll talk to firstIB
+20:53 < bdale> jberkus: the rest of us are in US
+20:53 < Diziet> jberkus: Ask them what they would accept from a UK person.  Or have Maulkin phone them up and discuss it.
+20:53  * Maulkin notes he also has full US citizenship
+20:53  * Overfiend likes his idea.  ...
+20:53 < jberkus> can we get a board vote that the division of signatories is OK by us?
+20:53 < Overfiend> interesting.
+20:53 < bdale> jberkus: how about we vote to approve your plan, then you can work the implementation details as needed, including having Maulkin just not complete the process if that seems best?
+20:53 < jberkus> bdale: thank you, yes
+20:53 < bdale> ok
+20:53  * Overfiend seconds
+20:53  * Maulkin nods :)
+20:53 < Diziet> Sounds good to me.
+20:53 < bdale> !vote start
+20:53 < Diziet> !vote yes
+20:53 < schultmc> !vote yes
+20:53 < Overfiend> !vote hell yes
+20:53 < jberkus> !vote yes
+20:53 < bdale> !vote yes
+20:53 < Maulkin> !vote yes
+20:53 < Joey> !vo yes
+20:54 < cdlu> !vote yes
+20:54 < jberkus> Joey: retry
+20:54 < Maulkin> y: 8 n: 0: a: 0
+20:54 < aj> yay
+20:54 < Maulkin> vote passes
+20:54 < Maulkin> !vote stop
+20:54 < bdale> thank you all
+20:54 < cdlu> not that a board vote can override the by-laws :)
+20:54 < bdale> ok, regarding 6.6
+20:54  * Maulkin is happy with whatever is chosen, but I'd rather not get it notarised as if I get it wrong, I break the law. Majorly.
+20:54 < Overfiend> !
+20:55 < bdale> cdlu: yes, I know.  let's deal with that another day, though, please.
+20:55 < jberkus> Maulkin: I'll work stuff out with FirstIB
+20:55 < bdale> ok
+20:55  * Overfiend sends Maulkin 1 million cloaks and Guy Fawkes masks
+20:55 < Maulkin> jberkus: brill, thanks :)
+20:55 < cdlu> Maulkin, send jberkus a rubber stamp of your signature :)
+20:55 < Joey> could we move on please?
+20:55  * jberkus notes that he's on a phone meeting in 3 minutes, so will be distracted
+20:55 < bdale> item 6.6, Comments requested by the DPL.  I believe at least some of this is pending my talk with Greg, and in the interest of time I'd like to defer this until the next meeting.  I may hand out some assignments by email in the meantime so that we can bring this to closure ASAP.  Everyone ok with that?
+20:56 < Diziet> Yes.
+20:56 < Overfiend> I am
+20:56 < aj> bdale: yes
+20:56 < Maulkin> yes
+20:56 < schultmc> fine w/ me
+20:56 < bdale> ok
+20:56 < Maulkin> Next? :)
+20:56 < Overfiend> 6.4?
+20:56 < Joey> ok
+20:56 < bdale> then let's handle items 6.4 and 7 together.  Maulkin, you have the floor.  I assume this is motivated by Jimmy's availability?
+20:56 < bdale> I'd like to wrap up today in 5 mins or less, please.
+20:56  * Overfiend must confess to not filling in the grid.
+20:56 < Maulkin> yup. I have received 2 responses to the table thing I posted. The current time and day stands.
+20:57 < bdale> ok
+20:57  * Overfiend considers himself spanked.
+20:57 < jberkus> Maulkin: sorry, I forgot about it
+20:57 < Maulkin> If you want your availability counted, mail me
+20:57 < Maulkin> I'll post another reminder
+20:57 < Maulkin> (done)
+20:57 < Overfiend> thanks
+20:57 < bdale> ok, so let's set the time and date for the next meeting, and we can re-address this then if there is more data?
+20:57 < Overfiend>     October 2006    
+20:57 < Overfiend> Su Mo Tu We Th Fr Sa
+20:57 < Overfiend>  1  2  3  4  5  6  7
+20:57 < Overfiend>  8  9 10 11 12 13 14
+20:57 < Overfiend> 15 16 17 18 19 20 21
+20:57 < Maulkin> I would suggest so, yes
+20:57 < Overfiend> 22 23 24 25 26 27 28
+20:57 < Overfiend> 29 30 31            
+20:57 < Overfiend>                     
+20:57 < Maulkin> Next board meeting - Tuesday, October 17th, 2006
+20:57 < Overfiend> 1900UTC?
+20:57 < Maulkin> Aye
+20:57 < Overfiend> okay
+20:57 < jberkus> aye
+20:57 < cdlu> sounds good to me.
+20:58 < cdlu> the following meeting will be after the end of DST.
+20:58 < Diziet> I seem to have misplaced my PDA so if I can't make it I'll have to send my apologies.
+20:58 < bdale> ok.  so noted.  until then, thanks to everyone for getting through a lengthy agenda today with fairly good focus.  **GAVEL**

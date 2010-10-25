@@ -1,0 +1,388 @@
+            ..:: Opening Log on Wed, Aug 19, 2009 at CEST [+0200] ::..
+[...]
+ 08/19/09 [22:00:01]< bdale> *GAVEL*
+ 08/19/09 [22:00:01]< bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+ 08/19/09 [22:00:01]< bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-08-19.html
+ 08/19/09 [22:00:01]< bdale> [item 2, Roll Call]
+ 08/19/09 [22:00:01]< bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+ 08/19/09 [22:00:04]< bdale> Guests (including board advisors), please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+ 08/19/09 [22:00:06]< cdlu> quoruDavid Graham
+ 08/19/09 [22:00:08]< cdlu> erm.
+ 08/19/09 [22:00:09]< cdlu> David Graham
+ 08/19/09 [22:00:10]< Noodles> Jonathan McDowell
+ 08/19/09 [22:00:12]< bdale> Bdale Garbee
+ 08/19/09 [22:00:15]< schultmc> Michael Schultheiss
+ 08/19/09 [22:00:19]< cdlu> Noodles, welcome a-board :)
+ 08/19/09 [22:00:30]< Hydroxide> Jimmy Kaplowitz
+ 08/19/09 [22:00:30]< linuxpoet> Joshua Drake
+ 08/19/09 [22:00:41]< bdale> cool.  quorum.
+ 08/19/09 [22:00:46]< Ganneff> Joerg Jaspert
+ 08/19/09 [22:00:46]< bdale> Ganneff: poke
+ 08/19/09 [22:00:50]< cdlu> less than a minute in, too!
+ 08/19/09 [22:00:57]< bdale> who are we missing?
+ 08/19/09 [22:01:09]< Noodles> luk.
+ 08/19/09 [22:01:10]< schultmc> zobel and luk
+ 08/19/09 [22:01:11]< Ganneff> zobel, luk
+ 08/19/09 [22:01:23]< Hydroxide> luk__: ping
+ 08/19/09 [22:01:27]< bdale> I don't recall seeing regrets from either?
+ 08/19/09 [22:01:28]< Hydroxide> (yay underscores)
+ 08/19/09 [22:01:51]< Hydroxide> I don't think I saw regrets, though I will check the logs from last meeting before noting them as such in this meeting's minutes
+ 08/19/09 [22:01:58]< bdale> ok
+ 08/19/09 [22:02:19]< bdale> since we have quorum, I'm inclined to proceed.  perhaps they'll join us before we have something to vote on...
+ 08/19/09 [22:02:25]< Hydroxide> they're just dodging secretarial duties :)
+ 08/19/09 [22:02:31]< linuxpoet> hahahahahaha
+ 08/19/09 [22:02:33]< zobel> Martin Zobel-Helas
+ 08/19/09 [22:02:38]< Hydroxide> zobel: hi there
+ 08/19/09 [22:02:41]< cdlu> hehe
+ 08/19/09 [22:02:53]< zobel> sorry for being late. laptop rebooted because of power low.
+ 08/19/09 [22:02:56]< bdale> np
+ 08/19/09 [22:03:02]< bdale> [item 3, President's Report]
+ 08/19/09 [22:03:02]< bdale> Last month, I spent two weeks in Spain and Portugal, attending Debconf9 and DebianDayPT with my daughter Elizabeth.  We had what I think was a very
+ 08/19/09 [22:03:02]< bdale> successful SPI BOF at Debconf, and it was good seeing the other SPI board members who were present there again in person.  Joerg, is there video of
+ 08/19/09 [22:03:02]< bdale> that BOF available?  If so, perhaps we can point to it.  I don't believe any action items worthy of report here came out of that BOF, though.
+ 08/19/09 [22:03:04]< bdale> Before our next meeting, my only travel related to Free Software will be a brief appearance at the RH Summit in Chicago to speak on behalf of HP.
+ 08/19/09 [22:03:06]< bdale> I've also had various emails back and forth with representatives of potential associated projects this month, but nothing worth reporting here yet.
+ 08/19/09 [22:03:24]< bdale> any questions?
+ 08/19/09 [22:03:25]< Ganneff> it was taped, i dont know if thats up yet
+ 08/19/09 [22:03:55]< bdale> ok
+ 08/19/09 [22:04:03]< Hydroxide> yes, it's up
+ 08/19/09 [22:04:08]< zobel> fully?
+ 08/19/09 [22:04:25]< Hydroxide> both high and low quality Ogg Theora videos can be gotten at http://video.debian.net/2009/debconf9
+ 08/19/09 [22:04:32]< bdale> cool
+ 08/19/09 [22:04:35]< Hydroxide> zobel: some of the videos are fully up, and I think that one is
+ 08/19/09 [22:04:40]-!- tech404 [~evan@southernae.com] has quit [Quit: Leaving]
+ 08/19/09 [22:04:43]< bdale> anything else before I move on?
+ 08/19/09 [22:05:02]< bdale> [item 4, Treasurer's Report]
+ 08/19/09 [22:05:02]< bdale> Michael?
+ 08/19/09 [22:05:16]< schultmc> A fairly routine report is in the agenda
+ 08/19/09 [22:05:23]< bdale> noted
+ 08/19/09 [22:05:28]< Hydroxide> thanks.
+ 08/19/09 [22:05:39]< bdale> anything else to add?
+ 08/19/09 [22:05:40]< Hydroxide> schultmc: last month you talked about considering a switch to accrual accounting
+ 08/19/09 [22:05:46]< Hydroxide> schultmc: have you given that any more thought, or no?
+ 08/19/09 [22:05:49]< schultmc> I'm pleased to note that Debian has spent a good portion of its funds - I encourage other projects to not hoard funds
+ 08/19/09 [22:05:52]< Hydroxide> schultmc: just checking status, not trying to prod
+ 08/19/09 [22:06:08]< schultmc> Hydroxide: I haven't had time to switch yet - it's still under consideration
+ 08/19/09 [22:06:14]< linuxpoet> I would suggest against it
+ 08/19/09 [22:06:16]< Hydroxide> schultmc: ok
+ 08/19/09 [22:06:42]< bdale> frankly, I find cash basis easier to comprehend and explain unless there's some compelling reason to switch
+ 08/19/09 [22:07:05]< Hydroxide> we shouldn't start a long discussion in-meeting now about this, but I'd be interested in discussing pros and cons outside of the meeting, without usurping the decision from the treasurer of course
+ 08/19/09 [22:07:09]< linuxpoet> agreed
+ 08/19/09 [22:07:20]< bdale> yes, good topic for an email thread
+ 08/19/09 [22:07:20]-!- MrBeige [~richard@c-76-30-67-89.hsd1.tx.comcast.net] has joined #spi
+ 08/19/09 [22:07:20]-!- MrBeige is "Richard Darst" on #spi #meetbot #debian-nyc #debconf-nyc #debconf-team
+ 08/19/09 [22:07:22]< Hydroxide> moving on?
+ 08/19/09 [22:07:25]< schultmc> only reason I can think of is to easier account for incoming donations that haven't been deposited yet but I agree we can discuss elsewhere
+ 08/19/09 [22:07:46]< bdale> schultmc: ok, thanks for the routine report ... very happy that those are indeed routine now!
+ 08/19/09 [22:07:48]< bdale> [item 5, Secretary's report]
+ 08/19/09 [22:07:48]< bdale> Jimmy?
+ 08/19/09 [22:08:32]< Hydroxide> I have a couple of remarks about the 2009 elections in the agenda - I want to say them here to. Thanks to Maulkin for your recently completed Board service, and welcome to Noodles as a new board member. and Thanks to G_SabinoMullane for running
+ 08/19/09 [22:08:42]< Hydroxide> there is also a status update on OSUNIX in the agenda
+ 08/19/09 [22:08:45]< Hydroxide> any questions?
+ 08/19/09 [22:09:00]< bdale> nope
+ 08/19/09 [22:09:05]< bdale> anyone else?
+ 08/19/09 [22:09:26]< bdale> [item 6, Outstanding minutes]
+ 08/19/09 [22:09:26]< bdale> Jimmy, looks like we might be able to catch up today?
+ 08/19/09 [22:09:27]< Noodles> Is the OSUNIX stuff from pre my arrival on the board somewhere I can read assuming we get an update for September?
+ 08/19/09 [22:09:49]< Hydroxide> Noodles: yes, you will get access to all the past board email archives
+ 08/19/09 [22:09:55]< Noodles> Ok, cool.
+ 08/19/09 [22:10:02]< Hydroxide> bdale: 100% catchup, yes. no backlog!
+ 08/19/09 [22:10:07]< Ganneff> ay. should give you your machine account soon
+ 08/19/09 [22:10:21]< Hydroxide> thanks to zobel and Maulkin for doing the overdue minutes from before my term as Secretary
+ 08/19/09 [22:10:26]< bdale> indeed!
+ 08/19/09 [22:10:28]< Hydroxide> I prepared last month's as usual
+ 08/19/09 [22:10:44]< bdale> so, want to step through them in order?
+ 08/19/09 [22:11:14]< zobel> vote for them in bulk? :)
+ 08/19/09 [22:11:15]< Hydroxide> sure
+ 08/19/09 [22:11:23]< Hydroxide> zobel: not everyone was at every meeting, so can't
+ 08/19/09 [22:11:30]< Hydroxide> non-attendees usually abstain
+ 08/19/09 [22:11:34]< bdale> yes
+ 08/19/09 [22:11:35]-!- omong_kosong [~omongkoso@pD955E3B1.dip.t-dialin.net] has joined #spi
+ 08/19/09 [22:11:35]-!- omong_kosong is "omong_kosong" on #spi #sidux-ev-support #sidux-ev #sidux
+ 08/19/09 [22:11:38]< bdale> let's step through one at a time
+ 08/19/09 [22:11:49]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on June 18th, 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:12:00]< bdale> !vote abstain
+ 08/19/09 [22:12:02]< linuxpoet> !vote abstain
+ 08/19/09 [22:12:06]< Noodles> !vote abstain
+ 08/19/09 [22:12:06]< cdlu> !vote yes
+ 08/19/09 [22:12:06]< Hydroxide> !vote abstain
+ 08/19/09 [22:12:06]< schultmc> !vote yes
+ 08/19/09 [22:12:12]< zobel> !vote yes
+ 08/19/09 [22:12:16]< Ganneff> !vote yes
+ 08/19/09 [22:12:35]< Hydroxide> Current voting results for "June 18th, 2008 minutes": Yes: 4, No: 0, Abstain: 4, Missing: 0 ()
+ 08/19/09 [22:12:38]< Hydroxide> Voting for "June 18th, 2008 minutes" closed.
+ 08/19/09 [22:12:43]< Hydroxide> heh, that counts as passing I'd say, very unusually so :)
+ 08/19/09 [22:12:49]< bdale> yes, passed
+ 08/19/09 [22:12:58]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on July 2nd, 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:13:03]< schultmc> !vote yes
+ 08/19/09 [22:13:07]< bdale> !vote abstain
+ 08/19/09 [22:13:07]< cdlu> !vote yes
+ 08/19/09 [22:13:08]< Noodles> !vote abstain
+ 08/19/09 [22:13:15]< Ganneff> !vote yes
+ 08/19/09 [22:13:17]< zobel> !vote yes
+ 08/19/09 [22:13:24]< Hydroxide> um, wait, I'm not listed in any category
+ 08/19/09 [22:13:28]< linuxpoet> !vote abstain
+ 08/19/09 [22:13:53]< cdlu> hydroxide, put yourself in as present -- you voted in that meeting. :)
+ 08/19/09 [22:13:59]< Hydroxide> I spoke up in roll call too
+ 08/19/09 [22:14:02]< Hydroxide> with that correction...
+ 08/19/09 [22:14:04]< Hydroxide> !vote yes
+ 08/19/09 [22:14:25]< Hydroxide> Current voting results for "July 2nd, 2008 minutes": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+ 08/19/09 [22:14:29]< Hydroxide> Voting for "July 2nd, 2008 minutes" closed.
+ 08/19/09 [22:14:46]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on August 20th, 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:14:54]< linuxpoet> !vote abstain
+ 08/19/09 [22:14:57]< bdale> !vote abstain
+ 08/19/09 [22:14:57]< zobel> !vote yes
+ 08/19/09 [22:15:00]< Hydroxide> !vote yes
+ 08/19/09 [22:15:01]< Noodles> !vote abstain
+ 08/19/09 [22:15:01]< schultmc> !vote yes
+ 08/19/09 [22:15:04]< Ganneff> !vote yes
+ 08/19/09 [22:15:11]< cdlu> there are only 8 board members listed on that one as well
+ 08/19/09 [22:15:21]< Hydroxide> cdlu: good catch
+ 08/19/09 [22:15:51]< Hydroxide> zobel: can you check the log? (we should link it from the minutes, normally)
+ 08/19/09 [22:15:52]< cdlu> with linuxpoet missing
+ 08/19/09 [22:15:57]< Hydroxide> cdlu: ok
+ 08/19/09 [22:16:03]< Hydroxide> will note the correction
+ 08/19/09 [22:16:09]< Hydroxide> with that...
+ 08/19/09 [22:16:15]< Hydroxide> !vote yes
+ 08/19/09 [22:16:16]< cdlu> !vote yes, when corrected :)
+ 08/19/09 [22:16:22]< Hydroxide> oh I voted already
+ 08/19/09 [22:16:31]< Hydroxide> cdlu: can you do the vote without the suffix?
+ 08/19/09 [22:16:32]< zobel> Hydroxide: i can mail you the logs, if needed
+ 08/19/09 [22:16:34]< Hydroxide> I'll put in the correction
+ 08/19/09 [22:16:36]< Hydroxide> zobel: would be good
+ 08/19/09 [22:16:43]< cdlu> !vote yes
+ 08/19/09 [22:16:44]< zobel> after the meeting
+ 08/19/09 [22:16:46]< Hydroxide> zobel: yep
+ 08/19/09 [22:16:49]< Hydroxide> Current voting results for "August 20th, 2008 minutes": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+ 08/19/09 [22:16:52]< Hydroxide> Voting for "August 20th, 2008 minutes" closed.
+ 08/19/09 [22:16:55]< Hydroxide> last one guys :) last month's
+ 08/19/09 [22:17:10]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on July 8th, 2009 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:17:15]< schultmc> !vote yes
+ 08/19/09 [22:17:17]< Hydroxide> !vote yes
+ 08/19/09 [22:17:18]< bdale> !vote yes
+ 08/19/09 [22:17:18]< Noodles> !vote yes
+ 08/19/09 [22:17:21]< cdlu> !vote abstain
+ 08/19/09 [22:17:28]< linuxpoet> !vote abstain
+ 08/19/09 [22:17:34]< Ganneff> !vote yes
+ 08/19/09 [22:17:35]< Hydroxide> Noodles: your first non-abstention vote :)
+ 08/19/09 [22:17:51]< zobel> !vote yes
+ 08/19/09 [22:17:53]< Noodles> I actually remember as far back as last month. ;)
+ 08/19/09 [22:17:57]< cdlu> hehe
+ 08/19/09 [22:18:00]< Hydroxide> Current voting results for "July 8th, 2009 minutes": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+ 08/19/09 [22:18:03]< Hydroxide> Voting for "July 8th, 2009 minutes" closed.
+ 08/19/09 [22:18:11]< Hydroxide> Noodles: the meeting minutes list you as a registered guest, so I knew you were there
+ 08/19/09 [22:18:21]< Hydroxide> ok, all four minutes approved, two with attendance corrections
+ 08/19/09 [22:18:24]< Hydroxide> next?
+ 08/19/09 [22:18:30]< bdale> \o/  thanks to all involved, it's great to be caught up before we change officers!
+ 08/19/09 [22:18:33]< Hydroxide> yes!
+ 08/19/09 [22:18:44]< bdale> [item 7, Items up for discussion]
+ 08/19/09 [22:18:44]< bdale> [item 7.1, SPI Board Elections]
+ 08/19/09 [22:18:44]< bdale> I believe we have uncontested candidates for re-election to three of our four positions, and no volunteers yet to replace Jimmy as Secretary:
+ 08/19/09 [22:18:44]< bdale>         President       Bdale Garbee
+ 08/19/09 [22:18:45]< bdale>         Vice President  Joerg Jaspert
+ 08/19/09 [22:18:45]< bdale>         Treasurer       Michael Schultheiss
+ 08/19/09 [22:18:47]< bdale>         Secretary       ?
+ 08/19/09 [22:18:49]< bdale> Does anyone else on the board want to nominate for the three positions we have candidates for?  If so, that's fine, and we can vote individually
+ 08/19/09 [22:18:52]< bdale> for any contested positions.  If not, then I'll be inclined to move that we vote to accept the candidates for those three positions and focus our
+ 08/19/09 [22:18:57]< bdale> attention on the position of Secretary.  Thoughts?
+ 08/19/09 [22:19:07]< schultmc> sounds good to me
+ 08/19/09 [22:19:12]< Noodles> Likewise.
+ 08/19/09 [22:19:13]< Hydroxide> I'm fine with that
+ 08/19/09 [22:19:17]< Ganneff> go
+ 08/19/09 [22:19:33]< zobel> go
+ 08/19/09 [22:19:50]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on approve bdale as president, Ganneff as VP, and schultmc as treasurer for 2009-2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:20:00]< schultmc> !vote yes
+ 08/19/09 [22:20:01]< linuxpoet> !vote yes
+ 08/19/09 [22:20:02]< Hydroxide> !vote yes
+ 08/19/09 [22:20:04]< Ganneff> !vote yes
+ 08/19/09 [22:20:05]< Noodles> !vote yes
+ 08/19/09 [22:20:05]< cdlu> !vote yes
+ 08/19/09 [22:20:05]< bdale> !vote yes
+ 08/19/09 [22:20:11] * cdlu applies large rubber stamp
+ 08/19/09 [22:20:20]< zobel> !VOTE YES
+ 08/19/09 [22:20:33]< Hydroxide> zobel: lowercase plz?
+ 08/19/09 [22:20:40] * bdale lol
+ 08/19/09 [22:20:42]< linuxpoet> apparently zobel is enthusiastic
+ 08/19/09 [22:20:45]< Hydroxide> (the script is probably case-sensitive)
+ 08/19/09 [22:20:49]< zobel> !vote yes
+ 08/19/09 [22:20:51]< Ganneff> i thought i had a /i in the match
+ 08/19/09 [22:20:54]< Hydroxide> Current voting results for "approve bdale as president, Ganneff as VP, and schultmc as treasurer for 2009-2010": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+ 08/19/09 [22:20:56] * cdlu nominates zobel for secretary for his enthusiasm :)
+ 08/19/09 [22:20:57]< Hydroxide> Voting for "approve bdale as president, Ganneff as VP, and schultmc as treasurer for 2009-2010" closed.
+ 08/19/09 [22:21:00]< Hydroxide> Ganneff: you might - I didn't check
+ 08/19/09 [22:21:10]< Hydroxide> ok, we have 3/4 of our officers. thanks to them!
+ 08/19/09 [22:21:24] * Ganneff goes to party. all done.
+ 08/19/09 [22:21:25]< Ganneff> :)
+ 08/19/09 [22:21:26]< bdale> ok, thanks for the vote of confidence for continuation of existing officers.  now, the floor is open for nominations for Secretary
+ 08/19/09 [22:21:39] * linuxpoet hears crickets
+ 08/19/09 [22:21:43]< zobel> cdlu: no, thanks
+ 08/19/09 [22:21:46] * Hydroxide notes before anyone wonders that the officers switch over at the end of the meeting, so I'm still stuck until the end of it. and I'm responsible for this meeting's minutes, but not next meeting's agenda
+ 08/19/09 [22:21:48]< bdale> frankly, the positions of Sec and Tres are the two most important officer positions we have
+ 08/19/09 [22:22:04]< Ganneff> si
+ 08/19/09 [22:22:32]< Noodles> I don't think it's wise for me to jump into Sec right at the start; I'm not adverse to considering it down the line though.
+ 08/19/09 [22:22:38]< bdale> I noted some discussion before the meeting about possible division of labor, which is fine, but we need a named Secretary to ringlead such activity and handle the things that don't divide well
+ 08/19/09 [22:22:39]< zobel> cdlu: i will not stand, as we are expecting the second child in december, i am already low in time, so no.
+ 08/19/09 [22:22:43] * Hydroxide notes for the record that the reason he's stepping down is due to an anticipated significant increase in outside committments - it's not such an onerous job otherwise, at least while you haven't done it for long enough to get sick of it
+ 08/19/09 [22:22:57] * cdlu served two years as secretary already and really doesn't want the job back
+ 08/19/09 [22:23:04]< cdlu> however
+ 08/19/09 [22:23:15]< cdlu> bdale, if nobody wants the job, as appears to be the case, I hearby move that we move to a rotating secretary
+ 08/19/09 [22:23:22]< cdlu> for the 6 non-executive members
+ 08/19/09 [22:23:29]< cdlu> each would take responsibility for 2 meetings (agenda/minutes)
+ 08/19/09 [22:23:45]< bdale> does that pose a bylaws issue?
+ 08/19/09 [22:23:46]< cdlu> if there's a seconder, or someone has a better idea...
+ 08/19/09 [22:23:54]< linuxpoet> I don't thing we can do that
+ 08/19/09 [22:23:58]< bdale> I'm not categorically opposed, but I'm not enthusiastic, either
+ 08/19/09 [22:24:00]< Hydroxide> I'll note that there's nothing preventing Pres/VP/Treas from also being secretary... and, the bylaws do require someone to be secretary
+ 08/19/09 [22:24:03]< cdlu> bdale, we'd probably still need to give someone the title
+ 08/19/09 [22:24:06]< cdlu> and just have the responsibility rotate
+ 08/19/09 [22:24:23]< Hydroxide> but there's also nothing preventing the secretary from delegating responsibilities on a rotating/divided basis
+ 08/19/09 [22:24:36]< bdale> so, as stated above, I'm totally cool with rotating various responsibilities, but what we need today is to elect a named Secretary to fill the role
+ 08/19/09 [22:25:02]< zobel> i would do until the baby is born (expeacted in december). but after that: no.
+ 08/19/09 [22:25:09]< bdale> I don't think there's an absolute requirement that it be a board member, but that has been our custom
+ 08/19/09 [22:25:14]< Hydroxide> bdale / Ganneff: does either of you have the time to do it? it really does tie into running the meeting
+ 08/19/09 [22:25:20]< zobel> s/expeacted/expected/
+ 08/19/09 [22:25:22]< Hydroxide> bdale: there is an absolute requirement, actually. it's in the bylaws
+ 08/19/09 [22:25:27]< Ganneff> im not up to be secretary
+ 08/19/09 [22:25:37]< Noodles> If zobel can do it for 3 months that tides us over for a while?
+ 08/19/09 [22:25:42] * cdlu . o O ( hot potato )
+ 08/19/09 [22:25:42]< bdale> hrm
+ 08/19/09 [22:25:49]< Ganneff> zobel and noodles together?
+ 08/19/09 [22:25:55]< Ganneff> noodles learning to take over in dec?
+ 08/19/09 [22:26:00]< zobel> or that way.
+ 08/19/09 [22:26:01] * linuxpoet wonders if any of the other officers are willing
+ 08/19/09 [22:26:16]< cdlu> I'm good with that if zobel and Noodles are both up for it
+ 08/19/09 [22:26:19]< Hydroxide> bdale: second sentence of penultimate paragraph, article seven: "The Board of Directors shall select from one of their number a Secretary"
+ 08/19/09 [22:26:28]< Noodles> I'm fine with if zobel is.
+ 08/19/09 [22:26:31]< bdale> Hydroxide: ok, thanks for checking that
+ 08/19/09 [22:26:32] * Ganneff knows he wouldnt do a good job as secretary
+ 08/19/09 [22:26:45] * cdlu looks to the expectant parent
+ 08/19/09 [22:26:47]< Hydroxide> so could we vote now that zobel is secretary through November 30 and Noodles is Secretary starting December 1?
+ 08/19/09 [22:26:55]< Hydroxide> as one vote, to be done with it
+ 08/19/09 [22:27:02]< bdale> zobel/Noodles: if you guys are willing, this sounds like a completely workable arrangement to me
+ 08/19/09 [22:27:05]< Ganneff> seconded, if zobel wants to
+ 08/19/09 [22:27:08]< cdlu> Hydroxide, we could be more ambiguous than that and approve zobel as secretary until he resigns.. then we just rubber stamp noodles
+ 08/19/09 [22:27:09]< linuxpoet> fine by me
+ 08/19/09 [22:27:11]< cdlu> then it's whenever they feel ready
+ 08/19/09 [22:27:28]< Noodles> cdlu: Dude, that means he can just resign straight away! No fair!
+ 08/19/09 [22:27:32]< zobel> if Noodles is fine with that.
+ 08/19/09 [22:27:33]< bdale> I will of course help, Hydroxide and I routinely chat about questions that come to the Sec that might deserve my attention too
+ 08/19/09 [22:27:34]< Ganneff> andf im sure Hydroxide will do a time too until complete take over of zobel
+ 08/19/09 [22:27:36]< cdlu> Noodles, :)
+ 08/19/09 [22:27:46]< Hydroxide> ok
+ 08/19/09 [22:27:54]< Hydroxide> ok, I think it's been seconded, so
+ 08/19/09 [22:27:55]< Hydroxide> :
+ 08/19/09 [22:27:56]< Noodles> zobel: If you're prepared to do most of it until the end of November I will pay close attention with the aim of taking over after that.
+ 08/19/09 [22:28:08]< zobel> okay.
+ 08/19/09 [22:28:13]< bdale> \o/
+ 08/19/09 [22:28:26]< bdale> Hydroxide: let's vote before they change their minds!
+ 08/19/09 [22:28:28]< Hydroxide> Voting started, 8 people (bdale,ganneff,schultmc,hydroxide,zobel,noodles,cdlu,linuxpoet) allowed to vote on approve zobel as Secretary through November 30 and Noodles as Secretary starting December 1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 08/19/09 [22:28:33]< cdlu> !vote yes
+ 08/19/09 [22:28:35]< Hydroxide> !vote yes
+ 08/19/09 [22:28:36]< schultmc> !vote yes
+ 08/19/09 [22:28:36] * cdlu sets his vote in stone
+ 08/19/09 [22:28:37]< Ganneff> that means both zobel and noodles need accounts on chic then. *note*
+ 08/19/09 [22:28:38]< bdale> !vote yes
+ 08/19/09 [22:28:41]< Noodles> !vote yes
+ 08/19/09 [22:28:42]< Ganneff> !vote yes
+ 08/19/09 [22:28:42]< linuxpoet> !vote yes
+ 08/19/09 [22:28:45]< bdale> Ganneff: indeed
+ 08/19/09 [22:28:47]< zobel> !vote yes
+ 08/19/09 [22:28:48]< cdlu> is Noodles on board@ yet?
+ 08/19/09 [22:28:49] * Noodles . o O (I blame Maulkin)
+ 08/19/09 [22:28:54]< schultmc> cdlu: yes
+ 08/19/09 [22:28:55]< Hydroxide> Current voting results for "approve zobel as Secretary through November 30 and Noodles as Secretary starting December 1": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+ 08/19/09 [22:28:56]< cdlu> k
+ 08/19/09 [22:28:57]< Ganneff> cdlu: shouldbe, yes
+ 08/19/09 [22:28:58]< Hydroxide> Voting for "approve zobel as Secretary through November 30 and Noodles as Secretary starting December 1" closed.
+ 08/19/09 [22:29:13]< bdale> woohoo!  thanks, guys, it's very good to have this handled with no greater angst.
+ 08/19/09 [22:29:25]< Hydroxide> Thank you all, especially zobel and Noodles! I still plan to participate fully as a non-executive board member, and am happy to answer questions from my successors as Secretary
+ 08/19/09 [22:29:26]< Noodles> Yes, I'm receiving mail to spi-board@ just fine.
+ 08/19/09 [22:29:31]< cdlu> 'k
+ 08/19/09 [22:29:32] * Ganneff will do the account foo a little after the meeting. secretary itselkf can deal with the mail aliases whenever they want to :)
+ 08/19/09 [22:29:38]< cdlu> yes, thank you zobel and Noodles. you're brave. :)
+ 08/19/09 [22:29:41]< Hydroxide> ok
+ 08/19/09 [22:29:44]< bdale> [item 8, Any other business]
+ 08/19/09 [22:29:44]< bdale> Do any board members have other items for discussion they would like to address briefly?
+ 08/19/09 [22:29:51]< Noodles> The web site still lists Maulkin.
+ 08/19/09 [22:29:56]< cdlu> I submitted a resolution for discussion between now and the next meeting
+ 08/19/09 [22:29:58]< linuxpoet> I do
+ 08/19/09 [22:30:01]< Hydroxide> Noodles: heh. can be fixed of course
+ 08/19/09 [22:30:02]< cdlu> if there's feedback quickly I'll forward it to -private
+ 08/19/09 [22:30:06]< bdale> linuxpoet: go
+ 08/19/09 [22:30:09] * Ganneff just one, known to board@ already: im down in taiwan end of september
+ 08/19/09 [22:30:09]< zobel> Ganneff: will you go to asia?
+ 08/19/09 [22:30:10]< Noodles> Is that something anyone can easily change? (If someone tells me hwo I'll do it)(
+ 08/19/09 [22:30:17]< linuxpoet> Just a couple of things
+ 08/19/09 [22:30:22]< Hydroxide> Noodles: we can get you an account on the website. later.
+ 08/19/09 [22:30:24]< linuxpoet> 1. What is the status on the new website?
+ 08/19/09 [22:30:27]< Ganneff> attending a meeting there and at that time talking with the debian.org.tw people and their future
+ 08/19/09 [22:30:44]< Hydroxide> linuxpoet: stalled for lack of available man-hours.
+ 08/19/09 [22:30:59]< Hydroxide> part of what I don't have time to do - and our volunteer slef was in the same situation last time I checked
+ 08/19/09 [22:31:02]< Ganneff> Hydroxide: oh dont be so easy with that website, the last time an account was modified there nearly cost us all of it :)
+ 08/19/09 [22:31:05]< linuxpoet> We have had some people showing interest in helping in general. Perhaps it is time we take that to the members
+ 08/19/09 [22:31:10]< Hydroxide> Ganneff: haha :)
+ 08/19/09 [22:31:25]< Hydroxide> linuxpoet: I think we have asked the members before. I would support a re-inquiry
+ 08/19/09 [22:31:26]< Ganneff> im NOT joking. fucking plone and zope
+ 08/19/09 [22:31:40]< Hydroxide> Ganneff: I remember. though I think that was from a backup, not from a new account
+ 08/19/09 [22:31:43]< slef> need write access to git still
+ 08/19/09 [22:31:44]< bdale> I'm willing to help if the move is still intended to be to git+ikiwiki
+ 08/19/09 [22:31:49]< linuxpoet> Well I know some members are willing to help with the membership app
+ 08/19/09 [22:31:50]< Ganneff> Hydroxide: wrong you are
+ 08/19/09 [22:31:54]< Hydroxide> Ganneff: ok
+ 08/19/09 [22:32:01]< linuxpoet> I would think they would be willing with the website as well
+ 08/19/09 [22:32:04]< Hydroxide> Ganneff: see slef's comment about write access
+ 08/19/09 [22:32:14]< Ganneff> uh.
+ 08/19/09 [22:32:20]< Ganneff> well, we can sort this out of meeting.
+ 08/19/09 [22:32:22]< linuxpoet> 2. I think as a board we should try and set some actual goals for the next year
+ 08/19/09 [22:32:23]< bdale> let's take the tech bickering offline, please
+ 08/19/09 [22:32:24]< Hydroxide> linuxpoet: can we charge you with rounding up man-hours and associated humans? (not saying they have to be your man-hours beyond that)
+ 08/19/09 [22:32:33] * Ganneff just needs 10 minutes there before doing anything...
+ 08/19/09 [22:32:35]< linuxpoet> Hydroxide: Yeah I can do that
+ 08/19/09 [22:32:39]< Hydroxide> great, decided.
+ 08/19/09 [22:32:59]< bdale> linuxpoet: do you have goals in mind?
+ 08/19/09 [22:33:18]< bdale> if so, an email thread seems in order
+ 08/19/09 [22:33:23]< linuxpoet> bdale: Just some fairly high level obvious ones (more projects, increase in direct donations etc..)
+ 08/19/09 [22:33:27]< bdale> that's probably the right way to proceed regardless
+ 08/19/09 [22:33:30]< linuxpoet> Oh I would agree that an email thread is in rder
+ 08/19/09 [22:33:44]< bdale> I agree that a goals discussion would be good via email
+ 08/19/09 [22:33:45]< linuxpoet> I just wanted it on record that we need to get together and pick a couple of things to accomplish :)
+ 08/19/09 [22:33:58]< bdale> noted
+ 08/19/09 [22:34:03]< linuxpoet> that is all I have
+ 08/19/09 [22:34:09]< bdale> cool.  anyone else?
+ 08/19/09 [22:34:26]< cdlu> just what I mentioned at the start of this section
+ 08/19/09 [22:34:44]< bdale> right, I don't think I've seen/read it yet
+ 08/19/09 [22:34:45]< Hydroxide> cdlu: anything that's public enough to be discussed here is public enough for -private (or maybe -general if google-indexing isn't a problem)
+ 08/19/09 [22:34:57]< Hydroxide> cdlu: that's my feedback so far :) will send more via email
+ 08/19/09 [22:35:03]< bdale> ok
+ 08/19/09 [22:35:06]< cdlu> yep, I just wouldn't mind initial vetting of it for quality before forwarding :)
+ 08/19/09 [22:35:06]< bdale> [item 9, Next board meeting]
+ 08/19/09 [22:35:06]< bdale> I believe our next regularly-scheduled monthly meeting should be September 16th at 20:00 UTC.  That looks ok to me.  Any strong objections?
+ 08/19/09 [22:35:15]< Noodles> Works for me.
+ 08/19/09 [22:35:21]< cdlu> should be fine 
+ 08/19/09 [22:35:25]< Hydroxide> Noodles: are 3rd Wednesdays of months at 20:00 UTC generally OK? 
+ 08/19/09 [22:35:27]< schultmc> fine with me
+ 08/19/09 [22:35:34]< Hydroxide> Noodles: that's our default, but I figured we should verify with a new board member
+ 08/19/09 [22:35:39]< Ganneff> i wish we could move one week later (in general), but otherwise fine. (3rd wednesdays clash with another meeting i would love to attend)
+ 08/19/09 [22:35:42]< Noodles> Generally they should be ok, yes.
+ 08/19/09 [22:35:53]< zobel> next meeting?
+ 08/19/09 [22:35:58]< Ganneff> or one week earlier. or whatnot. but not strongly pushing for it, would just be nice. :)
+ 08/19/09 [22:36:20]< Noodles> I'm busy the last Wednesday of each month (local LUG).
+ 08/19/09 [22:36:27]< bdale> let's keep sept 16th
+ 08/19/09 [22:36:29]< Hydroxide> second wednesdays would be less likely to conflict with thanksgiving in the US than fourth wednesdays, and don't routinely conflict with any US holiday
+ 08/19/09 [22:36:32]< Hydroxide> but yes
+ 08/19/09 [22:36:35]< Hydroxide> ok
+ 08/19/09 [22:36:39]< Hydroxide> sept 16th it is
+ 08/19/09 [22:36:40]< Ganneff> my local lug is whats on third wednesdays for me...
+ 08/19/09 [22:36:47]< cdlu> my new job may unpredictably cause me to miss business hours meetings
+ 08/19/09 [22:36:52]< Ganneff> always either them or spi
+ 08/19/09 [22:36:52]< bdale> Ganneff's input noted
+ 08/19/09 [22:36:54]< Noodles> Maybe think about the 2nd Wednesday for October then?
+ 08/19/09 [22:37:04]< cdlu> as I can't (easily) be on IRC from work
+ 08/19/09 [22:37:07]< Hydroxide> we can decide between now and the end of the September meeting
+ 08/19/09 [22:37:26]< bdale> I'm ok with moving to 2nd Wed, but let's do it for Oct and beyond so folks have time to check calendars, etc
+ 08/19/09 [22:37:36]< linuxpoet> can we gavel? :)
+ 08/19/09 [22:37:42]< bdale> we'll keep 16th Sept at 20:00 for the next meeting
+ 08/19/09 [22:37:44]< bdale> Ok, thank you to everyone present for participating today.
+ 08/19/09 [22:37:44]< bdale> *GAVEL*
+[...]
+           ..:: Closing Log on Thu, Aug 20, 2009 at CEST [+0200] ::..

@@ -1,0 +1,412 @@
+01:32 * mako_ pounds the gavel
+01:34 <cdlu> http://www.spi-inc.org/secretary/agenda/2005-10-18.html
+01:45 <mako_> roll call time
+01:48 <cdlu> David Graham
+01:50 <mako_> state your name for the record
+01:54 <mako_> Benjamin Mako Hill
+01:54 <cdlu> guests, please /msg me your name for the record
+02:06 <bdale> Bdale Garbee
+02:08 <Overfiend> Branden Robinson
+02:09 <BrucePerens> Bruce Perens
+02:18 <cdlu> Diziet?
+02:24 <IanJackson> Ian Jackson.
+02:26 <bdale> he stepped away
+02:30 <bdale> oh, good
+02:40 <cdlu> mako, that's official quorum
+02:59 <mako_> alright
+03:22 <mako> neither john nor jimmy are here
+03:32 <IanJackson> Let's defer Jimmy's item; he may turn up later.
+03:43 <Overfiend> I can report on treasury stuff in the interim
+03:43 <mako> so it seems that the treasurer and presidents are not here to report
+03:47 <mako> to to discuss their report
+03:57 <Overfiend> Though most of it would be a rehash of emails I sent to -private and -board today.
+04:02 * mako nods to Overfiend
+04:11 <IanJackson> Right.
+04:15 <mako> lets postpone this until later and see if jimmy shows up
+04:21 <mako> outstanding minutes
+04:30 <cdlu> mako, none to present
+04:36 <Overfiend> Well.
+04:39 <mako> it seems that we have logs (not written up minutes) for a number
+05:07 <Overfiend> It looks like cdlu cannot find time to write up minutes from the logs, and neither can anyone else.  Way back when we had a resolution to just post IRC logs in lieu of minutes if we couldn't write them fast enough.
+05:19 <mako> alright
+05:19 <Overfiend> I move we just bulk-approve the IRC logs.
+05:26 <mako> right, a log is a log
+05:27 <IanJackson> What, and call them minutes ?
+05:34 <cdlu> Overfiend, no, that resolution is still on the books, and I will write minutes for them.
+05:38 <Overfiend> oh ah.
+05:53 <cdlu> Overfiend, I agree with Ian's reaction. :)
+06:07 * Overfiend has this demented idea that we could set up a Wiki and ask the community to write our minutes for us based on the logs.  </joking>
+06:12 <mako> i say we keep the logs up there until we have minutes
+06:19 <cdlu> mako, that's the plan for now
+06:20 <IanJackson> I mean, we should clearly keep them and we can use them as minutes if we have to but it would be much better to have real minutes.
+06:43 <Overfiend> Well, let's move to post the logs, or just post them if we don't need a resolution.
+06:48 <bdale> voting to approve an IRC log feels silly
+06:56 <IanJackson> We don't need to vote.
+07:01 <Overfiend> Right now it looks like we haven't done crap in months, which actually isn't true unlike some other periods in SPI's life.
+07:08 <cdlu> nope, the resolution on the books makes logs stand in for minutes until minutes are written
+07:12 <IanJackson> The meeting was public.  The logs are on the public webternet.
+07:15 <Overfiend> cdlu: but they're not on the website.
+07:19 <Overfiend> or are they?
+07:22 <IanJackson> http://www.spi-inc.org/secretary/minutes/20050621.txt
+07:28 <IanJackson> etc.
+07:31 <mako> alright
+07:33 <IanJackson> Linked from today's agenda.
+07:35 <cdlu> well, they're all linked from www.spi-inc.org/secretary/minutes/
+07:41 <IanJackson> Maybe not the best way to find them but ... ah.
+07:44 <Overfiend> ahhh.  That's too hard to find from the front page IMO
+07:46 <cdlu> until real minutes are written, all logs are in the agenda
+07:52 <slef> Is www.spi-inc.org/secretary linked from the people list yet?
+07:55 <mako> unless there is a motion to approve these logs (which i agree with bdale sounds silly) lets just move on
+08:00 <Overfiend> We have certain critics who insist there is no evidence that SPI's Board actually met this year.
+08:01 <dondelelcaro> mako: yerp
+08:06 <mako> we can revisit this issue when we have minutes to approve
+08:08 <IanJackson> move on> Yes, please.
+08:13 <cdlu> Overfiend, yes, I need to finish my minutes. The other major time killer in my life (aside from work and stuff) of flying school ends in one week when I have my flight test. Then I theoretically have real time to do it. :)
+08:13 <Overfiend> After Feb., that is.
+08:54 <mako> alright, lets move on
+08:57 <Overfiend> Fine by me to shelve the item.
+09:02 <IanJackson> If we skip 6.1. we're on to Mako, right ?
+09:05 <mako> skipping tax filing issues until jimmy shows up
+09:07 <mako> right
+09:13 <mako> i'm goign to defer to dondelelcaro on this one
+09:25 <Overfiend> 6.2, you mean?
+09:25 <mako> since i haven't actually been involved in the discussion in the last month
+09:28 <mako> yes
+09:32 <mako> Debian Core Consortium related issues (Mako)
+09:36 <Overfiend> 6.2. Debian Core Consortium related issues (Mako)
+09:38 <mako> or Overfiend if he has anything to add
+09:38 <Overfiend> oh, whoops
+09:41 <Overfiend> you're too fast for me.
+10:37 <Overfiend> I would just like to say that I'd like Don to get Greg Pomerantz's opinion as to whether we are failing to act aggressively enough to defend our mark.  That we have been in regular contact with DCCA and expressing our concerns...
+11:12 <Overfiend> would, I think, mean we are attentive to the mark.  Is it actually necessary to threaten DCCA with a lawsuit for a typical court to regard us as "defending" it?
+11:36 <Overfiend> Actually I have something else, too.
+11:55 <Overfiend> For "mark", read "marks".  The Open Use and Official Logos are marks as well, though we have not registered them.
+11:57 <mako> hello Joey
+11:58 <cdlu> hi Joey
+12:16 <IanJackson> Don said in his mail that he thought his delegation had ended.  I don't agree.  I think Don was delegated to deal with the whole argument with DCCA and if it's not completed to Don's satisfaction then he should press on.
+12:25 <Overfiend> As a more general, non-DCCA-related item, I need to know where things stand on SPI getting the ...
+12:28 <Overfiend> I'm not done yet :-P
+12:37 <IanJackson> Type quicker then :-).
+12:40 <dondelelcaro> Overfiend: I can do that; however, since their name has changed that was the primary issue that needed to be resolved
+12:45 <Overfiend> As a more general, non-DCCA-related item, I need to know where things stand on SPI getting the copyright assignment for the graphical logos so that we can look into getting them registered.
+13:18 <Overfiend> dondelelcaro: Well, pragmatically, your delegation continues as long as 1) Debian developers are raising hell about DCCA *and* 2) I am employed by a DCCA member company.
+13:31 <mako> Overfiend: i signed a piece of paper for the transfer
+13:31 <Overfiend> If you don't want to do it anymore, as DPL I would be prudent to delegate it to someone else.
+13:37 <mako> Overfiend: of the logo copyrights
+13:40 <Overfiend> mako: Okay.  I thought I remembered that, but could not find it.
+13:47 <Overfiend> mako: do we have a digital copy of that somplace?
+13:53 <mako> Overfiend: greg can get you copies and info on the final status
+13:58 <Overfiend> mako: outstanding.
+14:00 <mako> Overfiend: not digital.. i have paper copies
+14:07 <mako> as does greg
+14:08 * Overfiend adds that to his mile-long to-do list.
+14:09 <dondelelcaro> Overfiend: ok; I've no problem wrapping up the final issues, it was just that I had triggered one of the clauses to end the delegation
+14:23 <dondelelcaro> Overfiend: in any case, the remaining issues don't really require special powers anyway
+14:28 * mako nods
+14:34 <IanJackson> Also, Don, can you please give us here on the SPI Board some clear instructions ?  I assume from your mail that you don't want us to do anything.  Is that right ?
+14:38 <Overfiend> mako: I'll go through Greg, as a lawyer he is supposed to have m4d paperwork sk1llz
+15:08 <cdlu> Ian, do we as a board have any authority to do anything anyway? This is all DPL or his designate's court, I figured.
+15:09 <mako> Overfiend: or have people with said skills workign for him :)
+15:17 <Overfiend> dondelelcaro: well, delegation in the Debian Project isn't solely about privileged issues, it's also about making sure important things are attended to.
+15:20 <dondelelcaro> IanJackson: there's really nothing to be done; the statements that you brought up appear (to me at least) to be cases where the mark is being used in a descriptive fashion, which is something that we can't use a trademark to control
+15:24 <IanJackson> don: `Make any decision for whom noone else has responsibility' is for the DPL.  Branden wants to delegate the DCCA argument to you so long as it's still an argument.
+15:25 <slef> I suggest the SPI board ask debian for Reasonable and Non-descriminatory terms for the trademark licence, so they can get on with licensing and enforcement, instead of the current uneven situation.
+15:51 <Overfiend> slef: well, the term "RAND" carries nasty connotations in the community, but yes.
+15:51 <IanJackson> slef: !
+16:04 <dondelelcaro> IanJackson: err... nothing besides the logo and making some sort of announcement to clarify the relationship between the two organizations
+16:17 <Overfiend> THat's a good recommendation.  I've been mulling it over but have not wanted to funnel a big portion of my time into a license design process.
+16:25 <IanJackson> On the contrary, we neither want Reasonable And Non-Discriminatory licensing of the Debian mark, nor `reasonable' `non-discriminatory' licensing.
+16:26 <Overfiend> From my experience on -legal, I'm afraid it would be a MAJOR time sink.
+16:37 <Overfiend> But if it's one of the most important things I can be doing, than I should do it.
+16:52 <dondelelcaro> IanJackson: the latter I think requires a 4.1.5 statement.
+16:55 <IanJackson> IMO Debian should retain its discretion.
+17:17 <IanJackson> You mean a statement by the Developers by way of General Resolution ?!  Surely not.
+17:22 <slef> We have DDs raising hell about DCCA, yet some of those same hell-raisers are involved with a questionable retailer (human-rights-violating and maybe not even tax-registered when it should be) which *has* been licensed to use the debian name.
+17:26 <BrucePerens> I also believe that Open Source does not apply to trademarks and we should have Debian maintain close control over it.
+17:32 <Overfiend> What I hear is that we want objective terms that a reasonable third party can interpret, and determine with a high probability of success (i.e., agreement with Debian/SPI) whether they have license to use Debian's marks or not.
+17:51 <mako> greg and i have some text that tries to do that
+17:57 <Overfiend> slef: eh?  Since when does Canonical Software violate human rights?
+17:58 <BrucePerens> Such terms are not necessarily non-discriminatory.
+18:01 <mako> it's more of an outline still
+18:07 <mako> but i'm happy to send it to the list
+18:08 <IanJackson> I move we devoice mjr.
+18:08 <bdale> I'd be ok if we can define boundaries that are clearly ok uses and clearly not ok and leave a gap in between that requires discretion and interaction
+18:28 <IanJackson> This kind of nonsense is just a distraction we don't need.  In any case, I'm going to ignore it.
+18:47 <IanJackson> Anyway, all of this stuff is for Debian to decide and it would be best to have the conversation on -project or somewhere.
+18:50 <Overfiend> bdale: Hmm.  It *would* be easier, perhaps, to have a license policy that is a laundry list instead of some kind of well-reasoned legal argument.
+19:04 <Overfiend> You may:
+19:04 <Overfiend> * X, Y, Z
+19:04 <Overfiend> You may not:
+19:08 <Overfiend> * A, B, C
+19:12 <bdale> Overfiend: I just worry that we aren't smart enough to fix it once for all time
+19:15 <Overfiend> Please consult with Debian if you want to:
+19:18 <Overfiend> * P, D, Q
+19:32 <mako> Overfiend: are you on the -trademark list?
+19:41 <mako> we don't need to write the trademar policy here
+19:45 <Overfiend> mako: I think so, but I haven't seen any traffic lately.
+19:50 <mako> but we do it nee d to write to there :)
+19:50 <Overfiend> mako: This is brainstorming, not real work.
+19:57 <mako> i've had a half dozen messages in the last week or two i think
+19:58 * mako nods
+20:01 <Overfiend> s/but I/but if so I/
+20:01 <IanJackson> So, Don, just to be clear again, you're saying that as Debian's official contact on this matter you want SPI to take no action at this time.
+20:03 <Overfiend> Oh, damn.
+20:08 <Overfiend> I must not be, then.
+20:09 <Overfiend> wait.
+20:17 <Overfiend> I know I asked to be.  Who mods the list/
+20:28 <Overfiend> Someone needs to approve my subscription, IIRC.
+20:43 <cdlu> wiggy, maybe? I don't know who has list admin access
+20:46 * cdlu only has it for announce
+20:48 <Overfiend> balls.
+20:51 <IanJackson> I would like a clear instruction from Don and then we can move on.  The rest of this stuff ought to be discussed in a Debian forum.
+20:54 <dondelelcaro> IanJackson: right; no action needs to be taken in regards to the DCCA at this time as the remaining issue involving Debian's mark (logo) should be resolved soon
+20:59 <IanJackson> OK.
+21:09 <Overfiend> dondelelcaro: Did you already mention why you have that expectation?
+21:11 * mako nods to IanJackson
+21:15 <Overfiend> things scrolled kinda fast there.
+21:34 <cdlu> dondelelcaro, are you in active contact with DCCA on the topic of the logo and announcement demands?
+21:43 <IanJackson> ov: Did you see his email to -board at 21:28 UTC today ?
+21:46 <dondelelcaro> cdlu: with Ian Murdock, yes.
+21:48 <IanJackson> Err, yesterday.
+21:56 <Overfiend> IanJackson: yes.
+22:06 <Overfiend> oh, right.
+22:08 <IanJackson> So I think that answers your question.  Perhaps I don't understand.
+22:13 <Overfiend> yeah.  It does.
+22:17 <Overfiend> I just tied my brain in a knot.
+22:30 <IanJackson> I think we're done with this one then.
+22:35 <mako> alright then
+22:37 <mako> then move on
+22:38 <Overfiend> IanJackson: I thought you were still...dissatisfied *after* that
+22:44 <IanJackson> If Don wants us to do something he should tell us.
+22:52 <IanJackson> Well, yes, I probably am, but here's not the place to have that argument.
+22:53 <mako> cdlu: the floor is yours
+22:56 <mako> OFTC election results (cdlu)
+23:02 <cdlu> ok
+23:04 <cdlu> very briefly
+23:09 <cdlu> the status quo won a resounding victory. :)
+23:18 <mako> cheers for the status quo
+23:19 <Overfiend> can you remind us what that was? :)
+23:27 <cdlu> OFTC's continued SPI membership was approved unanimously by the voters
+23:38 <cdlu> Overfiend, OFTC's annual elections took place last week
+23:44 <Overfiend> Oh, I thought the election was Condorcet for OFTC board members.
+23:47 <cdlu> the administration of OFTC is essentially the same.
+24:03 <cdlu> Overfiend, nope, we use Borda... similar, but not condorcet
+24:08 <cdlu> also have referendum questions on the ballot which are straight yes/no
+24:12 <Overfiend> Right.  I know they're different.
+24:23 <Overfiend> okay.  Referendum question.  I understand now.
+24:37 <Overfiend> What/whose machinery was used for conducting the balloting?
+24:40 <cdlu> anyway, that's all about that mako, unless anyone has questions
+24:46 <IanJackson> I can't seem to find the resolution approving OFTC as an associated project, right now.  Can anyone remember what it said and where to find it ?
+24:55 <cdlu> Overfiend, SPI's was not organised in time, so individual counters hand-counted the ballots
+25:01 <cdlu> which were sent by email
+25:02 <IanJackson> It'll have some sentence in it about how we take so-and-so to be the approved spokesperson or something.
+25:18 <IanJackson> We just need to know whether that's out of date.
+25:19 <Overfiend> cdlu: Okay.  Thanks.
+25:37 <Overfiend> IanJackson: I can't find it either.  There is a stretch of time where we passed resolutions that never made it to the website.
+25:41 <cdlu> IanJackson, the spokesman is covered by the Advisor resolution -- all member project chairs are automatically an SPI board advisor
+25:44 <Overfiend> And some never got posted to spi-announce, either.
+26:04 <Overfiend> Those were the dark times.
+26:24 <cdlu> http://www.spi-inc.org/corporate/resolutions/resolution-2002-10-09.mgs
+26:27 <IanJackson> cdlu: Err, no, advisor != official decisionmaking wossname, necessarily.  The official decisionmakers could send a delegate as an adviser.
+26:28 <mako> alright then
+26:31 <IanJackson> s/iser/isor
+26:41 <mako> final issue
+26:45 <mako> Debian website copyright issues (Tommi Vainikainen) [see appendix]
+26:46 <cdlu> and
+26:46 <cdlu> http://www.spi-inc.org/corporate/resolutions/resolution-2002-07-02.iwj.5
+27:03 <Overfiend> ahhhh
+27:06 <IanJackson> This kind of thing is why we don't want copyrights.
+27:08 <Overfiend> Well, that time wasn't dark.
+27:12 <mako> right
+27:20 <mako> if it was in our power to eliminate copyrights with a resolution... :)
+27:21 <IanJackson> cdlu: Ah, thanks.
+27:30 <mako> the website situation is a PITA
+27:37 <mako> i've discussed this with matt kraii at debconf before
+27:37 <Overfiend> IanJackson: well, I'd say it's why we don't want to use crap licenses like the OPL.
+27:38 <mako> and with others
+27:42 <mako> and i've talked to greg about this
+27:43 <IanJackson> ov: That too.
+28:01 <mako> basically, greg didn't seem to think that we could relicensing things without copyright statements
+28:03 <cdlu> I asked if Tommi could attend the meeting to address it directly.. he said he might be able to attend, but has not registered as a guest with me so no idea
+28:08 <mako> from the people who have written the pages
+28:17 <BrucePerens> What specific issue is there with OPL?
+28:26 <Overfiend> Hoo boy.  And some of those people have drifted away over the years.
+28:31 <Overfiend> This is like getting moria relicensed.
+28:33 <Overfiend> Or Mozilla.
+28:56 <tvainika> cdlu: i tried msg you some minutes ago
+29:00 <Overfiend> BrucePerens: I don't remember exactly, but IIRC it had a flaw in it similar to one of the GFDL's, even without the optional bits.
+29:07 <cdlu> oh, sorry, I missed it!
+29:09 <cdlu> hi :)
+29:10 <IanJackson> For SPI, we will do what Debian tells us to.
+29:13 <Overfiend> BrucePerens: It was discussed on -legal some time ago.
+29:18 <BrucePerens> Well, since I have 19 books under it, I'd like to know more.
+29:25 <cdlu> mako, if you'd like the person who brought up the issue, he's here as tvainika
+29:26 <IanJackson> Do we have an instruction from Debian ?
+29:41 <Overfiend> BrucePerens: It was the kind of restriction some people don't take seriously, so IIRC it got argued about.
+29:51 <tvainika> i was bit late because i don't think there is any official suggestion from debian
+29:56 <mako> tvainika: please go ahead
+29:58 <tvainika> and i'm not even DD officially
+30:18 <tvainika> but bug report about issue has been open for quite long time
+30:26 <IanJackson> OK.  Thanks for pointing out the problem.  I think you should go and talk to debian-legal or debian-www and badger them into telling us what they want us to do.
+30:33 <Overfiend> Oh, Tommi Vanikanen, not Tommi Virtanen.
+31:16 <Overfiend> tvainika: If you were a DD, I'd happily delegate you to own this issue, as it very much needs a caretaker to get is resolved.  It's been one of these multi-year nagging issues that annoys lots people enough to complain, but not enough to resolve.
+31:37 <Overfiend> tvainika: consider this a carrot to get you into the NM queue :)
+31:40 <tvainika> but there also that problem if SPI needs any action, as it was pointed at -legal that there is no copyright assigments from original contributors
+31:52 <mako> tvainika: i'm happy to introduce you to greg pomerantz
+32:05 <mako> but you might not like the answers he gives you
+32:13 <IanJackson> If the original contributors wrote `(C) SPI' then I think we're on safe ground relicensing unilaterally.
+32:14 <mako> the legal reality is pretty discouraging
+32:23 <mako> IanJackson: cearly, not everyone did
+32:26 <Overfiend> IanJackson: you can't assign copyright that easily in the U.S.
+32:35 <Overfiend> IanJackson: you have to have a written instrument.
+32:42 <IanJackson> ov: That doesn't matter, because the real question is `who is going to sue' and the answer will be no-one.
+32:57 <mako> wikipedia is in the same problem right now
+33:12 <mako> we're not unique here.. but this is a tough tough problem
+33:16 <Overfiend> well....
+33:18 <tvainika> IanJackson: i'd like to point that probably many especially translators didn't even knew that web page says © SPI (it is only in some automatically added footers and special license page)
+33:36 <Overfiend> mako: I'm not so sure it's THAT bad.
+33:44 <Overfiend> mako: Think about how class action suits are certified.
+33:45 <mako> one way out is, if there's an "or any later version" clause, to just make the next version of a license a license we agree is free
+33:52 <IanJackson> tv: Perhaps.  But are we afraid that some disgruntled translator will sue us ?
+34:08 <cdlu> IanJackson, they'll first send a C&D, no?
+34:12 <IanJackson> If they do then they'll have to explain why they translated it without copyright permission ...
+34:14 <Overfiend> mako: People are made part of the class by default, and get mails, and there are ads taken out in newspapers, giving them notice.  If they don't want to be part of the class, they have to opt out.
+34:14 <cdlu> so you take off that section of the web page and carry on
+34:17 <IanJackson> cdlu: Yes, whatever.
+34:24 <mako> that was done by EFF IIRC
+34:28 <cdlu> someone else retranslates it, and off you go
+34:28 <BrucePerens> Weren't these folks working on behalf of the corporation? I fail to see that anyone who chooses to sue has much of a theory behind him.
+34:43 <IanJackson> bp: That may be true too.
+34:48 <Overfiend> So I think it's plausible that we could *try* to contact old contributors, and put out an announcement that we'll relicense the site in 6 months.
+34:49 <IanJackson> I think this is an entirely theoretical problem.
+34:55 <cdlu> how many people writing for Debian websites have contracts? :)
+34:56 <IanJackson> Let's not worry about it until we get a C&D.
+35:03 <Overfiend> And that might cover our asses sufficiently.
+35:17 <BrucePerens> There really should be a contract as part of the DD relationship.
+35:21 <slef> BrucePerens: OPL has some content/layout requirements for modified versions and multiple "identified" lawyerbombs. It's very arguable, but equally that means there's no consensus it's freee.
+35:25 <tvainika> of course great resolution for this issue would be statement from SPI board to double-license web pages (but only the parts SPI has copyright) with some really good consensus free license...
+35:33 <mako> alright
+35:52 <Overfiend> tvainika: actually, earlier this week I was hacking up a modified version of the GPL for documentation
+35:53 <IanJackson> tv: We will do that if we have instructions from Debian.
+36:03 <Joey> tvainika: translators are required to read the /devel/website/ documentation, if they don't notice the license footer, I don't think they can be helped at all.
+36:03 <IanJackson> ov: What modifications ?
+36:04 <Overfiend> tvainika: with promotion clauses to the LGPL and GPL.
+36:05 <BrucePerens> I am willing to look again, but I've found that it is DFSG compliant if you don't take the options.
+36:20 <Overfiend> IanJackson: s/Program/Document, mostly.
+36:28 <Overfiend> IanJackson: nuked 2c), as it's inapplicable to documents.
+36:28 <IanJackson> ov: :-)
+36:46 <slef> Overfiend: GPL defines Program to be roughly whatever is GPL'd, doesn't it?
+36:47 <Overfiend> IanJackson: when I finish it, you'll be able to find it in the HTML comments of my blog entries.
+36:56 <mako> alright, lets not discuss the merits of the OPL here :)
+36:58 <Overfiend> slef: more or less.
+37:07 <mako> the issue is potential to relicense the website
+37:11 <Overfiend> Right.
+37:14 <mako> tvainika: i think it's clear that we'
+37:19 <mako> we are open to considering a new license
+37:30 <mako> but we're not comfortable doing it unless you can get our lawyer to say yes first
+37:33 <mako> and in the past, he was unwilling to do that
+37:33 <IanJackson> 0. This License applies to any program or other work which contains a [GPL notice].  The "Program", below, refers to any such program or work ...
+37:43 <cdlu> mako, I don't suppose it can just go into the public domain or something exceedingly simple like that, eh?
+37:46 <Overfiend> mako, dondelelcaro: Uh, if -private could get a status on the GNU FDL discussions.  Ahem.  Ahem.  *nag*
+37:55 <mako> tvainika: if this is a problem that you want to bang your head on, i'll give you the contact you need to do that
+37:59 <IanJackson> overfiend: He's gone, I'm afraid.
+38:07 <IanJackson> Send him an email.
+38:10 <Overfiend> mako, dondelelcaro: If the FSF would hurry up with that, it would be a nice gesture for Debian to apply it to their website.
+38:14 <Overfiend> eh?
+38:14 <mako> Overfiend: it's mostly my fault.. i need to finish up with teh sponsors week at the lab.. 2 more days :)
+38:18 <IanJackson> I'll talk to him again in about 90 mins and I'll nag him about that then.
+38:21 <Overfiend> who?
+38:31 <mako> i have a number of unsent/ready mails on the subject
+38:31 <Overfiend> dondelelcaro is still in the channel
+38:37 <mako> alright
+38:48 <IanJackson> dondelelcaro has gone to a class, he told me in msg.
+38:54 <mako> alright then
+38:55 <Overfiend> oh.  GNGNGNGN.
+39:01 <mako> so
+39:05 * IanJackson gives overfiend a rubber duck to chew on.
+39:06 <mako> jimmy is still not here
+39:08 <Overfiend> IanJackson, mako: yes, please relay what I said to Don if you can
+39:11 <IanJackson> Willdo.
+39:16 <mako> Overfiend: will do
+39:20 <BrucePerens> Next item of business?
+39:23 <mako> so
+39:24 <Overfiend> Treasurer stuff.
+39:34 <mako> Overfiend: do you want to do that sans jimmy?
+39:41 <Overfiend> I'll do what I can.
+39:41 <IanJackson> We've seen Overfiend's emails but no proper report this month.
+39:54 <Overfiend> IanJackson: well, Jimmy's blocked on me for that.
+39:57 <Overfiend> No sense blaming him.
+39:57 <IanJackson> Can we put it off and just say we hope to have a proper report from Jimmy by next meeting ?
+39:59 <IanJackson> Right.
+40:16 <IanJackson> I'm more worried about the bookkeeping and tax filing.
+40:20 <IanJackson> Do you know anything about that ?
+40:20 <Overfiend> in the meantime, let me run you guys through my TODO from the September meeting.
+40:25 <mako> anyway
+40:29 <Overfiend> The tax filing is dependent on the bookkeeping.
+40:32 <Overfiend> That's item #1.
+40:49 <Overfiend> 1) MBS: the 2004 documents are ready to be mailed.  I plan to mail them today.
+40:52 <Overfiend> There's only one hitch.
+41:05 <Overfiend> We need the electronic statement from Dec 2004 from First IB.
+41:09 <Overfiend> First IB only archives for 6 months.
+41:14 <Overfiend> Jimmy said he'd archive those.
+41:22 <Overfiend> I don't know if he has, and he hasn't answered my emails about this.
+41:36 <Overfiend> We can probably pay First IB to de-mothball the statements not currently available.
+41:36 <IanJackson> *blink*  We have a bank that throw out records after _6 months_ ??
+41:43 <Overfiend> IanJackson: Welcome to America.
+41:44 <IanJackson> Ahhh, $$$$, I see.
+41:48 <Overfiend> Right.
+41:57 <Overfiend> Anyway.  Suggestions later.  Next item.
+42:09 <Overfiend> 2) Fax Jimmy Q2 2005 AmEx Fin Adv statement.
+42:17 <Overfiend> Didn't do that.  Shame on me.  Will scare it up and fax it.
+42:32 <Overfiend> 3) Pay MBS bill.  Scheduled to be paid on Friday, 21 October.
+42:38 <Overfiend> 4) Pay CSC bill.  Scheduled to be paid on Friday, 21 October.
+42:54 <IanJackson> Um, do we need to have this in the meeting ?
+42:54 <Overfiend> 5) Deposit remaining August checks.  Endorsed and photocopied, deposit slip ready.
+43:07 <Overfiend> 6) Deposit September checks.  Still need to endorse those.
+43:08 <Overfiend> done.
+43:16 <IanJackson> I mean, thanks for the info and everything but I think we could have at least nonproblematic stuff by email ...
+43:19 <Overfiend> hey, just tryin' to be accountable, here, yeesh.
+43:26 <Overfiend> Ya wanna light into me, now's a good time :)
+43:33 <Overfiend> Anyway.  Recommendations re: #1?
+43:45 <Overfiend> I could just phone up First IB and spend Treasurer budget to get that stuff.
+43:52 <Overfiend> and we'll honk Jimmy's nose if he complains
+43:53 <cdlu> have a treasurer budget for a reason
+43:56 <IanJackson> You should phone up First IB and ask.
+43:57 <Overfiend> Aye.
+44:12 <Overfiend> I'm kinda not wanting to delay any longer when my part of the delay is done :)
+44:12 <IanJackson> I mean, how much.
+44:15 <Overfiend> Right.
+44:20 <Overfiend> I'll get a quote and report to the Board.
+44:37 <IanJackson> Report to Jimmy and we'll Keep Taking An Interest, how about that ?
+44:45 <IanJackson> CC the board list on your email :-)
+44:49 <Overfiend> Right.  Will do.
+45:07 <IanJackson> Thanks.
+45:30 <IanJackson> Do we know how soon we can change the incoming cheque address to MBS ?
+45:52 <Overfiend> It's my understanding we can't/weren't going to.
+46:05 <IanJackson> Oh, OK.  I must have misunderstood.
+46:16 <Overfiend> Mako's proposal, IIRC, was to just have me and Jimmy bundle "everything with an number on it" periodically, and send it to MBS ourselves.
+46:25 <mako> it's still something i think is a good idea
+46:40 <Overfiend> I agree.
+46:45 <IanJackson> Right.
+46:46 <IanJackson> Is that everything then ?
+47:34 <mako> Overfiend: ?
+47:44 <mako> if so, i think we're ready to set a new date
+47:47 <Overfiend> I said I was done a while back.
+47:56 <Overfiend>    November 2005
+47:56 <Overfiend> Su Mo Tu We Th Fr Sa
+47:56 <Overfiend>        1  2  3  4  5
+47:56 <Overfiend>  6  7  8  9 10 11 12
+47:56 <Overfiend> 13 14 15 16 17 18 19
+47:58 <Overfiend> 20 21 22 23 24 25 26
+48:01 <Overfiend> 27 28 29 30
+48:02 <mako> november 15th?
+48:08 <IanJackson> Fine by me.
+48:10 <Overfiend> sounds reasonable.
+48:20 <BrucePerens> I might be at WSIS, but we can play that by ear.
+48:21 <cdlu> yep, November 15 should be good
+48:38 <BrucePerens> Am speaking on 19th.
+48:46 <cdlu> 4 days to prepare your notes :)
+48:49 <cdlu> after the meeting
+48:51 <cdlu> that it, mako?
+49:01 <mako> that's it
+49:03 <mako> gavel!

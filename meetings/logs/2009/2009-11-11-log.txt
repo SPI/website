@@ -1,0 +1,122 @@
+20:04 #spi: < Ganneff> *GAVEL*
+20:04 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order. Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-11-11.html
+20:04 #spi: < Ganneff> [item 2, Roll Call]
+20:04 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to zobel if you wish your attendance to be recorded in the minutes of this meeting
+20:04 #spi: < cdlu> David Graham
+20:04 #spi: < Ganneff> Joerg Jaspert
+20:04 #spi: < Hydroxide> Jimmy Kaplowitz
+20:04 #spi: < luk_> Luk Claes
+20:04 #spi: < Noodles> No, msg Noodles.
+20:04 #spi: < schultmc> Michael Schultheiss
+20:04 #spi: < Noodles> Jonathan McDowell
+20:04 #spi: < Noodles> zobel gave me his regrets earlier (hence why I did the agenda/reminder).
+20:04 #spi: < Ganneff> Ok, msg noodles already if you are a guest.
+20:05 #spi: < Hydroxide> that's 6 == quorum. anyone else?
+20:05 #spi:  * Hydroxide suggests we move on
+20:06 #spi: < Ganneff> [item 3, President's Report]
+20:06 #spi: < Ganneff> No president, no report
+20:06 #spi: < Ganneff> [item 4, Treasurer's Report]
+20:06 #spi: < Ganneff> Michael, have fun.
+20:06 #spi: < schultmc> routine treasurer's report was sent out.  Helios' negative balance is again due to our use of cash based accounting
+20:06 #spi: < Hydroxide> schultmc: one question about that
+20:06 #spi: < schultmc> this month I plan on holding a discussion on whether to switch to accrual based accounting
+20:07 #spi: < Ganneff> ok fine.
+20:07 #spi: < Hydroxide> schultmc: I know we discussed it before, but if you just recognized money when SPI receives it instead of when you deposit it, which is the proper way to do cash-based accounting anyway (instead of my quirky/lazy way), why would that not solve the problem for helios?
+20:07 #spi: < luk_> so how can they spend what is not there yet?
+20:08 #spi: < schultmc> Hydroxide: it wouldn't solve it since they're drawing on pending credit card donations which our credit card processor hasn't mailed us a check for yet
+20:08 #spi: < luk_> ah that's how it works
+20:08 #spi: < schultmc> luk_: it's been pledged to them already
+20:08 #spi: < Hydroxide> schultmc: oh. I think we should recognize credit card donations when we receive it at our processor
+20:08 #spi: < Noodles> Is there any risk of chargebacks there?
+20:08 #spi: < Hydroxide> schultmc: that counts as one of our asset accounts I'd say
+20:08 #spi: < schultmc> Noodles: some, but they're very rare
+20:09 #spi: < jello> schultmc: so, SPI is floating the money for Helios until we receive it from the processor?
+20:09 #spi: < schultmc> jello: yes
+20:09 #spi: < jello> k
+20:09 #spi: < Hydroxide> credit card accounts for the cardholder are usually considered an asset account even under cash-based accounting
+20:09 #spi: < Hydroxide> so that's the simplest fix and it's what I'd suggest
+20:09 #spi: < schultmc> ok
+20:09 #spi: < luk_> yes, that would make more sense than actual accrual accounting IMHO
+20:09 #spi: < Ganneff> ok. fine. anything more for this meeting or go on?
+20:09 #spi: < schultmc> nothing from me
+20:09 #spi:  * jello agrees with Hydroxide 
+20:09 #spi: < luk_> go on :-)
+20:09 #spi: < Ganneff> [item 5, Secretaries Report]
+20:09 #spi: < Ganneff> Zobels/Noodles task. Though I thought next month will hand over to Noodles its this month already. :)
+20:10 #spi: < Ganneff> (it seems : ) )
+20:10 #spi: < Noodles> Yeah. Zobel apologies; is extremely busy with preparations for the new baby/work.
+20:10 -!- lamont [~lamont@67.136.156.166] has quit [Ping timeout: 480 seconds]
+20:10 #spi: < Noodles> He will sort out the 2 outstanding sets of minutes. I'll do todays.
+20:10 #spi: < Ganneff> and you continue to be secretary from now on, i guess
+20:10 #spi: < Noodles> We have outstanding requests from Sidux and Yafaray.
+20:11 #spi: < Noodles> (for associated project status)
+20:11 #spi: < luk_> tnx to zobel for his efforts and good luck with the kids!
+20:11 #spi: < Noodles> I think they just need resolutions drafted.
+20:11 #spi: < Ganneff> so for next meeting then. do we have any spi board member behind them getting it done?
+20:12 #spi: < Noodles> It's fairly boiler plate, right? If anyone has an affinity to either project they're probably best placed, otherwise I can churn out the standard resolutions.
+20:12 #spi: < Hydroxide> (correction for whoever's writing up the minutes or reading the logs: I got the wording wrong but not the meaning. credit card accounts are liabilities for the cardholder but merchant accounts are assets for the merchant. doesn't change my suggestion except terminologically)
+20:12 #spi: < Hydroxide> Ganneff: I think zobel took responsibility previously - someone else probably should. I'm too busy myself
+20:12 #spi: < Hydroxide> Noodles: yes, rather boilerplate
+20:13 #spi: < luk_> Hydroxide: I did not want to nitpick on the terminology :-)
+20:13 #spi: < Ganneff> ok, lets leave it with noodles then. :)
+20:13 #spi: < Hydroxide> luk_: I did :)
+20:13 #spi: < Ganneff> anything else or next topic? noodles?
+20:13 #spi: < Noodles> I'm done.
+20:13 #spi: < Ganneff> [item 6, Items up for discussion]
+20:13 #spi: < Ganneff> Thats also Noodles. Should be SPI resolution 2009-11-04.jmd.1 (Contributing membership expiry)
+20:13 #spi: < Noodles> I claim it's cdlu and I'm just tweaking. ;)
+20:13 #spi:  * Ganneff assumes Noodles has the voting foo ready?
+20:13 #spi: < cdlu> the tweaks are fine with me
+20:14 #spi: < cdlu> so my vote is yes in case my connection craps out between now and the call :)
+20:14 #spi: < Noodles> Yeah, I have the script. Does anyone want to discuss it or straight to bote?
+20:14 #spi: < jello> is there a final resolution posted somewhere?
+20:14 #spi: < cdlu> jello, in the agenda
+20:14 #spi: < Hydroxide> one comment
+20:14 #spi: < Noodles> Go for it.
+20:15 #spi: < luk_> I think it's ok as is for voting
+20:15 #spi: < Ganneff> jello: jftr - during meetings talking is usually limited here to spi board only.
+20:15 #spi: < Hydroxide> one consequence of this is that we won't be able to use this mechanism to fix the membership roster before next july/august, and so won't be able to fix our bylaws before then. that might indeed be fine if we need that time to prepare revised bylaws anyway, which is likely
+20:15 #spi: < Ganneff> we definitely will :)
+20:15 #spi: < Hydroxide> ok :)
+20:16 #spi:  * Hydroxide ready to vote
+20:16 #spi: < luk_> Hydroxide: how so, the membership committee can still change things
+20:16 #spi: < Ganneff> vote vote.
+20:16 #spi: < cdlu> Hydroxide, that seems strangely low risk.
+20:16 #spi: < Hydroxide> luk_: that's true, in which case we don't need the resolution at all
+20:16 #spi: < Ganneff> luk_: the mc might do something. but we cant generally apply that rule for something in the past.
+20:16 #spi: < luk_> we don't NEED it, we just want it to be an addition to what the membership committee can do already
+20:16 #spi: < Noodles> Yeah, it gives us a procedure people will know about.
+20:16 #spi: < Hydroxide> ok, so it's just giving people notice that it will happen in addition to membership committee's powers
+20:16 #spi: < Hydroxide> that's good then
+20:17 #spi: < Noodles> And thus can't complain about the same way as a random cleanup.
+20:17 #spi:  * Hydroxide ready to vote
+20:17 #spi: < luk_> right
+20:17 #spi: < Noodles> Voting started, 6 people (cdlu,ganneff,hydroxide,noodles,luk_,schultmc) allowed to vote on Spi resolution 2009-11-04.jmd.1 (Contributing membership expiry). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 #spi: < Ganneff> !vote yes
+20:17 #spi: < Noodles> !vote yes
+20:17 #spi: < schultmc> !vote yes
+20:17 #spi: < luk_> !vote yes
+20:17 #spi: < Hydroxide> !vote yes
+20:17 #spi: < Ganneff> cdlu: 
+20:17 #spi: < Noodles> He said his connection might die and he was voting yes. :)
+20:18 #spi: < Ganneff> yes
+20:18 #spi: < Noodles> Forced vote yes on cdlu
+20:18 #spi: < Noodles> Current voting results for "Spi resolution 2009-11-04.jmd.1 (Contributing membership expiry)": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:18 #spi: < Noodles> Voting for "Spi resolution 2009-11-04.jmd.1 (Contributing membership expiry)" closed.
+20:18 #spi: < Ganneff> we have a winner :)
+20:18 #spi: < Ganneff> so that was this, lets go on
+20:18 #spi: < Ganneff> [item 7, Any other business]
+20:18 #spi: < Ganneff> Anyone with a topic?
+20:18 #spi: < Ganneff> going once
+20:19 #spi: < Ganneff> going twice
+20:19 #spi: < Ganneff> [item 8, Next board meeting]
+20:19 #spi: < Ganneff> If I am right this will be the 9th December, again 20:00 UTC
+20:19 #spi: < Ganneff> [item 8, Next board meeting]
+20:19 #spi: < Ganneff> If I am right this will be the 9th December, again 20:00 UTC
+20:19 #spi: < Ganneff> wuhuu. one meeting only. :)
+20:19 #spi: < Noodles> That's what I'd calculated too. Works for me.
+20:19 #spi: < schultmc> works for me 
+20:20 #spi: < Hydroxide> fine
+20:20 #spi: < luk_> works for me
+20:20 #spi: < Ganneff> ok. fine. thanks everyone for attending.
+20:20 #spi: < Ganneff> *GAVEL*

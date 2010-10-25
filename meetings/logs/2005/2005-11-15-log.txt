@@ -1,0 +1,306 @@
+06:42 <CosmicRay> *gavel*
+06:47 <cdlu> David Graham
+06:49 <Overfiend> CR: Mako and Jimmy both have committments soon.
+06:52 <Overfiend> Branden Robinson.
+06:58 <CosmicRay> John Goerzen
+06:59 <cdlu> guests, please /msg me your name for the minutes
+07:02 <Hydroxide> Jimmy Kaplowitz
+07:13 <CosmicRay> [item 1, opening] This meeting of the Board of Software in the Public Interest, Inc., is called to order.
+07:13 <CosmicRay> PLEASE NOTE: Our agenda for today, AND all the resolutions and minutes we will be voting on, are online at:
+07:13 <CosmicRay> http://www.spi-inc.org/secretary/agenda/
+07:13 <CosmicRay> [item 2, roll call] Board members, please state your name for the record.  Others present may /msg cdlu with your full name if you wish to be listed in the records.
+07:13 <CosmicRay> We have 9 board members, so quorum for today is 6.
+07:14 <cdlu> guests = all non board members. A lot of minutes have people talking who didn't register...
+07:19 <Overfiend> <Joey> Joey
+07:27 <CosmicRay> how quorate are we?
+07:33 <Overfiend> CR: exactly
+07:42 <cdlu> CosmicRay, we had 6 out of 6 required by you walking in
+07:43 <Overfiend> No Bruce, Diziet, Bdale
+07:50 <Hydroxide> mako was just here, joey joined shortly before the meeting
+08:06 <cdlu> joey, mako, ping!
+08:14 <mako> sorry
+08:15 <Hydroxide> cdlu: joey never does the name thing anyway
+08:21 <mako> i'm Benjamin Mako Hill and i'm here
+08:22 <cdlu> Hydroxide, he's too good for that. ;)
+08:22 <Overfiend> That's why I did it for him.
+08:26 <CosmicRay> cdlu: is that everyone?
+08:33 <cdlu> CR, all present and accounted for.
+08:38 <CosmicRay> anything urgent that we need to cover right now?
+08:47 <Hydroxide> 4 treasurer's reports to approve
+08:50 <Overfiend> Yes, anything to vote on, and Jimmy's report and Treas issues.
+08:51 <Hydroxide> and 1 minutes
+08:54 <cdlu> 4 sets of treasurer's reports, a set of minutes, and the Nessus fork are the new things to work on today
+09:09 <CosmicRay> ok, let's do the nessus fork first
+09:11 <Overfiend> I have already reviewed Jimmy's 4 new reports, and they look fine to me.
+09:12 <Overfiend> Oh.
+09:13 <CosmicRay> whose item is this?
+09:21 <Overfiend> Nessus fork project membership: OpenVAS (see also openvas.org(Tim Brown ([machine]))
+09:38 <cdlu> [machine], are you here?
+09:41 <cdlu> he's 4.5 hours idle
+09:44 <Overfiend> We'll need to shelve this if the advocate is not here to speak for it.
+09:46 <Hydroxide> and also /away
+09:58 <CosmicRay> ok, then let's look at treasurer business I guess.
+10:00 * Overfiend moves to shelve it.
+10:06 * CosmicRay tries to be fast
+10:15 <cdlu> overfiend, careful, someone might second... ;)
+10:29 <CosmicRay> we have some reports to approve.  I haven't had a chance to look at them yet but we could vote anyway if others are ready.
+10:31 <cdlu> CosmicRay, ask for discussion/vote on 4 reports as a group?
+10:38 <CosmicRay> yes
+10:43 <Overfiend> cdlu: I forget, can the president unilaterally change the agenda, barring explicit objection?
+10:43 <CosmicRay> is there a motion to approve all 4 reports?
+10:51 * Overfiend moves to approve all 4 Treasurer reports
+10:54 * mako seconds
+10:54 * Hydroxide seconds
+10:57 <cdlu> Overfiend, noone's ever stopped him before...
+10:58 <Overfiend> as they appear at http://www.spi-inc.org/secretary/agenda/2005-11-15.html
+11:06 <Overfiend> cdlu: :)
+11:06 <CosmicRay> ok, then let's vote on approving the 4 reports.
+11:06 <CosmicRay> !vote start
+11:06 <bolt> Starting a new vote
+11:08 <Hydroxide> !vote yes
+11:08 <bolt> Noted yes vote from Hydroxide
+11:10 <CosmicRay> !vote abstain
+11:10 <bolt> Noted abstain vote from CosmicRay
+11:10 <Overfiend> whoa, the bot works
+11:11 <Joey> !vote yes
+11:11 <bolt> Noted yes vote from Joey
+11:13 <Overfiend> !vote yes
+11:13 <bolt> Noted yes vote from Overfiend
+11:15 <CosmicRay> Overfiend: shocking
+11:22 <mako> !vote yes
+11:22 <bolt> Noted yes vote from mako
+11:26 <cdlu> !vote yes
+11:26 <bolt> Noted yes vote from cdlu
+11:40 <CosmicRay> !vote stop
+11:40 <bolt> vote result: yes. 5 yes votes, 0 no votes and 1 abstentions
+11:46 <CosmicRay> The 4 reports are approved.
+11:47 <Hydroxide> good good
+11:51 <cdlu> motion 2005-11-15.br.1: Approve 4 motions approved.
+11:58 <CosmicRay> SPI's website isn't working for me so can someone tell me what's next on the agenda
+12:07 <Overfiend> CR: we should probably handle 6.1 next
+12:07 <CosmicRay> (I think its ipv6 is hosed again)
+12:10 <cdlu>     1. Opening
+12:10 <cdlu>     2. Roll call
+12:10 <cdlu>           + David Graham may not be able to make it
+12:10 <cdlu>     3. President's report (John Goerzen)
+12:10 <cdlu>     4. Treasurer's report (Jimmy Kaplowitz)
+12:10 <cdlu>     5. Outstanding minutes
+12:10 <Hydroxide> Tax filing and bookkeeping status
+12:16 <Hydroxide> Overfiend has the update on that
+12:18 <cdlu>     1. June 21st, 2005
+12:20 <Hydroxide> oh yeah, minutes
+12:26 <cdlu> hydroxide, try reading it from the agenda :)
+12:26 <Hydroxide> that should be approved first
+12:29 <Overfiend> yeah, voting on those should come first
+12:34 <Overfiend> sorry
+12:42 <CosmicRay> ok.  minutes.
+12:43 <Hydroxide> I read the June 21st minutes before the meeting and they seem fine
+13:04 <cdlu> I hope you like these minutes. The tax filing discussion gave me an ulcer.
+13:15 * Overfiend moves to accept the 21 June minutes as posted at http://www.spi-inc.org/secretary/minutes/20050621.txt
+13:25 * cdlu seconds
+13:35 <CosmicRay> ok, we have a motion and a second to approve the june 21 minutes.
+13:36 <CosmicRay> !vote start
+13:36 <bolt> Starting a new vote
+13:39 <cdlu> !vote yes
+13:40 <bolt> Noted yes vote from cdlu
+13:42 <Hydroxide> !vote yes
+13:42 <bolt> Noted yes vote from Hydroxide
+13:42 <CosmicRay> !vote abstain
+13:42 <bolt> Noted abstain vote from CosmicRay
+13:44 <mako> !vote yes
+13:44 <bolt> Noted yes vote from mako
+14:02 <CosmicRay> overfiend, joey...
+14:04 <Overfiend> !vote yes
+14:04 <bolt> Noted yes vote from Overfiend
+14:13 <Overfiend> sorry, I was reading what I moved to approve
+14:14 <Overfiend> :)
+14:16 <cdlu> 3 yes, 1 abstain.. outcome no longer a question
+14:18 <CosmicRay> well the outcome is no longer in doubt
+14:19 <CosmicRay> !vote stop
+14:19 <bolt> vote result: yes. 4 yes votes, 0 no votes and 1 abstentions
+14:24 <Joey> !vote abstain
+14:24 <bolt> Noted abstain vote from Joey
+14:25 <CosmicRay> are there more minutes to approve?
+14:29 <cdlu> not yet
+14:30 <cdlu> sorry
+14:30 <Overfiend> Only logs.
+14:33 <CosmicRay> ooo, the agenda finally loaded ;-)
+14:37 <cdlu> logs don't need approving :)
+14:37 <Hydroxide> !vote stop
+14:37 <bolt> vote result: yes. 4 yes votes, 0 no votes and 2 abstentions
+14:45 <CosmicRay> ok, then let's move to tax filing and bookkeeping status
+14:46 <Hydroxide> (2 abstentions, just updating that)
+14:55 <Overfiend> oh damn
+14:56 <cdlu> CR, the rest of the agenda, for the record:
+14:56 <cdlu>     1. Tax filing and book keeping status (Jimmy)
+14:56 <cdlu>     2. Debian Core Consortium related issues (Mako)
+14:56 <cdlu>     3. OFTC election results (cdlu)
+14:56 <cdlu>     4. Debian website copyright issues (Tommi Vainikainen) [see appendix]
+14:56 <cdlu>     5. Nessus fork project membership: OpenVAS (see also openvas.org(Tim Brown ([machine]))
+15:07 <CosmicRay> Hydroxide/Overfiend: did you guys see the inquiry about a receipt that I sent?
+15:07 <cdlu> oh, I forgot to take OFTC election results off there
+15:08 <Overfiend> nevermind
+15:15 <CosmicRay> I seem to have sent it to board twice but I can't recall seeing it at all
+15:18 <tupawk> i am here to represent OpenVAS, missed the role call for [machine]
+15:23 <Hydroxide> CosmicRay: when? there is SPI mail blockage
+15:28 <Overfiend> CosmicRay: I did, and I believe I have it in the batch of September donations
+15:36 <CosmicRay> tupawk: we'll get back to you in a sec, thanks
+15:43 <Hydroxide> ah, ok. see Overfiend then :)
+15:47 <CosmicRay> Overfiend: will you reply to her or should I tell her something?
+16:06 <Overfiend> CosmicRay: I will reply.  Nagging encouraged until you see a CC
+16:10 <Overfiend> But I plan to do it today.
+16:18 <CosmicRay> Overfiend: excellent
+16:21 <CosmicRay> thanks
+16:23 <Overfiend> That plan often fails for me, but it *is* the plan.
+16:26 <CosmicRay> heh
+16:39 <CosmicRay> anything else on the bookkeeping stuff?  I saw a mail snafu got sorted out...
+16:39 <Overfiend> Also, everyone should know
+16:50 <Overfiend> Yes, there was a SNAFU with the documents mailed to MBS
+16:53 <Overfiend> that for once was not my fault
+17:06 <Overfiend> MBS claimed not to get the notice of certified mail delivery
+17:12 <Overfiend> it was delivered on 22 Oct but they didn't pick it up until yesterday
+17:16 <Overfiend> Frank said they'd work on it immediately
+17:17 <CosmicRay> heh
+17:22 <Hydroxide> Overfiend: we should ask him to clarify what address we should use, which might or might not be correct
+17:22 <Overfiend> so I will pass along an update as soon as I have one
+17:26 <Overfiend> Hydroxide: I did.
+17:29 <Overfiend> I used the right one.
+17:30 <Hydroxide> Overfiend: okay
+17:34 <Overfiend> Someone in NY just dropped the ball.
+17:44 <Hydroxide> not a good sign for a bookkeeping service, but hopefully it won't keep happening
+17:48 <Hydroxide> it could have been the USPS screwup, too
+17:53 <Hydroxide> so it might not be MBS's fault either
+17:56 <Overfiend> Frank was *very* fast to respond, and to pick it up
+18:08 <Overfiend> I mailed him at, like 1530 EST and they had gone to get it by the end of the day
+18:11 <Hydroxide> yeah. we can blame USPS and not worry too much :)
+18:23 <Overfiend> if it was their fuck up, they clean up really nice.
+18:46 <Overfiend> anyway, that's it on that front AFAIK
+18:57 <Overfiend> I am pokey to make deposits and am eager for MBS to take this over.
+19:18 <Overfiend> it makes our income look way more erratic on the Treas reports than it really is.
+19:34 <CosmicRay> ok, thanks for the update.  anything else on that?
+19:37 <Overfiend> No.
+19:46 <mako> i'm about to turn into a pumpkin
+19:51 <Overfiend> Jimmy too.
+19:53 <CosmicRay> OK.  Let's skip to 6.5 really fast
+19:53 <cdlu> as is jimmy
+20:06 <CosmicRay> tupawk: this is you
+20:06 <Overfiend> Nessus fork project membership: OpenVAS (see also openvas.org(Tim Brown ([machine]))
+20:17 <CosmicRay> I think we have talked to you a bit about this already, right?
+20:21 <tupawk> correct
+20:32 <Overfiend> If we lose voting ability b/c we become inquorate, we can vote via email, or shelve until the Dec meeting if OpenVAS is not time-critical.
+20:33 <CosmicRay> does anyone on the board have additional questions?
+20:47 <CosmicRay> or are we ready to approve the request?
+20:48 * Overfiend surfs to openvas.org
+20:56 <cdlu> noone's written a resolution for it yet afaik, but I have no objections or further questions
+21:06 <CosmicRay> Overfiend: if you follow the link from the agenda, he covers the basics that we've talked about already
+21:18 <Overfiend> right
+21:31 <CosmicRay> cdlu: We could always just move to accept them as a member project and pass a more formal resolution next month.
+21:41 <cdlu> CR, so moved.
+21:46 * Overfiend seconds
+21:56 <CosmicRay> this vote is to accept openvas as a SPI member project.
+21:57 <CosmicRay> !vote start
+21:57 <bolt> Starting a new vote
+21:59 <cdlu> !vote yes
+21:59 <bolt> Noted yes vote from cdlu
+22:04 <CosmicRay> !vote yes
+22:04 <bolt> Noted yes vote from CosmicRay
+22:06 <Hydroxide> !vote yes
+22:06 <bolt> Noted yes vote from Hydroxide
+22:07 <Overfiend> tupawk: Looks like a good idea, given that I endorsed it in an interview with the press. :)
+22:10 <Overfiend> !vote yes
+22:10 <bolt> Noted yes vote from Overfiend
+22:12 <tupawk> :)
+22:18 <cdlu> mako the pumpkin, still here? :)
+22:23 <mako> !vote yes
+22:24 <bolt> Noted yes vote from mako
+22:25 <CosmicRay> joey...
+22:37 <cdlu> CR, unanimous so far :)
+22:37 <CosmicRay> !vote stop
+22:37 <bolt> vote result: yes. 5 yes votes, 0 no votes and 0 abstentions
+22:42 <Joey> !vote yes
+22:42 <bolt> Noted yes vote from Joey
+22:45 <Hydroxide> !vote stop
+22:45 <bolt> vote result: yes. 6 yes votes, 0 no votes and 0 abstentions
+22:46 <Overfiend> !vote stop
+22:46 <bolt> vote result: yes. 6 yes votes, 0 no votes and 0 abstentions
+22:46 <Hydroxide> yay
+22:47 <CosmicRay> thanks tupawk, and sorry for being so hurried today
+22:52 <CosmicRay> mako: any DCC comments?
+22:53 <tupawk> np, thank all of you
+22:57 <CosmicRay> (moving back to 6.2)
+23:01 <mako> CosmicRay: nothing from me no
+23:17 <CosmicRay> ok, if there's nothing to discuss on the DCC side, then on to 6.3 and cdlu
+23:18 <Overfiend> mako: should it be dropped from the agenda until further notice?
+23:52 <cdlu> CR, 6.3 is left over from last month's agenda, I don't think there's anything new to say there yet.
+23:57 <CosmicRay> ok.
+23:57 * cdlu forgot to remove it
+23:58 * Overfiend has not heard any further complains about DCC in a while, and has not heard of any from dondelelcaro
+24:07 <Overfiend> ah, good.
+24:13 <CosmicRay> then we have the debian website copyright iddue, 6.4
+24:14 <cdlu> oh, on the DCC front, I posted an article about it to NewsForge
+24:18 <cdlu> after bugging everyone I could think of about it
+24:22 <CosmicRay> heh
+24:30 <Hydroxide> afk now ... bye all
+24:32 <Overfiend> This issue has been reported as a bug, please see:
+24:35 <Joey> Congrats tupawk
+24:36 <Overfiend> the mail appears to be truncated there
+24:45 <Overfiend> right, where are my manners?
+24:46 <cdlu> <URL: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=238245 >
+24:49 <Overfiend> tupawk: welcome aboard!
+24:53 <CosmicRay> tupawk: thank you for showing up today, again my apologies for trying to squeeze 60 minutes o fmeeting into 15 ;-)
+25:01 <cdlu> hehe
+25:09 <Overfiend> Let us please draft a proper resolution welcoming OpenVAS to the SPI family for the next meeting.
+25:12 <CosmicRay> ... and for being late myself.
+25:14 <CosmicRay> yes.
+25:23 <luk> who makes sure that the Projects page on the website is updated?
+25:28 <Overfiend> We can use the TeXmacs one as a boilerplate.
+25:32 <CosmicRay> Overfiend: do you know, is there consensus within debian to adjust the copyright to a different license?
+25:39 <cdlu> luk, not sure, actually.
+25:43 <mako> alright, i need to run
+25:45 <Overfiend> CosmicRay: Not AFAIK.
+25:46 <mako> apologies everyone
+25:46 <CosmicRay> luk: nobody, unfortunately,  would you like to?
+25:51 <mako> Overfiend: yeah, lets drop it until further knowledge
+25:54 <CosmicRay> thanks mako
+25:54 <Overfiend> CosmicRay: er, well.  I think there is consensus to change it.
+25:55 <cdlu> mako, thanks for coming. have fun.. wherever it is you're going. :)
+26:07 <mako> sorry to run
+26:07 <Overfiend> CosmicRay: But not on what to change it to.
+26:09 <luk> CosmicRay: ok, I can do that
+26:11 <CosmicRay> Overfiend: I'd be in favor of following the Debian consensus, and not touching it until then
+26:14 <Overfiend> CosmicRay: Some people I've spoken to were hoping the revised GNU FDL would be ready by now.
+26:15 <CosmicRay> luk: great, thanks much
+26:29 <luk> is the Projects page actually up to date now (except for openvas)?
+26:32 <Overfiend> CosmicRay: sounds reasonable.
+26:36 <Overfiend> luk: I believe so.
+26:40 <cdlu> CR, want to adjourn until December 20th, or do we have more business?
+26:57 <CosmicRay> cdlu: well, let's talk about that date.  a lot of people are on vacation already that time
+27:06 <cdlu> including myself
+27:07 <Overfiend> should we move it back 1 week?
+27:08 <cdlu> want to go earlier?
+27:10 <CosmicRay> shall we try to have a meeting anyway, or just give up now and go for january
+27:15 <Overfiend>    December 2005
+27:15 <Overfiend> Su Mo Tu We Th Fr Sa
+27:15 <Overfiend>              1  2  3
+27:15 <Overfiend>  4  5  6  7  8  9 10
+27:15 <Overfiend> 11 12 13 14 15 16 17
+27:17 <Overfiend> 18 19 20 21 22 23 24
+27:19 <cdlu> overfiend, to the 27th?
+27:20 <Overfiend> 25 26 27 28 29 30 31
+27:25 <CosmicRay> one week earlier would probably be better than one week later
+27:26 <cdlu> or forwrad to the 13th?
+27:28 <Overfiend> the 27th is not earlier than the 20th :)
+27:31 <CosmicRay> shoot for the 13th then?
+27:43 * Overfiend likes the 13th.
+27:47 <cdlu> well, I'm all for the 13th.
+27:49 <CosmicRay> me too.
+27:53 <cdlu> ok
+27:57 <Joey> 13th fine atm
+28:06 <CosmicRay> ok, is seems that we have unanimous consent for the next meeting to be Dec. 13 at 19:00 UTC
+28:06 <cdlu> ok
+28:09 <CosmicRay> is there any other business?
+28:13 <cdlu> nothing here
+28:15 * Overfiend has none.
+28:18 * cdlu is almost CF-DLU
+28:19 <CosmicRay> we are adjourned until Dec. 13.
+28:21 <CosmicRay> *gavel*

@@ -1,0 +1,448 @@
+01:31 <CosmicRay> *GAVEL*
+01:32 <cdlu> hey OF
+01:39 <CosmicRay> [item 1, opening] This meeting of the Board of Software in the Public Interest, Inc., is called to order.
+01:39 <CosmicRay> PLEASE NOTE: Our agenda for today, AND all the resolutions and minutes we will be voting on, are online at:
+01:39 <CosmicRay> http://www.spi-inc.org/secretary/agenda/
+01:39 <CosmicRay> [item 2, roll call] Board members, please state your name for the record.  Others present may /msg cdlu with your full name if you wish to be listed in the records.
+01:39 <CosmicRay> We have 9 board members, so quorum for today is 6.
+01:44 <CosmicRay> We have regrets from Jimmy today.
+01:47 <Overfiend> Branden Robinson
+01:50 <cdlu> David Graham
+01:50 <CosmicRay> John Goerzen
+01:56 <cdlu> <Joey> Martin Schulze
+02:10 <cdlu> Bdale, mako?
+02:43 <Overfiend> Now that I've met Joey in person, and even slept in the same room as he has, I can confidently say he's not nearly as perverse in real life as he is in IRC.  I guess we'll never know why he won't speak his own name at these meetings.  :)
+02:53 * Overfiend grins at Joey
+03:03 <cdlu> Overfiend, heh
+03:14 <CosmicRay> Overfiend: careful, you might not be allowed to sleep in the same room down south ;-)
+03:34 <Overfiend> CosmicRay: I was going to make a similar joke involing Ean Schuessler...
+03:38 <CosmicRay> heh
+03:42 <Joey> Overfiend: You don't know me.
+03:50 <Overfiend> Joey: I do a little bit! :)
+03:54 <CosmicRay> sigh.  holding at 4...
+03:55 <Joey> No.
+03:57 <cdlu> CosmicRay, we can attempt to carry on with the meeting... if we get to a vote we can come back to it
+04:03 <Overfiend> Joey: not even?
+04:20 <CosmicRay> cdlu: I guess we could.   shall we?
+04:30 <cdlu> can't lose anything by trying
+04:35 <cdlu> diziet's second unexcused
+04:37 <Overfiend> cdlu: Do have any meeting minutes ready to be posted to the website?
+04:42 <CosmicRay> ok.
+04:47 <Overfiend> It looks kinda, uh, bad to not have any items since April or so
+04:56 <Joey> the agenda is.. um... strange...
+05:01 <Joey> Is there an agenda?
+05:03 <cdlu> Overfiend, actually, yeah, a few. I haven't sent a big update to -announce I need to send, because I haven't prepared it, because, well. No because.
+05:08 <cdlu> Joey, yes.
+05:08 <CosmicRay> Joey: it's the 9/20 one
+05:32 <mako> yes
+05:34 <cdlu> mako!
+05:34 <Joey> CosmicRay: Oh... still...
+05:41 <CosmicRay> five!
+05:43 <Overfiend> one more, if we can muster it
+05:46 <mako> Benjamin Mako Hill
+05:49 <Joey> cdlu: please start
+05:51 <Joey> CosmicRay: please report
+05:51 <cdlu> bdale is orbiting near by
+05:54 <CosmicRay> ok, we can start with the agenda anyway...
+05:54 <bdale> Bdale
+05:57 <Overfiend> hot damn
+05:58 <cdlu> quorum!
+06:00 <CosmicRay> all right!
+06:03 <CosmicRay> [item 3, president's update]
+06:03 <CosmicRay> Nothing to report this month that won't be covered under other items.
+06:03 <CosmicRay> [item 4, treasurer's report] Jimmy sent the report to us.  Is there any discussion?
+06:09 <cdlu> this meeting, now under way for 2 weeks and 6 minutes, is now under way :)
+06:24 <Overfiend> CosmicRay: just a couple of things to mention
+06:32 <CosmicRay> ok
+06:41 <Overfiend> CosmicRay: If the Board hasn't yet read it, I ask them to please read my update re: Frank Boardman from MBS
+06:45 <Overfiend> mailed yesterday
+06:56 <CosmicRay> got it, informative, thanks.
+07:03 <Overfiend> also, I uh, had a separate envelope of August donations that I hadn't deposited
+07:05 <Overfiend> so I'll be making 2 deposites shortly
+07:10 <Overfiend> more August, and all of September
+07:24 <Overfiend> I was confused because I had the usual amount of money for a month in August before
+07:30 <Overfiend> so actually, donations are up
+07:52 <cdlu> Overfiend, the money from linuxfund.org is flowing?
+08:03 <Overfiend> Also, MBS has sent us a bill for, IIRC $240 (2 hrs @ $120/hr)
+08:12 <Overfiend> I think this goes beyond Jimmy's budget.
+08:15 * Joey was happy to read it.
+08:16 <Overfiend> I suggest payint it.
+08:33 <cdlu> Overfiend, his budget was "anything reasonably necessary" to get our books in order, iirc.
+08:34 <CosmicRay> Overfiend: yes, please ;-)
+08:34 <Overfiend> cdlu: Yes.  They usually disburse at the butt end of the month, so I haven't gotten September's yet.
+08:42 <cdlu> ok
+08:44 <Overfiend> cdlu: acknowledged.  I'll just pay it, then.
+09:04 <bdale> Overfiend: if we're operating on cash basis, it doesn't really matter when they do it, the money is ours when it's ours
+09:04 * mako nods to cdlu, Overfiend
+09:07 <Overfiend> Microsoft never did get back to us about their Matching Gifts program.
+09:23 <cdlu> Overfiend, how about Mr. Lynch with our decade-old donations he found? :)
+09:24 <mako> Overfiend: i should have asked them when i was up there last week ;)
+09:42 <Overfiend> cdlu: lemme check my inbox, but I still hadn't heard anything, hence my ping of him yesterday
+09:50 <Overfiend> bdale: acknowledged, I'm just...meticulous I guess
+09:50 <cdlu> right, I was wondering if he'd responded to that
+10:03 <CosmicRay> are we going to do anything about the request from someone to give us something from a grant?
+10:06 <Overfiend> oh, yeah
+10:14 <Overfiend> cdlu: I got a vacation message, and bounced ti to the board.
+10:18 <Overfiend> s/ti/to/
+10:21 <bdale> CosmicRay: that's the one where they needed a deliverable?
+10:26 <CosmicRay> right
+10:28 <cdlu> oh right
+10:38 <Overfiend> CosmicRay: I would rather have Greg look at that first, I'm a bit nervous.
+10:45 <CosmicRay> I can send them a sorry-we-cant-do-that letter if need be
+10:54 <CosmicRay> didn't he already say he was nervous about it too?
+10:54 <Overfiend> I mean, he *has*, sort of.
+10:57 <Overfiend> Yes, he did
+11:02 <Overfiend> Message-ID: <OF2378842D.669D5D94-ON8525708C.0060B18D-8525708C.006EABF7@cgsh.com>
+11:22 <Overfiend> I'd go up there and teach a seminar if they'd pay my expenses :)
+11:24 <bdale> I'd thank them for wanting to be generous and decline, personally.
+12:05 <CosmicRay> is there consensus on that?  if so, I'll send them a note
+12:21 <Overfiend> cdlu: anyway, I'll pester Mr. Lynch again on, uh, Monday the 10th I guess.
+12:28 <Overfiend> Let him have Friday to catch up on his mail.
+12:43 <cdlu> Overfiend, sounds good. I guess we'll commission Ean to write apologies to those donations, too. :)
+12:47 * Overfiend moves to do as CR and bdale suggested.
+12:59 <CosmicRay> ok, I'll do that then.
+13:12 <CosmicRay> are we done with the treasurer's report?
+13:13 <Overfiend> cdlu: bwa ha.  Nah, he wouldn't enjoy that this time.  He can't be (justfifiably) mad at me while doing it :)
+13:37 <cdlu> CosmicRay ,I think so.
+13:41 <CosmicRay> [item 5, outstanding minutes] None to vote on.  Any discussion?
+13:48 <Overfiend> PLEASE PUT THEM UP ON THE WEBSITE
+13:54 <cdlu> Overfiend, yessir.
+14:06 <CosmicRay> the resolutions page too
+14:06 <Overfiend> thank you, that fulfills my yelling quota for the meeting.
+14:09 <CosmicRay> heh
+14:19 <cdlu> Overfiend, phew. I got off easy. I've seen what you can do. :)
+14:24 <CosmicRay> ok, anything else on this topic?
+14:33 <Overfiend> cdlu: hey, I'm a sweetheart these days
+14:38 <CosmicRay> cdlu: try /nick sanders someday
+14:43 <Overfiend> you mean /nick cas
+14:52 <CosmicRay> yeah
+14:55 <CosmicRay> [item 6, tax filing/bookkeeping status] Mako/Jimmy/Branden, you have the floor.
+15:05 <cdlu> now don't speak all at once...
+15:09 <CosmicRay> I guess we talked about this a bit
+15:12 <Overfiend> I don't have anything to offer beyond what I already said during the Treasurer's report.
+15:12 <CosmicRay> anything else to cover?
+15:13 <mako> i haven't actually been involved in this recently
+15:18 <mako> so nothing from my end
+15:26 <mako> i also no longer live in new york city
+15:33 <cdlu> mako, where do you now live?
+15:36 <Overfiend> Beantown
+15:37 <mako> boston
+15:43 <mako> i started at the mit media lab
+15:50 <Overfiend> No, you stahhhted
+15:58 <Overfiend> and eat lots of lobstah!
+15:59 <mako> bah :)
+15:59 <cdlu> mako, cool, good to know. You'll be within range of me meeting you when I visit my inlaws. :)
+16:09 <mako> cdlu: excellent
+16:09 <Overfiend> mako: which one?  there are many bahs in Bahstan
+16:14 <CosmicRay> oh that sounds great.  mixing of inlaws with spi.
+16:18 <mako> i am going to NYC pretty frequently
+16:25 <CosmicRay> [item 6, DCC issues] Mako, you have the floor.
+16:27 <mako> ever 3 weeks it seems
+16:28 <Overfiend> OH yeah
+16:30 <CosmicRay> anyway, moving on...
+16:30 <Overfiend> wait wait
+16:31 <Overfiend> one more item
+16:33 <CosmicRay> ok
+16:35 <Overfiend> MBS item
+16:37 <Overfiend> Just FYI.
+16:54 <Overfiend> Frank asked for, and I gave him, the username and password to the FirstIB website for our account.
+16:58 <Overfiend> It's part of the relationship.
+17:03 <CosmicRay> ok.
+17:06 <CosmicRay> good to know, thanks.
+17:12 <Overfiend> that's all
+17:20 <CosmicRay> ok.  on to DCC then.
+17:49 <mako> i haven't been actively involved since the delegation went to don
+17:55 <mako> dondelelcaro: are you aroun?
+18:02 * dondelelcaro waves
+18:04 <Overfiend> ah, excellent.
+18:11 <CosmicRay> feel free to fill us in on
+18:17 <CosmicRay> ... err, everything
+18:27 <Overfiend> uh, damn, either Ian's confused or I am
+18:29 <mako> dondelelcaro: is there anything you can/want to say about the DCC mark issues?
+18:36 * bdale is a close observer, too
+18:39 <cdlu> OF, ?
+18:42 <Overfiend> I just spoke with Ian this morning and he said the http://www.dccalliance.org/ site has a disclaimer on the front page
+18:48 <Overfiend> he said it has for a couple of weeks now
+18:50 <Overfiend> but I don't see one
+18:54 <dondelelcaro> basically, the story is that DCC is moving slowly; I should have an announcement about it shortly.... unless they've already made a move.
+19:18 <bdale> dondelelcaro: have you talked to Meskes about the sub-project effort yet?
+19:19 <Overfiend> imurdock told me that they've decided to make "DCC" a recursive acronym for "DCC Common Core"
+19:39 <Overfiend> of course, even after this is official (it may be already), the press continues to screw it up
+19:51 <mako> Overfiend: well, that's understandable
+19:59 <mako> and not only because the press ALWAYS screws this up :)
+20:01 <Overfiend> http://linuxtoday.com/infrastructure/2005092901526NWDBSW
+20:04 <mako> things up even
+20:08 * bdale points at http://alioth.debian.org/projects/d-enterprise/
+20:13 <dondelelcaro> bdale: he's mentioned it, but I don't really have much to do with whether or not they become a sub project...
+20:23 <Overfiend> yeah, tell me about it.  I've now been quoted completely inaccurately on CNet
+20:38 <bdale> dondelelcaro: my point is that it's happening, and it might affect their use of the mark
+20:40 <mako> Overfiend: i don't think i've every been quoted accurately and in appropriate context
+20:41 <Overfiend> Apparently I have opinions about the defensibility of the Linux trademark.  News to me.
+20:43 * Hydroxide is stupidly missing class for not-very-good reasons unrelated to SPI, but as long as I happen to be here -- hi guys
+20:49 <Overfiend> excellent
+20:57 <Overfiend> you haven't missed any voted
+20:57 <Overfiend> votes.
+21:08 <Hydroxide> ok
+21:30 <Overfiend> Hydroxide: anything you want to say about Treasurer/bookkeeping/accounting stuff after we're done with the DCC/trademark item?
+21:30 <CosmicRay> it sounds like there is no action that SPI needs to be taking at this time
+21:34 <CosmicRay> is that correct?
+21:41 <cdlu> CosmicRay, want to vote to approve treasurer's report?
+21:46 <dondelelcaro> bdale: for the sub project; but a non-related commercial entity (which is what I assume the DCC will continue to be) still has issues...
+21:54 <Overfiend> I think SPI is taking action through its member project Debian, in the form of Don Armstrong.
+21:58 <dondelelcaro> anyway; yes... there's basically nothing to report at this time.
+22:00 <Hydroxide> Overfiend: I've said everything I have to say about those issues already
+22:00 <CosmicRay> cdlu: oh yeah.  we'll come back to that in a minute, thanks.
+22:03 <CosmicRay> Overfiend: ok.
+22:14 <Overfiend> Don is in negotiations with the alleged infringer and it is clear we take Debian's mark seriously.
+22:28 <bdale> dondelelcaro: I understand.  just want to make sure you remain aware of the actions and are thinking about how that might affect the overall picture
+22:39 <CosmicRay> all right.  we can note that in the minutes and leave it at then, I guess.
+22:39 <Hydroxide> regarding the DCC/trademark issues, we do need to ensure for legal enforceability reasons that the press stops calling them the Debian Common Core Alliance once they are officially no longer called that
+22:42 <dondelelcaro> bdale: cool; yeah.
+22:47 <mako> if debian decides to offer a license, i'd be happy to get involved again with greg to help get an agreement i think we can live with
+22:49 <Hydroxide> since it is causing consumer confusion about the relationship
+22:58 <Overfiend> That Don has not launched air strikes on DCC Alliance member companies should not be interpreted as a failure to defend the mark.
+23:11 <Overfiend> Hydroxide: er, isn't it hard to tell the press anything?
+23:15 <dondelelcaro> Hydroxide: right; I've suggested that they issue a press release to that effect; Debian itself can always issue one if the press continues to screw it up.
+23:18 <Overfiend> I mean, and have them listen?
+23:19 <cdlu> Overfiend, depends who you talk to :)
+23:31 * CosmicRay points out that cdlu is a member of the press
+23:32 <bdale> Overfiend: you can tell 'em what you want, the hard part is getting them to listen+understand...
+24:05 <Hydroxide> dondelelcaro, Overfiend: I might suggest that Debian and DCCA issue a joint press release to clarify the relationship and naming, and we and DCCA can also send clarificational corrections to the major tech sites that keep making the mistakes
+24:48 <Overfiend> Sounds like a good idea to me, but I've delegated decision-making authority on this to Don.  At least as DPL.  As an SPI Board member, I guess I kinda retain some authority.
+24:55 * Overfiend tips over from all the hats piled up on his head.
+24:58 <CosmicRay> heh
+25:18 <CosmicRay> well, don is reading this so he can take it as a suggestion
+25:21 <Overfiend> yeah.
+25:24 <dondelelcaro> Hydroxide: that's a good idea... pretty much along the lines of what I've been suggesting to Ian... anyway; my first job is to resolve the trademark issue itself, then later tackle the ramifications of the infringement
+25:37 <CosmicRay> are we ready to move on to the next topic then?
+25:46 * Hydroxide thinks so
+25:51 <CosmicRay> [item 6, OFTC elections] cdlu, you have the floor.
+25:52 <Overfiend> dondelelcaro: I suggest asking the DCCA to add whatever disclaimer of affiliation with Debian imurdock thinks is already present to the *front page* of their website.
+25:57 <Overfiend> I wasn't done.  :-P
+25:58 <Overfiend> Now I am.
+26:05 <cdlu> CosmicRay, ok.
+26:06 <dondelelcaro> Overfiend: heh
+26:14 <cdlu> OFTC's elections are coming up on the 8th. I believe that's Friday.
+26:27 <CosmicRay> saturday
+26:28 <cdlu> Last election, we ran the election off SPI's servers with software written by, I think, weasel...
+26:29 <Overfiend> no, that's Saturday
+26:30 <cdlu> ok
+26:51 <cdlu> We'd need to reactive that and have a non-OFTC affiliated SPI person keep an eye on elections.
+26:59 <cdlu> that disqualifies both me and Hydroxide.
+27:01 <Overfiend> any volunteers? :)
+27:08 <Overfiend> what's Hydroxide's affiliation?
+27:20 <CosmicRay> perhaps wiggy or weasel would be willing to do both?
+27:26 <cdlu> Overfiend, he's a member of OFTC's staff
+27:30 <Overfiend> cdlu: oh ah.
+27:32 <weasel> I don't think I qualify either :)
+27:41 <cdlu> CosmicRay, weasel is not qualified either.. he is on the core committee
+27:53 <CosmicRay> oh right.
+27:55 <cdlu> CosmicRay, wiggy ran it last time, with the help of mako, I believe.
+27:58 <Overfiend> Let's make Diziet do it, as punishment for 2 unregretted absences.
+28:10 <cdlu> Overfiend, he made it last time...
+28:13 <mako> i was just a rubber stamp :)
+28:41 <cdlu> sorry about that
+28:46 <Overfiend> cdlu: I didn't say "in a row" :)
+28:56 <cdlu> someone query me the last few lines for the meeting log please? :)
+29:21 <Overfiend> you didn't miss anything important
+29:26 <Overfiend> can we get wiggy to do this?
+29:37 <Overfiend> oh, but you're the minutes man
+29:43 <cdlu> Overfiend, we can't volunteer him if that's what you mean
+29:49 <cdlu> I got the log for the record
+29:58 <cdlu> thanks everyone who sent it :)
+30:03 * cdlu applies fire extinguisher
+30:09 <Overfiend> ok
+30:13 <CosmicRay> heh
+30:21 <Overfiend> No, I mean, does anyone have reason to believe wiggy would be willing?
+30:33 <CosmicRay> well, let's ask him.
+30:36 <cdlu> Overfiend, I'm sure he'd be willing if we ask him a month ago.
+30:41 <cdlu> giving anyone 3 days notice is tight
+30:43 <Overfiend> :)
+30:53 <cdlu> thus why it was on the agenda for the original timeslot for this meeting some ... two weeks ago :)
+30:56 <Overfiend> I really can't take it on, I'm behind on about 20 things as it is.
+31:05 <CosmicRay> >wiggy< question is coming up during our meeting: any chance you'd be willing to operate the SPI voting software for OFTC's election in Saturday?
+31:24 <CosmicRay> do we have a fallback plan if he says no?
+31:25 <Overfiend> go, President, actually asking him and stuff.
+31:40 <cdlu> CosmicRay, also for the record, the current chair of OFTC is ElectricElf and he would be responsible for coordinating any volunteers. At this point, I'm just the messenger.
+31:42 <Overfiend> do we NEED a fallback?
+31:58 <CosmicRay> well, if wiggy says no, somebody still has to do it, right?
+32:08 <cdlu> we can get volunteers to do a hand-count on mailed in ballots if worse comes to worst.
+32:09 <Overfiend> I was asking more whether we need 2.
+32:15 * Hydroxide notes, reading scrollback, that the August 2005 treasurer's report was not actually approved, and is confused about what the relationship is between the $240 MBS bill and the $1000 MBS retainer. To be discussed after the OFTC thing, probably.
+32:35 <Joey> we could ask manoj if he would be willing and delegate to him
+32:35 <CosmicRay> Hydroxide: ok, we'll get to those in a bit, thanks.
+32:55 <Overfiend> Joey: Manoj would probably only run devotee, which is a slightly different voting method.
+33:11 <Overfiend> Joey: what wiggy implemented was very strict Condorcet Cloneproof/SSD
+33:32 <Overfiend> Joey: what Debian uses is hacked up a little bit in ways that, we are assured, do not compromise its mathematical rigor
+33:37 <cdlu> SPI's elections do not use Condorcet... we use straight Borda.
+33:43 <Overfiend> cdlu: no we don't.
+33:43 <cdlu> sorry, OFTC's
+33:49 <Overfiend> oha h
+34:11 <Hydroxide> Borda definitely has inferiorities relative to Condorcet, but this is certainly not the place for that discussion as regards OFTC.
+34:13 <Overfiend> (Debian adds explicit tie votes and "none of the above" to Condorcet Cloneproof/SSD)
+34:16 <Overfiend> Agreed.
+34:38 <CosmicRay> ok, do we have a real plan coming out of all of this? :-)
+34:43 * CosmicRay notes wiggy hasn't replied yet
+34:47 <cdlu> Hydroxide, OFTC's needs are different from SPI's and Debian's. Due to the fact that all candidates vote for all candidates for all posititions, Borda is a far superior solution.
+34:58 <Overfiend> I think we need to punt on it and beg for help.
+35:14 <Overfiend> or ask OFTC to delay their elections.
+35:17 <Overfiend> with our apologies.
+35:18 <cdlu> Overfiend, to put it simply, if this is deferred to beyond meeting, nothing will happen.
+35:26 <ElectricElf> Overfiend: Not gonna happen, but we can probably arrange for it ourselves
+35:31 <Overfiend> balls.
+35:41 <cdlu> And the OFTC constitution has no accounting for delays, but also does not require SPI to handle them. We do that for openness reasons.
+35:47 <ElectricElf> Overfiend: Would it be possible for SPI to receive/record the votes and forward them to vote-counters? Can be entirely automatic
+35:59 <cdlu> ah, EE, hi.
+36:03 <Overfiend> EE: I've never done *any* kind of admin work on SPI boxen.
+36:04 * cdlu lets him do all the talking :)
+36:17 <ElectricElf> Overfiend: (That way, you guys don't need to put in a huge amount of effort, but SPI would still be available if there was a conflict. None is expected though.)
+36:20 <ElectricElf> Overfiend: Who does?
+36:25 <Overfiend> I don't have root, I don't know where the voting software is or what lang it's written in, and I don't know what MTA we use.
+36:29 <cdlu> noone currently on board, afaik.
+36:32 <CosmicRay> wiggy and joy, afaik.
+36:33 <Overfiend> EE: Joy and Wiigy
+36:34 <ElectricElf> Okay
+36:38 <ElectricElf> I'll get in touch with them
+36:44 <ElectricElf> We're talking about MTA-only stuff here
+36:45 <ElectricElf> Nothing fancy
+36:48 <Overfiend> CosmicRay: Do we need to put out a call for new admins?
+36:53 <ElectricElf> Is the Board happy enough with that, though?
+36:57 <Overfiend> ElectricElf: don't ask me to do MTA config, I *always* fuck it up
+37:03 <CosmicRay> Overfiend: might not hurt, but it would probably be polite to ask them first
+37:03 <ElectricElf> (Assuming we can get an admin on it ;)
+37:08 <CosmicRay> ElectricElf: that is fine with me.
+37:09 <Overfiend> as lurkers in #d-d can tell you every time I need to change it
+37:11 <ElectricElf> CosmicRay: Thanks
+37:20 <Overfiend> last time I needed to make a change it took me 9 iterations
+37:23 <ElectricElf> cdlu: Acceptable?
+37:23 <CosmicRay> hah
+37:32 <cdlu> ElectricElf, works for me.
+37:35 <ElectricElf> cdlu: (You being on both board-equivalents... :)
+37:37 <ElectricElf> Rightey-o
+37:39 <ElectricElf> That's settled
+37:41 <ElectricElf> Thanks folks :)
+37:52 <CosmicRay> ok, cool.  always like it when someone volunteers to take care of things ;-)
+37:56 * Overfiend extends OFTC his apologies for us not being on the ball
+38:07 <ElectricElf> Overfiend: We're not either
+38:09 <ElectricElf> Overfiend: Bit sad frankly
+38:13 <ElectricElf> Overfiend: Anyways, think nothing of it
+38:18 <cdlu> Overfiend, aw hell, this is SO much better than a couple of years ago. :)
+38:19 <CosmicRay> now, back to treasurer reports then?
+38:26 <Overfiend> cdlu: True.
+38:49 <Hydroxide> CosmicRay: sounds good
+38:50 <Overfiend> CosmicRay: Okay by me.
+39:09 <CosmicRay> Jimmy, you were saying we never approved a report.  Was that the report delivered in september that should have been voted on 9/20, or something else?
+39:19 <cdlu> CosmicRay, this is the September meeting :)
+39:19 <CosmicRay> because this is really the 9/20 meeting ;-)
+39:27 <cdlu> CosmicRay, I reminded you about 15 minutes ago that we needed to vote on it :)
+39:45 <CosmicRay> cdlu: I know, what I'm talking about it
+39:47 <CosmicRay> * Hydroxide notes, reading scrollback, that the August 2005 treasurer's report was not actually approved, and is confused about what the relationship is between the $240 MBS bill and the $1000 MBS retainer. To be discussed after the OFTC thing, probably.
+39:50 <CosmicRay> s/it/is/
+39:58 <Overfiend> The report *for* August was issued in September.
+40:02 <Hydroxide> yeah, that's what I'm referring to
+40:10 <Overfiend> We don't know what August's numbers are until the month has ended.
+40:15 <cdlu> the report for august is what we were discussing and need to vote on today. the other part, I'll let Jimmy explain.
+40:16 <CosmicRay> ok.  just double checking that you meant the report covering august, not the one issued in august.
+40:26 <Hydroxide> it right
+40:28 <CosmicRay> in that case, are we ready to vote on that august 2005 report?
+40:41 <Hydroxide> me speak english
+40:46 <Overfiend> Hydroxide: Jimmy, did you catch that not *all* deposits from August have been made?
+40:56 <Overfiend> I hosed up and made two envelopes absent-mindedly.
+41:05 <Hydroxide> Overfiend: the way I've been accounting, I count donations in the month when they are deposited, as I've been saying in every report
+41:14 <Overfiend> Just wanted to let you know
+41:14 <Hydroxide> Overfiend: precisely because of things like that
+41:17 <bdale> Hydroxide: good.  that's the way it should be done.
+41:18 <Overfiend> bdale corrected me the same way :)
+41:19 <Hydroxide> Overfiend: I did see that
+41:22 <Overfiend> okay.
+41:25 * Overfiend shuts up for a few seconds.
+41:32 <CosmicRay> shall we vote then?
+41:39 <Hydroxide> sure
+41:44 <CosmicRay> this vote is to approve the August 2005 treasurer report.
+41:47 <CosmicRay> !vote start
+41:48 <Hydroxide> !vote yes
+41:49 <Overfiend> !vote yes
+41:50 <bdale> !vote yes
+41:51 <CosmicRay> !vote yes
+41:53 <mako> !vote yes
+41:56 <Overfiend> no bot.
+41:57 <CosmicRay> cdlu: hello, votebot ;-)
+41:59 <Hydroxide> !summon votebot
+42:04 <Joey> !vote yes
+42:11 <cdlu> !vote yes
+42:16 <cdlu> sorry, someone walked in
+42:18 <CosmicRay> that looks like everyone
+42:21 <cdlu> approved!
+42:23 <CosmicRay> !vote stop
+42:38 <Overfiend> Hydroxide: What quarterly AmEx Fin Adv statements are you missing from e?
+42:42 <Overfiend> I will batch 'em and fax 'em.
+42:42 <CosmicRay> ok, now the question about the MBS fee?
+43:03 <Hydroxide> Overfiend: I haven't received one for Q2 2005
+43:12 <Overfiend> So, April 15 to July 15.  Okay.
+43:26 <Hydroxide> CosmicRay: yeah. Overfiend said they billed for $240, but I definitely gave them a $1000 retainer check, which they cashed
+43:35 <Overfiend> I'm not sure fees come out of a retainer.
+43:38 <Hydroxide> so I'm wondering if that is somehow not covered by the retainer
+43:45 <Hydroxide> what does?
+43:50 <CosmicRay> Hydroxide: could you ask them directly?
+43:53 <Overfiend> I don't honestly know what "retainer" means in great detail.
+44:01 <Overfiend> It's more than just a "deposit", apparently.
+44:07 <Hydroxide> it was in the letter of engagement. I probably have a copy of it somewhere
+44:09 <CosmicRay> well, it could just be a deposit
+44:15 <cdlu> I'd assume it's like a deposit, that covers bills we fail to pay. Like a rent deposit.
+44:21 <CosmicRay> right
+44:22 <Overfiend> CosmicRay: they sent us a bill
+44:27 <CosmicRay> I don't know either really.
+44:27 <Overfiend> showing a balance due
+44:35 <CosmicRay> right.
+44:36 <cdlu> want to call and ask?
+44:39 <CosmicRay> I'd say pay it, and ask them.
+44:40 <CosmicRay> sure
+44:42 <Overfiend> that suggests to me that they didn't just chomp it out of the deposit.
+44:46 <Hydroxide> ok. I'm sure we'll ring up more than $1240 of total charges in our time with them, so there's no reason not to pay it
+44:56 <Overfiend> Agreed.  I've got the paper statement so I'll pay it.
+45:03 <cdlu> CR, fyi I run out of time in 15 minutes.
+45:04 <CosmicRay> Overfiend: right.  I suspect it's a deposit that we'd get back when we terminate our relationship with them.
+45:05 <bdale> cdlu: that's not what a retainer is
+45:11 <Hydroxide> so yeah, pay it and ask them. I'll also try to look for the letter of engagement, since it probably specifies
+45:16 <Hydroxide> bdale: do enlighten us
+45:28 <CosmicRay> Overfiend: I think it's more a CYA thing for them, so if we fail to pay some bills, they limit their losses.
+45:39 <CosmicRay> but again, I'm just guessing.
+45:40 <bdale> a retainer is a fee that you pay for the priveledge of having them represent you or do work for you, it is independent of billings for specific work done
+46:06 <cdlu> right, like a lawyer being retained means you pay him to kick around. Makes sense.
+46:25 <Overfiend> well...for a lawyer, the retainer establishes an attorney-client relationship, at least
+46:40 <bdale> cdlu: if you pay a lawyer a retainer, then you get to say that lawyer is representing you.  if the lawyer does any work for you, he bills you for that directly.
+46:41 <Overfiend> which means privilege attaches to your discussions as opposed to him chatting with you over hot dogs
+46:46 <Hydroxide> well, I'll still check to see what was specifically said in the letter of engagement, but I see no reason not to pay it
+46:51 <cdlu> bdale, like is happening here.
+46:54 <Overfiend> I don't either.
+47:08 <cdlu> I'd rather pay $1240 now then a fine later...
+47:15 <cdlu> than
+47:16 <Overfiend> I just didn't know bookkeepers got to enjoy the same racket^W^Wprivilege.
+47:24 <Overfiend> we already paid them the $1k
+47:28 <cdlu> OF, thinking of a change in job? :)
+47:50 <Overfiend> cdlu: as a bookkeeper?  Hell no.  I wouldn't want to see the anti-resume unclean would post for me :)
+48:35 <cdlu> heh
+48:40 <cdlu> CosmicRay, anything further?
+48:46 <CosmicRay> not from me
+48:57 <Overfiend>     October 2005
+48:57 <Overfiend> Su Mo Tu We Th Fr Sa
+48:57 <Overfiend>                    1
+48:57 <Overfiend>  2  3  4  5  6  7  8
+48:57 <Overfiend>  9 10 11 12 13 14 15
+48:58 <CosmicRay> next meeting date?
+48:59 <Overfiend> 16 17 18 19 20 21 22
+49:02 <Overfiend> 23 24 25 26 27 28 29
+49:02 <cdlu> October 18th
+49:04 <Overfiend> 30 31
+49:15 <CosmicRay> that is of course only 2 weeks away.
+49:21 <bdale> 18th works for me
+49:22 <CosmicRay> incidentally I won't be able to make it the 18th
+49:36 <Overfiend> daylight saving/British Summer Time/whatever might transition in this interim
+49:39 <CosmicRay> so you get to enjoy mako's leadership of that meeting ;-)
+50:00 <CosmicRay> shall we proceed with the 18th then?
+50:03 <mako> it will be sponsors week in the lab but i will make it
+50:10 <Overfiend> sounds ok to me
+50:15 <CosmicRay> ok.
+50:17 <mako> i may have to disappear into a library somewhere :)
+50:18 <CosmicRay> [closing] We are adjourned until October 18 at 19:00 UTC.
+50:21 <CosmicRay> *GAVEL*

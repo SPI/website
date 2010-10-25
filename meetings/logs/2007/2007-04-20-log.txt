@@ -1,0 +1,256 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+20:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+20:00 < bdale> and details of pending resolutions can be found on the web at:
+20:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-04-20.html
+20:01 < bdale> [item 2, Roll Call]
+20:01 < bdale> Board members, please state your name for the record.  As we have nine board
+20:01 < bdale> members, quorum for today's meeting is six.  Guests, please /msg your names
+20:01 < bdale> to Maulkin if you wish your attendance to be recorded in the minutes of this
+20:01 < bdale> meeting.
+20:01 < bdale> Neil, please update us on known and tentative regrets.
+20:01 < Maulkin> Neil McGovern
+20:01 < Hydroxide> schultmc: can you ping Overfiend in real life?
+20:01 < Hydroxide> Jimmy Kaplowitz
+20:01 < bdale> Bdale Garbee
+20:01 < sam> Sam Hocevar
+20:01 < schultmc> Michael Schultheiss
+20:01 < cdlu> David Graham
+20:01 < schultmc> Hydroxide: he's working from home
+20:01 < schultmc> i can call him though
+20:01 < Maulkin> Apologies from Martin "Joey" Schulze, Josh Berkus and Ian Jackson
+20:01 < Hydroxide> schultmc: that'd be good
+20:01 < Maulkin> Ian is a 'possible'
+20:01 < Maulkin> Others are firm
+20:02 < Hydroxide> sam: technically you are an advisor to the board, not a board member, so that falls under the /msg to Neil. but, regardless, hi there and congratulations again on your election as DPL :)
+20:02 < sam> oh, my bad
+20:02 < schultmc> Overfiend is on his way
+20:02 < Hydroxide> yay
+20:02 < Overfiend> Branden Robinson
+20:02 < Maulkin> \o/
+20:02 < bdale> sam: np... welcome!  For those who don't know, Sam is the new Debian Project Leader, and thus the newest advisor to the SPI board.
+20:02 < Hydroxide> good. we're quorate
+20:02 < bdale> cool
+20:02 < sam> guess I can no longer hide the fact that it's my first time :)
+20:02 < Overfiend> sorry...had in my calendar and everything, just got busy and distracted
+20:03 < bdale> Overfiend: thanks for joining us
+20:03 < bdale> [item 3, President's Report]
+20:03 < bdale> Nothing new to report today.
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Did we receive anything from Josh?
+20:03 < Hydroxide> schultmc: do you have anything to say as Deputy/Assistant Treasurer given Josh's absence?
+20:04 < schultmc> bdale: no - due to his travel schedule he said he wouldn't have anything until next month
+20:04 < Maulkin> I did see a mail saying that Josh woudn't be able to submit a report for this moneth
+20:04 < bdale> schultmc: right, that's what I recall
+20:04 < Maulkin> *month
+20:04 < bdale> ok, fair enough
+20:04 < bdale> [item 5, Secretary's report]
+20:04 < bdale> Neil?
+20:04 < Maulkin> Just as in the agenda
+20:04 < Maulkin> Nothing new
+20:05 < bdale> ok.
+20:05 < bdale> [item 6, Spanish Trademark report]
+20:05 < bdale> Neil?
+20:05 < Maulkin> This one is more interesteing
+20:05 < Maulkin> I've had no response at all from Javier/Javier about this
+20:05 < Overfiend> it says "none" in the aggenda :)
+20:05 < Maulkin> Yeah, no progress to report
+20:05 < Overfiend> did they drop the ball?  the thing tied up in paperwork?  we just don't know?
+20:06 < Maulkin> Well, see last meeting's minutes for the issues that appeared
+20:06 < Overfiend> ok
+20:06 < Maulkin> Since then, nada
+20:06 < Hydroxide> copy-paste: "Neil McGovern has received a mail from Javier Fernández-Sanguino Peña
+20:06 < Hydroxide> explaining that Javier de la Cueva may no long be motivated in working towards
+20:06 < Maulkin> I really don't know what we can do to move this forward, short of hiring a lawyer over there
+20:06 < Hydroxide> a closure of this matter.  Neil has offered to fly to Madrid to arrange a face
+20:06 < Hydroxide> to face meeting, but has not yet received a reply."
+20:07 < bdale> hrm
+20:07 < bdale> so, what should we do next?
+20:07 < Maulkin> Well, Ian also offered to go over, but no response form Javier
+20:07 < bdale> I remain frustrated that this has been a persistent item on our agenda for so long.
+20:07 < Maulkin> What I'd fairly like is an offer from SPi to approve expenses from Javier (Lawyer).
+20:07 < Overfiend> bdale: it was *really urgent* when it was stuck on *our* plate.
+20:07 < Overfiend> Now that it's not...
+20:07 < Maulkin> I'm wondering if money is the issye.
+20:08 < bdale> Maulkin: are you up for asking him if that's the issue, indicating that we'd be willing to review a proposal if the issue *is* money?
+20:08 < Overfiend> Well, we do have quite a bit of cash and jberkus has urged us to put it to work.
+20:08 < Maulkin> bdale: of course :)
+20:08 < Hydroxide> well, I think his motivation to do it pro bono may have declined since we took absurdly long to get back to him
+20:09 < Overfiend> but we need an active, responsive representative in .es most of all
+20:09 < bdale> Maulkin: ok, then please do so.  we'll call that the action item from this for today, and move on?
+20:09 < bdale> Overfiend: agreed
+20:09  * Maulkin nods
+20:09 < bdale> anything else on this, or can I move on?
+20:09 < Maulkin> I'm done
+20:09  * Hydroxide would prefer pro bono if Javier is still willing
+20:09 < Hydroxide> but is of course willing to pay at this point
+20:09 < Maulkin> Of course :)
+20:09 < bdale> ok, let's move on
+20:09 < Hydroxide> let's move on
+20:09 < bdale> [item 7, Outstanding minutes]
+20:09 < bdale> Neil, what's ready for us today?
+20:09 < Maulkin> One set: March 16th, 2007
+20:10  * Overfiend will have to abstain from those, as he was absent.
+20:10  * cdlu moves approval of those minutes
+20:10 < Hydroxide> they're really quick to read ... I read them in a few seconds earlier in this meeting
+20:10  * Maulkin seconds
+20:10 < bdale> I haven't reviewed them, hold one sec while I skim
+20:10 < Maulkin> ok :)
+20:10 < Overfiend> Hydroxide: you're a real Boy Scout :)
+20:10  * Maulkin unseconds
+20:10 < Overfiend> whoa
+20:10 < Overfiend> bdale: you're a real Boy Scout :)
+20:11 < Overfiend> schultmc: do you know if jberkus got our NY state registration filed?
+20:11 < bdale> ah, right I was absent
+20:11 < schultmc> Overfiend: I don't know - he never mentioned it to me
+20:11 < Overfiend> schultmc: ok
+20:11 < bdale> ok, I'm prepared to abstain now.  ;-)
+20:11 < Overfiend> heh
+20:11 < Maulkin> All done? :)
+20:11 < cdlu> bdale, hehe
+20:11  * Hydroxide seconds cdlu's motion
+20:12 < Maulkin> Voting started, 6 people (bdale,cdlu,hydroxide,maulkin,overfiend,schultmc) allowed to vote on Approve March 16th, 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < cdlu> !vote yes
+20:12 < Hydroxide> !vote yes
+20:12 < bdale> !vote abstain
+20:12 < Maulkin> !vote yes
+20:12 < schultmc> !vote yes
+20:12 < Hydroxide> Overfiend: ping
+20:12 < Overfiend> !vote abstain
+20:12 < Maulkin> I'm guessing he's reading them
+20:12 < Maulkin> Current voting results for "Approve March 16th, 2007 minutes": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:12 < Maulkin> Voting for "Approve March 16th, 2007 minutes" closed.
+20:12 < bdale> ok, thanks all
+20:12 < Maulkin> That's it for me for this month
+20:12 < bdale> Maulkin: thanks
+20:13 < Overfiend> Maulkin: yeah, I went back to re-read jberkus's report more closely
+20:13 < bdale> [item 8, Items up for discussion]
+20:13 < bdale> [item 8.1, Debian Logo License]
+20:13 < bdale> ok, so I guess the question here is whether we need a resolution?
+20:13 < Maulkin> I don't think so.
+20:13 < bdale> I don't either
+20:13 < Maulkin> Hrm
+20:13 < bdale> what needs to happen, though, to get the changes made?
+20:13 < Hydroxide> doesn't spi need to have a new license proposed and then pass a resolution to relicense?
+20:14 < Overfiend> well, we're the copyright holder, we just need to publish the updated text.
+20:14 < sam> does SPI have comments to make on the legal side?
+20:14 < bdale> sam: it seems pretty simple to me, but we could ask our counsel to review if you wish
+20:14 < Maulkin> 1998-11-16.iwj.2:
+20:14 < Maulkin> (ii) Day-to-day decisionmaking about IPR owned by SPI will usually be delegated to its rightful managers, as appointed by its originators, and their successors, according to SPI's Framework for Associated Projects.
+20:14 < Overfiend> how we make the updated license text "beyond reproach" is a procedural matter.
+20:15 < sam> there have been discussions on -legal about the move, but though the most trustable individual taking part in them is a professional IP counsel, he isn't giving lawyer advice, only speaks as an individual and seems specialised in EU law.
+20:15 < Maulkin> (iv) Local IPR owned by SPI will be managed, enforced, and disposed of according to the decisions of its originators and their successors, so long as these decisions do not plainly oppose the goals of SPI and the free software community. Unless there is good reason to believe otherwise, the wishes of its rightful managers will be assumed to be in the best interests of the community.
+20:15 < Hydroxide> Maulkin: yeah. I think we should still pass a resolution to cover all bases, but only when sam as DPL has approved it on behalf of Debian
+20:15 < bdale> so, here's what I'd propose
+20:15 < Hydroxide> Maulkin: that makes it valid both in light of our procedures and any court that may question it
+20:15  * Maulkin nods
+20:15 < Hydroxide> Maulkin: (i.e., the approval by sam and the resolution by us afterward)
+20:15 < bdale> someone on the board volunteer to work with Sam to draft a resolution, run it by our counsel for review, and we can vote on it at our next meeting.
+20:16 < Overfiend> I don't think there is any need to run the license text by our counsel if no one on the Board actually has any concerns.
+20:16 < Overfiend> oh
+20:16 < Overfiend> the the Prez said works too
+20:16 < sam> I think the relicensing and the trademark enforcement strategy can be done separately
+20:16 < Overfiend> I proposed what I did b/c SPI gets accused of being bureaucratic.
+20:16 < bdale> sam: do you want us to act on either part today, or is one or a pair of resultions for our next meeting soon enough?
+20:16 < sam> I only have concerns with the latter, but then only because I'm more familiar with European model/trademarks law, not US.
+20:17 < bdale> Overfiend: I understand, but if this is just the right thing to do and there isn't a huge rush, being prudent to the extent of defering votes until next month doesn't seem overly slow?
+20:17 < sam> bdale: will it be less work to act on both at the same time?
+20:17 < Overfiend> sam: IMO the copyright license is more important for all purposes except actually having to land on an infringer.
+20:17 < bdale> sam: you've seen how quickly we can vote... I don't care.
+20:17 < Overfiend> bdale: I agree.
+20:17  * Maulkin suggests doing both if you're doing one
+20:18 < sam> Overfiend: I agree, too
+20:18 < xzilla> bdale: give 3 board members arent here, i think a vote next month is more prodent
+20:18 < Hydroxide> I am reasonably familiar with US copyright law, but of course not as much as SPI's legal counsel
+20:18 < sam> if you can act on the relicensing right now, please do it
+20:18 < bdale> ok, I'd like a board member to volunteer to work with Sam on this, bringing us one or more resolutions to vote on next meeting.
+20:18  * Maulkin waves
+20:18 < bdale> Maulkin: ok, thanks.
+20:18 < Overfiend> consider me available as well
+20:19 < sam> or maybe act on both, and we'll see if we can work on refining the trademark strategy later; I wouldn't want that to be postponed forever
+20:19  * Hydroxide is also available
+20:19 < Maulkin> Whoever :)
+20:19 < Overfiend> well, I'm content to serve as a fallback
+20:19 < bdale> so, we'll let Neil and Sam lead and will be happy to review by email any questions, etc
+20:19 < Overfiend> Maulkin was first to seize the initiative, so he can take the lead if he wants :)
+20:19  * Hydroxide is fine with that
+20:19 < Maulkin> Fine by me :)
+20:20 < Hydroxide> just send emails well in advance of next meeting so we can all react in due time
+20:20 < bdale> Maulkin: obviously, ask for any of us to help if needed, otherwise I'll assume we'll have something to vote on for our next meeting
+20:20  * Maulkin nods
+20:20 < bdale> so, moving along
+20:20 < bdale> [item 9, Next board meeting - Friday May 18th, 2007]
+20:20 < bdale> Neil, any discussion required?  I'm good with that date at the usual time.
+20:20 < Overfiend>       May 2007      
+20:20 < Overfiend> Su Mo Tu We Th Fr Sa
+20:20 < Overfiend>        1  2  3  4  5
+20:20 < Overfiend>  6  7  8  9 10 11 12
+20:20 < Overfiend> 13 14 15 16 17 18 19
+20:20 < Overfiend> 20 21 22 23 24 25 26
+20:20 < schultmc> fine with me
+20:20 < Maulkin> Usual stuff for this
+20:20 < Overfiend> 27 28 29 30 31      
+20:20 < Overfiend>                     
+20:20 < cdlu> are we aiming for a June meeting at DebConf in person?
+20:20 < Maulkin> June is the interesting one :)
+20:20 < Overfiend> it's the 25th that is Memorial Day weekend in the U.S., right?
+20:20 < bdale> FreedomHEC is happening overlapping the 18th, but that shouldn't bother us
+20:20 < Hydroxide> Overfiend: right
+20:20 < Overfiend> ok
+20:21 < bdale> cdlu: always a good idea, though of course not all board members will be present in person
+20:21 < Maulkin> oh, bugger, one more issue
+20:21  * Hydroxide would like a June meeting at DebConf in person, though we should be sure to somehow include in real-time those people who can't be there
+20:21 < Maulkin> After this bit, sorry
+20:21 < cdlu> also, 6 of us are up for election in a couple of months
+20:21 < bdale> ok, everyone present is ok with the 18th?
+20:21  * Overfiend is fine with the 18th.
+20:21 < Maulkin> bdale: Can I just grab the floor before close?
+20:21 < Ganneff> Hydroxide: that could work if you talk to the video team - streaming of it.
+20:21  * schultmc is fine with the 18th
+20:22 < bdale> Maulkin: noted
+20:22 < sam> not sure I'm allowed to voice my opinion, but I'm fine :-)
+20:22  * Maulkin is fine with the 18th
+20:22 < Hydroxide> Ganneff: ah, gotcha
+20:22 < bdale> ok, then we'll do the 18th at the usual time.  Maulkin, you have the floor.
+20:22 < Ganneff> Hydroxide: debconf-video@lists.debconf.org
+20:22 < Maulkin> Opensource.org summary:
+20:22 < Hydroxide> Ganneff: *nod*
+20:22 < Maulkin> (you can sigh now)
+20:22 < bdale> Maulkin: go on
+20:22 < Maulkin> I still haven't had ACKs back from everyone
+20:22  * xzilla sighs
+20:22 < Ganneff> erm.
+20:23 < Maulkin> Please can the board make sure they've sent them. I'll mail people individually who haven't done it.
+20:23 < bdale> Maulkin: can you be more specific about who you need one from that you don't have?
+20:23 < Overfiend> Maulkin: who are you waiting on?
+20:23 < Maulkin> Just a sec...
+20:23 < Ganneff> technically opensource.org moved
+20:23 < Hydroxide> Ganneff: yeah, summary of the discussion behind the board's decision
+20:23 < bdale> Ganneff: this is the publishing of the email stream from the board list, I believe
+20:23 < Ganneff> ah.
+20:23 < Ganneff> ok then.
+20:23 < Hydroxide> Ganneff: btw, last time I checked, opensource.net hadn't been moved, though we authorized that too
+20:23 < Ganneff> .net still shows us
+20:23 < bdale> by the way, did I let the board know that I'm now a non-voting observer of the OSI board?
+20:24 < Ganneff> Hydroxide: yes, but i cant help them if they dont do the work on their side
+20:24 < Hydroxide> Ganneff: true
+20:24 < cdlu> bdale, that's interesting to know
+20:24 < schultmc> bdale: you mentioned it after the last meeting
+20:24 < Overfiend> bdale: I think so, I read it somewhere before :)
+20:24 < bdale> ok, well, should have been part of my report then, but it'll be in the minutes now.
+20:24 < Hydroxide> bdale: good news. hopefully Maulkin will put that in the minutes somewhere for the record
+20:24 < Overfiend> bdale: good to say it officially in-meeting, though
+20:24 < Maulkin> got it from schultmc / Hydroxide / bdale 
+20:24 < Maulkin> And me
+20:24 < Overfiend> missing it from iwj... :)
+20:24 < Maulkin> bdale had reservations, which I'll incorporate
+20:24 < bdale> Maulkin: ok, please direct email folks you need them from, cc me if you wish, and let's get this closed
+20:25 < Maulkin> Okies.
+20:25 < Hydroxide> I thought iwj did confirm
+20:25 < bdale> anything else?  last call.
+20:25 < Maulkin> Nope
+20:25 < Overfiend> Hydroxide: I was just being a brat :)
+20:25 < Hydroxide> regardless, this doesn't need to delay the end of the meeting
+20:25 < bdale> ok
+20:25 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+20:25 < bdale> *GAVEL*

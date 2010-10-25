@@ -1,0 +1,261 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:00 < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2007/2007-11-14.html
+20:00 < cdlu> hi
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  
+20:00 < bdale> Guests (including board advisors), please /msg your names to Maulkin if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < bdale> I saw on IRC that Josh Berkus will not be here.  Neil, any other regrets?
+20:00 < cdlu> David Graham 
+20:00 < Ganneff> Joerg Jaspert
+20:00 < schultmc> Michael Schultheiss
+20:00 < bdale> Bdale Garbee
+20:00 < Maulkin> Neil McGovern
+20:00 < Maulkin> bdale: that's the only one noted
+20:01 < bdale> Maulkin: ok.  we need one more then.  who are we missing?
+20:01 < Maulkin> josh drake
+20:01 < schultmc> luk
+20:01 < Maulkin> luk
+20:01 < Maulkin> and...
+20:01 < luk> Luk Claes
+20:01 < Maulkin> Someone
+20:02 < bdale> great, we have quorum now
+20:02 < schultmc> Martin Zobel-Helas
+20:02 < bdale> right
+20:02 < schultmc> =someone :)
+20:02 < Maulkin> Ahh, yeah, zobel
+20:02 < bdale> ok, as we have 6 in attendance, I propose to move on.  hopefully the others will yet join us.
+20:02 < luk> zobel is on VAC for one week AFAIK
+20:02 < bdale> [item 3, President's Report]
+20:02 < bdale> Between work-related travel and a family health situation in the last month, I still have not made time to complete and publish our annual report yet.  
+20:02 < bdale> Will again try to get that closed before our next meeting.
+20:03 < Ganneff> can someone else help?
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Michael?
+20:03 < bdale> Ganneff: I need to work with Michael on it, mostly, I think
+20:03 < schultmc> Josh and I are almost caught up on data entry
+20:03 < Maulkin> bdale: do you need anything else frop us for the report?
+20:03  * schultmc has a tentative project balance report available as of mid september 2007
+20:03 < Ganneff> bdale: so mostly treasurr stuff missing? or?
+20:04 < luk> schultmc: do you also take care of the Membership Committee part of the report?
+20:04 < bdale> Ganneff: I think so, but honestly, I need to look at it again to remind myself.  let's discuss after the meeting.
+20:04 < schultmc> luk: you're the chair :P
+20:04 < luk> so you want me to appoint you? ;-)
+20:04 < bdale> I don't think we have the membership ctte on the agenda explicitly, but happy to take a report after we finish with treasury
+20:04 < schultmc> I'm also working with our CPA to get our 2006 taxes filed
+20:04 < schultmc> bdale: he means for the annual report
+20:05 < bdale> oh, ok
+20:05 < Hydroxide> schultmc: you mean the information return(s), or do we actually owe taxes somehow?
+20:05 < schultmc> the form 990 information return
+20:05 < bdale> so, to wrap my thoughts on the annual report, I haven't looked at what we do and don't have in place in a while, so I need to review that before we can discuss it usefully.  I'll try to do that this week and find any of you that I need inputs from via IRC or email.
+20:05 < schultmc> we don't owe taxes as far as I'm aware
+20:06 < Hydroxide> right, ok good
+20:06 < bdale> schultmc: so, it sounds like you're making progress.  need anything from the rest of us right now?
+20:06 < schultmc> not at this time
+20:06  * schultmc is putting the draft balance online now
+20:07 < bdale> schultmc: ok.  I'm looking forward to seeing something like an up to date report as soon as you're caught up, etc.
+20:07 < bdale> schultmc: good.  anything else, or should we move on?
+20:07 < schultmc> i'll send out a proper balance report once we're caught up with data entry (expected shortly)
+20:07 < schultmc> we can move on - I can post a URL as soon as I figure out plone :)
+20:07 < bdale> ok, great
+20:07 < bdale> [item 5, Secretary's report]
+20:07 < bdale> Neil?
+20:07 < Maulkin> schultmc: shout if you need help
+20:07 < Maulkin> bdale: as agenda.
+20:08 < bdale> Maulkin: ok, if nothing non-specific here, we can move on?
+20:08 < Maulkin> bdale: sure :)
+20:08 < bdale> ;-)
+20:08 < bdale> [item 6, Outstanding minutes]
+20:08 < bdale> Neil, it looks like we have several sets ready for acceptance today?
+20:08 < Maulkin> Ineed, 5.
+20:08 < schultmc> http://www.spi-inc.org/treasurer/2007-11-14-draft-report.html is the draft balance report as of mid september
+20:08 < Maulkin> This should bring us up to date
+20:09  * Hydroxide cheers
+20:09 < bdale> has everyone read the minutes and is ready to vote on them?
+20:09 < schultmc> the SPI General net is too high - we probably have unearmarked Debian funds in that total
+20:09  * schultmc has
+20:09  * bdale has
+20:09  * luk has
+20:09  * cdlu has not found any problems with the minutes
+20:09  * Maulkin has :P
+20:10 < bdale> right, if there are any suggested corrections it'd be easier to handle them now than after we start voting
+20:10 < bdale> I don't have any corrections 
+20:10 < bdale> Neil, I think we can start the voting, then.
+20:10  * cdlu moves to approve them in bulk
+20:10  * Maulkin moves to vote, in order, one after the other.
+20:11  * schultmc seconds Maulkin 
+20:11 < Maulkin> (as there may be some absentions for some)
+20:11 < luk> indeed
+20:11  * Ganneff wont vote on minutes for meetings where i was no board member..
+20:11 < bdale> cdlu: I need to abstain on meetings I missed, vote per is better
+20:11 < Maulkin> Ganneff: you can vote if you were present
+20:11 < bdale> Maulkin: so I agree on a vote per, please proceed
+20:11 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve June 18th, 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:11 < schultmc> !vote yes
+20:11 < Maulkin> !vote yes
+20:11 < bdale> !vote yes
+20:11 < cdlu> !vote yes
+20:11 < Ganneff> Maulkin: as you havent written non-board members in the minutes i cant remember what of those i missed, and i missed some. :)
+20:11 < Ganneff> !vote abstain
+20:11 < luk> !vote abstain
+20:11 < Maulkin> Ganneff: fair enough
+20:11 < bdale> Ganneff: abstain is fine in that case
+20:12 < Maulkin> Current voting results for "Approve June 18th, 2007 minutes": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:12 < Maulkin> Voting for "Approve June 18th, 2007 minutes" closed.
+20:12 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve July 6th 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < schultmc> !vote yes
+20:12 < Maulkin> !vote yes
+20:12 < bdale> !vote yes
+20:12 < luk> !vote abstain
+20:12 < Ganneff> !vote abstain
+20:12 < luk> cdlu?
+20:12 < bdale> cdlu: ?
+20:12 < Maulkin> cdlu?
+20:12 < cdlu> !vote yes
+20:12 < cdlu> sorry
+20:12 < Maulkin> Current voting results for "Approve July 6th 2007 minutes": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:12 < Maulkin> Voting for "Approve July 6th 2007 minutes" closed.
+20:12 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve August 17th 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < Ganneff> !vote abstain
+20:12 < schultmc> !vote yes
+20:13 < Maulkin> !vote yes
+20:13 < bdale> !vote abstain
+20:13 < cdlu> !vote yes
+20:13 < luk> !vote abstain
+20:13 < Ganneff> (missed that )
+20:13 < Maulkin> Current voting results for "Approve August 17th 2007 minutes": Yes: 3, No: 0, Abstain: 3, Missing: 0 ()
+20:13 < Maulkin> Voting for "Approve August 17th 2007 minutes" closed.
+20:13 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve September 19th 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < Maulkin> erm...
+20:13 < schultmc> !vote yes
+20:13 < cdlu> !vote yes
+20:13 < Maulkin> Ahh, carry on :)
+20:13 < bdale> !vote abstain
+20:13 < Maulkin> !vote yes
+20:13 < Ganneff> !vote yes
+20:13 < luk> !vote yes
+20:13 < Maulkin> Current voting results for "Approve September 19th 2007 minutes": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:13 < Maulkin> Voting for "Approve September 19th 2007 minutes" closed.
+20:13 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve October 17th 2007minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < Maulkin> !vote yes
+20:13 < schultmc> !vote abstain
+20:13 < cdlu> !vote yes
+20:13 < bdale> !vote yes
+20:13 < luk> !vote abstain
+20:13 < Ganneff> !vote yes
+20:14 < Maulkin> Current voting results for "Approve October 17th 2007minutes": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:14 < Maulkin> Voting for "Approve October 17th 2007minutes" closed.
+20:14 < Maulkin> All done
+20:14 < bdale> WOOT!
+20:14  * Hydroxide cheers again
+20:14 < bdale> thanks to Neil for that, it feels good to be caught up on minutes again!
+20:14 < Maulkin> No problems
+20:14 < bdale> [item 7, Items up for discussion]
+20:14 < bdale> [item 7.1, Resolution 2007-11-14.nm.1 - EU-wide Debian Trademark]
+20:14 < bdale> Neil?
+20:14 < Maulkin> This one seems pretty clear. Any comments/suggestions?
+20:15 < bdale> did I miss it in email, or do you have an anticipated cost of pursuing this?
+20:15 < Maulkin> Just a sec...
+20:15 < bdale> I think you said 2k euro when we first talked about this?
+20:15 < Maulkin>    I thereby approve the immediate disbursement of 500 GBP and 750 EUR                                                                                                                
+20:15 < Maulkin> ...
+20:15 < Maulkin>    I also approve the future disbursement of 850 EUR in 18 months,                                                                                                                    
+20:15 < Maulkin> About 2k EUR
+20:16 < cdlu> so DPL is controlling the cost of this expenditure from his budget... so no need to limit it in the resolution.
+20:16 < bdale> right, ok.  not really up to us, but wanted to have my head wrapped around that bit.
+20:16 < Maulkin> Prices will vary slightly depending on echange rates.
+20:16 < bdale> sure
+20:16 < Maulkin> Yesh, DPL has approved it :P
+20:16 < Maulkin> However, I'll be registering it for SPI.
+20:16 < bdale> ok, I'm happy with the resolution.
+20:16 < bdale> any further discussion?
+20:16 < Maulkin> (hence the resolution :P)
+20:16  * Maulkin moves to vote
+20:16  * schultmc seconds
+20:16  * cdlu seconds
+20:16 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,bdale,maulkin,luk) allowed to vote on Approve resolution 2007-11-14.nm.1 - EU-wide Debian Trademark. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:16 < Ganneff> go
+20:16 < luk> !vote yes
+20:16 < cdlu> !vote yes
+20:16 < Maulkin> !vote yes
+20:16 < Ganneff> !vote yes
+20:16 < bdale> !vote yes
+20:16 < schultmc> !vote yes
+20:17 < Maulkin> Current voting results for "Approve resolution 2007-11-14.nm.1 - EU-wide Debian Trademark": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:17 < Maulkin> Voting for "Approve resolution 2007-11-14.nm.1 - EU-wide Debian Trademark" closed.
+20:17 < Maulkin> passed.
+20:17 < bdale> ok, great
+20:17 < bdale> [item 7.2, Resolution 2007-11-14.jdd.1.jb.1 - Obtaining new legal counsel]
+20:17 < bdale> hrm.  Joshua still not here?
+20:17  * cdlu is prepared to move to a vote on this resolution.
+20:17 < bdale> I think this one is also straight-forward, and am prepared to vote in favor.
+20:17  * cdlu so moves
+20:17 < Maulkin> Nope, but I'm happy voting. Seems simple enough
+20:17  * schultmc seconds
+20:17  * Maulkin seconds
+20:17  * Ganneff seconds
+20:17 < Maulkin> Voting started, 1 people (name) allowed to vote on Approve resolution 2007-11-14.jdd.1.jb.1 - Obtaining new legal counsel. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:18 < schultmc> !vote yes
+20:18 < Maulkin> !vote yes
+20:18 < cdlu> !vote ytes
+20:18 < bdale> !vote yes
+20:18 < cdlu> !vote yes
+20:18 < luk> !vote yes
+20:18 < Ganneff> Maulkin: 1 people allowed to vote?
+20:18 < schultmc> hrm
+20:18 < cdlu> hehe
+20:18 < schultmc> 1 people (name) allowed to vote?
+20:18 < Maulkin> oops...
+20:18 < Ganneff> and all people vote without looking. tsts. :)
+20:18 < Maulkin> I'll add it up manually :)
+20:18 < bdale> Ganneff: go ahead and vote, he can figure it out if it's all yesses...
+20:18 < Ganneff> !vote yes
+20:18 < Maulkin> Current voting results for "Approve resolution 2007-11-14.jdd.1.jb.1 - Obtaining new legal counsel": Yes: 0, No: 0, Abstain: 0, Missing: 1 ( name )
+20:18 < Maulkin> Voting for "Approve resolution 2007-11-14.jdd.1.jb.1 - Obtaining new legal counsel" closed.
+20:18 < bdale> ;-)
+20:18 < Ganneff> bdale: than i should have voted no :)
+20:18 < Maulkin> Whatever. All passed. 6:0:0
+20:18 < cdlu> Ganneff, the bot isn't an official part of procedures ;)
+20:19 < bdale> Ganneff: pfft
+20:19 < Maulkin> Done :P
+20:19 < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:19 < luk> Ganneff: you should have changed nick and voted...
+20:19 < Ganneff> badluk
+20:19 < cdlu> bdale, not off-hand.
+20:19 < Maulkin> I think we're done :)
+20:19 < Ganneff> none here.
+20:20 < bdale> [item 8, Next board meeting]
+20:20 < bdale> Neil?  I believe our default would be Wednesday 19th Dec, 2007 - 20:00 UTC?
+20:20 < bdale> that would work for me
+20:20 < Maulkin> Aye, that's the one.
+20:20 < schultmc> should work for me
+20:20 < Ganneff> fine for me
+20:20 < cdlu> 19th december. I may be attending that one from the middle of nowhere.
+20:20 < Maulkin> Unless people want to change it now UTC has stared
+20:20 < Maulkin> *started
+20:20 < bdale> doesn't matter to me
+20:20 < Maulkin> erm... I mean non-summer time
+20:20 < schultmc> heh
+20:20 < schultmc> UTC ended? ;)
+20:20 < bdale> as long as it's on my calendar, I'm good
+20:20 < cdlu> hehe
+20:21 < Maulkin> Well, email if it's not :P
+20:21 < luk> 19UTC as well as 21UTC would fit better for me
+20:21 < bdale> ok, let's leave it as is until/unless there's some dissent via email.  hard to poll those not here today this instant...
+20:21  * cdlu is totally impartial
+20:21 < Maulkin> yup
+20:21 < bdale> luk: so you'd prefer *not* 20UTC?
+20:21 < cdlu> as long as it's between 1300Z and 0300Z I'm set. :)
+20:21 < luk> bdale: indeed
+20:21 < Maulkin> 19:00 then?
+20:22 < Ganneff> yes
+20:22 < Ganneff> for now.
+20:22 < bdale> Maulkin: 19:00 works for me
+20:22 < Maulkin> And make it regular?
+20:22 < luk> yes, IMHO
+20:22 < bdale> yes, let's make it 19:00 regular unless there's dissent leading to a different conclusion by email
+20:22 < Maulkin> (fwiw, we had 19:00 in non summer time, and 20:00 in before)
+20:22  * schultmc will e-mail if that presents a problem - no problem seen ATM
+20:22 < Maulkin> Works for me.
+20:22 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+20:22 < bdale> *GAVEL*

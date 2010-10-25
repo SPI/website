@@ -1,0 +1,172 @@
+16:00 < Hydroxide> *GAVEL*
+16:00 < Hydroxide> This meeting of the Board of Directors of Software in the Public Interest, Inc. Is now called to order. Board members, please state your name for the record. Others who wish to be recorded as attending, 
+16:00 < Hydroxide> please /msg me your name.
+16:00 < cdlu> David Graham (semi-present in the UK)
+16:00 < Hydroxide> Jimmy Kaplowitz
+16:00 < schultmc> Michael Schultheiss
+16:00 < slef> stability -> 0 this evening
+16:01 < Hydroxide> bdale, Ganneff, luk, zobel, Maulkin: ping
+16:01 < Hydroxide> can someone call any of them or linuxpoet?
+16:01 < Hydroxide> I don't have the relevant phone numbers
+16:01 < Hydroxide> I know zobel was just here
+16:01 < schultmc> I can call linuxpoet
+16:01 < Hydroxide> schultmc: thans
+16:02 < zobel> Martin Zobel-Helas
+16:02 < Ganneff> Joerg Jaspert
+16:02 < Hydroxide> we need one more, right?
+16:03 < Hydroxide> everyone who's waiting, please read the minutes and/or treasurer's report :)
+16:03 < zobel> should i give luk a phone call?
+16:03 < Hydroxide> zobel: would help, yes
+16:03 < schultmc> Hydroxide: left linuxpoet a message
+16:03  * Hydroxide just fixed the typo in the balance sheet title line (s/April 30/May 31/)
+16:05 < zobel> luk will be with us in 2min
+16:05 < Hydroxide> zobel: wonderful, thanks
+16:05 < zobel> how much more do we need for quroum?
+16:06 < Hydroxide> zobel: just him, I think
+16:06 < Hydroxide> yeah, that's the minimum needed
+16:06 < luk> hi
+16:06 < luk> sorry
+16:06 < luk> Luk Claes
+16:06 < Hydroxide> great
+16:06 < zobel> quorum!
+16:06 < Hydroxide> moving on. no president's report today. 
+16:06 < Hydroxide> schultmc: treasurer's report. you're up.
+16:07 < schultmc> This is a fairly standard report - most of April's donations were deposited in May and are reflected here
+16:07 < schultmc> The negative balance for The HeliOS project is due to a quirk in our accounting method - had we used accrual based accounting their balance would not be negative
+16:08 < schultmc> </done>
+16:08 < zobel> schultmc: do you know how much of debian's Assets are reserved for Debconf?
+16:08 < Hydroxide> schultmc: can we either move to a standard cash-basis accounting method without the quirk about deposit timing or else accrual?
+16:08 < Hydroxide> (my fault for the quirk being there in the first place)
+16:08 < schultmc> Hydroxide: this is standard cash basis 
+16:09 < schultmc> the quirk is due to how cash basis works
+16:09 < Hydroxide> schultmc: at least according to irs.gov (which might be nonstandard I admit), cash-basis accounting says that you recognize a check when you receive the check, even if you delay depositing it
+16:09 < Hydroxide> schultmc: as distinct from accrual, where you recognize it when you earn the check
+16:09 < schultmc> Hydroxide: those dates are essentially the same for our purpose (or one day off)
+16:09 < Hydroxide> schultmc: it mattered for last month's report
+16:10 < schultmc> zobel: roughly, yes - I don't have an exact figure
+16:10 < Hydroxide> anyway, if you want to switch to accrual, that would be fine too. it'd just be nice not to have a nonstandard accounting method.
+16:10 < schultmc> zobel: roughly USD 36k
+16:10 < Hydroxide> (which, again, is my own fault)
+16:11 < Hydroxide> any other thoughts or should we move on?
+16:11 < zobel> go on.
+16:11 < luk> I think both the current cash based accounting
+16:11 < luk> as well as the accrual method would be fine
+16:11 < luk> s/would be/are/
+16:11 < Hydroxide> ok. this doesn't need to take any more of the meeting time. it can be discussed elsewhere.
+16:12 < Hydroxide> moving on. my secretary's report is in the agenda. any questions?
+16:12 < luk> Maulkin asked to mention the 2 questions from Debian
+16:12 < luk> no?
+16:12 < Hydroxide> luk: that's unrelated to what the secretary's report is about
+16:12 < Hydroxide> luk: it was in relation to a lawyer conversation about another matter
+16:12 < Hydroxide> luk: not related to this meeting
+16:13 < luk> ah, ok misinterpreted that
+16:13 < schultmc> Hydroxide: is Open64 different from codestr0m's project?
+16:13 < luk> yes
+16:13 < Hydroxide> schultmc: no, but he's involved with two projects. it's different from OSUNIX, which is at an earlier stage in the process of possibly joining
+16:13 < codestr0m> schultmc: I'm technically going to apply on behalf of two projects.. open64 and osunix
+16:13 < Hydroxide> (pending legal advice)
+16:13 < schultmc> ah
+16:14  * schultmc was confused since I had only heard OSUNIX mentioned
+16:14 < Hydroxide> schultmc: you're not reading your board mail or this IRC channel backlog then :)
+16:14 < schultmc> Hydroxide: sure I do - I must have forgotten :)
+16:14 < Hydroxide> the Open64 one is the only one that has had an official application started, and the other one is pending legal advice pre-application, hence my choice of which to mention
+16:14 < Hydroxide> in the report
+16:15 < schultmc> understood
+16:15 < Hydroxide> I'll probably email the membership about both projects soon in the interest of not letting the legal advice delay the process for either project more than necessary
+16:15 < Hydroxide> though I'll ask the membership to not try to armchair-lawyer the issue we're asking the lawyers about, and to confine their comments to other topics
+16:15 < Hydroxide> anyway, ready to move on?
+16:16 < luk> which point handles about the upcoming election btw?
+16:16 < Hydroxide> luk: ah, good point, it's not in the agenda - we can address it briefly in AOB
+16:16 < luk> ok
+16:16 < zobel> can we go on with the agenda?
+16:16 < Hydroxide> moving on
+16:16 < Hydroxide> outstanding minutes. zobel, any movement on the three from neil's term which you agreed to prepare?
+16:17 < zobel> no, but i hope to find time during debcamp.
+16:17 < Hydroxide> ok. so then by the august meeting?
+16:17 < zobel> prod me hard there.
+16:17 < Hydroxide> zobel: I will :)
+16:17 < Hydroxide> I'll be there
+16:17 < Hydroxide> as for my minutes
+16:17 < zobel> currently real life is to busy and sucks...
+16:18 < Hydroxide> the april one was only amended to say that the seecond vote approved the March 2009 minutes instead of the January 2009 minutes. just the title of the vote changed
+16:18 < Hydroxide> I verified that this was correct in the logs. can we have unanimous consent to accept that change?
+16:18 < cdlu> sure
+16:18 < luk> yes
+16:18 < schultmc> yes
+16:18 < Ganneff> go
+16:18 < Hydroxide> ok
+16:19 < Hydroxide> that's effectively a vote there, or very nearly :)
+16:19 < Hydroxide> may 20th minutes
+16:19 < Hydroxide> ready to approve?
+16:19 < Ganneff> go
+16:19 < schultmc> yes
+16:19 < cdlu> ya
+16:19 < Hydroxide> Voting started, 6 people (hydroxide,cdlu,schultmc,luk,zobel,ganneff) allowed to vote on May 20th minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:19 < cdlu> they're not too complex :)
+16:19 < cdlu> !vote yers
+16:19 < luk> !vote yes
+16:19 < cdlu> !vote yes
+16:19 < Ganneff> !vote yes
+16:19 < Hydroxide> !vote yes
+16:19 < schultmc> !vote yes
+16:19 < Hydroxide> zobel: ping
+16:20 < zobel> !vote abstain
+16:20 < Hydroxide> Current voting results for "May 20th minutes": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+16:20 < Hydroxide> Voting for "May 20th minutes" closed.
+16:20 < Hydroxide> approved
+16:20 < Hydroxide> no items in the discussion section.
+16:20 < Hydroxide> Any other business... let's start with the elections
+16:20 < Hydroxide> schultmc, luk: this is my responsibility, but part of that is checking with membership ctte to make sure the membership rolls are ready for the election. is that the case?
+16:21 < schultmc> Hydroxide: yes
+16:21 < Hydroxide> schultmc: is the webapp ready enough, or will it be by july 1st?
+16:21 < schultmc> Hydroxide: I haven't dealt with the voting app
+16:21 < luk> I think everyone hopes Maulkin will take care of it :-)
+16:21 < schultmc> I can help look into it but Maulkin or luk may know more about it
+16:21 < Hydroxide> schultmc: actually, it just needs to be ready by july 13th since nominations are the only thing before then
+16:22 < schultmc> Hydroxide: ping Maulkin - I'll see what I can find out in the meantime though
+16:22 < Hydroxide> schultmc: ok, we'll take this offline. I'll send an email announcement about the election within the next few days
+16:23 < Hydroxide> any other business before we set next meeting date? (about which we'll need to deviate from the agenda because of the annual meeting)
+16:23  * codestr0m wonders if I should speak up
+16:23 < Ganneff> codestr0m: usually its limited to board
+16:24 < Hydroxide> codestr0m: if you have something to say, go ahead
+16:24 < Hydroxide> Ganneff: or at least without requesting it. I interpreted what he said as a request to speak
+16:26 < codestr0m> well I won't delay the board so much, but any questions about open64 are welcomed here or offline
+16:26 < codestr0m> I hope by next meeting that will be an approved project
+16:26 < Hydroxide> anyone have online questions for codestr0m?
+16:26 < Hydroxide> or any other business? if not, let's talk about the annual meeting
+16:26 < luk> not at this moment
+16:27 < Hydroxide> ok. every board member should have his email address in their board inbox from his open64 application email
+16:27 < Hydroxide> or talk to him on IRC
+16:27 < Hydroxide> moving on
+16:27 < Hydroxide> the annual meeting of the membership is july 1st by our bylaws
+16:28 < luk> right
+16:28 < Hydroxide> http://www.spi-inc.org/corporate/by-laws
+16:28 < zobel> looks okay to my schedule.
+16:28 < Hydroxide> oh, wow, it can be modified by up to two weeks if such day be a legal holiday. how did we miss that provision before?
+16:28 < cdlu> Hydroxide, I may not be able to make July 1 on account of it being Canada Day 
+16:29 < Hydroxide> cdlu: see above. did we conclude that the "legal holiday" provision is restricted to US/NY legal holidays?
+16:29  * cdlu has other volunteer responsibilities on our national holiday
+16:29 < cdlu> Hydroxide, it's a holiday somewhere pretty much always so I think we should interpret it that way.
+16:29 < Ganneff> Hydroxide: unless written exactly like that in bylaws we should interpret it to "any legal holidays of a country with a board member"
+16:29 < Ganneff> :)
+16:30  * luk agrees with Ganneff
+16:30 < cdlu> except that it's a membership meeting not a board meeting
+16:30 < Hydroxide> cdlu: it actually says "annual board meeting" in the by-laws, oddly enough
+16:30 < cdlu> hydroxide, well then :)
+16:30 < Hydroxide> cdlu: they're very badly written :)
+16:30 < slef> Ganneff: exploit, scope: co-option :)
+16:30 < cdlu> ya, we've been talking about fixing them since before my brother met the girl he just had a kid with...
+16:31 < Hydroxide> ok. I move that we set the next board meeting, i.e. the annual board meeting, to occur at 2000 UTC on July 8th
+16:31 < Hydroxide> that will avoid conflicts with Canada Day and travel to DebCamp
+16:31 < Hydroxide> and be on the same day of the week
+16:31 < cdlu> suits me
+16:31 < schultmc> fine with me
+16:31 < Ganneff> that should work
+16:31 < Hydroxide> going.....
+16:31 < luk> I might still be abroad
+16:32 < Hydroxide> going....
+16:32 < luk> or driving home
+16:32 < Hydroxide> luk: it's ok, we'll manage, either with you electronically or otherwise
+16:32 < Hydroxide> :)
+16:32 < zobel> fine with me
+16:32 < Hydroxide> *GAVEL*

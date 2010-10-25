@@ -1,0 +1,350 @@
+--- Log opened Wed Apr 16 00:00:13 2008
+00:18 -!- Joy [~joy@joy.dtho.CARNet.hr] has quit [Quit: sleep]
+04:12 -!- luk__ [~luk@luk.netrep.oftc.net] has quit [Ping timeout: 480 seconds]
+06:10 -!- _rene_ [~rene@dslb-088-064-129-138.pools.arcor-ip.net] has quit [Ping timeout: 480 seconds]
+06:17 -!- _rene_ [~rene@dslb-088-064-144-004.pools.arcor-ip.net] has joined #spi
+06:17 -!- _rene_ is "Rene Engelhard" on #spi #debian-kernel #debian-release #debian-devel #debianppc #debian-java #debian-oo
+06:41 -!- luk is "Luk Claes" on #debian-bugs #dalug-farm #britney2 #devscripts #debian-arm
+06:41 -!- luk [~luk@luk.netrep.oftc.net] has joined #spi
+10:16 -!- Solver_ [~robert@rbrockway.tor.istop.com] has joined #spi
+10:16 -!- Solver [~robert@rbrockway.tor.istop.com] has quit [Read error: No route to host]
+10:16 -!- Solver_ is "Robert Brockway" on #spi #humbug
+17:09 -!- luk_ is "Luk Claes" on #debian-arm #Oftc-Staff
+17:09 -!- luk_ [~luk@luk.netrep.oftc.net] has joined #spi
+17:16 -!- luk [~luk@luk.netrep.oftc.net] has quit [Ping timeout: 480 seconds]
+17:28 -!- azeem_ [~mbanck@ppp-88-217-1-62.dynamic.mnet-online.de] has joined #spi
+17:28 -!- azeem_ is "Michael Banck" on #debian-soc #debian-dpl-debate #debian-dpkg #debian-women #debian-devel #debian-release #spi #debian-devel-fr #debian-glibc #debian-ops #debian-talk #debian-tech #debian
+17:34 -!- azeem [~mbanck@ppp-88-217-43-227.dynamic.mnet-online.de] has quit [Ping timeout: 480 seconds]
+18:41 -!- Solver [~robert@CPE00a0c96b79ba-CM001cea35fd4e.cpe.net.cable.rogers.com] has joined #spi
+18:41 -!- Solver is "Robert Brockway" on #spi #humbug
+18:41 < slef> hi Solver - what was with the No Route to Host?
+18:43 -!- Solver_ [~robert@rbrockway.tor.istop.com] has quit [Ping timeout: 480 seconds]
+18:49 -!- Solver [~robert@CPE00a0c96b79ba-CM001cea35fd4e.cpe.net.cable.rogers.com] has quit [Remote host closed the connection]
+18:49 -!- Solver [~robert@rbrockway.tor.istop.com] has joined #spi
+18:49 -!- Solver is "Robert Brockway" on #spi #humbug
+18:54 -!- linuxpoet [~jd@or-69-34-217-90.sta.embarqhsd.net] has joined #spi
+18:54 -!- linuxpoet is "Joshua D. Drake" on #spi
+19:30 -!- Sledge [steve@lump.einval.com] has joined #spi
+19:30 -!- Sledge is "Steve McIntyre" on #spi #debian-release #debian-lists #debian-uk #debian-tech #debian-cd @#debian-soc #debconf-team
+19:31  * Sledge waves
+19:33 -!- azeem_ is now known as azeem
+19:44 -!- Noodles [~noodles@the.earth.li] has joined #spi
+19:44 -!- Noodles is "Jonathan McDowell" on #spi #debian-uk #alug #expats
+19:45 < Noodles> I cleverly just joined #spit. My fingers trying to tell me something?
+19:45 < Sledge> :-)
+19:49 < Hydroxide> hi all
+19:50 < sam> 'evening
+19:53 < marga> Before the meeting starts, schultmc: I haven't received the electronic version of the commitment, were you able to do it?
+19:54 < schultmc> marga: not yet - I'll get it to you this evening - sorry for the delay
+19:55 < marga> schultmc: ok.
+19:55 < zobel> evening
+19:55 -!- BrucePerens [~val@dsl081-245-138.sfo1.dsl.speakeasy.net] has joined #spi
+19:55 -!- BrucePerens is "Valerie Gilbert-Perens" on #spi
+19:56 -!- ore [~romain@home.orebokech.com] has joined #spi
+19:56 -!- ore is "Romain Francoise" on #spi #debian-devel-fr #debian-women #debian-devel
+19:57  * Hydroxide is slightly unsettled by how few board members have commented here in recent minutes
+19:58  * cdlu shrugs unworriedly
+19:58 < Hydroxide> hi there
+19:58 < Hydroxide> :)
+19:58 < linuxpoet> ?
+19:58 < Hydroxide> linuxpoet: was just wondering about quorum issues, that's all
+19:58 < Hydroxide> hi there
+19:58 < Hydroxide> well, quorum and presiding-officer issues
+19:59 < linuxpoet> are there presiding officer issues?
+19:59  * bdale hopes not
+19:59 < Hydroxide> hi there :)
+19:59 < Hydroxide> you all are very surreptitious
+19:59 < zobel> "Items up for discussion: New Debian Project Leade" <-- is there anything to discuss on it? :)
+19:59 < BrucePerens> Off with his head :-)
+19:59 < schultmc> not discuss, just mention for those not following the election
+19:59 < zobel> Sledge is, what do we need to discuss about the vote? :)
+19:59 < Sledge> pfft
+19:59 < linuxpoet> so someone else jumped out a window after trying to lead Debian?
+20:00 < cdlu> here!
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:00 < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2008/2008-04-16.html
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:00 < bdale> Guests (including board advisors), please /msg your names to Maulkin if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < bdale> Neil, any regrets?
+20:00 < schultmc> Michael Schultheiss
+20:00 < Hydroxide> Jimmy Kaplowitz
+20:00 < linuxpoet> Joshua Drake
+20:00 < bdale> Hrm.  Neil himself was a tentative regret...
+20:00 < schultmc> bdale: just Neil :)
+20:00 < zobel> Martin Zobel-Helas
+20:00 < bdale> Bdale Garbee
+20:00 < cdlu> David Graham 
+20:00 < bdale> ok, I'm logging the channel as usual, but is anyone specifically prepared to cover for Neil?
+20:00 < BrucePerens> Maulkin not here yet.
+20:01 < Sledge> Maulkin's out canvassing for local council elections in Cambridge
+20:01 < bdale> I believe we have quorum
+20:01 < Hydroxide> hopefully Maulkin will still check his screen session and record names of guests from /msg
+20:01 < Sledge> yeah, he said he would
+20:01 < Hydroxide> ok
+20:01 < bdale> who else is missing?
+20:01 < zobel> bdale: Ganneff?
+20:01 < schultmc> luk, Ganneff...
+20:02 < Ganneff> Joerg Jaspert
+20:02 < bdale> luk_: ??
+20:02 < luk_> Luk Claes
+20:02 < cdlu> bdale, we're quorate anyway
+20:02 < bdale> bingo, thanks all
+20:02 < bdale> [item 3, President's Report]
+20:02 < bdale> I note in passing that the OSI has seated a new board, including former DPL and SPI advisor Martin Michlmayr.
+20:02 < bdale> Nothing else to report.
+20:03 < cdlu> cool
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Michael?
+20:03 < schultmc> I'm still working with Josh Berkus to get all the data necessary for a proper treasurer's report
+20:03  * schultmc created a draft report that doesn't yet include the recent credit card donations but it's more than we've had previously
+20:04 < Hydroxide> schultmc: I see the draft report in the agenda. what time period does it cover?
+20:04 < schultmc> the draft report is linked from the agenda
+20:04 < Hydroxide> schultmc: the expenses seem rather large for one month
+20:04 < bdale> schultmc: hrm.  our ability to deliver an annual report is blocked waiting for a report we can include.  What's the current prognosis?
+20:04 < schultmc> Hydroxide: from the start of the data entry system until this morning
+20:04 < Hydroxide> schultmc: aah.
+20:04 < Hydroxide> schultmc: do you know what that time frame is?
+20:05 < schultmc> bdale: it's also stalled on the credit card data entry - I'll get that taken care of ASAP
+20:05 < schultmc> Hydroxide: I entered 2000-01-01 through 2008-04-16 but we didn't start using this system until 2006 iirc
+20:05 < Hydroxide> schultmc: hrm. very confusing since we have definitely had treasurer's reports subsequent to 2000-01-01 (I know both branden and I did a bunch)
+20:05 < bdale> schultmc: not to be pushy, but I'm having a hard time figuring out how much progress is being made.  This is important stuff, yet seems to be dragging out.  Is there anything I or others on the board can do to help?
+20:07 < schultmc> bdale: not at this time - Josh has been handling the credit card data entry himself in the past and his travel schedule makes him too busy to handle that - I'm taking that over and will have us caught up ASAP (1-2 weeks max I estimate)
+20:07 < bdale> schultmc: ok.  do you believe we'll be able to have a report before the next board meeting?
+20:07 < schultmc> other than the credit card donations, we're caught up as of the last bank visit
+20:07 < schultmc> bdale: yes, definitely
+20:08 -!- lucas [~lucas@xanadu.blop.info] has joined #spi
+20:08 -!- lucas is "Lucas Nussbaum" on #spi #debian-devel-fr #debian-devel #debian-qa #debian-release #debian-mentors #debian-devel-changes #debian-newmaint #debian-ruby #aldil #debian-soc
+20:08 < bdale> schultmc: ok, that's good news.  let's stay in sync in the meantime, the sooner I can get something to use to trigger emitting an annual report the happier I'll be!
+20:08 < bdale> anything else?
+20:08 < schultmc> not from me
+20:08 < bdale> k
+20:08 < bdale> [item 5, Secretary's report]
+20:08 < bdale> has Neil arrived?
+20:08 < cdlu> I don't expect Neil to arrive
+20:08 < bdale> doesn't look like it
+20:08 < bdale> anyone have a report from him?
+20:08 < cdlu> election night for him
+20:08 < bdale> ah, ok
+20:09 < Hydroxide> schultmc: one more question for you ... any status update on the form 1023 request?
+20:09 < Hydroxide> (and the corresponding approval letter request)
+20:09 < schultmc> Hydroxide: the request has been submitted to the IRS and they've cashed the check (fee for form request) so it's in their queue
+20:10 < bdale> ok, great, let's move on
+20:10 < Hydroxide> schultmc: ok, thanks.
+20:10 < bdale> with no Neil, I assume we don't have minutes?
+20:10 < bdale> to approve, I mean
+20:10 < schultmc> none linked from the agenda
+20:10 < bdale> right
+20:10 < bdale> ok, let's keep moving
+20:10 < Hydroxide> bdale: his announcement email said there were zero to approva
+20:10 < Hydroxide> heh, interesting typo there
+20:11 < bdale> Hydroxide: thanks, I guess I missed that detail
+20:11 < bdale> [item 7, Items up for discussion]
+20:11 < bdale> [item 7.1, Debian logo license ]
+20:11 < bdale> What's up here?
+20:11 < Hydroxide> as far as I know, nothing to discuss this meeting. I don't know why this was left on the agenda from last meeting.
+20:11  * schultmc thought we voted on that last month
+20:11 < bdale> me too
+20:11 < Hydroxide> also, Neil's mail mentioned one motion to approve, but neither that nor the agenda links to a motion.
+20:11 < bdale> I'm willing to believe there might have been some followup, but seems just as likely it's an over-zealous cut n paste?
+20:12 < linuxpoet> I am thinking cut n paste fury
+20:12 < bdale> ok
+20:12 < Hydroxide> probably
+20:12 < bdale> [item 7.2, New Debian Project Leader ]
+20:12 < bdale> The Debian project has elected Steve McIntyre as their new DPL.  It has been our tradition to treat the sitting DPL as an SPI board advisor.
+20:12 < bdale> I believe Steve is on channel, Sam may be too?  Do we need to take any explicit action?
+20:12  * Sledge will slap him when he turns up later
+20:12 < cdlu> bdale, it's not tradition, it's legislated
+20:12  * bdale is ok with that
+20:12 < sam> note that I'm still the sitting DPL for almost 5 hours :)
+20:12 < Sledge> :-)
+20:12 < Hydroxide> although, we usually vote on new advisors, right?
+20:12 < bdale> ergo my question
+20:12 < Ganneff> dont think we need to do stuff - the membership is for leader@d.o (including the mail lists) :)
+20:13 < cdlu> hydroxide, member project leaders are always advisors
+20:13 < Hydroxide> cdlu: with no vote? gotcha.
+20:13 < cdlu> adding sam is fine with me
+20:13 < cdlu> (back in)
+20:13 < cdlu> if that's what we want
+20:13 < bdale> what does sam want?  ;-)
+20:13 < sam> I'd be happy to
+20:14 < bdale> I'm happy to have sam's opinions on things, but I'm ambivalent about whether we need to annoint him as an advisor in order to listen to him.
+20:14 < cdlu> Steve could always appoint Sam as Debian's advisor in his place
+20:14 < bdale> what privs does that status convey?  access to the -board list?
+20:14 < cdlu> basically
+20:15 < sam> oh, it's not that I lack communication channels to contact any SPI members anyway
+20:15 < Sledge> sam and I can work this out later, I'm sure, if there's anything needed from/for Debian
+20:15 < Ganneff> umm. if we go and appoint every ex-dpl as an advisor we end up with lotsa people on the list soon
+20:15 < bdale> right
+20:16 < bdale> ok
+20:16 < bdale> let's not take any explicit action today, then
+20:16 < cdlu> bdale, http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj-dbg.3
+20:16 < sam> like Ganneff says. I don't think I need anything special
+20:16 < cdlu> for reference.
+20:16 < bdale> advisorship will move from sam to Sledge, we can entertain a motion to add sam later if anyone feels the need.  ok?
+20:16 < cdlu> works for me
+20:16 < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:17 < Hydroxide> does anyone know if we've taken care of whatever one motion neil referred to in his announcement email?
+20:17  * bdale assumes that was related to the mistaken logo item
+20:17 < bdale> or perhaps the DPL change
+20:17 < Hydroxide> ah.
+20:17 < bdale> unclear
+20:17  * Hydroxide has nothing else to discuss now
+20:18 < bdale> hopefully we'll be a bit more organized again by next month
+20:18 < Hydroxide> yep.
+20:18 < bdale> [item 8, Next board meeting]
+20:18 < bdale> I believe our default would be Wednesday 21st May, 2008 - 19:00 UTC?  Works for me.  Any strong objections?
+20:18 < luk_> only minor :-)
+20:18 < cdlu> that timeslot works for me.
+20:19 < luk_> so no need to change it
+20:19  * bdale counts to 10
+20:19 < bdale> Ok, thank you to everyone present for participating today.
+20:19 < bdale> *GAVEL*
+20:19 < cdlu> thanks bdale
+20:19 -!- BrucePerens [~val@dsl081-245-138.sfo1.dsl.speakeasy.net] has quit [Quit: Leaving]
+20:19 < luk_> thanks bdale
+20:19 < zobel> Notification mails from the secretary arrive quite close to the actual meeting. we should do something about that.
+20:19 < cdlu> *** Signoff, #spi: BrucePerens (Quit: Leaving)
+20:19 < bdale> yes, I think it was an oversight this month
+20:19 < cdlu> election must be coming :)
+20:20 < bdale> cdlu: he failed to be elected to the OSI board
+20:20 < cdlu> zobel, I should note that the meetings are always scheduled at the previous meetings, and so they should take place whether or not the secretary sends a followup
+20:20 < cdlu> bdale, ya
+20:20 < Sledge> Maulkin should know if he's been elected in 15 days or so, then things should calm down a little
+20:20 < cdlu> I gathered from your announcement about tbm :)
+20:20 < Hydroxide> Sledge: if he's not elected, you mean :)
+20:20 < slef> bdale: and the last two months?
+20:21 < bdale> cdlu: they elected two new members, I thought tbm was worthy of mention because of his prior affiliation here
+20:21 < Sledge> Hydroxide: :-)
+20:21 < cdlu> ya, I agree that he is
+20:21 < slef> Sledge: which way does his ward swing, do you know?
+20:21 < bdale> slef: I'm not happy with the trend line
+20:21 < bdale> what's he running for?
+20:21 < zobel> cdlu: ack, 
+20:22 < slef> bdale: we're moving from zero-day to zero-hour, you mean?
+20:22 < cdlu> lib-dems 
+20:22 < slef> bdale: city council I think
+20:22  * slef checks
+20:22 < Sledge> slef: he's in a marginal at the moment
+20:22 < cdlu> bdale, http://www.cambridge.gov.uk/ccm/content/reception-and-office-services/elections/nominated-candidates-2008.en;jsessionid=494CDA984968005E6287014DC26D6753
+20:22 < slef> http://blog.halon.org.uk/geek/offline-references.html
+20:23 < bdale> slef: I'm more worried about having the agenda established in timely fashion so that controversial items can get discussion prior to meeting time than I am about the logistics of meeting announcements, but in both cases we're not performing as well now as we were, say, 6 months ago
+20:23 < slef> "I'm running for local government as the Liberal Democrat candidate for King's Hedges City Councillor in Cambridge."
+20:23  * cdlu plans to run for city council here in 2010
+20:23 < cdlu> SPI is a strange breeding ground apparently :)
+20:24 < slef> I'm going to send apologies to my first council meeting as councillor, which is ironic :)
+20:24 < Hydroxide> slef: did you get elected to something?
+20:24 < slef> Hydroxide: yeah, only the village council.
+20:25 < Hydroxide> slef: congrats!
+20:25 < cdlu> slef, oh cool, congratulations. :)
+20:25 < Sledge> slef: congratulations too :-)
+20:25 < slef> Hydroxide: outside of debian-related things, I do sometimes get elected... I'm also a director of the regional cooperative federation.
+20:25  * cdlu doesn't get elected much but does work hard at getting other people elected :)
+20:27 < slef> thanks all, by the way
+20:27 < slef> cdlu: I
+20:27  * linuxpoet can't run for city council
+20:27 < slef> cdlu: I've done that in the past, for two different parties ;-)
+20:27 < linuxpoet> I have a tendency to not live in city limits
+20:27 < Hydroxide> slef: right, I know you're very involved in coop stuff from reading your blog on planet debian. I quite respect that. I was more congratulating you on holding an elected government office, even if it's an extremely local one
+20:27 < cdlu> slef, which two?
+20:27 < bdale> linuxpoet: ditto.  would have to be board of county commissioners, which is a big deal around here at least.
+20:28  * cdlu doubts it was lib-dems and tories :)
+20:28 < slef> cdlu: LD and Green
+20:28 < cdlu> ah, cool
+20:28 < linuxpoet> bdale: yeah I could do the commissioner thing
+20:28 < linuxpoet> but I am a little busy
+20:28 < Hydroxide> well, my most local government position would be New York City Council
+20:29 < bdale> linuxpoet: right, my impression is that our county has enough stuff going on that doing the kind of quality job I'd feel compelled to do would take far more time than I'm willing to commit right now
+20:29 < Hydroxide> and that's nontrivial :)
+20:29 < Hydroxide> both in terms of getting elected and in staying on
+20:29 < cdlu> slef, my crowning achievement to date was the utter and total destruction of a pro-proportional representation campaign in a referendum here last fall, on a budget approximately 1/10th of 1% the other side's.
+20:29 < Hydroxide> err, in terms of doing the job, I mean
+20:29 < linuxpoet> I am currently busy allowing the Elephant to kill the Dolphin. I want to focus on that
+20:30  * bdale gets called away... later, all!
+20:30 < Hydroxide> bye bdale
+20:30 < slef> Hydroxide: yeah, cities are a bigger challenge
+20:30 < Sledge> ttfn folks
+20:30 -!- Sledge [steve@lump.einval.com] has left #spi []
+20:31 < Hydroxide> slef: especially the US's biggest city and one of the world's major cities
+20:31 < slef> Hydroxide: I think our village budget is comparable to some nearby towns, which is an accident of geography: the village doubles in size with tourists in the summer.
+20:31 < cdlu> in big cities you're fighting for a full time job as a representative, not just meetings that take little more time than SPI board meetings
+20:31 < Hydroxide> cdlu: yep
+20:31 < cdlu> in this town it's a part time job 
+20:32 < Hydroxide> cdlu: not sure if it's full-time in the sense of year-round, but definitely full-time when in session
+20:32  * cdlu hopes it's a full time job by the time he runs for it
+20:32 < linuxpoet> cdlu: do you really want the paycut?
+20:32 < Hydroxide> although, I think even NY state legislators are allowed to hold another job
+20:32 < cdlu> linuxpoet, what makes you think I make much?
+20:32 < cdlu> :)
+20:32 < Hydroxide> not sure
+20:32  * cdlu hates money and loves policy
+20:32 < linuxpoet> it doesn't take much to make more than a city council person
+20:32 < slef> linuxpoet: depends on the city?
+20:33 < cdlu> linuxpoet, well, if I became a full time city councillor it'd be a pay increase for me. 
+20:33 < cdlu> but that doesn't affect my judgement of the job. I want it to effect change.
+20:33 < linuxpoet> slef: oh certainly but even larger cities such as PDX don't make *a lot*
+20:33 < Hydroxide> linuxpoet: in NYC, a city council member receives $112,500 in base, with various opportunities for additional compensation
+20:33 < linuxpoet> O.k. but in NYC... that isn't that much
+20:34 < linuxpoet> In Portland, that is quite a bit
+20:34 < schultmc> city-county councillors in Indianapolis make about $13k
+20:34 < cdlu> in NYC you can't live on that :)
+20:34 < Hydroxide> linuxpoet: yes it is quite a bunch, even here
+20:34 < cdlu> here you can live on half that quite comfortably
+20:34 < linuxpoet> I couldn't live on half that, but I have 3 kids
+20:34 < linuxpoet> with no kids I could easily live on half of that
+20:34  * cdlu has no kids
+20:34 < Hydroxide> cdlu: knowing from firsthand experience, it's still a lot even in NYC
+20:34 < cdlu> my wife is a grad student at the university who makes nearly as much as I do from scholarships and grants :)
+20:34 < Hydroxide> don't assume that everyone here is a wall street investment banker :)
+20:35 < slef> Bristol City Council's leader gets £42,500
+20:35 < Hydroxide> there are lots of middle and lower class people in NYC too
+20:36 < slef> local councillors' pay here went up by 20 to 51 per cent this month
+20:36 < cdlu> slef, cool, now you can buy *two* coffees. :)
+20:37 < slef> sorry, I mean the next level up
+20:37 < slef> village councillors get naught AFAIK
+20:37  * linuxpoet can't buy coffee for 51 cents a cup
+20:37 < cdlu> you should make it yourself, it's cheap. :)
+20:38 < slef> well, coffee and biscuits at meetings
+20:38 < cdlu> slef, hehe
+20:38 < linuxpoet> :P
+20:38 < cdlu> councillors here make about $25K a year (CAD) working part time
+20:38 < cdlu> not sure what it would be if they went full time
+20:39 < cdlu> but probably not as much as senior city staff
+20:39 < cdlu> city clerk here makes $132K
+20:39 < slef> Just in case anyone didn't see it: http://mjr.towers.org.uk/writing/reflections/Better_Free_Software_Organisations_.html
+20:39  * Hydroxide heads away - bye for now
+20:40 < linuxpoet> slef: You want my honest opinion :P
+20:40  * slef checks /whois
+20:41 < slef> linuxpoet: yeah
+20:41 < linuxpoet> I think most FOSS developers are more interested in the "idea" of being associated with a NPO than actually doing the work required to make it successful
+20:41 < slef> participation without responsibility, you mean?
+20:42 < linuxpoet> yeah
+20:42 < linuxpoet> We have lots of people who are willing to rant off on a mailing list
+20:42 < linuxpoet> few that are willing to take the actual time and energy required to get other important (and frankly boring) things done
+20:44 < slef> Ah, but there are also some who will challenge ranters by asking if they're willing to put the work in, then back down if the ranter says yes...
+20:44 < slef> excuse me, just off to stick my head in the floor, back in 2
+20:48 < slef> back
+20:51 < slef> linuxpoet: any ideas how to make it work / make things better?
+20:51 < linuxpoet> heh
+20:52 < linuxpoet> I believe in having people do what they are good at
+20:52 < linuxpoet> or what they are paricularly qualified for
+20:52 < linuxpoet> The reason I pushed so hard for the financial provider review and subsequent approval of paysimple is it is a particular task that I know quite a bit about and that SPI needed
+20:52 < linuxpoet> but notice I have not offered and actually explicitly stated I would not be treasurer
+20:53 < linuxpoet> The task involved some stuff I would rather not have done but I accepted that was part of the task
+20:54 < linuxpoet> and did it anyway
+20:57 < linuxpoet> and then just to keep a glass half full mentality, I think a lot of people think that this whole NPO thing won't take up much time 
+20:57 < linuxpoet> when in fact it does... a lot, if you want to do it right
+20:57 < slef> yeah, I just replied rudely to the gobolinux developers going "hey, let's create an NPO and assign our copyrights to it"
+20:57 < slef> :)
+20:58 < slef> unexpected dinner here... thanks for your input... maybe catch you some other time... final point: someone has suggested reposting the article to the front of advogato.  Good/bad/ugly?
+21:00 < linuxpoet> I think it is a good article
+21:00 < linuxpoet> So go for it
+21:05 -!- linuxpoet [~jd@or-69-34-217-90.sta.embarqhsd.net] has left #spi []
+21:12 < Maulkin> Damn people keeping me busy complaining on doorsteps. I mean, erm, wonderful electorate who provide an essential part in communicating local problems throughout the government and are an essential part of the democratic process.
+21:35 < bdale> complaining, or campaigning?
+21:35 < cdlu> hehe
+21:35 < bdale> oh, perhaps complaining *to* you?
+21:35  * bdale didn't read that well the first time
+23:09 < Maulkin> bdale: yes :P
+--- Log closed Thu Apr 17 00:00:53 2008

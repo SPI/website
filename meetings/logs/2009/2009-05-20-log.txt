@@ -1,0 +1,146 @@
+--- Log opened Wed May 20 16:03:29 2009
+16:03 < schultmc> cdlu, luk: ping
+16:03 < luk> Luk Claes
+16:04 < Hydroxide> hrm. maybe people got thrown by the fact that the reminder was 48 hours in advance?
+16:04 < Hydroxide> we have tentative regrets from Neil McGovern
+16:04 < cdlu> David Graham
+16:04 < Hydroxide> we need 1 more board member for quorum
+16:05 < Hydroxide> can someone contact Bdale or Joshua or Martin?
+16:05  * schultmc can call Josh
+16:05 < Hydroxide> schultmc: Drake, remember, not Berkus. Thanks.
+16:05 < schultmc> Hydroxide: I know
+16:05 < Hydroxide> ok
+16:06 < Hydroxide> for everyone who's here, look at the agenda if you haven't already: http://www.spi-inc.org/secretary/agenda/2009/2009-05-20.html
+16:06 -!- linuxpoet [~jd@75.142.153.203] has joined #spi
+16:06 < Ganneff> zobel wont, he is somewhere south france. no net
+16:06 < linuxpoet> ji
+16:06 < Hydroxide> linuxpoet: hi. state your name for the record, then we can begin
+16:06 < linuxpoet> Joshua D. Drake
+16:06 < Hydroxide> great. quorum.
+16:06 < Hydroxide> no president's report.
+16:06 < Hydroxide> schultmc: Treasurer's report. go! :)
+16:07 < schultmc> A routine treasurer's report was sent out and is in the agenda
+16:07 < Hydroxide> any questions or discussion regarding that?
+16:07 < Hydroxide> no?
+16:07 < schultmc> the bulk of April's donations were deposited on 2009-05-01 which is why this report shows a less than typical amount of income
+16:08 < schultmc> </done>
+16:08 < Hydroxide> schultmc: ah, that is a good point
+16:08 < Hydroxide> schultmc: what happened with the form 990?
+16:08 < Hydroxide> schultmc: has something been filed?
+16:08 < schultmc> Hydroxide: the 2008 form 990 has not yet been filed - I need to get the appropriate data to the accountant
+16:09 < Hydroxide> schultmc: did we at least file an extension? if I'm not mistaken (I may be), the deadline for filing that was May 15
+16:09 < schultmc> Hydroxide: the accountant automatically files extenstions for us
+16:09 < Hydroxide> schultmc: ok, good. so that actually happened?
+16:09 < schultmc> Hydroxide: I believe so, yes
+16:09 < Hydroxide> that's all from me. any other questions?
+16:09 < cdlu> not from me 
+16:09 < linuxpoet> I am good
+16:09 < Hydroxide> OK, moving on. My Secretary's report is in the agenda
+16:10 < Hydroxide> basically summarizing some SPI-related activity on behalf of DebConf10
+16:10 < Hydroxide> I'm happy to answer any questions
+16:10 < Hydroxide> anyone?
+16:10 < linuxpoet> Not I
+16:10 < devil> will this stuff be good for any non-debian members?
+16:11 < devil> i would like to attend debconf10
+16:11 < Ganneff> debconf isnt limited to debian people
+16:11 < Hydroxide> devil: yes. if there's anyone who the DebConf organizers believe is honestly intending to attend DebConf and leave before the visa expires, and not immigrate illegally, we'll be glad to provide the same visa assistance.
+16:11 < devil> i know
+16:11 < Ganneff> so you can. you might not get travel sponsorship if unknown and lotsa others ask that are known, but you are welcome for sure.
+16:11 < devil> Hydroxide: thxx
+16:11 < Hydroxide> devil: being a Debian developer isn't necessary - in fact, although the person my report refers to does contribute to Debian, he's not a DD.
+16:12 < Hydroxide> devil: even without our visa assistance, you're welcome to attend if you can get here :)
+16:12 < Hydroxide> any other questions?
+16:12 < Ganneff> like, we did have gentoo people in the past :)
+16:12  * Hydroxide nods at Ganneff 
+16:12 < devil> Hydroxide: well, i live in DE, so should be no prob really
+16:12 < Hydroxide> devil: if you're a german citizen you don't need a visa
+16:12 < Ganneff> now, thats not really for this meeting :)
+16:12 < Hydroxide> right
+16:12 < linuxpoet> where is debconf10 being held?
+16:13 < Hydroxide> ok, moving on
+16:13 < Hydroxide> oh
+16:13 < devil> Hydroxide: ups, last time i visited US was ~ 25 years ago :)
+16:13 < Hydroxide> linuxpoet: New York City
+16:13 < Hydroxide> linuxpoet: columbia university
+16:13 < linuxpoet> very cool
+16:13 < Hydroxide> yes
+16:13 < Hydroxide> any other questions from board members or directly report-related questions from anyone?
+16:13 < Hydroxide> ok, moving on
+16:14 < Hydroxide> Two sets of minutes to approve today. the first set was approved last month, but I made a typo in Julien Cristau's name (listed him as Jilien)
+16:14 < Hydroxide> no other changes
+16:14 < Hydroxide> any objection to voting on that?
+16:14 < Ganneff> err
+16:14 < Hydroxide> or should we just say "done, move on"
+16:14 < Ganneff> we do not really have to vote on a name spelling fix?
+16:14 < Ganneff> thats insane
+16:14 < Hydroxide> ok
+16:14 < cdlu> no objection to voting on it but it seems unnecessary. update the record and be done with it. :)
+16:14 < Ganneff> thats no content change
+16:14 < Hydroxide> I'll note that it was changed by unanimous consent
+16:14 < Ganneff> none that matters.
+16:14 < linuxpoet> agreed
+16:14 < Hydroxide> next one: last month's
+16:14 < cdlu> it's not like a vote changed :)
+16:14 < Hydroxide> right
+16:14 < Hydroxide> is everyone ready to vote on last month's minutes?
+16:15 < jcristau> Ganneff: it matters a lot! :)
+16:15 < luk> lol
+16:15 < Ganneff> go vote
+16:15 < Hydroxide> Voting started, 2 people (april 15th, 2009 minutes) allowed to vote on Ganneff,luk,cdlu,Hydroxide,linuxpoet,schultmc. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:15 < cdlu> Hydroxide, I'm prepared to vote
+16:15 < Hydroxide> oops
+16:15 < cdlu> !vote yes
+16:15 < Hydroxide> Current voting results for "Ganneff,luk,cdlu,Hydroxide,linuxpoet,schultmc": Yes: 0, No: 0, Abstain: 0, Missing: 2 (  2009 minutes  april 15th )
+16:15 < Hydroxide> Voting for "Ganneff,luk,cdlu,Hydroxide,linuxpoet,schultmc" closed.
+16:15 < cdlu> haha
+16:15 < Hydroxide> Voting started, 6 people (ganneff,luk,cdlu,hydroxide,linuxpoet,schultmc) allowed to vote on April 15th, 2009. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:15 < Hydroxide> !vote yes
+16:15 < Ganneff> !vote yes
+16:15 < schultmc> !vote yes
+16:15 < cdlu> !vote yes
+16:15 < luk> !vote yes
+16:15 < linuxpoet> !yes
+16:15 < linuxpoet> !vote yes
+16:15 < Hydroxide> Current voting results for "April 15th, 2009": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+16:15 < Hydroxide> Voting for "April 15th, 2009" closed.
+16:16 < Hydroxide> OK, approved
+16:16 < Hydroxide> No items scheduled for discussion.
+16:16 < Hydroxide> Any other business?
+16:16 < linuxpoet> Its my birthday!
+16:16 < linuxpoet> :)
+16:16 < Hydroxide> linuxpoet: happy birthday Joshua!
+16:16 < Ganneff> my condolence
+16:16  * Hydroxide grins at Ganneff 
+16:16 < Hydroxide> anything else?
+16:16 < cdlu> linuxpoet, happy birthday :)
+16:16 < luk> happy birthday linuxpoet!
+16:16 < linuxpoet> thanks guys
+16:16 < schultmc> happy birthday!
+16:16 < cdlu> hydroxide, I'd just like to point out that next meeting is the last before the 2009 general elections
+16:16 < cdlu> hydroxide, if you want to start preparing the membership for that :)
+16:17 < Hydroxide> cdlu: right. do we need to do anything about that between now and then?
+16:17 < linuxpoet> We should start talking to -private about it
+16:17 < Hydroxide> or does the membership committee?
+16:17 < cdlu> make sure membership ctte is up to date and let people know how many seats are up for election so they can prepare to run
+16:17 < cdlu> that's all
+16:17 < Hydroxide> ok. does someone want to take charge of that?
+16:17  * cdlu gestures toward the secretary and his responsibility to manage the election
+16:17 < Hydroxide> fair enough :)
+16:17 < cdlu> :)
+16:17 < Hydroxide> I was going to be the default, but I thought I'd give people a chance to take the workload first
+16:17 < Hydroxide> ok
+16:17 < Hydroxide> I'll do it
+16:18 < Hydroxide> any other business?
+16:18 < linuxpoet> none here
+16:18 < cdlu> not from me. I may not be able to attend June meeting, to be seen.
+16:18 < Hydroxide> if not, the next board meeting would normally be Wednesday June 17th, 2009, same time of day (20:00 UTC)
+16:18 < Hydroxide> any objections?
+16:18 < schultmc> none here
+16:18 < linuxpoet> None here
+16:18 < Hydroxide> cdlu: would an alternative day or time work better for you?
+16:18 < cdlu> hydroxide, not really. June's a chaotic month for me.
+16:18 < Hydroxide> ok
+16:19 < Hydroxide> I think that's everything. going once...
+16:19 < Hydroxide> going twice...
+16:19 < Hydroxide> *GAVEL*
+--- Log closed Wed May 20 16:19:47 2009

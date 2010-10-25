@@ -1,0 +1,158 @@
+21:00 < bdale> *GAVEL*
+21:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+21:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+21:00 < bdale> and details of pending resolutions can be found on the web at:
+21:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-10-17.html
+21:00 < Maulkin> jberkus: I'd appreciate it if you respect board@ confidentiality
+21:00 -!- mc [many@mc.netop.oftc.net] has joined #spi
+21:00 < bdale> [item 2, Roll Call]
+21:00 < bdale> Board members, please state your name for the record.  As we have nine board
+21:00 < bdale> members, quorum for today's meeting is six.  Guests (including board advisors),
+21:00 < bdale> please /msg your names to Maulkin if you wish your attendance to be recorded
+21:00 < bdale> in the minutes of this meeting.
+21:00 < bdale> I saw the email from Martin Zobel-Helas indicating that he won't be able to
+21:00 < jberkus> Maulkin: oh, sorry
+21:00 < bdale> join us today, and Michael Schultheiss indicating last-minute that he has a
+21:00 < bdale> last-minute work meeting that will prevent his participation.  Neil, any 
+21:00 < bdale> other regrets?
+21:00 < cdlu> David Graham
+21:00 < Ganneff> Joerg Jaspert
+21:00 < jberkus> Josh Berkus
+21:00 < linuxpoet> Joshua Drake
+21:00 < bdale> Bdale Garbee
+21:00 < Maulkin> None others received
+21:00 < Maulkin> Neil McGovern
+21:00 < bdale> we have quorum, who's missing?
+21:01 < bdale> Luk?
+21:01 < linuxpoet> looks like it
+21:01 < bdale> if someone wants to try and poke Luk, please feel free.  since we have quorum, I will proceed
+21:01  * cdlu /msg pings
+21:01 < bdale> [item 3, President's Report]
+21:01 < bdale> I was reminded earlier today that we've never completed and published our
+21:01 < bdale> annual report.  I don't immediately recall whether that stalled waiting for
+21:01 < bdale> further treasurer input, or is entirely my fault.  Regardless, I'm hoping to
+21:01 < Ganneff> i did ping him
+21:01 < bdale> resolve that before our next meeting.
+21:02 < bdale> [item 4, Treasurer's Report]
+21:02 < bdale> Michael?
+21:02 < bdale> hrm... he had to leave for a meeting ... anyone else have anything to add here?
+21:03 < jberkus> We should be caught up to 10/1 on income, but I haven't had time to generate a report yet
+21:03 < bdale> jberkus: any estimate of when we might have one?
+21:04 < jberkus> not sure.  one of us needs to track down some discrepancies
+21:04 < jberkus> I know I don't have time
+21:04 < jberkus> not sure what's going on with Michael
+21:04 < bdale> ok.  sounds like I should sync with Michael later then about this and to wrap up our annual report.  I'll consider that an action item for me.
+21:05 < bdale> [item 5, Secretary's report]
+21:05 < bdale> Neil?
+21:05 < Maulkin> OFTC has held an election.
+21:05 < Maulkin> Peter Palfrader is the new chair of OFTC and they have voted
+21:05 < Maulkin> to remain an associated project of SPI.
+21:05 < Maulkin> Other than that, no specific mail received to secretary@
+21:05 < cdlu> unanimously :)
+21:05 -!- Joy [~joy@joy.dtho.CARNet.hr] has quit [Quit: sleep]
+21:05 < Maulkin> Yup
+21:05 < bdale> any changes in representation here to be expected as a consequence of the election?
+21:06 < Maulkin> The response when I asked was something along the lines of:
+21:06 < Ganneff> bdale: no
+21:06 < Maulkin> "With a 44% representation on the board, we feel our views are available enough already"
+21:06 < Ganneff> oftc is represented very well in spi, so currently no change to the advisor/observr role
+21:06 < Ganneff> hehe
+21:07 < bdale> ok, very good.  then I congratulate Peter on his election and am sure SPI will continue to enjoy working with OFTC.
+21:07 < bdale> [item 6, Outstanding minutes]
+21:07 < bdale> Neil, what's ready for us today?
+21:07 < Maulkin> Good news and bad.
+21:07 < bdale> Maulkin: feel free to elaborate.  ;-)
+21:07 < Maulkin> For the first time in the last two years, we are caught up on minutes.
+21:08  * linuxpoet golf claps
+21:08 < bdale> is that the good news or the bad?  ;-)
+21:08 < Maulkin> Unfortunately, I'll not be presenting these this meeting, due to the required time it will take to review them (especially teh video one)
+21:08 < cdlu> on the plus side
+21:08 < bdale> ok, so we can expect a mega-minutes-item on next month's agenda, and everyone on the board should plan to make time to review them including the video?
+21:08 < cdlu> that gives us most of a month to review them :)
+21:09 < jberkus> wow
+21:09 < jberkus> congrats, Neil
+21:09 < Maulkin> As an aside, I would advise re-evaluating how real-life meetings integrate with IRC, as extracting the minutes from a video is very involved and elongated.
+21:09 < jberkus> Maulkin: if SPI does another RL meeting, someone should take paper minutes
+21:09 < bdale> I agree.  I commented on channel but before the meeting that I think we should have either in-real-life or IRC meetings, but not try the hybrid approach again.
+21:10 < Maulkin> Thus, we should be able to have all minutes up to date and ready for approval next month.
+21:10 < Maulkin> <done>
+21:10 < jberkus> bdale: the hybrid was a fallback aftter the video/audio failed
+21:10 < bdale> jberkus: agreed, video for minutes didn't work well is a key point
+21:10 < bdale> ok, thanks Neil.  I'm looking forward to next month, then!
+21:10 < bdale> [item 7, Items up for discussion]
+21:10 < bdale> We have nothing on our agenda here this month.
+21:10 < bdale> Do any board members have something brief that should be addressed here today?
+21:11 < linuxpoet> I do
+21:11 < bdale> linuxpoet: you have the floor
+21:11 < linuxpoet> Just a quick report
+21:11 < linuxpoet> I have been in contact with CentOS and Foresight Linux about possible SPI inclusion
+21:11 < linuxpoet> They are discussing
+21:11 < linuxpoet> Haskell contacted me directly via CosmicRay about the same possibility
+21:12 < linuxpoet> I have it on my TODO to start the financial provider review after PostgreSQL Conference
+21:12 < linuxpoet> PostgreSQL Conference is already past expectations, so thank you to SPI from PostgreSQL for helping us with this.
+21:12 < linuxpoet> And lastly, I have a meeting with Software Freedom Law Center
+21:12 < linuxpoet> On monday
+21:13 < jberkus> ah, who?
+21:13 < linuxpoet> Daniel Ravicher
+21:13 < bdale> ok, thanks for the report.  please keep me in the loop on the SFLC interaction.
+21:13 < linuxpoet> of course
+21:13 < linuxpoet> I will report in full to board
+21:13 < Ganneff> thx
+21:13 < linuxpoet> <done>
+21:13 < bdale> anyone else?
+21:14 < Maulkin> linuxpoet: Could you keep board@ in cc: for mails by the way? Just so we know what's going on :)
+21:14 < jberkus> me.
+21:14 < cdlu> linuxpoet, one comment if I could... would it be possible to CC board on all contacts about bringing in additional projects to keep everyone in the loop?
+21:14 < Maulkin> Then me :)
+21:14 < jberkus> I don't feel that I'm being able to provide adequate support to Michael given my current travel schedule.
+21:14 < linuxpoet> I had planned on doing so, once true interest was shown by the project
+21:14 < linuxpoet> but I can initiate elearler
+21:14 < bdale> jberkus: noted.  any suggested action?
+21:14 < linuxpoet> err earlier
+21:15 < jberkus> jberkus: if someone else has more time, and is interested in helping with treasurer work
+21:15 < jberkus> I'd be happy to give them my "deputy" title
+21:15 < bdale> linuxpoet: just letting the board know is sufficient in the early stages, today was fine, email would also be fine
+21:15 < bdale> jberkus: ok, sounds like something we can/should discuss with Michael
+21:15 < linuxpoet> jberkus: What does "deputy" entail
+21:15 < jberkus> yeah
+21:15 < bdale> let's take the details outside the meeting, please
+21:16 < jberkus> ok
+21:16 < bdale> Maulkin: you had an item?
+21:16 < Maulkin> Quick report from the membership committee: We will be moving forward with the membership expiry as per the charter. Members should expect mail shortly regarding this.
+21:16 < Maulkin> <done>
+21:16 < bdale> great news!  thanks.
+21:16 < Maulkin> Oh, and:
+21:16 < Maulkin> I've had a chat with the DPL about the europe wide trademark
+21:16 < Ganneff> Maulkin: before you send mass mail - create (or let me create) a special mail addre4ss for it please. 
+21:17 < Maulkin> I'll be approaching a eu solicitor to help with this.
+21:17 < bdale> Maulkin: ok, let us know what you learn, and if/when there is something required from the board
+21:17 < Maulkin> However, it should be going ahead. I'll keep spi-trademark ctte in the loop.
+21:17 < Maulkin> <really done>
+21:17 < bdale> great, thanks.  anyone else?
+21:17 < cdlu> not I
+21:17 < Maulkin> not I
+21:18 < Ganneff> no
+21:18  * bdale counts to 1010
+21:18 < bdale> [item 8, Next board meeting]
+21:18 < bdale> Neil?  I believe our default is Wednesday 21st Nov, 2007 - 20:00 UTC?
+21:18 < linuxpoet> We need to change that
+21:18 < Maulkin> Correct.
+21:18 < cdlu> november 14?
+21:18 < bdale> what's wrong with the 21st?  thanksgiving?
+21:18 < linuxpoet> Or the 28th. Either works for me
+21:18 < linuxpoet> Yes thanksgiving
+21:18 < jberkus> yeah, day before
+21:19 < Maulkin> Is there an issue with the 21st?
+21:19 < Maulkin> ahh, ok
+21:19 < jberkus> I could actually do it, but linuxpoet and schultmc have problems
+21:19 < bdale> I suggest we use the 14th
+21:19 < Maulkin> hrm
+21:19 < Maulkin> 14 is fine for notice needed, yes
+21:19 < bdale> ok.  any objection?
+21:20 < cdlu> no objection here
+21:20 < linuxpoet> none
+21:20 < Maulkin> nay
+21:20 < Ganneff> no
+21:20 < bdale> ok... so 14th at 20:00 UTC then.
+21:20 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+21:20 < bdale> *GAVEL*

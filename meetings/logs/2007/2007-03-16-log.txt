@@ -1,0 +1,276 @@
+20:02 < schultmc> *GAVEL*
+20:02 < schultmc> [item 1, opening] Today's Software in the Public Interest meeting is called to order.  Today's agenda and any pending resolutions are listed at http://www.spi-inc.org/secretary/agenda/2007/2007-03-16.html
+20:02 < schultmc> [item 2, roll call] Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  I note for the record that regrets have been received from David Graham.
+20:02 < schultmc> Guests, please /msg your names to Maulkin for the record
+20:02 < Hydroxide> Jimmy Kaplowitz
+20:02 < jberkus> Josh Berkus
+20:02 < schultmc> Michael Schultheiss
+20:02 < IanJackson> Ian Jackson
+20:02  * Maulkin waits
+20:02 < Hydroxide> Maulkin: what about yourself? :)
+20:02 < Maulkin> Neil McGovernm
+20:02 < Maulkin> -m
+20:03 < Maulkin> IanJackson: messageid?
+20:03 < jberkus> hmm
+20:03 < cdlu> David Graham
+20:03 < IanJackson> <20070316194841.GI29336@mail.kaplowitz.org>
+20:03  * cdlu makes us quorate. woot!
+20:03 < Maulkin> Quorum
+20:03 < schultmc> that's 6 board members - we're quorate
+20:03  * cdlu just got home. good timing. :)
+20:03 < schultmc> [item 3, president's report]
+20:03  * schultmc isn't aware of anything from Bdale to report
+20:03 < schultmc> [item 4, treasurer's report]
+20:03 < schultmc> jberkus: you have the floor
+20:04 < Hydroxide> jberkus: ping
+20:04 < IanJackson> I'd like to thank jberkus for the report and ask him to keep up the good work.  Josh, do you need anything from us at the moment ?
+20:04 < jberkus> howdy
+20:04 < Hydroxide> I do have one thing to mention
+20:04 < Hydroxide> regarding the treasurer's report
+20:05 < jberkus> nope.  There has been no arguments about my proposed actions and expenditures, so I'm planning to go ahead with them.
+20:05 < IanJackson> jberkus: Right, good.
+20:05 < Maulkin> jberkus: I agree.
+20:05 < Hydroxide> I believe we have $20 from when Gnome was an SPI project somewhere in there, as well as a small amount (probably $60-$150) of money for GNU TeXmacs
+20:05 < Maulkin> They seem reasonable
+20:05 < jberkus> the one other thing to mention is that Michael has been doing a stellar job as Asst. Treas.
+20:05 < jberkus> and I expect to nominate him to run for my successor
+20:05 < IanJackson> Hydroxide: I remember something like that too.  Perhaps we should take it offline and try to dig out some details ?
+20:06 < Hydroxide> IanJackson: ok.
+20:06 < Hydroxide> other than that I like the report
+20:06 < jberkus> Hydroxide: please find some evidence for Gnome asap
+20:06 < Hydroxide> jberkus: how about all my treasurer's reports? :)
+20:06 < jberkus> I actually have the Texmacs money in my records, but afaik it was spent
+20:06 < IanJackson> Hydroxide: Any idea how long ago the original money was ?
+20:06 < jberkus> Hydroxide: I can't find any reference to gnome money
+20:06 < Hydroxide> IanJackson: before my time as treasurer, possibly before branden's but I'm not sure
+20:06 < jberkus> if it's there I missed it
+20:07 < Hydroxide> jberkus: it's there. take a look, e.g., at the Apr 2006 report I made
+20:07 < Maulkin> Can this be done offline? :)
+20:07 < schultmc> yes, please
+20:07 < Hydroxide> jberkus: under the Assets portion of the balance sheet, entitled "Known GNOME Earmark"
+20:07 < Hydroxide> ok, let's move on
+20:07 < schultmc> we're under time constraints
+20:07 < schultmc> [item 5, secretary's report]
+20:07 < schultmc> Maulkin: you have the floor
+20:07 < Hydroxide> wait, do we want to vote to approve the treasurer's report?
+20:08 < jberkus> Hydroxide: please e-mail me more detail
+20:08 < Maulkin> yup
+20:08 < IanJackson> Hydroxide: I think we can call it approved by acclamation.
+20:08 < IanJackson> Unless anyone disagrees.
+20:08 < schultmc> I don't disagree
+20:08 < IanJackson> Anything needs saying from or about the Secretary ?
+20:08 < Hydroxide> jberkus: that's all I have. the actual income was before my time as treasurer, and I never saw the records. either Branden knows or it was before his time too.
+20:09 < schultmc> Hydroxide: offline, please
+20:09 < Maulkin> Nothing from me, just what's in teh agenda
+20:09 < schultmc> [item 6, Spanish trademark report] 
+20:09 < IanJackson> Maulkin: Right.  That's fine, thanks, carry on :-).
+20:09 < schultmc> Maulkin: anything to report here?
+20:09 < IanJackson> No report.  :-/
+20:09 < Hydroxide> Maulkin: when can we get a report by?
+20:10 < Maulkin> Right, I got a mail from Javier (the Debian guy) saying that Javier (The lawyer) may be rather disincentivised (Is that a word) in working for this
+20:10 < Maulkin> I've offered to fly over and try and get the board rolling. I've heared nothing back so far.
+20:10 < IanJackson> Hnnggg.
+20:10 < IanJackson> I will be in Spain in May.  Where is all this ?
+20:10 < Maulkin> IanJackson: Madrid
+20:10 < IanJackson> I could probably manage a spare hour in Madrid.
+20:11 < IanJackson> But it would have to be the right hour; my trains are already booked.
+20:11 < Maulkin> IanJackson: That'll be cool :)
+20:11  * Maulkin nods
+20:11 < IanJackson> Maulkin: OK, I'll send you details.
+20:11 < Maulkin> I hope to get more out of Javier / Javier asap.
+20:11 < IanJackson> Will you mail the board list well before the next meeting ?
+20:11 < Maulkin> (done)
+20:12 < Maulkin> IanJackson: If I hear anything, sure :)
+20:12 < IanJackson> Right, thanks.
+20:12 < schultmc> [item 7, outstanding minutes]
+20:12 < schultmc> Maulkin: you again
+20:12 < Maulkin> One set of minutes: February 16th, 2007
+20:12  * schultmc moves we vote to accept the minutes
+20:12  * cdlu seconds
+20:12 < IanJackson> I'm ready to vote.
+20:13 < Maulkin> Voting started, 6 people (hydroxide,jberkus,schultmc,ianjackson,maulkin,cdlu) allowed to vote on Approve February 16th, 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < IanJackson> !vote yes
+20:13 < Maulkin> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < Hydroxide> !vote yes
+20:13 < jberkus> !vote yes
+20:13 < Maulkin> cdlu ?
+20:13 < cdlu> !vote yes
+20:13 < cdlu> sorry
+20:13 < Maulkin> Current voting results for "Approve February 16th, 2007 minutes": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:13 < Maulkin> Voting for "Approve February 16th, 2007 minutes" closed.
+20:13 < Maulkin> Done
+20:14 < schultmc> [item 8, items up for discussion]
+20:14 < schultmc> 8.1. 2007-02-15.jrk.1 - Openness of SPI Decision making
+20:14 < schultmc> Hydroxide: you have the floor
+20:14 < IanJackson> So I think 2007-02-15.jrk.1 is uncontroversial, surely ?
+20:14 < IanJackson> We still need to talk about my forumshifting question but let's deal with that by email.
+20:15 < cdlu> it seems like overlegislation to me.
+20:15 < IanJackson> I'll write it up as a resolution for next meeting.
+20:15 < jberkus> good by me
+20:15 < IanJackson> cdlu: We have failed to do it.
+20:15 < IanJackson> Writing it down will help I think.
+20:15 < cdlu> Ian, I'm sure we'll do it magically by virtue of the legislation :)
+20:15 < Hydroxide> cdlu: as Ian said, we haven't actually been abiding by that level of openness
+20:15 < IanJackson> cdlu: I think it might help and it doesn't hurt.
+20:16 < Maulkin> Right... are we voting on what I've got on the agenda, or has it changed?
+20:16  * Maulkin is preparing vote lines :)
+20:16  * Hydroxide is ready to vote unless people have questions or discussion
+20:17  * Maulkin moves so
+20:17  * Hydroxide seconds
+20:17 < Maulkin> Voting started, 6 people (hydroxide,jberkus,schultmc,ianjackson,maulkin,cdlu) allowed to vote on Approve Resolution 2007-02-15.jrk.1 - Openness of SPI Decision making. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 < IanJackson> !vote yes
+20:17 < Hydroxide> !vote yes
+20:17 < jberkus> !vote yes
+20:17 < schultmc> !vote yes
+20:17 < cdlu> !vote abstain
+20:17 < Maulkin> !vote abstain
+20:17 < Maulkin> Current voting results for "Approve Resolution 2007-02-15.jrk.1 - Openness of SPI Decision making": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:17 < Maulkin> Voting for "Approve Resolution 2007-02-15.jrk.1 - Openness of SPI Decision making" closed.
+20:17 < Maulkin> Done
+20:17 < schultmc> 8.2. 2007-02-28.iwj.1.jrk.1 - Formally recording Debian's status as an Associated Project
+20:17 < schultmc> IanJackson, Hydroxide: you have the floor
+20:17 < Maulkin> Right, can someone tell me what is going on with this?
+20:18 < IanJackson> http://www.chiark.greenend.org.uk/~ijackson/t.txt
+20:18 < Hydroxide> IanJackson: can you answer? I need to switch vts for a sec
+20:18 < IanJackson> c&p from my email
+20:18 < IanJackson> We've all seen the discussion.
+20:18  * Maulkin hasn't
+20:18 < IanJackson> Oh.
+20:18 < cdlu> naturally it all happened in the last 30 minutes before meeting
+20:18 < Maulkin> That's why I'm annoyed
+20:18 < cdlu> so I haven't either
+20:19 < Maulkin> Can someone summarise the main differences?
+20:19 < IanJackson> Well, as you know there is a bit of an argument about whether we're supposed to have nominated contacts and only decisions passed by them count, or whether we're supposed to look at and follow the Debian constitution.
+20:19 < Hydroxide> most of it actually hasn't changed from ian's mail
+20:19 < Maulkin> IanJackson: yup :)
+20:19  * cdlu still doesn't understand why Debian's resolution needs to be so much more complicated than our cookie cutter version :)
+20:20 < IanJackson> The paragraph about DDs telling us about disputes has been lengthened and tightened to try to assuage fears of us getting DoSsed by angry DDs.
+20:20 < IanJackson> cdlu: Well, there seems to have been some dispute about some aspects and we get pushback.
+20:20 < Maulkin> Okies, cool (p5?)
+20:20 < IanJackson> And every time you get into an argument the resolution gets longer.
+20:20 < IanJackson> Maulkin: Yes.
+20:20 < cdlu> Ian, yes, a couple of people pushback over everything we do. It's no reason to write an essay for a resolution. 
+20:20 < cdlu> that said, this one will do the trick. it's just silly.
+20:21 < IanJackson> The other is that Debian is bigger than most of our other projects and has correspondingly more complex governance.
+20:21 < jberkus> from my perspective, the resolution is unnecessarily long and complex
+20:21 < Hydroxide> for those who don't know, Debian has over 1000 developers
+20:21 < jberkus> but I don't have any issues of substance with it
+20:21 < linuxpoet> I only have one suggestion, that somehow the resolution reflect the last email I was sent from IAN where we get an official response from a series of DDs that provides the reference documentation to the decision
+20:21 -!- slef [~mjr@g.towers.org.uk] has quit [Read error: Connection reset by peer]
+20:21 < IanJackson> Hydroxide: That weird formatting in para 6 is a mistake, right ?
+20:21 < Hydroxide> IanJackson: yeah, I mean for uniform formatting
+20:21 < IanJackson> Hydroxide: OK, well I'm sure Maulkin will fix it up for us, won't you ? :-)
+20:22 < IanJackson> There is no hurry here.
+20:22 < IanJackson> If people want to catch up and read the threads and argue some more we can defer it.
+20:22 < Hydroxide> Maulkin: the changes to paragraphs 3 and 4 are only the addition of everything after the last comma
+20:22  * Maulkin will fix formatting
+20:22 < IanJackson> So feel free to vote `no' meaning `please explain more'.
+20:22 < Hydroxide> Maulkin: and I didn't change anything outside of paragraphs 3-5
+20:23 < Hydroxide> Maulkin: so it's really not that many changes to happen last-minute
+20:23 < Maulkin> Right, fine for me, I'm happy to vote
+20:23 < Hydroxide> Maulkin: it's basically one long paragraph plus a couple of clauses
+20:23 < Maulkin> (thanks fo rthe summary :P)
+20:23 < IanJackson> These changes are ones to try to satisfy the difficulties that some people expressed earlier this week.
+20:23 -!- slef [~mjr@g.towers.org.uk] has joined #spi
+20:23 < Hydroxide> np
+20:23 < Hydroxide> any more discussion or should we vote?
+20:23 < IanJackson> linuxpoet: I think in practice we could just ask me for references :-).
+20:24 < Hydroxide> linuxpoet: (what he means is he wrote the first draft of the debian constitution and was a DPL back in the day)
+20:24  * Hydroxide moves to vote
+20:24  * schultmc seconds
+20:24 < IanJackson> Yes, I'm ready to vote.
+20:24 < Maulkin> Voting started, 6 people (hydroxide,jberkus,schultmc,ianjackson,maulkin,cdlu) allowed to vote on Approve Resolution 2007-02-28.iwj.1 - Formally recording Debian's status as an Associated Project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:24 < Maulkin> (plus amednment)
+20:24 < IanJackson> The text we are voting on is   http://www.chiark.greenend.org.uk/~ijackson/t.txt   FAOD
+20:24 < IanJackson> !vote yes
+20:24 < schultmc> !vote yes
+20:25 < Hydroxide> !vote yes
+20:25 < Maulkin> !vote yes
+20:25 < cdlu> !vote abstain
+20:25 < IanJackson> Err, that's not a stable URL.  I've copied it here http://www.chiark.greenend.org.uk/~ijackson/2007-02-28.iwj.1.txt
+20:25 < Maulkin> Ta IanJackson 
+20:25 < IanJackson> cd7fd66e7730ae813dd6caeb2cd997a4  2007-02-28.iwj.1.txt
+20:25 < jberkus> !vote abstain
+20:26 < Maulkin> Current voting results for "Approve Resolution 2007-02-28.iwj.1 - Formally recording Debian's status as an Associated Project": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+20:26 < Maulkin> Voting for "Approve Resolution 2007-02-28.iwj.1 - Formally recording Debian's status as an Associated Project" closed.
+20:26 < Hydroxide> well, as per the previous resolution we passed, our resolutions and minutes approved at this meeting will need to be emailed out to spi-announce anyway
+20:26 < IanJackson> Right, thanks everyone.
+20:26 < Hydroxide> (as wichert akkerman did when he was secretary, fwiw, at least for resolutions)
+20:26 < Maulkin> FWIW: 'yay', as I now need to reconvert everything back to plain text
+20:26 < Hydroxide> ok, josh's resolution now
+20:26 < schultmc> 8.3. 2007-03-16.jmb.1 - Accepting OpenOffice.org as Associated Project
+20:26 < schultmc> jberkus: you have the floor
+20:27  * Maulkin is happy to just vote :)
+20:27 < Hydroxide> Maulkin: lynx -dump or one of the many other similar commands will be fine
+20:27 < jberkus> well, I don't think that there's anyone here who doesn't know OpenOffice.org
+20:27 < Maulkin> kk
+20:27 < Maulkin> Do we have someone here? :)
+20:27 < jberkus> so I'll turn it over to Louis to make a couple remarks about why OOo wants to join SPI
+20:27 < schultmc> louis_to is from OOo
+20:27 < jberkus> Louis?
+20:27 < IanJackson> Maulkin: Actually, can I suggest that you put the resolutions up in <pre> in the original formatting ?
+20:27 < Maulkin> IanJackson: fine :)
+20:28 < jberkus> louis_to: ping!
+20:28 < cdlu> that's how I did it. <pre>++ :)
+20:28 < Maulkin> IanJackson: Well, I'll work out exactly what to do later :)
+20:28  * cdlu likes the OOo resolution. it's simple, doesn't waste bits. :)
+20:28 < Maulkin> heh
+20:28  * Hydroxide thinks it's fine and therefore optimal in the case of OOo as well.
+20:28 < louis_to> hello all
+20:28  * Maulkin waves
+20:28 < IanJackson> The resolution seems to agree with OOo's own statement about the advisor position so I'm fine with it.
+20:29 < IanJackson> I'm happy to vote.
+20:29 < Maulkin> louis_to: Any comments?
+20:29 < louis_to> nope; thanks
+20:29  * cdlu moves for a vote
+20:29  * schultmc seconds
+20:29  * Maulkin 2nds
+20:29 < Maulkin> Voting started, 6 people (hydroxide,jberkus,schultmc,ianjackson,maulkin,cdlu) allowed to vote on Approve Resolution 2007-03-16.jmb.1 - Accepting OpenOffice.org as Associated Project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:29 < Maulkin> !vote yes
+20:29 < cdlu> !vote yes
+20:29 < IanJackson> !vote yes
+20:29 < schultmc> !vote yes
+20:29 < Hydroxide> !vote yes
+20:29 < jberkus> !vote yes
+20:29 < cdlu> now *that* was uncontroversial. :)
+20:29 < Maulkin> Current voting results for "Approve Resolution 2007-03-16.jmb.1 - Accepting OpenOffice.org as Associated Project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:29 < Maulkin> Voting for "Approve Resolution 2007-03-16.jmb.1 - Accepting OpenOffice.org as Associated Project" closed.
+20:29 < Maulkin> Done
+20:30 < louis_to> thanks all :-)
+20:30 < schultmc> [item 9, Next board meeting]
+20:30 < Hydroxide> louis_to: if you want, you can accept the invitation now
+20:30 < Maulkin> louis_to: please hang aroung :)
+20:30 < Hydroxide> louis_to: just to avoid worrying about the 60-day period
+20:30 < louis_to> thanks: i shall, though I have to leae shortly
+20:30 < cdlu> April 20th... my wife's birthday :)
+20:30 < louis_to> ah; 
+20:30 < schultmc> The third Friday in April is April 20, 2007.  At the last meeting, we decided to move the meeting back to 19:00 UTC
+20:30 < schultmc> any objections?
+20:30 < Maulkin> louis_to: ok, please /msg me your email address
+20:30 -!- slef [~mjr@g.towers.org.uk] has quit [Read error: Connection reset by peer]
+20:30 < louis_to> I accept the invitation and thank the board members
+20:30 < cdlu> April 20th is fine
+20:30 < Hydroxide> louis_to: welcome :)
+20:30  * Maulkin nods at April 20th. I wasn't sure on the time :)
+20:31 < IanJackson> I'm currently fine with that.
+20:31 < Hydroxide> one sec...
+20:31  * schultmc is fine with that
+20:31 < IanJackson> 2000Z would be a problem for me, given the DST change.
+20:31 < Hydroxide> yes, that's fine
+20:31 < jberkus> I'll be attending a conference, so there is a 50% chance I won't make it
+20:31 < cdlu> louis, cool. Just curious, do you live in my neck of the woods? I see you're on rogers. :)
+20:31 < IanJackson> Err, I mean, the fact we have DST.
+20:31 -!- slef [~mjr@g.towers.org.uk] has joined #spi
+20:31 < Hydroxide> (1900Z I mean)
+20:31 < jberkus> however, nothing in the same week would be any better
+20:31 < IanJackson> 1900Z is the same civil time for most of us as last year.
+20:31 < jberkus> so don't change it
+20:31 < IanJackson> Anyone object to 1900Z ?
+20:31 < cdlu> not here
+20:31 < Maulkin> Not here
+20:31 < Hydroxide> not here
+20:32 < schultmc> not here
+20:32 < schultmc> The next meeting is scheduled for Friday, April 20, 2007 at 19:00 UTC
+20:32 < Maulkin> That'll do then.
+20:32 < schultmc> *GAVEL*

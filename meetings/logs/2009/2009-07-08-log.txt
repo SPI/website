@@ -1,0 +1,210 @@
+16:00 < bdale> *GAVEL*
+16:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+16:00 < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-07-08.html
+16:00 < bdale> [item 2, Roll Call]
+16:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+16:00 < bdale> Guests (including board advisors), please /msg your names to Hydroxide if you wish your attendance to be recorded in the minutes of this meeting.
+16:00 < zobel> Martin Zobel-Helas
+16:00 < bdale> Bdale Garbee
+16:00 < Ganneff> Joerg Jaspert
+16:00 < Hydroxide> Jimmy Kaplowitz
+16:01 < Ganneff> Maulkin, luk__, schultmc: ping
+16:01 < zobel> luk__ is on vac.
+16:01 < zobel> afaik
+16:01  * bdale notes that he's in a work meeting, and apologies in advance if he appears somewhat distracted as a result
+16:02 < bdale> we need 6 for quorum, right?
+16:03 < Maulkin> Neil McGovern
+16:04  * Hydroxide is being frequently interrupted by $paidjob stuff but will participate as much as feasible
+16:04 < bdale> we still need one more for quorum, right?
+16:04 < Ganneff> yes
+16:05 < bdale> who are we missing?
+16:05 < zobel> aren't we missing cdlu?
+16:05 < Ganneff> linuxpoet?
+16:05 < Ganneff> cdlu?
+16:05 < Hydroxide> cdlu cannot come as he just started a new job today and it would be totally inappropriate to attend unrelated meetings on the first day of a new job :)
+16:05 < bdale> so we have regrets from cdlu and luk?
+16:05 < schultmc> whoops
+16:05 < Hydroxide> linuxpoet can't make it apparently
+16:05 < schultmc> Michael Schultheiss
+16:05 < schultmc> sorry
+16:05 < Hydroxide> woo
+16:05 < bdale> schultmc: thank you!
+16:05 < bdale> ok, quorum
+16:06 < bdale> [item 3, President's Report]
+16:06 < bdale> My apologies to the board for missing our last meeting.
+16:06 < bdale> Last month, I spent two weeks in Brazil including attending FISL 10.  Over 8200 people attended FISL, and the highlight for me was undoubtedly
+16:06 < bdale> the visit by President Lula to the event.  I was one of about 10 people at the event invited to meet and speak with him semi-privately before 
+16:06 < bdale> his public talk.  The content of his talk has been reported elsewhere.  Suffice to say, it was an incredible experience to meet the president 
+16:06 < bdale> of the world's 12th largest economy in person, and hear him speak quite passionately about Free Software.
+16:06 < bdale> I'm now looking forward to the Debconf later this month, at which we have an SPI BOF scheduled.  I hope all of you that plan to be there will 
+16:06 < bdale> participate in talking to interested DDs about the role SPI plays for Debian, answering questions, etc.
+16:06 < bdale> Any questions?
+16:07  * zobel needs to look if he is still present when the SPI bof takes place.
+16:07 < Hydroxide> zobel: it's the 25th
+16:07 < zobel> great. /me leaves 28th.
+16:07 -!- codestr0m1 [630de74a@webchat.mibbit.com] has joined #spi
+16:07 < zobel> seems like no more questions...
+16:09  * Hydroxide suggests moving on
+16:09 < bdale> [item 4, Treasurer's Report]
+16:09 < bdale> Michael?
+16:09 < schultmc> A routine treasurer's report was sent out earlier this week
+16:10 < schultmc> Like last month, The HeliOS Project's balance is negative due to our use of cash based accounting
+16:10 < schultmc> I'm considering switching to accrual based accounting to avoid quirks like that
+16:11 < Hydroxide> I'd support that. either that or standard cash-based accounting that recognizes checks when received
+16:11 < Hydroxide> (at least that's what the IRS says is standard)
+16:11 < schultmc> Hydroxide: I'm using standard cash based accounting since I wasn't familiar with your modified cash-based
+16:11 < Hydroxide> schultmc: so you're recognizing checks when you receive them and not when you get around to depositing them?
+16:12 < schultmc> Hydroxide: no, I recognize them when I deposit them (which is essentially the same day)
+16:12 < Hydroxide> schultmc: ah. well when those dates differ, there's the difference I'm referring to. in any case, accrual accounting is clearer and worth using if it's not too much hassle
+16:13  * Hydroxide will be interrupted shortly again by $paidjob stuff
+16:13 < bdale> do we need to take any action on this today, Michael?
+16:13 -!- codestr0m [~asura@99-13-231-74.lightspeed.snjsca.sbcglobal.net] has quit [Ping timeout: 480 seconds]
+16:13  * Hydroxide suggests not
+16:13 < schultmc> bdale: no
+16:14 < bdale> ok, then let's proceed
+16:14 < bdale> [item 5, Secretary's report]
+16:14 < bdale> Jimmy?
+16:14 < Hydroxide> nothing beyond what I put in the agenda
+16:14 < Hydroxide> questions welcome
+16:15 < Hydroxide> or we can move on :)
+16:15 < zobel> Hydroxide: can we talk later this week about the secritary duties? i am still thinking about it.
+16:15 < Hydroxide> zobel: sure
+16:15 < bdale> [item 6, Outstanding minutes]
+16:15 < bdale> Jimmy, what are we ready to vote on today?
+16:15 < Hydroxide> last month's, June
+16:15 < Hydroxide> ready to vote?
+16:16 < Ganneff> go
+16:16 < Hydroxide> Voting started, 6 people (bdale,ganneff,schultmc,hydroxide,zobel,maulkin) allowed to vote on June 17th, 2009 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:16 < Hydroxide> !vote yes
+16:16 < Ganneff> !vote yes
+16:16 < schultmc> !vote yes
+16:16 < zobel> !vote yes
+16:16 < bdale> !vote abstain
+16:17 < Hydroxide> Maulkin: ^^^
+16:17 < Hydroxide> going to move on, barring objections - majority of those present have approved
+16:17 < Hydroxide> Current voting results for "June 17th, 2009 minutes": Yes: 4, No: 0, Abstain: 1, Missing: 1 ( maulkin )
+16:17 < Hydroxide> Voting for "June 17th, 2009 minutes" closed.
+16:17 < Hydroxide> minutes approved.
+16:18 < bdale> ok, thanks
+16:18 < Maulkin> !vote abstain
+16:18 < Maulkin> (by the way)
+16:18 < Maulkin> :)
+16:18 < Hydroxide> NOTE FOR MINUTES: Maulkin abstains. minutes approved 4-0-2
+16:18 < Hydroxide> ok
+16:18 < bdale> [item 7, Items up for discussion]
+16:18 < bdale> [item 7.1, SPI Board Elections]
+16:18 < bdale> Jimmy, do you want to talk about this?
+16:18 < Hydroxide> just a reminder to submit nominations to neilm@spi-inc.org by the 13th - we have one nomination for two positions so far
+16:19 < Ganneff> to neil, not secretary?
+16:19 < Hydroxide> and I also wanted to check with Maulkin regarding the state of the voting software in the event we have 3 or more nominees
+16:19 < Hydroxide> Ganneff: yes. as per my secretary's report, he offered to run the election, which is not a conflict of interest since he's not seeking re-election
+16:19 < Maulkin> Ganneff: either
+16:19 < Hydroxide> Ganneff: if nominations are sent to me I will of course pass them on to neil
+16:19 < Maulkin> Hydroxide: it's fine
+16:20 < Hydroxide> Maulkin: good.
+16:20 < Maulkin> Hydroxide: I still get secretary@ :)
+16:20 < Hydroxide> Maulkin: aah :)
+16:20 < Ganneff> wecanchangethat :)
+16:20 < Hydroxide> :P
+16:21 < Ganneff> next?
+16:21 < bdale> [item 7.2, Resolution 2009-07-06.jrk.1.bg.1: Open64 as associated project]
+16:21 < bdale> Jimmy?  This one seems pretty simple to me now that we've resolved the governance questions?
+16:21 < Hydroxide> seems simple to me too
+16:21 < Hydroxide> any discussion?
+16:21 < Maulkin> Has governance been acked?
+16:22 < Hydroxide> Maulkin: did you notice the revision to the resolution? this one now includes accurate governance info
+16:22 < Maulkin> Yes,but has it been acked by christopher?
+16:22 < Hydroxide> Maulkin: he was involved in that discussion, yes
+16:22 < Maulkin> k
+16:22 < Hydroxide> Maulkin: as were members of the Open64 steering committee
+16:23 < Hydroxide> ready to vote on this?
+16:23 < Ganneff> go
+16:23 < bdale> yes
+16:24 < Hydroxide> Voting started, 6 people (bdale,ganneff,schultmc,hydroxide,zobel,maulkin) allowed to vote on Open64 resolution 2009-07-08.jrk.1.bg.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+16:24 < Maulkin> !vote abstain
+16:24 < Hydroxide> !vote yes
+16:24 < schultmc> !vote yes
+16:24 < bdale> !vote yes
+16:24 < Ganneff> !vote abstain
+16:24 < zobel> !vote 
+16:24 < zobel> !vote yes
+16:25 < Hydroxide> Current voting results for "Open64 resolution 2009-07-08.jrk.1.bg.1": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+16:25 < Hydroxide> Voting for "Open64 resolution 2009-07-08.jrk.1.bg.1" closed.
+16:25 < Hydroxide> Open64 is thereby offered associated project status according to the resolution
+16:25 < Hydroxide> we look forward to hearing from the steering committee within 60 days.
+16:25 < Hydroxide> codestr0m1: ^^ (see above) ^^
+16:25 < codestr0m1> ack
+16:26 < Maulkin> Next?
+16:26 < zobel> please
+16:26 < bdale> [item 7.3, Resolution 2009-07-06.jrk.2: OSUNIX as associated project]
+16:26 < bdale> Jimmy?  Based on the feedback from counsel, I remain concerned about liability until the licensing issue is resolved.
+16:27 < Hydroxide> I would have voted for a 30-day conditional association period while the 
+16:27 < Hydroxide> legal issues got resolved, but the feedback I got from the board was 
+16:27 < Hydroxide> opposed to that, so given that I agree with them that OSUNIX should not
+16:27 < Hydroxide> be associated with SPI until the legal issues are resolved.
+16:27 < Maulkin> My concerns have been relayed to board@
+16:27 < Maulkin> Hydroxide: are you withdrawing the motion?
+16:28 < zobel> awk for 2min
+16:28 < zobel> afk even
+16:28 < codestr0m1> requests permission to speak
+16:28 < Hydroxide> Maulkin: I'm still willing to allow it to be voted on if codestr0m1 wants
+16:28 < Hydroxide> codestr0m1: go
+16:29 < Ganneff> now?
+16:29 < bdale> ?
+16:30 < Hydroxide> codestr0m1: ?
+16:30 < codestr0m1> I would like any legal council advice publicly disclosed because SFLC has requested this information and it's not public
+16:31 < codestr0m1> it's also completely unclear to me why there is this additional concern and where it came from.. I don't know of any public lawyer expressing a view of concern
+16:32 < bdale> since much of our discussion has not been public, let me say here that the core issue for SPI is that it's not clear that the combination of CDDL and GPL code that is at the foundation of OSUNIX is legally possible.
+16:33 < bdale> adherence to the terms of free software licenses is not optional, and not a small thing.  it is a fundamental expectation.  so understanding whether there's really a problem and if so how it should be resolved is important to us.
+16:33 < codestr0m1> the lawyer asked this and I was clear.. no CDDL and GPL code are combined.. it's the binaries that are shipped
+16:33 < Ganneff> debians stanza on that (and that of many other linux distributions), triggered by cdrtools, is that it a link between those is not.
+16:33  * Hydroxide requests that we please do not get into a discussion during this meeting regarding the merits of any legal stances - this is not the place for it and none of us are lawyers.
+16:33 < bdale> agreed
+16:33 < Ganneff> ay
+16:33 < codestr0m1> yes. cdrecord is not libc. which is the only CDDL binary that links with anything GPL and it's under the OBL license
+16:34 < bdale> what's important to me is that we understand and control any additional risk of liability for SPI.  Until the situation involving the licenses in OSUNIX is resolved, I personally see a risk that outweighs the benefit to SPI of association.
+16:34 < codestr0m1> well. I want the legal stance clearly stated because I think things have been inaccurate and not properly followed up on
+16:35 < Ganneff> i think waiting a month more with this resolution and taking the time to sort this out wouldnt hurt
+16:35 < Hydroxide> codestr0m1: I don't think SPI should waive any attorney-client privilege it hasn't already waived with regard to this situation by communicating summaries of legal advice to you, but I'm not going to stop you from publicizing what we've told you regarding our legal concerns
+16:35 < bdale> so if we vote on this today, I will vote against the resolution.  not with any prejudice towards OSUNIX, but because I want this issue resolved before approving the association
+16:36 < Hydroxide> codestr0m1: do you still want us to vote on it today or withdraw it for now? either way it can be voted on later, assuming it's not approved today
+16:36 < codestr0m1> not sure.. I let the board decide
+16:37 < Ganneff> Hydroxide: so its yours. vote or not?
+16:37 < Hydroxide> if any other board member wants a vote, I'll call a vote. just say so in the next few moments, otherwise I withdraw it since it clearly wouldn't pass in the absence of a second
+16:38 < zobel> Hydroxide: /me is for first solving the legal issues.
+16:38 < Hydroxide> ok. hearing only requests to delay until the legal issues are resolved, and hearing no seconds, I withdraw the resolution
+16:39 < Hydroxide> again, without prejudice to possible future consideration after the issues are resolved
+16:39 < Ganneff> next?
+16:39 < bdale> [item 8, Any other business]
+16:39 < bdale> Do any board members have other items for discussion they would like to address briefly?
+16:40 < Hydroxide> I'll just mention publicly that I'm asking for someone else to serve as secretary in the next term
+16:40 < Maulkin> Just to thank the board for an interesting few years on it:)
+16:40 < bdale> ok, thanks and thanks!
+16:40 < bdale> [item 9, Next board meeting]
+16:40 < bdale> We need to meet to select officers after the conclusion of the board election.  Is our next regularly-scheduled monthly meeting good for that or do we
+16:40 < bdale> want a separate meeting?
+16:41 < zobel> decide that during debconf? :)
+16:41 < schultmc> bdale: I'm fine with the next regularly scheduled meeting
+16:41 < schultmc> bdale: several board members will be at DebConf at the end of this month - are we planning another July meeting or waiting until August?
+16:42 < bdale> I'm happy with August
+16:42 < Maulkin> Ack
+16:42  * schultmc too
+16:42 < bdale> running a meeting at Debconf was a lose in EDI
+16:42 < bdale> the SPI BOF is good
+16:42 < Hydroxide> should we stick with our late-august time or something else?
+16:42 < zobel> Hydroxide: I'm fine with the next regularly scheduled meeting
+16:43 < Hydroxide> as am I. hopefully whoever replaces Maulkin is too :)
+16:43 < Hydroxide> (and possibly whoever replaces schultmc, if he's not re-elected)
+16:44 < bdale> so what is the time for our next regularly scheduled meeting?
+16:44 < Hydroxide> Wednesday, August 19th, 20:00 UTC
+16:44 < Hydroxide> bdale: you need an easily accessible calendar widget in your desktop environment :)
+16:44 < bdale> I do
+16:44 < zobel> gnome has .)
+16:44 < bdale> doing less than two meetings at once would help, too
+16:44 < Hydroxide> haha :)
+16:44 < bdale> that date looks ok to me
+16:45 < Hydroxide> same here
+16:45 < bdale> ok, let's consider that done, then.
+16:45 < Hydroxide> great
+16:45 < bdale> Ok, thank you to everyone present for participating today.
+16:45 < bdale> *GAVEL*

@@ -1,0 +1,407 @@
+19:00 < bdale> *GAVEL*
+19:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+19:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+19:00 < bdale> and details of pending resolutions can be found on the web at:
+19:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-01-16.html
+19:01 < bdale> [item 2, Roll Call]
+19:01 < bdale> Board members, please state your name for the record.  As we have nine board
+19:01 < bdale> members, quorum for today's meeting is six.  Guests, please /msg your names
+19:01 < bdale> to Maulkin if you wish your attendance to be recorded in the minutes of this
+19:01 < bdale> meeting.
+19:01 < bdale> Neil, do we have any regrets for today's meeting?
+19:01 < schultmc> Michael Schultheiss
+19:01 < bdale> Bdale Garbee
+19:01 < IanJackson> Ian Jackson
+19:01 -!- _rene_ [~rene@dslb-084-056-121-058.pools.arcor-ip.net] has quit [Ping timeout: 480 seconds]
+19:01 < Overfiend> Branden Robinson
+19:01 < Maulkin> Neil McGovern
+19:01 < Overfiend> I believe jberkus said in channel last night that he wouldn't be able to make it today
+19:02 < linuxpoet> It was also noted on list.
+19:02 < schultmc> he sent an e-mail as well
+19:02 < Maulkin> bdale: one regret, but received too late.
+19:02 < Maulkin> bdale: It'll be absent until the vote next meeting
+19:02 -!- devrimgunduz [~Devrim@evim.gunduz.org] has joined #spi
+19:02 -!- Irssi: Topic: -: Next meeting at Tue Jan 16 19:00:00 UTC 2007 | Smile, the press is here! - http://software.newsforge.com/software/06/12/20/1441241.shtml?tid=132 
+19:02 -!- Irssi: Topic: +: Meeting in progress | Smile, the press is here! - http://software.newsforge.com/software/06/12/20/1441241.shtml?tid=132  
+19:02 -!- Maulkin changed the topic of #spi to: Meeting in progress || Un-regretted absences will be met with the full force of the new attendance policy. || Agenda at http://www.spi-inc.org/secretary/agenda/2007/2007-01-16.html || Smile, the press is here! - http://software.newsforge.com/software/06/12/20/1441241.shtml?tid=132  
+19:02 < bdale> Maulkin: and who was that?  
+19:02 < Hydroxide> I'm here now
+19:02 < Maulkin> bdale: jberkus
+19:02 < Hydroxide> Jimmy Kaplowitz, reporting for duty
+19:02  * bdale is behind on his email, because he's in Sydney right now, still recovering from the shock of an early alarm clock this morning...
+19:03 < Hydroxide> that's quorum, right?
+19:03 < bdale> ah, right I saw Josh's email
+19:03 < Maulkin> Yup
+19:03 < jcristau> Joey is here too
+19:03 < bdale> ok, great.
+19:03 < bdale> [item 3, President's Report]
+19:03 < bdale> The only  significant thing to report is that I had a lengthy and detailed
+19:03 < bdale> discussion with our legal counsel Gregory Pomerantz by phone, the details of
+19:03 < bdale> which I reported on to the rest of the board by email.
+19:03 < cdlu> David Graham
+19:03 -!- _rene_ [~rene@dslb-084-057-125-000.pools.arcor-ip.net] has joined #spi
+19:04 < IanJackson> bdale: Thanks for your work and your excellent report.
+19:04  * Maulkin seconds that.
+19:04 < bdale> Various details from that call and the ensuing discussion will show up in various actions and reports.
+19:05 < bdale> [item 4, Treasurer's Report]
+19:05 < bdale> I noted a report from Josh in email, if he's not here do we have anything to add?
+19:05 < cdlu> 'm on GPRS, laggy... sorry
+19:05 -!- xzilla [~xzilla@onager.omniti.com] has joined #spi
+19:06 < davidfetter> pg represent
+19:06 < bdale> schultmc: anything to add regarding the treasurer's report?
+19:06 < schultmc> bdale: no, unless we want to mention the Assistant Treasurer/Mail Clerk role swaps
+19:07 < bdale> schultmc: that seems worthwhile for the minutes... give us a one or two line summary?
+19:07 < Overfiend> jberkus did mention that in passing
+19:07 < linuxpoet> I would like it noted that although we are aware of the troubles with the financials that the PostgreSQL Fundraising Group is getting impatient.
+19:07 < Overfiend> Mike Schultheiss and I swapped roles.
+19:07 < bdale> linuxpoet: noted
+19:07 < Overfiend> Mike is now Asst. Treasurer, and I am now mail clerk.
+19:08 < Joey> linuxpoet: Out of curiosity: What are your particular needs atm?
+19:08 < Overfiend> I've scanned 3 donation checks, emailed the scans to jberkus, and physically handed the checks to schultmc.
+19:08 < schultmc> Branden Robinson resigned as Assistant Treasurer on 2007-01-05.  I volunteered for Assistant Treasurer on 2007-01-05.  On 2007-01-08 (date difference due to Post Office hours) Branden became the SPI Mail Clerk (in line with Josh's anti-malfeasance policies)
+19:08 < linuxpoet> We are currently on a spending moratorium due to lack of financial information
+19:08 < Overfiend> and, for the record, xsane in sarge is worthless
+19:08 < linuxpoet> We do not know how much money we have, nor how much has been spent (before I was liason)
+19:08 < Maulkin> < Joey> Martin "Joey" Schulze
+19:09  * davidfetter declines to generalize Overfiend's statement, especially considering that xsane on fedora is great
+19:09 < IanJackson> WHAT A COLOSSAL WASTE OF TIME
+19:09 < Overfiend> IanJackson: ?
+19:09 < IanJackson> Excuse me, but I'm not in a very good mood today and why oh why are we sitting here waiting for people to type stuff ?
+19:09 < bdale> schultmc: ok, thanks
+19:09 < bdale> IanJackson: be calm, I'm a bit slow-moving this morning
+19:10 < bdale> let's move on
+19:10 < linuxpoet> Joey: does that answer your question?
+19:10 < bdale> [item 6, Items up for Discussion]
+19:10 < bdale> [item 6.1, Further on Debian trademark in Spain]
+19:10 < Maulkin> Erm... minutes? :)
+19:10 < bdale> linuxpoet: I think so, thanks
+19:10 < IanJackson> Err, what about the minutes ?
+19:10 < Joey> linuxpoet: It does.  Thanks.
+19:10 < bdale> oops, sorry
+19:10 < xzilla> schultmc: i seem to remember that there were going to be some emails to board@ explaining the reason for the position changes, but i dont recall seeing those. 
+19:10 < bdale> back up
+19:10 < bdale> [item 5, Outstanding Minutes]
+19:10 < bdale> Neil, what do you have for us today?
+19:10 < IanJackson> December 19th, 2006, apparently.
+19:10 < Maulkin> I have one set of minutes to approve this month, December 19th, 2006. I also call for a vote on retrospectively marking Bdale Garbee and Branden Robinson absent with regrets.
+19:11 < Hydroxide> I'm ready to vote on both (as separate votes or as one)
+19:11 < Maulkin> Although regrets were sent too late, the reasons were unforseeable.
+19:11 < schultmc> xzilla: jberkus asked for the swap, basically
+19:11 < bdale> I suspect they should be separate votes?
+19:11 < Maulkin> Probably.
+19:11 < IanJackson> Yes, three separate votes.
+19:11 < Maulkin> ok, first absents ones then
+19:11 < Maulkin> Just a tic...
+19:12 < Overfiend> because the absent/regrets marking affects the content of the minutes...ah, Maulkin's got it
+19:12 < xzilla> schultmc: would be nice to get that on record, it seemed wierd as presented (having some from some irc discussion)
+19:12 < bdale> Overfiend: right
+19:12 < bdale> xzilla: I was comfortable with just knowing for the record that the two had swapped roles
+19:12 < IanJackson> Were the excuses made just to board@ or to a members' list too ?
+19:12 -!- _rene_ [~rene@dslb-084-057-125-000.pools.arcor-ip.net] has quit [Ping timeout: 480 seconds]
+19:12 < Maulkin> IanJackson: board@ and secretary@. Not sure if it's public
+19:13  * Maulkin moves to vote for all of them, one after the other
+19:13  * schultmc seconds
+19:13 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Mark Bdale Garbee absent with regrets for December 19th, 2006 meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:13 < IanJackson> !vote yes
+19:13 < Maulkin> !vote yes
+19:13 < Hydroxide> !vote yes
+19:13 < schultmc> !vote yes
+19:13 < Overfiend> I resigned as Assistant Treasurer due to a series of problems getting across town to the bank in a timely manner.  I volunteered to replace Michael as mail clerk because I'm the only other Board member in Indianapolis, where SPI's P.O. box, and one of the few other (or the only other) SPI Board member in this area period.
+19:13 < bdale> !vote abstain
+19:14 < Overfiend> And, per the policy proposed by Josh Berkus and adopted last year, we want to keep the roles of mail clerk and check-depositor separate.
+19:14 < Maulkin> cdlu / Overfiend / Joey ?
+19:14 < Overfiend> !vote abstain
+19:14 < cdlu> !vote abstain
+19:15 < Maulkin> Joey ?
+19:15 < Overfiend> does a 4-0-4 pass?
+19:15 < Maulkin> Current voting results for "Mark Bdale Garbee absent with regrets for December 19th, 2006 meeting": Yes: 4, No: 0, Abstain: 3, Missing: 1 ( joey )
+19:15 < Maulkin> Voting for "Mark Bdale Garbee absent with regrets for December 19th, 2006 meeting" closed.
+19:15 < Maulkin> yup
+19:15 < Maulkin> yes > no
+19:15 < Overfiend> ok
+19:15 < cdlu> yes exceeds no... it passes
+19:15 < Joey> !abastain
+19:15 < bdale> thank you
+19:15 < Joey> !vote abstain
+19:15 < Maulkin> ta
+19:16 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Mark Branden Robinson absent with regrets for December 19th, 2006 meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:16 < Overfiend> Joey: please leave Andreas Barth out of it ;-)
+19:16 < Overfiend> !vote abstain
+19:16 < Maulkin> !vote yes
+19:16 < Hydroxide> !vote yes
+19:16 < schultmc> !vote yes
+19:16 < IanJackson> !vote yes
+19:16 < bdale> !vote abstain
+19:16 < Joey> Overfiend: Why?  Don't take the fun from me!
+19:16 < cdlu> !vote yesw
+19:16 < cdlu> !vote yes
+19:16 < Joey> !vote abstain
+19:16 < cdlu> rather
+19:16 < Maulkin> Current voting results for "Mark Branden Robinson absent with regrets for December 19th, 2006 meeting": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+19:16 < Maulkin> Voting for "Mark Branden Robinson absent with regrets for December 19th, 2006 meeting" closed.
+19:17 < Overfiend> shall we regard the attendance in the minutes as amended accordingly, without further motion?
+19:17 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Approve minutes from December 19th, 2006 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:17 < Maulkin> Overfiend: yup :)
+19:17 < Overfiend> !vote abstain (because I was not present)
+19:17 < Maulkin> !vote yes
+19:17 < Hydroxide> !vote yes
+19:17 < schultmc> !vote yes
+19:17 < Joey> !vote abstain
+19:17 < bdale> !vote abstain
+19:17 < Overfiend> (was that a legally-formed vote?)
+19:17 < IanJackson> !vote yes
+19:17 < Maulkin> Overfiend: yes, moves made to do all votes, one after another
+19:17  * xzilla ponders that mr. perens always had good reasons why he couldnt show up after the fact as well... 
+19:18 < cdlu> !vote yes
+19:18 < Overfiend> no, I mean the syntax of my vote -- or is it human-parsed?
+19:18 < Maulkin> Current voting results for "Approve minutes from December 19th, 2006 board meeting": Yes: 5, No: 0, Abstain: 2, Missing: 1 ( overfiend )
+19:18 < Maulkin> Voting for "Approve minutes from December 19th, 2006 board meeting" closed.
+19:18 < Overfiend> ahem
+19:18 < Overfiend> !vote abstain
+19:18 < Overfiend> sorry
+19:18 < Maulkin> Overfiend: I'll adjust it manually
+19:18 < Overfiend> ok
+19:18 < Maulkin> Minutes aproved
+19:18 < Maulkin> *approved
+19:18 < bdale> Maulkin: ok, all done?
+19:18 < Maulkin> Done :)
+19:18 < bdale> [item 6, Items up for Discussion]
+19:18 < bdale> [item 6.1, Further on Debian trademark in Spain]
+19:18 < bdale> Amendment 2006-04-03.jfsp.1.jrk.1, then Resolution 2006-04-03.jfsp.1 (as amended or not)
+19:18 < bdale> I'm greatly pleased that we are finally ready to act on this long-standing issue, and thank our legal counsel for his advice which led to the proposed amendment.  Do any board members have anything to add here, or are we ready to vote on the amendment?
+19:19 < Hydroxide> let's vote.
+19:19  * Maulkin moves so.
+19:19  * Hydroxide seconds
+19:19  * Overfiend is ready to vote
+19:19 < bdale> ok, let's vote then
+19:20 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Approve amendment 2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:20 < IanJackson> !vote yes
+19:20 < schultmc> !vote yes
+19:20 < Maulkin> !vote yes
+19:20 < cdlu> !vote yes
+19:20 < Overfiend> !vote yes
+19:20 < bdale> !vote yes
+19:20 < Hydroxide> !vote yes
+19:20 < Maulkin> Joey :)
+19:20 < Joy> can i vote for joey? :P
+19:21 < bdale> Joy: no
+19:21 < Joey> !vote yes
+19:21 < Overfiend> sure, based on the "abastain" precedent ;-)
+19:21 < Maulkin> ta
+19:21 < Joey> Joy, hmm, interesting plan :)
+19:21 < Maulkin> Current voting results for "Approve amendment 2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised)": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+19:21 < Maulkin> Voting for "Approve amendment 2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised)" closed.
+19:21 < Joy> bdale: just a joke :)
+19:21 < Joy> Overfiend: letter here, letter there... :)
+19:21 < Maulkin> Thus, the resolution is amended to the text of 2006-04-03.jfsp.1.jrk.1
+19:21 < bdale> Joy: I know
+19:21 < bdale> Maulkin: ok, thanks
+19:21  * Overfiend moves that we vote on 2006-04-03.jfsp.1
+19:22 < bdale> any board members have anything to add here before we vote on the amended resolution?
+19:22  * schultmc seconds
+19:22  * cdlu ready
+19:22 < Hydroxide> Overfiend: with the amendment, presumably?
+19:22 < bdale> Hydroxide: yes, of course
+19:22 < Overfiend> Hydroxide: I'm following the text of the minutes.
+19:22 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Approve resolution 2006-04-03.jfsp.1-amended-to-2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:22 < IanJackson> !vote yes
+19:22 < schultmc> !vote yes
+19:22 < Maulkin> !vote yes
+19:22 < Overfiend> !vote yes
+19:22 < bdale> !vote yes
+19:22 < cdlu> !vote yes
+19:22 < Hydroxide> !vote yes
+19:23  * Hydroxide suggests that we just call the resolution 2006-04-03.jfsp.1.jrk.1 instead of that -amended-to- godawfulness. that's what the .jfsp.1.jrk.1 signifies anyway.
+19:23 < Overfiend> Hydroxide: AIUI, it would be out of order for me to move to vote on a resolution not properly before the Board.
+19:23 < IanJackson> Hydroxide: Fine.
+19:23 < Overfiend> Hydroxide: er, wouldn't that render the former identifier ambiguous?
+19:23 < Maulkin> Hydroxide: fine :)
+19:23  * Overfiend cares less about how pretty the names are than that they are unique
+19:23 < Maulkin> Joey...
+19:24 < Joey> !vote yes
+19:24 < IanJackson> Look, we don't care what the name is, we all know what it was we were voting on.
+19:24 < Maulkin> Current voting results for "Approve resolution 2006-04-03.jfsp.1-amended-to-2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised)": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+19:24 < Maulkin> Voting for "Approve resolution 2006-04-03.jfsp.1-amended-to-2006-04-03.jfsp.1.jrk.1 - Debian trademark in spain (revised)" closed.
+19:24 < Hydroxide> I don't think it's ambiguous, but I also don't want to discuss it further
+19:24 < Overfiend> IanJackson: *we* know -- the point is to have the historical record be clear
+19:24 < Maulkin> It'll be 2006-04-03.jfsp.1.jrk.1. I was just trying to make it clearer for the vote.
+19:24 < bdale> ok
+19:24 < Maulkin> Done
+19:24 < bdale> let's proceed
+19:25 < bdale> [item 6.2, Moving SPI bank accounts (Resolution 2007-01-19.jmb.2]
+19:25 < bdale> Michael, would you like to add anything before we vote on the resolution?
+19:25 < IanJackson> Overfiend: Maybe we should use messageids ...
+19:25 < schultmc> bdale: no
+19:25 < Overfiend> IanJackson: wouldn't bother me in the least, the existing strings are way too long for me to type by hand anyway :)
+19:25 < bdale> schultmc: ok
+19:25 < bdale> Maulkin: let's vote then, please
+19:25  * Maulkin moves so.
+19:25  * schultmc seconds
+19:26 < Maulkin> Voting started, 8 people (schultmc,bdale,ianjackson,overfiend,maulkin,cdlu,hydroxide,joey) allowed to vote on Approve resolution 2007-01-19.jmb.2 - Moving SPI bank accounts. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:26 < Joey> !vote yes
+19:26 < Hydroxide> !vote yes
+19:26 < IanJackson> !vote yes
+19:26 < Maulkin> !vote yes
+19:26 < bdale> !vote yes
+19:26 < Overfiend> !vote yes
+19:26 < schultmc> !vote yes
+19:26 < Maulkin> cdlu
+19:27 < cdlu> !vote yes
+19:27 < Maulkin> Current voting results for "Approve resolution 2007-01-19.jmb.2 - Moving SPI bank accounts": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+19:27 < Maulkin> Voting for "Approve resolution 2007-01-19.jmb.2 - Moving SPI bank accounts" closed.
+19:27 < cdlu> sorry, gprs died.
+19:27  * Overfiend asks to be excused from the rest of the meeting -- his late-notice work conference call begins in < 2 minutes.
+19:27 < Maulkin> bdale: Note the late addition at this stage :)
+19:27 < bdale> Overfiend: I don't believe we have any further votes
+19:27 < Maulkin> bdale: one more
+19:27 < Maulkin> Member communications (Resolution 2006-12-18.mjr.ijw.1)
+19:28 < Overfiend> bdale: okay...I find myself in concurrence with your email on the DPL issues
+19:28 < IanJackson> I'm iwj btw, not ijw.
+19:28 < bdale> right, sorry.  should we jump to that next?
+19:28 < Maulkin> IanJackson: apologies, will amend
+19:28  * Overfiend goes "afk"
+19:28 < IanJackson> Will we be inquorate without Overfiend ?
+19:28 < Maulkin> IanJackson: nope
+19:28 < Overfiend> shouldn't
+19:28 < IanJackson> Right.
+19:28 < IanJackson> Right, I just wanted to do two things: one, we've all seen MJ Ray's original motion.  I take it no-one particularly fancies approving it; if you do speak now.
+19:29 < IanJackson> Secondly, I have the meeting-announcement-timetable proposal.
+19:29 < bdale> ah, ok, I just reloaded the agenda.... 
+19:29 < IanJackson> Feel free to say `let's decide next meeting'.
+19:29 < IanJackson> But we have had some discussion of these matters already.
+19:30 < bdale> [item 6.3, Member communications (Resolution 2006-12-18.mjr.ijw.1)]
+19:30 < IanJackson> What Maulkin is calling 2006-12-18.mjr.iwj.1 is what I emailed to the list in <17837.4739.938676.326496@chiark.greenend.org.uk>
+19:30 < Maulkin> IanJackson: I saw that one. It'll need futher comments, as when I suggested 48h as a limit, there were complaints that we were placing a "barrier to member participation"
+19:30 < jello> why isn't the resolution availabl?
+19:30 < jello> *available
+19:30 < IanJackson> Maulkin: We've had all of that discussion and basically only MJ Ray agrees.
+19:30  * cdlu has not read this resolution
+19:30 < bdale> I am not current on email from the last day or so
+19:30 < IanJackson> jello: Not been put up on the agenda.
+19:30 < Maulkin> jello: Because I didn't have time to add it to the agenda in HTML form.
+19:30 < IanJackson> OK, let's defer it.  I withdraw this and we can do it nextr month.
+19:30  * cdlu moves for a february vote
+19:30  * cdlu unmoves
+19:30 < bdale> I'll second
+19:30 < Hydroxide> ok, next month then
+19:30  * Maulkin nods
+19:31 < bdale> done
+19:31 < bdale> slef: please accept my apology for the fact that this didn't get on to the original agenda for this month
+19:31 < bdale> Maulkin: let's make sure it's on the Feb agenda with suitable discussion by email in the mean time
+19:31 < Maulkin> bdale: No problems
+19:31 < bdale> aj: are you here?
+19:32 < cdlu> anything left on today's?
+19:32 < bdale> cdlu: nothing to vote on, some small items
+19:32 < IanJackson> The DPL, opensource.org, and change of meeting time items don't have any report or anything at this stage.
+19:32 < IanJackson> So I suggest we defer them.
+19:32 < Maulkin> Erm...
+19:32 < Hydroxide> IanJackson: not true.
+19:32 < cdlu> 'k. standing by. bdale, I feel your gprs-attending pain. :)
+19:32 < Maulkin> Can I please do the moving meeting time?
+19:32 < Maulkin> (at least)
+19:32 < bdale> hang on, folks, I think it's worth reporting on 6.4 briefly
+19:33 < bdale> [item 6.4, Outstanding items requesting comment from the DPL]
+19:33 < bdale> The items which I believe I was responsible for addressing with our legal
+19:33 < bdale> counsel were all covered in the previously mentioned phone call and subsequent
+19:33 < bdale> report.  
+19:33 < bdale> if aj's not here, the rest can wait
+19:33 < IanJackson> Maulkin: Why no report emailed in advance ?
+19:34 < Maulkin> IanJackson: cause no on esent me one
+19:34 < Maulkin> *sent
+19:34 < Hydroxide> Maulkin: didn't you say you were going to write up the opensource.org discussion report?
+19:34 < bdale> Maulkin: can you give me a one-liner about what 6.5 and 6.6 are supposed to be?
+19:35 < Maulkin> Hydroxide: I said that I'll need one, but probably woudn't have time to do it.
+19:35 < Maulkin> Yup
+19:35 < Hydroxide> Maulkin: ah
+19:35 < Maulkin> 6,5 Opensource.org report: a request has been made to make public the logs / a summary of the board@ discussion on opensource.org
+19:36 < Maulkin> This will be attached as a appendix to the minutes
+19:36 < Joey> I don't see that or how this would be helpful.
+19:36 < bdale> oh, right.  is there any action we need to take on that here?
+19:36 < Maulkin> (done)
+19:36 < Maulkin> Nope, I'll mail everyone
+19:36 < bdale> ok, thanks
+19:36 < Maulkin> Meeting time change:
+19:36 < bdale> Joey: you are referring to the summary of the board discussion?
+19:36 < Maulkin> As board members should be aware, I sent out a form to fill in to pick a new meeting time.
+19:36  * cdlu waits for a surprise time
+19:37 < bdale> Maulkin: is there any action needed here regarding the new meeting time?
+19:37 < Joey> bdale: ack
+19:37 < Maulkin> The results are in, and I suggest the 3rd Friday of each month, 20:00UTC
+19:37 < Maulkin> yes
+19:37 < Maulkin> My little table is at: http://www.halon.org.uk/spi/meeting_planner.php
+19:38 < cdlu> interesting time. cool.
+19:38 < bdale> board, any discussion, or should we accept Neil's proposed time?
+19:38 < Maulkin> The drop n percentage is due to someone saying "prefereably not, but possible"
+19:38 < IanJackson> I don't want to be bounced into deciding it now.
+19:38 < xzilla> does that mean we will meet again in 3 days?  :-)
+19:38 < Maulkin> Everyone else said "fine"
+19:38 < Maulkin> No idea who.
+19:39 < bdale> IanJackson: well, the relevant question is when our next meeting will occur
+19:39 < bdale> it will not be in 3 days
+19:39 < Hydroxide> I at least am ready to schedule our next meeting for the third Friday of February at 20:00 UTC
+19:39  * schultmc would like the meeting time to be decided before the US goes on DST (March 11)
+19:39  * cdlu agrees with hydroxide and is prepared to move such if needed :)
+19:39 < bdale> IanJackson: any input on what our next meeting time should be?  I'm personally ok with going with Neil's proposal
+19:40 < Maulkin> The advantage of the 20:00 time rather than 21:00 is that everyone should still be able to make it after DST
+19:40 < Hydroxide> schultmc: the advantage of 20:00 UTC is that after DST starts, although local times will shift by an hour, the resulting local times were also marked as equally available on Neil's planner
+19:40 < IanJackson> Is the plan for the meeting time to change with DST changes ?
+19:40 < schultmc> Hydroxide: right
+19:40 < Maulkin> IanJackson: Nope. I think both those times were 'ok, but pref not' on your table
+19:40 < bdale> IanJackson: I'm hoping we can use a fixed UTC time
+19:40 < Hydroxide> IanJackson: the plan is to keep it at 20:00 UTC, which will still work in adjusted local times according to the planner
+19:40 -!- slef [~mjr@86.53.37.59] has quit [Read error: Connection reset by peer]
+19:40 < schultmc> if we continue with the third tuesday at 1900Z I don't have a conflict in February
+19:40 < schultmc> I have potential conflicts March-May
+19:40 < Hydroxide> schultmc: do you have a conflict with the third friday in february at 2000Z ?
+19:40 < schultmc> Hydroxide: no
+19:40  * IanJackson does DST conversions.
+19:41 < Maulkin> IanJackson: It'll mean that April is 21:00 UK time
+19:41 < bdale> and we're talking 2/16?
+19:41 < IanJackson> Maulkin: Hmm, that's not very nice for me.
+19:41 < Maulkin> IanJackson: Yeah, but it's the best time I can find :)
+19:42 < IanJackson> Couldn't we do 1900Z during DST ?
+19:42 < Maulkin> IanJackson: Not really
+19:42 < IanJackson> Everyone's in the northern hemisphere, aren't we ?
+19:42 < Hydroxide> IanJackson: the problem is that US/Canada start DST on March 11
+19:42 < Hydroxide> IanJackson: and Europe starts it in April
+19:42 < IanJackson> Well, we can have one month where it's off.
+19:42 < Maulkin> The only other real one is 19:00 saturday, but that would require moving the meeting after DST starts.
+19:43 -!- slef [~mjr@86.53.37.59] has joined #spi
+19:43 < Maulkin> And weekend meeting don't go well
+19:43 < bdale> I would prefer we avoid weekends
+19:43  * Hydroxide agrees with no weekends
+19:43 < xzilla> weekends are bad... mkay
+19:43 < Overfiend> Fridays from 2300Z and later are bad for me
+19:43 < IanJackson> bdale: You're using hideous USAian middle-endian date there, aren't you ?
+19:43 < Maulkin> Overfiend: I'd hope to be done in < 2h :)
+19:44 < bdale> IanJackson: I'm awake too early my local time this morning to be able to rationally talk about time...  ;-)
+19:44 < Overfiend> Maulkin: just saying, since I didn't participate in the grid :)
+19:44 < IanJackson> Well, I can do 2000Z on 2007-02-16.
+19:44 < bdale> ok
+19:44 < Overfiend>    February 2007    
+19:44 < Overfiend> Su Mo Tu We Th Fr Sa
+19:44 < Overfiend>              1  2  3
+19:44 < Overfiend>  4  5  6  7  8  9 10
+19:44 < Overfiend> 11 12 13 14 15 16 17
+19:44 < Overfiend> 18 19 20 21 22 23 24
+19:44 < Overfiend> 25 26 27 28
+19:44 < bdale> Neil, is that what's currently proposed?
+19:44 < Maulkin> Ok. Should we schedule for next time, and then work it out later?
+19:44 < IanJackson> Can I suggest that Maulkin should post his data to the lists and then we can talk about it offline ?
+19:44 < Maulkin> Friday 16th February, 2006 20:00UTC
+19:44 < Overfiend> I know of no conflicts for me on 2007-02-16 @ 2000Z
+19:44 < bdale> Maulkin: I'd like us to pick our next meeting time, and discuss on email between now and then what happens after that
+19:45  * Hydroxide moves that our next meeting time be  2007-02-16 @ 2000Z
+19:45 < bdale> ok, I'm happy with that time, and don't intend to vote on it
+19:45 < Maulkin> Any major objections?
+19:45  * schultmc is also happy with that time
+19:45 < Maulkin> The next meeting is scheduled for Friday 16th February, 2006 20:00UTC.
+19:45 < Hydroxide> yey
+19:45 < Maulkin> \o/
+19:45 < Maulkin> doe
+19:45 < Maulkin> *done
+19:45 < schultmc> Maulkin: 2007
+19:45 < bdale> ok, that covers 6.6 and 7, and we're done for today.
+19:45 < Maulkin> yeah, 2007! :)
+19:45 < linuxpoet> I would like to thank the following PostgreSQL members for being present for the meeting: Robert Treat, Devrim Gunduz, Joshua Drake, David Fetter, Greg SabinoMullane
+19:45 < bdale> *GAVEL*

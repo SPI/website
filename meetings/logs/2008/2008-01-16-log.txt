@@ -1,0 +1,382 @@
+19:03 < Maulkin> *GAVEL*
+19:03 < Maulkin> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+19:03 < Maulkin> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2007/2007-12-19.html
+19:03 < Maulkin> [item 2, Roll Call]
+19:03 < Maulkin> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+19:03 < Maulkin> Guests (including board advisors), please /msg your names to Maulkin if you wish your attendance to be recorded in the minutes of this meeting.
+19:03 < Maulkin> Excapt that URL is wrong.
+19:03 < cdlu> David Graham
+19:03 < schultmc> Maulkin: wrong agenda :P
+19:03 < schultmc> Michael Schultheiss
+19:03 < Maulkin> It's in the topuc
+19:03 < Maulkin> *topic
+19:03 < luk> Luk Claes
+19:03 < Maulkin> Neil McGovern
+19:04  * zobel == Martin Zobel-Helas
+19:04 < linuxpoet> Joshua Drake
+19:04 < cdlu> quorum. 
+19:04 < cdlu> Ganneff, bdale, agliodbs not present.
+19:04 < Maulkin> Tentative regrets from Ganneff
+19:04 < Maulkin> [item 3, President's Report]
+19:05 < Maulkin> bdale?
+19:05 < Maulkin> Well, I guess we can come back to it.
+19:05 < Maulkin> [item 4, Treasurer's Report]
+19:05 < Maulkin> Michael?
+19:05  * schultmc owes bdale a report for our status as of december 31, 2007
+19:06  * schultmc is still working on that
+19:06 < linuxpoet> What is the status of floyd and getting it running with the financials?
+19:06 < schultmc> I'm also planning on contacting our accountants to get recommendations about bookkeepers so we can more easily generate reports
+19:06 < schultmc> Ganneff should know the status of floyd
+19:06  * schultmc will ping him
+19:06 < Maulkin> Anything you need from us today/now?
+19:07 < schultmc> nope
+19:07 < Maulkin> Cool.
+19:07 < Maulkin> All done then?
+19:07 < schultmc> from me, yes
+19:07 < Maulkin> [item 5, Secretary's report]
+19:07 < Maulkin> No specific mail received to secretary@.
+19:07 < Maulkin> [item 6, Outstanding minutes]
+19:08 < Maulkin> Just last month (December 29th, 2007) to approve
+19:08 < bdale> sorry, I'm here now
+19:08 < schultmc> Dec 19
+19:08 < Maulkin> Sorry, yes, 19th
+19:08 < bdale> was in a heated discussion in a work meeting
+19:08 < zobel> Maulkin: URL?
+19:08 < luk> zobel: topic
+19:08 < cdlu> http://www.spi-inc.org/corporate/meeting-minutes/2007/board-meeting-december-19th-2007.html
+19:08 < Maulkin> Linked off the agenda in teh topic
+19:08  * cdlu was not present and is prepared to abstain
+19:09 < Maulkin> bdale: wanna carry on? :)
+19:09 < bdale> Maulkin: happy to if you wish
+19:09 < Maulkin> bdale: Go for it. Skipped the pres. report until you arrived if you've got anythign for it.
+19:09 < bdale> are we ready for a vote on the minutes?
+19:09  * Maulkin moves so.
+19:10  * schultmc seconds
+19:10 < Maulkin> Voting started, 7 people (cdlu,schultmc,luk,maulkin,zobel,linuxpoet,bdale) allowed to vote on Approve December 19th, 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:10 < schultmc> !vote yes
+19:10 < Maulkin> !vote yes
+19:10 < bdale> !vote yes
+19:10 < linuxpoet> !vote yes
+19:10 < luk> !vote yes
+19:10 < cdlu> !vote abstain
+19:10 < zobel> !vote yes
+19:10 < Maulkin> Current voting results for "Approve December 19th, 2007 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+19:10 < Maulkin> Voting for "Approve December 19th, 2007 minutes" closed.
+19:10 < Maulkin> Done
+19:10 < bdale> ok, thanks all
+19:10 < bdale> again, my apologies for being late
+19:10 < bdale> let me back up and give a brief report
+19:10 < schultmc> actually reviewing the minutes, I have one more treasurer report item for this meeting
+19:11 < bdale> schultmc: go ahead
+19:11 < luk> bdale: np, you were still arriving during the meeting :-)
+19:11  * bdale is glad he didn't miss any votes, and thanks Maulkin for carrying on
+19:11 < schultmc> As I understand it, our CPA has finished our tax return for 2006 and it's just awaiting my signature and submission to the IRS
+19:11 < bdale> schultmc: that sounds like good news?
+19:11 < schultmc> yes
+19:11 < linuxpoet> yeah!
+19:11  * Hydroxide cheers
+19:12 < cdlu> woot!
+19:12 < bdale> schultmc: I presume you'll get that done this month, then?
+19:12 < Maulkin> \o/
+19:12 < schultmc> bdale: yes
+19:12 < bdale> schultmc: ok, thanks
+19:12 < bdale> [item 3, President's Report]
+19:12 < bdale> Just after the start of the year, several board members discussed on IRC the 
+19:12 < bdale> process for gathering together the information for our 2007 annual report, 
+19:12 < bdale> took assignments to deliver the various components, and moved the work in 
+19:12 < bdale> process and some historical documents to online shared version control.  A
+19:12 < bdale> key component that is not ready yet is a financial report, I also have content
+19:12 < bdale> to deliver.  I think we're on track to deliver a 2007 report towards the end of
+19:12 < bdale> this month, almost certainly before our next board meeting.
+19:12 < bdale> any comment, or should we move on?
+19:12 < schultmc> sounds correct to me
+19:13 < bdale> ok
+19:13 < Maulkin> Works for me
+19:13  * cdlu nods
+19:13 < bdale> [item 7, Items up for discussion]
+19:13 < bdale> [item 7.1, 2007-12-29.jdd.1 - Madwifi as an associated project]
+19:13 < bdale> Board members, there's been little email comment about this resolution.  Do we need any further discussion, or are we ready to vote?
+19:13  * schultmc is ready to vote
+19:13  * Maulkin moves so
+19:13  * cdlu is prepared to vote
+19:13  * cdlu seconds
+19:13  * zobel seconds
+19:13 < Maulkin> Voting started, 7 people (cdlu,schultmc,luk,maulkin,zobel,linuxpoet,bdale) allowed to vote on Approve resolution 2007-12-29.jdd.1 - Madwifi as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:13 < schultmc> !vote yes
+19:13 < linuxpoet> !vote yes
+19:13 < cdlu> !vote yes
+19:13 < Maulkin> !vote yes
+19:13 < bdale> !vote yes
+19:13 < zobel> !vote yes
+19:13 < luk> !vote abstain
+19:13 < Maulkin> Current voting results for "Approve resolution 2007-12-29.jdd.1 - Madwifi as an associated project": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+19:13 < Maulkin> Voting for "Approve resolution 2007-12-29.jdd.1 - Madwifi as an associated project" closed.
+19:14 < bdale> great.  Maulkin, you'll communicate this to them?
+19:14 < bdale> or is someone from madwifi present here now?
+19:14 < linuxpoet> I am contact with them already (just fyi)
+19:14 < bdale> linuxpoet: right, sorry
+19:14  * otaku42 is from madwifi.org
+19:14  * otaku42 is Michael Renzmann
+19:14 < Maulkin> otaku42: Does madwifi accept? :)
+19:15 < linuxpoet> congratz otaku42
+19:15 < bdale> otaku42: oh, you're here!  great. 
+19:15 < luk> otaku42: welcome to SPI :-)
+19:15 < zobel> otaku42: welcome as SPI associated project
+19:15 < otaku42> madwifi wishes to thank SPI for the invitation and happily accepts
+19:15 < Maulkin> \o/
+19:15 < cdlu> yay!
+19:15 < otaku42> thanks guys :)
+19:15 < cdlu> otaku42, welcome to SPI :)
+19:15 < bdale> great.  ok, let's move on.
+19:15 < Maulkin> otaku42: I'll need $stuff from you :)
+19:15 < schultmc> otaku42: welcome!
+19:15 < bdale> [item 7.2, 2008-01-08.jdd.1 - Adding Paysimple as a payment provider]
+19:15 < bdale> Joshua, thanks for investigating payment processors.  Do you have any comments to add beyond the text of the resolution?
+19:16 < Maulkin> Can sort it out afterwards, don't go anywhere :)
+19:16 < linuxpoet> Only that I am glad to see this finally be processed
+19:16 < linuxpoet> I will of course answer any questions.
+19:16 < bdale> Any further discussion, or are we ready for a vote?
+19:16 < otaku42> Maulkin: i will try to stay for another while and let you know once i have to leave
+19:16  * Maulkin moves to vote
+19:16 < linuxpoet> The Treasurer has been aprised and introduced to them
+19:16  * schultmc seconds
+19:16 < Hydroxide> linuxpoet: quick wording suggestion: s/Pending/Upon/ ?
+19:17 < Hydroxide> linuxpoet: (slef is right about the meaning of the word Pending)
+19:17 < linuxpoet> I honestly didn't see the difference but I am not a wordsmith
+19:17 < bdale> I'm ok with that change
+19:17 < schultmc> Maulkin: both of linuxpoet's first 2 resolutions are jdd.1
+19:17 < linuxpoet> I am indifferent :) if it makes people more comfortable, ok
+19:17 < schultmc> ah
+19:17 < schultmc> nm
+19:17 < schultmc> diff dates
+19:17 < linuxpoet> right
+19:17 < Maulkin> schultmc: No they're not :)
+19:17 < schultmc> heh
+19:17 < cdlu> friendly amendment, then? :)
+19:17  * schultmc caught that :)
+19:18 < Maulkin> linuxpoet: Accept the s/Pending/Upon/ ?
+19:18 < linuxpoet> I am fine with a friendly amendment
+19:18 < linuxpoet> Accept
+19:18 < Maulkin> Cool,
+19:18 < Maulkin> Voting started, 7 people (cdlu,schultmc,luk,maulkin,zobel,linuxpoet,bdale) allowed to vote on Approve resolution 2008-01-08.jdd.2 - Adding Paysimple as a payment provider. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:18 < zobel> !vote yes
+19:18 < Maulkin> !vote yes
+19:18 < linuxpoet> !vote yes
+19:18 < bdale> !vote yes
+19:18 < cdlu> !vote yes
+19:18 < schultmc> !vote yes
+19:18 < luk> !vote yes
+19:18 < Maulkin> Current voting results for "Approve resolution 2008-01-08.jdd.2 - Adding Paysimple as a payment provider": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+19:18 < Maulkin> Voting for "Approve resolution 2008-01-08.jdd.2 - Adding Paysimple as a payment provider" closed.
+19:18 < Maulkin> Pass
+19:19 < bdale> ok, great.  linuxpoet/schultmc I presume you'll collaborate to get this done?
+19:19 < cdlu> our first unanimous vote fo the day!
+19:19 < linuxpoet> bdale: Yes
+19:19 < bdale> let's move on then
+19:19 < schultmc> bdale: yes
+19:19 < bdale> [item 7.3, 2008-01-08.jdd.3 - Removal of wxWidgets]
+19:19 < bdale> Any discussion needed on this one?  The email discussion seemed clear to me.
+19:19 < Maulkin> Seems clear here too
+19:19 < linuxpoet> Agreed
+19:19  * cdlu nods
+19:19  * cdlu moves for a vote
+19:19  * Maulkin moves to vote
+19:19  * linuxpoet seconds
+19:19 < linuxpoet> twice
+19:19 < Maulkin> Voting started, 7 people (cdlu,schultmc,luk,maulkin,zobel,linuxpoet,bdale) allowed to vote on Approve resolution 2008-01-08.jdd.3 - Removal of wxWidgets. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:19 < luk> !vote yes
+19:19 < cdlu> !vote yes
+19:19 < linuxpoet> !vote yes
+19:19 < bdale> !vote yes
+19:19 < schultmc> !vote yes
+19:19 < Maulkin> !vote yes
+19:19 < zobel> !vote yes
+19:19 < Maulkin> Current voting results for "Approve resolution 2008-01-08.jdd.3 - Removal of wxWidgets": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+19:19 < Maulkin> Voting for "Approve resolution 2008-01-08.jdd.3 - Removal of wxWidgets" closed.
+19:19 < Maulkin> Done
+19:20 < bdale> thanks again, Joshua, for your work in researching and preparing these three for today
+19:20 < linuxpoet> my pleasure
+19:20 < bdale> [item 7.4, Discussion of Josh Berkus's board member status]
+19:20 < bdale> Josh indicated to the board that his future schedule might make it difficult to attend board meetings, and volunteered to step down from the board if that would help ensure we meet quorum.  A reading of the bylaws indicates that it would make no difference to our quorum requirements, and I think I saw Josh indicate since that he may be more available than he thought.  Does that mean Josh should just stay on the board until elections naturally happen this year?
+19:20 < linuxpoet> I would like to offer a compromise
+19:20 < bdale> ok
+19:21 < linuxpoet> Allow Josh to stay on board till next election with consideration *but* we need to appoint another board member
+19:21 < linuxpoet> We almost didn't make quorum today
+19:21 < cdlu> bdale, unless he is to be ejected per the attendance policy, which I'm not sure of his status within, his disposition is, imo, entirely his discretion. it'd certainly be easiest if he stepped down at election time though.
+19:21 < luk> linuxpoet: we are 7?!
+19:21 < cdlu> linuxpoet, we're superquorate today.
+19:21 < cdlu> 7/9 requirement is 6
+19:21 < cdlu> if we have 10 our quorum becomes 7.
+19:21 < linuxpoet> bdale you almost didn't make it
+19:21 < linuxpoet> and...
+19:21 < linuxpoet> The *only* reason I did is because I was actually on server and cdlu invited me
+19:22 < linuxpoet> I had completely forgotten
+19:22 < cdlu> linuxpoet, that's SOP. I /invite anyone connected who is not in channel.
+19:22  * linuxpoet is just trying to be honest
+19:22  * cdlu notes board members are responsible for remembering board meeting times.
+19:22 < luk> well Maulkin didn't send a reminder which was near meeting time :-)
+19:22 < linuxpoet> Yes I know :)
+19:22 < Maulkin> (see, I shouldn't send reminders a week in advance)
+19:22 < schultmc> heh
+19:22 < bdale> right, meeting quorum was a serious problem for us for a while, but we've been doing well the last year plus
+19:22 < cdlu> maulkin, two hours is just right. ;)
+19:22 < Maulkin> 2 hours before is perfect.
+19:22 < linuxpoet> bdale: I am just offering a safety net
+19:22  * slef notes alarm clocks (and dictionaries) are free on debian
+19:22 < linuxpoet> it certainly wouldn't hurt us to add a board member
+19:23 < cdlu> yes it would :)
+19:23 < schultmc> it would increase quorum which could hurt
+19:23 < cdlu> it would make our quorum 7.
+19:23 < linuxpoet> oh argh
+19:23 < cdlu> replacing josh would be fine, but just adding someone else makes our quorital lives more difficult.
+19:23 < bdale> right, my thinking is that we either keep Josh as is, or we replace him, going down a member doesn't help and adding a member doesn't help
+19:23 < cdlu> if I can be allowed to coin a word.
+19:23 < linuxpoet> select 10 * .66;
+19:23 < linuxpoet>  ?column? 
+19:23 < linuxpoet> ----------
+19:23 < linuxpoet>      6.60
+19:23 < luk> so we should add 3 board members or just replace agliodbs
+19:23 < bdale> which is 7
+19:23  * cdlu agrees with bdale
+19:23 < cdlu> luk, hehe
+19:24 < Hydroxide> linuxpoet: and the smallest integer not less than 6.60 is 7
+19:24 < bdale> so I'm inclined to keep Josh as is, since that's simplest, and let this resolve itself naturally at election time
+19:24 < linuxpoet> Hydroxide: right
+19:24  * Maulkin nods
+19:24 < cdlu> bdale, unless he's otherwise ousted per attendance policy, ya.
+19:24 < linuxpoet> bdale: I will defer to that as long as we continue to meet quorum
+19:24 < bdale> ok, then I think we're done with this item?  ball remains in Josh's court?
+19:24  * Maulkin nods.
+19:24  * cdlu agrees with that
+19:25 < linuxpoet> agreed
+19:25 < luk> keeping him on board would be fine with me, I only hope he is also fine with it
+19:25 < Maulkin> I'll assume Josh has permanent regrets, similar to Hydroxide last year
+19:25 < bdale> luk: he said he was, we have to take that at face value
+19:25 < bdale> Do any board members have other items for discussion they would like to address briefly?
+19:25 < cdlu> attendance policy counts regrets for half-point or something doesn't it? :)
+19:25 < cdlu> bdale, not I.
+19:25 < Maulkin> ish.
+19:25 < schultmc> regardless of josh's board status, he's volunteered to continue as assistant treasurer
+19:25 < Hydroxide> Maulkin: hey, I managed to attend a lot of those :)
+19:25 < Maulkin> I'll work out attendance thing for next meeting
+19:25 < bdale> k
+19:25 -!- aglio2 [~kvirc@adsl-63-195-55-98.dsl.snfc21.pacbell.net] has joined #spi
+19:25 < linuxpoet> aglios is about to be here
+19:25 < bdale> speaking of which...
+19:26 < bdale> [item 8, Next board meeting]
+19:26 < bdale> Neil?  I believe our default would be Wednesday 20th Feb, 2008 - 19:00 UTC?
+19:26 < cdlu> oh speak of the devil
+19:26 < Maulkin> .oO(Can I go have my tea yet? :P)
+19:26 < aglio2> sorry
+19:26 < aglio2> a little distracted today
+19:26 < aglio2> for obvious reasons
+19:26 < Maulkin> bdale: Ack.
+19:26 < cdlu> aglio2, we're going with the status quo. you are free to do what you like with your board seat. :)
+19:26 < luk> 20th Feb wouldn't work for me
+19:26 < bdale> I'll be in an all-day work meeting that day, but should be able to run the meeting regardless.
+19:26 < aglio2> can you appoint a replacement?
+19:27 < cdlu> 20th feb works for me.
+19:27  * zobel is not sure i can attend any feb meeting.
+19:27  * schultmc starts a new job 2008-01-28 - as far as I knoew feb 20th will still work for me
+19:27 < schultmc> know
+19:27  * cdlu motions to josh's comment
+19:27 < linuxpoet> seconded
+19:27 < cdlu> feb 20th works for me. 
+19:28 < linuxpoet> I have an option for replacement if people are interested
+19:28  * linuxpoet is not sure how this works
+19:28  * Hydroxide is available to attend all board meetings between now and the start of the next board's term, and will run in the next board elections regardless of who's appointed
+19:28 < bdale> we can talk about appointing a replacement for Josh, but I think we can do that by email unless there's a specific proposal we can close on without much discussion today?
+19:28 < cdlu> bdale, I propose that we call for nominations immediately for the new board seat, from which the board will select a name on february 20th.
+19:28 < cdlu> to serve only until the election in july.
+19:28 < bdale> cdlu: that's an interesting approach.  can the board select from such a list, or do we need an election?
+19:28 < luk> feb 20th doesn't work for me
+19:28 < linuxpoet> bdale: we can appoint
+19:29 < cdlu> bdale, election resolution calls for mid-term appointments to be appointments.
+19:29 < bdale> in that case, I'm ok with cdlu's proposal
+19:29 < bdale> aglio2: that work for you?
+19:29 < Maulkin> I'll mail the lists then.
+19:29 < bdale> Maulkin: meanwhile, I see luk has a problem with the 20th, but it looks like it's ok otherwise.  we go with it?
+19:30 < zobel> that would be a public vote?
+19:30 < bdale> at the board meeting, I presume so
+19:30 < cdlu> zobel, unless you want to move for secret ballot. we don't have any precedent. :)
+19:30 < Maulkin> zobel: it's appointment, so consensus or whatever.
+19:30 < linuxpoet> I suggest we consensus on @board and appoint @meeting
+19:30 < bdale> ok
+19:31 < bdale> that makes more sense to me too
+19:31 < aglio2> sure
+19:31  * luk seconds linuxpoet
+19:31  * cdlu nods
+19:31  * zobel seconds linuxpoet 
+19:31 < cdlu> let's not forget to reach that concensus then. :)
+19:31 < luk> lol
+19:31 < Maulkin> I'll make something up after reading resolutions a bit more and email
+19:31 < bdale> so Maulkin will call for interest, the board will discuss on -board, and we'll publicly approve an appointment at 20th Feb mtg
+19:31 < linuxpoet> agreed
+19:32 < aglio2> one thing you should think about though: there will be a request that the board select the runner-up from the last election
+19:32  * cdlu thinks we have concensus and can put this issue to bed
+19:32 < linuxpoet> cdlu: agreed
+19:32 < bdale> since I think it was lost in the noise before, do any board members have other items for discussion they would like to address briefly?
+19:32 < Maulkin> do we have concensus about getting concensus?
+19:32 < linuxpoet> I have a couple
+19:32 < bdale> aglio2: noted, but I don't think the board need feel bound by such a request
+19:32 < zobel> bdale: /me not
+19:32 < luk> aglio2: appointment is appointment, the runner up is free to nominate
+19:32 < cdlu> maulkin, unless you want to vote on having a vote? :)
+19:32 < bdale> linuxpoet: go
+19:33 < linuxpoet> First I want to thank everyone for moving forward with the new financial provider. I believe it will be a great help to our affiliated projects.
+19:34 < aglio2> yeah, looks good
+19:34 < linuxpoet> Second I wanted to toss the idea out there for your minds on a affiliated project committee whose sole purpose would be to work directly with the liaisons to help them get the most out of SPI and allow them to proactivelly communicate with us.
+19:34 < bdale> ok, that's an interesting idea
+19:34 < bdale> good topic for email discussion
+19:34 < bdale> anything else?
+19:35 < linuxpoet> Lastly, I would like firm committments on when floyd will maintain our financial records and when the member purge will be done.
+19:35 < bdale> schultmc/aglio2?
+19:35 < schultmc> Ganneff is setting up the necessary bits on floyd and needs to coordinate with aglio2
+19:36 < bdale> timing?
+19:36 < schultmc> Maulkin, luk, and I need to work on the member purge
+19:36 < linuxpoet> aglio2 based on your available time, I offer my time to help you with whatever needs to be done.
+19:36 < schultmc> by 2008-01-31 was the original timing for the data transfer
+19:36 < bdale> schultmc: still seem feasible?
+19:36  * schultmc can also help out if given access
+19:36 < cdlu> linuxpoet, I'd like to either have a permanent/on-going member purge keeping our rolls to who actually wants to be a contributing contributing member, or not worry about the purge until by-laws committee has been restruck, met, come to a concensus, and is ready for a plebiscite.
+19:36 < aglio2> once PHP & Postgres are installed on floyd, I can move the existing stuff quickly
+19:36 < schultmc> bdale: should be
+19:36 < linuxpoet> cdlu: I like the first option
+19:36 < bdale> ok, then we'll expect the transfer of data by the end of Jan 2008
+19:37 < cdlu> me too, but it gives membership ctte plenty of work.
+19:37  * schultmc has a week and a half before starting his new job so should have plenty of time to help as needed
+19:37 < luk> cdlu: if we go that route, it should be automated of course
+19:37 < linuxpoet> luk: good lord of course :)
+19:37 < schultmc> cdlu: per the bylaws this should be an annual thing iirc
+19:37 < bdale> an annual process preceeding annual meeting and associated votes seems like it would suffice?
+19:37 < luk> schultmc: wrong
+19:38 < schultmc> hrm
+19:38 < luk> schultmc: the Membership Committee has to take care of it, though I don't see any more requirements
+19:38 < bdale> ok, this discussion looks like it could drag out.  let's agree that we have a known time objective for the data transfer to floyd, and move the membership culling process discussion to email?
+19:38 < cdlu> schultmc, this is all it says on the topic:
+19:39 < cdlu>    Contributing Members
+19:39 < cdlu>    Contributing memberships are open to persons and organizations who have made significant contributions to the free software community, as determined
+19:39 < cdlu>    by the membership committee.
+19:39 < cdlu>    The membership committee and its charter will make reasonable and fair procedures for these determinations, including for acquiring necessary
+19:39 < cdlu>    information such as lists of projects a prospective member has participated in or testimonials, and for regularly reviewing the status of contributing
+19:39 < cdlu>    members.
+19:39 < cdlu>    If a contributing membership is not renewed, the member's status will be downgraded to a non-contributing member.
+19:39 < bdale> linuxpoet: is that adequate for today's meeting?
+19:39 < cdlu> so the policy is membership committee's to make.
+19:39 < linuxpoet> bdale: not to be anal but I would like a goal
+19:39 < linuxpoet> stated
+19:39 < bdale> linuxpoet: propose something, then
+19:39 < linuxpoet> by the next board meeting
+19:39 < bdale> linuxpoet: my own bias is that I'd like the list of contributing members culled before the voting around our annual meeting
+19:40 < bdale> a defined process for doing so by our next meeting?
+19:40 < linuxpoet> My push is for us to be more proactive with our members.
+19:40 < linuxpoet> bdale: I can defer to that
+19:40 < cdlu> if members.spi-inc.org simply expires all contributing members automatically annually, unless they are board members - specifically exempt in the by-laws - and have to manually request a renewal, the problem will take care of itself.
+19:40 < Maulkin> bdale: I think we can close.
+19:40 < bdale> Maulkin, et al, is a target of a plan for the culling process by next board meeting acceptable?
+19:40 < luk> yes
+19:40 < schultmc> that sounds reasonable to me
+19:41 < Maulkin> Fine by me
+19:41 < bdale> ok, great.
+19:41 < bdale> Ok, thank you to everyone present for participating today.  Enjoy the holidays!
+19:41 < bdale> *GAVEL*

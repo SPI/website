@@ -1,0 +1,229 @@
+19:00 < schultmc> *GAVEL*
+19:00 < schultmc> [item 1, opening] Today's Software in the Public Interest meeting is called to order.  Today's agenda and any pending resolutions are listed at http://www.spi-inc.org/secretary/agenda/2006/2006-12-19.html
+19:00 < schultmc> [item 2, roll call] Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  I note for the record that regrets have been received from Bdale Garbee and Martin "Joey" Schulze.
+19:00 < schultmc> Guests, please /msg your names to Maulkin for the record
+19:00 < cdlu> jberkus, time's up :)
+19:00 < xzilla> jberkus: is it worth it to the member projects to try and a) change osi, or b) try to mold the idea of oss into something we agree with?  
+19:00 < cdlu> David Graham
+19:00 < jberkus> Josh Berkus
+19:00 < schultmc> Michael Schultheiss
+19:00 < Hydroxide> Jimmy Kaplowitz
+19:00 < slef> Maulkin Screen disconnected 
+19:00 < xzilla> jberkus: i suspect b might be true, i am less so thinking of a
+19:00 < Maulkin> Hete
+19:00 < Maulkin> Neil McGovern
+19:00 < cdlu> one short of quorum
+19:01 < jberkus> where's Joey and Ian?
+19:01  * cdlu pings joey
+19:01 < schultmc> joey gave regrets
+19:01 < Hydroxide> jberkus, cdlu: he actually gave regrets
+19:01  * schultmc calls Branden
+19:01 < cdlu> oh, right
+19:01 < Hydroxide> I was expecting Ian to be here though
+19:01 < cdlu> Ian's probably replying to the thread :)
+19:01 -!- iwj [~ian@xenophobe.extern.relativity.greenend.org.uk] has joined #spi
+19:01 < Maulkin> Here we go :)
+19:01 < cdlu> Ian! quorum.
+19:01 < jberkus> Ian!
+19:01 < iwj> Aha!  Sorry I'm a bit late.
+19:01 < Hydroxide> <iwj> Ian Jackson
+19:02 < Hydroxide> :)
+19:02 < schultmc> branden won't be joining us today
+19:02 < jberkus> schultmc: hmmm ... reason?
+19:02 < schultmc> he sounded sick on the phone
+19:02 -!- iwj is now known as Diziet
+19:02 < jberkus> schultmc: oh
+19:02 < Diziet> Excuse me, wrong nick.
+19:02 < Diziet> I'm Ian Jackson.
+19:02 < jberkus> schultmc: please let him know that I need to talk to him about making deposits
+19:03 < schultmc> jberkus: will do
+19:03 < schultmc> [item 3, president's report]
+19:03 < schultmc> I haven't heard from Bdale on the status of his action items from the last meeting
+19:03 < schultmc> let's move on to the next item
+19:03 < schultmc> [item 4, treasurer's report]
+19:04 < schultmc> jberkus: you have the floor
+19:04 < jberkus> OK, I posted what I have to say.
+19:04 < jberkus> Plus please read response to Josh Drake
+19:04 < jberkus> unfortunately Sun re-org has cut into my SPI time over the last month
+19:04 < jberkus> expect it to get better in January
+19:05 < jberkus> a major concern is that Branden has not been making bank deposits
+19:05 < Hydroxide> jberkus: I understand first-hand the difficulty in gathering information when your assistant is hard to reach, as well as when the rest of your life is busy. but could we at least have account balances listed?
+19:05 < jberkus> so I will probably be making  proposal on changing banks next month
+19:05 < Diziet> Can we not pay someone to do the clerical work that Branden is having difficulty with ?
+19:05 < jberkus> Diziet: actually, it's my clerical work.
+19:06 < jberkus> Diziet: and I need to set it up and get it rolling before I turn it over to anyone else
+19:06 < jberkus> so that I know what's going on
+19:06 < Hydroxide> jberkus: Branden's deposits are your clerical work?
+19:06 < jberkus> Branden's issue is not making deposits
+19:06 < jberkus> Hydroxide: deposits != clerical work
+19:06 < jberkus> Hydroxide: I don't have access to online bank right now, but balance is same as last month -$150
+19:07 < Diziet> jberkus: When I said `clerical work' I specifically meant to include these deposits.
+19:07 < jberkus> Diziet: sorry, was confused
+19:07 -!- linuxpoet [~jd@or-67-76-146-141.sta.embarqhsd.net] has joined #spi
+19:07 < Diziet> It seems clerical to me.  Is there really any significant element of discretion ?
+19:07 < linuxpoet> morning everyone
+19:07 < jberkus> Diziet: no, it's just a matter of having a trustworthy person physically go to the bank
+19:08 < Diziet> It seems to me that this kind of thing could be contracted out.
+19:08 < Diziet> And it's something we've always had difficulty doing in a timely manner.
+19:08 < jberkus> Diziet: if you know an appropriate service, please refer
+19:08  * schultmc wouldn't mind doing bank deposits himself
+19:09 < Diziet> jberkus: I'm afraid I'm in the wrong continent ...
+19:09 < schultmc> although for accountability reasons someone else would have to be the mail clerk then
+19:09 < jberkus> we could swap
+19:09 < jberkus> anyway, let's dicuss that on treasurer@ offline
+19:09 < jberkus> er, board@
+19:09 < Diziet> OK
+19:09 < schultmc> let's move on
+19:09 < schultmc> [item 5, outstanding minutes]
+19:09 < schultmc> Maulkin, you have the floor
+19:09 < jberkus> final addition: next month I will be bringing the membership proposals of OpenOffice.org and LedgerSMB
+19:09 < Maulkin> I have one set of minutes to approve this month, November 21st, 2006.
+19:10 < schultmc> I note that bdale had a question about the long outstanding minutes as well
+19:10 < Maulkin> Ok, that one's for cdlu 
+19:10 < Hydroxide> I've read the minutes over, and since I wasn't at the meeting I will abstain as to whether to approve them as accurate.
+19:11 < Diziet> It's a shame we're so shorthanded in this meeting.
+19:11 < Diziet> But I suppose it is nearly Christmas.
+19:11 < jberkus> yes, I didn't read the minutes due to travel
+19:11 < jberkus> so I can't vote
+19:11 < jberkus> unless we defer the vote to the end of the meeting
+19:11 < schultmc> cdlu: any comment on the october-december 2005 minutes?
+19:11 < Hydroxide> why don't we defer the vote to the end of the meeting then?
+19:11 < Hydroxide> that sounds fine to me
+19:11 < cdlu> schultmc, only that they're obviously not done and it doesn't serve anyone for me to make excuses as to why.
+19:12 < cdlu> I am, however, ready to approve the most recent set.
+19:12 < Hydroxide> is everyone who was present then and is now present other than josh ready to approve them?
+19:12  * Maulkin nods
+19:12  * schultmc is
+19:12 < Hydroxide> because if so, there's no reason to delay
+19:12  * cdlu moves for approval
+19:12 < Hydroxide> since it will pass
+19:12 < Diziet> Right.
+19:12  * Maulkin seconds
+19:12  * schultmc seconds
+19:13 < Maulkin> Voting started, 6 people (cdlu,jberkus,schultmc,hydroxide,maulkin,diziet ) allowed to vote on Approve November 21st, 2006 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:13 < Diziet> !vote yes
+19:13 < cdlu> !vote yes
+19:13 < schultmc> !vote yes
+19:13 < Maulkin> !vote yes
+19:13 < Hydroxide> !vote abstain
+19:13 < jberkus> !vote abstain
+19:13 < Maulkin> Current voting results for "Approve November 21st, 2006 minutes": Yes: 3, No: 0, Abstain: 2, Missing: 1 ( diziet  )
+19:13 < Maulkin> Voting for "Approve November 21st, 2006 minutes" closed.
+19:13 < Diziet> Urr.
+19:13 < Maulkin> bah, sorry.
+19:13 < Maulkin> Will adjust in the minutes
+19:13 < cdlu> heh
+19:13 < Hydroxide> 4 yes, 2 abstain, 0 missing
+19:13 < Maulkin> thanks :)
+19:13 < Hydroxide> err, 0 missing out of those in attendance
+19:14 < Diziet> Right :-).
+19:14 < Hydroxide> it passes. let's move on?
+19:14 < Maulkin> That's it for me
+19:14 < schultmc> [item 6, items up for discussion]
+19:14 < schultmc> 6.1 Further on Debian trademark in Spain (Resolution 2006-04-03.jfsp.1)
+19:14 < schultmc> I haven't heard feedback from bdale on this
+19:14 < Diziet> We really needed Bdale but I'm afraid I failed to do my bit either.
+19:14  * Hydroxide notes that regarding this we've heard neither from Bdale or Greg.
+19:15  * Maulkin nods
+19:15 < slef> Does SPI need to find additional lawyers?
+19:15 < Maulkin> defer again then?
+19:15 < cdlu> for that matter, I haven't heard anything from greg since november 2nd.
+19:15 < Diziet> slef: Possibly.
+19:15 < cdlu> slef, we might need to. New Year's resolution. :)
+19:15 < Hydroxide> slef: entirely possible
+19:15 < jberkus> I have access to an attorney if we allocate budget
+19:15 < jberkus> o we can offer Greg money
+19:15 < cdlu> jberkus, my first choice would be to hire gmp as a non-pro bono.
+19:16 < Hydroxide> jberkus: not particularly for this issue, but in general we need an attorney who knows NY law since we're incorporated there
+19:16 < Hydroxide> (gmp == Greg for those who don't know)
+19:16 < Maulkin> May I suggest this is done on the list? :)
+19:16 < cdlu> Maulkin, ya, it'll need an officer to go have a chat with him and come back with a discussion/resolution.
+19:16 < Hydroxide> agreed, especially since we're not anywhere close to even having a resolution today
+19:16  * Maulkin nods
+19:17 < schultmc> yes, please discuss this on -board
+19:17 < Hydroxide> hopefully we can prod Bdale (with Ian as backup) between now and next meetingf
+19:17 < Diziet> Someone should be actioned to talk to Greg, surely ?
+19:17 < Maulkin> Any volunteers?
+19:17 < Diziet> Preferably someone who hasn't already already been useless at said task :-/.
+19:17 < Diziet> (Sorry.)
+19:17 < Maulkin> I'd suggest asking Bdale if there's progress first.
+19:17 < Diziet> Maulkin: I think if there had been progress then we'd know about it.
+19:18 < Diziet> And it wouldn't hurt to have someone follow up with Greg and be told `I spoke to Bdale about this too'.
+19:18 < schultmc> can we move this to -board and continue, please?
+19:18 < jberkus> Diziet: how about you?
+19:18 < Maulkin> I can't volunteer right now... I've got my head in the clouds and have no idea what's going on.
+19:18 < Maulkin> yeah, /me suggests -board
+19:18 < Diziet> jberkus: Err, I was just describing myself as useless but you can tell me to do it and I might be less useless this time ...
+19:19 < Hydroxide> I suggest we give Bdale and Diziet another month to have one of them follow up
+19:19 < Diziet> schultmc: Not until we have someone to action.
+19:19 < Diziet> Hydroxide: OK.
+19:19 < cdlu> not much will happen in the next two weeks no matter what.
+19:19 < Diziet> No-one seems to object to that so that'll deal withit.
+19:19 < Maulkin> okies
+19:19 < Diziet> I mean, we can go on now.
+19:19 < schultmc> 6.2 Resolution 2006-11-18.dbg.mjs.1 - Open Source Initiative domain
+19:19 < Maulkin> time for fun...
+19:19 < cdlu> we agreed not to debate this in meeting. I move for a vote.
+19:19  * Hydroxide requests that we don't discuss this any more than we already have since all arguments have already been made
+19:20  * Maulkin seconds cdlu 
+19:20 < Diziet> I'm sure everyone has read all their email.  Right.
+19:20  * schultmc seconds cdlu
+19:20 < Maulkin> Voting started, 6 people (cdlu,jberkus,schultmc,hydroxide,maulkin,diziet) allowed to vote on Approve Resolution 2006-11-18.dbg.mjs.1 - Open Source Initiative domain. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:20 < Diziet> !vote no
+19:20 < cdlu> !vote yes
+19:20 < Maulkin> !vote yes
+19:20 < Hydroxide> !vote yes
+19:20 < jberkus> !vote abstain
+19:20 < schultmc> !vote yes
+19:20 -!- scott [~scott@scott.noc.oftc.net] has joined #spi
+19:20 < Maulkin> Current voting results for "Approve Resolution 2006-11-18.dbg.mjs.1 - Open Source Initiative domain": Yes: 4, No: 1, Abstain: 1, Missing: 0 ()
+19:20 < Maulkin> Voting for "Approve Resolution 2006-11-18.dbg.mjs.1 - Open Source Initiative domain" closed.
+19:20 < Maulkin> Vote passes
+19:21 < schultmc> 6.3 Outstanding items requesting comment from the DPL - see discussion
+19:21 < Hydroxide> wow. we spent 1 minute on that during the meeting. impressive.
+19:21 < schultmc> Items 1-3 on this are pending Bdale's discussion with Greg. Items 4 and 5 are awaiting data entry on the accounting system, and are being worked on. 
+19:21 < jberkus> financial items are in progress
+19:21 < Diziet> Hydroxide: Isn't it good to do the prep work.
+19:21 < cdlu> hydroxide, and five recovering from the shock :)
+19:21 < linuxpoet> I would like to ask for a timeline on 4 and 5
+19:22 < Diziet> linuxpoet: Who are you, sorry ?
+19:22 < jberkus> linuxpoet: which are those?
+19:22 < Hydroxide> Diziet: quite, espsecially for controversial items like that
+19:22 < slef> Hydroxide: and gave away SPI's assets to a closed group with less than three days of member consultation.  Yay you.
+19:22 < linuxpoet> Diziet: Joshua Drake, PostgreSQL Liason
+19:22 < Diziet> linuxpoet: Ah, thanks.
+19:22 < Diziet> slef: Oh, FFS just shut up will you.
+19:22 < jberkus> linuxpoet: actually, you're strictly the financial liason.  XZilla should be the one asking
+19:22 < xzilla> jberkus: I would like to ask for a timeline on 4 and 5
+19:23 < jberkus> heh
+19:23 < jberkus> since I'm on low bandwitdh, can you let me know what 4 and 5 are?
+19:23 < Maulkin> jberkus: sure
+19:23 < Hydroxide> slef: this issue has been discussed so much with the members many many times.
+19:23 < schultmc> 4 is precise accounting of funds held by SPI
+19:23 < schultmc> 5 is report of donation from C&P
+19:23 < jberkus> ok
+19:24 < Hydroxide> slef: but, please let's not get into a long side discussion during the meeting, especially since I want it to be a short meeting so I can pack afterward for my trip home for the holidays
+19:24 < jberkus> C&P donation reports are available direct from me on demand, if I'm not travelling
+19:24 < jberkus> other accounting timeline: January 10th for setup, completion depending on volunteer recruitment for data entry
+19:25 < schue> slef: yeah, that was pretty smooth.
+19:25 < xzilla> jberkus: i'd like to request that some money be allocated for doing the data entry, this has been draging on for some time
+19:25 < schue> I just hope that OSI doesn't end up being instrumental in dictating some government's definition of what OpenSource is and isn't.
+19:25 < Ganneff> schue: please not in the meeting.
+19:25 < jberkus> xzilla: let me find out what volunteers are like first.  we may have enough
+19:26 < schue> oh. thought it ended... whoops.
+19:26  * schue shuts up
+19:26  * schultmc moves on
+19:26 < schultmc> [item 7, Next board meeting]
+19:26 < jberkus> xzilla: the current bottleneck is me writing some code to correct the CoA and doing demo entires and balance forward with the CPA
+19:26 < Maulkin> Next board meeting will be held at Tuesday, January 16th, 2007 unless you hear from myself otherwise. Note: this *may* change, as it seems that this meeting time may be inconvinent for board members. We'll need to work ot something on the list, I'll mail -board.
+19:27  * Maulkin done
+19:27 < Diziet> Can you make sure to give at least a week's notice ?
+19:27 < schultmc> Maulkin: thanks
+19:27 < cdlu> this is your one month notice :)
+19:27 < Hydroxide> should be OK for me, though there's a small chance I might have a conflict.
+19:27 < Diziet> cdlu: No, because it's not confirmed.
+19:27 < Maulkin> Diziet: Well, in terms of notice, this is your notice now :) I'll try and get a reminder out a week in advance though, yes
+19:27 < jberkus> Diziet: presumably any change would need to be a postponement
+19:28 < Diziet> jberkus: That would be all right.
+19:28 < schultmc> Ok, thank you to everyone present for participating today.  Until next time!
+19:28 < schultmc> *GAVEL*

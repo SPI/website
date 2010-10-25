@@ -1,0 +1,807 @@
+00:11 * cdlu pounds the GAVEL
+00:14 <kyllikki> Overfiend: and its *not* DUS thats an MJR thing
+00:15 <Overfiend> kyllikki: What office...nm
+00:23 <kyllikki> Overfiend: im da secatary
+00:23 * Overfiend snaps to attention.
+00:24 <cdlu> Board members, please state your names for the records.
+00:25 <IanJackson> Ah, hello.  Somehow I got the wrong channel just a moment ago.
+00:29 <cdlu> Guests, please /msg me your names for the records.
+00:37 <Hydroxide> Jimmy Kaplowitz
+00:39 <Overfiend> Branden Robinson
+00:44 <cdlu> David Graham
+00:44 <IanJackson> Ian Jackson
+00:47 <mako_> Benjamin Mako Hill
+00:52 <bdale> Bdale Garbee
+00:54 <Overfiend> mako!  Woohoo!
+00:55 <cdlu> mako, ah-ha! you're #2. :)
+01:03 * cdlu wipes sweat from his brow
+01:09 <Overfiend> should mako take over running the meeting?
+01:18 <Hydroxide> probably
+01:22 <cdlu> mako, you able to?
+01:24 <Overfiend> well, not if he's not prepared.
+01:35 <Hydroxide> true
+01:36 <jberkus> Josh Berkus, but I'm just an observer
+01:44 <cdlu> jberkus, observers /msg me. :)
+01:44 <Overfiend> But he should say he's ceding the duty of presiding over this meeting to cdlu.
+01:48 <mako> i'm not prepared yet but if you give me a minute i can get organized
+01:52 <mako> i wasn't expecting to chair
+01:54 <cdlu> I treat the /msg log separately
+01:55 <Overfiend> So that the record doesn't reflect a vicious coup on the part of the Secretary. ;-)
+02:16 <cdlu> http://www.spi-inc.org/secretary/agenda/2005-12-13.html
+02:21 <cdlu> mako, that's the agenda for today.
+02:34 <mako> right
+02:54 <mako> ok.. let me also pull my mailbox
+03:21 <Overfiend> Bruce seems to have gone idle...are we quorate without him?
+03:31 <cdlu> anyway, we are quorate.
+03:31 <cdlu> yes
+03:35 <Overfiend> Okay, cool.
+03:57 <cdlu> we have hydroxide, overfiend, cdlu, ianjackson, mako, and bdale. Joey hasn't said his name but is here, and Bruce is idle, but has logged in on time for the meeting.
+03:59 <mako> do we have a presidents report?
+04:03 <cdlu> mako, nope,
+04:08 <cdlu> nor minutes. :(
+04:11 <cdlu> mako, but there's a treasurer's report
+04:16 <mako> right,
+04:42 <mako> Hydroxide: we hae a treasurers report?
+05:01 <Hydroxide> mako:
+05:03 <Hydroxide> mako: yes
+05:09 <Hydroxide> mako: sent just 5 mins before the meeting
+05:13 <cdlu> it's attached to the agenda
+05:17 <BrucePerens> I'm here. Bruce Perens
+05:18 <Overfiend> Message-ID: <20051213185437.GK24610@mail.kaplowitz.org>
+05:23 <Hydroxide> mako: sorry for the short notice. the SPI mail servers are working well now so you should have it :) and yes, it's in the agenda
+05:23 <Overfiend> great
+05:26 <mako> cdlu: thanks my mail hasn't synced yet i guess
+05:48 * mako takes a minute to look it over
+06:08 <bdale> the report looks ok to me, except that I remain concerned that we still haven't resolved the "eermark to be determined" amounts
+06:18 <Overfiend> bdale: Did you get my reply to your email?
+06:24 <Overfiend> let me find the message ID
+06:34 <bdale> way behind on email, probably in my inbox
+06:37 <Hydroxide> bdale: we are going to tackle that with MBS (the bookkeeping people). We just got our first set of reports from them quite recently.
+06:58 <bdale> yes, I saw the MBS reports, and they looked reasonable to me
+06:58 <cdlu> bdale, we only have $52,000 not yet determined :)
+07:08 <mako> are there any comments on the treasurers report?
+07:14 <mako> looks good to me
+07:16 <cdlu> mako, none here, I move to accept it
+07:24 * bdale whacks cdlu with a stinky trout
+07:24 <Overfiend> bdale: Okay.  You *do* have a response.  Basically, once we've figured out MBS's current reports, we'll be offloading the historical stuff on them as well.
+07:43 <Hydroxide> bdale: their reports have some weird details in them, but Branden and I will communicate with them to resolve the confusion
+07:46 <BrucePerens> If we needed more than $52,000 and were able to demonstrate reasonable competence in managing money, we'd have more. We're getting there.
+07:47 <Overfiend> bdale: Jimmy and I have questions about MBS's reports, as I'm sure we'll cover ...
+08:01 <mako> /win 27
+08:01 <bdale> ok, that should work.  I'll keep nagging ritually until it's done.
+08:01 <Overfiend> BrucePerens: We *do* have more.
+08:29 <BrucePerens> My point is that we're not actively raising funds.
+08:40 <bdale> which isn't particularly relevant
+08:50 * IanJackson tries to find the treas. report.  Ah, here it is.
+08:51 <cdlu> Bruce, we don't need to. We're still taking in more than we're putting out.
+08:59 <Overfiend> On the bright side, MBS thinks we have more money than Jimmy and I do, though we also think MBS is wrong :)
+09:13 <cdlu> Overfiend, they're counting it before their bill, we're counting it after?
+09:15 <Overfiend> unless money doubles in value simply by virtue of being placed in an investment account
+09:45 <Overfiend> cdlu: no, they have our total liabilities and equity at over $94k
+09:47 <Hydroxide> BrucePerens: note that, we haven't been unsure of the earmark of newly received money for quite a while now. the problem isn't growing or applying to new funds.
+09:54 <cdlu> Overfiend, interesting.
+09:58 <Overfiend> cdlu: which is about $24k more than Jimmy's figures.
+10:07 <bdale> correct, it's dealing with the ancient history that hasn't happened that I'm harping about
+10:09 <cdlu> right, do they say where they found the extra money?
+10:25 <Overfiend> cdlu: somehow the AmEx money market account funds count twice.
+10:32 <cdlu> ah, that'd do it.
+10:39 <Hydroxide> cdlu: they also say that we have an AmEx Centurion Bank account as of December 1, 2005
+10:44 <IanJackson> bdale: My opinion is that we should prove we can keep records accurately before we go to Debian and say `please will you decree the earmark status of these funds'.
+10:47 <Overfiend> cdlu: it's odd, and Jimmy and I will either get MBS to fix the error, or have Frank Boardman apply clues to us.
+10:52 <Hydroxide> which is qualitatively not true
+10:53 <IanJackson> (Because it's basically Debian we have to agree with.)
+11:10 <Overfiend> fil: Good to see you!
+11:14 <fil> hi
+11:15 <BrucePerens> Hydroxide: OK. I am considering that once we are on a more stable financial footing - soon - we might do some more active promotion of Free Software. So, I think we should settle earmark issues sooner rather than later.
+11:15 <Hydroxide> IanJackson: which we have been doing for quite a large number of months now
+11:18 <cdlu> Hydroxide, or it's an unqualified error. In many senses. :)
+11:40 <cdlu> Anyway, I moved to approve the treasurer's report, never saw a second. I trust the issues will be resolved in due course through MBS.
+11:46 <Hydroxide> BrucePerens: that's a separate issue. but, yes, we should resolve these issues through moving forward at a sufficient pace with MBS
+11:48 <bdale> IanJackson: sure, no disagreement.  on the other hand, the last time I suggested we just do a 95/5 split, I was assured we had the data to do a more accurate job than that, and that's why we haven't made any progress yet.  I'm happy for us to "do it right", as long is it gets done.
+12:01 <Overfiend> Does anyone think it would be a bad idea for me to forward Frank's PDFs to spi-private?
+12:01 <IanJackson> hy: Right.  I think the right point would be after we have some accounts from MBS.
+12:05 <Overfiend> It might be nice if the membership could look over this stuff.
+12:07 <IanJackson> ov: Seems like a good idea to me.
+12:16 * Overfiend waits for an objection.
+12:19 * Hydroxide seconds cdlu's motion to approve the Treasurer's report
+12:25 <mako> alright
+12:28 <mako> lets vote
+12:32 <mako> !vote start
+12:34 <IanJackson> Once we have finalised accounts from MBS we will have a clear idea of what our earmark question is.
+12:35 <cdlu> !vote yes
+12:36 <IanJackson> !vote ys
+12:37 <Overfiend> !vote yes
+12:37 <Hydroxide> !vote yes
+12:37 <IanJackson> !vote yes
+12:42 <cdlu> no bolt. I'm votebot today.
+12:44 <BrucePerens> !vote yes
+12:48 <mako> !vote yes
+12:51 <bdale> !vote yes
+12:58 <cdlu> 7 yes, 0 no, 0 abstain, 1 unvoted.
+13:10 <Joey> !vote abstain
+13:13 <mako> !vote stop
+13:14 <cdlu> 7 0 1 0
+13:50 <mako> great
+13:51 <cdlu> .. treasurer's report approved. :)
+13:53 <mako> the next item is tax and bookkeeping status
+13:57 <mako> anything to report jimmy?
+14:04 <Overfiend> mail forwarded.
+14:06 <Hydroxide> we just said everything already
+14:08 <Hydroxide> regarding MBS, that is
+14:15 <cdlu> btw, guests that have come in since we started, please /msg me your name for the record. A few people have entered.
+14:16 <Hydroxide> during the treasurer's report discussion
+14:17 <Sledge> hey
+14:25 <Overfiend> Hi Sledge.
+14:33 <Overfiend> Sledge: http://www.spi-inc.org/secretary/agenda/2005-12-13.html
+14:42 <Sledge> Overfiend: thx
+14:43 <Overfiend> Sledge: MJ Ray's resolution is farther down the agenda
+14:48 <Overfiend> we're on treasurer report
+15:08 <Overfiend> IanJackson: You need more levels in your FQDN.
+15:13 <Hydroxide> mako: we've said everything during the preceding discussion, so I don't have anything more to add beyond the existing remarks on MBS.
+15:18 * mako nods
+15:20 <mako> alright, then moves on
+15:31 <mako> in terms of perennial issues
+15:38 <mako> i have nothing new to add to DCC issues
+15:46 <BrucePerens> What's the status?
+15:47 <Overfiend> that's out of order, Mr. Chairman
+15:49 <mako> but i'll give anyone else here an opportunity to do so
+16:00 <Overfiend> "Outstanding minutes" is the next item.
+16:07 <Overfiend> Let us please do our monthly flogging of cdly.
+16:12 <mako> i think cdlu said there were no minutes?
+16:12 <Overfiend> cdlu, even.
+16:20 <IanJackson> `oooh, I feel all cdly'
+16:24 <IanJackson> (excuse me)
+16:29 <cdlu> better than the 'seedy loo' I sometimes get.
+16:34 <Overfiend> well, I pointed out before the meeting that the minutes approved last month have not yet been -announced and posted to the website.
+16:40 <Overfiend> cdlu: Would you please try to do that? :)
+16:49 <cdlu> I will endeavour to try.
+16:55 <cdlu> it'll be my christmas gift to SPI :)
+17:01 <Hydroxide> hehe
+17:11 <Overfiend> okay, that's it for flogging from me.
+17:21 * bdale offers some coal for cdlu's stocking...
+17:25 * Overfiend yields back to Chair
+17:38 * cdlu discreetly rubs his bruises and gives mako a clean gavel to continue with
+18:00 <mako> alright
+18:02 <mako> lets move on :)
+18:19 <mako> anyone have any DCC status issues?
+18:21 <mako> dondelelcaro: around?
+18:37 <IanJackson> mako: Yes, I have an issue which is that we (Debian/SPI) are footdragging.
+18:39 <cdlu> he's half a day's idle
+19:25 <cdlu> mako, where do we stand with Debian vs DCC? DCC put out an announcement a few days ago about a release
+19:31 <Overfiend> The DCC issue as I understand is that while DCCA cured their breach in that "DCCA" no longer means anything including the mark "Debian", they continue to use Debian's Open Use Logo.
+19:36 <cdlu> mako, have Debian and DCC come to any form of agreement?
+19:37 <Overfiend> aha
+19:43 <Overfiend> imurdock: hi
+19:44 <imurdock> hi, bruce asked me join..
+19:50 <Overfiend> imurdock: we're on the DCC item
+19:50 <mako> AFAIK, the initial issue that was delegated to don was put to rest due to changes that DCC took on
+19:50 <Overfiend> let me recap
+19:54 <mjg59> News stories are now referring to "DCC Alliance (formerly the Debian Common Core Alliance)"
+19:54 <Overfiend> The DCC issue as I understand is that while DCCA cured their breach in that "DCCA" no longer means anything including the mark "Debian", they continue to use Debian's Open Use Logo.
+20:05 <IanJackson> mjg59: Joy.
+20:07 <imurdock> oh no, not this again..
+20:13 <mako> if there are new issues (which apparently some people are bothered by) don either doesn't feel that it's within his delegation to deal with or doesn't think they are an issue
+20:18 <mako> that is AFAIK
+20:18 <imurdock> i thought we had dealt with the trademark issue..
+20:22 <Overfiend> Ironically, now that DCCA no longer means Debian, they may now be shoved into non-compliance WRT to the Open Use Logo, because it "no longer refers to Debian".
+20:26 <IanJackson> I don't think that these are new issues.  I think that they're old issues that remain unfixed.
+20:48 <mako> IanJackson: don said at a previous meeting that he felt that the issues had been dealt with
+20:54 <BrucePerens> And I think we're being anal-retentive about this.
+20:55 <imurdock> old issues as in we haven't dropped "debian" from the name of the thing? uh..
+21:24 <Overfiend> As far as muzzling the press goes, I'm open to suggestions.  SPI is not the Bush Administration, the American Enterprise Institute, or a Christian fundamentalist organization, so I'm not sure how we are supposed to control the press on this front.
+21:27 <IanJackson> Maybe I should be having this rant on *@lists.d.o rather than here.
+21:41 <imurdock> could someone please summarize what we are doing wrong?
+21:46 <Overfiend> imurdock: I did so above
+21:51 <Overfiend> 14:19 < Overfiend> The DCC issue as I understand is that while DCCA cured their breach in that "DCCA" no longer means anything including the mark "Debian",
+21:53 <Hydroxide> Overfiend: well, the logo isn't trademarked, AFAIK, only copyrighted, so if we choose not to pursue it, there's no downside to us
+21:53 <Overfiend>                    they continue to use Debian's Open Use Logo.
+21:56 <IanJackson> See also what mjg59 said above.
+22:04 <Hydroxide> Overfiend: therefore, I suggest we don't pursue it.
+22:19 <imurdock> Ian: we can't control what the press says.. that knife cuts both ways :-)
+22:29 <Overfiend> imurdock: so using the open use logo was, ironically, okay when DCCA meant "Debian $foo $bar $baz", but isn't when it no longer means "Debian $foo $bar $baz".
+22:30 <mako> imurdock: i don't understand why you guys just don't talk to dondelelcaro about getting a trademark license
+22:33 <cdlu> Overfiend, why muzzle the press? Press is a good way to keep the distinction between DCC and Debian clear without anyone getting hurt. :)
+22:37 <mjg59> Given that we had no complaints about Progeny using the Debian open use logo, I think it would be churlish to criticise the DCCA for it
+22:38 <bdale> regardless of what DCCA stands for, what they're working on is related to Debian, so use of the open use logo seems completely reasonable to me
+22:42 <BrucePerens> They obviously have something to do with Debian. What language change do you suggest IanJackson, to make that clear without misusing Debian's logo/trademark/packages.
+22:43 <IanJackson> imurdock: You could actually have a name for your organisation.
+23:01 <imurdock> mako: i don't know who dondelelcaro is, but i did talk to someone about it, and they basically told me "no"
+23:12 <Overfiend> imurdock: dondelelcaro == Don Armonstrong
+23:12 <IanJackson> But I think this is getting too much into my personal opinion.
+23:18 <Overfiend> imurdock: dondelelcaro == Don Armstrong
+23:22 <imurdock> Overfiend: ah ok
+23:30 <IanJackson> What I would like is for imurdock to come and join in the discussions on the Debian lists.
+23:33 <Overfiend> imurdock: BTW, I'm just relating the complaints I've heard.
+23:47 <Overfiend> imurdock: I devolved authority for actually pursuing this upon Don.
+23:50 <imurdock> Ian: if we renamed it "foobar", then the press would say "foobar, formerly known as the DCC Alliance, formerly known as the Debian Common Core Alliance", and you'd still be coming after me :-)
+23:57 <mako> imurdock: was the issue that there were no terms under which a license would be possible or that you couldn't agree on terms?
+23:57 <IanJackson> But it looks like Don and Branden aren't as hotheaded as me on this one.
+24:16 <mako> if the DCC really *is* debian, i see no reason why a trademark license wouldn't fit
+24:24 <Hydroxide> guys, 'formerly known as the Debian Common Core Alliance' is a factual and descriptive statement, not subject to trademark worries
+24:38 <imurdock> mako: i don't remember (and it may have been someone other than don i talked with about this), but iirc, the idea was pretty much dismissed out of hand
+24:40 * mako nods to Hydroxide
+24:45 <Hydroxide> they're not advertising themselves as 'Hi, we're the formerly known as the Debian Common Core Alliance'
+24:50 <Hydroxide> that would just be damn silly :)
+24:59 <Hydroxide> so they've gotten rid of the trademark issue
+25:03 <mako> imurdock: well, don and branden are the only person really charged with that making tha decision on behalf of debian
+25:22 * bdale just read the www.dccalliance.org front page and things it's reasonable, fwiw
+25:23 <Hydroxide> whether they can use the logo or not is a copyright issue, not a trademark issue, and copyright doesn't have the rule where you lose it if you don't enforce it actively
+25:25 <mako> imurdock: and i don't think greg pomerantz would have said that becuase i don't think he agrees with that course of action
+25:43 <cdlu> mako, et al., have you seen this press release?  http://newsvac.newsforge.com/article.pl?sid=05/12/06/1914259&from=rss
+25:47 <Overfiend> imurdock: FWIW, the volume of complaints that I have seen has sharply dropped off.
+25:50 <Hydroxide> so it's up to us whether we want to deal with it or not
+25:54 <Overfiend> imurdock: since DCCA renamed itself.
+25:57 <imurdock> just let me know what we can do, and we'll do it, within reason.. i think we've bent over backwards to make you guys happy, and i'm frankly bewilded this keeps coming up
+26:02 <cdlu> that's how they're pushing themselves. if there are any issues worth pursuing, they'd be in there. If not, it can probably be left to die.
+26:04 <cdlu> (the issue)
+26:08 <Overfiend> imurdock: /me points at IanJackson
+26:24 <imurdock> mako: for the record, i'm very open to a trademark license.. please pass that along to whomever
+26:33 <bdale> I thought it was on the agenda today just for any follow-up?
+26:35 <Overfiend> mjg59: So, to make sure I understand -- you're concerned about the press continuing to mis-expand DCCA's acronym, but *not* about their use of the Open Use Logo?
+26:57 <BrucePerens> It's not just IanJackson. There are some hotheads on the mailing lists who keep harping about it. And I think they're beyond reason at this point.
+27:03 <mako> imurdock: that would be easiest IMHO
+27:10 <imurdock> mako: k
+27:36 <Hydroxide> since this is taking a long time as far as discussion, I move that we shelve this issue via email and prepare a resolution for the next meeting saying what (if anything) we think is a problem regarding the DCCA's actions and what we are satisfied with in that regard
+27:39 <Overfiend> imurdock: who's in charge of marketing/PR for DCCA?
+27:40 <mako> imurdock: the idea being that if you ever STOPPED being debian or working on a set of terms that we think reflect what is debian and its values, you loose the license.. but i think that's only fair
+27:51 <IanJackson> I don't think there's really the time and space for me to do justice to the situation here on IRC and nothing productive will come of the conversation.  But I resent being described as `beyond reason'.
+27:53 <mjg59> Overfiend: I would prefer the press not to do that, but I don't think we can control that. I think the use of the open-use logo is fairly reasonable, and not exceptionally different to behaviour we've accepted in the past.
+27:56 <Hydroxide> We have other issues to accomplish, and since we have disagreement we won't be able to resolve it right now
+28:02 <Overfiend> mjg59: Okay.
+28:02 <fil> maybe I'm a fool, but what else are the press going to do with the D in DCCA when they expand it?
+28:06 <imurdock> Overfiend: Heather Mackenzie of Linspire and Steve Harris at Xandros share the duties, but you can go through me too
+28:15 <mjg59> Derived distributions have often used the open use logo
+28:29 * mako nods to mjg59
+28:41 <bdale> right.  I personally think we're done with this.
+28:42 <Overfiend> imurdock: I'm wondering if it would make people feel better to have an appointed Debian delegate join Heather and Steve in sending emails to press outlets that persist in mis-expanding the DCCA acronym.
+28:46 <cdlu> mako, can we leave this as being referred to discussion with debian about a trademark license? I don't think there's anything more for us here at SPI to worry about for the moment.
+28:47 <imurdock> Ian: if memory serves, you've always been beyond reason :-)
+28:48 <mako> alright, if people in debian still have problems with this, it sounds like dondelelcaro still has work to do
+28:50 <Overfiend> imurdock: That is probably as much as we can do to address mjg59's concern.
+28:52 <mako> in any case, it's not in our court right now
+28:54 <Hydroxide> fil: they'll say that it used to stand for Debian but now is only part of the DCC acronym. The press doesn't mind explaining stupid things like that, they mind explaining technical things :)
+28:57 <mako> since it's not at the stage of licensing or not
+29:01 <mako> so i think we should move on
+29:06 <mako> cdlu: agreed
+29:21 <mako> alright...
+29:22 <mako> OFTC - new chair, new SPI representation (cdlu)
+29:25 <cdlu> ok
+29:26 <imurdock> Overfiend: i'd be very open to involving debian in the pr stuff
+29:29 <mako> set up
+29:30 <cdlu> two issues from OFTC, briefly
+29:33 <Overfiend> imurdock: sounds good, thanks.
+29:34 <BrucePerens> I don't think the press should ignore the Debian relationship. We should handle it correctly. I don't feel the D needs to stand for anything but Debian. Get a license.
+29:36 <fil> but how can you have an acronym that doesn't stand for anything?  it's absurd
+29:44 <cdlu> 1 - ElectricElf resigned as chair, putting me in that position.
+29:47 <Overfiend> imurdock: I think we've put this restless zombie in its grave for another week/month or so.
+29:58 <cdlu> 2 - Joey has asked to step down as SPI's formal representation to OFTC's NOC after 3 years on it
+30:01 <imurdock> Overfiend: thanks, you're a friend :-)
+30:03 <bdale> imurdock: thanks for showing up
+30:05 <cdlu> if anyone wants to take on the role not already on OFTC's staff
+30:12 <imurdock> bdale: no problem.. anything else?
+30:33 <bdale> cdlu: what's involved?
+30:55 <mako> cdlu: why should you step down? just to add diversity?
+31:07 <cdlu> bdale, attending our weekly NOC meetings in capacity of SPI board member who can advise OFTC without being too involved in OFTC's inner workings, basically
+31:11 <Overfiend> imurdock: There's nothing else DCCA-related on the agenda.  Our meeting is open to the public, so stay if you like, but I don't think there's anything strongly demanding your continued input today.
+31:19 <Joey> Well not exactly asked to step down but to find a replacement if there is somebody interested in it.
+31:21 <cdlu> mako, I'm not stepping down from anything. :)
+31:21 <Overfiend> imurdock: thanks for showing up on a moment's notice!
+31:38 <imurdock> ok, keep me posted
+31:39 <imurdock> bye
+31:52 * Overfiend extends that same thanks to the 200 or so members of the Debian UK Society that are also here today.
+31:59 <Overfiend> :)
+32:02 <robster> heh
+32:04 <Maulkin> :)
+32:05 <cdlu> Overfiend, that would explain the record number of guests :)
+32:15 <cdlu> mako, anyway, that's all I have on the topic of OFTC
+32:18 <damog> cdlu: I can volunteer to do that, if it is really needed, and I couldn't find a better way to cooperate on SPI :)
+32:30 <Overfiend> oh good, we needed a member to volunteer
+32:42 <Overfiend> damog: are you registered as an SPI contributing member?  If not, we should fix that right away.
+33:02 <damog> Overfiend: I am.
+33:05 <bdale> Overfiend: is contributing member adequate?  cdlu said "board member" above.
+33:09 <Overfiend> excellent.
+33:14 <Overfiend> bdale: oh, I missed that.
+33:21 <mako> cdlu: well, congrats on the promotion :)
+33:29 <cdlu> board<->board advisors. I can serve the role myself, but as chair it seems kind of conflicty. :)
+33:34 <formorer> hi guys
+33:51 <bdale> Overfiend: I'm not worried about it, and I trust damog to represent us and report back on any concerns that should be addressed by the SPI board.
+33:53 * Overfiend doesn't see why a regular SPI contributing member can't serve as a delegate to OFTC, as long as they fulfill the requirements of the role.
+34:01 <Overfiend> bdale: my feelings exactly
+34:13 <Overfiend> bdale: I think the record shows that being a Board Member doesn't magically make one better at getting things done.
+34:16 * Hydroxide would do it but is already on OFTC staff. He also doesn't see a problem with damog doing it unless cdlu objects.
+34:17 <bdale> do we need to vote to make the delegation official?
+34:21 <Overfiend> Like, you know, deposits, or meeting minutes.
+34:26 <IanJackson> bdale: No.
+34:26 <cdlu> bdale, overfiend, et al., I'll bring it up at tomorrow's OFTC NOC meeting to find out if OFTC side is all ok with that.
+34:31 <Overfiend> cdlu: sounds good
+34:51 <damog> cdlu: ok, good
+35:01 <cdlu> damog, thanks
+35:01 <mako> ok
+35:03 <cdlu> mako, that's all from me
+35:03 * Hydroxide moves that, assuming OFTC NOC approves it at tomorrow's NOC meeting, David Moreno Garza be delegated as SPI's representative to the OFTC NOC
+35:06 * Overfiend moves that SPI nominate David Moreno Garza to be its representative to OFTC's NOC pending approval from OFTC.
+35:14 * Overfiend converts his motion to a second for Hydroxide's.
+35:15 * Hydroxide takes that as a second :)
+35:18 <mako> alright
+35:23 <cdlu> heh
+35:27 <mako> !vote start
+35:30 <Overfiend> !vote yes
+35:32 <mako> !vote yes
+35:32 <Hydroxide> !vote yes
+35:37 <bdale> Ian just said we don't need to vote on it, but I'd vote yes.
+35:42 <cdlu> !vote abstain
+35:48 <Overfiend> bdale: Vote anyway, it's good for solidarity.
+35:54 <Joey> Great.
+36:00 * Overfiend waves a union card in bdale's gace
+36:01 <IanJackson> !vote yes
+36:03 <Overfiend> face, even
+36:06 <cdlu> 5Y 0N 1A 2 not voted yet
+36:10 <Hydroxide> hehehe. we're a board of directors. we are enthusiasts of the sport of voting =)
+36:17 <Hydroxide> cdlu: that's a majority. let's move on
+36:17 <Overfiend> OTOH, I probably can't reach Bdale's face, so I had better settle for his "gaace"
+36:18 <cdlu> Joey, can I interpret your 'Great' to be a yes vote? :)
+36:20 * bdale sighs, loudly
+36:23 <Joey> !vote yes foir damog
+36:28 <cdlu> ok
+36:31 <Joey> cdlu: yes, I am only slow.
+36:31 <cdlu> mako, next up? :)
+36:50 <mako> Debian website copyright issues (Tommi Vainikainen) [see appendix]
+36:52 <Overfiend> formorer: (belatedly) hi.  Kinda of a chaotic meeting today.
+36:54 <mako> this issue has come up several times
+37:09 <mako> it's a well known issue but there's nothing we can do about unless someone does a lot of work
+37:17 <mako> i can try to collect the responses and follow up to that bug
+37:25 <mako> in the debian BTS
+37:36 <Overfiend> Yes, it's my undertanding that without a written transfer of copyright, SPI doesn't really have a plausible claim to ownership of the copyrights in the Debian website.
+37:39 <Overfiend> Or anything else.
+37:44 <mako> the issues it that because SPI has not done copyright assignemtns, we can just relicense the work
+37:57 <mako> it will require *alot* of work by whoever wants to move to a new license
+37:58 <bdale> you mean can't, right?
+38:02 * Overfiend apologizes for his contributions to confusion on that front, such as by asserting that SPI had copyright in XFree86 maintainer scripts he wrote.
+38:06 <mako> bdale: yes
+38:09 <mako> *can't*
+38:15 <IanJackson> I don't quite see what SPI can do about this problem.
+38:55 * Hydroxide notes that it's now meetingtime+38minutes. Let's keep this brief.
+38:58 <bdale> right, the choices seem to be a) leave it alone, b) do a lot of work to get assignments and relicense, or c) flush it all and make people start over with a consistent license and assignments.
+39:01 <IanJackson> Certainly it's far from clear to me that it's worth the effort.
+39:09 <BrucePerens> Sorry. I'm back. I don't think you need that vote.
+39:12 <Overfiend> bdale: c) is kinda already happening with wiki.debian.org.
+39:13 <IanJackson> I mean, worth it to do anything.
+39:22 <bdale> Overfiend: good point
+39:28 <mako> people are welcome to do it
+39:29 <IanJackson> But if it is supposed to be worth it then the people who think so should go and do it.
+39:29 <Overfiend> bdale: I know some people would like to see wiki.d.o utterly replace www.d.o.
+39:32 <Hydroxide> Overfiend: nobody's doing copyright assignments, and I don't know what license wiki.debian.org uses
+39:36 <mako> the issue we can't do anything about it
+39:37 <IanJackson> Furthermore, this isn't SPI's decision anyway.
+39:41 <cdlu> Bruce, once someone moves/seconds, it goes to a vote, no matter how inane. If we don't need to vote on things, people need to learn not to second them. :)
+39:53 <Overfiend> Hydroxide: no, but people can agree as part of clicking the submission form on the wiki to license their stuff under certain terms
+39:55 <mako> we've discussed this before.. i'll just point the person who put this issue onto the table to the old discussion
+39:59 <mako> lets move on
+40:04 <IanJackson> mako: Yes please.
+40:08 <bdale> good
+40:11 <Hydroxide> Overfiend: true, but they're not now afaik.
+40:13 <formorer> Overfiend: yeah seems so, unfortunatly I missed the dcca stuff
+40:14 <mako> Nessus fork project membership: OpenVAS (see also openvas.org(Tim Brown ([machine])) (resolution needed)
+40:16 <BrucePerens> !vote quantum-indeterminate.
+40:39 <Hydroxide> has someone made the resolution? I was busy making the PostgreSQL resolution and writing the Treasurer's report.
+40:39 <mako> is tim brown here?
+40:42 <IanJackson> Oh, Nessus is the thing that went non-free recently.
+40:44 <Overfiend> Hydroxide: Maybe Nathanael Nerode can help with that, it's an issue he's been paying attention to.
+40:46 <mako> is there a resolution?
+40:47 <Hydroxide> [machine]: ping
+40:51 <cdlu> mako, I don't beleive anyone has written the needed resolution to get OpenVAS in, but they've already been accepted in principle.
+40:53 <mako> i'm familiar with the issue
+40:54 * Maulkin is the representative of OpenVAS, apologies are sent from Tim
+40:55 <Hydroxide> Overfiend: possibly.
+41:14 <Hydroxide> would someone write up a resolution like the Drupal and PostgreSQL resolutions?
+41:27 <cdlu> that's always been IanJackson's speciality. :)
+41:32 <Overfiend> Can we dust off the email voting procedure for this?
+41:34 <IanJackson> Sorry, I only just read about this.
+41:36 <Hydroxide> hell, I'll do it if it'll take very loong
+41:48 <Overfiend> Does any member of the Board object to accepting OpenVAS under the same terms as we did Drupal?
+41:55 <cdlu> Overfiend, no objections here
+41:57 <IanJackson> How about I write up a motion right now in the next 5 mins and send it round ?
+42:00 <BrucePerens> That's a poor excuse for a motion.
+42:02 <mako> who is the resprentative
+42:10 <bdale> no objection
+42:10 <mako> IanJackson: sounds fine
+42:11 <Overfiend> BrucePerens: I wasn't making a motion, I was querying the Board.
+42:11 <cdlu> Ian, if you want. we can come back to it and vote on it, doing otherstuff while you write it.
+42:18 <IanJackson> Right.
+42:20 * mako nods
+42:26 <Hydroxide> let's do that.
+42:26 <Maulkin> The proposal from openvas is at http://www.openvas.org/doku.php?id=proposal_for_becoming_an_spi_project
+42:35 <Overfiend> BrucePerens: I reserve the right to conduct interrogatories of my peers :-P
+42:44 <mako> alright, while Ian is writing, PostgreSQL membership is also up
+42:55 <Overfiend> ewww, PHP.  There went MY vote.  :-P
+42:56 <BrucePerens> No objection. The only time I've ever objected to these has been when we're screwed up, not the organization wanting in.
+43:08 <cdlu> mako, jberkus is apparently here representing PostgreSQL today
+43:13 <jberkus> hi!
+43:15 <mako> jberkus: greetings
+43:18 <Hydroxide> we have a resolution for PostgreSQL in the agenda and in board@ and -private mailboxes
+43:20 <mako> we *do* have a resolution for postgres
+43:26 <Overfiend> jberkus: welcome to our frenetic organization
+43:35 <mako> resolution: 2005-12-13.jrk.1 for eference
+43:36 <IanJackson> Nice resolution, btw, Jimmy.  Thanks.
+43:40 <Hydroxide> IanJackson: thanks
+43:41 <bdale> jberkus: and thanks for being patient with us in email!
+43:45 <BrucePerens> Josh: Abandon hope all ye who enter here.
+43:45 * cdlu seconds Jimmy's resolution
+43:49 <mako> also on the agenda
+44:05 <mako> jberkus: anything you want to say before we vote?
+44:12 <mako> jberkus: you seen the resolution, look ok?
+44:14 <Overfiend> The resolution looks sound to me.
+44:42 <mako> (just want to get the other party's consent before we start the vote)
+44:44 <jberkus> hold on ... actually, I;'ve not read it, it wasn't up last night
+44:45 <jberkus> 5 min
+44:59 <Overfiend> shall we come back to it?
+45:11 <Overfiend> Of course, DUS discussion might throw the meeting into utter madness.
+45:16 <cdlu> already have enough stuff to come back to. It's very short and to the point. :)
+45:26 <jberkus> yes, looks good
+45:26 <kyllikki> Overfiend: our president is here
+45:30 <mako> Overfiend: yes.. i want to hold off on these two.. it will just take a minute
+45:33 <Overfiend> kyllikki: I noticed :)
+45:39 <Overfiend> okay, great.  jberkus is happy, we're happy.
+45:44 <mako> alright then
+45:46 <Hydroxide> ah, one mistake in my resolution
+45:50 <Overfiend> damn.
+45:54 <Hydroxide> the URL for the Associated Project Framework is wrong
+45:57 <Overfiend> Amend thee thy resolution.
+46:03 <Hydroxide> it should end in 92.html instead of 91.html
+46:12 <Hydroxide> the same bug is in the Drupal resolution.
+46:14 <mako> alright, shouldn't be a controversial change
+46:15 <bdale> noted
+46:15 <cdlu> Hydroxide, you should use the resolutions directory, not the -announce archive
+46:21 <Hydroxide> cdlu: would you fix it?
+46:32 <Hydroxide> cdlu: I used what was linked from the website
+46:33 <Overfiend> that's what a secretary's for :)
+46:37 <bdale> how about we vote, then fix it in the version that gets published?
+46:50 <mako> alright: we're voting to acccept Hydroxide's proposal to add postgres as member project as in 2005-12-13.jrk.1 with a correct URL
+46:53 <mako> !vote start
+46:57 <cdlu> it's already fixed in the agenda
+46:58 <BrucePerens> !vote yes
+46:58 <cdlu> !vote yes
+46:59 <Overfiend> !vote yes
+46:59 <Hydroxide> !vote yes
+47:00 <bdale> !vote yes
+47:01 <mako> !vote yes
+47:08 <Joey> !vote yes
+47:28 <cdlu> Hydroxide, http://www.spi-inc.org/corporate/resolutions/resolution-2004-08-10.iwj.1
+47:29 <mako> IanJackson: how are things going over there?
+47:33 <cdlu> that's the URL listed on the website.
+47:55 <BrucePerens> Oops. Too many folks heads-down.
+47:58 <IanJackson> !vote yes
+48:04 <mako> !vote stop
+48:10 <Overfiend> BrucePerens: ?
+48:16 <cdlu> 8 yes 0 no 0 abstain 0 missed
+48:17 <Hydroxide> cdlu: the version of the Drupal resolution linked to from the website contains in its text the incorrect URL of the Associated Projects Framework from the -announce archive
+48:23 <mako> jberkus: welcome
+48:31 <BrucePerens> I did vote yes.
+48:37 <Hydroxide> cdlu: and that was my basis
+48:42 <Overfiend> BrucePerens: did you not mean to?
+48:53 <IanJackson> Addressees for the motion text ?  board@, spi-general@
+48:55 <cdlu> Hydroxide, I'll try and get that fixed. Meanwhile, please use the correct resolution URL (not the ML URL) for resolutions. :)
+49:00 <Overfiend> IanJackson: board@
+49:03 <IanJackson> Anyone from OpenVAS ?
+49:04 <Hydroxide> cdlu: ok :)
+49:04 <cdlu> Ian, board@
+49:05 <BrucePerens> No, I was just commenting on the long pause while we waited for people to look at their screens.
+49:06 <Overfiend> IanJackson: -general is full of spam.
+49:11 <jberkus> thanks!
+49:12 <Overfiend> BrucePerens: oh ah.
+49:13 * Maulkin is from OpenVAS
+49:18 <IanJackson> Email address ?
+49:23 <Overfiend> IanJackson: board@spi-inc.org
+49:23 <jberkus> will pass it along
+49:24 <Maulkin> neilm@openvas.org
+49:26 <Overfiend> oh
+49:35 <IanJackson> Just one final proofread, bear with me.
+49:45 <cdlu> jberkus, welcome to a whole new level of bureaucracy. Your welcome letter will be in the mail by early 2012. :)
+49:48 <Overfiend> MR PRESIDENT
+49:49 <mako> CosmicRay: ah, welcome :)
+49:55 <Hydroxide> jberkus: oh, that resolution only offers associated project status. do you accept? (yay formalities)
+49:56 <cdlu> CosmicRay, hi! :)
+49:58 <CosmicRay> hello.
+49:59 <Overfiend> holy shit, do we have our entire Board here?
+50:02 <cdlu> yes
+50:04 <jberkus> yes
+50:05 <cdlu> we have 100% attendance!
+50:06 <cdlu> wow!
+50:07 <CosmicRay> it is rather unexpected that I'm here.
+50:08 <Hydroxide> cool
+50:11 <CosmicRay> we had a fire at work last night
+50:16 <cdlu> CosmicRay, we're just about done anyway
+50:17 <bdale> ouch
+50:17 <CosmicRay> so I am at work instead of at training
+50:20 <Maulkin> CosmicRay: :(
+50:20 <Hydroxide> cdlu: let jberkus's acceptance get noted in the minutes.
+50:21 <cdlu> CosmicRay, erp
+50:23 <Hydroxide> CosmicRay: wow
+50:25 <Overfiend> everybody bust out the chapagne and do a few lines of coke, we vaguely resemble a real corporation
+50:27 <cdlu> Hydroxide, ok
+50:28 <IanJackson> 2005-12-13.iwj.1 sent, with thanks to Hy for text to base it on :-).
+50:30 <cdlu> slef, just on time, too.
+50:37 <CosmicRay> and my irc session is being powered by a nice gas-powered generator ;-)
+50:43 <Overfiend> CosmicRay: rockin'.
+50:45 <Hydroxide> cdlu: OpenVAS first, right?
+50:47 <mako> great
+50:55 <cdlu> --- begin text of resolution 2005-12-13.iwj.1 ---
+50:57 <cdlu> now in the agenda
+50:59 <cdlu> refresh for a copy
+51:01 <mako> perfect
+51:05 <Overfiend> CosmicRay: Please join us in welcoming PostgreSQL to SPI as a Member Project.
+51:06 <mako> everyone take a look
+51:13 <bdale> IanJackson: does it differ in any material ways?  I'm not going to see the email for a few mins best case.
+51:16 <CosmicRay> congrats, postgresql
+51:18 <Overfiend> CosmicRay: We just passed a resolution doing so.
+51:25 <Overfiend> CosmicRay: jberkus is their representative.
+51:25 <mako> CosmicRay: if it's cool, i'll finish with this resolution and then hand the reigns off to you for hte DUS stuff
+51:34 <IanJackson> Yes, the item 4 about authoritative decisonmaker is different and the intro is lightly edited.
+51:35 <mako> CosmicRay: quite honestly, i don't want them :)
+51:43 <IanJackson> bdale: Refresh the agenda, it's in there now.
+51:49 <CosmicRay> mako: I'd prefer if you continue chairing this meeting, I have *no idea* how long I'll be here
+51:52 <Overfiend> mako: (pet peeve, ITYM "reins", as in "device for steering a horse")
+51:54 <Hydroxide> c'mon, guys, can we fix the URL once and for all? :P Ian's resolution has the wrong URL
+52:05 <cdlu> Hydroxide, I just fixed it, noting that too :)
+52:05 <IanJackson> I left out the stuff about specific mailing list and PGP to keep it generic.
+52:14 <bdale> wow, it's here.  never mind, reading.
+52:20 <IanJackson> Oops, sorry :-).  I just cribbed it from Hydroxide :-).
+52:27 <cdlu> heheh
+52:33 <cdlu> anyway
+52:36 * cdlu seconds iwj.1
+52:39 <cdlu> mako, ? :)
+52:40 <mako> alright
+52:41 <mako> lets vote
+52:43 <Hydroxide> IanJackson: the feeling's mutual ;P
+52:53 <IanJackson> ROTFL
+52:53 <IanJackson> !vote yes
+52:55 <mako> !vote yes
+52:56 <cdlu> !vote yes
+52:57 <mako> sorry
+52:57 <Overfiend> !vote yes
+52:59 <bdale> looks ok to me, modulo whether that's actually the url cdlu thinks we should be using?
+53:03 <Hydroxide> !vote yes
+53:04 <mako> !vote start (retroactively)
+53:06 <BrucePerens> !vote yes
+53:09 <bdale> !vote yes
+53:10 <Hydroxide> bdale: yeah, the URL will get fixed.
+53:12 <cdlu> bdale, I put in the correct one
+53:24 <cdlu> bdale, that being    http://www.spi-inc.org/corporate/resolutions/resolution-2004-08-10.iwj.1
+53:42 <bdale> good, thanks.  obviously, I trusted you to get it right as per my vote...  ;-)
+53:47 <cdlu> we have 7 yes, missing a vote or two :)
+53:52 <mako> right
+53:54 <Overfiend> Joey ?
+53:56 <cdlu> either way, welcome OpenVAS :)
+54:00 <Hydroxide> cdlu: feel free to make that change in my resolution too. unless you want to keep the -announce URL there
+54:01 <Joey> !vote yes
+54:05 <mako> !vote stop
+54:09 <cdlu> Hydroxide, I'll fix it yep.
+54:15 <mako> Maulkin: welcome
+54:17 <Overfiend> uh oh, did we kill the bot?
+54:21 * Maulkin thanks SPI on behalf of OpenVAS
+54:26 <mako> Overfiend: i'm the bot today
+54:29 <Overfiend> Maulkin: thanks for picking up the torch
+54:35 <IanJackson> maulkin: NP.  Well done for fighting the good fight.
+54:35 <Overfiend> Maulkin: that Nessus decided they didn't want
+54:41 <cdlu> 8 yes 0 no 0 abstain and one fire fighting
+54:49 <mako> Maulkin: and thanks for the push on openVAS
+55:01 <bdale> do we take that as an acceptance of the offer to join?
+55:02 <cdlu> mako, I propose that we schedule our next meeting prior to getting into DUS, lest the DUS mess last hours :)
+55:09 <Maulkin> :)
+55:10 <mako> alright...
+55:15 <IanJackson> No, the DUS mess will not last hours.  But go ahead.
+55:19 <Overfiend> bdale: under the terms of the resolution, I think we need to hear 2 of 3 people accepting
+55:25 <bdale> ok
+55:32 <Hydroxide> Overfiend: they have 60 days to do it, let's move on
+55:35 <Overfiend> 4. Currently, Tim Brown, Sean Baumann and Robert Berkowitz are
+55:35 <Overfiend>    recognised by SPI as the authorititive decisionmakers for OpenVAS;
+55:35 <Overfiend>    any two out of the three must agree any any particular decision
+55:35 <Overfiend>    (including any decision to delegate).  Tim, Sean and Robert have
+55:38 <Overfiend> right
+55:41 <Overfiend> just answering bdale's question.
+55:45 <mako> cdlu: when should the next meeting be?
+55:47 <Hydroxide> Maulkin: you'll let them know that?
+55:50 <mako> cdlu: now that we're off by a week?
+55:51 <cdlu> check your calendars, next meeting should be: Tuesday January 17th
+55:54 <Maulkin> Hydroxide: of course.
+55:57 <IanJackson> Jan 17th ?
+55:57 <cdlu> mako, that's a one-off
+55:59 <mako> jan17?
+55:59 <Overfiend>     January 2006
+55:59 <Overfiend> Su Mo Tu We Th Fr Sa
+55:59 <Overfiend>  1  2  3  4  5  6  7
+55:59 <Overfiend>  8  9 10 11 12 13 14
+55:59 <Overfiend> 15 16 17 18 19 20 21
+56:01 <Overfiend> 22 23 24 25 26 27 28
+56:06 <Overfiend> 29 30 31
+56:07 <Hydroxide> Maulkin: cool cool
+56:12 * Maulkin grins at Hydroxide
+56:12 <Hydroxide> 17th seems fine to me
+56:13 <IanJackson> 1900 UTC I take it.
+56:18 <Overfiend> I do not object to 17 January.
+56:22 <mako> alright, the next meeting will be january 17th @1900UTC
+56:28 <cdlu> cool, that was easy
+56:31 <cdlu> have at DUS
+56:32 <bdale> should work for me
+56:35 <Overfiend> Okay, great.  Thanks guys.
+56:39 <Overfiend> Time for the cage match.
+56:39 <Joey> 17th seems fine to me
+56:41 <mako> alright, DUS
+56:59 <mako> i suppose the sane thing is to get get slef to give a short summary of what he thinks the issue is
+57:06 <IanJackson> Right.  I propose the following motion: `The SPI Board notes that MJ Ray has been shit-stirring about Debian UK and asks him to stop doing so.'
+57:09 <fil> has the motion been seconded BTW?
+57:09 <cdlu> slef, you here to do that?
+57:25 <mako> then let people respond
+57:30 <Overfiend> fil: MJ Ray proposed text for a resolution, it has only been brought before the board.
+57:34 <mako> see if there are any resolutions on teh table with a second
+57:46 <IanJackson> Note that I speak as a non-member of Debian UK and have not been to any of their meetings.  I do know several of the participants, some as friends, and consider them sound and sensible.
+57:49 <mjg59> fil: Seconds aren't required in the by-laws
+58:02 <cdlu> no board members have adopted the resolution as far as I know. I'm reserving judgement until I find out wth the issues are. :)
+58:03 <fil> ah
+58:07 <Overfiend> Under SPI's bylaws, who can bring a motion?
+58:12 <mako> alright.. let me read over the resolution again
+58:15 <slef> cdlu: I can, but I think it stands on its own. DUS is currently "wrong" FSVO wrong and it would be nice to have it fixed.
+58:15 <bdale> we haven't actually accepted the motion yet
+58:18 <IanJackson> Anyone want to second my motion ?
+58:30 <Overfiend> IanJackson: I don't.  Too inflammatory.
+58:30 <mjg59> Overfiend: As far as I can tell, anyone
+58:36 <cdlu>    Resolutions
+58:36 <cdlu>    Resolutions are voted on by the board of directors. Resolutions may be put before the board for consideration. If the board decides not to consider an
+58:36 <cdlu>    issue, the membership may vote on the resolution. The membership may also override a vote of the board by a 2/3 majority vote.
+58:36 <slef> I sent a request for a motion. It's entirely up to you.
+58:40 <cdlu> that's all the by-laws say about resolutions
+58:47 <cdlu> anything beyond that we've developped by custom
+58:54 <cdlu> aka 'rule of law' :)
+58:55 <slef> request for a resolution (damn jargon)
+58:57 <cdlu>    Resolutions
+58:57 <cdlu>    Resolutions are voted on by the board of directors. Resolutions may be put before the board for consideration. If the board decides not to consider an
+58:57 <cdlu>    issue, the membership may vote on the resolution. The membership may also override a vote of the board by a 2/3 majority vote.
+58:59 <cdlu> oops, sorry
+59:05 <Overfiend> Hey, the Board could just abdicate its responsibility on this and let the membership vote on it.
+59:11 <IanJackson> So I suppose that means we should vote on it.
+59:18 <Hydroxide> I would say instead that we should discuss it before next meeting
+59:20 <cdlu> two opposite philosophies, interesting. :)
+59:29 <IanJackson> I'm happy to vote right away.  I think this is nonsense and Debian UK should just be allowed to get on with being a good thing.
+59:30 <bdale> Overfiend: did you respond to my email prior to the meeting?  I'm not caught up on email.
+59:36 <Hydroxide> because it was only proposed today, and there's been no statment from Branden in his role as DPL
+59:40 <Overfiend> bdale: yes, I responded a week or more ago
+59:47 <slef> IanJackson: are you UK-resident?
+59:50 <mako> personally, i find a little silly to chastise DUS for violating people's human rights
+59:53 <IanJackson> slef: Yes.
+1:00:14 <Robot101> mako: CLOSED, NOTFORUS? :)
+1:00:18 <IanJackson> See above regarding my statement of potential conflict of interest.
+1:00:33 <robster> IanJackson: have you opted out?
+1:00:35 <willy> Actually, Branden did respond to the notion of DUS as DPL in http://lists.debian.org/debian-project/2005/08/msg00280.html
+1:00:36 <Hydroxide> if it is to be decided now, it does seem a bit extreme and I would vote against. If there is further discussion and a vote on January 17th, I will take the discussion into consideration in my vote.
+1:00:50 <Hydroxide> willy: I meant a response to the resolution
+1:00:58 * Sledge waves, gotta go for a prior engagement... :-(
+1:01:01 <Overfiend> shit
+1:01:03 <Overfiend> Sledge: noooo
+1:01:05 <Overfiend> I was just needing you
+1:01:16 <Overfiend> I sent a mail as DPL to Steve McIntyre (Sledge) on 10 October.
+1:01:23 <kyllikki> Overfiend: you have the rest of the board here and we do know sledges wishes
+1:01:23 <Overfiend> From: Branden Robinson / Debian Project Leader <leader@debian.org>
+1:01:23 <Overfiend> To: Steve McIntyre <steve@einval.com>
+1:01:23 <Overfiend> Cc: MJ Ray <mjr@phonecoop.coop>
+1:01:23 <Overfiend> Subject: regarding the Debian U.K. Society and involuntary membership
+1:01:39 <IanJackson> Note that anyone in the UK involved with Debian who is at all familiar with the situation will also probably count Steve et al as friends or at least acquaintances.
+1:01:49 <slef> IanJackson: DUS claimed you are a member then. Whether that makes you a member of the business is another thing.
+1:01:49 <bdale> what I asked for in email prior to the reading was an indication from the DPL as to whether SPI should consider this motion today or not
+1:02:06 <slef> Oh sure. I've nothing against them personally. I don't want to be in business with them.
+1:02:21 * cdlu convenes a panel of the 4 current and former DPLs on the board to decide this issue :)
+1:02:23 <bdale> s/reading/meeting/
+1:02:25 <kyllikki> slef: I belive your repeated statements opting out have made that more than clear
+1:02:28 <Overfiend> bdale: oh, I thought you meant the old unearmarked funds thing
+1:02:29 <fil> slef: you're not -- you opted out remember
+1:02:44 <Overfiend> CosmicRay: would you call us to order, please?
+1:02:48 <mjg59> I think deferring this until later would be sensible. The resolution wasn't copied to the DUS board, and so there's been no reasonable opportunity to respond.
+1:02:57 * Maulkin concurs
+1:02:58 * Hydroxide agrees.
+1:03:02 <bdale> Overfiend: no, I wanted your take on whether this is something the SPI board should address or not, and if so whether you want us to address it today
+1:03:03 <mako> slef: at this point, i don't think there's a person on the planet would mistake you for a member of DUS
+1:03:07 <IanJackson> Is there anyone from the UK _except_ slef who thinks this is anything but shit-stirring ?
+1:03:25 * fil is unsure what one can sensibly respond to in this
+1:03:28 <kyllikki> IanJackson: certianly noone has sent anything to the secatary about it
+1:03:29 <rleigh> ...
+1:03:33 <CosmicRay> Overfiend: I'm afraid I've been distracted with events over here and haven't really been able to pay attention..  perhaps I should just /part #spi to avoid confusion
+1:03:36 <sgran> no takers I see
+1:03:37 <bagpuss> I think it's pedantry for the sake of it.  Does that count as shit-stirring?
+1:03:38 <bdale> my point being that while SPI holds the trademark, we do so in trust for the project, and acting unilaterally on this without the project's involvement at least in the form of the DPL seems odd to me
+1:03:39 <CosmicRay> i'm not really here
+1:03:43 <Overfiend> bdale: I believe that because SPI is entrusted with protection of the "Debian" mark, yes, the SPI Board must be involved.
+1:03:45 * Hydroxide moves to discuss it via email with MJ Ray, the DUS board, and any other concerned parties, and then to vote on MJ Ray's resolution if still appropriate at the January SPI meeting.
+1:04:01 <cdlu> s/still//
+1:04:05 <Overfiend> bdale: However, SPI is entrusted to dispose of assets of member projects as those member projects direct.
+1:04:06 <mako> i tend to think the the DPL should decide to offer a trademark license
+1:04:19 <fil> asuffield also too the chance to opt out, but has been entirely relaxed about it otherwise
+1:04:20 <mako> although IMHO it's also up the DPL to come to us with enforcement issues
+1:04:20 * Overfiend puts his DPL hat on
+1:04:23 <mjg59> mako: A trademark license has been granted. The request is for it to be revoked.
+1:04:31 <bdale> Overfiend: what I feel I'm lacking as an SPI board member on this today is the "as those member projects direct" piece.
+1:04:37 <slef> Freedom of association is something of a point of principle. There are little more direct things a person can do.
+1:04:37 <mako> well, let Overfiend speak to that
+1:04:44 <Overfiend> just a moment, let me check my mail
+1:04:53 <Overfiend> making sure I don't tell a lit here
+1:04:54 <Robot101> the request is for the SPI to overrule the DPL? surely you can dismiss that one out of hand as something the SPI would never do?
+1:05:04 <slef> I asked for revocation because DUS doesn't comply with the terms of the drafted licence.
+1:05:09 <cdlu> Robot, the DPL is about to speak
+1:05:23 <Overfiend> s/lit/lie/
+1:05:24 <Overfiend> Okay.
+1:05:28 <kyllikki> slef: in your personal opinion, and not that of others
+1:05:43 <Overfiend> order, please.
+1:05:53 * Maulkin cancels his line
+1:06:01 <Overfiend> As I said, I sent mail to Steve McIntyre on 10 October.
+1:06:12 <Overfiend> Steve and Philip Hands each replied on 12 October.
+1:06:21 <Overfiend> Steve's assertion was that some time was needed to clean up some details.
+1:06:44 <Overfiend> Phil's message was that MJ Ray's assertions were basically incorrect.
+1:06:49 <slef> kyllikki: some others agree, but that's not important.
+1:06:54 <Overfiend> That the membership of DUS was to be limited to DDs living in the UK.
+1:06:58 <Overfiend> Not users.
+1:07:09 <IanJackson> slef: Name one other UK Debian participant who supports you.
+1:07:14 <Overfiend> And that the Constitution permits any member of DUS to leave at any time.
+1:07:20 <slef> Overfiend: elegibility can be limited, but membership cannot be involuntary.
+1:07:28 <Overfiend> would you guys settle down?  I'm speaking ex cathedra here, damnit.
+1:07:55 <Overfiend> I have not reviewed the Debian UK website or its constitution since September.
+1:08:07 <Overfiend> Given MJ Ray's renewal of his objections, I feel I should so.
+1:08:12 <slef> IanJackson: I can't OTTOMH. I dropped this for a while, so I'd need to check notes, but it doesn't matter.
+1:08:40 * Hydroxide revises his motion: SPI shall discuss MJ Ray's resolution via email with MJ Ray, the DPL, the DUS board, and any other parties concerned, including looking into the resolution's accuracy in matters of fact and law, and then to consider the resolution as appropriate at the January SPI meeting.
+1:08:41 <Overfiend> My opinion is that: 1) If DUS automatically considers anyone a member of their Society by virtue of a UK resident becoming a Debian Developer, I request that that practice cease.
+1:08:44 <IanJackson> overfiend: I think you should refer MJ Ray to the NM-team for possible expulsion.
+1:09:02 * cdlu moves that everyone stops talking until overfiend finishes
+1:09:14 * Hydroxide moves in his chair
+1:09:14 <IanJackson> I move that we postpone this issue until next meeting.
+1:09:25 * Joey seconds that
+1:09:30 <Hydroxide> hehe, "that"
+1:09:37 <IanJackson> Mr Chairman, I call for a vote on my procedural motion.
+1:09:50 <Hydroxide> IanJackson: would you allow mine instead?
+1:09:51 <Joey> Not that?  "this"?  or just :me seconds?
+1:10:01 <cdlu> Overfiend, can we consider this in your court, and continue this discussion following the meeting? Or is there something SPI must decide today?
+1:10:01 <Overfiend> 2) DUS should have a reasonable period of time to cure whatever breach of the UDHR is asserted.
+1:10:13 <Hydroxide> Joey: there were many motions at once. it wasn't clear which you were seconding
+1:10:14 <IanJackson> cdlu: POINT OF ORDER   please vote on my procedural motion
+1:10:16 <Overfiend> I do not feel there is anything the SPI Board needs to decide today.
+1:10:26 <bdale> Overfiend: thank you
+1:10:27 <Overfiend> IanJackson: our chair left
+1:10:28 <IanJackson> I assume he meant mine.
+1:10:33 <Robot101> Overfiend: correct
+1:10:37 <cdlu> mako is still here. He's chairing.
+1:10:39 <Overfiend> </ex cathedra>
+1:10:42 <Robot101> I'd motion instead that the SPI board should refer the issue back to the DPL, and he can decide on it, and there not /be/ a next time from SPI's point of view.
+1:10:43 <Overfiend> ah, good
+1:10:47 <mako> i was going to let overfiend finish
+1:10:52 <bdale> my take on this is that the SPI board has not accepted the motion, and needs take no action today
+1:10:52 <Hydroxide> Joey: which motion were you seconding, Ian's or mine?
+1:10:56 <IanJackson> mako: Point of order always takes precedence.
+1:11:01 <Overfiend> I'm more or less done.   I have a few other thoughts but they're not as important.
+1:11:19 <Overfiend> IanJackson: Take 2 cards.  You said Point of Order during a Point of Order.
+1:11:21 <IanJackson> This is a collossal waste of our time and we should argue by email and bitchslap slef next meeting.
+1:11:25 <mako> IanJackson: is your PoO that we postpone until next month?
+1:11:28 <Hydroxide> IanJackson: you realize that our parliamentary rules aren't specified anywhere, nor is there specified a dependence on robert's rules of order. so stop arguing about parliamentary procedure :)
+1:11:28 <IanJackson> Yes.
+1:11:29 <Joey> Hydroxide: Ians
+1:11:38 <Joey> (i.e. move to the next meeting)
+1:11:48 <cdlu> mako, I move that we bring this meeting to a close. If any of this must be resolved by SPI's board, it shall be brought up by a board member at the next meeting.
+1:11:58 <Hydroxide> ok, let's vote on Ian's resolutioin
+1:12:00 <IanJackson> !vote yes
+1:12:02 <Hydroxide> err, motion
+1:12:04 <mako> yes
+1:12:07 <mako> alright, that's a second
+1:12:18 <cdlu> on which?
+1:12:27 <IanJackson> On my motion to postpone this discussion to next meeting.
+1:12:29 <Hydroxide> cdlu: we're just postponing to next meeting
+1:12:29 <bdale> we don't need to vote
+1:12:35 <cdlu> we don't need to vote on that
+1:12:36 * Hydroxide agrees on that too
+1:12:38 <IanJackson> I just want to STOP
+1:12:38 <mako> alright
+1:12:47 <mako> any objections from the board?
+1:12:48 <Overfiend> slef: Do you have a phone?  I'd be curious to interview you and find out how the hell you managed to make so many people so angry...
+1:12:52 <cdlu> nor do we need to postpone it... postponing it forces it to come up next meeting when it doesn't have to. :)
+1:12:53 <IanJackson> I was hoping that mako would be familiar with rules of procedure so that we wouldn't have to wait.
+1:13:07 <mako> alright then
+1:13:10 <mako> that's it then
+1:13:14 <IanJackson> Thank GOD FOR THAT
+1:13:15 <mako> thanks for showing up everyone
+1:13:19 <mako> looking forward to this next month
+1:13:19 <Hydroxide> IanJackson: we don't have any rules of procedure that refer to notions of "point of order" or "procedural motion"
+1:13:24 <mako> *GAVEL*

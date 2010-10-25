@@ -1,0 +1,204 @@
+ 10/14/09 [22:00:01]< bdale> *GAVEL*
+ 10/14/09 [22:00:01]< bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+ 10/14/09 [22:00:01]< bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2009/2009-10-14.html
+ 10/14/09 [22:00:12]< slef> Ganneff: I don't know, but I got lots of stuff about 501(c)(3) when I asked.
+ 10/14/09 [22:00:15]< bdale> [item 2, Roll Call]
+ 10/14/09 [22:00:15]< bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+ 10/14/09 [22:00:15]< bdale> Guests (including board advisors), please /msg your names to zobel if you wish your attendance to be recorded in the minutes of this meeting.
+ 10/14/09 [22:00:16] * Hydroxide suggests we delay the debian.org.tw stuff to the appropriate point in the meeting
+ 10/14/09 [22:00:17]< schultmc> Michael Schultheiss
+ 10/14/09 [22:00:20]< Ganneff> Joerg Jaspert
+ 10/14/09 [22:00:21]< Noodles> Jonathan McDowell
+ 10/14/09 [22:00:21]< Hydroxide> Jimmy Kaplowitz
+ 10/14/09 [22:00:22]< bdale> Bdale Garbee
+ 10/14/09 [22:00:23]< linuxpoet> Joshua D. Drkae
+ 10/14/09 [22:00:23]< cdlu> David Graham
+ 10/14/09 [22:00:25]< linuxpoet> ehh
+ 10/14/09 [22:00:26]< zobel> Martin Zobel-Helas
+ 10/14/09 [22:00:27]< linuxpoet> Joshua D. Drake
+ 10/14/09 [22:00:55]< bdale> quorum met .. who's missing .. luk_?
+ 10/14/09 [22:00:58]< schultmc> yes
+ 10/14/09 [22:01:05]< Hydroxide> luk_: ^^^
+ 10/14/09 [22:01:09]< luk_> Luk Claes
+ 10/14/09 [22:01:15]< bdale> cool
+ 10/14/09 [22:01:23]< Hydroxide> full attendance! wow! :)
+ 10/14/09 [22:01:23]< bdale> [item 3, President's Report]
+ 10/14/09 [22:01:24]< bdale> A warm welcome to our new associated projects Path64 and OSUNIX!
+ 10/14/09 [22:01:24]< bdale> I've had conversations with more potential associated projects, particularly because of my participation in LinuxCon and the Ohio LinuxFest
+ 10/14/09 [22:01:24]< bdale> last month, but nothing that needs to be discussed today. 
+ 10/14/09 [22:01:26]< bdale> Next week I'll be in Tokyo for the Japan Linux Symposium.
+ 10/14/09 [22:01:36]< bdale> any discussion?
+ 10/14/09 [22:01:59]< bdale> [item 4, Treasurer's Report]
+ 10/14/09 [22:01:59]< bdale> Michael?  I note associated project equity numbers are down a bit this month, it feels good to see donations being put to use!
+ 10/14/09 [22:02:10]< schultmc> A routine report is in the agenda
+ 10/14/09 [22:02:29]< Hydroxide> thanks schultmc - looks good to me
+ 10/14/09 [22:02:35] * Hydroxide agrees with bdale too
+ 10/14/09 [22:02:39]< schultmc> The HeliOS Project's negative balance is temporary - they've already received donations to make up the shortfall
+ 10/14/09 [22:02:50]< bdale> schultmc: good to know
+ 10/14/09 [22:03:04]< bdale> anything else to report or discuss here?
+ 10/14/09 [22:03:05]< cdlu> besides, deficits are in vogue. :)
+ 10/14/09 [22:03:09]< linuxpoet> ahem
+ 10/14/09 [22:03:10]< schultmc> not from me
+ 10/14/09 [22:03:20] * cdlu moves to approve treasurer's report
+ 10/14/09 [22:03:23]< bdale> [item 5, Secretary's report]
+ 10/14/09 [22:03:23]< bdale> Martin?
+ 10/14/09 [22:03:30]< zobel> sorry for the delay.
+ 10/14/09 [22:04:09]< bdale> zobel: anything else other than minutes from you this month?
+ 10/14/09 [22:04:17]< Hydroxide> bdale: see agenda
+ 10/14/09 [22:04:25]< zobel> both Path64 and OSUNIX accepted
+ 10/14/09 [22:04:25]< Hydroxide> bdale: but it's redundant with your report
+ 10/14/09 [22:04:32]< Hydroxide> (well, not quite)
+ 10/14/09 [22:05:09]< zobel> we are preparing a press announce for both + for OpenWRT
+ 10/14/09 [22:05:19]< zobel> *done*
+ 10/14/09 [22:05:26]< Hydroxide> oh
+ 10/14/09 [22:05:32]< bdale> k, thanks.  ask if you need any help with announcements
+ 10/14/09 [22:05:38]< bdale> Hydroxide: ?
+ 10/14/09 [22:05:39]< Hydroxide> one thing - someone should follow up with Yafaray
+ 10/14/09 [22:05:54]< bdale> was that in your to-do-list email?
+ 10/14/09 [22:06:04]< Hydroxide> bdale: no, Alvaro reminded me in IRC subsequently
+ 10/14/09 [22:06:07]< zobel> it was on-channel here yesterday.
+ 10/14/09 [22:06:24]< bdale> ok.  I didn't see it, then.  can someone who did take ownership?
+ 10/14/09 [22:06:27]< Hydroxide> they basically need the contributing members to be pinged for opinions and a resolution drafted for voting at November
+ 10/14/09 [22:06:42]< Hydroxide> and keep Alvaro in the loop
+ 10/14/09 [22:06:51] * zobel will do next week
+ 10/14/09 [22:06:57]< bdale> zobel: great, thanks
+ 10/14/09 [22:07:02]< bdale> anything else?
+ 10/14/09 [22:07:05]< Hydroxide> was sent to board@ and officers@ on September 21
+ 10/14/09 [22:07:08]< Hydroxide> ok
+ 10/14/09 [22:07:13]< Hydroxide> nothing else from me on this topic
+ 10/14/09 [22:07:25]< bdale> [item 6, Outstanding minutes]
+ 10/14/09 [22:07:26]< bdale> Martin?  We have Jimmy's final set ready to approve today, I think?
+ 10/14/09 [22:07:43]< Hydroxide> they are indeed there.
+ 10/14/09 [22:07:44]< zobel> we have Hydroxides minutes
+ 10/14/09 [22:07:56] * cdlu has read them and is prepared to move the motion
+ 10/14/09 [22:07:57] * zobel hasn't done the September ones yet.
+ 10/14/09 [22:08:18]< bdale> I'm ready to vote, and will look forward to the Sept ones at our next meeting
+ 10/14/09 [22:08:32]< luk_> Hydroxide: for August 19th I send you my regrets, did you not get them?
+ 10/14/09 [22:08:45]< Hydroxide> luk_: I didn't see them ... can you remind me?
+ 10/14/09 [22:09:05]< Hydroxide> luk_: oh, there it is
+ 10/14/09 [22:09:23]< bdale> amend to mark as absent with regrets, then?
+ 10/14/09 [22:09:24]< Hydroxide> I'll amend it right now to note luk_'s regrets
+ 10/14/09 [22:09:28]< Hydroxide> and we can vote with that change
+ 10/14/09 [22:09:29]< bdale> k
+ 10/14/09 [22:09:33]< bdale> works for me
+ 10/14/09 [22:09:41]< luk_> ok
+ 10/14/09 [22:09:47]< bdale> zobel: do you have the voting machinery at hand?
+ 10/14/09 [22:10:48]-!- devil_ [~devil@dslb-088-072-213-130.pools.arcor-ip.net] has joined #spi
+ 10/14/09 [22:10:48]-!- devil_ is "ferdinand thommes" on #spi #debian.de #debian-devel-changes #sidux-edu #sidux-ev #sidux-docs #sidux
+ 10/14/09 [22:10:57]< zobel> Voting started, 9 people (schultmc,ganneff,noodles,hydroxide,bdale,cdlu,zobel,linuxpoet,luk_) allowed to vote on Meeting minutes for Meeting Wednesday, August 19th, 2009. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+ 10/14/09 [22:10:57]-!- devil [~devil@dslb-088-072-213-130.pools.arcor-ip.net] has quit [Read error: Connection reset by peer]
+ 10/14/09 [22:11:07]< Ganneff> !vote yes
+ 10/14/09 [22:11:08]< schultmc> !vote yes
+ 10/14/09 [22:11:09]< linuxpoet> !vote yes
+ 10/14/09 [22:11:09]< Hydroxide> !vote yes
+ 10/14/09 [22:11:10]< luk_> !vote abstain
+ 10/14/09 [22:11:10]< bdale> !vote yes
+ 10/14/09 [22:11:12]< Noodles> !vote yes
+ 10/14/09 [22:11:12]< cdlu> !vote yes
+ 10/14/09 [22:11:14]< zobel> !vote yes
+ 10/14/09 [22:11:35]< zobel> Current voting results for "Meeting minutes for Meeting Wednesday, August 19th, 2009": Yes: 8, No: 0, Abstain: 1, Missing: 0 ()
+ 10/14/09 [22:11:35]< zobel> Voting for "Meeting minutes for Meeting Wednesday, August 19th, 2009" closed.
+ 10/14/09 [22:11:48]< bdale> zobel: cool.  thanks!
+ 10/14/09 [22:11:55]< Hydroxide> minutes amended
+ 10/14/09 [22:12:07]< bdale> zobel: and hopefully we'll have both sept and oct for next month's meeting?
+ 10/14/09 [22:12:37]< zobel> yes. i am on train this weekend, which gives me perfect time to prepare the minutes.
+ 10/14/09 [22:12:42]< bdale> great
+ 10/14/09 [22:12:45]< bdale> [item 7, Items up for discussion]
+ 10/14/09 [22:12:46]< bdale> [item 7.1, SPI resolution 2009-10-11.jj.1 (Holding debian.org.tw Domain in trust)]
+ 10/14/09 [22:12:46]< bdale> Joerg?  I remain concerned about how "unanimously" should be determined in the resolution as posted?  Otherwise this seems simple to me.
+ 10/14/09 [22:13:09]< Ganneff> ay. didnt get much back from the dot guys yet.
+ 10/14/09 [22:13:30]< Ganneff> i think going with a list of people would work out in the end, even if its not ideal.
+ 10/14/09 [22:13:33]< bdale> I note slef's concern about transfer of an asset out of the country, though.  I don't think it's a problem for this class of asset, but I'm certainly not an expert on this aspect of the rules.
+ 10/14/09 [22:13:46]< Hydroxide> I remain concerned about "unanimously", and I share slef's concern about what our ability to transfer the domain is to some other nonprofit. I don't think that second concern is fatal to the resolution, since as much as we support a transfer, we're not going to go ahead and do it if it's not legal for us
+ 10/14/09 [22:13:56]< Ganneff> now, does this make it a problem to vote on, or can we just say "to be more specific"?
+ 10/14/09 [22:14:07]< slef> point of info: not my concern, just I was told when I asked on spi-general that it was difficult
+ 10/14/09 [22:14:22]< Noodles> Presumably if we're just holding the domain rather than paying for it then it's easier to give back to an organisation we're holding it for?
+ 10/14/09 [22:14:25]< Ganneff> i do not see where there could be a problem, as it goes bck to another npo. going to any person i could understand it.
+ 10/14/09 [22:14:27]< bdale> Ganneff: I'd rather have the issue(s) resolved before we vote.  is there an issue of urgency here?
+ 10/14/09 [22:14:27]< Hydroxide> slef: thanks for bringing the issue up though
+ 10/14/09 [22:14:30]< Ganneff> though the laws can be crap
+ 10/14/09 [22:14:48]< fil> slef: that was for general cash though, no?
+ 10/14/09 [22:15:07]< Hydroxide> Ganneff: in this case we would probably just need some written assurances about how the domain would be used - e.g. we might get in trouble if we don't do those precautions and then the other npo gives it to MS
+ 10/14/09 [22:15:10]< slef> fil: I was more concerned about non-expendable assets. Cash can be spent.
+ 10/14/09 [22:15:34]< bdale> Hydroxide: legally, in the US it comes down to due diligence and best effort
+ 10/14/09 [22:15:39]< Ganneff> bdale: dont think so. only that having it done takes one thing out that makes people quarrel.
+ 10/14/09 [22:15:41]< Hydroxide> bdale: right, which is why I mentioned precautions
+ 10/14/09 [22:15:42]< Noodles> Is membership of DOT formally defined?
+ 10/14/09 [22:15:49]< Hydroxide> bdale: and written assurances
+ 10/14/09 [22:16:23]< Noodles> (ie how many people are required for "unanimous" and can you easily specify who they all are?)
+ 10/14/09 [22:16:40]< Hydroxide> bdale: anyway, I think that saying that we "support a transfer" is compatible with our plan to consult our lawyer/CPA and do it to the best extent we legally can. so the only issue with the resolution is "unanimously" and the definition of DOT membership
+ 10/14/09 [22:16:52]< bdale> one way to finesse this might be that we hold the domains on behalf of the Debian project, and agree to transfer them when and as directed by the DPL?
+ 10/14/09 [22:16:53]< Ganneff> Noodles: we can specify a list of people. i currently know multiple sites of the dispute and can ask both for names.
+ 10/14/09 [22:17:19]< Noodles> bdale: That sounds easier for us, if DOT/Debian agree.
+ 10/14/09 [22:17:23]< Ganneff> bdale: not sure that works out for them
+ 10/14/09 [22:17:24]< bdale> which is more or less what we would do for *any* asset we hold for an associated project?
+ 10/14/09 [22:17:36]< bdale> Ganneff: ok, just a thought
+ 10/14/09 [22:18:17]< Ganneff> see, its currently not under debian supervision, though its debian.org.tw. they are related and do mostly debian stuff, but its not debian controlled. saying the dpl decides, im not sure makes people like it
+ 10/14/09 [22:18:33]< bdale> I understand
+ 10/14/09 [22:18:48]< cdlu> however don't they use the name at the pleasure of the DPL/Debian project anyway?
+ 10/14/09 [22:18:57]< bdale> my inclination is to suggest that you nail down the details and we vote on this next month
+ 10/14/09 [22:19:09]< bdale> cdlu: that's an interesting question, but probably out of scope for this resolution
+ 10/14/09 [22:19:12]< Hydroxide> cdlu: debian does have a say due to its trademark, yes.
+ 10/14/09 [22:19:14]< zobel> i would propose to postpone a decission on that until stuff is solved (hopefully next month).
+ 10/14/09 [22:19:25] * Hydroxide agrees with bdale and zobel's suggestion
+ 10/14/09 [22:19:26]< Ganneff> fine. so, come up with either a list of names or a sentence that makes spi easy to decide dot wants a transfer, i think?
+ 10/14/09 [22:19:28]< linuxpoet> agreed
+ 10/14/09 [22:19:32]< Hydroxide> sounds good
+ 10/14/09 [22:19:33]< bdale> Ganneff: yes
+ 10/14/09 [22:19:49]< Ganneff> the "can spi transfer it away" thing is a non-issue i understand, in case of such a domain?
+ 10/14/09 [22:20:15]< bdale> I'm not worried about that question.  I'm just worried about how SPI can know when to accept a transfer request cleanly.
+ 10/14/09 [22:20:20]< Ganneff> k
+ 10/14/09 [22:20:30]< Ganneff> will work that out with them and come back
+ 10/14/09 [22:20:34]-!- AndrewLee [~andrew@u7.hlc.edu.tw] has joined #spi
+ 10/14/09 [22:20:34]-!- AndrewLee is "Andrew Lee" on #spi #lxde-zh #debian-i18n #debian-zh #vserver #debian-www #debian-mirrors #dot #debconf #emdebian #debian-boot #lxde #debian-live #debian-eeepc #debian-devel #debian-mentors #debian-edu #spi-tw
+ 10/14/09 [22:20:35]< bdale> ok, great
+ 10/14/09 [22:20:42]< Ganneff> so next then :)
+ 10/14/09 [22:20:49]< bdale> [item 8, Any other business]
+ 10/14/09 [22:20:50]< bdale> Do any board members have other items for discussion they would like to address briefly?
+ 10/14/09 [22:21:05]< Ganneff> i had something at the start, forgot it now. damn. :)
+ 10/14/09 [22:21:16]< linuxpoet> Just that PostgreSQL Conference West is this week :)
+ 10/14/09 [22:21:27]< bdale> linuxpoet: cool.  hope it goes well!
+ 10/14/09 [22:21:30]< linuxpoet> thanks :)
+ 10/14/09 [22:21:31]< cdlu> and OFTC is in the midst of annual elections :)
+ 10/14/09 [22:21:41]< Hydroxide> cdlu: thanks for reminding me to vote :)
+ 10/14/09 [22:21:45]< cdlu> :)
+ 10/14/09 [22:21:57]< bdale> anything else?  
+ 10/14/09 [22:22:06] * bdale pokes Ganneff in case his neurons are firing again...
+ 10/14/09 [22:22:07]< zobel> right, need to do that as well....
+ 10/14/09 [22:22:08]< Ganneff> no
+ 10/14/09 [22:22:10]< Ganneff> they sleep
+ 10/14/09 [22:22:12]< Ganneff> damn them
+ 10/14/09 [22:22:14]< Hydroxide> if this meeting were in a day or two, I'd probably be able to announce DC10 dates, but not yet
+ 10/14/09 [22:22:27]< Hydroxide> so no
+ 10/14/09 [22:22:30]< bdale> Hydroxide: looking forward to knowing
+ 10/14/09 [22:22:34]< bdale> ok, let's move on then
+ 10/14/09 [22:22:38]< Hydroxide> bdale: see email to -team and feel free to give your thoughts
+ 10/14/09 [22:22:42]< bdale> [item 9, Next board meeting]
+ 10/14/09 [22:22:42]< bdale> I believe our next regularly-scheduled monthly meeting should be November 11th at 20:00 UTC.
+ 10/14/09 [22:22:42]< bdale> I will be returning home that day from the Linux Foundation End User Summit, but should be able to get online at meeting time.
+ 10/14/09 [22:22:42]< bdale> Any strong objections?
+ 10/14/09 [22:22:51]< Noodles> WFM.
+ 10/14/09 [22:22:57]< cdlu> WFM?
+ 10/14/09 [22:23:01]< Noodles> Works For Me.
+ 10/14/09 [22:23:02]< bdale> "works for me"
+ 10/14/09 [22:23:03]< Ganneff> wfm
+ 10/14/09 [22:23:03]< schultmc> "works for me"
+ 10/14/09 [22:23:05]< cdlu> oh
+ 10/14/09 [22:23:05]< Hydroxide> wfm
+ 10/14/09 [22:23:09]< linuxpoet> I will be in paris
+ 10/14/09 [22:23:10]< cdlu> ya, that should be ok
+ 10/14/09 [22:23:14]< luk_> dict saves me in cases like this :-)
+ 10/14/09 [22:23:15]< linuxpoet> so regrets now
+ 10/14/09 [22:23:16]< Ganneff> linuxpoet: they have net there too :)
+ 10/14/09 [22:23:19]< bdale> "waste (of a) fine meeting"
+ 10/14/09 [22:23:24]< linuxpoet> not when you are with your wife :)
+ 10/14/09 [22:23:25]< cdlu> it'll be rememberance day, and don't forget DST ends for most/all of us between now and then
+ 10/14/09 [22:23:26]< zobel> WFM (hopefully, if baby is not born then yet)
+ 10/14/09 [22:23:28]< jcristau> Ganneff: we do?
+ 10/14/09 [22:23:31]< Ganneff> linuxpoet: even then.
+ 10/14/09 [22:23:42]< Ganneff> jcristau: i think so. some cheap copy perhaps, but still net.
+ 10/14/09 [22:23:47]< bdale> linuxpoet: have fun!
+ 10/14/09 [22:23:48]< Ganneff> linuxpoet: its just if she lets you use it or not
+ 10/14/09 [22:23:49]< Hydroxide> zobel: I was six weeks premature myself...
+ 10/14/09 [22:23:52]< bdale> Ok, thank you to everyone present for participating today.
+ 10/14/09 [22:23:53]< bdale> *GAVEL*

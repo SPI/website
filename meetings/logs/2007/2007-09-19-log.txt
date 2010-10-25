@@ -1,0 +1,187 @@
+21:00 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest
+21:00 < Ganneff> board of directors meeting, which is now called to order.  Today's agenda
+21:00 < Ganneff> and details of pending resolutions can be found on the web at:
+21:00 < Ganneff> http://www.spi-inc.org/secretary/agenda/2007/2007-09-19.html
+21:00 < Ganneff> [item 2, Roll Call]
+21:00 < Ganneff> Board members, please state your name for the record.  As we have nine board
+21:00 < Ganneff> members, quorum for today's meeting is six.  Guests, please /msg your names
+21:00 < Ganneff> to Maulkin if you wish your attendance to be recorded in the minutes of this
+21:00 < Ganneff> meeting.
+21:00 < Ganneff> Neil, please update us on known and tentative regrets.
+21:01 < Maulkin> Neil McGovern
+21:01 < Ganneff> Joerg Jaspert
+21:01 < schultmc> Michael Schultheiss
+21:01 < linuxpoet> linuxpoet: Joshua D. Drake
+21:01 < cdlu> David Graham
+21:01 < zobel> Martin Zobel-Helas
+21:01 < luk> Luk Claes
+21:01 < Maulkin> Quorum
+21:01 < jberkus> Josh Berkus
+21:02 < Ganneff> [item 3, President's Report] - no Bdale, no report.
+21:02 < Maulkin> Regrets from Joshua D. Drake (which is now null)
+21:02 < Ganneff> [item 4, Treasurer's Report]
+21:02 < Ganneff> schultmc: have fun
+21:02 < schultmc> jberkus and I have hired an intern to help us get caught up on data entry
+21:02 -!- scott [~scott@titania.sbender.net] has joined #spi
+21:02 < schultmc> no formal report at this time - should be coming soon though
+21:03 < jberkus> credit cards are up to date, working on checks
+21:03 < Ganneff> ok. more to come or next item?
+21:03 < schultmc> next item
+21:03 < Ganneff> [item 5, Secretary's report]
+21:03 < Ganneff> maulkin: your time
+21:03 < Maulkin> Nothing to report here.
+21:03 < Ganneff> good
+21:03 < Ganneff> [item 6, Outstanding minutes]
+21:03 < Ganneff> Again for Neil
+21:04 < jberkus> I haven't seen any notice of minutes
+21:04 < Maulkin> Once again, I'm afraid I don't have any sets to present. I'll try and get these done shortly.
+21:04 < Ganneff> ok, so lets skip it.
+21:05 < Ganneff> [item 7, Stuff for discussion]
+21:05 < Ganneff> 2007-09-19.jdd.1 - Review and determination of transaction providers
+21:05 < Ganneff> i guess thats linuxpoet s floor now
+21:05 < linuxpoet> Are there any questions? I thought it was hashed out fairly well on -private
+21:06 < jberkus> can I have a link to the final version?
+21:06 < luk> I don't really like the at least every 12 months with volunteers
+21:06 < linuxpoet> http://www.spi-inc.org/secretary/agenda/2007/2007-09-19.html
+21:06 < jberkus> luk: we can pay an intern
+21:06 < schultmc> that's the agenda - the resolution isn't linked
+21:06 < cdlu> schultmc, as the person most directly affected by the resolution, what do you think?
+21:06 < Maulkin> Personally, I'm not happy approving it when there hasn't been the work done anyway.
+21:06 < linuxpoet> schultmc: yes it is
+21:06 < jberkus> looks good to me
+21:06 < jberkus> schultmc: yes, it is
+21:07 < Ganneff> schultmc: it is
+21:07 < schultmc> ah, is now
+21:07  * schultmc just refreshed
+21:07 < jberkus> schultmc: I can have Frannie do a lot of the legwork
+21:07 < luk> I would rather go for 'at least every 12 months if at all possible'
+21:07 < Maulkin> Is there a degree of urgency to have this resolution passed before the review is completed?
+21:07 < linuxpoet> Maulkin: I have already stated that I am willing to help
+21:07 < schultmc> as long as jberkus or I aren't required to do the work ourselves I'm fine with it
+21:07 < schultmc> I agree that a periodic review should be done
+21:07 < Maulkin> linuxpoet: That wasn't my point.
+21:08 < zobel> i ack with luk here
+21:08 < linuxpoet> Maulkin: well my point is, in my opinion it shouldl have been in place since the inception of this corporation
+21:08 < linuxpoet> The fact that it isn't is bad news imo
+21:08 < linuxpoet> or something like it anyway
+21:09 < linuxpoet> Anyway, I am more than willing to put my fair share of time in, and if we have an intern to help that is even better because I can work with that individual
+21:10 < luk> I think it's good to have these reviews, but it's bad to make them absolutely obligatory
+21:10 < luk> IMHO
+21:10 < Maulkin> linuxpoet: 21:07 < luk> I would rather go for 'at least every 12 months if at all possible'
+21:10 < Maulkin> Want to incorporate that, or not?
+21:10 < Ganneff> soo, do we want to vote on this now or do we select "more discussion on lists"?
+21:10 < linuxpoet> Maulkin: I am confused
+21:11 < Maulkin> ok: basics :)
+21:11 < linuxpoet> Maulkin: my says at least every 12 months
+21:11 < Maulkin> You can incorporate that into your resolution or not.
+21:11 < cdlu> linuxpoet, it's the "if at all possible" bit that's important here
+21:11 < Maulkin> If you do, we just vote on the resolution
+21:11 < Maulkin> If not, someone can propose that as an amendment.
+21:11 < linuxpoet> I do not find that required, as the board can always call a vote to defer
+21:11 < luk> bad
+21:12 < Maulkin> If it passes, we vote on the amended version. If not, the original.
+21:12 < cdlu> luk, want to move the amendment?
+21:12 < Maulkin> Basically: do you want to amend your resolution to include that?
+21:12  * linuxpoet thinking
+21:13 < cdlu> linuxpoet, if you consider it a friendly amendment then we can put it right to a vote and dispose of it. does it hurt your resolution's purpose?
+21:13 < RichiH> if everyone agrees that periodic is good and some/one think it is bad to go for mandatory every year, couldn't 12 month be the target and 24 months a hard requirement?
+21:13 < linuxpoet> cdlu: My concern is simple, the amendment opens the door for, "I couldn't get to it..."
+21:14 < linuxpoet> which seems to happen quite a bit
+21:14 < jberkus> if it's a resolution, it justifies the treasurer paying for it
+21:14 < cdlu> linuxpoet, there's no mechanism to enforce the occurence of the review anyway, so not having that there won't create a condition where it'll automatically happen.
+21:14 < Maulkin> Ok. Should we just do them seperately?
+21:14 < luk> and if it is not done, there should be very good reasons otherwise it would have been possible...
+21:14 < cdlu> jberkus, if funding is included in the resolution it does.
+21:14 < linuxpoet> cdlu:  The first review of financial providers shall be completed and documented by December 31st, 2007 and then at least within every 12 months thereafter.
+21:15 < cdlu> or the funding falls within the treasurer's $100/month budget
+21:15 < jberkus> cdlu: um, the treasurer has only $100 per month?
+21:15 < cdlu> unless something changed?
+21:16 < cdlu> "reasonable necessity" for tax filing, and $100/month general operating is what I recall.
+21:16 < cdlu> Maulkin, yes, if we do them separately we'll actually get to a vote. :)
+21:16 < linuxpoet> I believe the resolution is satisfactory. If it doesn't pass. It doesn't pass but I believe I have taken into account all reasonable language and have provided several drafts of modifications. Based on those considerations, plus the fact that I am more than willing to participate in the work itself, I believe we should go to vote.
+21:17 < jberkus> um, if what cdlu's saying is correct, then we need a resolution increasing the treasurer's budget
+21:17 < Ganneff> jberkus: in a different meeting :)
+21:17 < linuxpoet> Ganneff: why
+21:17 < linuxpoet> Ganneff: why not just propose a monthly increase to 500.00 and vote
+21:17 < jberkus> yeah, but I can't pass linuxpoet's resolution if we can't pay for it
+21:18 < jberkus> linuxpoet: I think it should be a % of revenue
+21:18 < Ganneff> linuxpoet: cos we dont have a resolution for it
+21:18 < cdlu> jberkus, move an amendment authorising reasonable funding for the function of the resolution
+21:18 < linuxpoet> jberkus: uhmmm can you pay the intern for the other work as well?
+21:18 < jberkus> linuxpoet: maybe
+21:18 < jberkus> linuxpoet: your resolution needs funding
+21:18 < linuxpoet> jberkus: move an amendment
+21:18  * Maulkin moves to vote on luk's amendment
+21:19 < jberkus> I move that the resolution include the amendment:
+21:19 < jberkus> "The Treasurer is authorized to spend any reasonable funds to complete this review."
+21:20 < linuxpoet> I am fine with the jberkus ammendment
+21:20 < Ganneff> i second all of those moves (ie - vote on luks, then jberkus amendment), so we can get on with it. :)
+21:20 < Maulkin> ok.
+21:20 < zobel> mh, what defines reasonable?
+21:20 < luk> lol
+21:21 < linuxpoet> zobel: it is a common contractural term, meaning exactly that... reasonable
+21:21 < Maulkin> Voting started, 8 people (maulkin,ganneff,schultmc,linuxpoet,cdlu,zobel,luk,jberkus) allowed to vote on Amend 2007-09-19.jdd.1 to include 'at least every 12 months if at all possible'. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:21 < cdlu> !vote yes
+21:21 < Ganneff> !vote yes
+21:21 < Maulkin> !vote yes
+21:21 < linuxpoet> !vote no
+21:21 < jberkus> !vote no
+21:21 < schultmc> !vote yes
+21:21 < luk> !vote yes
+21:21 < zobel> !vote yes
+21:21 < Maulkin> Current voting results for "Amend 2007-09-19.jdd.1 to include 'at least every 12 months if at all possible'": Yes: 6, No: 2, Abstain: 0, Missing: 0 ()
+21:21 < Maulkin> Voting for "Amend 2007-09-19.jdd.1 to include 'at least every 12 months if at all possible'" closed.
+21:22 < Maulkin> Amendment passes
+21:22 < Ganneff> good. next.
+21:22 < Maulkin> ok. this is 'as amended', with the inclusion of the 'reasonable funds' clause
+21:22 < Maulkin> Voting started, 8 people (maulkin,ganneff,schultmc,linuxpoet,cdlu,zobel,luk,jberkus) allowed to vote on Approve 2007-09-19.jdd.5.lc.1 (as amended) - Review and determination of transaction providers. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:22 < jberkus> !vote yes
+21:22 < schultmc> !vote yes
+21:22 < Maulkin> !vote yes
+21:22 < linuxpoet> !vote yes
+21:23 < cdlu> !vote yes
+21:23 < Ganneff> !vote yes
+21:23 < luk> !vote yes
+21:23 < Ganneff> jftr and possible new people: no vote needed on jberkus amendment, as linuxpoet did like it.
+21:23 < Ganneff> zobel: your turn
+21:24 < zobel> !vote abstain
+21:24 < Maulkin> Current voting results for "Approve 2007-09-19.jdd.5.lc.1 (as amended) - Review and determination of transaction providers": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:24 < Maulkin> Voting for "Approve 2007-09-19.jdd.5.lc.1 (as amended) - Review and determination of transaction providers" closed.
+21:24 < Maulkin> Passes
+21:24 < Ganneff> yay, we are done with item 7 then. thanks!
+21:24 < Ganneff> [item 8, Next board meeting]
+21:24 < Ganneff> Wednesday 17th Oct, 2007 - 20:00 UTC
+21:24 -!- Irssi: Topic: -: Board meeting
+21:24 -!- Irssi: Topic: +: Next Board meeting: Wednesday 17th Oct, 2007 | 20:00 UTC
+21:24 -!- Ganneff changed the topic of #spi to: Next Board meeting: Wednesday 17th Oct, 2007 - 20:00 UTC | http://www.spi-inc.org
+21:24 < Ganneff> thank you all for attending, have fun elsewhere now :)
+21:24 < linuxpoet> before gavel
+21:25 < cdlu> linuxpoet, gavel dropped. what did you have? :)
+21:25 < Maulkin> Go ahead
+21:25 < cdlu> oh wait, it hasn't yet. nm.
+21:25 < zobel> Maulkin: can we please have an announcement for the next meeting more than 24h before the meeting?
+21:25 < linuxpoet> I don't want to get into a discussion as that can happen on -private but I wanted to throw the idea of a associative project committee out there
+21:25 < linuxpoet> similar to the membership committee
+21:25 < Ganneff> cdlu: it has.
+21:25 < cdlu> ok
+21:26 < linuxpoet> other than that... I am good, great meeting folks! :)
+21:26 < slef> Is Wednesday 17 October the third Friday?
+21:26 < luk> Maulkin: can we have a quick discussion about membership/bylaws?
+21:26 < cdlu> slef, wednesday
+21:26 < Ganneff> slef: whats that for a broken q?
+21:26 < cdlu> slef, we're meeting wednesdays now
+21:26 < zobel> slef: no. we moved meetings to Wednesday IIRC.
+21:26 < cdlu> as a result of the new board's availability chart results :)
+21:26 < Ganneff> is wed [...] fri?. hm. :)
+21:26 < slef> Someone update http://www.spi-inc.org/corporate/meetings please?
+21:26 < linuxpoet> Website needs to be updated
+21:27 < slef> zobel: I missed that, due to the late announcements.
+21:27 < slef> and lack of draft minutes or logs
+21:28 < schultmc> http://www.spi-inc.org/corporate/meetings has been updated
+21:28 < zobel> slef: sorry, i just send the announcement as an "emergency solution" as there was non sent by Maulkin in time.
+21:28 < slef> Please can draft minutes or logs be uploaded/linked or mailed?  I thought that used to happen.
+21:28 < Ganneff> slef: if the one doing it isnt totally busy in rl, sure.
+21:28 < slef> zobel: no probs.  Thanks, as I'd've missed it again otherwise, then posted something very grumpy to -private again.
+21:29 < slef> schultmc: thanks
+21:29 < linuxpoet> I have something :)
+21:29 < Ganneff> oh my. to make the little scotsman happy: *gavel* :)

@@ -1,0 +1,217 @@
+19:00 < Ganneff> *GAVEL*
+19:00 < Ganneff> [item 1, Opening]
+19:00 < Ganneff> Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order. (This is the meeting originally scheduled for 20 Feb, where we had a little quorum problem). Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2008/2008-02-20.html
+19:00 < Ganneff> [item 2, Roll Call] 
+19:00 < Ganneff> Board members, please state your name for the record. Guests (including board advisors), please /msg your names to Maulkin if you wish your attendance to be recorded in the minutes of this meeting. Neil, any regrets?
+19:00 < cdlu> David Graham
+19:00 < Ganneff> Joerg Jaspert
+19:00 < schultmc> Michael Schultheiss
+19:00 < cdlu> half way there :)
+19:00 < Ganneff> agliodbs, Maulkin, luk, zobel, bdale
+19:00 < Ganneff> no linuxpoet here.
+19:01 < schultmc> luk and agliodbs were here earlier
+19:01 < cdlu> maulkin's detached
+19:01 < luk> Luk Claes
+19:01 < schultmc> Maulkin's delayed by traffic
+19:01 < cdlu> ok
+19:01 < cdlu> zobel still on paternity leave?
+19:01 < schultmc> probably
+19:01 < Ganneff> oh well. i wait until 1910 before doing more. (or until quorum).
+19:01 < schultmc> his daughter's only a week older :)
+19:01 < Ganneff> yes, he is.
+19:01 < cdlu> schultmc, an eternity for a new parent no doubt :)
+19:02 < Maulkin> Neil McGovern
+19:02 < cdlu> one more
+19:03 < Hydroxide> can someone call Josh who has his number?
+19:03 < agliodbs> oh
+19:03 < agliodbs> so not noon after all
+19:03 < agliodbs> Josh Berkus
+19:03 < cdlu> nope
+19:03 < cdlu> quorum.
+19:03 < Ganneff> yay
+19:03 < Maulkin> rar
+19:03 < Ganneff> lets go on.
+19:03 < agliodbs> are we going to appoint my replacement now?
+19:03 < Ganneff> [item 3, President's Report]
+19:03 < Ganneff> None according to Agenda, and then Bdale not here, so we can skip this.
+19:03 < Ganneff> [item 4, Treasurer's Report]
+19:03 < Ganneff> Michael, your fun.
+19:03 < cdlu> agliodbs, some time in the next few minutes. :)
+19:04 < Ganneff> schultmc: talk!
+19:04 < schultmc> Our PaySimple application has been approved - I'm in the process of setting up access to it
+19:04 < schultmc> Ganneff: I am :P
+19:04 < schultmc> We've also migrated the data entry app to an SPI machine
+19:05 < schultmc> other than that, I have nothing to report at the moment
+19:05 < Ganneff> k, thanks
+19:05 < Ganneff> [item 5, Secretary's report]
+19:05 < Ganneff> Neil, your part.
+19:05 < Maulkin> Nothing received.
+19:05 < Ganneff> fine, lets go on
+19:05 < Ganneff> [item 6, Outstanding minutes]
+19:05 < Ganneff> Again for Neil.
+19:05 < Maulkin> Hang on a sec...
+19:06 < Maulkin> One set, Jan 16th, 2007
+19:06 < schultmc> 2008
+19:06  * cdlu moves for vote
+19:06 < Maulkin> Yeah, that
+19:06  * schultmc seconds
+19:06 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,luk,maulkin,agliodbs) allowed to vote on Approve January 16th, 2008 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:07 < schultmc> !vote yes
+19:07 < Maulkin> !vote yes
+19:07 < Ganneff> !vote abstain
+19:07 < cdlu> !vote yes
+19:07  * Ganneff wasnt there
+19:07 < Maulkin> luk/agliodbs?
+19:07 < luk> !vote yes
+19:07 < cdlu> outcome no longer in doubt
+19:08 < Maulkin> Current voting results for "Approve January 16th, 2008 minutes": Yes: 4, No: 0, Abstain: 1, Missing: 1 ( agliodbs )
+19:08 < Maulkin> Voting for "Approve January 16th, 2008 minutes" closed.
+19:08 < Ganneff> great.
+19:08 < Ganneff> [item 7, Items up for discussion]
+19:08 < Ganneff> We have on item here, "Decision on new board member". Someone want to take the floor?
+19:08 < Maulkin> (agliodbs: catchup :P)
+19:08 < Maulkin> Ganneff: you're the chair :)
+19:08  * schultmc has one more item for treasurer report
+19:08 < cdlu> I move that xzilla and hydroxide be put up as separate motions
+19:08 < cdlu> in either order
+19:08 < Ganneff> schultmc: after this point.
+19:08 < schultmc> k
+19:09 < Hydroxide> cdlu: does that mean we might both get appointed?
+19:09 < Ganneff> i second cdlus suggestion
+19:09 < cdlu> hydroxide, if that is the board's will
+19:09 < Hydroxide> ok
+19:09 < cdlu> I don't have a problem with it, as long as both commit to attending all meetings from now until election -- also gives us our third seat for election.
+19:09 < cdlu> if that's the outcome.
+19:10 < cdlu> xzilla's almost 10K minutes idle though. :)
+19:10 < cdlu> ganneff, you seconded it, you can put it to a vote :)
+19:10 < Maulkin> Hang on...
+19:10 < cdlu> 'k
+19:10 < Ganneff> what to vote on? that we decide on them in seperate order?
+19:10 < Ganneff> fine, vote! :)
+19:10 < Maulkin> xzilla: hurry up... :)
+19:10 < cdlu> ganneff, no on each one :)
+19:10 < Maulkin> Hydroxide first, or xzilla?
+19:11 < Ganneff> Hydroxide, he is here. :)
+19:11 < cdlu> it matters not.
+19:11 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,luk,maulkin,agliodbs) allowed to vote on Appoint Jimmy Kaplowitz to board until next board elections. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:11 < cdlu> !vote yes
+19:11 < Ganneff> !vote yes
+19:11 < schultmc> !vote yes
+19:11 < Maulkin> !vote yes
+19:11 < luk> !vote yes
+19:11 < Maulkin> agliodbs?
+19:12 < Ganneff> he made quorum and then ran away :)
+19:12 < Maulkin> .oO(This makes quorum requirements... interesting)
+19:12 < Ganneff> but as its clear even if he votes no - go on, i would say.
+19:12 < agliodbs> sorry
+19:12 < agliodbs> on phone, got the meeting time wrong
+19:12 < agliodbs> yes
+19:12 < agliodbs> !vote yes
+19:13 < Maulkin> (for minutes, or Hydroxide?)
+19:13  * Maulkin assumes Hydroxide 
+19:13 < Ganneff> assume the running vote, as your script does.
+19:13 < agliodbs> Hydroxide is the current vote
+19:13 < Maulkin> Current voting results for "Appoint Jimmy Kaplowitz to board until next board elections": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+19:13 < Maulkin> Voting for "Appoint Jimmy Kaplowitz to board until next board elections" closed.
+19:13 < cdlu> I move that we accept Jimmy's position immediately and accept Josh's resignation simultaneously with our thanks for his years of service, allowing hydroxide to join the board immediately without affecting our quorum.
+19:13  * Maulkin seconds
+19:13 < Ganneff> does that mean "within this meeting"?
+19:13  * schultmc secodns
+19:13 < cdlu> yes, right this second, if there's consent.
+19:14 < schultmc> err seconds
+19:14 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,luk,maulkin,agliodbs) allowed to vote on What cdlu said. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:14 < cdlu> !vote yes
+19:14 < Ganneff> intresting, the first approved candidate could vote no to the second
+19:14 < luk> Ganneff: no
+19:14 < cdlu> ganneff, they could
+19:14 < Ganneff> luk: yes.
+19:14 < luk> of course not during the meeting
+19:14 < Maulkin> !vote yes
+19:14 < Ganneff> !vote abstain
+19:14 < Ganneff> luk: yes, thats what they propose
+19:14 < luk> !vote abstain
+19:14 < Maulkin> Hydroxide: I expect you to abstain :)
+19:14 < schultmc> !vote yes
+19:14 < cdlu> hydroxide can't vote yet :)
+19:14 < Hydroxide> Maulkin: I was just typing that I would abstain :)
+19:14 < cdlu> until the vote passes. I love it. :)
+19:15 < Hydroxide> Maulkin: I mean, I'm not voting on this vote
+19:15 < Ganneff> cdlu: no, but on xzilla he could
+19:15 < cdlu> yes
+19:15 < Hydroxide> Maulkin: I'm going to abstain on xzilla in the interest of fairness
+19:15 < Maulkin> Hydroxide: ack.
+19:15  * Ganneff would have taken both into vote first, and then replaced josh. but meh, i abstained
+19:15 < Hydroxide> though I will state for the record that I have no problem with him being on the board if the other board members decide they want to deal with the higher quorum requirement
+19:15 < cdlu> I'm going to vote no on xzilla simply because he's not here and that is in contravention of my one condition for having both appointed. I encourage him to run in July.
+19:15 < Maulkin> Need one more for quorum here. agliodbs?
+19:16 < cdlu> maulkin, quorum rules require quorum of attendance, not quorum on votes.
+19:16 < Hydroxide> cdlu: very good point. he does need to show up if he wants to be on the board :)
+19:16 < agliodbs> that's not a vote
+19:16 < Maulkin> cdlu: Does it?
+19:16 < cdlu> agliodbs, ?
+19:16 < cdlu> maulkin, I believe so. our by-laws *are* weird. :)
+19:16 < Hydroxide> agliodbs: I think they're voting on making my appointment to the board take effect right now instead of after the meeting
+19:16 < agliodbs> oh, ok
+19:17 < agliodbs> !vote yes
+19:17 < Hydroxide> agliodbs: which would also make your resignation effective right now
+19:17 < cdlu> agliodbs, which leaves you free to not stick around :)
+19:17 < Maulkin> Current voting results for "What cdlu said": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+19:17 < Maulkin> Voting for "What cdlu said" closed.
+19:17 < agliodbs> which then makes this my last vote
+19:17 < cdlu> yes
+19:17  * Maulkin thanks agliodbs
+19:17 < cdlu> agliodbs, thanks for your years of service on the board, as treasurer and general help
+19:17 < Ganneff> yes. thanks agliodbs for being on board and doing work for spi
+19:17 < Hydroxide> Thanks guys! Glad to be back. :) Will do my best to be helpful to SPI as an interim board member
+19:17 < Maulkin> agliodbs++
+19:17  * schultmc thanks agliodbs for his service
+19:17 < agliodbs> well, I plan to continute working on treasurer stuff
+19:17 < Hydroxide> and my thanks as well, agliodbs 
+19:17 < agliodbs> particularly the softwrae
+19:17 < Ganneff> now, lets vote on xzilla please
+19:17 < Maulkin> Right, now xzilla?
+19:17  * Maulkin moves so.
+19:17  * schultmc seconds
+19:17  * Ganneff seconds
+19:18 < Maulkin> Voting started, 6 people (cdlu,ganneff,schultmc,luk,maulkin,hydrox) allowed to vote on Appoint Robert Treat to board until next board elections. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+19:18 < cdlu> !vote no
+19:18 < Hydroxide> !vote abstain
+19:18 < Maulkin> !vote no
+19:18 < schultmc> !vote no
+19:18  * cdlu notes that it is unconventional to second a motion you do not intend to vote for. :)
+19:18 < Ganneff> !vote no
+19:18 < Maulkin> Forced vote no on hydrox
+19:18 < Maulkin> Forced vote abstain on hydrox
+19:18 < Maulkin> That's better
+19:19 < Maulkin> missing luk
+19:19 < Hydroxide> Maulkin: no need to force the vote - I did correctly abstain
+19:19 < cdlu> hydroxide, bot doesn't know you.
+19:19 < Ganneff> Hydroxide: he hasnt set your nick to vote
+19:19 < Maulkin> Hydroxide: but I missed off half your name :)
+19:19 < Hydroxide> oh I see, right :)
+19:19  * xzilla notes he is here, got held up, and is reading backlog (and confused btw)
+19:19 < cdlu> xzilla, your timing is ... phenomenal. :)
+19:19 < Ganneff> luk?
+19:20 < xzilla> but my backlog reading skills are a bit on the slow side
+19:20 < Ganneff> Maulkin: assume abstain to luk anbd go on? wont change the result.
+19:20 < Maulkin> Ganneff: I'd prefer a affirmative vote...
+19:21 < Ganneff> ah. luk just reconnected. so maybe in a minute we have it.
+19:21 -!- luk_ [~luk@luk.netrep.oftc.net] has joined #spi
+19:21 < Ganneff> luk_: your vote on xzilla is needed.
+19:21 < luk_> hmm, apparantly lost connection
+19:22 < luk_> !vote no
+19:22 < Maulkin> Forced vote no on luk
+19:22 < Maulkin> Current voting results for "Appoint Robert Treat to board until next board elections": Yes: 0, No: 5, Abstain: 1, Missing: 0 ()
+19:22 < Maulkin> Voting for "Appoint Robert Treat to board until next board elections" closed.
+19:22 < Ganneff> thats it, lets continue meeting.
+19:22 < Ganneff> [item 8, Treasurer's Report, continued]
+19:22 < Ganneff> There, Michael.
+19:22 < Ganneff> your extra point please
+19:23 < schultmc> Our Tax return has been filed and according to the USPS tracking info, the IRS has received our filing.
+19:23 < schultmc> </done>
+19:23 < Ganneff> thanks
+19:23 < Ganneff> [item 9, Next board meeting]
+19:23 < Ganneff> This will be on Wednesday, 19th March 2008 - 19:00 UTC
+19:23 < Ganneff> except someone raises a big no against this date
+19:23 < Ganneff> now, thanks for attending:
+19:23 < Ganneff> *GAVEL*

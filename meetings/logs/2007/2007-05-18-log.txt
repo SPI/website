@@ -1,0 +1,276 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+20:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+20:00 < bdale> and details of pending resolutions can be found on the web at:
+20:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-05-18.html
+20:00 < cdlu> ohh, good timing
+20:00  * slef kicks Maulkin until he bleeds
+20:00 < slef> oops
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board
+20:00 < bdale> members, quorum for today's meeting is six.  Guests (including board advisors),
+20:00 < bdale> please /msg your names to Maulkin if you wish your attendance to be recorded
+20:00 < cdlu> David Graham
+20:00 < Hydroxide> Jimmy Kaplowitz
+20:00 < bdale> in the minutes of this meeting.
+20:00 < bdale> Neil, please update us on known and tentative regrets.
+20:00 < Maulkin> Neil McGovern
+20:00 < schultmc> Michael Schultheiss
+20:00 < bdale> Bdale Garbee
+20:00 < Overfiend__> Branden Robinson
+20:00 < cdlu> quorum!
+20:00 < bdale> jberkus: ??
+20:00 < jberkus> Josh Berkus
+20:00 < Overfiend__> looks like schultmc had firm regrets...he should be punished for his pessimism :)
+20:01 < schultmc> firm?
+20:01  * schultmc had tentative regrets :P
+20:01 < Maulkin> schultmc sent regrets, but he's here
+20:01 < bdale> anyone else?
+20:01 < Maulkin> That's all I could find
+20:01 < Overfiend__> oh, the agenda didn't say that
+20:01 < Overfiend__> I was just going to go to Panera Bread if I had to
+20:01  * cdlu /msg pings Joey who is not very idle
+20:01 < Overfiend__> then again, come to think of it, etch is broken with the Intersil Prism wireless in my laptop
+20:01 < Overfiend__> so I'd have been hosed :(
+20:01  * Maulkin has also pinged him
+20:01 < bdale> let's move on, since we're quorate
+20:01 < bdale> [item 3, President's Report]
+20:01 < bdale> Nothing new to report today.
+20:02 < bdale> [item 4, Treasurer's Report]
+20:02 < bdale> Josh?
+20:02 < jberkus> one moment
+20:02 < jberkus> I don't have the treasurer's report
+20:03 < bdale> saw your email, didn't know if you had anything to say/add today?
+20:03 < jberkus> my travel schedule has been more demanding than expected
+20:03 < Overfiend__> er, scuse me, I was busy right up until the meeting and didn't have time to, er...you know
+20:03 < Overfiend__> schultmc knows what's up mail-wise
+20:03 < Overfiend__> brb
+20:03 < jberkus> if it weren't for elections, I would promote the idea of transitioning to schultmc as treasurer sooner rather than later
+20:04 < bdale> jberkus: I'm not sure I understand what that's election entangled?
+20:04 < bdale> why, even
+20:04 < jberkus> schultmc: is up for election
+20:04  * schultmc is not
+20:04 < jberkus> no?
+20:04 < schultmc> officership is
+20:04 < schultmc> board membership isn't
+20:04 < cdlu> schultmc is one of the few not up for election :)
+20:04 < jberkus> schultmc: let's talk about transitioning then ... off meeting
+20:04 < bdale> would seem to make that easier then
+20:04 < schultmc> jberkus: k
+20:05 < jberkus> I'm not keeping up with records, and that's bad
+20:05 < bdale> ok, perhaps we can formalize next meeting if that's the right thing to do?
+20:05 < jberkus> sure
+20:05 < bdale> ok, thanks.  anything else today?
+20:05 < cdlu> will we have quorum at debconf for an in-person meeting?
+20:05 < schultmc> fwiw, we'll need to find a systems person to be VP
+20:05 < jberkus> Neil's not running again?
+20:06 < jberkus> cdlu: I won't be there
+20:06 < Hydroxide> main thing about meeting at debconf is that we should make sure if we do it that people not in physical attendance (including non-directors) to attend virtually
+20:06  * Maulkin is
+20:06 < jberkus> cdlu: nor will I be able to dial in
+20:06 < bdale> schultmc: good point.  I guess it depends a bit on who runs for and gets elected to the board?  speaking of which, when do we need to start that process?
+20:06 < jberkus> ... well, depending on date
+20:06 < schultmc> jberkus: you, me and neil were elected to a 3 year term last year
+20:06 < jberkus> ok
+20:06 < bdale> Hydroxide: one way to handle that might be irc on projector plus video feeds as per other sessions
+20:06 < jberkus> good, some stability
+20:06 < cdlu> with a microphone attached to an icecast feed or something
+20:07 < Hydroxide> bdale: sure. there are definitely solutions possible. we should talk to the video team as Ganneff suggested last meeting
+20:07 < bdale> ok, I gather we're done with treasurer discussion.
+20:07 < jberkus> yes
+20:07 < bdale> [item 5, Secretary's report]
+20:07 < bdale> Neil?
+20:07 < Maulkin> A mail from Giveline was received asking if we would be interested in their services.
+20:07 < bdale> I don't recognize them offhand
+20:08 < Maulkin> I forwarded this on to board, but Giveline don't seem to offer anything really positive for us
+20:08 < jberkus> was this the one forwared?
+20:08 < Maulkin> yup
+20:08 < bdale> oh, right
+20:08 < jberkus> I stand by my e-mail
+20:08 < schultmc> another 501c3 i'm involved in also got contacted by Giveline
+20:08 < jberkus> nobody has time to investigate them
+20:08 < bdale> schultmc: good to know
+20:08 < Maulkin> I've also *just* received a spi-trademark ctte report, but haven't even had time to read it yet. I'll be in next months agenda
+20:08 < bdale> ok
+20:09 < bdale> do we need to take any action here regarding giveline?
+20:09 < Hydroxide> not in my opinion
+20:09 < jberkus> I don't think so, there's no proposal before the board
+20:09 < bdale> ok, good
+20:09 < bdale> Maulkin: anything else?
+20:09 < Maulkin> Well, I had a quick glance, and coudn't see any real advantages
+20:09 < Overfiend__> back
+20:09 < Maulkin> So no, IMO
+20:09 < Maulkin> bdale: nope
+20:09 < Maulkin> I'm done
+20:09 < bdale> ok, thanks!
+20:09 < bdale> but you're not really...
+20:09 < bdale> [item 6, Spanish Trademark report]
+20:09 < bdale> Neil?
+20:10 < Maulkin> I've mailed Javier/Javier with offer of re-imbursements for expenses, nothing came back
+20:10 < Maulkin> IanJackson also sent a mail out offering to meet up, as he'd be in madrid, but didn't hear anything
+20:10 < bdale> ok, I'm tempted to suggest we take this off our recurring agenda until/unless something changes.  opinions?
+20:10  * Overfiend__ agrees
+20:11  * schultmc agrees
+20:11 < jberkus> concur
+20:11 < Maulkin> I'm now of the opinion that we're not going to get anywhere unless we find someone else (for free, or paid) that we can use
+20:11  * Maulkin agrees
+20:11  * Hydroxide thinks we shouldn't lose site of it, though
+20:11 < Hydroxide> *sight
+20:11 < bdale> perhaps we can have some discussion with Spanish developers at Debconf about this, and determine if there's something more to be done then?
+20:11 < Hydroxide> grr
+20:11 < Maulkin> bdale: That would be good
+20:11  * Maulkin is done
+20:12 < bdale> ok, so pending decision on when we next meet, perhaps it stays on the agenda one more time.
+20:12 < bdale> [item 7, Outstanding minutes]
+20:12 < bdale> Neil, what's ready for us today?
+20:12 < Maulkin> one set
+20:12 < Maulkin>    5. April 20th, 2007
+20:12 < Maulkin> (s/5. //)
+20:12 < bdale> ok, I've reviewed them and am ready to vote.  any discussion first?
+20:12  * Hydroxide is ready
+20:12 < cdlu> not here
+20:12  * cdlu moves for a vote
+20:12  * schultmc is ready
+20:12  * schultmc seconds
+20:12 < Maulkin> Voting started, 7 people (cdlu,hydroxide,maulkin,schultmc,bdale,overfiend__,jberkus) allowed to vote on Approve April 20th, 2007 minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12  * Overfiend__ is ready
+20:12 < Hydroxide> !vote yes
+20:12 < cdlu> !vote yes
+20:12 < Overfiend__> !vote yes
+20:12 < schultmc> !vote yes
+20:12 < bdale> !vote yes
+20:12 < Maulkin> !vote yes
+20:12 < jberkus> !vote abstain
+20:13 < Maulkin> Current voting results for "Approve April 20th, 2007 minutes": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:13 < Maulkin> Voting for "Approve April 20th, 2007 minutes" closed.
+20:13 < Maulkin> Done.
+20:13 < bdale> ok, thanks
+20:13 < bdale> out of curiosity, is anything ever going to be done with the old log-only ones we're carryign on our agenda?
+20:13 < cdlu> that's my responsibility that I need to stop putting off.
+20:14 < bdale> cdlu: ok, get it done by Debconf, please?
+20:14 < Overfiend__> after the elections, if someone seems more likely than you to actually get them converted to minutes, they might get elected to replace you as Secretary :)
+20:14 < cdlu> heh
+20:14 < cdlu> I haven't been secretary for a long time... reason for that. :)
+20:14  * bdale tries to parse that, given who is sec
+20:14 < cdlu> I don't wish two terms as any officer on anyone. :)
+20:14 < Overfiend__> 'course, they have to be fool enough to nominate themselves :)
+20:15 < bdale> ok, let's move on
+20:15 < bdale> [item 8, Items up for discussion]
+20:15 < bdale> [item 8.1, Debian Logo License]
+20:15 < bdale> This is a continuation of the item from our last meeting.  An hour or so ago,
+20:15 < bdale> Sam Hocevar was on-channel and asked that we approve AJ's proposal today.
+20:15 < bdale> Any discussion?
+20:15 < Overfiend__> bdale: yeah, sorry, I brainfarted there, and I probably had pretzel syntax, too -- been getting worse about that.
+20:16 < Maulkin> bdale: none from me
+20:16 < Overfiend__> re: logo, no this is pretty much the proposal I'd been shopping on the wiki since last fall
+20:16  * Hydroxide read it and is fine with it, as long as we approve it under the condition that it will only take effect once it has been cleared with Greg. (This was part of Sam's request too.)
+20:16  * Maulkin nods
+20:16 < bdale> yes, good point
+20:16  * Hydroxide so moves, therefore.
+20:16 < Overfiend__> fine by me.  It looks like we'll actually have to ratify it before people bother to complain and provide feedback.
+20:16 < Overfiend__> such is democracy
+20:16 < Hydroxide> is there a second?
+20:16  * Maulkin seconds
+20:17 < bdale> ok, let's vote
+20:17 < Maulkin> (just typing up vote line)
+20:17 < Overfiend__> maybe we can get a good muckraking article from the press
+20:17 < Maulkin> Voting started, 7 people (cdlu,hydroxide,maulkin,schultmc,bdale,overfiend__,jberkus) allowed to vote on Acknowledge Sam Hocevar's relicensing of the Debian Logos, to take effect if cleared by Greg. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 < Overfiend__> !vote yes
+20:17 < Maulkin> !vote yes
+20:17 < Hydroxide> !vote yes
+20:17 < cdlu> !vote yes
+20:17 < bdale> !vote yes
+20:17 < schultmc> !vote yes
+20:17 < Hydroxide> jberkus: ?
+20:18 < jberkus> !vote yes
+20:18  * bdale pokes Maulkin 
+20:18 < Maulkin> Current voting results for "Acknowledge Sam Hocevar's relicensing of the Debian Logos, to take effect if cleared by Greg": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+20:18 < Maulkin> Voting for "Acknowledge Sam Hocevar's relicensing of the Debian Logos, to take effect if cleared by Greg" closed.
+20:18 < Maulkin> (sorry)
+20:18 < bdale> thanks, all.
+20:18 < Maulkin> I can't count
+20:18 -!- Joey [joey@luonnotar.infodrom.org] has joined #spi
+20:18 < Overfiend__> hah
+20:18 < Joey> Oops.
+20:18 < bdale> Maulkin: will you take that to Greg, or do you want me to?
+20:19 < Maulkin> bdale: If you could, that'l be great
+20:19 < Overfiend__> Joey: all the voting is done; get outta here ;-)
+20:19 < bdale> ok, I'll do so.
+20:19 < Joey> Sorry folks, been late.  Where are we.... Ohhhh
+20:19 < Hydroxide> Joey: the only thing left on the agenda is determining when our next meeting is
+20:19 < bdale> [item 9, Next board meeting]
+20:19 < bdale> Neil, are we going with the 15th, or moving to the 22nd?  I'm arriving in
+20:19 < bdale> Edinburgh at 15:30 local time, which I assume means I'd be able to be online
+20:19 < bdale> by our normal meeting time on the 15th...
+20:19 < Overfiend__> Joey: past agenda item 7
+20:19  * Joey sighs
+20:19 < Overfiend__> sorry, I meant 8.  I can't count, either.
+20:19 < Maulkin> Quick show of hands: who can't make the 22nd?
+20:19  * schultmc will be in Edinburgh on the 22nd
+20:19 < Hydroxide> I'm traveling on the 15th as well
+20:19  * bdale will be in EDI on either date
+20:19 < Hydroxide> or at least the evening of the 15th
+20:19 < jberkus> checking, hold on
+20:19 < Hydroxide> I can do the 22nd
+20:19 < schultmc> i arrive early on the 17th, leave early on the 24th
+20:19  * cdlu will be available in person on the 22nd
+20:20  * Maulkin can do wither
+20:20 < Maulkin> *either
+20:20  * Overfiend__ will be stuck in the U.S. on both dates :)
+20:20 < Hydroxide> Overfiend__: sad :(
+20:20 < Maulkin> I'd suggest the 22nd, unless there's anyone here who can make the 15th, but not make the 22nd
+20:20 < bdale> let's wait for jberkus
+20:20 < schultmc> speaking of Debconf, Maulkin and bdale, I could use your help w/ the SPI talk
+20:20 < jberkus> I can't make the 22nd
+20:20 < bdale> jberkus: can you make the 15th?
+20:21 < jberkus> yes
+20:21 < bdale> ok, so I guess we miss one person either date?
+20:21 < bdale> might be easiest to do this on the 15th and keep it an IRC-mostly event, separate from the in-person session schultmc has organized that we should all attend if we're present
+20:21 < Joey> 22nd is not good for me.
+20:22 < Overfiend__> bdale: I think that's a good idea
+20:22 < Hydroxide> Joey: is the 15th?
+20:22 < Maulkin> ok
+20:22 < Maulkin> Seems good
+20:22 < cdlu> if it's the 15th these are my regrets.
+20:22 < Overfiend__> IME IRC meetings while debconf is in progress are difficult
+20:22 < Joey> Hydroxide: Not good either :(
+20:22 < cdlu> can we make it a non-friday?
+20:22 < Maulkin> Sure
+20:22 < Maulkin> If you want :P
+20:22 < cdlu> how about the 18th? :)
+20:22 < Joey> cdlu: fine with me in general.
+20:22 < jberkus> 18th is ok
+20:22 < bdale> what day is that?  a monday?
+20:22 < Overfiend__> it'd have to be earlier than the 15th, wouldn't it?  aren't lots of people in transit to Edinburgh about then?
+20:22 < cdlu> monday ya
+20:22 < Overfiend__> just guessing
+20:23 < Hydroxide> well, on the 15th, 1900 UTC should be OK for me, even though I'm traveling that day, since my flight doesn't leave until seven hours later
+20:23 < cdlu> 15th is bad because I'll be in transit
+20:23 < Joey> 18th could be ok for me
+20:23 < Maulkin> 18th?
+20:23 < Maulkin> Objections for 18th? :)
+20:23 < Overfiend__> 18th is fine for me.
+20:23 < Hydroxide> 18th also works (I'll be at DebConf)
+20:23 < cdlu> going once
+20:23  * Maulkin wants to beat the record :P
+20:23 < schultmc> 18th works for me (I'll be at Debconf also)
+20:23 < christel> you'll all be delightfully jetlagged :)
+20:23 < bdale> ok, the 18th it is then
+20:23  * cdlu notes 18th was totally arbitrary
+20:23 < cdlu> but if it works I'm fine with it :)
+20:23 < Hydroxide> 19:00 UTC still?
+20:23 < Overfiend__> cdlu: it's the best kind :)
+20:23 < Hydroxide> (note that's 20:00 DebConf time)
+20:23 < bdale> Hydroxide: yes
+20:23 < cdlu> 19:00 UTC will be 20:00 there
+20:23 < Maulkin> 19:00UTC is fine by me
+20:24 < Hydroxide> ok
+20:24 < cdlu> whic is good, won't conflict with anything but the pub.
+20:24 < bdale> we're done?
+20:24 < Hydroxide> :)
+20:24 < Maulkin> 18th it is then :)
+20:24  * Hydroxide thinks we're done
+20:24 < Maulkin> (quick :P)
+20:24 < Overfiend__> Hydroxide: British Summer Time, thankyouverymuch
+20:24 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+20:24 < bdale> *GAVEL*

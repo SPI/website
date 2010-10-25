@@ -1,0 +1,451 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest
+20:00 < bdale> board of directors meeting, which is now called to order.  Today's agenda
+20:00 < bdale> and details of pending resolutions can be found on the web at:
+20:00 < bdale> http://www.spi-inc.org/secretary/agenda/2007/2007-07-06.html
+20:00 < bdale> This meeting serves as SPI's annual meeting per our bylaws, rescheduled
+20:00 < bdale> from 1 July when we failed to meet quorum requirements as anticipated.
+20:00 < bdale>  
+20:00 < bdale> [item 2, Roll Call]
+20:00 < bdale> Board members, please state your name for the record.  As we have nine board
+20:00 < bdale> members, quorum for today's meeting is six.  Guests (including board advisors),
+20:00 < bdale> please /msg your names to Maulkin if you wish your attendance to be recorded
+20:00 < Maulkin> Neil McGovern
+20:00 < cdlu> David Graham
+20:00 < bdale> in the minutes of this meeting.
+20:00 < bdale> Neil, please update us on known and tentative regrets.
+20:00 < bdale>  
+20:00 < bdale> Bdale Garbee
+20:00 < schultmc> Michael Schultheiss
+20:00 < Maulkin> None known bdale.
+20:00  * schultmc goes to ping Branden in person
+20:01 -!- jello [~joe@dot.nahmias.net] has joined #spi
+20:01 < Overfiend> pong
+20:01 < Overfiend> Branden Robinson
+20:01 < bdale> need one more?
+20:01 < schultmc> yes
+20:01 < schultmc> jberkus was around earlier
+20:01 < bdale> saw him, don't see him online now
+20:02 < bdale> Ian?
+20:02 < xzilla> berkus is currently at a conference in .it, he might be distracted
+20:02 < bdale> right, we know taht
+20:02 < Overfiend> he mentioned earlier that he'd try to get away from it
+20:02 < bdale> right, saw that too
+20:02 < Overfiend> and that we should note his sacrifice in doing so :)
+20:03 < xzilla> apparently the note will be small, like the sacrifice :-)
+20:03 < Overfiend> heh
+20:03 < bdale> who else are we missing?
+20:03 < Overfiend> Joey S.
+20:03 < schultmc> joey
+20:03 -!- _rene__ [~rene@dslb-088-064-156-084.pools.arcor-ip.net] has joined #spi
+20:03 < cdlu> ian, joey, jberkus, and hydroxide
+20:03 < Maulkin> Pinged him
+20:03 < bdale> Hydroxide: PING
+20:04 < bdale> Maulkin: didn't Joey say something about not being able to make this time, or was that just on the 1st?
+20:04 < cdlu> want to proceed with items that don't require a vote? think that covers announcements, like trademark (Woot!) stuff and whatnot.
+20:04 < Overfiend> Our filing extension for tax year 2006 has been granted.
+20:04 < schultmc> joey said tomorrow was bad, today was less bad
+20:04 < cdlu> overfiend, cool.
+20:05 < Overfiend> and this week saw the worst vandalism to a donation letter I've ever seen
+20:05 < bdale> hrm.  ok.  yes, I'm certainly willing to proceed with items on the agenda that don't require votes.  it's now 5 minutes past.
+20:05 < bdale> [item 3, President's Report]
+20:05 < bdale> Just returned from trip to Europe that began with Debconf7 and continued with
+20:05 < bdale> some family vacation elsewhere in Scotland and in France.  It was good to see
+20:05 < bdale> so many SPI board and contributing members in person, and the turnout for our
+20:05 -!- _rene_ [~rene@dslb-088-064-156-084.pools.arcor-ip.net] has quit [Ping timeout: 480 seconds]
+20:05 -!- _rene__ is now known as _rene_
+20:05 < bdale> SPI sessions at Debconf7 was higher than I personally expected, and we had 
+20:05 < bdale> some good Q&A.
+20:05 < bdale>  
+20:05  * Overfiend wishes that high turnout would translate to the IRC meetings :-/
+20:05 < bdale> [item 4, Treasurer's Report]
+20:05 < bdale> with Josh not here, does schultmc want to say anything?
+20:06  * cdlu notes the election in process that includes 3 of the 4 missing people
+20:06 < schultmc> I don't have anything to say treasurer wise at this time
+20:06 < bdale> ok
+20:06 < bdale> we'll come back if Josh appears
+20:06 < bdale> [item 5, Secretary's report]
+20:06 < bdale> Neil?
+20:06 < Maulkin> One item here
+20:06 < jello> cdlu: to whom do observers register?
+20:07 < cdlu> jello, Maulkin
+20:07 < Maulkin> I've just found the spi trademark report, I'll copy it to the minutes
+20:07 < jello> cdlu: thx
+20:07 -!- jberkus [~josh@81.75.61.139] has joined #spi
+20:07 < Maulkin> Doesn't require action
+20:07 < jberkus> ciao
+20:07 < Overfiend> you mean the agenda?
+20:07 < jberkus> scusi, sono piu tardi
+20:07 < cdlu> jberkus! quorum!
+20:07 < bdale> jberkus: please state name for record
+20:07 < jberkus> Josh Berkus
+20:07 < schultmc> grazi mille (sp?)
+20:07 < bdale> jberkus: thanks!  quorum is good.
+20:07 < aj> Overfiend: (there's no point attending an irc meeting though as a non-board-member, there's no opportunity to ask questions or otherwiseparticipate)
+20:07 < jcristau> schultmc: grazie
+20:08 < Overfiend> aj: you just did :)
+20:08 < jello> Maulkin: Joe Nahmias
+20:08 < Maulkin> jello: /msg please
+20:08 < Maulkin> Overfiend: do you want to see them now? :)
+20:08 < bdale> aj: hrm.  perhaps I should note that I've accepted /msg from folks who wanted to inject something before and that has worked well
+20:08 < bdale> irc lacks a simple "this person has their hand raised" mechanism like some other online conferencing tools
+20:09 < bdale> Maulkin: ok, anything beyond noting that'll be in the minutes?
+20:09 < cdlu> bdale, /nick nick_handup :)
+20:09 < bdale> cdlu: ick
+20:09 < Maulkin> bdale: yup, that'll do
+20:09 < jberkus> bdale: however, irc is universally available
+20:09 < bdale> agreed
+20:09 < Maulkin> bdale: erm... aka: I'm done
+20:09 < bdale> [item 4, Treasurer's Report]
+20:09 < bdale> Josh?
+20:09 < slef> aj: heckling of meetings has been reported in the press! (slef runs away, runs away)
+20:10 < jberkus> I have been travelling too much to get caught up
+20:10 < jberkus> at this point, I need to have a meeting with schultmc about handing over the role of Treasurer
+20:10 < jberkus> and discuss with the board paying hte accountancy firm for routine data entry
+20:10  * cdlu takes it noone plans to compete wtih schultmc for the role :)
+20:10 < jberkus> end of report
+20:10 < Overfiend> jberkus: Did Ledger-SMB get developed to the point where you think it's an adequate tool for SPI's purposes?
+20:10 < bdale> jberkus: I need to pull an annual report together, seems like some sort of summary statement of finances would be appropriate for that.  so, a plan to get to that is something I'd like to have asap.
+20:10 < jberkus> cdlu: not that I've hear
+20:10 < jberkus> Overfiend: no, not to date
+20:11 < Overfiend> jberkus: ok
+20:11 < jberkus> bdale: deadline?
+20:11 < jberkus> Overfiend: I'm looking at other options
+20:11 < aj> jberkus: is there a summary of what's inadequate about it?
+20:11 < jberkus> Overfiend: including custom development
+20:11 < bdale> jberkus: I'm not exactly sure what the expectation for our annual report is, but I have a sense of responsibility to issue one before we vote for officers again.
+20:11 < jberkus> bdale: when is that?
+20:11 < jberkus> 8/1?
+20:11 < bdale> Maulkin: first board meeting after elections, right?
+20:12 < Maulkin> If that means 1st August... yes :)
+20:12 < cdlu> annual report is normally due at annual meeting :)
+20:12 < jberkus> hmmm
+20:12 < bdale> jberkus: then yes, that's my thought.
+20:12 < jberkus> we'll see.  it's possible
+20:12 < Maulkin> Although we're still missing the 2006 report....
+20:13 < jberkus> hmmm?
+20:13 < bdale> cdlu: hrm.  well.  not sure we've ever actually done that, though it certainly makes sense.  the rigidity and "strangeness" of our annual meeting requirement in the bylaws is something I'd love us to fix someday...
+20:13 < jberkus> oh, right, 2006 taxes aren't closed out
+20:13 < Maulkin> jello: We're missing the presidents report :)
+20:13 < jberkus> it's really not possible to do an annual report the day the year ends
+20:13 < Overfiend> j collision?
+20:13 < bdale> Maulkin: from my predecessor, right?
+20:13 < Maulkin> bdale: Si
+20:13 < Maulkin> gah. Yes. Too much spanish
+20:13  * bdale sighs in relief
+20:14 < Overfiend> CosmicRay is here.  We can flog him.
+20:14 < bdale> jberkus: ok, so how about a target date of a financial report suitable for inclusion in an annual report by the end of July.  If that's not doable, give me a plan with dates for getting to same by the end of July.  Fair enough?
+20:14 < jberkus> ok
+20:15 < jberkus> I can commit to a plan
+20:15 < Maulkin> bdale: I'll try and get some bits over to you too
+20:15 < bdale> yes, thanks, everyone take this as an indication that I want inputs for annual report by end of July
+20:15 < bdale> ok, let's move on
+20:15 < bdale> [item 6, Spanish Trademark report]
+20:15 < bdale> Neil?  Updates from and/or since our in-person meetings at Debconf?
+20:16 < cdlu> this one's good!
+20:16 < Maulkin> As per a mail received to spi-board, the local people in Spain consider that both issues (trademark and domain) are resolved
+20:16 < bdale> cool.  I'm way behind on email and hadn't seen that yet.
+20:17 < Maulkin> Thus, I suggest that 2006-04-03.jfsp.1.jrk.1 is revoked
+20:17 < cdlu> so moved
+20:17  * jberkus heaves a big sigh of releive
+20:17 < bdale> second?
+20:17 < jberkus> seconded
+20:17 < bdale> any further discussion?
+20:17 < Maulkin> hang on a tic...
+20:18 < cdlu> http://www.spi-inc.org/corporate/resolutions/2006-04-03-jfsp-1-jrk.1.html
+20:18 < cdlu> is the resolution if you're looking for it.
+20:18 < Overfiend> cdlu: thanks.  I think I know which one that is but would like to review before voting.
+20:18 < Overfiend> yup, it's that one.
+20:18 < Maulkin> ready
+20:18 < Maulkin> Voting started, 6 people (maulkin,cdlu,bdale,schultmc,overfiend,jberkus) allowed to vote on Revoke resolution 2006-04-03.jfsp.1.jrk.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:18 < cdlu> !vote yes
+20:18 < Maulkin> (I hope that's everyone)
+20:18 < Overfiend> !vote yes
+20:18 < Maulkin> !vote yes
+20:19 < jberkus> !vote yes
+20:19 < bdale> !vote yes
+20:19 < schultmc> !vote yes
+20:19 < Maulkin> Current voting results for "Revoke resolution 2006-04-03.jfsp.1.jrk.1": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:19 < Maulkin> Voting for "Revoke resolution 2006-04-03.jfsp.1.jrk.1" closed.
+20:19 < Maulkin> 6:0:0, pass
+20:19 < bdale> Maulkin: thank you for your service in this matter.
+20:19 < bdale> does this open up the possibility of pursuing an eu-wide trademark registration, then?
+20:19 < Overfiend> Maulkin: Sometimes success is just being willing to wait the other bastards out :)
+20:20 < Maulkin> YEs, I've been investigating this, and hope to work with spi-trademark and bring something to the board soon
+20:20 < Overfiend> awesome
+20:20 < bdale> ok, great, will look forward to that
+20:20 < bdale> [item 7, Outstanding minutes]
+20:20 < bdale> Neil, what's ready for us today?
+20:20 < Maulkin> Initial estimates are approx 2kEUR
+20:20 < cdlu> Overfiend, if only it were so... as I understand it we didn't have a case to begin with, the trademark was not registered in the domain of 'software' to begin with. :)
+20:20 < Maulkin> Two sets this month
+20:20 < jberkus> Maulkin: debian has plenty of funds
+20:20 < jberkus> if they want it
+20:20 < bdale> has everyone read them?
+20:20 < Maulkin> December 13th, 2005 and May 18th, 2007
+20:20 < Overfiend> I have.
+20:21  * bdale has
+20:21  * schultmc has
+20:21  * jberkus has not
+20:21 < bdale> jberkus: the 2005 ones you can just abstain on, of course
+20:21 < jberkus> sorry
+20:21 < Maulkin> the 2005 minutes are the ones from last meeting
+20:21 < jberkus> well, vote slowly on the may ones.
+20:21  * schultmc was there as an observer :)
+20:21  * cdlu is prepared to vote on both sets of minutes
+20:21 < bdale> Maulkin: you mean the 2007 ones, right?
+20:21 < Overfiend> it brought back some memories :)
+20:22 < Overfiend> the obnoxious English Civil War over Debian UK Society
+20:22 < jberkus> I can read them in 2 min
+20:22 < Maulkin> bdale: nope. The 2005 ones were on teh agenda for last month, but lacked resolutions
+20:22  * Overfiend reaches for a bottle of Scotch at the mere thought of it
+20:22 < bdale> anyway, I'm ready to vote.  let's do the 2005 first and perhaps jberkus can read the 2007 ones in the meantime
+20:22 < bdale> Maulkin: oh, right, sorry
+20:22 < jberkus> hmmm
+20:22 < Maulkin> LAst meeting isn't done yet (sorry)
+20:22 < jberkus> how about a link?  they're not at /minutes
+20:22 < cdlu> Overfiend, you know there's a reason they took me so long to get done. I kept blocking on that set every time I opened them to do them. :)
+20:22 < Overfiend> they're linked from today's agenda
+20:22 < Maulkin> I'm waiting for the high-quality video
+20:22 < Overfiend> http://www.spi-inc.org/secretary/agenda/2007/2007-07-06.html/
+20:22 < Maulkin> http://www.spi-inc.org/secretary/agenda/2007/2007-07-06.html/
+20:23 < aj> Maulkin: (you don't just want logs of #spi from someone?)
+20:23 < bdale> Maulkin: let's vote on the 2005 ones, please
+20:23 < Overfiend> cdlu: I think "the discussion went for 20 minutes and was then deferred" is an awesome summary.
+20:23 < Maulkin> bdale: ok...
+20:23 < cdlu> Overfiend, hehe
+20:23 < Overfiend> no sarcasm at all -- it was a mess
+20:23 < Maulkin> Voting started, 6 people (maulkin,cdlu,bdale,schultmc,overfiend,jberkus) allowed to vote on Approve December 13th, 2005 meeting minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:23 < Overfiend> !vote yes
+20:23 < Maulkin> !vote yes
+20:23 < schultmc> !vote yes
+20:23 < cdlu> !vote yes
+20:23 < bdale> !vote yes
+20:23 < jberkus> !vote abstain
+20:23 < Maulkin> Current voting results for "Approve December 13th, 2005 meeting minutes": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:23 < Maulkin> Voting for "Approve December 13th, 2005 meeting minutes" closed.
+20:24 < bdale> Maulkin: is that the last of the ancient sets?
+20:24  * jberkus is done reading
+20:24  * Hydroxide shows up
+20:24 < Maulkin> bdale: yes
+20:24  * bdale WOOTs
+20:24  * Maulkin moves to approve May 18th, 2007
+20:24  * schultmc seconds
+20:24  * Overfiend seconds
+20:24 < Maulkin> Voting started, 6 people (maulkin,cdlu,bdale,schultmc,overfiend,jberkus) allowed to vote on Approve May 18th, 2007 meeting minutes. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:24  * cdlu fourths
+20:24 < bdale> Hydroxide: state your name for the record and you can participate in the remaining votes
+20:24 < Overfiend> !vote yes
+20:24 < cdlu> !vote yes
+20:24 < Maulkin> !vote yes
+20:24 < jberkus> !vote yes
+20:24 < schultmc> !vote yes
+20:24 < bdale> !vote yes
+20:25 < Hydroxide> Jimmy Kaplowitz, board member, rather tardy today
+20:25 < Maulkin> Hydroxide: vote?
+20:25 < Hydroxide> Maulkin: abstain, I haven't had a chance to read them
+20:25 < Maulkin> Current voting results for "Approve May 18th, 2007 meeting minutes": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:25 < Maulkin> Voting for "Approve May 18th, 2007 meeting minutes" closed.
+20:25 < Hydroxide> !vote abstain
+20:25 < Maulkin> (will note)
+20:25 < bdale> ok, fair enough
+20:25 < Maulkin> I'm pleased to annouce we're now very caught up
+20:25 < bdale> ok, so that's all past minutes except for the in-person meeting at Debconf7?
+20:25 < Maulkin> I have last month's remaining, and that's it
+20:25 < Maulkin> yup
+20:26 < bdale> very cool.  hopefully we can close that by next meeting and be completely caught up?
+20:26 < jberkus> I can't vote on that one either
+20:26 < Maulkin> bdale: yes :)
+20:26  * bdale is going to enjoy the "what we got caught up on" part of writing the annual report this year
+20:26 < bdale> [item 8, Items up for discussion]
+20:26 < bdale> [item 8.1, OpenVAS]
+20:26 < bdale> Any further discussion called for, or are we ready to vote on Ian's resolution?
+20:27 < Maulkin> [machine]: Any comments here?
+20:27 < [machine]> nope
+20:27  * Hydroxide is ready to vote. Yay for quick-to-read resolutions.
+20:27 < jberkus> looks good to me
+20:27 < bdale> ok, let's vote
+20:27  * Maulkin seconds
+20:28 < Maulkin> Voting started, 7 people (maulkin,cdlu,bdale,schultmc,overfiend,jberkus,hydroxide) allowed to vote on Approve 2007-06-18.iwj.2 - OpenVAS as an Associated Project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:28 < cdlu> !vote yes
+20:28 < Overfiend> !vote yes
+20:28 < Hydroxide> !vote yes
+20:28 < bdale> !vote yes
+20:28 < schultmc> !vote yes
+20:28 < Maulkin> !vote yes
+20:28 < jberkus> !vote ues
+20:28 < jberkus> !vote yes
+20:28 < jberkus> si
+20:28 < Maulkin> Current voting results for "Approve 2007-06-18.iwj.2 - OpenVAS as an Associated Project": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+20:28 < Maulkin> Voting for "Approve 2007-06-18.iwj.2 - OpenVAS as an Associated Project" closed.
+20:28  * Overfiend reports jberkus to U.S. Attorneys for attempting to vote twice
+20:29 < Maulkin> done
+20:29  * jberkus was already arrested by the Italian polizia today
+20:29 < Hydroxide> Maulkin: I just read the May 18 minutes and consider them fine, so change my vote on that to yes if it's not too late
+20:29 < Overfiend> jberkus: I hope it was for drunk & disorderly
+20:29 < Maulkin> Hydroxide: fine by me
+20:29 < Maulkin> though this set of minutes will be interesting to write
+20:29 < jberkus> nah, just an exceptionally elaborate conference joke
+20:29 < bdale> ok, great.  welcome back to OpenVAS, is there someone here to accept the re-invite immediately?
+20:29 < [machine]> i can
+20:29 < Overfiend> jberkus: heh.  Or for renting a billboard to place an ad for "powergenitialia.com"
+20:30 < Maulkin> [machine] (plus one more?)
+20:30 < Overfiend> s/itialia/italia/
+20:30 < jberkus> Overfiend: how did you find out about that?
+20:30 < bdale> [machine]: great!  we'll note the invite as immediately accepted then
+20:30 < Overfiend> jberkus: :)
+20:30 < [machine]> officially we require 2 signed pgp mails
+20:30 < Hydroxide> Maulkin: I also just re-read the December 2005 minutes, and I am also happy to vote yes on that. See? I voted on everything :)
+20:30 < [machine]> i will progress that tomorrow
+20:30 < bdale> thanks
+20:30 < Maulkin> ok, thanks
+20:30 < bdale> [item 8.2, SPI Board Elections]
+20:30 < bdale> Neil?
+20:31 < Maulkin> As some people may know (:P) It's election time again
+20:31 < Maulkin> Six seats are up for election. I've currently received 4 nominations
+20:32 < jberkus> yes, and we ran out of time to do anything about the wonky board terms
+20:32 < Maulkin> Would people wishing to stand please mail secreatary@spi-inc.org
+20:32 < Maulkin> no...
+20:32 < Maulkin> secretary@
+20:32 < Hydroxide> Maulkin: when is the deadline for nominations?
+20:32 < cdlu> 13th
+20:32 < cdlu> friday the 13th :)
+20:32 < Maulkin> Please also mention (though you don't *have* to) is you want to run for an officer position
+20:32 < Maulkin> Nominations are open until 2007-07-13 23:59:59 UTC
+20:33 < Maulkin> You don't need to send a platform yet
+20:33  * cdlu notes competition, as always, only for the VP position
+20:33 < Maulkin> So, get sending those mails :)
+20:33 < Hydroxide> cdlu: are you still on secretary@, or is the list of nominees public?
+20:33 < jberkus> cdlu: really?  even after we made infrastructure part of the responsibilities?
+20:33 < bdale> as I've told several folks previously, I'm willing to continue as president
+20:33 < cdlu> Hydroxide, http://www.spi-inc.org/secretary/votes/vote6/
+20:33 < cdlu> it's all public
+20:34 < bdale> will send email after the meeting
+20:34 < ravidgemole> Maulkin: So, send platforms if >6 people go into the running?
+20:34 < schultmc> jberkus: i convinced one of the current admins to run
+20:34 < xzilla> is there an ETA on update attendence records? 
+20:34 < Maulkin> ravidgemole: send platforms anyway :)
+20:34 < bdale> Maulkin: ok, anything else about the election?  plan is we'll have elected new board members by the time of the next board meeting, right?
+20:34 < Maulkin> xzilla: before voting starts
+20:35 < Maulkin> Board officer elections will be held on teh 1st
+20:35 < Maulkin> (traditionally)
+20:35 < Maulkin> This can be moved to the 3rd if needed
+20:35 < cdlu> maulkin, on the first meeting following the results, whateve date that is
+20:35 < Maulkin> 1st = Wed, 3rd = Fri
+20:35 < Maulkin> cdlu: Last year was a special meeting
+20:35 < cdlu> after the election we'll probably need to circulate the good-meeting-time chart again
+20:36 < Maulkin> however, this can all be discussed on list.
+20:36 < Hydroxide> Maulkin: I just reviewed everything else that happened in this meeting, and you can add my vote of yes to the decision to revoke the spanish trademark delegation
+20:36 < Maulkin> basically: if you wanna stand, mail me :)
+20:36 < Maulkin> Hydroxide: doen
+20:36 < Overfiend> Does anyone have a problem with the SPI mail clerk not being a Board member?
+20:36 < Overfiend> if so, I reckon I'd better run again
+20:36 < bdale> right, ok, so the salient bits are that folks should see http://www.spi-inc.org/secretary/votes/vote6/ for details, nominations open until 13th, elections close before the next board meeting at which time the board will elect officers.  right?
+20:36 < cdlu> overfiend, I don't have a problem with that
+20:37  * schultmc doesn't have a problem with the mail clerk not being a board member
+20:37 < Maulkin> Overfiend: Fine by me
+20:37 < schultmc> as long as I get the mail in a timely fashion :)
+20:37 < Hydroxide> Overfiend: I'm fine with it if the current board is fine with it throughout the clerk's tenure
+20:37 < Maulkin> bdale: yup
+20:37 < jberkus> it's not a board position.  if you're willing to do it without the title, I'm certainly happy
+20:38 < bdale> Overfiend: I have no problem with the mail clerk not being a board member
+20:38 < Overfiend> thanks for the input!
+20:38 < jberkus> jberkus: I'll even send you a present
+20:38  * Hydroxide thinks that's at least a majority of those board members present, so that's decided. Let's note it in the minutes and move on.
+20:38 < bdale> we probably need a board member to be "responsible", perhaps that's something the secretary and/or treasurer would oversee
+20:38 < Hydroxide> bdale: treasurer, I'd say
+20:39 < Hydroxide> bdale: oh, yeah, and secretary for non-financial stuff ;)
+20:39 < Maulkin> Theoretically secretary. Logistically, treasurer :)
+20:39 < bdale> ok, as I said, that can be duked out later
+20:39 < jberkus> we just need to divide responsibilities
+20:39 < bdale> [item 9, Next board meeting]
+20:39 < bdale> Neil?
+20:39 < jberkus> opening mail, depositing and data entry
+20:39 < Maulkin> Erm... this one is interesting
+20:39 < Overfiend>     August 2007     
+20:39 < Overfiend> Su Mo Tu We Th Fr Sa
+20:39 < Overfiend>           1  2  3  4
+20:39 < Overfiend>  5  6  7  8  9 10 11
+20:39 < Overfiend> 12 13 14 15 16 17 18
+20:39 < bdale> Maulkin: why?
+20:39 < Overfiend> 19 20 21 22 23 24 25
+20:39 < jberkus> that could actually be volunteer, treasurer and accountant
+20:39 < Overfiend> 26 27 28 29 30 31   
+20:39 < Overfiend>                     
+20:40 < Maulkin> These last few meetings have been messed up with teh dates due to AGM and election foo
+20:40  * cdlu suggests friday the 3rd at 19:00 UTC would be easiest for people to remember
+20:40 < Maulkin> So... we can hold the one for electing officers as a normal meeting, or as a special
+20:40 < Maulkin> Last year was special.
+20:40 < Hydroxide> yeah, with just that one item of business
+20:41  * Maulkin is tempted to do the same, so we can just get over it.
+20:41 < cdlu> as a special meeting where we can discuss offer selections and see when the majority-new (potentially) board actually wants to meet :)
+20:41 < bdale> I suggest we do it as a normal board meeting, election of officers as last item before we break so existing officers handle the remainder of the agenda.
+20:41 < cdlu> officer rather
+20:41 < Maulkin> Which would make the next offical board meeting on the 17th August
+20:41 < jberkus> wait ... who's going to LWE San Francisco?
+20:41 < Overfiend> is that kosher with the bylaws?
+20:41 < Overfiend> how quickly after election do the new board members have to be seated?
+20:41 < bdale> I'd have to go look
+20:41 < Maulkin> Overfiend: you said the B-word
+20:42 < cdlu> overfiend, our by-laws say only that our officers have to be selected in the same manner as our board members.
+20:42 < Overfiend> we can't have the old and new board members sitting simultaneously
+20:42 < cdlu> that's all it says on the matter
+20:42 < Overfiend> cdlu: er...then we don't do that
+20:42 < Overfiend> the board is elected by the membership, and the officers by the board
+20:42 < cdlu> the election resolution states taht the new board seats take effect on the 29th
+20:42 < Overfiend> cdlu: of July?
+20:42 < cdlu> yeah
+20:42 < bdale> ok
+20:43 < bdale> then a special board meeting just to elect officers soon after that makes sense
+20:43 < Maulkin> The ballots for the election of officers shall be kept secret even after the vote is over.
+20:43 < bdale> and the new officers can run the next "real" board meeting at or near the normal time for August
+20:43 < Overfiend> we haven't been doing that, either, I don't think
+20:43 < Maulkin> Thus, I'd suggest special.
+20:43 < cdlu> the relevant bits of the resolution:
+20:43 < cdlu>       4. On July 29th, the results will be announced by the current secretary, or a member of the Board not seeking reelection in the event that secretary is seeking reelection.
+20:43 < cdlu>     5. New board member seats take effect immediately upon the announcements of results, notwithstanding any vote quorum requirements;
+20:44 < Overfiend> Next board meeting - Friday 20th July, 2007
+20:44 < bdale> Maulkin: ok, so when are we going to have the special meeting?  let's just pick a time
+20:45 < Overfiend> the agenda says we should meet again *this* month
+20:45 < bdale> if we get too many regrets, we'll try to change it
+20:45 < Overfiend> are we pre-worrying this?
+20:45 < schultmc> last year there was no competition for officers
+20:45 < Maulkin> Overfiend: That's wrong now.
+20:45 < schultmc> thus no need for secret ballots
+20:45 < Overfiend> ok
+20:45 < Overfiend> ah
+20:45  * cdlu thinks a meeting july 20th is redundant
+20:45  * Maulkin suggests the 1st
+20:45 < Overfiend> well
+20:45 < Maulkin> (wednesday)
+20:45 < Maulkin> Or 3rd (Friday_)
+20:45 < Overfiend> might be useful for bdale to light a fire under people's asses for annual report input
+20:46 < Overfiend> if he wants to have it delivered before the new crew is installed
+20:46 < cdlu> whatever day you decide I'll be there, unless I lose my seat :)
+20:46 < bdale> that's a reasonable goal, but not one I'll fall on a sword for
+20:46 < Overfiend> heh, okay :)
+20:46 < jberkus> unfortunately, I'm on the hook past the 29th
+20:46 < Overfiend> *on* the hook?
+20:46 < bdale> I'm ok with either the 1st or the 3rd
+20:46  * Overfiend is indifferent to the date
+20:46  * cdlu prefers the third only for consistency (fridays)
+20:47 < Maulkin> 3rd then
+20:47  * schultmc is also indifferent
+20:47  * Hydroxide loudly and obnoxiously proclaims his indifference
+20:47 < bdale> ok, 19:00 utc on the 3rd of August, we will hold a special board meeting to elect officers
+20:47  * jberkus prefers the 1st
+20:47  * Overfiend prefers the same time, though 1900UTC
+20:47 < Maulkin> next board meeting: 17th
+20:47 < Overfiend> where "we" == the new Board as elected by the membership.
+20:47 < Overfiend> Maulkin: of August
+20:47 < Maulkin> Yup
+20:48 < cdlu> hehe
+20:48 < bdale> ok,
+20:48 < Maulkin> 17th August 2007, 19:00 UTC (unless it changes)
+20:48 < cdlu> don't remember the last time "next meeting date" was longest item on our agenda. :)
+20:48 < Overfiend> bwa ha
+20:48 < bdale> so much for 30 min meetings
+20:48 < xzilla> cdlu: agreed, i was afraid we wouldnt finish in time
+20:48 < Maulkin> Short agenda this time
+20:48 < bdale> Ok, thank you to everyone present for participating today.  Until next time!
+20:48 < bdale> *GAVEL*
