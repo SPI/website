@@ -1,0 +1,443 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Joshua D. Drake (linuxpoet)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Zobel-Helas (zobel)
+
+
+__Board members absent__
+
+* Luk Claes (luk)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+
+
+
+These are the minutes for the March 10th, 2010 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org. [LOG](../../../logs/2010/2010-03-10-log.txt)
+
+
+## President's Report
+
+Bdale reported that some progress had been made on the previously
+reported efforts to arrange discounts for SPI associated projects on
+server and storage hardware from HP. The contract has been reviewed by
+SPI's lawyer and board and we're now waiting for HP legal to review and
+propose changes based on that feedback.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+January + February 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period January 01, 2010 - January 31, 2010
+
+ Income
+   Ordinary Income
+        Debian                           9,849.73
+        Gallery                            100.00
+        OpenOffice.org                     530.00
+        OpenWrt                              1.00
+        PostgreSQL                          50.00
+        SPI General                      1,212.11
+        SPI 5%                             227.88
+        The HeliOS Project                 525.00
+        Tux4Kids                         4,029.39
+
+        Total Ordinary Income           16,525.11
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           3.64
+
+        Total Interest Income                3.64
+                                             ----
+
+   Gross Income                         16,528.75
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Freight               3,372.66
+          Hard drives           1,138.35
+          Processing Fees          23.68
+          SPI 5%                  142.58
+          Travel Reimbursement  1,030.13
+
+          Total Debian Exp      5,707.40
+                                --------
+
+
+        Gallery
+          Processing Fees           2.50
+          SPI 5%                    5.00
+
+          Total Gallery Exp         7.50
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees           3.80
+          SPI 5%                   26.50
+          Total OO.o Exp           30.30
+                                   -----
+
+        OpenWrt
+          Processing Fees           0.04
+          SPI 5%                    0.05
+
+          Total OpenWrt Expense     0.09
+                                    ----
+
+        PostgreSQL
+          Processing Fees           1.25
+          SPI 5%                    2.50
+          Travel Reimbursement    453.79
+
+          Total PostgreSQL Exp    457.54
+                                  ------
+
+        SPI
+          Fax                       1.75
+          Office Supplies          49.52
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         23.22
+
+          Total SPI Exp           104.44
+                                  ------
+
+        The HeliOS Project
+          Processing Fees          21.00
+          SPI 5%                   26.25
+
+          Total HeliOS Exp         47.25
+                                   -----
+
+        Tux4Kids
+          SPI 5%                   25.00
+
+          Total Tux4Kids Exp       25.00
+                                   -----
+
+        Total Expenses          6,379.52
+                                --------
+
+        Net Income             10,149.23
+                               =========
+
+
+
+Balance Sheet as of January 31, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest         150.00
+        Chase Business Select High Yield Savings          40,564.53
+        Key Business Reward Checking                      43,112.52
+        Key Business Signature Money Market Savings       67,547.63
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                164,776.30
+
+
+   TOTAL ASSETS                                          164,776.30
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    70,754.47
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,566.07
+           Gallery Earmark                    6,604.50
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark             9,023.02
+           OpenWrt                               10.01
+           Open Voting Foundation Earmark        90.09
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                22,467.83
+           Privoxy Earmark                       71.85
+           The HeliOS Project                (1,027.95)
+           Tux4Kids Earmark                   5,869.44
+
+        Total held in trust                              125,979.91
+        General reserves                                  38,796.39
+
+
+     Total Equity                                        164,776.30
+
+   TOTAL LIABILITIES & EQUITY                            164,776.30
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period February 01, 2010 - February 31, 2010
+
+ Income
+   Ordinary Income
+        Debian                           2,039.00
+        freedesktop.org                    130.00
+        Gallery                             20.00
+        OpenOffice.org                   1,695.00
+        PostgreSQL                          52.00
+        Privoxy                             60.00
+        SPI General                        634.57
+        SPI 5%                             272.70
+        The HeliOS Project               1,370.00
+        YafaRay                            108.00
+
+        Total Ordinary Income            6,381.27
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           2.59
+        Chase BusinessClassic Checking       0.02
+        Chase Bus Select High Yield Savings  4.02
+
+        Total Interest Income                6.63
+                                             ----
+
+   Gross Income                          6,387.90
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Debian Edu            5,022.00
+          Processing Fees          70.96
+          Soft Drinks, NY BSP      19.92
+          SPI 5%                  101.95
+          Travel Reimbursement  1,085.06
+
+          Total Debian Exp      6,299.89
+                                --------
+
+        freedesktop.org
+          Expense reimbursement   811.99
+          ICC dues                250.00
+
+          Total fd.o Exp        1,061.99
+                                --------
+
+        Gallery
+          Processing Fees           0.48
+          SPI 5%                    1.00
+
+          Total Gallery Exp         1.48
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees          61.80
+          SPI 5%                   84.75
+
+          Total OO.o Exp          146.55
+                                  ------
+
+        PostgreSQL
+          Processing Fees           2.08
+          SPI 5%                    2.60
+          Travel Reimbursement    907.00
+
+          Total PostgreSQL Exp    911.68
+                                  ------
+
+        Privoxy
+          Processing Fees           2.40
+          SPI 5%                    3.00
+
+          Total Privoxy Exp         5.40
+                                    ----
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          PO Box Renewal           70.00
+          Postage                  20.60
+          Transaction Fees         17.89
+
+          Total SPI Exp           138.44
+                                  ------
+
+        The HeliOS Project
+          Expense Reimbursement   207.10
+          Processing Fees          54.80
+          SPI 5%                   68.50
+
+          Total HeliOS Exp        330.40
+                                  ------
+
+        Tux4Kids
+          Travel Reimbursement    340.39
+
+          Total Tux4Kids Exp      340.39
+                                  ------
+
+        YafaRay
+          Processing Fees           4.32
+          SPI 5%                    5.40
+
+          Total YafaRay Exp         9.72
+                                    ----
+
+        Total Expenses          9,245.94
+                                --------
+
+        Net Income             (2,858.04)
+                               ==========
+
+
+
+Balance Sheet as of February 28, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest       7,500.02
+        Chase Business Select High Yield Savings          33,218.55
+        Key Business Reward Checking                      39,291.49
+        Key Business Signature Money Market Savings       67,550.22
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                160,961.90
+
+
+   TOTAL ASSETS                                          160,961.90
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    66,493.58
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark              634.08
+           Gallery Earmark                    6,623.02
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark            10,571.47
+           OpenWrt                               10.01
+           Open Voting Foundation Earmark        90.09
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                21,608.15
+           Privoxy Earmark                      126.45
+           The HeliOS Project                    11.65
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                       98.28
+
+        Total held in trust                              122,346.41
+
+        General reserves                                  38,615.49
+
+
+     Total Equity                                        160,961.90
+
+   TOTAL LIABILITIES & EQUITY                            160,961.90
+</pre>
+
+SPI have also received its sales and use tax exempt form from New York
+State.
+
+## Secretary's report
+
+Nothing to report other than that it would be appreciated if a member
+familiar with Google Adwords would come forward and offer to manage this for
+our associated projects.
+
+## Outstanding minutes
+
+Vote on Meeting Minutes January 13th, 2010
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing
+
+Vote on Meeting Minutes February 10th, 2010
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 5 yes, 2 abstain, 0 missing
+
+## Any other business
+
+It was pointed out that our 2010 board elections occur in July and that
+we have 4 vacancies.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, April 14th, 2010 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td<td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007<br /></td><td>Luk Claes</td></tr>
+<tr><td>July 2007<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2008<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

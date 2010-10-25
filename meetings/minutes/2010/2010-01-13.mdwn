@@ -1,0 +1,298 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Martin Zobel-Helas (zobel)
+* Jimmy Kaplowitz (Hydroxide)
+* Luk Claes (luk)
+
+
+__Board partially present__
+
+* David Graham (cdlu)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Joshua Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+
+
+These are the minutes for the January 13th, 2010 SPI Board meeting, held at
+21:00 UTC in #spi on irc.spi-inc.org. [LOG](../../../logs/2010/2010-01-13-log.txt)
+
+
+## President's Report
+
+Bdale reported that he was making progress on setting it up so that SPI
+associated projects can get discounts on HP gear, legal agreement is out to our
+lawyer for review before he signs it.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for
+December 2009:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period December 01, 2009 - December 31, 2009
+
+ Income
+   Ordinary Income
+        Debian                           1,559.53
+        Gallery                             30.00
+        OpenOffice.org                     798.26
+        OpenWrt                             10.00
+        PostgreSQL                         215.26
+        Privoxy                             10.00
+        SPI General                        852.00
+        SPI 5%                             138.90
+        The HeliOS Project                 185.00
+
+        Total Ordinary Income            3,798.95
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           4.56
+
+        Total Interest Income                4.56
+                                             ----
+   Gross Income                          3,803.51
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Argentina FOSS Event  1,540.00
+          Freight               2,808.03
+          Processing Fees          53.22
+          SPI 5%                   77.98
+          Trademark Renewal       500.00
+          Travel Reimbursement    173.20
+
+          Total Debian Exp      5,152.43
+                                --------
+
+
+        Gallery
+          Processing Fees           0.81
+          SPI 5%                    1.50
+
+          Total Gallery Exp         2.31
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees          27.73
+          SPI 5%                   39.91
+
+          Total OO.o Exp           67.64
+                                   -----
+
+        OpenWrt
+          Processing Fees           0.40
+          SPI 5%                    0.50
+
+          Total OpenWrt Expense     0.90
+                                    ----
+
+        PostgreSQL
+          Processing Fees           6.14
+          SPI 5%                   10.76
+          Travel Reimbursement  1,200.00
+
+          Total PostgreSQL Exp  1,216.90
+                                --------
+
+        Privoxy
+          Processing Fees           0.40
+          SPI 5%                    0.50
+
+          Total Privoxy Exp         0.90
+                                    ----
+
+        SPI
+          Copies                    0.68
+          NY SOS                   10.00
+          PaySimple Monthly Fee    29.95
+          Postage                   5.65
+          Transaction Fees         23.09
+
+          Total SPI Exp            69.37
+                                   -----
+
+        The HeliOS Project
+          Expense reimbursement 1,590.00
+          Processing Fees           7.40
+          SPI 5%                    9.25
+
+          Total HeliOS Exp      1,606.65
+                                --------
+
+        Total Expenses          8,049.46
+                                --------
+
+        Net Income             (4,245.95)
+                               ==========
+
+
+
+Balance Sheet as of December 31, 2009
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      33,657.48
+        Key Business Signature Money Market Savings      107,550.49
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                154,609.59
+
+
+   TOTAL ASSETS                                          154,609.59
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    66,612.14
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,566.07
+           Gallery Earmark                    6,512.00
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark             8,493.02
+           OpenWrt                                9.10
+           Open Voting Foundation Earmark        90.09
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                22,875.37
+           Privoxy Earmark                       71.85
+           Tux4Kids Earmark                   1,865.05
+           The HeliOS Project                (1,552.95)
+
+        Total held in trust                              117,092.32
+
+        General reserves                                  37,517.27
+
+
+     Total Equity                                        154,609.59
+
+   TOTAL LIABILITIES &amp; EQUITY                            154,609.59
+</pre>
+
+Michael also reported that we've received a letter from the IRS confirming
+our 501(c)(3) status; this letter is a substitute for the original
+determination letter. A copy can be found at
+http://www.spi-inc.org/treasurer/SPI_501c3_status_letter_IRS.pdf/view
+
+## Secretary's report
+
+Yafaray were contacted after last months meeting and accepted our invitation
+to join as an associated project. Announcements haven't been sent out about
+them or sidux yet. bdale pointed out that the news section of the website
+should also be updated with details of new projects. We're also now fully up to
+date on outstanding minutes.
+
+## Outstanding minutes
+
+Vote on Meeting Minutes September 16th, 2009
+
+Joerg raised an objection that he had been listed as partly present when it
+had been stated he wouldn't be counted as late. It was agreed this would be
+corrected in the minutes after the meeting was over.
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Abstain</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 1 abstain, 0 missing
+
+Vote on Meeting Minutes October 14th, 2009
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 abstain, 0 missing
+
+Vote on Meeting Minutes December 9th, 2009
+
+These incorrectly listed Martin Zobel-Helas as secretary, but it was agreed
+this would be corrected after the meeting.
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Abstain</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 2 abstain, 0 missing
+
+## Any other business
+
+None; no progress on debian.org.tw to report.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, February 10th, 2009 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td<td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007<br /></td><td>Luk Claes</td></tr>
+<tr><td>July 2007<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2008<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

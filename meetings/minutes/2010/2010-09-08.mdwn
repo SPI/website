@@ -1,0 +1,287 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joshua D. Drake (linuxpoet)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Zobel-Helas (zobel)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* None
+
+
+These are the minutes for the September 8th, 2010 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org. 
+[LOG](../../../logs/2010/2010-09-08-log.txt)
+
+
+## President's Report
+
+Bdale reports that he would be attending LinuxCon Japan and related
+events in Tokyo and looked forward to seeing SPI members there.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+August 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period August 01, 2010 - August 31, 2010
+
+ Income
+   Ordinary Income
+        Debian                           9,936.33
+        Drupal                              89.86
+        freedesktop.org                     75.00
+        Gallery                             90.00
+        Madwifi-project.org                 60.00
+        OpenOffice.org                     983.00
+        OpenVAS                             50.00
+        OpenWrt                             94.86
+        Path64                              10.00
+        PostgreSQL                         614.86
+        SPI General                        286.02
+        SPI 5%                             207.51
+        Yafaray                            100.00
+
+        Total Ordinary Income           12,597.44
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           2.15
+        Chase BusinessClassic Checking       0.18
+        Chase Bus Select High Yield Savings  3.73
+
+        Total Interest Income                6.06
+                                             ----
+
+   Gross Income                         12,603.50
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Food (DC10)            16,589.07
+          Office Supplies (DC10)     78.47
+          Processing Fees            99.29
+          SPI 5%                     99.14
+          Transportation (DC10)     120.80
+          Travel Reimbursement    1,046.13
+          Travel Reimb (DC10)     5,703.00
+          Video Team Exp (DC10)     371.83
+          Wire Fee (DC10)            15.00
+
+          Total Debian Exp       24,122.73
+                                 ---------
+
+        Drupal
+          SPI 5%                      4.49
+
+          Total Drupal Exp            4.49
+                                      ----
+       =20
+        freedesktop.org
+          Processing Fees             4.40
+          SPI 5%                      3.75
+
+          Total fd.o Exp              8.15
+                                      ----
+
+        Gallery
+          Processing Fees             2.48
+          SPI 5%                      4.50
+
+          Total Gallery Exp           6.98
+                                      ----
+
+        madwifi-project.org
+          Processing Fees             3.10
+          SPI 5%                      3.00
+
+          Total madwifi Exp           6.10
+                                      ----
+                                     =20
+        OpenOffice.org (OO.o)
+          Processing Fees            46.42
+          SPI 5%                     49.15
+
+          Total OO.o Exp             95.57
+                                     -----
+        OpenVAS
+          Processing Fees             2.35
+          SPI 5%                      2.50
+
+          Total OpenVAS Exp           4.85
+                                      ----
+
+        OpenWrt
+          Processing Fees             0.55
+          SPI 5%                      4.74
+
+          Total OpenWrt Exp           5.29
+                                      ----
+
+        Path64
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total Path64 Exp            1.25
+                                      ----
+
+        PostgreSQL
+          Processing Fees            14.98
+          SPI 5%                     30.74
+          T-shirts                  679.18
+
+          Total PostgreSQL Exp      724.90
+                                    ------
+
+        SPI
+          Office Supplies            70.61
+          PaySimple Monthly Fee      29.95
+          Transaction Fees          908.73
+
+          Total SPI Exp           1,009.29
+                                  --------
+
+        The HeliOS Project
+          Expense Reimbursement     288.00
+
+          Total HeliOS Exp          288.00
+                                    ------
+
+        YafaRay
+          Book                       50.67
+          Processing Fees             4.35
+          SPI 5%                      5.00
+
+          Total YafaRay Exp          60.02
+                                     -----
+
+        Total Expenses           26,337.62
+                                 ---------
+
+        Net Income              (13,734.12)
+                                ===========
+
+
+Balance Sheet as of August 31, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      18,850.66
+        Chase Business Select High Yield Savings          27,540.23
+        Key Business Reward Checking                      90,151.74
+        Key Business Signature Money Market Savings       50,513.24
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                200,457.49
+
+
+   TOTAL ASSETS                                          200,457.49
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    87,782.68
+           Drupal Earmark                     2,735.37
+           Freedesktop.org Earmark            2,315.48
+           Gallery Earmark                    6,968.51
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,444.78
+           OpenOffice.org Earmark            15,698.75
+           OpenVAS                               45.15
+           OpenWrt                              471.98
+           Open Voting Foundation Earmark        90.09
+           Path64                                 8.75
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                31,020.14
+           Privoxy Earmark                      335.35
+           Privoxy Earmark                      335.35
+           The HeliOS Project                  (215.92)
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                      238.36
+
+        Total held in trust                              160,978.22
+
+        General reserves                                  39,479.27
+
+
+     Total Equity                                        200,457.49
+
+   TOTAL LIABILITIES & EQUITY                            200,457.49
+</pre>
+
+## Secretary's report
+
+Jonathan reported there had been a couple of emails from projects
+interested in becoming associated with SPI, and both had been replied to.
+There was also an outstanding request from sidux, which Ferdinand (devil)
+informed us was no longer valid.
+
+## Outstanding minutes
+
+There were no outstanding minutes available for voting upon.
+
+## Any other business
+
+Joshua asked if the rest of the board would consider Cyanogen and K9
+Mail (both Android related projects) as suitable candidates for associated
+project status. There were no objections to him contacting them.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, October 13th, 2010 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

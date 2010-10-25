@@ -1,0 +1,266 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joshua D. Drake (linuxpoet)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Luk Claes (luk)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Kåre Thor Olsen (Kaare)
+* Julien Cristau (jcristau)
+* Bill Allombert (yp17)
+
+
+
+These are the minutes for the May 19th, 2010 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org. [LOG](../../../logs/2010/2010-05-19-log.txt)
+
+
+## President's Report
+
+I'm thrilled to report that we have a working arrangement by which SPI
+associated projects (and other worthwhile projects like kernel.org) can obtain
+a deep discount on server and storage hardware from HP.  The process we ended
+up with is *not* the one we started out trying to make work...  Rather than
+resolve the issues we raised with having SPI sign the standard partner
+contract, since we didn't really want the "other benefits" that motivated most
+of the unpleasnt-to-us contract terms, the HP server business unit instead
+proposed to just give us the same discount directly.  This is a wonderful
+result, and orders have already been placed by SPI on behalf of Debian and by
+kernel.org under the new process.  Any SPI associated project that wants to
+take advantage of this should send me an email requesting details on how to
+start the process.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+April 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period April 01, 2010 - April 30, 2010
+
+ Income
+   Ordinary Income
+        Debian                           1,888.15
+        Gallery                             70.00
+        OpenOffice.org                     985.00
+        OpenWrt                            380.00
+        PostgreSQL                      10,000.00
+        Privoxy                            125.00
+        SPI General                        460.50
+        SPI 5%                             171.66
+        The HeliOS Project                 775.00
+
+        Total Ordinary Income           14,855.31
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           2.78
+        Chase BusinessClassic Checking       0.08
+        Chase Bus Select High Yield Savings  4.08
+
+        Total Interest Income                6.94
+                                             ----
+
+   Gross Income                         14,862.25
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Candy for LH             67.00
+          Hardware for MIPS        76.29
+          Processing Fees          66.76
+          SPI 5%                   54.91
+          Trademark Reg [1]       500.00
+          Travel Reimbursement    602.31
+
+          Total Debian Exp      1,367.27
+                                --------
+
+        Gallery
+          Processing Fees           2.15
+          SPI 5%                    3.50
+
+          Total Gallery Exp         5.65
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees          31.20
+          SPI 5%                   49.25
+
+          Total OO.o Exp           80.45
+                                   -----
+
+        OpenWrt
+          Processing Fees          15.20
+          SPI 5%                   19.00
+
+          Total OpenWrt Exp        34.20
+                                   -----
+
+
+        Privoxy
+          Processing Fees           5.00
+          SPI 5%                    6.25
+
+          Total Privoxy Exp        11.25
+                                   -----
+
+        SPI
+          IRS Form 990          1,872.89
+          PaySimple Monthly Fee    29.95
+          Postage                  20.60
+          Transaction Fees         20.45
+
+          Total SPI Exp         1,943.89
+                                --------
+
+        The HeliOS Project
+          Expense Reimbursement   536.90
+          Processing Fees          31.00
+          SPI 5%                   38.75
+
+          Total HeliOS Exp        606.65
+                                  ------
+
+
+        Total Expenses          4,049.36
+                                --------
+
+        Net Income             10,812.89
+                               =========
+
+[1] Reissuance of reimbursement due to expired check for previous
+reimbursement
+
+Balance Sheet as of April 30, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      12,587.84
+        Chase Business Select High Yield Savings          33,227.12
+        Key Business Reward Checking                      16,964.83
+        Key Business Signature Money Market Savings       67,555.87
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                143,737.28
+
+
+   TOTAL ASSETS                                          143,737.28
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    36,689.45
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            2,059.08
+           Gallery Earmark                    6,761.21
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark            12,212.61
+           OpenWrt                              355.81
+           Open Voting Foundation Earmark        90.09
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                30,793.90
+           Privoxy Earmark                      268.70
+           The HeliOS Project                  (251.34)
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                      143.78
+
+        Total held in trust                              105,202.92
+
+        General reserves                                  38,534.36
+
+
+     Total Equity                                        143,737.28
+
+   TOTAL LIABILITIES &amp; EQUITY                            143,737.28
+</pre>
+
+Also of note: SPI's 2009 Form 990 (IRS form) has been filed
+
+## Secretary's report
+
+None
+
+## Outstanding minutes
+
+Vote on Meeting Minutes April 14th, 2010
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Joshua Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 2 abstain, 0 missing
+
+## Any other business
+
+There was again some discussion of our forthcoming election, in July.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, June 9th, 2010 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td<td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007<br /></td><td>Luk Claes</td></tr>
+<tr><td>July 2007<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2007<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

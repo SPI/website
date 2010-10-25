@@ -1,0 +1,251 @@
+# Minutes for SPI board meeting on Wednesday 11th August, 2010
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joshua D. Drake (linuxpoet)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+__Board partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+
+__Board members absent__
+
+* David Graham (cdlu)
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* Mark Brown (broonie)
+* MJ Ray (slef)
+
+These are the minutes for the August 11th, 2010 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org. [LOG](../../../logs/2010/2010-08-11-log.txt)
+
+## President's Report
+
+None
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+July 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period July 01, 2010 - July 31, 2010
+
+ Income
+   Ordinary Income
+        Debian                          46,797.00
+        freedesktop.org                     50.00
+        Gallery                             10.00
+        OpenOffice.org                     605.00
+        PostgreSQL                         477.00
+        SPI General                        335.00
+        SPI 5%                             121.30
+        The HeliOS Project                 100.00
+
+        Total Ordinary Income           48,495.30
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           2.14
+        Chase BusinessClassic Checking       0.33
+        Chase Bus Select High Yield Savings  4.08
+
+        Total Interest Income                6.55
+                                             ----
+
+   Gross Income                         48,501.85
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Customs Fees (DC10)       845.36 [1]
+          Daytrip (DC10)          1,503.50
+          Food (DC10)            18,846.04
+          MetroCards (DC10)         810.00
+          Office Supplies (DC10)    272.95
+          Postage (DC10)             18.30
+          Processing Fees           822.32
+          Signage (DC10)            592.00
+          SPI 5%                     59.20
+          T-shirts (DC10)         3,046.40
+          Wire Fee (DC10)            15.00
+
+          Total Debian Exp       26,831.07
+                                 ---------
+
+        freedesktop.org
+          Processing Fees             2.85
+          SPI 5%                      2.50
+
+          Total fd.o Exp              5.35
+                                      ----
+
+        Gallery
+          Processing Fees             0.53
+          SPI 5%                      0.50
+
+          Total Gallery Exp           1.03
+                                      ----
+                                     =20
+        OpenOffice.org (OO.o)
+          Processing Fees            20.00
+          SPI 5%                     30.25
+
+          Total OO.o Exp             50.25
+                                     -----
+
+        PostgreSQL
+          Processing Fees            19.88
+          SPI 5%                     23.85
+          Travel Reimbursement      293.00
+
+          Total PostgreSQL Exp      336.73
+                                    ------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           18.04
+
+          Total SPI Exp              47.99
+                                     -----
+
+        The HeliOS Project
+          Expense Reimbursement     427.80
+          Processing Fees            11.00
+          SPI 5%                      5.00
+          Total HeliOS Exp          443.80
+                                    ------
+
+        Total Expenses           27,716.22
+                                 ---------
+
+        Net Income               20,785.63
+                                 =========
+
+[1] Half of this expense is a duplicate charge
+
+Balance Sheet as of July 31, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      33,507.92
+        Chase Business Select High Yield Savings          33,239.50
+        Key Business Reward Checking                      83,531.48
+        Key Business Signature Money Market Savings       50,511.09
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                214,191.61
+
+
+   TOTAL ASSETS                                          214,191.61
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                   101,969.08
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            2,248.63
+           Gallery Earmark                    6,885.49
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark            14,811.32
+           OpenWrt                              382.41
+           Open Voting Foundation Earmark        90.09
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                31,130.18
+           Privoxy Earmark                      335.35
+           The HeliOS Project                    72.08
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                      198.38
+
+        Total held in trust                              174,202.61
+
+        General reserves                                  39,989.00
+
+
+     Total Equity                                        214,191.61
+
+   TOTAL LIABILITIES & EQUITY                            214,191.61
+</pre>
+
+## Secretary's report
+
+Jonathan reported he'd taken a brief look at moving the website to
+ikiwiki while at DebConf, but failed to easily export the current content
+from Plone to enable this. This spurred a little discussion about other
+options, including Joshua suggesting he might find time to look at
+Drupal.
+
+## Outstanding minutes
+
+Vote on Meeting Minutes July 14th, 2010
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 0 abstain, 0 missing
+
+## Any other business
+
+The Debian Project Leader had asked about the possibility of "sustaining
+membership", involving being able to make regular donations. Michael stated
+that our payment processors already allowed us to take recurrent charges
+and suggested we might want some sort of status badge or other
+acknowledgement.
+
+debian.eu was also brought up, and Jonathan agreed to take a look at
+drafting an initial letter to the current owner.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, September 8th, 2010 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
