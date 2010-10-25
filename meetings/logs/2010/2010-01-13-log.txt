@@ -1,0 +1,180 @@
+21:01 #spi: < Ganneff> *GAVEL*
+21:01 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order. To nding resolutions can be found on the web at http://www.spi-inc.org/secretary/agenda/2010/2010-01-13.html
+21:01 #spi: < Ganneff> [item 2, Roll Call]
+21:01 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to noodles if you wish your attendance to be recorded in the minutes of this meeting
+21:01 #spi: < cdlu> David Graham
+21:01 #spi: < schultmc> Michael Schultheiss
+21:01 #spi: < Hydroxide> Jimmy Kaplowitz
+21:01 #spi: < Noodles> Jonathan McDowell
+21:01 #spi: < zobel> Martin Zobel-Helas
+21:01 #spi: < cdlu> we're not quorate?
+21:01 #spi: < Ganneff> Joerg Jaspert
+21:01 #spi: < cdlu> yay!
+21:01 #spi: < luk> Luk Claes
+21:02 #spi: < cdlu> 7/9.
+21:02 #spi: < schultmc> bdale and linuxpoet absent
+21:02 #spi: < zobel> do we have regrets?
+21:02 #spi: < Hydroxide> no, bdale may show up
+21:02 #spi: < Noodles> bdale said he wasn't sure he could make it due to travelling.
+21:02 #spi: < Hydroxide> but if cdlu's in a rush let's go
+21:02 #spi: < Ganneff> so we can go on
+21:02 #spi: < Ganneff> [item 3, President's Report]
+21:02 #spi: < Ganneff> Bdale not here, none
+21:02 #spi: < Ganneff> [item 4, Treasurer's Report]
+21:02 #spi: < Ganneff> Michael, have fun.
+21:02 #spi: < schultmc> standard report is in the agenda
+21:02 #spi:  * cdlu rubber stamp
+21:03 #spi: < bdale> hi, just arrived airport, sorry
+21:03 #spi: < schultmc> The HeliOS project has already received donations to make up their percieved deficit
+21:03 #spi: < bdale> Bdale Garbee
+21:03 #spi: < Noodles> Were we not going to switch over to counting CC payments when they were received, sorting the Helios?
+21:03 #spi: < Ganneff> the bdale.
+21:03 #spi: < bdale> Ganneff: want to carry on?
+21:03 #spi: < schultmc> Noodles: that was under consideration - due to some changes in C&P's setup we may switch to something that will alleviate that
+21:04 #spi: < Ganneff> bdale: can do
+21:04 #spi: < Noodles> Ok.
+21:04 #spi: < Hydroxide> yeah, counting our c&p accounts as an asset would be probably correct even for cash accounting, but let's move on
+21:04 #spi: < Hydroxide> (I might be wrong, too)
+21:04 #spi: < bdale> if the only oddity is that Helios continues to show short term negative balances, this isn't important to us
+21:05 #spi: < luk> right
+21:05 #spi: < Ganneff> ok. fine. all done here?
+21:05 #spi: < luk> I guess we should move on with the previous item? :-)
+21:05 #spi: < Ganneff> bdale: do you have a report?
+21:05 #spi: < schultmc> nothing more from me
+21:05 #spi: < bdale> Ganneff: proceed
+21:05 #spi: < bdale> yes, I do
+21:05 #spi: < Ganneff> bdale: then go
+21:06 #spi: < bdale> Making progress on setting it up so that SPI associated projects can get discounts on HP gear, legal agreement out to our lawyer for review before I sign it.
+21:06 #spi: < Ganneff> yay
+21:06 #spi: < cdlu> bdale, excellent
+21:06 #spi: < bdale> Other than that, I'm on the way to LCA in New Zealand, will look forward to seeing folks who are there, and plan to attend the Debian BOF, etc.
+21:06 #spi: < Ganneff> ftp-master.d.o will LOVE that
+21:07 #spi: < zobel> Ganneff: well, lets see.
+21:07 #spi: < bdale> I do not yet know what the magnitude of the discounts will be, but they will be similar to what HP provides other partners and suppliers
+21:07 #spi: < Ganneff> zobel: sure
+21:07 #spi: < schultmc> I do have another thing for the treasurer section before we move on to the minutes or secretary report
+21:07 #spi: < Ganneff> bdale: nice news. done? :)
+21:07 #spi: < bdale> done
+21:07 #spi: < Ganneff> schultmc: shoot
+21:07 #spi: < schultmc> I've received a letter from the IRS confirming our 501(c)(3) status
+21:07 #spi: < Ganneff> great
+21:07 #spi: < schultmc> we don't have a copy of our original determination letter
+21:07 #spi: < cdlu> schultmc, excellent!
+21:08 #spi: < schultmc> this letter is a subsititute for a determination letter
+21:08 #spi: < schultmc> http://www.spi-inc.org/treasurer/SPI_501c3_status_letter_IRS.pdf/view
+21:08 #spi: < schultmc> </done>
+21:08 #spi: < Ganneff> [item 5, Secretaries Report]
+21:08 #spi: < Ganneff> And this is for Noodles.
+21:09 #spi: < Noodles> I contacted povray after the vote last month, they also accepted out invitation (sidux had done so in the meeting).
+21:09 #spi: < Noodles> s/out/our/
+21:09 #spi: < schultmc> Noodles: yafaray
+21:09 #spi: < schultmc> not povray
+21:09 #spi: < Noodles> Doh! Thanks!
+21:09 #spi: < Ganneff> ok. more? or next?
+21:09 #spi: < Noodles> I haven't sent out announcements for either, though sidux sent some text as a starter.
+21:10 #spi: < bdale> right, I was going to welcome new contributing members from sidux and YafaRay in my report today
+21:10 #spi:  * cdlu quietly slips out the back door... Y/Y/A on the minutes. sorry about the scheduling mix-up on my part.
+21:10 #spi: < bdale> cdlu: noted, thanks
+21:10 #spi: < zobel> Noodles: i will work out with devil on sunday for sidux press if you dont mind
+21:10 #spi: < Noodles> I thought at least some mails to -announce about the new projects would be called for.
+21:10 #spi: < Noodles> zobel: I won't have time until the end of the month, so work away.
+21:11 #spi: < bdale> Noodles: yes ... I'd also love for us to update the news page on the web site at some point, the last item is I think from 2008?
+21:11 #spi: < Noodles> Yup, can do once I have some text.
+21:11 #spi: < bdale> if that means getting on with the technology conversion, I will personally have/make time to help with that after returning from NZ
+21:12 #spi:  * Ganneff loves that
+21:12 #spi: < Ganneff> Noodles: done?
+21:12 #spi: < Noodles> I don't think I have anything else to report.
+21:12 #spi: < Ganneff> [item 6, Outstanding minutes]
+21:12 #spi: < Noodles> So yes.
+21:12 #spi: < Ganneff> Looks like a set of 3, Noodles have fun.
+21:12 #spi: < Noodles> Yup, these are all of our outstanding minutes.
+21:12 #spi: < Noodles> So assuming they get approved we're up to date.
+21:13 #spi: < bdale> very exciting!
+21:13 #spi: < Noodles> Any questions or can we go straight to vote?
+21:13 #spi: < Ganneff> vote
+21:13 #spi: < zobel> !vote
+21:14 #spi: < bdale> Noodles: 12/9 minutes still show zobel as pres in appendix of current board members, that should be updated?
+21:14 #spi: < bdale> sec, I mean
+21:14 #spi: < bdale> I forget what the effective date of change was supposed to be?
+21:15 #spi: < Hydroxide> december 1
+21:15 #spi: < Ganneff> hey
+21:15 #spi: < zobel> dec 1th
+21:15 #spi: < Ganneff> complaint
+21:15 #spi: < bdale> Ganneff: ?
+21:15 #spi: < Ganneff> the first minutes list me as partly present
+21:15 #spi: < Ganneff> 09/16/09 [22:09:44]< bdale> Ganneff: sign in and vote ... and we won't count you late.  ;-)
+21:15 #spi: < Ganneff>  i was only about 9 mins late, damnit :)
+21:15 #spi:  * Hydroxide encourages everyone (including himself) to read the minutes and give this feedback well in advance next time :)
+21:16 #spi: < bdale> I agree, since you didn't miss any votes you should be counted purely present
+21:16 #spi: < bdale> Hydroxide: indeed
+21:16 #spi: < Ganneff> not that its important, go vote.
+21:16 #spi: < Noodles> The December minutes /should/ list me as secretary, yes.
+21:16 #spi: < Noodles> Voting started, 8 people (bdale,zobel,cdlu,ganneff,noodles,hydroxide,schultmc,luk) allowed to vote on Meeting Minutes for September 16th, 2009. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:16 #spi: < schultmc> !vote yes
+21:16 #spi: < luk> !vote abstain
+21:16 #spi: < Ganneff> !vote yes
+21:16 #spi: < Noodles> !vote yes
+21:16 #spi: < zobel> !vote yes
+21:16 #spi: < Hydroxide> !vote yes
+21:16 #spi: < bdale> !vote yes
+21:17 #spi: < Noodles> cdlue was a yes for this, right?
+21:17 #spi: < schultmc> correct
+21:17 #spi: < zobel> yes
+21:17 #spi: < Noodles> Forced vote yes on cdlu
+21:17 #spi: < bdale> cdlu voted yes, we're done
+21:17 #spi: < Noodles> Current voting results for "Meeting Minutes for September 16th, 2009": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:17 #spi: < Noodles> Voting for "Meeting Minutes for September 16th, 2009" closed.
+21:17 #spi: < zobel> Ganneff: my fault, sorry.
+21:18 #spi: < Noodles> Voting started, 8 people (bdale,zobel,cdlu,ganneff,noodles,hydroxide,schultmc,luk) allowed to vote on Meeting Minutes for October 14th, 2009. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:18 #spi: < luk> !vote yes
+21:18 #spi: < bdale> !vote yes
+21:18 #spi: < schultmc> !vote yes
+21:18 #spi: < zobel> !vote yes
+21:18 #spi: < Hydroxide> !vote yes
+21:18 #spi: < bdale> cdlu voted yes on these too
+21:18 #spi: < Ganneff> !vote yes
+21:18 #spi: < Noodles> !vote yes
+21:18 #spi: < Noodles> Forced vote yes on cdlu
+21:18 #spi: < Noodles> Current voting results for "Meeting Minutes for October 14th, 2009": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:18 #spi: < Noodles> Voting for "Meeting Minutes for October 14th, 2009" closed.
+21:18 #spi:  * Hydroxide requests unanimous consent that ganneff's and bdale's corrections get incorporated into the approved versions of the september and december 2009 minutes, respectively
+21:18 #spi: < Noodles> Hydroxide: I will do so.
+21:18 #spi: < schultmc> consent
+21:18 #spi: < Hydroxide> ok. let's go on
+21:19 #spi: < bdale> Noodles: thanks, I agree
+21:19 #spi: < Noodles> Voting started, 8 people (bdale,zobel,cdlu,ganneff,noodles,hydroxide,schultmc,luk) allowed to vote on Meeting Minutes for December 9th, 2009. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:19 #spi: < Ganneff> !vote yes
+21:19 #spi: < Hydroxide> !vote yes
+21:19 #spi: < schultmc> !vote yes
+21:19 #spi: < luk> !vote yes
+21:19 #spi: < Noodles> !vote yes
+21:19 #spi: < Hydroxide> cdale was an abstain on this one
+21:19 #spi: < Hydroxide> IIRC
+21:19 #spi: < bdale> !vote abstain
+21:19 #spi: < zobel> !vote yes
+21:19 #spi: < Noodles> Forced vote abstain on cdlu
+21:19 #spi: < luk> cdale :-)
+21:19 #spi: < Noodles> Current voting results for "Meeting Minutes for December 9th, 2009": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:19 #spi: < Noodles> Voting for "Meeting Minutes for December 9th, 2009" closed.
+21:19 #spi: < Hydroxide> luk: oh no! bdale's been incremented! :)
+21:20 #spi: < Ganneff> ok. so we are done here, i think?!
+21:20 #spi: < bdale> unless anyone has other agenda items, we're done 
+21:20 #spi: < Ganneff> [item 7, Items up for discussion]
+21:20 #spi: < Ganneff> Doesnt look like one
+21:20 #spi: < Ganneff> [item 8, Any other business]
+21:20 #spi: < Ganneff> Anyone with a topic?
+21:20 #spi: < Hydroxide> we still have to do next meeting time... 20:00 or 21:00?
+21:20 #spi: < zobel> Ganneff: status DOT?
+21:20 #spi: < Ganneff> zobel: i will tell if it goes on
+21:20 #spi: < bdale> next board meeting 2/10 at 20:00 UTC
+21:21 #spi: < Ganneff> come on,t hats item 9
+21:21 #spi: < Ganneff> you impatient lot
+21:21 #spi: < Ganneff> :)
+21:21 #spi: < Ganneff> [item 9, Next board meeting]
+21:21 #spi: < Ganneff> If I am right this will be the February 10th, 2010, 20:00 UTC
+21:21 #spi: < Ganneff> I will not attend this one, I am on VAC there.
+21:21 #spi: < Hydroxide> Ganneff: yes, I typed that before you went in order :)
+21:21 #spi: < Ganneff> Noodles: take regrets from this meeting for the next? :)
+21:21 #spi: < Noodles> Ganneff: Note. :)
+21:21 #spi: < Noodles> Noted IM.
+21:22 #spi: < Ganneff> *GAVEL*

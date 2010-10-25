@@ -1,0 +1,194 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.  
+21:00 #spi: < bdale> This meeting also serves as the annual general meeting required in our bylaws.
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2010/2010-07-14.html
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < linuxpoet> Joshua Drake
+21:00 #spi: < Noodles> Jonathan McDowell
+21:00 #spi: < schultmc> Michael Schultheiss
+21:01 #spi: < bdale> Bdale Garbee
+21:01 #spi: < zobel> Martin Zobel-Helas
+21:01 #spi: < bdale> quorum met, cool
+21:01 #spi: < Hydroxide> Ganneff: poke
+21:01 #spi: < Ganneff> Joerg Jaspert
+21:01 #spi: < bdale> Noodles: actually, when is the new board officially seated?  when it is, we're down to 8, right?
+21:02 #spi: < Noodles> We had a discussion about that earlier. I think it's effective immediately.
+21:02 #spi: < Noodles> And yes, we're down to 8.
+21:02 #spi: < bdale> ok.  so we have 7 present?  who's missing?
+21:03 #spi: < Noodles> cdlue.
+21:03 #spi: < Noodles> s/e//
+21:03 #spi: < Hydroxide> cdlu seems not to be on OFTC ATM
+21:03 #spi: < bdale> ok, then let's proceed
+21:03 #spi: < bdale> [item 3, President's Report]
+21:03 #spi: < bdale> Happy Bastille Day to all of our attendees from France!  I have nothing else new to report today.
+21:03 #spi: < bdale> [item 4, Treasurer's Report]
+21:03 #spi: < bdale> Michael?
+21:03 #spi: < jcristau> heh
+21:03 #spi: < schultmc> standard report is in the agenda
+21:04 #spi: < bdale> looked nominal to me
+21:04 #spi: < schultmc> it's for the month of june 2010 - I haven't yet had a chance to draft an annual report but will do so soon
+21:04 #spi: < schultmc> nothing else to report from me
+21:04 #spi: < bdale> great.  will expect to see that before our next meeting, then.
+21:04 #spi: < bdale> [item 5, Secretary's report]
+21:04 #spi: < bdale> Jonathan?
+21:04 #spi: < Noodles> I'd like to congratulate the 4 re-elected board members.
+21:05 #spi:  * bdale chuckles
+21:05 #spi: < bdale> thanks
+21:05 #spi: < bdale> anything else?
+21:05 #spi: < Ganneff> yeah, bad campaign we had :)
+21:05 #spi: < Noodles> I thought it was a shame that we didn't get enough people to justify a vote, but I'll take the optimistic view and believe that means we're doing a job people are happy with.
+21:05 #spi: < linuxpoet> wait what
+21:05 #spi: < bdale> linuxpoet: read your email today?
+21:06 #spi: < linuxpoet> I get a lot of email
+21:06 #spi: < linuxpoet> just read it
+21:06 #spi: < linuxpoet> huh
+21:06 #spi:  * bdale shrugs
+21:06 #spi: < linuxpoet> well that was easy (/me hits the easy button)
+21:06 #spi: < bdale> I'll echo Noodles' comment
+21:06 #spi: < bdale> [item 6, Outstanding minutes]
+21:06 #spi: < bdale> One set, right Jonathan?
+21:06 #spi: < Noodles> There were a couple of items that Zack (DPL) wanted raised but I believe one (debian.gr) is already in progress and the other I've replied to today as well.
+21:06 #spi: < bdale> ok, cool
+21:06 #spi: < Noodles> Yup, from last month. Has everyone had a chance to look over them?
+21:07 #spi: < Ganneff> go vote :)
+21:07 #spi:  * Hydroxide read them and is ready to approve
+21:07 #spi: < Noodles> Voting started, 7 people (bdale,schultmc,zobel,noodles,hydroxide,linuxpoet,ganneff) allowed to vote on Meeting Minutes, June 9th 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 #spi: < Hydroxide> !vote yes
+21:07 #spi: < Ganneff> !vote yes
+21:07 #spi: < Noodles> !vote yes
+21:07 #spi: < schultmc> !vote yes
+21:07 #spi: < zobel> !vote yes
+21:07 #spi: < bdale> !vote yes
+21:07 #spi: < linuxpoet> !vote abstain
+21:07 #spi: < Noodles> Current voting results for "Meeting Minutes, June 9th 2010": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:07 #spi: < Noodles> Voting for "Meeting Minutes, June 9th 2010" closed.
+21:08 #spi: < bdale> cool, thanks everyone
+21:08 #spi: < bdale> [item 7, Any other business]
+21:08 #spi: < bdale> Since this is our annual general meeting, I now open the floor to a broader audience than usual for any questions.
+21:08 #spi: < bdale> Do any board or contributing members have other items for discussion they would like to address briefly?
+21:08 #spi: < linuxpoet> I dpo
+21:08 #spi: < linuxpoet> do
+21:08 #spi: < bdale> linuxpoet: go
+21:08 #spi: < linuxpoet> PostgreSQL Conference West has been announced and CFP is out http://www.postgresqlconference.org
+21:08 #spi: < linuxpoet> :D
+21:08 #spi: < linuxpoet> that's all
+21:08 #spi: < bdale> linuxpoet: cool, thanks
+21:08 #spi: < bdale> anyone else?
+21:08 #spi:  * Hydroxide moves that, as required by the bylaws, we appoint new officers today
+21:08 #spi: < Noodles> It was suggested before the meeting that we might want to do the officier election tonight.
+21:09 #spi: < Noodles> Snapish.
+21:09 #spi: < jello> bdale: i have something
+21:09 #spi: < Noodles> I believe the existing officers are all prepared to stand again for the same posts.
+21:09 #spi: < bdale> jello: noted, hang on a sec
+21:09 #spi: < Solver> "there are 5 available board positions available" but I see 4 people elected
+21:09 #spi:  * zobel wonders if we should discuss with Debian, if DebConf Money should be listed seperate in the Treasurer's Report...
+21:09 #spi: < Solver> does this mean there is a vacant slot?
+21:09 #spi: < bdale> Solver: the bylaws allow for 8-12 members of the board
+21:09 #spi: < Solver> ah cool
+21:10 #spi: < Ganneff> zobel: debconf is technically not an spi project
+21:10 #spi: < Hydroxide> zobel: from an SPI perspective It's all Debian's.
+21:10 #spi: < bdale> Noodles: so I suggest you call for any additional nominations from the board, and if none are forthcoming, a motion to extend the term of the exiting officers by a year would be in order
+21:10 #spi: < zobel> Ganneff: i know that. but it makes reading that report quite hard.
+21:10 #spi: < Noodles> bdale: Agreed.
+21:10 #spi: < Ganneff> that there is a stading allow from the dpl that certain debconf people can get a sum of money, and that spi handles it seperately elsewhere is being nice, technically
+21:11 #spi: < Noodles> Does any member of the board wish to stand for one of the officer positions, other than those currently in the positions?
+21:11 #spi: < Hydroxide> zobel: a sub-item in the reports might be good
+21:11 #spi: < zobel> Hydroxide: ack
+21:11 #spi:  * Hydroxide is not standing for an officer
+21:11 #spi: < zobel> as i said, we should discuss that with debian.
+21:11 #spi: < Ganneff> with treasurer first :)
+21:12 #spi: < zobel> Ganneff: ack.
+21:12 #spi:  * Hydroxide nods. a related discussion is planned to occur already during dc10, and I can mention that one. (schultmc will be there too)
+21:12 #spi: < bdale> as will I
+21:12 #spi: < zobel> Noodles: /me not at the moment. if Marc is a bit bigger i might step up again for Secretary at one point.
+21:12 #spi:  * Hydroxide nods at bdale
+21:13 #spi: < Hydroxide> as will Noodles, probably :)
+21:13 #spi: < Ganneff> seems noone wants to take any officer position
+21:13 #spi: < Noodles> linuxpoet?
+21:13 #spi: < bdale> linuxpoet: you're the only board member present not an existing officer who hasn't said anything.  want to run for a seat?
+21:13 #spi: < Ganneff> besides those who have em already
+21:13 #spi: < linuxpoet> The only one I could do (without a conflict of interest) would be secretary and I am not interested. TY.
+21:13 #spi: < Noodles> Damn.
+21:13 #spi: < Noodles> Voting started, 7 people (bdale,schultmc,zobel,noodles,hydroxide,linuxpoet,ganneff) allowed to vote on Extend the current officer (bdale,Ganneff,Noodles,schultmc) terms for an additional year. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:14 #spi: < schultmc> !vote yes
+21:14 #spi: < Ganneff> !vote yes
+21:14 #spi: < Noodles> !vote yes
+21:14 #spi: < Hydroxide> !vote yes
+21:14 #spi: < linuxpoet> !vote yes
+21:14 #spi: < bdale> !vote yes
+21:14 #spi: < zobel> !vote yes
+21:14 #spi: < Noodles> Current voting results for "Extend the current officer (bdale,Ganneff,Noodles,schultmc) terms for an additional year": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:14 #spi: < Noodles> Voting for "Extend the current officer (bdale,Ganneff,Noodles,schultmc) terms for an additional year" closed.
+21:14 #spi: < linuxpoet> crying kids
+21:14 #spi: < bdale> ok, great.  thanks to everyone for the votes of confidence both in the board election and officer election processes
+21:14 #spi: < linuxpoet> afk
+21:14 #spi: < bdale> jello: go
+21:15 #spi: < jello> i'm a bit concerned about the interest rate that SPI is receiving on the assets it holds
+21:15 #spi: < bdale> and, anyone else with questions for me or the rest of the board, now is a good time
+21:15 #spi: < jello> interest income on the last report is $6.77
+21:15 #spi: < jello> on assets of $192,000
+21:16 #spi: < jello> that's miniscule!
+21:16 #spi: < linuxpoet> back
+21:16 #spi: < bdale> schultmc: is this a consequence of reporting intervals or something?
+21:16 #spi: < jello> i think it behooves SPI to find some better alternatives to where the money is kept that will yield a better return
+21:16 #spi: < schultmc> bdale: it's a consequence of poor interest rates
+21:17 #spi: < linuxpoet> jello: I believe one of the issues is that we (currently) have a zero risk interest rate
+21:17 #spi: < schultmc> but as a non-profit SPI needs to be wary of unrelated business income
+21:17 #spi: < jello> we should be able to get over 1% on that sum of money
+21:17 #spi: < jello> with no risk (FDIC insured)
+21:17 #spi: < jello> i know i personally do
+21:17 #spi: < schultmc> a large interest income could potentially cause tax issues
+21:17 #spi: < jello> schultmc: doubtful
+21:17 #spi: < Hydroxide> schultmc: interest income isn't UBIT for c3 orgs
+21:17 #spi: < linuxpoet> schultmc only on the interest itself
+21:17 #spi: < jcristau> there's a ways to go between $6.77 and large
+21:17 #spi: < schultmc> Hydroxide: ah
+21:17 #spi: < jcristau> :)
+21:18 #spi: < bdale> I think it's doubtful, too, as long as it's used appropriately
+21:18 #spi: < schultmc> I can research higher yield accounts
+21:18 #spi: < jello> schultmc: it's the difference between $500/month and $10/month
+21:18 #spi: < jello> which over the course of the year adds up...
+21:18 #spi: < bdale> schultmc: sounds like a good idea
+21:18 #spi: < bdale> jello: yes, thanks for pointing this out.  sometimes the obvious is the hardest to notice in routine reports!
+21:18 #spi: < schultmc> i'm open to suggestions of where to look - please e-mail treasurer@spi-inc.org (or whatever list you feel appropriate)
+21:19 #spi: < jello> schultmc: will do
+21:19 #spi: < bdale> ok, any other topics from any board or contributing members now present?
+21:19 #spi: < bdale> actually, I guess any SPI members, no need to restrict this to contributing that I can think of
+21:20 #spi: < Ganneff> bdale: hey, then they would suddenly be contributing. :)
+21:20 #spi:  * zobel wants to remind that there is Debconf10 in NY starting soon
+21:20 #spi: < jello> here here!
+21:20 #spi:  * Noodles will be there.
+21:20 #spi: < bdale> followed by LinuxCon in Boston the following week.  I will attend both.
+21:20 #spi:  * schultmc will be at DebCOnf10
+21:21 #spi: < Hydroxide> http://debconf10.debconf.org/ and http://debianday.org
+21:21 #spi:  * Ganneff wont be there
+21:21 #spi:  * zobel will not be there this time
+21:21 #spi:  * Hydroxide will be at dc10
+21:21 #spi: < bdale> we'll miss you guys!
+21:21 #spi: < bdale> ok
+21:21 #spi: < Hydroxide> !vote attending :P
+21:21 #spi: < bdale> any other items?
+21:21 #spi: < linuxpoet> in New York?
+21:21 #spi: < linuxpoet> in August!
+21:21 #spi:  * Hydroxide nods at linuxpoet
+21:21 #spi: < Noodles> linuxpoet: Yes.
+21:21 #spi: < bdale> Hydroxide is one of the lead organizers
+21:21 #spi:  * linuxpoet wish he would have seen the call for papers
+21:21 #spi: < jcristau> bdale is one of the lead sponsors :)
+21:21 #spi: < bdale> ok, last call for other items
+21:22 #spi: < bdale> [item 8, Next board meeting]
+21:22 #spi: < bdale> Our next regularly-scheduled monthly meeting should be August 11th at 20:00 UTC.
+21:22 #spi: < bdale> Any strong objections?
+21:22 #spi: < Ganneff> owww
+21:22 #spi: < linuxpoet> none here
+21:22 #spi: < Ganneff> thats the day i am right back from a 16hour flight
+21:22 #spi: < bdale> that will be during LinuxCon, but I don't anticipate any trouble holding the meeting
+21:22 #spi: < Ganneff> so me attending isnt all too likely
+21:23 #spi: < Ganneff> Noodles: preliminary excuse here. :)
+21:23 #spi: < bdale> Ganneff: ok, send regrets if needed
+21:23 #spi: < bdale> ;-)
+21:23 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:23 #spi: < bdale> *GAVEL*

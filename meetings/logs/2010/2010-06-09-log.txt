@@ -1,0 +1,106 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2010/2010-06-09.html
+21:00 #spi: < Hydroxide> the only issue is that's theoretically when we start our election cycle... also theoretically according to our bylaws when we finish our elections, but not according to our resolution, so *shrug* :)
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < Noodles> Jonathan McDowell
+21:00 #spi: < Ganneff> Joerg Jaspert
+21:00 #spi: < bdale> Bdale Garbee
+21:00 #spi: < schultmc> Michael Schultheiss
+21:00 #spi: < bdale> cdlu: poke
+21:00 #spi: < Noodles> Regrets have been received from Joshua D. Drake (linuxpoet)
+21:00 #spi: < zobel> Martin Zobel-Helas
+21:00 #spi: < bdale> cool, quorum met
+21:01 #spi: < Noodles> luk_: poke
+21:01 #spi: < cdlu> David Graham
+21:01 #spi: < bdale> so only luk_ not accounted for?
+21:01 #spi: < Noodles> Yup.
+21:01 #spi: < bdale> ok, let's proceed and perhaps he'll join us
+21:02 #spi: < bdale> [item 3, President's Report]
+21:02 #spi: < bdale> Nothing exciting to report this month.
+21:02 #spi: < bdale> [item 4, Treasurer's Report]
+21:02 #spi: < bdale> Michael?
+21:02 #spi: < schultmc> standard report - nothing unusualy in my opinion
+21:02 #spi: < schultmc> any questions?
+21:02 #spi: < schultmc> s/unusualy/unusual/
+21:02 #spi: < bdale> not from me.  thanks as usual for getting the report out in email prior to the meeting
+21:02 #spi: < zobel> schultmc: only mine from before the meeting, which had been answered.
+21:03 #spi: < bdale> [item 5, Secretary's report]
+21:03 #spi: < bdale> Jonathan?
+21:03 #spi: < Noodles> Nothing much. zobel pointed out last month that he's up for re-election this term as well, so that's a total of 5 seats.
+21:03 #spi: < bdale> ok
+21:04 #spi: < Noodles> I was going to send a heads-up mail to -announce this week to encourage people to think about the election before we open nominations.
+21:04 #spi: < bdale> [item 6, Outstanding minutes]
+21:04 #spi: < bdale> Jonathan?
+21:04 #spi: < bdale> good idea
+21:04 #spi: < Noodles> Voting started, 7 people (hydroxide,noodles,ganneff,bdale,schultmc,cdlu,zobel) allowed to vote on Vote on Meeting Minutes May 19th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:04 #spi:  * Hydroxide read the minutes and is ready to vote to approve them
+21:04 #spi: < schultmc> !vote yes
+21:04 #spi: < cdlu> !vote yes
+21:04 #spi: < Hydroxide> !vote yes
+21:04 #spi: < bdale> !vote yes
+21:04 #spi: < Ganneff> !vote yes
+21:04 #spi: < zobel> !vote yes
+21:04 #spi: < Noodles> !vote yes
+21:04 #spi: < Noodles> Current voting results for "Vote on Meeting Minutes May 19th, 2010": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:04 #spi: < Noodles> Voting for "Vote on Meeting Minutes May 19th, 2010" closed.
+21:04 #spi: < Hydroxide> that's everyone
+21:05 #spi: < bdale> thanks
+21:05 #spi: < bdale> [item 7, Any other business]
+21:05 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:05 #spi: < cdlu> this is the last meeting before the election
+21:05 #spi: < cdlu> is everything on track?
+21:05 #spi: < Noodles> I have appropriate access to the DB and the web interface, so I think so.
+21:05 #spi: < cdlu> ok
+21:05 #spi: < cdlu> and july 1 is the annual report
+21:05 #spi: < cdlu> is that started?
+21:06 #spi: < bdale> I've done nothing about it so far
+21:06 #spi: < bdale> pulling together highlights from the last years minutes and a copy of our latest treasurer's report should suffice?
+21:07 #spi: < cdlu> yep, and a report from all committee
+21:07 #spi: < cdlu> s
+21:07 #spi: < Hydroxide> bdale: in theory it should have 12-month financials instead of 1-month. in theory.
+21:07 #spi: < cdlu> if we have any that are doing anything... membership would probably be it
+21:07 #spi: < Noodles> We can /just/ get away with the AGM on the 14th according to the by-laws.
+21:07 #spi: < cdlu> and we can also ask for contributions from all member projects
+21:07 #spi: < zobel> next regular meeting is July 14th?
+21:07 #spi: < cdlu> if they have any statement to make
+21:07 #spi: < Hydroxide> the bylaws would have details
+21:07 #spi: < cdlu> zobel, no it's july 1 -- annual meeting.
+21:07 #spi: < schultmc> I can aggregate financials into 12-month
+21:07 #spi: < bdale> every time we've planned something more grandiose we've failed to deliver
+21:07 #spi: < zobel> cdlu: yes, but the one after that.
+21:08 #spi: < cdlu> zobel, next one normally wouldn't be until following the election when we select officers and introduce the new board... in august
+21:08 #spi: < bdale> the next regular monthly meeting would be the 14th
+21:08 #spi: < cdlu> we don't normally have two in july iirc
+21:08 #spi: < Noodles> By-laws say up to 2 weeks from the 1st of July.
+21:08 #spi: < cdlu> Noodles, if moved by a holiday
+21:08 #spi: < bdale> I will not be available on the 1st, so as is our custom I'm inclined to ask that we consider rescheduling the annual meeting to coincide with our next regular monthly meeting on the 14th
+21:08 #spi: < cdlu> Canada Day fits :)
+21:08 #spi: < cdlu> bdale, I'd be amenable to that
+21:08 #spi:  * Noodles doesn't mind either way.
+21:09 #spi: < bdale> that's within two weeks and avoids the holiday(s)
+21:09 #spi: < cdlu> july 14 works better for me anyway so that's fine. but annual meeting is meant to be the first, all I was trying to say.
+21:09 #spi: < cdlu> bdale, yep
+21:09 #spi:  * zobel won't be available on July 14th.
+21:09 #spi: < bdale> I don't think we currently have any French board members, so landing on Bastille Day should be ok?
+21:09 #spi: < bdale> ;-)
+21:10 #spi: < bdale> ok, anyway...
+21:10 #spi: < bdale> [item 8, Next board meeting]
+21:10 #spi: < bdale> Our next regularly-scheduled monthly meeting should be July 14th at 20:00 UTC.
+21:10 #spi: < bdale> Any strong objections?
+21:10 #spi: < Noodles> No.
+21:10 #spi: < schultmc> no objections from me
+21:10 #spi: < Hydroxide> ok
+21:10 #spi: < bdale> and let's advertise it in the agenda as being the rescheduled annual meeting too
+21:10 #spi: < Ganneff> go
+21:10 #spi: < Hydroxide> ya
+21:10 #spi:  * zobel will not be available.
+21:10 #spi: < Noodles> bdale: Will do.
+21:10 #spi: < zobel> Noodles: ^
+21:10 #spi: < Noodles> zobel: Noted.
+21:10 #spi: < bdale> let's all coordinate here on IRC to get an annual report together and attached to the agenda?
+21:11 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:11 #spi: < bdale> *GAVEL*

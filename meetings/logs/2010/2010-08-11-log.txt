@@ -1,0 +1,132 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:00 #spi: < bdale> This meeting also serves as the annual general meeting required in our bylaws.
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2010/2010-08-11.html
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < linuxpoet> Joshua D. Drake
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < schultmc> Michael Schultheiss
+21:00 #spi: < Noodles> Jonathan McDowell
+21:00 #spi: < bdale> Bdale Garbee
+21:01 #spi: < schultmc> zobel: ping
+21:01 #spi: < Noodles> Regrets have been received from Joerg Jaspert.
+21:01 #spi:  * Hydroxide will /msg cdlu
+21:01 #spi: < bdale> who else are we missing?
+21:01 #spi: < bdale> ah, right
+21:01 #spi: < Hydroxide> not online
+21:02 #spi: < Hydroxide> what the hell, I've done enough international SMSing over the last month or two, what's one more :) /me SMSes cdlu
+21:02 #spi: < Noodles> zobel was here 15 minutes ago.
+21:03 #spi: < slef> Hydroxide: nonfree but cbfsms or fishtext.com?
+21:03 #spi: < bdale> failing to make quorum today wouldn't be fatal given the agenda, but I'm willing to wait a few
+21:03 #spi: < Hydroxide> if you have his number, feel free to try him. I don't.
+21:03 #spi: < Hydroxide> slef: already sent. it's much less outrageously expensive than international roaming
+21:04 #spi: < bdale> I've run our meetings from some strange places in the past, but I suspect today takes the cake...
+21:04 #spi: < zobel> Martin Zobel-Helas
+21:04 #spi: < bdale> cool!
+21:04 #spi: < slef> bdale?
+21:04 #spi: < Noodles> Sweet. I was just attempting to SMS.
+21:04 #spi: < bdale> [item 3, President's Report]
+21:04 #spi: < Hydroxide> yay, quorum
+21:04 #spi: < bdale> Hello from the front row of the audience at Eben Moglen's keynote at LinuxCon in Boston!  My attention is thus somewhat divided.  Nothing else particular to report today.
+21:05 #spi: < zobel> sorry for being late, left my laptop charger at work, needed to find my old thinkpad charger....
+21:05 #spi: < bdale> [item 4, Treasurer's Report]
+21:05 #spi: < bdale> Michael?
+21:05 #spi: < schultmc> A standard report was e-mailed out a few hours ago - I'm not sure if Noodles had a chance to put it in the agenda
+21:05 #spi: < Hydroxide> it's there
+21:05 #spi: < bdale> I saw it in my inbox, but haven't read it yet.  anything unusual?
+21:06 #spi: < schultmc> DebConf10 was recently held in NYC thus Debian's balance is affected by the conference costs
+21:06 #spi: < Noodles> There was a comment about a double charge for Debian?
+21:06 #spi: < schultmc> nothing else of note
+21:06 #spi: < schultmc> Noodles: yes - the customs charge for the DebConf video team items was double billed
+21:06 #spi: < schultmc> the extra charge has already been credited back
+21:06 #spi: < bdale> cool
+21:06 #spi: < bdale> anything else?
+21:06 #spi: < schultmc> but since it was credited in august, I didn't note it in the july report
+21:06 #spi: < Noodles> Fine.
+21:06 #spi: < schultmc> nothing else from me
+21:06 #spi:  * Hydroxide has no other questions
+21:06 #spi: < bdale> [item 5, Secretary's report]
+21:06 #spi: < bdale> Jonathan?
+21:07 #spi: < Noodles> Nothing in particular. I took a brief look at moving the website to ikiwiki while at DebConf, but fell down on trying to export from Plone in any useful fashion.
+21:07 #spi: < bdale> I'll be home for a couple weeks, perhaps we can get together and have a look at it next week?
+21:08 #spi: < Noodles> Next week I'm moving continent. Not expecting much free time.
+21:08 #spi: < linuxpoet> I have a question about that (the website) shoudl I wait?
+21:08 #spi: < bdale> go ahead and ask
+21:08 #spi: < bdale> Noodles: ok, later then
+21:09 #spi: < linuxpoet> I know we decided on ikiwiki but we have had pretty much zero traction on it. I know we have some anti-php people here, but I can push a Drupal site in a weekend. it won't have *all* the content but the capabilities are enormous and solves pretty much everything we need from blogging, to e-commerce, to role based content creation etc...
+21:09 #spi: < linuxpoet> I manage four drupal sites in production and there is zero way I could do it with any other platform I can think of
+21:09 #spi: < bdale> the problem is getting the data out of Plone, I think, not a concern about what we're going to.  I could have an ikiwiki+git site set up in a couple hours...
+21:09 #spi: < Noodles> I'm not /that/ anti-PHP but I'd really love something that means I can copy an agenda/meeting template around, edit with vi, and push. Can I do that with Drupal?
+21:10 #spi: < Hydroxide> linuxpoet: I'd be fine with that, though I would say that if we go to a Drupal-based thing at all we should probably go to CiviCRM which has useful features for nonprofits like member management and donation integration
+21:10 #spi: < linuxpoet> bdale: that's my point, the content is if anything just copy and paste if required (with a little formatting touch)
+21:10 #spi: < bdale> we should probably push this conversation outside the meeting since no board action is required
+21:10 #spi:  * zobel just saw one more php box opened today... please, can we have no PHP?!
+21:10 #spi: < linuxpoet> Noodles: well you would "paste" with drupal but other than that sure
+21:10 #spi: < Hydroxide> linuxpoet: however I don't plan to stand in the way of anyone doing the work
+21:11 #spi: < linuxpoet> Noodles: or create a custom pgsql function via a vim script (which would work too)
+21:11 #spi: < bdale> [item 6, Outstanding minutes]
+21:11 #spi: < bdale> One set, right Jonathan?
+21:11 #spi:  * Hydroxide agrees with bdale that it's out of scope for the board meeting. take it up with the secretary :)
+21:11 #spi: < Noodles> Yes. Last months.
+21:11 #spi: < Noodles> I hope people have looked at them properly. I wrote them after being up for 30+ hours getting home from DebConf.
+21:11 #spi:  * Hydroxide just read it a few moments ago and is ready to vote to approve
+21:12 #spi: < bdale> I skimmed only, but they look ok to me
+21:12 #spi: < Noodles> Voting started, 2 people (meeting minutes, july 11th 2010) allowed to vote on bdale,zobel,Hydroxide,linuxpoet,schultmc,Noodles. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:12 #spi: < Noodles> Gah.
+21:12 #spi: < Noodles> Sorry, wrong way round.
+21:12 #spi: < Noodles> Current voting results for "bdale,zobel,Hydroxide,linuxpoet,schultmc,Noodles": Yes: 0, No: 0, Abstain: 0, Missing: 2 (  july 11th 2010  meeting minutes )
+21:12 #spi: < Noodles> Voting for "bdale,zobel,Hydroxide,linuxpoet,schultmc,Noodles" closed.
+21:12 #spi:  * Hydroxide grins in amused sympathy
+21:13 #spi: < Noodles> Voting started, 6 people (bdale,zobel,hydroxide,linuxpoet,schultmc,noodles) allowed to vote on Meeting minutes, July 14th 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:13 #spi: < schultmc> !vote yes
+21:13 #spi: < zobel> !vote yes
+21:13 #spi: < Hydroxide> !vote yes
+21:13 #spi: < bdale> !vote yes
+21:13 #spi: < linuxpoet> !vote yes
+21:13 #spi: < Noodles> You'd think I could work the voting script by now.
+21:13 #spi: < Noodles> !vote yes
+21:13 #spi: < Noodles> Current voting results for "Meeting minutes, July 14th 2010": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:13 #spi: < Noodles> Voting for "Meeting minutes, July 14th 2010" closed.
+21:13 #spi: < bdale> great.  thanks!
+21:13 #spi: < bdale> [item 7, Any other business]
+21:13 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:13 #spi: < bdale> We had an email from the DPL about the idea of sustaining membership, is anyone prepared to talk to that or should we discuss in email and revisit next month?
+21:14 #spi: < Noodles> I wondered if it required more from us than continuous card authority bits?
+21:14 #spi:  * schultmc can speak briefly on it
+21:14 #spi: < zobel> bdale: we also have that debian.eu domain thing pending.
+21:14 #spi: < bdale> schultmc: go
+21:14 #spi: < bdale> zobel: right, any update
+21:14 #spi: < schultmc> our payment processors already allow recurrent charges (and some donors already select that option)
+21:14 #spi: < bdale> ?
+21:14 #spi: < Noodles> I think we needed to draft a letter to the current owner re debian.eu
+21:15 #spi: < bdale> schultmc: ah, so could be mostly an issue of documenting that ?  do we need a status badge or something to go with it?
+21:15 #spi: < zobel> bdale: i asked for a native english speaker to mail them during the last board meeting.
+21:15 #spi: < zobel> IIRC
+21:15 #spi: < schultmc> bdale: a status badge or some other documentation/acknowledgement/encouragement of recurring donations would be useful
+21:15 #spi: < Noodles> zobel: I think you asked on board@ rather than IRC.
+21:16 #spi: < bdale> schultmc: ok, let's come up with something before next meeting?
+21:16 #spi: < Noodles> (I had intended to draft one and didn't.)
+21:16 #spi: < schultmc> bdale: ok
+21:16 #spi: < bdale> Noodles: can you take ownership for following up on that?
+21:16 #spi: < Noodles> I can, but I can't promise a quick response over the next few weeks.
+21:17 #spi: < bdale> Noodles: understood.  should someone else take it?  not clear to me that I'd be of great help here without a back-fill on details or I'd offer to.
+21:17 #spi: < Noodles> I'll see what I can do; I'm probably the native English speaker with most experience of dealing with .eu, even if it's a few years old now.
+21:18 #spi: < bdale> ok, thanks.  ask if you need help.
+21:18 #spi: < bdale> any other items?
+21:18 #spi: < bdale> [item 8, Next board meeting]
+21:18 #spi: < bdale> Our next regularly-scheduled monthly meeting should be September th at 20:00 UTC.
+21:18 #spi: < bdale> Any strong objections?
+21:18 #spi: < linuxpoet> yeah
+21:18 #spi: < linuxpoet> there is no date
+21:18 #spi: < schultmc> September what?
+21:18 #spi: < Noodles> There's a missing 8 there. :)
+21:18 #spi: < bdale> ugh .. sorry, typo
+21:19 #spi:  * Hydroxide has no objection to September 8th at 20:00 UTC
+21:19 #spi: < linuxpoet> wfm
+21:19 #spi: < bdale> anyone else?
+21:19 #spi: < Noodles> Should be fine.
+21:19 #spi: < bdale> it should be ok for me
+21:19 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:19 #spi: < bdale> *GAVEL*

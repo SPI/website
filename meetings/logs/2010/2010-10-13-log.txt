@@ -1,0 +1,151 @@
+21:06 #spi: < Ganneff> *GAVEL*
+21:06 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order. The agenda is at http://www.spi-inc.org/secretary/agenda/2010/2010-10-13.html
+21:06 #spi: < Ganneff> [item 2, Roll Call]
+21:06 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to noodles if you wish your attendance to be recorded in the minutes of this meeting
+21:06 #spi: < cdlu> bdale acks, but in /msg
+21:06 #spi: < bdale> I'm here
+21:06 #spi: < Noodles> Jonathan McDowell
+21:06 #spi: < bdale> sorry for being late, I failed to anticipate the conf network going down before meeting time
+21:06 #spi: < Hydroxide> Hi.
+21:06 #spi: < Ganneff> bdale: what a timing...
+21:06 #spi: < Hydroxide> Jimmy Kaplowitz
+21:06 #spi: < zobel> Martin Zobel-Helas
+21:06 #spi: < bdale> Bdale Garbee
+21:06 #spi: < cdlu> David Graham
+21:06 #spi: < Ganneff> bdale: fine, take over :)
+21:06 #spi: < Ganneff> Joerg Jaspert
+21:06 #spi: < bdale> Ganneff: I can take over, if you'd like
+21:07 #spi: < schultmc> Michael Schultheiss
+21:07 #spi: < zobel> quorum
+21:08 #spi: < Noodles> Just missing linuxpoet?
+21:08 #spi: < Hydroxide> yeah
+21:08 #spi: < schultmc> yes
+21:08 #spi: < zobel> yes, seems so, though he mailed a few hours ago
+21:08 #spi: < Hydroxide> shall we proceed? nothing particularly controversial on the agenda and we have 7 of the 8
+21:09 #spi: < zobel> ack.
+21:09 #spi: < bdale> so it would seem
+21:09 #spi: < bdale> let's proceed, perhaps he'll join
+21:09 #spi: < bdale> [item 3, President's Report]
+21:09 #spi: < bdale> Spurred by renewed discussion about the state of our existing web site last week, on Friday I personally started the process of creating the long-discussed
+21:09 #spi: < bdale> ikiwiki+git+markdown replacement.  Thanks to help from Noodles who contributed a draft of the projects tree, there's enough content now to give at least an
+21:09 #spi: < bdale> initial idea of where we're going.  I would be pleased to have help getting the rest of the content we care about moved over.  The best approach I've found
+21:09 #spi: < bdale> is screen-scraping with httrack, then manual translation to markdown syntax.  Content in the new structure is licensed CC-by-SA 3.0, and patches that help us
+21:09 #spi: < bdale> populate the rest of the relevant content would be appreciated!  Ganneff is preparing server resources to host the new site when we're ready to switch over.
+21:09 #spi: < bdale> In the meantime, the prototype is online at spi.gag.com, backed by the web/spi repository at git.gag.com.
+21:09 #spi: < bdale> questions or comments?
+21:10 #spi: < Noodles> I'm going to look at moving to getting some meetings info sorted next, possibly just 2010 to start with to get an idea of structure.
+21:10 #spi: < jcristau> one comment: \o/
+21:10 #spi: < Hydroxide> yay progress. :)
+21:10 #spi:  * bdale is on some apparently very-laggy 3G networking at the moment
+21:11 #spi: < bdale> [item 4, Treasurer's Report]
+21:11 #spi: < bdale> Michael?
+21:11 #spi: < Ganneff> im happy to get rid of the plone fuckup. :)
+21:11 #spi: < cdlu> bdale, spi.gag.com appeals to me with its practical structure and lack of eye candy :)
+21:11 #spi: < schultmc> a standard report was emailed out yesterday
+21:11 #spi: < schultmc> the yafaray negative balance is due to pre-purchased travel to the Google Summer of Code Mentor Summit.  Google is reimbursing SPI for that travel
+21:12 #spi: < schultmc> </end>
+21:12 #spi: < slef> Ganneff: careful, you'll get hate mail.
+21:12 #spi: < Ganneff> Noodles: btw, some things in /secretary (certs and stuff) i think of taking into some /admin or something
+21:12 #spi: < bdale> schultmc: thanks .. I read the report, didn't see anything unusual
+21:12 #spi: < bdale> Ganneff: I agree
+21:12 #spi: < bdale> [item 5, Secretary's report]
+21:12 #spi: < bdale> Jonathan?
+21:12 #spi: < Ganneff> slef: i dont care.
+21:13 #spi: < Noodles> I don't think I have much to report. One resolution re sidux renaming to discuss. I also had contact from MJ Ray representing spi-trademark.
+21:13 #spi: < Noodles> But I think it was actually a comment that was largely directed more at the DPL than SPI; that he consider adopting http://wiki.mako.cc/TrademarkFreedom
+21:14 #spi: < Hydroxide> Noodles: we may have to eventually vote to approve some policy, but I agree that Debian should take the lead internally on determining what it wants its policy to be.
+21:14 #spi: < Noodles> I think it's a matter for individual projects more than us to dictate personally.
+21:14 #spi: < Hydroxide> right.
+21:14 #spi:  * bdale notes that he hopes several things get "simpler" on the new site, including finding meeting schedules, agendas, and how to join SPI
+21:15 #spi: < bdale> I agree.  ok, thanks
+21:15 #spi: < bdale> [item 6, Outstanding minutes]
+21:15 #spi: < bdale> I believe we have two sets to vote on today.  Is that correct Jonathan?
+21:15 #spi: < Noodles> Yes, which will once again bring us up to date.
+21:15 #spi: < bdale> cool
+21:15 #spi: < Noodles> Anyone have any queries or can we move straight to a vote?
+21:15 #spi:  * cdlu is prepared to vote
+21:16 #spi: < zobel> vote
+21:16 #spi:  * Hydroxide prepared to vote as well
+21:16 #spi: < Noodles> Voting started, 7 people (noodles,ganneff,hydroxide,zobel,bdale,cdlu,schultmc) allowed to vote on Meeting minutes for Wednesday, 11th August 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:16 #spi: < schultmc> !vote yes
+21:16 #spi: < Ganneff> !vote abstain
+21:16 #spi: < Noodles> !vote yes
+21:16 #spi: < cdlu> !vote abstain
+21:16 #spi: < Hydroxide> !vote yes
+21:16 #spi: < bdale> !vote yes
+21:16 #spi: < zobel> !vote yes
+21:16 #spi: < Noodles> Current voting results for "Meeting minutes for Wednesday, 11th August 2010": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+21:16 #spi: < Noodles> Voting for "Meeting minutes for Wednesday, 11th August 2010" closed.
+21:16 #spi: < Noodles> Voting started, 7 people (noodles,ganneff,hydroxide,zobel,bdale,cdlu,schultmc) allowed to vote on Meeting minutes for Wednesday, 8th September 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:16 #spi: < cdlu> !vote yes
+21:16 #spi: < Noodles> !vote yes
+21:16 #spi: < Ganneff> !vote yes
+21:16 #spi: < schultmc> !vote yes
+21:17 #spi: < bdale> !vote yes
+21:17 #spi: < zobel> !vote abstain
+21:17 #spi: < Hydroxide> !vote yes
+21:17 #spi: < Noodles> Current voting results for "Meeting minutes for Wednesday, 8th September 2010": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:17 #spi: < Noodles> Voting for "Meeting minutes for Wednesday, 8th September 2010" closed.
+21:17 #spi: < bdale> thanks
+21:18 #spi: < bdale> [item 7, Items up for discussion]
+21:18 #spi: < bdale> [item 7.1, SPI resolution 2010-10-11.jmd.1 (Recognition of sidux name change)
+21:18 #spi: < bdale> This seems quite simple to me.  Any discussion before we proceed to a vote?
+21:18 #spi: < Ganneff> go vote
+21:18 #spi: < Noodles> Voting started, 7 people (noodles,ganneff,hydroxide,zobel,bdale,cdlu,schultmc) allowed to vote on SPI resolution 2010-10-11.jmd.1 (Recognition of sidux name change). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:18 #spi: < schultmc> !vote yes
+21:18 #spi: < cdlu> !vote yes
+21:18 #spi: < Noodles> !vote yes
+21:18 #spi: < Hydroxide> !vote yes
+21:18 #spi: < zobel> !vote yes
+21:18 #spi: < Ganneff> !vote yes
+21:19 #spi: < bdale> !vote yes
+21:19 #spi: < Noodles> Current voting results for "SPI resolution 2010-10-11.jmd.1 (Recognition of sidux name change)": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:19 #spi: < Noodles> Voting for "SPI resolution 2010-10-11.jmd.1 (Recognition of sidux name change)" closed.
+21:19 #spi: < bdale> [item 8, Any other business]
+21:19 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:19 #spi: < cdlu> FYI - OFTC is in the midst of annual elections.
+21:20 #spi: < Noodles> I suspect if linuxpoet was here he'd like to remind us all that PostgreSQL West is on at the start of next month.
+21:20 #spi: < zobel> i sent a draft re debian.eu. i will reword it with the suggestions which came in today.
+21:20 #spi: < Ganneff> (and as usual the elections go via mail of spi and are boring as hell) :)
+21:20 #spi: < Noodles> (https://www.postgresqlconference.org/, Nov 2nd-4th, San Francisco)
+21:20 #spi: < Ganneff> (weeks of wait)
+21:20 #spi: < Hydroxide> cool
+21:20 #spi: < bdale> I'll mention in passing that I spoke to Bradley Kuhn yesterday, congratulating him on the new role announced for him as soom-to-be paid exec director for the conservancy.  the relationship between SPI and the conservancy is good, and we'll do our best to make sure it stays that way, pointing projects to whichever is the better "hosting organization"
+21:21 #spi: < Hydroxide> \o/
+21:21 #spi: < bdale> it's fairly clear that they intend to continue to offer/provide a more active role with projects than we take, so I think this will be easy
+21:22 #spi: < bdale> anything else?
+21:22 #spi: < Hydroxide> bdale: it would be good to document some guidelines or heuristics to choose between them, either for board+conservancy use or for public use
+21:22 #spi: < cdlu> not from me 
+21:22 #spi: < bdale> Hydroxide: yes, we talked about that, and once we get our web site cut over, I hope we can work on that
+21:22 #spi: < Hydroxide> bdale: great
+21:22 #spi:  * Hydroxide hsa nothing else for the AOB item
+21:22 #spi: < bdale> ok
+21:23 #spi: < bdale> [item 9, Next board meeting]
+21:23 #spi: < bdale> Our next regularly-scheduled monthly meeting should be 10 November at 20:00 UTC.  Any strong objections?
+21:23 #spi: < cdlu> sounds good to me.
+21:23 #spi: < Noodles> No, the time zone change should mean it's fine for me again.
+21:23 #spi: < zobel> 2100 UTC please
+21:23 #spi:  * Hydroxide just points out that daylight saving / summer time will have ended by then
+21:23 #spi: < Noodles> I can't do 2100UTC.
+21:23 #spi: < cdlu> that will be after the end of daylight savings in north america iirc
+21:23 #spi: < Noodles> I keep having to miss staff meetings.
+21:23 #spi: < Hydroxide> heh, zobel + Noodles battle royale :-)
+21:23 #spi: < bdale> I may be on an airplane then, don't know yet, but will try to avoid having to miss the meeting
+21:23 #spi: < cdlu> don't planes have wifi yet? :)
+21:23 #spi: < Hydroxide> cdlu: some do :)
+21:24 #spi: < cdlu> not the last one I was in
+21:24 #spi: < zobel> i can try 2000 UTC, but i can't promise
+21:24 #spi: < Noodles> I could do 2200UTC.
+21:24 #spi: < bdale> the ones my employer will pay for me to fly on mostly don't
+21:24 #spi:  * Hydroxide could only sometimes do 2200 UTC on wednesdays, not routinely
+21:24 #spi: < bdale> zobel/Noodles: so if you guys are going to arm-wrestle, I'll vote to leave the time as it is
+21:24 #spi:  * cdlu can do pretty much any time at the moment
+21:24 #spi: < Noodles> bdale: Agreed.
+21:25 #spi:  * Hydroxide proposes that we decide to stick with 20:00 UTC for November and also use email and/or an online poll to determine a better time for December-February
+21:25 #spi: < Ganneff> date -d @1289419200
+21:25 #spi: < cdlu> 20:30Z - compromise
+21:25 #spi: < bdale> good plan
+21:25 #spi: < zobel> Hydroxide: that sounds good.
+21:25 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:25 #spi: < Ganneff> that would be 20utc that 10 november, in whatever your tz is
+21:25 #spi: < bdale> *GAVEL*

@@ -1,0 +1,162 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2010/2010-05-19.html
+21:00 #spi: < zobel> mh, what is 'reissuance'?
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < Noodles> Jonathan McDowell
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < zobel> Martin Zobel-Helas
+21:00 #spi: < Ganneff> Joerg Jaspert
+21:00 #spi: < bdale> Bdale Garbee
+21:00 #spi: < schultmc> Michael Schultheiss
+21:00 #spi: < linuxpoet> Joshua Drake
+21:00 #spi: < bdale> cool, quorum met .. who's missing .. luk_ ?
+21:00 #spi: < Noodles> cdlu.
+21:00 #spi: < zobel> looks like, yes.
+21:01 #spi: < Hydroxide> zobel: reissuance means it was issued a second time.
+21:01 #spi: < Noodles> cdlu was here earlier.
+21:01 #spi: < bdale> any regrets received?
+21:01 #spi: < zobel> ah.
+21:01 #spi: < Hydroxide> Noodles: cdlu responds best to /msg
+21:01 #spi: < cdlu> HERE
+21:01 #spi: < cdlu> David Graham
+21:01 #spi: < Hydroxide> hi :)
+21:01 #spi: < zobel> luk_: ^
+21:01 #spi: < Noodles> bdale: No regrets received.
+21:02 #spi: < bdale> ok, with 8/9 of us here, I suggest we proceed.
+21:02 #spi: < zobel> Hydroxide: neither google translator, nor dict.leo.org new that word, thus asking. thx for clarifing.
+21:02 #spi:  * Hydroxide agrees
+21:02 #spi: < bdale> [item 3, President's Report]
+21:02 #spi: < bdale> My apologies to all for missing the last board meeting as the result of time-zone confusion.  Thank you Joerg for carrying on in my absence!
+21:02 #spi: < zobel> s/new/knew/
+21:02 #spi: < bdale> I'm thrilled to report that we have a working arrangement by which SPI associated projects (and other worthwhile projects like kernel.org) can
+21:02 #spi: < bdale> obtain a deep discount on server and storage hardware from HP.  The process we ended up with is *not* the one we started out trying to make work...
+21:02 #spi: < bdale> Rather than resolve the issues we raised with having SPI sign the standard partner contract, since we didn't really want the "other benefits"
+21:02 #spi: < bdale> that motivated most of the unpleasnt-to-us contract terms, the HP server business unit instead proposed to just give us the same discount directly.
+21:02 #spi: < bdale> This is a wonderful result, and orders have already been placed by SPI on behalf of Debian and by kernel.org under the new process.  Any SPI
+21:02 #spi: < bdale> associated project that wants to take advantage of this should send me an email requesting details on how to start the process.
+21:03 #spi: < bdale> any questions or comments?
+21:03 #spi: < Noodles> That's excellent news.
+21:03 #spi: < Hydroxide> just my thanks for doing the work to put in place this great arrangement.
+21:03 #spi: < bdale> ok, let's move on then
+21:03 #spi: < bdale> [item 4, Treasurer's Report]
+21:03 #spi: < bdale> Michael?
+21:03 #spi: < schultmc> A standard report is in the agenda
+21:04 #spi: < bdale> I saw it added at the last minute, but haven't studied it yet.  anything note-worthy?
+21:04 #spi: < schultmc> things of note: SPI's 2009 Form 990 (IRS form) has been filed
+21:04 #spi: < bdale> good to hear
+21:04 #spi: < linuxpoet> Good
+21:04 #spi: < schultmc> also, SPI's credit card processing has been expedited
+21:04 #spi: < linuxpoet> explain
+21:04 #spi: < linuxpoet> please
+21:04 #spi: < schultmc> i.e. funds are direct deposited 2-3 days after the donation
+21:04 #spi: < bdale> what does that mean?  less delay in posting donations?
+21:04 #spi: < bdale> cool
+21:04 #spi: < schultmc> rather than waiting for a check once a month
+21:04 #spi: < Hydroxide> schultmc: I thought that was mentioned last month? still good news
+21:05 #spi: < linuxpoet> Ahh
+21:05 #spi: < linuxpoet> good
+21:05 #spi: < bdale> anything else?
+21:05 #spi: < schultmc> that should alleviate the percieved negative balances in some recent reports as the pledged donations are deposited
+21:05 #spi: < schultmc> nothing else from me
+21:05 #spi: < Hydroxide> great
+21:05 #spi: < bdale> cool.  and thanks!
+21:05 #spi: < bdale> [item 5, Secretary's report]
+21:05 #spi: < bdale> Jonathan?
+21:06 #spi: < Noodles> Nothing from me. I've had some converations with Zack but I believe he's going to email -board for a fuller discussion at some point.
+21:06 #spi: < schultmc> Hydroxide: it was but it actually went into affect in this reporting period
+21:06 #spi: < Hydroxide> schultmc: ok
+21:06 #spi: < schultmc> effect?
+21:06 #spi:  * Hydroxide nods :)
+21:06 #spi: < bdale> Noodles: ok, cool
+21:06 #spi: < bdale> [item 6, Outstanding minutes]
+21:06 #spi: < bdale> Jonathan?  Just last month's to approve today, right?
+21:07 #spi: < Noodles> That's all that's outstanding, yes.
+21:07 #spi: < Noodles> Voting started, 0 people () allowed to vote on Meeting Minutes for April 14th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 #spi: < bdale> any discussion?
+21:07 #spi: < bdale> !vote abstain
+21:07 #spi: < Ganneff> !vote yes
+21:07 #spi: < Hydroxide> Noodles: empty nick list
+21:07 #spi: < cdlu> not from me
+21:07 #spi: < Noodles> Hmmm. So much for it not needing a nick list. :P
+21:07 #spi: < cdlu> !vote yes
+21:07 #spi: < Hydroxide> !vote yes
+21:07 #spi: < zobel> !vote yes
+21:07 #spi: < linuxpoet> !vote abstain
+21:07 #spi: < Noodles> !vote yes
+21:07 #spi: < schultmc> !vote yes
+21:08 #spi: < Noodles> Current voting results for "Meeting Minutes for April 14th, 2010": Yes: 0, No: 0, Abstain: 0, Missing: 0 ()
+21:08 #spi: < Noodles> Voting for "Meeting Minutes for April 14th, 2010" closed.
+21:08 #spi: < Noodles> Bah. Sorry. I'll rerun.
+21:08 #spi: < linuxpoet> Noodles: that's incorrect
+21:08 #spi: < bdale> looks like 6 yes, 2 abstain, 1 not present
+21:08 #spi: < Noodles> Voting started, 8 people (bdale,ganneff,cdlu,zobel,hydroxide,linuxpoet,noodles,schultmc) allowed to vote on Meeting Minutes for April 14th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:08 #spi: < Noodles> !vote yes
+21:08 #spi: < Hydroxide> !vote yes
+21:08 #spi: < Ganneff> !vote yes
+21:08 #spi: < zobel> !vote yes
+21:08 #spi: < bdale> !vote abstain
+21:08 #spi: < linuxpoet> !vote abstain
+21:09 #spi: < cdlu> !vote yes
+21:09 #spi: < schultmc> !vote yes
+21:09 #spi: < Noodles> Current voting results for "Meeting Minutes for April 14th, 2010": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:09 #spi: < Noodles> Voting for "Meeting Minutes for April 14th, 2010" closed.
+21:09 #spi: < bdale> great, thanks!
+21:09 #spi: < bdale> [item 7, Any other business]
+21:09 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:09 #spi: < Hydroxide> one thing
+21:09 #spi: < bdale> Hydroxide: go
+21:09 #spi:  * cdlu . o O ( election )
+21:10 #spi: < Hydroxide> I just want to congratulate zack aka Stefano Zacchiroli on his election as DPL (Debian Project Leader) since the last SPI board meeting.
+21:10 #spi: < Hydroxide> that's all.
+21:10 #spi: < bdale> Hydroxide: good point... did I see him join the channel?
+21:10 #spi: < Ganneff> yes
+21:10 #spi: < Hydroxide> I dunno, but he did
+21:10 #spi: < bdale> zack: welcome!
+21:10 #spi: < bdale> cdlu: oh, right.  logistics?
+21:11 #spi: < cdlu> bdale, secretary's job
+21:11 #spi: < Noodles> I spoke to Maulkin about what was required from my PoV.
+21:11 #spi: < cdlu> secretary, spoken to maulkin about voting machinery?
+21:11 #spi: < cdlu> ok :)
+21:11 #spi: < cdlu> are we on track?
+21:11 #spi: < Noodles> The answer seems to be "psql magic"; I don't seem to have access to the appropriate db at present but I'll talk to Ganneff after the meeting.
+21:11 #spi: < bdale> whose terms are up this year?
+21:11 #spi: < bdale> mine, I think?
+21:12 #spi: < bdale> or not, I lose track
+21:12 #spi: < Noodles> bdale,Ganneff,luk_,linuxpoet.
+21:12 #spi: < schultmc> bdale, joerg, luk, linuxpoet
+21:12 #spi: < bdale> ok
+21:12 #spi: < schultmc> s/joerg/Ganneff/
+21:12 #spi: < bdale> Noodles: what's our time line?
+21:13 #spi: < Noodles> I think traditionally it's quite short; nominations the first couple of weeks of July, election the last couple.
+21:13 #spi: < cdlu> july 1-13 nominations, 15-29 voting iirc
+21:13 #spi: < cdlu> with the 14th for the secretary to make everything work
+21:13 #spi: < Noodles> I don't have the exact details to hand to quote, but that sounds roughly right.
+21:13 #spi: < bdale> ok
+21:13 #spi: < Hydroxide> for the record, I currently have no plans to resign before the end of my term in 2011, but I also don't plan to seek an officer position for 2010-2011
+21:13 #spi: < bdale> fwiw, I do intend to stand for re-election.
+21:14 #spi: < cdlu> bdale, draft up your platform :)
+21:14 #spi:  * Ganneff too
+21:14 #spi: < bdale> ok
+21:14 #spi: < bdale> so we should expect emails before our next board meeting
+21:14 #spi: < Ganneff> (not for president :) )
+21:14 #spi: < bdale> anything else?
+21:15 #spi: < bdale> [item 8, Next board meeting]
+21:15 #spi: < bdale> Our next regularly-scheduled monthly meeting should be June 9th at 20:00 UTC.
+21:15 #spi: < bdale> Any strong objections?
+21:15 #spi: < bdale> I think that will work for me
+21:15 #spi: < linuxpoet> I will be in Chicago
+21:15 #spi: < cdlu> for reference: http://www.spi-inc.org/corporate/resolutions/2004-06-01-dbg.2/
+21:15 #spi: < linuxpoet> regrets now
+21:15 #spi: < cdlu> is the rules for elections
+21:15 #spi: < cdlu> no objection to june 9
+21:15 #spi:  * Hydroxide will likely be free for june 9
+21:15 #spi: < Noodles> June 9 works for me.
+21:15 #spi: < bdale> cdlu: thanks for the pointer
+21:15 #spi: < linuxpoet> could someone acknowledge my regrets :)
+21:15 #spi: < Noodles> linuxpoet: Noted.
+21:16 #spi:  * zobel might not be there next month, but unknown yet.
+21:16 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:16 #spi: < bdale> *GAVEL*

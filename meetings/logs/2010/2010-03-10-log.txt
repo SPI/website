@@ -1,0 +1,125 @@
+20:00 #spi: < bdale> *GAVEL*
+20:00 #spi: < linuxpoet> WTH is that?
+20:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/secretary/agenda/2010/2010-03-10.html
+20:00 #spi: < bdale> [item 2, Roll Call]
+20:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 #spi: < cdlu> David Graham
+20:00 #spi: < schultmc> Michael Schultheiss
+20:00 #spi: < Hydroxide> Jimmy Kaplowitz
+20:00 #spi: < bdale> Bdale Garbee
+20:00 #spi: < Noodles> Jonathan McDowell
+20:00 #spi: < linuxpoet> Joshua D. Drake
+20:00 #spi: < bdale> cool, quorum met
+20:00 #spi: < Ganneff> Joerg Jaspert
+20:01 #spi: < Noodles> We've had regrets from Martin Zobel-Helas.
+20:01 #spi: < bdale> who does that leave?
+20:01 #spi: < Hydroxide> bdale: linuxpoet
+20:01 #spi: < Hydroxide> err
+20:01 #spi: < Noodles> luk__.
+20:01 #spi: < Hydroxide> bdale: luk__
+20:01 #spi: < bdale> luk__:
+20:01 #spi: < Hydroxide> yay tab completion
+20:01 #spi: < bdale> right
+20:01 #spi: < bdale> since we have quorum, I'll proceed, and he can sign in if he joins us
+20:01 #spi: < Hydroxide> given the absence of any controversial agenda items today, I wouldn't suggest waiting too long, though it's of course nicer if he shows up
+20:02 #spi:  * Hydroxide nods
+20:02 #spi: < bdale> [item 3, President's Report]
+20:02 #spi: < bdale> I've made some progress on the previously reported effort to arrange discounts for SPI associated projects on server and storage hardware from HP.
+20:02 #spi: < bdale> After review of the contract terms by SPI's lawyer and board, we are now waiting for HP legal to review and propose changes based on our feedback,
+20:02 #spi: < bdale> as the defaults for the program we're trying to arrange this under are unacceptable to SPI.
+20:03 #spi: < bdale> [item 4, Treasurer's Report]
+20:03 #spi: < bdale> Michael?
+20:03 #spi: < schultmc> two standard reports are in the agenda due to last month's lack of quorum
+20:03 #spi: < bdale> right .. anything special to comment on?
+20:03 #spi: < schultmc> SPI has also received its sales and use tax exempt form from New York State
+20:03 #spi: < bdale>  \o/
+20:04 #spi: < schultmc> nothing special to comment on, other than The HeliOS project making up its perceived deficit
+20:04 #spi: < Noodles> Can I just say here how glad I am that we're not signed up to Paypal, given the nonsense they've been up to with Dreamwidth?
+20:04 #spi: < Hydroxide> \o/
+20:04 #spi: < bdale> ok, thanks .. once again, really appreciate you staying on top of this and getting reports out in advance of meetings
+20:04 #spi: < Hydroxide> Noodles: they were up to some nonsense with Cryptome recently too. admittedly we're less controversial than they are, but still
+20:04 #spi: < schultmc> and SPI is in the process of changing its clickandpledge account so there will be less delay between a donation and deposit in SPI's account
+20:05 #spi: < bdale> ok.  anything else?
+20:05 #spi: < schultmc> SPI is insulated from paypal shenanigans by NetworkForGood, another payment processor we have an account with
+20:05 #spi: < bdale> right
+20:05 #spi: < schultmc> they accept paypal rather than us doing so directly
+20:05 #spi: < Hydroxide> schultmc: but only from US donors, yes?
+20:05 #spi: < schultmc> Hydroxide: no
+20:06 #spi: < schultmc> us only for credit cards, anywhere for paypal
+20:06 #spi: < Hydroxide> oh, an improvement since I last checked. yay.
+20:06 #spi: < Hydroxide> we should make that clearer at some point
+20:06 #spi: < schultmc> for sufficient definitions of anywhere (probably not literally anywhere)
+20:06 #spi: < Hydroxide> to potential donors, I mean
+20:06 #spi:  * Hydroxide nods
+20:06 #spi: < slef> Sorry to interject from the gallery, but if anyone has paypal alternatives for general use, I'd love to hear about them because moneybookers have just upset one of my associates.
+20:06 #spi: < bdale> slef: google checkout is similar in feature set but apparently only handles "sellers" in the US and UK at the moment
+20:06 #spi: < Hydroxide> slef: can be discussed post-meeting
+20:07 #spi: < bdale> ok, let's move on
+20:07 #spi: < slef> Hydroxide: OK
+20:07 #spi: < bdale> [item 5, Secretary's report]
+20:07 #spi: < bdale> Jonathan?
+20:07 #spi: < Noodles> Nothing to report here. As I mentioned before the meeting I'd been hoping someone familiar with adwords would come forward about the Google stuff, but I've seen nothing.
+20:07 #spi: < bdale> should we put a call out to contributing members or something?
+20:08 #spi: < linuxpoet> I know a bit about adwords
+20:08 #spi: < Noodles> It was mentioned on -private I think.
+20:08 #spi: < Noodles> And I know Yafaray are interested in taking advantage of it.
+20:08 #spi: < bdale> linuxpoet: maybe you and Noodles could chat after the meeting briefly?
+20:08 #spi: < linuxpoet> sure
+20:08 #spi: < bdale> thanks
+20:08 #spi: < bdale> [item 6, Outstanding minutes]
+20:08 #spi: < bdale> Jonathan?  We have two sets ready to approve today?
+20:08 #spi: < Noodles> 2 sets, January + February.
+20:09 #spi: < Noodles> I wasn't quite sure what the protocol was for last month so I wrote it up anyway.
+20:09 #spi:  * Hydroxide has read them, approves of them, and is ready to vote
+20:09 #spi: < bdale> thanks, that's probably the right thing
+20:09 #spi: < bdale> I'm ready to vote too
+20:09 #spi: < Ganneff> go go
+20:09 #spi:  * cdlu is too
+20:10 #spi: < Noodles> Voting started, 7 people (ganneff,cdlu,bdale,linuxpoet,noodles,hydroxide,schultmc) allowed to vote on Meeting Minutes for January 13th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:10 #spi: < Ganneff> !vote yes
+20:10 #spi: < schultmc> !vote yes
+20:10 #spi: < Noodles> !vote yes
+20:10 #spi: < linuxpoet> !vote abstain
+20:10 #spi: < bdale> !vote yes
+20:10 #spi: < cdlu> !vote yes
+20:10 #spi: < Hydroxide> !vote yes
+20:10 #spi: < Noodles> Current voting results for "Meeting Minutes for January 13th, 2010": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:10 #spi: < Noodles> Voting for "Meeting Minutes for January 13th, 2010" closed.
+20:11 #spi: < Noodles> Voting started, 7 people (ganneff,cdlu,bdale,linuxpoet,noodles,hydroxide,schultmc) allowed to vote on Meeting Minutes for February 10th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:11 #spi: < Ganneff> !vote abstain
+20:11 #spi: < Noodles> !vote yes
+20:11 #spi: < bdale> !vote yes
+20:11 #spi: < cdlu> !vote yes
+20:11 #spi: < Hydroxide> !vote yes
+20:11 #spi: < linuxpoet> !vote abstain
+20:11 #spi: < schultmc> !vote yes
+20:11 #spi: < Noodles> Current voting results for "Meeting Minutes for February 10th, 2010": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+20:11 #spi: < Noodles> Voting for "Meeting Minutes for February 10th, 2010" closed.
+20:11 #spi: < Noodles> That was nice and easy.
+20:11 #spi: < bdale> great, thanks!
+20:11 #spi: < bdale> [item 7, Any other business]
+20:11 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:12 #spi:  * Hydroxide doesn't
+20:12 #spi: < cdlu> Just note for the record that the 2010 board elections are in three months, and there are four vacancies.
+20:12 #spi: < Noodles> I was going to suggest moving the meeting an hour later as we've had attendence issues, but I think we all hit DST by next month so that should have the same effect.
+20:12 #spi: < Noodles> It'll be interesting to see if it helps.
+20:12 #spi: < linuxpoet> I would suggest we start talking elections to our constituents (sp?) actively, pretty much now
+20:13 #spi: < cdlu> Noodles, ya, 2000Z in DST is better for me than 2000Z in ST :)
+20:13 #spi: < Hydroxide> Noodles: well, it will change the local time by an hour for each of us.
+20:13 #spi: < bdale> [item 8, Next board meeting]
+20:13 #spi: < bdale> Our next regularly-scheduled monthly meeting should be April 14th at 20:00 UTC.
+20:13 #spi: < bdale> Any strong objections?
+20:13 #spi: < Hydroxide> Noodles: doesn't matter to me though
+20:13 #spi: < bdale> since we're talking about it already...
+20:13 #spi: < Noodles> WFM.
+20:13 #spi: < bdale> I'd rather leave the time alone, but I'm not militant about it
+20:13 #spi: < cdlu> linuxpoet, as a potential candidate go for it :) it's like most country's federal elections, the period only lasts a few weeks, but the real campaigns last months or years.
+20:13 #spi: < linuxpoet> sigh
+20:13 #spi: < linuxpoet> :P
+20:13 #spi: < cdlu> april 14 20:00 is fine with me
+20:13 #spi: < Noodles> bdale: I'm for leaving it alone in UTC and seeing if DST helps.
+20:13 #spi: < bdale> ok, great
+20:14 #spi: < bdale> Ok, thank you to everyone present for participating today.
+20:14 #spi: < bdale> *GAVEL*
