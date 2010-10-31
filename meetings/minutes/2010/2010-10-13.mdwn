@@ -1,0 +1,375 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* None
+
+
+These are the minutes for the October 13th, 2010 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org. 
+[LOG](../../../logs/2010/2010-10-13-log.txt)
+
+
+## President's Report
+
+Bdale reports that he and Jonathan had started work on long discussed
+replacement for the SPI website, based on ikiwiki, git + markdown. The
+new structure is licensed CC-by-SA 3.0 and there's enough there to be
+able to get an idea of where we're going.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+September 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period September 01, 2010 - September 30, 2010
+
+ Income
+   Ordinary Income
+        Debian                             702.00
+        freedesktop.org                      1.00
+        Gallery                             71.00
+        Madwifi-project.org                  1.00
+        Open Voting Foundation               1.00
+        OpenOffice.org                     401.00
+        OpenVAS                              1.00
+        OpenWrt                              1.00
+        OSUNIX                               1.00
+        Path64                               1.00
+        PostgreSQL                         601.00
+        Privoxy                              3.00
+        SPI General                        261.00
+        SPI 5%                             134.70
+        The HeliOS Project                 921.00
+        Yafaray                              1.00
+
+        Total Ordinary Income            3,102.70
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           2.07
+        Chase BusinessClassic Checking       0.15
+        Chase Bus Select High Yield Savings  3.38
+
+        Total Interest Income                5.60
+                                             ----
+
+   Gross Income                          3,108.30
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Postage (DC10)              5.60
+          Processing Fees            29.29
+          SPI 5%                     30.05
+          Travel Reimbursement    2,186.54
+          Travel Reimb (DC10)       228.49
+          Video Team Exp (DC10)     299.96
+
+          Total Debian Exp        2,779.93
+                                  --------
+
+        freedesktop.org
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total fd.o Exp              0.44
+                                      ----
+
+        Gallery
+          Processing Fees             2.32
+          SPI 5%                      3.55
+
+          Total Gallery Exp           5.87
+                                      ----
+
+        madwifi-project.org
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total madwifi Exp           0.44
+                                      ----
+
+        Open Voting Foundation
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total OVF Exp               0.44
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            21.44
+          SPI 5%                     20.05
+
+          Total OO.o Exp             41.49
+                                     -----
+        OpenVAS
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total OpenVAS Exp           0.44
+                                      ----
+
+        OpenWrt
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total OpenWrt Exp           0.44
+                                      ----
+
+        OSUNIX
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total OSUNIX Exp            0.44
+                                      ----
+
+        Path64
+          Processing Fees             0.39
+          SPI 5%                      0.05
+
+          Total Path64 Exp            0.44
+                                      ----
+
+        PostgreSQL
+          Processing Fees            16.89
+          SPI 5%                     30.05
+          T-shirts                  335.94
+          Video Sharing Svc          59.95
+
+          Total PostgreSQL Exp      442.83
+                                    ------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees          541.51
+
+          Total SPI Exp             571.46
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     804.90
+          Processing Fees            31.29
+          SPI 5%                     46.05
+
+          Total HeliOS Exp          882.24
+                                    ------
+
+        YafaRay
+          Processing Fees             0.39
+          SPI 5%                      0.05
+          Travel                  1,887.23
+
+          Total YafaRay Exp       1,887.67
+                                  --------
+
+        Total Expenses            6,614.57
+                                 ---------
+
+        Net Income               (3,506.27)
+                                 ==========
+
+
+Balance Sheet as of September 30, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      18,827.85
+        Chase Business Select High Yield Savings          27,543.61
+        Key Business Reward Checking                      85,919.57
+        Key Business Signature Money Market Savings       50,515.31
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                196,207.96
+
+
+   TOTAL ASSETS                                          196,207.96
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    85,704.75
+           Drupal Earmark                     2,735.37
+           Freedesktop.org Earmark            2,316.04
+           Gallery Earmark                    7,033.64
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,445.34
+           OpenOffice.org Earmark            16,058.26
+           OpenVAS                               45.71
+           OpenWrt                              472.54
+           Open Voting Foundation Earmark        90.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                31,178.31
+           Privoxy Earmark                      338.35
+           The HeliOS Project                  (177.16)
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                   (1,648.31)
+
+        Total held in trust                              157,642.11
+
+        General reserves                                  38,565.85
+
+
+     Total Equity                                        196,207.96
+
+   TOTAL LIABILITIES & EQUITY                            196,207.96
+</pre>
+
+## Secretary's report
+
+Jonathan reported he had had contact from spi-trademark about adopting
+[http://wiki.mako.cc/TrademarkFreedom]
+(http://wiki.mako.cc/TrademarkFreedom), but that it was
+largely directed towards the DPL (and other individual projects) rather
+than SPI itself.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes August 11th, 2010
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 5 yes, 2 abstain, 0 missing
+
+Vote on Meeting Minutes September 8th, 2010
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing
+
+## 2010-10-11.jmd.1: Recognition of sidux name change
+
+Vote on 2010-10-11.jmd.1: Recognition of sidux name change
+
+<table><tbody>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 abstain, 0 missing
+
+## Any other business
+
+David mentioned that OFTC were in the midst of their annual elections.
+Jonathan pointed out that
+[PgWest](https://www.postgresqlconference.org/) was on at the start of
+November. Bdale commented that he'd spoken to Bradley Kuhn of the
+conservancy and congratulated him on his soon-to-be paid exec director
+role there. The relationship between SPI and the conservancy is good and
+both parties wish to keep it that way and point projects at whichever is
+the better "hosting organisation".
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, November 10th, 2010 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+## Appendix B: Resolutions
+
+### 2010-10-11.jmd.1: Recognition of sidux name change
+
+<pre>
+WHEREAS
+
+ 1. sidux is an existing associated SPI project (as per 2009-11-27.jmd.2)
+
+ 2. sidux has parted ways with sidux e.V. and as a result renamed the
+    project to aptosid to avoid issues over the sidux name.
+
+ 3. The aptosid development team remains unchanged from sidux and the
+    sidux website indicates that the renaming has taken place.
+
+THE SPI BOARD RESOLVES THAT
+
+ 3. SPI recognises the name change of the sidux project from aptosid
+    and will update its records accordingly.
+
+ 4. Ferdinand Thommes continues to be recognised as the current
+    authoritative decision maker and SPI liaison for aptosid. In the event
+    of the liaison becoming unavailable Trevor Walkley will act as temporary
+    liaison and notify SPI of any replacement liaison.
+</pre>
+
+[[!meta copyright="Copyright © 2010  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
