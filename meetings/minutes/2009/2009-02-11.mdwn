@@ -1,0 +1,439 @@
+# Board Meeting, February 11th, 2009
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Zobel-Helas (zobel)
+* Luk Claes (luk_)
+* Neil McGovern (Maulkin)
+* Joshua D. Drake (linuxpoet)
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* David Graham (cdlu)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Kåre Thor Olsen (Kaare)
+* Joe Nahmias (jello)
+
+
+These are the minutes for the February 11th, 2009 SPI Board meeting, held at
+20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-02-11-log.txt)
+
+
+## President's Report
+
+There was no President's report.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for December 2008
+and January 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period December 01, 2008 - December 31, 2008
+
+ Income
+   Ordinary Income
+        Debian                           7,650.06
+        Gallery                            100.00
+        Madwifi.org                        149.00
+        OpenOffice.org                      10.52
+        PostgreSQL                       2,125.92
+        SPI General                        360.00
+        SPI 5%                             226.78
+
+        Total Ordinary Income           10,622.28
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings          65.44
+
+        Total Interest Income               65.44
+                                            -----
+
+   Gross Income                         10,687.72
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+        Debian
+          Processing Fees          66.70
+          SPI 5%                  107.50
+
+          Total Debian Exp        103.74
+                                  ------
+
+        Gallery
+          Processing Fees           2.70
+          SPI 5%                    5.00
+          Travel Reimbursement    475.00
+
+          Total Gallery Exp       482.70
+                                  ------
+
+        Madwifi.org
+          Processing Fees           5.96
+          SPI 5%                    7.45
+
+          Total Madwifi.org Exp    13.41
+                                   -----
+
+        OpenOffice.org
+          Processing Fees           0.42
+          SPI 5%                    0.53
+
+          Total OpenOffice.org Exp  0.95
+                                    ----
+
+        PostgreSQL
+          Processing Fees           7.10
+          SPI 5%                  106.30
+
+          Total PostgreSQL Exp    113.40
+                                  ------
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         20.15
+          Copies                    0.29
+
+          Total SPI Exp            66.73
+                                   -----
+
+        Tux4Kids
+          Travel Reimbursement  1,355.00
+          Wire Fee                 35.00
+
+          Total T4K Exp         1,390.00
+                                --------
+
+        Total Expenses          2,170.93
+                                --------
+
+        Net Income              8,516.79
+                                ========
+
+Balance Sheet as of December 31, 2008
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      41,783.41
+        Key Business Signature Money Market Savings       97,943.60
+        Ameriprise Cash Mgmt Acct                         13,336.39
+
+     Total Current Assets                                153,063.40
+
+   TOTAL ASSETS                                          153,063.40
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    88,121.59
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,666.83
+           Gallery Earmark                    5,591.99
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,139.70
+           OpenOffice.org Earmark             1,194.89
+           Open Voting Foundation Earmark       392.67
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                13,931.98 
+           Tux4Kids Earmark                   1,935.05
+
+        Total held in trust                              123,068.09
+
+        General reserves                                  29,995.31
+
+     Total Equity                                        153,063.40
+
+   TOTAL LIABILITIES &amp; EQUITY                            153,063.40 
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period January 01, 2009 - January 31, 2009
+
+ Income
+   Ordinary Income
+        Debian                           9,530.88
+        Gallery                             10.00
+        OpenOffice.org                     140.26
+        PostgreSQL                       1,371.26
+        SPI General                      1,585.00
+        SPI 5%                             552.62
+
+        Total Ordinary Income           13,190.02
+                                        ---------
+
+   Dividend Income
+        Ameriprise Cash Mgmt Fund           53.12 [1]
+
+        Total Dividend Income               53.12
+                                            -----
+
+   Interest Income
+        Key Bank Money Mkt Savings          41.52
+
+        Total Interest Income               41.52
+                                            -----
+
+   Gross Income                         13,284.66
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+        Debian
+          Processing Fees         113.83
+          SPI 5%                  476.54
+
+          Total Debian Exp        590.38
+                                  ------
+
+        Gallery
+          Processing Fees           0.27
+          SPI 5%                    0.50
+
+          Total Gallery Exp         0.77
+                                    ----
+
+        OpenOffice.org
+          Processing Fees           5.61
+          SPI 5%                    7.01
+
+          Total OpenOffice.org Exp 12.62
+                                   -----
+
+        PostgreSQL
+          Processing Fees          41.28
+          SPI 5%                   68.56
+          Travel Reimbursement  1,012.80
+
+
+          Total PostgreSQL Exp  1,122.65
+                                --------
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         23.53
+
+          Total SPI Exp            53.48
+                                   -----
+
+        Tux4Kids
+          Travel Reimbursement    440.00
+          Wire Fee                 35.00
+          Wire Research Fee        10.00
+
+          Total T4K Exp           485.00
+                                  ------
+
+        Total Expenses          2,264.90
+                                --------
+
+        Net Income             11,019.76
+                               =========
+
+
+[1] This dividend income includes all dividend income since the last
+time the Ameriprise Cash Mgmt Fund balance was reconciled and was not
+all earned during this period.
+
+
+
+Balance Sheet as of January 31, 2009
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      52,683.84
+        Key Business Signature Money Market Savings       97,985.12
+        Ameriprise Cash Mgmt Acct                         13,389.51
+
+     Total Current Assets                                164,058.47
+
+   TOTAL ASSETS                                          164,058.47
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    97,062.09
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,666.83
+           Gallery Earmark                    5,601.22
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,139.70
+           OpenOffice.org Earmark             1,322.53
+           Open Voting Foundation Earmark       392.67
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                14,180.59 
+           Tux4Kids Earmark                   1,450.05
+
+        Total held in trust                              131,975.38
+
+        General reserves                                  32,083.09
+
+     Total Equity                                        164,058.47
+
+   TOTAL LIABILITIES &amp; EQUITY                            164,058.47
+</pre>
+
+Additionally, Michael mentioned that additional information was provided to
+the IRS (the US federal tax agency) regarding our 2007 annual filing with
+them, at their request, and that our 2008 filing needs to be addressed by
+November 15th at the latest, including available extensions. Bdale expressed
+pleasure at the quality and currency of the monthly reports, and hoped for
+that to continue. Other board members agreed.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+> An application was received from the OpenWRT project to associate with
+> SPI, along with a draft charter. A resolution to approve this is
+> expected to be presented for voting at the March meeting. Also, Debian
+> made a request for SPI to sign a contract with a non-profit which will
+> be hosting a server on their behalf, as requested by that non-profit.
+> We passed the contract by our lawyers, who made a few minor suggestions
+> to improve convenience and the protections for SPI and Debian, which
+> were approved by the other party. SPI President Bdale Garbee proceeded
+> to sign the modified contract and send a copy to the hosting
+> non-profit. No exchange of money whatsoever is involved with this
+> hosting arrangement.
+
+
+## Outstanding Minutes
+
+Jimmy Kaplowitz said that, due to an extreme crunch period at work, he had not
+caught up on minutes yet, and that there were none to vote on. A goal was set
+of being able to approve the March 2008, December 2008, January 2009, and
+February 2009 minutes during the March meeting, as well as the remaining
+backlogged minutes once Martin Zobel-Helas has time to prepare them.
+
+## Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative
+
+Joshua D. Drake reported that SPI's lawyer saw no obstacle to approving the
+Helios Initiative as an associated project, although certain details would
+need to be carefully attended to. This resolution had been deferred from the
+January meeting pending this advice; with this having been done, the
+resolution was voted on.
+
+Vote on Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+
+## Other Business
+
+Peter Palfrader, a member of Debian's system administration team, thanked SPI
+for handling the contract with ISC, the non-profit mentioned in the
+secretary's report, so quickly. Bdale praised the people at ISC and thanked
+them for supporting Debian in this way.
+
+Bdale Garbee mentioned that he is standing for a board position at the Linux
+Foundation representing individual affiliated, with the hope of fostering
+better cooperation between the Linux Foundation and SPI.
+
+Joshua D. Drake stated that he has not forgotten about reviewing the
+membership application despite being behind on doing so.
+
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, March 18th, 2009 at 20:00 UTC in
+#spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+### Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative
+
+<pre>
+WHEREAS
+                                                                                
+1. Helios Initiative is a substantial and useful open source project.          
+                                                                                
+2. The Helios Initiative would like SPI's support and assistance,              
+including taking donations.                                                     
+                                                                                
+THE SPI BOARD RESOLVES THAT                                                     
+                                                                                
+3. The Helios Initiative is formally invited to become an SPI                  
+Associated Project, according to the SPI Framework for Associated               
+Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a           
+copy of which can be found at                                                   
+http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1                   
+                                                                                
+4. Currently, Ken Starks is recognised by SPI as the current                   
+authoritative decision maker and SPI liaison for the Helios Initiative.         
+Successors will be appointed in turn by the sitting project liaison.            
+                                                                                
+5. This invitation will lapse, if not accepted, 60 days after it is            
+approved by the SPI Board.                                                      
+</pre>

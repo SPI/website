@@ -1,0 +1,407 @@
+# Board Meeting, August 19th, 2009
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Martin Zobel-Helas (zobel)
+* David Graham (cdlu)
+* Joshua D. Drake (linuxpoet)
+* Jonathan McDowell (Noodles)
+
+
+__Board partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Luk Claes (luk)
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+* Moray Allan (moray)
+
+
+These are the draft minutes for the August 19th, 2009 SPI Annual Board
+meeting, held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-08-19-log.txt)
+
+
+## President's Report
+
+Bdale Garbee provided the following president's report:
+
+> Last month, I spent two weeks in Spain and Portugal, attending Debconf9
+> and DebianDayPT with my daughter Elizabeth.  We had what I think was a
+> very successful SPI BOF at Debconf, and it was good seeing the other SPI
+> board members who were present there again in person.  Joerg, is there
+> video of that BOF available?  If so, perhaps we can point to it.  I
+> don't believe any action items worthy of report here came out of that
+> BOF, though.  Before our next meeting, my only travel related to Free
+> Software will be a brief appearance at the RH Summit in Chicago to speak
+> on behalf of HP.  I've also had various emails back and forth with
+> representatives of potential associated projects this month, but nothing
+> worth reporting here yet.
+
+Jimmy Kaplowitz provided a link to the 
+[Debconf9 videos](http://video.debian.net/2009/debconf9) including both
+high-quality and low-quality Ogg Theora versions of the SPI BOF.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for July 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations         
+when deposited (not when the check was written or received by us) and           
+recording expenses when sent or scheduled for payment (not when                 
+incurred).                                                                      
+                                                                                
+Income Statement                                                                
+for the Period July 01, 2009 - July 31, 2009                                    
+                                                                                
+ Income                                                                         
+   Ordinary Income                                                              
+        Debian                           5,852.53                               
+        Freedesktop.org                     15.00                               
+        Gallery                             40.00                               
+        Madwifi-project.org                127.00                               
+        OpenOffice.org                     867.26                               
+        Open Voting Foundation               2.00                               
+        PostgreSQL                         795.26                               
+        SPI General                        212.00                               
+        SPI 5%                             196.40                               
+        The HeliOS Project               1,799.00                               
+                                                                                
+        Total Ordinary Income            9,906.45                               
+                                         --------                               
+                                                                                
+   Interest Income                                                              
+        Key Bank Money Mkt Savings          40.31                               
+                                                                                
+        Total Interest Income               40.31                               
+                                            -----                               
+                                                                                
+   Gross Income                          9,946.76                               
+                                         --------                               
+                                                                                
+ Expenses                                                                       
+  Ordinary Expenses                                                             
+                                                                                
+        Debian                                                                  
+          Currency Exchange Fees   63.89                                        
+          Office supplies (DC9)   112.25                                        
+          Processing Fees          54.18                                        
+          Promo cards (DC10)       38.32                                        
+          Reimbursement         4,813.27                                        
+          SPI 5%                   46.63                                        
+          Travel Reimbursement 12,712.51                                        
+          Wire Transfer (ffis) 12,899.90                                        
+                                                                                
+          Total Debian Exp     30,740.95                                        
+                               ---------                                        
+                                                                                
+        Freedesktop.org                                                         
+          Processing Fees           0.60                                        
+          SPI 5%                    0.75                                        
+                                                                                
+          Total FD.o Exp            1.35                                        
+                                    ----                                        
+                                                                                
+        Gallery                                                                 
+          Processing Fees           1.60                                        
+          SPI 5%                    2.00                                        
+                                                                                
+          Total Gallery Exp         3.60                                        
+                                    ----                                        
+                                                                                
+        Madwifi-project.org                                                     
+          Processing Fees           5.08                                        
+          SPI 5%                    6.35                                        
+                                                                                
+          Total Madwifi Exp        11.43                                        
+                                   -----                                        
+                                                                                
+        OpenOffice.org (OO.o)                                                   
+          Processing Fees          31.29                                        
+          SPI 5%                   43.36                                        
+                                                                                
+          Total OO.o Exp           74.65                                        
+                                   -----                                        
+                                                                                
+        Open Voting Foundation (OVF)                                            
+          Processing Fees           0.08                                        
+          SPI 5%                    0.10                                        
+                                                                                
+          Total OVF Exp             0.18                                        
+                                    ----                                        
+                                                                                
+        PostgreSQL                                                              
+          Processing Fees           5.81                                        
+          SPI 5%                    7.26                                        
+                                                                                
+          Total PostgreSQL Exp     13.07                                        
+                                   -----                                        
+                                                                                
+        SPI                                                                     
+          Office Supplies         213.99                                        
+          PaySimple Monthly Fee    29.95                                        
+          Transaction Fees         25.15                                        
+                                                                                
+          Total SPI Exp           269.09                                        
+                                  ------                                        
+                                                                                
+        The HeliOS Project                                                      
+          Exp Reimbursements    1,206.30                                        
+          Processing Fees          71.96                                        
+          SPI 5%                   89.95                                        
+                                                                                
+          Total HeliOS Exp      1,368.21                                        
+                                --------                                        
+                                                                                
+        Total Expenses         32,472.53                                        
+                               ---------                                        
+                                                                                
+        Net Income            (22,535.77)                                       
+                              ===========                                       
+                                                                                
+                                                                                
+                                                                                
+Balance Sheet as of July 31, 2009                                               
+                                                                                
+   ASSETS                                                                       
+     Current Assets                                                             
+        Key Business Reward Checking                      12,479.72             
+        Key Business Signature Money Market Savings      182,460.83             
+        Ameriprise Cash Mgmt Acct                         13,389.51             
+                                                                                
+     Total Current Assets                                208,330.06             
+                                                                                
+   TOTAL ASSETS                                          208,330.06             
+                                                                                
+                                                                                
+   LIABILITIES &amp; EQUITY                                                         
+                                                                                
+     General and current liabilities                           0.00             
+                                                                                
+     Equity                                                                     
+        Reserves held in trust                                                  
+           Debian Earmark                   117,926.18                          
+           Drupal Earmark                     2,650.00                          
+           Freedesktop.org Earmark            1,480.53                          
+           Gallery Earmark                    6,105.88                          
+           GNU TeXmacs Earmark                    9.70                          
+           Madwifi.org Earmark                1,364.47                          
+           OpenOffice.org Earmark             4,887.32                          
+           Open Voting Foundation Earmark        67.34                          
+           Plan 9 Earmark                     6,500.00                          
+           PostgreSQL Earmark                31,245.62                          
+           Privoxy Earmark                       40.00                          
+           Tux4Kids Earmark                   1,865.05                          
+           The HeliOS Project                    34.56                          
+                                                                                
+        Total held in trust                              174,176.65             
+                                                                                
+        General reserves                                  34,153.41             
+                                                                                
+     Total Equity                                        208,330.06             
+                                                                                
+   TOTAL LIABILITIES &amp; EQUITY                            208,330.06             
+</pre>
+
+Michael stated his pleasure at Debian having spent a good portion of its funds,
+and encouraged other projects not to hoard funds. He stated he is still
+considering a switch to accrual-basis accounting but has not had time to do so
+yet. After a few board members expressed their views on this, it was decided
+that the topic would be good to discuss via email.
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+> Michael Schultheiss was re-elected and Jonathan McDowell was newly
+> elected to the SPI Board of Directors last month. Congratulations to
+> them both. Thanks to Greg Sabino Mullane for running. Neil McGovern has
+> completed his term on the Board. Thanks to him for his service, and for
+> running the 2009 SPI Board elections.
+> 
+> Due to unforseen logistical delays, OSUNIX will not be able to have a
+> letter from their lawyer at the Software Freedom Law Center in time for
+> this meeting which explains the resolution of their licensing issues.
+> Therefore, they have agreed to delay revisiting their request to become
+> an SPI associated project until the September board meeting.
+
+
+
+## Outstanding Minutes
+
+Jimmy Kaplowitz presented the June, July, and August 2008 minutes for
+approval, as well as the July 2009 minutes, leaving no outstanding
+minutes yet to be approved.
+
+Vote to approve June 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 4, No: 0, Abstain: 4.
+
+Vote to approve July 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 5, No: 0, Abstain: 3. These minutes
+were approved subject to a correction noting that Jimmy Kaplowitz was
+present.
+
+Vote to approve August 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 5, No: 0, Abstain: 3
+
+These minutes were approved subject to a correction noting that Joshua
+D. Drake was absent.
+
+Vote to approve July 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes </td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+</tbody></table>
+
+
+
+Motion passed with a vote of Yes: 6, No: 0, Abstain: 2.
+
+
+## SPI Board Elections
+
+During this meeting, new SPI officers were elected for the 2009-2010
+term by the board which resulted from the 2009 SPI board elections. For
+the offices of President, Vice President, and Treasurer, the incumbents
+were the sole candidates seeking re-election. These three were voted on
+together.
+
+Vote to approve Bdale Garbee as President, Joerg Jaspert as Vice
+President, and Michael Schultheiss as Treasurer:
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+The incumbent Secretary wished to step down in that role, while
+remaining an SPI director. After much discussion, it was agreed that
+Martin Zobel-Helas would serve as Secretary through November 30 and that
+Jonathan McDowell would take over that role beginning December 1.
+
+Vote to approve Martin Zobel-Helas as Secretary through November 30 and
+Jonathan McDowell as Secretary starting December 1:
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+</tbody></table>
+
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+## Other Business
+
+In response to an inquiry from Joshua D. Drake, Jimmy Kaplowitz informed
+the board that the website overhaul was stalled due to a lack of
+available man-hours. Joshua agreed to find willing people with
+sufficient time. He also asked that the board set goals for the
+following year; it was decided that this discussion should occur via
+email. David Graham asked for feedback on a proposed resolution of his
+and was directed to the mailing lists for that purpose.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, September 16th, 2009 at 20:00
+UTC in #spi on irc.oftc.net. The board tentatively decided that the
+default meeting time should thereafter switch to the second Wednesday of
+each month. This decision is to be finalized at the September meeting.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz </td><td>Secretary</td></tr>
+<tr><td>July 2009</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2009</td><td>Jonathan McDowell</td></tr>
+</tbody></table>
+
+# Appendix B: Approved Resolutions
+
+(none, but Martin Zobel-Helas was chosen as Secretary through November 30,
+effective at the close of this meeting; on December 1 Jonathan McDowell will
+replace Martin Zobel-Helas as Secretary.)

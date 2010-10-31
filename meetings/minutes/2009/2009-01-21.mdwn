@@ -1,0 +1,143 @@
+# Board Meeting, January 21st, 2009
+
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Luk Claes (luk_)
+* Martin Zobel-Helas (zobel)
+* David Graham (cdlu)
+* Neil McGovern (Maulkin)
+* Joshua D. Drake (linuxpoet)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Josh Berkus (jberkus)
+* Kåre Thor Olsen (Kaare)
+
+
+These are the minutes for the January 21st, 2009 SPI Board meeting, held at
+20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-01-21-log.txt)
+
+## President's Report
+
+There was no President's report.
+
+## Treasurer's Report
+
+Due to a family emergency, the Treasurer was not able to prepare the December
+2008 financial reports in time for this meeting, but he intended to get them
+done as soon as possible.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+* On December 20th, 2008, Fabian Keil emailed in an acceptance on behalf of
+  the Privoxy team of SPI's invitation to become an associated project, thus
+  finalizing Privoxy's association with SPI. Fabian's email was PGP-signed
+  with DSA key ID BF2EA563.
+
+* A meeting occurred among SPI systems administrator and VP Joerg Jaspert, SPI
+  Secretary Jimmy Kaplowitz, and SPI contributing member and website volunteer
+  MJ Ray, where it was decided to transition the SPI website to ikiwiki and
+  git for easier maintenance. A git repository is being set up for this
+  purpose, as well as to enable SPI contributing member Ian Jackson to write a
+  bot to announce meetings and agendas.
+
+* Martin Zobel-Helas has generously spent time helping SPI catch up on the
+  minutes from before my time as Secretary. Three of them are ready for
+  approval today, or at the February meeting if board members need more time
+  to review them.
+
+* The OpenWRT project has officially applied for associated project status.
+  Certain details need to be resolved, but a resolution will hopefully be
+  ready in time to vote on their application at the February meeting.
+
+Additionally, Joerg Jaspert mentioned that the new Git repository for the SPI
+website now existed, but that not much other work on the website overhaul had
+occurred.
+
+## Outstanding Minutes
+
+Jimmy Kaplowitz said that, due to illness, the December minutes were not yet
+ready but that they would be ready in time for the February meeting. Martin
+Zobel-Helas did prepare the backlogged minutes from March, April, and May
+2008. It was decided to vote on the April and May 2008 minutes in one vote,
+and defer approving the March 2008 minutes since a few details remained to be
+added to those.
+
+
+Vote on April and May 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 6, No: 0, Abstain: 1.
+
+
+Additionally, Jimmy Kaplowitz agreed to fix a typo in the May minutes
+(removing a duplicated occurrence of the word "announced").
+
+## Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative
+
+Joshua D. Drake presented a resolution to approve the Helios Initiative as a
+new SPI associated project. Legal advice was sought due to the focus of Helios
+on hardware donations, and the vote on this resolution was deferred to the
+February meeting pending that legal advice. It was also agreed to meet one
+week earlier in February to minimize the delay in approving Helios.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, February 11th, 2009 at 20:00 UTC in
+#spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+(none)

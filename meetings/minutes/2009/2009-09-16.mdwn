@@ -1,0 +1,327 @@
+# Board Meeting, September 16th, 2009
+
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide)
+* David Graham (cdlu)
+* Jonathan McDowell (Noodles)
+* Joshua Drake (linuxpoet)
+
+__Board partially present__
+
+* Martin Zobel-Helas (zobel) (Secretary)
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Luk Claes
+
+__Board advisers present__
+
+* None
+
+__Registered guests present__
+
+* Neil McGovern (Maulkin)
+* Bill Allombert (yp17)
+* Kåre Thor Olsen (Kaare)
+* Greg Sabino Mullane (G_SabinoMullane)
+
+
+These are the minutes for the September 16th, 2009 SPI Board meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-09-16-log.txt)
+
+## President's Report
+
+(none)
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for August 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period August 01, 2009 - August 31, 2009
+
+ Income
+   Ordinary Income
+        Debian                           4,005.00
+        Gallery                            170.00
+        OpenOffice.org                     760.00
+        PostgreSQL                       4,000.00
+        SPI General                        226.40
+        SPI 5%                             122.50
+        The HeliOS Project                 155.00
+        Total Ordinary Income            9,438.90
+                                         --------
+   Dividend Income
+        Ameriprise Cash Mgmt Fund            8.13 [1]
+        Total Dividend Income                8.13
+                                             ----
+   Interest Income
+        Key Bank Money Mkt Savings          29.15
+        Total Interest Income               29.15
+                                            -----
+   Gross Income                          9,476.18
+                                         --------
+ Expenses
+  Ordinary Expenses
+        Debian
+          DC9 Formal Dinner     8,297.00
+          HDD for master.d.o      124.63
+          Postage                   5.65
+          Processing Fees         103.60
+          SPI 5%                   18.25
+          Travel Reimbursement 15,307.03
+          Total Debian Exp     23,856.16
+                               ---------
+        Gallery
+          Processing Fees           4.59
+          SPI 5%                    8.50
+          Total Gallery Exp        13.09
+                                   -----
+        OpenOffice.org (OO.o)
+          Processing Fees          27.20
+          SPI 5%                   38.00
+          Total OO.o Exp           65.20
+                                   -----
+        PostgreSQL
+          OSCON Expenses        4,807.64
+          Processing Fees          27.00
+          SPI 5%                   50.00
+          Total PostgreSQL Exp  4,884.64
+                                --------
+
+               SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         17.90
+          Total SPI Exp            47.85
+                                   -----
+        The HeliOS Project
+          Processing Fees           6.20
+          SPI 5%                    7.75
+          Total HeliOS Exp         13.95
+                                   -----
+        Total Expenses         28,880.89
+                               ---------
+        Net Income            (19,404.71)
+                              ===========
+
+[1] This dividend income includes all dividend income since the last
+time the Ameriprise Cash Mgmt Fund balance was reconciled and was not
+all earned during this period
+
+Balance Sheet as of August 31, 2009
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      43,064.65
+        Key Business Signature Money Market Savings      132,489.98
+        Ameriprise Cash Mgmt Acct                         13,397.64
+     Total Current Assets                                188,952.27
+   TOTAL ASSETS                                          188,952.27
+   LIABILITIES &amp; EQUITY
+     General and current liabilities                           0.00
+     Equity
+        Reserves held in trust
+           Debian Earmark                    98,075.02
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,480.53
+           Gallery Earmark                    6,262.79
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,364.47
+           OpenOffice.org Earmark             5,582.12
+           Open Voting Foundation Earmark        67.34
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                30,360.98
+           Privoxy Earmark                       40.00
+           Tux4Kids Earmark                   1,865.05
+           The HeliOS Project                   175.61
+        Total held in trust                              154,433.61
+        General reserves                                  34,518.66
+     Total Equity                                        188,952.27
+   TOTAL LIABILITIES &amp; EQUITY                            188,952.27
+</pre>
+
+
+## Secretary's Report
+
+Open64's invitation to join SPI lapsed without being accepted.
+
+## Outstanding Minutes
+
+Due to Jimmy Kaplowitz being busy preparing a presentation for the NYLUG
+there were no meeting minutes from August's meeting to approve.
+
+## SPI resolution 2009-09-16.mcs.1 (Establishing an additional SPI bank account)
+
+Michael reported that banks like to see a resolution authorizing bank
+account openings.
+
+Vote on resolution 2009-09-16.mcs.1
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes </td></tr>
+</tbody></table>
+
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+
+## SPI Resolution 2009-09-08.jrk.1 (Path64 as associated project)
+
+Vote on resolution 2009-09-08.jrk.1
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+## SPI Resolution 2009-09-08.jrk.2 (OSUNIX as associated project)
+
+Vote on resolution 2009-09-08.jrk.2
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+Motion passed with a vote of Yes: 8, No: 0, Abstain: 0.
+
+
+## SPI Resolution 2009-08-19.dbg.1 (Contributing membership expiry)
+
+Vote on this resolution has been postponed on wish of David as there was
+still ongoing discussion on-list.
+
+## Any other business
+
+Joerg asked, if the monthly meetings could be moved by a week to the 2nd
+Wednesday.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, October 14th, 2009 at 20:00
+UTC in #spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Martin Zobel-Helas</td><td>Secretary</td></tr>
+<tr><td>July 2009</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2009</td><td>Jonathan McDowell</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+### SPI resolution 2009-09-16.mcs.1: Establishing an additional SPI bank account
+
+<pre>
+WHEREAS
+
+ 1. SPI's deposits on hand at its current bank are approaching the limit of
+    FDIC insured funds
+
+THE SPI BOARD RESOLVES THAT
+
+ 1.  The Treasurer is authorized to open a checking account for
+     Software in the Public Interest, Inc. at an additional bank to
+     ensure SPI's balances are below the FDIC insurance limits.
+ 2.  The signatories on the account will include the following
+     Michael Schultheiss        Treasurer
+     James R. Kaplowitz         Director
+</pre>
+
+### SPI Resolution 2009-09-08.jrk.1: Path64 as associated project
+
+<pre>
+WHEREAS
+
+ 1. Path64 is a substantial and useful open source project.
+ 2. Path64 would like SPI's support and assistance, including taking
+    donations.
+
+THE SPI BOARD RESOLVES THAT
+
+ 3. Path64 is formally invited to become an SPI
+    Associated Project, according to the SPI Framework for Associated
+    Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+    copy of which can be found at
+    http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+ 4. Currently, Christopher Bergström is recognised by SPI as the current
+    authoritative decision maker and SPI liaison for Path64. The SPI Board
+    expresses its desire for Christopher Bergström to clarify the governance
+    structure of Path64 to the Board, which structure the Board will
+    recognize as it would any other instruction from an associated project.
+ 5. This invitation will lapse, if not accepted, 60 days after it is
+    approved by the SPI Board.
+</pre>
+
+### SPI Resolution 2009-09-08.jrk.2: OSUNIX as associated project
+
+<pre>
+WHEREAS
+
+ 1. OSUNIX is a substantial and useful open source project,
+ 2. OSUNIX would like SPI's support and assistance, including taking
+    donations, and
+ 3. OSUNIX engaged the Software Freedom Law Center separately from their
+    representation of SPI and obtained from them an opinion letter which
+    satisfactorily addresses SPI's legal concerns with regard to OSUNIX,
+
+THE SPI BOARD RESOLVES THAT
+
+ 4. OSUNIX is formally invited to become an SPI
+    Associated Project, according to the SPI Framework for Associated
+    Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+    copy of which can be found at
+    http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+ 5. Currently, Christopher Bergstrom is recognised by SPI as the current
+    authoritative decision maker and SPI liaison for OSUNIX. The SPI Board
+    expresses its desire for Christopher Bergstrom to clarify the governance
+    structure of OSUNIX to the Board, which structure the Board will
+    recognize as it would any other instruction from an associated project.
+ 6. This invitation will lapse, if not accepted, 60 days after it is
+    approved by the SPI Board.
+</pre>

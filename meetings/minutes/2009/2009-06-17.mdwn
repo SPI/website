@@ -1,0 +1,293 @@
+# Board Meeting, June 17th, 2009<
+
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* David Graham (cdlu)
+* Luk Claes (luk_)
+* Martin Zobel-Helas (zobel)
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Bdale Garbee (bdale) (President)
+* Neil McGovern (Maulkin)
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Kåre Thor Olsen (Kaare)
+
+
+These are the draft minutes for the June 17th, 2009 SPI Board meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-06-17-log.txt)
+
+
+## President's Report
+
+There was no president's report.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for May 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period May 01, 2009 - May 31, 2009
+
+ Income
+   Ordinary Income
+        Debian                          12,068.91
+        Freedesktop.org                     30.00
+        Gallery                            180.00
+        Madwifi.org                         10.00
+        OpenOffice.org                   1,622.47
+        Open Voting Foundation               1.00
+        PostgreSQL                         575.52
+        Privoxy                             10.00
+        SPI General                      1,058.00
+        SPI 5%                             277.34
+        The HeliOS Project               1,070.00
+
+        Total Ordinary Income           16,903.24
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings          41.01
+
+        Total Interest Income               41.01
+                                            -----
+
+   Gross Income                         16,944.25
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Processing Fees          66.40
+          SPI 5%                  103.45
+
+          Total Debian Exp        169.85
+                                  ------
+
+        Freedesktop.org (FD.o)
+           Processing Fees          1.20
+           SPI 5%                   1.50
+
+           Total FD.o Exp           2.70
+                                    ----
+
+        Gallery
+          Processing Fees           6.03
+          SPI 5%                    9.00
+
+          Total Gallery Exp        15.03
+                                   -----
+
+        Madwifi.org
+          Processing Fees           0.40
+          SPI 5%                    0.50
+
+          Total Madwifi.org Exp     0.90
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees          54.50
+          SPI 5%                   81.12
+
+          Total OO.o Exp          135.62
+                                  ------
+
+        OVF
+          Processing Fees           0.04
+          SPI 5%                    0.05
+
+          Total OVF Exp             0.09
+                                    ----
+        PostgreSQL
+          LinuxWorld NW 2009      293.76
+          Processing Fees          21.07
+          SPI 5%                   27.72
+          Travel Reimbursement    797.99
+
+          Total PostgreSQL Exp  1,140.54
+                                --------
+
+        Privoxy
+          Processing Fees           0.40
+          SPI 5%                    0.50
+
+          Total Privoxy Exp         0.90
+                                    ----
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         18.04
+
+          Total SPI Exp            47.99
+                                   -----
+
+        The HeliOS Project
+          Exp Reimbursements     1,254.14
+
+          Total HeliOS Exp       1,254.14
+                                 --------
+
+        Total Expenses          2,767.67
+                                --------
+
+        Net Income             14,176.58
+                               =========
+
+
+
+Balance Sheet as of May 31, 2009
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      20,490.54
+        Key Business Signature Money Market Savings      193,169.43
+        Ameriprise Cash Mgmt Acct                         13,389.51
+
+     Total Current Assets                                227,049.48
+
+   TOTAL ASSETS                                          227,049.48
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                   141,365.99
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,466.88
+           Gallery Earmark                    6,004.87
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,248.90
+           OpenOffice.org Earmark             2,846.26
+           Open Voting Foundation Earmark        65.52
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                29,643.80
+           Tux4Kids Earmark                   1,865.05
+           The HeliOS Project                  (184.14)
+
+        Total held in trust                              193,676.07
+
+        General reserves                                  33,373.41
+
+     Total Equity                                        227,049.48
+
+   TOTAL LIABILITIES &amp; EQUITY                            227,049.48
+</pre>
+
+Michael noted that the negative balance for The HeliOS Project is due to
+a quirk of SPI's accounting method, and that under an accrual basis
+their balance is not negative. In response to a query from Martin
+Zobel-Helas, he informed the meeting that roughly $36,000 of Debian's
+funds helf by SPI are reserved for DebConf.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+> The Open64 project has asked for association with SPI. In order to allow
+> time for the contributing membership to be consulted via spi-private and
+> a proper resolution to be drafted, I have not added it to the agenda for
+> the June meeting. It is likely to be on the agenda for the July
+> meeting.
+
+Jimmy said he would email the contributing membership about this project
+and another potential new project in an earlier stage of the application
+process.
+
+
+## Outstanding Minutes
+
+Martin Zobel-Helas said that he hopes to prepare the three remaining 2008
+minutes during the 2009 DebCamp _(secretary's note: this runs from July 16th
+to July 23rd, 2009)_.
+
+Jimmy Kaplowitz requested and received unanimous consent to re-approve
+the April 2009 minutes, the sole change from their previously approved
+state being a correction to which sets of minutes were approved at the
+April meeting.
+
+Jimmy then presented the May 2009 minutes for approval.
+
+Vote to approve April 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 5, No: 0, Abstain: 1.
+
+
+## Other Business
+
+Jimmy agreed to work with Neil McGovern to ensure the readiness of SPI's
+voting web application for the upcoming election, and to send an email
+within a few days announcing the election.
+
+C. Bergström, SPI liaison for two potential new associated projects,
+encouraged those listening to ask any questions regarding Open64 during
+the meeting or outside of it. None were asked during the meeting.
+
+
+## Adjournment
+
+The meeting was adjourned until the annual board meeting, which will be
+held on Wednesday, July 8th, 2009 at 20:00 UTC in #spi on irc.oftc.net.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz </td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+(none)

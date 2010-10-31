@@ -1,0 +1,399 @@
+# Board Meeting, March 18th, 2009
+    
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Michael Schultheiss (schultmc) (Treasurer)
+* David Graham (cdlu)
+* Luk Claes (luk_)
+* Joshua D. Drake (linuxpoet)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Zobel-Helas (zobel)
+* Neil McGovern (Maulkin)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Kåre Thor Olsen (Kaare)
+* Joe Nahmias (jello)
+* Rico Gloeckner (mc)
+* Bill Allombert (yp17)
+* Julien Cristau (jcristau)
+* Phil Brooke (philb208)
+
+
+These are the minutes for the March 18th, 2009 SPI Board meeting, held at 20:00
+UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-03-18-log.txt)
+
+
+## President's Report
+
+Bdale congratulated Tim Golden for winning election to, and Larry Augustin for
+winning re-election to, the Linux Foundation board, and announced his intention
+to attend both the CELF Embedded Linux Conference and LF Collaboration Summit
+in San Francisco in April.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for February 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations         
+when deposited (not when the check was written or received by us) and           
+recording expenses when sent or scheduled for payment (not when                 
+incurred).                                                                      
+                                                                                
+Income Statement                                                                
+for the Period February 01, 2009 - February 28, 2009                            
+                                                                                
+ Income                                                                         
+   Ordinary Income                                                              
+        Debian                          30,950.53                               
+        Gallery                            140.00                               
+        Madwifi.org                         50.00                               
+        OpenOffice.org                       5.26                               
+        PostgreSQL                      16,949.26                               
+        SPI General                        110.00                               
+        SPI 5%                             104.75                               
+        Tux4Kids                           415.00                               
+                                                                                
+        Total Ordinary Income           48,724.80                               
+                                        ---------                               
+                                                                                
+   Interest Income                                                              
+        Key Bank Money Mkt Savings          48.94                               
+                                                                                
+        Total Interest Income               48.94                               
+                                            -----                               
+                                                                                
+   Gross Income                         48,773.74                               
+                                        ---------                               
+                                                                                
+ Expenses                                                                       
+  Ordinary Expenses                                                             
+        Debian                                                                  
+          Processing Fees          30.17                                        
+          SPI 5%                   47.53                                        
+                                                                                
+          Total Debian Exp         77.70                                        
+                                   -----                                        
+                                                                                
+        Gallery                                                                 
+          Processing Fees           5.08                                        
+          SPI 5%                    7.00                                        
+                                                                                
+          Total Gallery Exp        12.08                                        
+                                   -----                                        
+                                                                                
+        Madwifi.org                                                             
+          Processing Fees           2.00                                        
+          SPI 5%                    2.50                                        
+                                                                                
+          Total Madwifi.org Exp     4.50                                        
+                                    ----                                        
+        OpenOffice.org                                                          
+          Processing Fees           0.21                                        
+          SPI 5%                    0.26                                        
+                                                                                
+          Total OpenOffice.org Exp  0.47                                        
+                                    ----                                        
+                                                                                
+        PostgreSQL                                                              
+          Processing Fees           2.75                                        
+          SPI 5%                   47.46                                        
+          Travel Reimbursement    228.41                                        
+                                                                                
+          Total PostgreSQL Exp    278.62                                        
+                                  ------                                        
+                                                                                
+        SPI                                                                     
+          PaySimple Monthly Fee    29.95                                        
+          Postage                  19.70                                        
+          PO Box Renewal Fee       70.00                                        
+          Transaction Fees         49.42                                        
+                                                                                
+          Total SPI Exp           169.07                                        
+                                  ------                                        
+                                                                                
+        Total Expenses            542.44                                        
+                                  ------                                        
+                                                                                
+        Net Income             48,231.30                                        
+                               =========                                        
+                                                                                
+                                                                                
+                                                                                
+Balance Sheet as of February 28, 2009                                           
+                                                                                
+   ASSETS                                                                       
+     Current Assets                                                             
+        Key Business Reward Checking                       5,820.17             
+        Key Business Signature Money Market Savings      193,034.06             
+        Ameriprise Cash Mgmt Acct                         13,389.51             
+                                                                                
+     Total Current Assets                                212,243.74             
+                                                                                
+   TOTAL ASSETS                                          212,243.74             
+                                                                                
+                                                                                
+   LIABILITIES &amp; EQUITY                                                         
+                                                                                
+     General and current liabilities                           0.00             
+                                                                                
+     Equity                                                                     
+        Reserves held in trust                                                  
+           Debian Earmark                   127,934.92                          
+           Drupal Earmark                     2,650.00                          
+           Freedesktop.org Earmark            1,666.83                          
+           Gallery Earmark                    5,729.14                          
+           GNU TeXmacs Earmark                    9.70                          
+           Madwifi.org Earmark                1,185.20                          
+           OpenOffice.org Earmark             1,327.32                          
+           Open Voting Foundation Earmark       392.67                          
+           Plan 9 Earmark                     6,500.00                          
+           PostgreSQL Earmark                30,851.23                          
+           Tux4Kids Earmark                   1,865.05                          
+                                                                                
+        Total held in trust                              180,112.06             
+                                                                                
+        General reserves                                  32,131.68             
+                                                                                
+     Total Equity                                        212,243.74             
+                                                                                
+   TOTAL LIABILITIES &amp; EQUITY                            212,243.
+</pre>
+
+Some discussion ensued regarding the growth in funds held by SPI. Michael
+encouraged SPI associated projects to use funds that have been donated for
+their intended purpose rather than building up reserves. Bdale emphaseized that
+only about $32,000 of funds held by SPI are on its own behalf and not in trust
+for associated projects. Contributing member Joe Nahmias asked about reducing
+the 5% fee which SPI levies on incoming donations since SPI already has a
+sizable reserve; it was agreed to discuss this via email. Several board members
+congratulated Michael once again on having regular reports each months.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+* Within 40 minutes of the conclusion of the February 11 board
+meeting, the Board and I received an email from Ken Starks of HeliOS
+accepting SPI's offer of associated project status for HeliOS, thus
+making it official.
+
+* Also, I finally made the promised typo fix to the May 2008 minutes (removing a duplicated occurrence of the word "announced").
+
+* Lastly,
+the information in Appendix A has been changed slightly, showing the
+date of last election to the board instead of the date of first
+election, and reducing the granularity of the displayed date to the
+month level. This is more useful for planning future election cycles
+and had been requested for some time by David Graham. Thanks to him for
+the idea.
+
+## Outstanding Minutes
+
+Jimmy Kaplowitz presented the minutes from December 2008, January 2009, and
+February 2009 for approval.
+
+Vote to approve December 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 7, No: 0, Abstain: 0.
+
+Vote to approve January 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 5, No: 0, Abstain: 2.
+
+Vote to approve February 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 6, No: 0, Abstain: 1.
+
+Jimmy indicated that he would finish preparation of the March 2008
+minutes (other than HTML formatting) and check with Martin Zobel-Helas
+on the status of the other pending minutes in advance of the April
+meeting.
+
+## Resolution 2009-03-18.mcs.1: Update Ameriprise's owner list
+
+Michael Schultheiss presented this resolution, needed to reflect changes in
+SPI's board makeup in financial records with Ameriprise.
+
+Vote on Resolution 2009-03-18.mcs.1: Update Ameriprise's owner list
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 7, No: 0, Abstain: 0.
+
+
+## Resolution 2009-03-18.jrk.1: OpenWRT as associated project
+
+Jimmy Kaplowitz presented a resolution to admit OpenWRT as associated project,
+originally numbered 2009-03-16.jrk.1.iwj.1. After much discussion, it was
+agreed that the board wanted OpenWRT to have a single liaison with SPI instead
+of the two they had originally requested, and the board named Gregers Petersen
+for that purpose due to his having been SPI's sole contact with OpenWRT up to
+this point.
+
+The resolution as finally approved, based on a proposal by Ian Jackson, was
+given the number 2009-03-18.jrk.1 and is included in Appendix B of these
+minutes. Jimmy agreed to notify Gregers of the invitation.
+
+Vote to approve Resolution 2009-03-18.jrk.1: OpenWRT as associated project
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 7, No: 0, Abstain: 0.
+
+## Other Business
+
+Joshua D. Drake asked for objections regarding soliciting help from the members
+with fixing the membership application on the website. Jimmy requested that the
+SPI membership committee and systems administraors be kept in the loop but
+otherwise had no objection. Joshua also asked about the status of the new SPI
+website; Jimmy replied that nobody had had time to work on it since the last
+meeting, and that the status was therefore unchanged since then.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, April 15th, 2009 at 20:00 UTC in
+#spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+### Resolution 2009-03-18.mcs.1: Update Ameriprise's owner list
+
+<pre>
+SPI resolution 2009-03-18.mcs.1                                                 
+                                                                                
+WHEREAS                                                                         
+                                                                                
+ 1. Ameriprise Financial ("Ameriprise") currently holds funds in an             
+    account for Software in the Public Interest, Inc. ("SPI");                  
+                                                                                
+ 2. Ameriprise's list of account owners for SPI's account is out of             
+    date, listing only Branden Robinson (a former SPI board member) and         
+    James R. Kaplowitz;                                                         
+                                                                                
+ 3. Ameriprise requires a Board resolution or meeting minutes                   
+    enumerating those who should be listed as account owners for a              
+    corporation;                                                                
+                                                                                
+THE SPI BOARD RESOLVES THAT                                                     
+                                                                                
+ 3. The account owners for SPI's Ameriprise account should be updated to        
+    include Michael C. Schultheiss, remove Branden Robinson, and retain         
+    James R. Kaplowitz;                                                         
+                                                                                
+ 4. This resolution supercedes resolution 2006-04-18.br.1
+</pre>
+
+### Resolution 2009-03-18.jrk.1: OpenWRT as associated project
+
+<pre>
+ 1. OpenWRT is a substantial and useful open source project.
+
+ 2. OpenWRT would like SPI's support and assistance, including taking
+    donations.
+
+THE SPI BOARD RESOLVES THAT
+
+ 3. OpenWRT is formally invited to become an SPI
+    Associated Project, according to the SPI Framework for Associated
+    Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+    copy of which can be found at
+    <a href="../../../../resolutions/2004-08-10-iwj.html">http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1</a>
+
+ 4. SPI recognises that OpenWRT is governed by the Charter available at
+    <a href="https://dev.openwrt.org/wiki/NonProfit,">https://dev.openwrt.org/wiki/NonProfit,</a> as modified from time to time
+    via the processes in the Charter itself.
+
+ 5. SPI understands that Gregers Petersen has been
+    appointed according to the Charter by OpenWRT as the liaison to SPI.
+
+ 6. This invitation will lapse, if not accepted, 60 days after it is
+    approved by the SPI Board.
+</pre>

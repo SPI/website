@@ -1,0 +1,328 @@
+# Board Meeting, July 8th, 2009
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Martin Zobel-Helas (zobel)
+* Neil McGovern (Maulkin)
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets)__
+
+* David Graham (cdlu)
+* Luk Claes (luk)
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Kåre Thor Olsen (Kaare)
+* Julien Cristau (jcristau)
+* Jonathan McDowell (Noodles)
+* Moray Allan (moray)
+* Christopher Bergström (codestr0m)
+* MJ Ray (slef)
+
+
+These are the draft minutes for the July 8th, 2009 SPI Annual Board
+meeting, held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-07-08-log.txt)
+
+
+## President's Report
+
+Bdale Garbee provided the following president's report:
+
+> Last month, I spent two weeks in Brazil including attending FISL 10. 
+> Over 8200 people attended FISL, and the highlight for me was undoubtedly
+> the visit by President Lula to the event.  I was one of about 10 people
+> at the event invited to meet and speak with him semi-privately before
+> his public talk.  The content of his talk has been reported elsewhere. 
+> Suffice to say, it was an incredible experience to meet the president of
+> the world's 12th largest economy in person, and hear him speak quite
+> passionately about Free Software. I'm now looking forward to the Debconf
+> later this month, at which we have an SPI BOF scheduled.  I hope all of
+> you that plan to be there will participate in talking to interested DDs
+> about the role SPI plays for Debian, answering questions, etc.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for June 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period June 01, 2009 - June 30, 2009
+
+ Income
+   Ordinary Income
+        Debian                           1,520.53
+        Gallery                             70.00
+        OpenOffice.org                   1,371.26
+        PostgreSQL                         893.26
+        Privoxy                             30.00
+        SPI General                        410.64
+        SPI 5%                             151.50
+        The HeliOS Project                 405.00
+
+        Total Ordinary Income            4,852.19
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings          39.69
+
+        Total Interest Income               39.69
+                                            -----
+
+   Gross Income                          4,891.88
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Processing Fees          58.90
+          SPI 5%                   13.03
+
+          Total Debian Exp         71.92
+                                   -----
+
+
+        Gallery
+          Processing Fees           1.89
+          SPI 5%                    3.50
+
+          Total Gallery Exp         5.39
+                                    ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees          54.25
+          SPI 5%                   68.56
+
+          Total OO.o Exp          122.81
+                                  ------
+
+        PostgreSQL
+          Processing Fees          28.97
+          SPI 5%                   44.66
+
+          Total PostgreSQL Exp     73.63
+                                   -----
+
+        Privoxy
+          Processing Fees           1.20
+          SPI 5%                    1.50
+
+          Total Privoxy Exp         2.70
+                                    ----
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         23.55
+
+          Total SPI Exp            53.50
+                                   -----
+
+        The HeliOS Project
+          Exp Reimbursements      617.09
+
+          Total HeliOS Exp        617.09
+                                  ------
+
+        Total Expenses            947.04
+                                  ------
+
+        Net Income              3,944.84
+                                ========
+
+
+
+Balance Sheet as of June 30, 2009
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      24,422.19
+        Key Business Signature Money Market Savings      193,209.12
+        Ameriprise Cash Mgmt Acct                         13,389.51
+
+     Total Current Assets                                231,020.82
+
+   TOTAL ASSETS                                          231,020.82
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                   142,814.60
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,466.88
+           Gallery Earmark                    6,069.48
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,248.90
+           OpenOffice.org Earmark             4,094.71
+           Open Voting Foundation Earmark        65.52
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                30,463.43
+           Privoxy Earmark                       40.00
+           Tux4Kids Earmark                   1,865.05
+           The HeliOS Project                  (396.23)
+
+        Total held in trust                              197,288.27
+
+        General reserves                                  33,732.55
+
+     Total Equity                                        231,020.82
+
+   TOTAL LIABILITIES &amp; EQUITY                            231,020.82
+</pre>
+
+Michael stated that the negative balance for The HeliOS Project is due to a
+quirk of SPI's accounting method, as was true in the previous treasurer's
+report, and that under an accrual basis their balance is not negative. He
+informed the Board that he was considering switching to accrual basis
+accounting.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+> Neil McGovern, a current board member who is vacating his seat at the
+> conclusion of the currently ongoing SPI election, has kindly agreed to
+> run this election. Also, contributing members were asked for feedback
+> regarding Open64 and OSUNIX as potential new projects. A small amount of
+> positive feedback was received and no negative feedback was received.
+
+
+## Outstanding Minutes
+
+Jimmy Kaplowitz presented the June 2009 minutes for approval.
+
+Vote to approve April 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 4, No: 0, Abstain: 2.
+
+## SPI Board Elections
+
+Jimmy Kaplowitz reminded attendees that the deadline to submit
+nominations for the 2009 SPI board elections was July 13th, and that
+nominations should be sent via email to Neil McGovern. One nomination
+had been received as of the meeting.  Neil confirmed that the voting
+software was operational and would work in the event that a vote was
+necessary.
+
+## Resolution 2009-07-06.jrk.1.bg.1: Open64 as associated project
+
+After it was ascertained that the governance structure for Open64 as
+described in the resolution had been acknowledged by Christopher
+Bergström, the board proceeded to vote on the resolution.
+
+Vote to approve Resolution 2009-07-06.jrk.1.bg.1
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Abstain</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 4, No: 0, Abstain: 2.
+
+## Resolution 2009-07-06.jrk.2: OSUNIX as associated project
+
+After some discussion, it became clear that the Board was uncomfortable
+approving OSUNIX as an associated project until the outstanding
+licensing-related legal issues were resolved. Therefore, after
+requesting a second and not finding one, Jimmy Kaplowitz withdrew the
+resolution without prejudice to re-proposing it after the resolution of
+the licensing issues.
+
+## Other Business
+
+Jimmy Kaplowitz mentioned that he is seeking to be replaced as secretary
+for the 2009-2010 board term. Neil McGovern thanked the board for an
+interesting few years on it.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, August 19th, 2009 at 20:00 UTC in
+#spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+### Resolution 2009-07-06.jrk.1.bg.1: Open64 as associated project
+
+<pre>
+WHEREAS
+
+ 1. Open64 is a substantial and useful open source project.
+
+ 2. Open64 would like SPI's support and assistance, including taking
+donations.
+
+THE SPI BOARD RESOLVES THAT
+
+ 3. Open64 is formally invited to become an SPI
+Associated Project, according to the SPI Framework for Associated
+Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+copy of which can be found at
+http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+
+ 4. The Open64 Steering Committee acting by consensus resolution       
+is recognized as the authoritative decision maker for Open64,         
+and C. Bergström is recognized by SPI as the current designated       
+liaison for Open64.                                                   
+
+ 5. This invitation will lapse, if not accepted by the Open64          
+Steering Committee, 60 days after it is approved by the SPI           
+Board.
+</pre>

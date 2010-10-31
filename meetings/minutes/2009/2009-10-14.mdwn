@@ -1,0 +1,239 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Zobel-Helas (zobel) (Secretary)
+* Jimmy Kaplowitz (Hydroxide)
+* David Graham (cdlu)
+* Jonathan McDowell (Noodles)
+* Joshua Drake (linuxpoet)
+* Luk Claes (luk_)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+These are the minutes for the October 14th, 2009 SPI Board meeting, held at
+20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-10-14-log.txt)
+
+
+## President's Report
+
+Bdale welcomed the new associated projects Path64 and OSUNIX. He also
+told, he had conversations with more potential associated projects,
+particularly because of his participation in LinuxCon and the Ohio
+LinuxFest.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for
+September 2009:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period September 01, 2009 - September 30, 2009
+
+ Income
+   Ordinary Income
+        Debian                          10,615.00
+        Gallery                            170.00
+        Madwifi-project.org                 27.80
+        OpenOffice.org                     725.00
+        PostgreSQL                          53.00
+        SPI General                        517.00
+        SPI 5%                              82.79
+        The HeliOS Project                  65.00
+        Total Ordinary Income           12,255.59
+                                        ---------
+   Interest Income
+        Key Bank Money Mkt Savings          27.23
+        Total Interest Income               27.23
+                                            -----
+   Gross Income                         12,282.82
+                                        ---------
+ Expenses
+  Ordinary Expenses
+        Debian
+          DC9 Catering         27,718.66
+          Processing Fees          23.70
+          SPI 5%                   30.75
+          Transfer to debian.ch   144.76
+          Travel Reimbursement  6,250.48
+          Total Debian Exp     34,168.35
+                               ---------
+        Gallery
+          Processing Fees           4.59
+          SPI 5%                    8.50
+          Total Gallery Exp        13.09
+                                   -----
+        Madwifi-project.org
+          SPI 5%                    1.39
+          Total Madwifi Exp         1.39
+                                    ----
+        OpenOffice.org (OO.o)
+          Processing Fees          21.00
+          SPI 5%                   36.25
+          Total OO.o Exp           57.25
+                                   -----
+        PostgreSQL
+          Processing Fees           2.12
+          SPI 5%                    2.65
+          Travel Expenses       5,215.78
+          Total PostgreSQL Exp  5,220.55
+                                --------
+        SPI
+          PaySimple Monthly Fee    29.95
+          Transaction Fees         24.98
+          Total SPI Exp            54.93
+                                   -----
+        The HeliOS Project
+          Expense reimbursement   515.81
+          Processing Fees           2.60
+          SPI 5%                    3.25
+          Total HeliOS Exp        521.66
+                                  ------
+        Total Expenses         40,037.22
+                               ---------
+        Net Income            (27,781.63)
+                              ===========
+
+Balance Sheet as of September 30, 2009
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      15,608.62
+        Key Business Signature Money Market Savings      132,517.21
+        Ameriprise Cash Mgmt Acct                         13,397.64
+     Total Current Assets                                161,523.47
+   TOTAL ASSETS                                          161,523.47
+   LIABILITIES &amp; EQUITY
+     General and current liabilities                           0.00
+     Equity
+        Reserves held in trust
+           Debian Earmark                    74,521.67
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,480.53
+           Gallery Earmark                    6,419.70
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,390.88
+           OpenOffice.org Earmark             6,249.87
+           Open Voting Foundation Earmark        67.34
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                25,193.43
+           Privoxy Earmark                       40.00
+           Tux4Kids Earmark                   1,865.05
+           The HeliOS Project                  (281.05)
+        Total held in trust                              126,107.12
+        General reserves                                  35,416.35
+     Total Equity                                        161,523.47
+   TOTAL LIABILITIES &amp; EQUITY                            161,523.47
+</pre>
+
+## Secretary's report
+
+Both Path64 and OSUNIX projects accepted our invitations in a timely
+fashion and is now associated projects of SPI. Martin is trying to
+prepare a press announce for both projects and for OpenWRT. Jimmy asked
+about the status of Yafaray, Martin said he will follow up that the next
+days.
+
+
+## Outstanding minutes
+
+Martin hasn't done the minutes of September yet, but Jimmy finished the
+August's one which had been amended by Luk's regret by Jimmy during the
+meeting.
+
+Vote on Meeting Minutes August 19th, 2009
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 1 abstain, 0 missing
+
+
+## SPI resolution 2009-10-11.jj.1 (Holding debian.org.tw Domain in trust)
+
+After discussion of the uncertain membership of debian.org.tw and issues
+related to transfering SPI assets out of the US, it was decided to defer action
+on this resolution until an unambiguous method is determined for SPI to
+validate a domain transfer request from debian.org.tw.
+
+
+## Any other business
+
+Joshua reported PostgreSQL Conference West is this week. David reported
+that OFTC is in the midst of annual elections.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, November 11th, 2009 at 20:00
+UTC in #spi on irc.oftc.net.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008<br /></td><td>Martin Zobel-Helas</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007<br /></td><td>Luk Claes</td></tr>
+<tr><td>July 2007<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell<br /></td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### SPI Resolution 2009-10-1.jj.1: Holding debian.org.tw Domain in trust
+
+<pre>
+WHEREAS
+
+1. debian.org.tw (DOT) is an OpenSource, especially Debian, related user
+   group in Taiwan. There had been tensions regarding their domain, so
+   SPI offers to step in as a neutral outsider.
+
+THE SPI BOARD RESOLVES THAT
+
+2. SPI Inc. offers to hold the debian.org.tw Domain in trust, pointing
+   the NS entries to machines selected by the DOT community. SPI
+   Inc. will support a transfer of said domain to a registered non-profit
+   organization in Taiwan anytime DOT unanimously asks us to do so
+</pre>

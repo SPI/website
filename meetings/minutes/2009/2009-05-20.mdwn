@@ -1,0 +1,238 @@
+# Board Meeting, May 20th, 2009<
+
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* David Graham (cdlu)
+* Luk Claes (luk_)
+* Joshua D. Drake (linuxpoet)
+
+__Board partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Neil McGovern (Maulkin)
+
+
+__Board members absent__
+
+* Bdale Garbee (bdale) (President)
+* Martin Zobel-Helas (zobel)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Moray Allan (moray)
+
+
+These are the draft minutes for the May 20th, 2009 SPI Board meeting, held at
+20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2009/2009-05-20-log.txt)
+(missing initial gavel and first three minutes of roll call, but no actual
+business).
+
+
+## President's Report
+
+There was no president's report.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial report for April 2009.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period April 01, 2009 - April 30, 2009
+
+ Income
+   Ordinary Income
+        Gallery                             20.00
+        SPI 5%                               1.00
+
+        Total Ordinary Income               21.00
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings          39.68
+
+        Total Interest Income               39.68
+                                            -----
+
+   Gross Income                             60.68
+                                            -----
+
+ Expenses
+  Ordinary Expenses
+
+        Freedesktop.org (FD.o)
+          ICC Membership Fee      250.00
+
+          Total FD.o Exp          250.00
+                                  ------
+
+        Gallery
+          Processing Fees           0.54
+          SPI 5%                    1.00
+
+          Total Gallery Exp         1.54
+                                    ----
+
+        SPI
+          PaySimple Monthly Fee    29.95
+          Postage                   1.25
+          SSL Certificate          79.00
+          Transaction Fees         16.26
+
+          Total SPI Exp           126.46
+                                  ------
+
+        Total Expenses            378.00
+                                  ------
+
+        Net Income               (317.32)
+                                =========
+
+
+
+Balance Sheet as of April 30, 2009
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                       6,472.91
+        Key Business Signature Money Market Savings      193,128.42
+        Ameriprise Cash Mgmt Acct                         13,389.51
+
+     Total Current Assets                                212,990.84
+
+   TOTAL ASSETS                                          212,990.84
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                   129,466.93
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,439.58
+           Gallery Earmark                    5,839.90
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,239.80
+           OpenOffice.org Earmark             1,359.41
+           Open Voting Foundation Earmark        65.42
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                30,208.82
+           Tux4Kids Earmark                   1,865.05
+
+        Total held in trust                              180,644.61
+
+        General reserves                                  32,346.23
+
+     Total Equity                                        212,990.84
+
+   TOTAL LIABILITIES &amp; EQUITY                            212,990.84
+</pre>
+
+Michael stated that the reason for the atypically low amount of income is
+because most of April's donations were deposited on May 1st. He also noted that
+the 2008 IRS Form 990 (an information-reporting return to federal tax
+authorities) has not yet been filed, but that the accountants automatically
+file extensions for SPI and that this extension filing actually occurred.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz provided the following secretary's report.
+
+> As a reminder, next year's annual Debian Conference, DebConf10, will be
+> in the US for the first time (specifically NYC), and so SPI will be
+> serving as the local legal entity. I am the lead of the DebConf10 local
+> team. In my role as SPI Secretary, I provided a visa invitation letter
+> to a Debian participant who wishes to attend and who will need a visa.
+> This letter was drafted in consultation with me by a lawyer, Frank
+> Bynum, with knowledge of visa, immigration, and border law who has
+> agreed to help DebConf10 with these issues.
+> 
+> Substantially the same letter, as modified for each visa applicant's
+> individual circumstances, is expected to be used for the rest of the
+> DebConf10 visa invitation letters, without further mention in SPI
+> secretary's reports unless specific circumstances warrant it. I can
+> provide the letter template to the board and others upon request, but
+> DebConf does not wish to make it public to reduce the risk of abuse by
+> those wishing to involve DebConf in illegal immigration attempts. (This
+> happens every year, not just for the US-based conference.)
+
+Some discussion about DebConf10 itself ensued, but there was no further
+discussion on the secretary's report or on any other aspect of SPI's
+relationship with DebConf10.
+
+
+##Outstanding Minutes
+
+Jimmy Kaplowitz again presented the March 2009 minutes, identical to
+those approved in April except for the correction of a typo in Julien
+Cristau's name.  These corrected minutes were accepted by unanimous
+consent without an explicit vote. Jimmy then presented the April 2009
+minutes for approval.
+
+Vote to approve April 2009 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 6, No: 0, Abstain: 0.
+
+
+
+##  Other Business
+
+David Graham noted that the June meeting is the last before SPI's 2009
+elections. It was agreed that Jimmy, in his role as Secretary, would
+work with the membership committee to ensure the list of members is up
+to date and that the contributing members know how many seats are up for
+election, so they can prepare to run.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, June 17th, 2009 at 20:00 UTC
+in #spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table>
+<tbody><tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2007</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2007</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2008</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>July 2006</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2007</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008</td><td>David Graham</td></tr>
+<tr><td>July 2007</td><td>Luk Claes</td></tr>
+<tr><td>July 2007</td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2006</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+(none)
