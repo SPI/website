@@ -1,0 +1,125 @@
+--- Log opened Wed Nov 10 19:59:55 2010
+20:00 #spi: < bdale> *GAVEL*
+20:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://newwww.spi-inc.org/meetings/agendas/2010/2010-11-10/
+20:00 #spi: < bdale> [item 2, Roll Call]
+20:00 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+20:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 #spi: < cdlu> David Graham 
+20:00 #spi: < bdale> Bdale Garbee
+20:00 #spi: < linuxpoet> Joshua D. Drake
+20:00 #spi: < schultmc> Michael Schultheiss
+20:00 #spi: < Noodles>  Jonathan McDowell
+20:00 #spi: < bdale> Ganneff: poke
+20:01 #spi: < Ganneff> Joerg Jaspert
+20:01 #spi: < cdlu> quorum
+20:01 #spi: < bdale> cool .. who is missing?
+20:01 #spi: < Noodles> Zobel, who has sent regrets.
+20:01 #spi: < schultmc> Hydroxide
+20:01 #spi: < Ganneff> zobel called and said he could be here a few minutes late
+20:01 #spi: < Ganneff> Joerg Jaspert
+20:01 #spi: < cdlu> quorum
+20:01 #spi: < bdale> cool .. who is missing?
+20:01 #spi: < Noodles> Zobel, who has sent regrets.
+20:01 #spi: < schultmc> Hydroxide
+20:01 #spi: < Ganneff> zobel called and said he could be here a few minutes late
+20:01 #spi: < bdale> ok
+20:01 #spi: < bdale> let's proceed, and hopefully one or both will join in
+20:01 #spi: < bdale> [item 3, President's Report]
+20:01 #spi: < bdale> We've made lots more progress on our new web site in the last month.
+20:01 #spi: < bdale> I would particularly like to recognize the ongoing efforts by Noodles towards moving over existing content like meeting minutes, resolutions, etc.
+20:01 #spi: < bdale> Ganneff also deserves thanks not only for his support of the new web site, but also his efforts towards modernizing other elements of our infrastructure this month.
+20:01 #spi: < zobel> Martin Zobel-Helas
+20:01 #spi: < bdale> A major milestone is that this meeting's agenda is the first to be posted only in the new web site!
+20:01 #spi: < bdale> The new site is hosted at http://newwww.spi-inc.org/ until we're comfortable making it the primary, hopefully very soon.  Comments, feedback, and help welcomed!
+20:02 #spi: < bdale> [item 4, Treasurer's Report]
+20:02 #spi: < bdale> Michael?
+20:02 #spi: < schultmc> A standard report is listed in the agenda.  Nothing else of note.
+20:02 #spi: < bdale> any questions?
+20:03 #spi: < bdale> [item 5, Secretary's report]
+20:03 #spi: < bdale> Jonathan?
+20:03 #spi: < Noodles> Nothing to report really.
+20:03 #spi: < Noodles> I've been doing bits on the new site, but would really like extra eyes to say if it looks accurate or not.
+20:03 #spi: < bdale> how much do you think we have left before we can in good conscience cut over to the new site as primary?
+20:03 #spi: < Noodles> (Given that I'm trying to clean HTML up into Markdown as I go)
+20:04 #spi: < bdale> yes, understood.  I've done some page skimming, but clearly more eyes would be better.
+20:04 #spi: < Noodles> Not a /huge/ amount I don't think.
+20:04 #spi: < Noodles> Stuff about becoming a member/associated project is still missing I think?
+20:05 #spi: < bdale> I guess I'd like to set as a goal that we've cut over to the new site with a static copy of the old one still around by the time of the next meeting.
+20:05 #spi: < schultmc> I can work on the member/associate project stuff
+20:05 #spi: < Noodles> Yeah, that seems reasonable.
+20:05 #spi: < Noodles> Also I'd like a page that points to the git repo and invites people to send patches if they have them.
+20:05 #spi: < Ganneff> include puppet.git
+20:05 #spi: < bdale> makes sense.  ok, good.  let's keep at it, really feels like we're nearly there!
+20:06 #spi: < bdale> [item 6, Outstanding minutes]
+20:06 #spi: < bdale> I believe we have last month's ready to vote on today.  Is that correct Jonathan?
+20:06 #spi: < Noodles> Yup.
+20:06 #spi:  * cdlu has read the minutes and is prepared to vote
+20:06 #spi: < bdale> ditto
+20:07 #spi: < Noodles> Voting started, 7 people (cdlu,bdale,noodles,ganneff,zobel,schultmc,linuxpoet) allowed to vote on Minutes from Wednesday, 13th October 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:07 #spi: < cdlu> !vote yes
+20:07 #spi: < Noodles> !vote yes
+20:07 #spi: < bdale> !vote yes
+20:07 #spi: < Ganneff> !vote yes
+20:07 #spi: < schultmc> !vote yes
+20:07 #spi: < zobel> !vote yes
+20:07 #spi: < linuxpoet> !vote abstain
+20:07 #spi: < Noodles> Current voting results for "Minutes from Wednesday, 13th October 2010": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:07 #spi: < Noodles> Voting for "Minutes from Wednesday, 13th October 2010" closed.
+20:07 #spi: < bdale> thanks
+20:07 #spi: < bdale> [item 7, Items up for discussion]
+20:07 #spi: < bdale> [item 7.1, Timing of future meetings (move to 20:30 UTC?)
+20:07 #spi: < bdale> Discussion?
+20:08 #spi: < cdlu> which side of the hour it's on doesn't affect me
+20:08 #spi: < Noodles> zobel mentioned this last month so I thought it was worth adding to the agenda.
+20:08 #spi: < bdale> I'm easy, either the current time or 20:30 are fine with me
+20:08 #spi: < schultmc> 20:30 works for me - I prefer 20:00 during DST though
+20:08 #spi: < cdlu> I'm in an intensive job search so cannot predict my schedule going forward regardless
+20:08 #spi: < Noodles> I have a meeting at 1pm US/Pacific so need to be done by then.
+20:08 #spi: < zobel> 2030 works better for me. esp in the next 3 month
+20:08 #spi: < Ganneff> ₥e doesnt care
+20:08 #spi: < bdale> any strong objections to 20:30?
+20:09 #spi: < Noodles> I don't mind, except it limits me to 30 minutes for the meeting.
+20:09 #spi: < bdale> Noodles: I can live with that.  ;-)
+20:09 #spi: < linuxpoet> whatever works
+20:09 #spi: < Noodles> Didn't think anyone would mind a cap. :)
+20:09 #spi: < cdlu> haha
+20:09 #spi: < Noodles> Let's try 20:30 for a few months and see how it goes?
+20:09 #spi: < bdale> ok, done
+20:09 #spi: < Ganneff> til summertzime again
+20:09 #spi: < Ganneff> (fucking useless tz changes)
+20:09 #spi: < bdale> [item 8, Any other business]
+20:09 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:10 #spi: < cdlu> bdale, briefly
+20:10 #spi: < bdale> cdlu: go
+20:10 #spi: < cdlu> bdale, OFTC has completed its annual election. The status quo has largely won. tjfontaine is still the project leader, I'm still Ombudsman
+20:10 #spi: < cdlu> and the projected voted 100% in favour of remaining with SPI
+20:10 #spi: < cdlu> a very strong continued endorsement
+20:10 #spi: < cdlu> that's all
+20:10 #spi: < bdale> I saw tjfontaine join the channel .. congrats to both of you
+20:10 #spi: < linuxpoet> I got one thing
+20:10 #spi: < bdale> linuxpoet: go
+20:11 #spi: < linuxpoet> PostgreSQL Conference West say ~ 90% increase in attendance 
+20:11 #spi: < linuxpoet> err saw
+20:11 #spi: < bdale> I'd heard that.  impressive!
+20:11 #spi: < linuxpoet> so that is very cool :)
+20:11 #spi: < Noodles> Wow.
+20:11 #spi: < cdlu> nice :)
+20:11 #spi: < tjfontaine> man another conference I missed I could have expensed
+20:11 #spi: < bdale> ok, anything else, anyone?
+20:11 #spi: < linuxpoet> Don't worry, East is in March :P
+20:11 #spi: < zobel> Ganneff was so kind to sign and send the letter to the debian.eu domain owner on behalf on debian
+20:11 #spi: < linuxpoet> nope I am good
+20:11 #spi: < bdale> zobel: any response yet?
+20:11 #spi: < Ganneff> no
+20:11 #spi: < Ganneff> one bounce to the mail, the second mail address no reply
+20:12 #spi: < Ganneff> nothing else
+20:12 #spi: < bdale> ok, not surprising
+20:12 #spi: < Ganneff> give it a month, then we can start the eu appeal whatever process
+20:12 #spi: < bdale> yep.  anything else?
+20:12 #spi: < cdlu> not from me
+20:12 #spi: < bdale> [item 9, Next board meeting]
+20:12 #spi: < bdale> Our next regularly-scheduled monthly meeting will be December 8th, 2010, 20:30 UTC.  
+20:12 #spi: < bdale> Ok, thank you to everyone present for participating today.
+20:12 #spi: < bdale> *GAVEL*
+--- Log closed Wed Nov 10 20:13:11 2010
