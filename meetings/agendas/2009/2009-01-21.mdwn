@@ -1,0 +1,173 @@
+# 2009-01-21
+
+This is the proposed agenda for the Board meeting of Wednesday, January 21st,
+2009, to be held at 20:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call (Tentative regrets from Bdale Garbee;
+   Regrets from Michael Schultheiss)
+3. President's report (Bdale Garbee)
+4. Treasurer's report (Michael Schultheiss)
+5. Secretary's report (Jimmy Kaplowitz)
+6. Outstanding minutes
+   1. Neil's responsibility
+      1. [March 19th, 2008](../../../minutes/2008/2008-03-19/)
+         (prepared by Martin Zobel-Helas, will be HTMLified later)
+         * Will need slight amendment later to add list of registered guests
+           and the text of resolution 2008-03-19.jrk.2
+      2. [April 16th, 2008](../../../minutes/2008/2008-04-16/)
+         (prepared by Martin Zobel-Helas, will be HTMLified later)
+      3. [May 21st, 2008](../../../minutes/2008/2008-05-21/)
+         (prepared by Martin Zobel-Helas, will be HTMLified later)
+      4. June 18th, 2008
+      5. July 2nd, 2008 (annual meeting)
+      6. August 20th, 2008
+   2. Jimmy's responsibility
+      1. December 17th, 2008
+7. Items up for discussion:
+   1. Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative 
+      (Joshua D. Drake)
+8. Any other business
+9. Next board meeting - Wednesday, February 18th, 2009, 20:00 UTC
+
+
+### President's Report
+
+<pre>
+(none)
+</pre>
+
+### Treasurer's Report
+
+<pre>
+(none)
+</pre>
+
+_(Secretary's note: The Treasurer has been busy dealing with a family
+emergency and will get the December 2008 financial reports done ASAP.)_
+
+### Secretary's report
+
+* On December 20th, 2008, Fabian Keil emailed in an acceptance on behalf of the
+  Privoxy team of SPI's invitation to become an associated project, thus
+  finalizing Privoxy's association with SPI. Fabian's email was PGP-signed with
+  DSA key ID BF2EA563.
+
+* A meeting occurred among SPI systems administrator and VP Joerg Jaspert, SPI
+  Secretary Jimmy Kaplowitz, and SPI contributing member and website volunteer
+  MJ Ray, where it was decided to transition the SPI website to ikiwiki and git
+  for easier maintenance. A git repository is being set up for this purpose, as
+  well as to enable SPI contributing member Ian Jackson to write a bot to
+  announce meetings and agendas.
+
+* Martin Zobel-Helas has generously spent time helping SPI catch up on the
+  minutes from before my time as Secretary. Three of them are ready for
+  approval today, or at the February meeting if board members need more time to
+  review them.
+
+* The OpenWRT project has officially applied for associated project status.
+  Certain details need to be resolved, but a resolution will hopefully be ready
+  in time to vote on their application at the February meeting.
+
+
+### Resolution 2009-01-09.jdd.1 - New affiliated project: Helios Initiative
+
+<pre>
+WHEREAS
+
+1. Helios Initiative is a substantial and useful open source project.
+
+2. The Helios Initiative would like SPI's support and assistance,
+including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. The Helios Initiative is formally invited to become an SPI
+Associated Project, according to the SPI Framework for Associated
+Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+copy of which can be found at
+http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+
+4. Currently, Ken Starks is recognised by SPI as the current
+authoritative decision maker and SPI liaison for the Helios Initiative.
+Successors will be appointed in turn by the sitting project liaison.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+</pre>
+
+Joshua provided the following background to the resolution, in the form of an
+email from Ken Starks to him:
+
+<pre>
+Hello Joshua,
+
+Please consider this our official application for an Associate
+Membership into Software in the Public Interest.  As well, bear with us
+as we revamp our new website &lt;http://www.heliosinitiative.org/&gt;, it
+should be completed in a couple of days.  You can see the official blog
+for The Helios Project here &lt;http://www.heliosinitiative.org/blog/&gt;
+.
+
+"The HeliOS Project" began in 2004.  It was simply three guys gathered
+around a dining room table in my home, watching baseball and rebuilding
+computers from discarded equipment we had gathered.  We in turn took
+these machines and found homes for them with socially and financially
+disadvantaged kids in the Austin Area.
+
+As we perceived the increased need for these computers in the community,
+we have organized ourselves to meet the challenge.  I began putting
+together an organization that would allow me to maximize the resources
+of the Open Source Community, therefore increasing our ability to
+produce these much-needed machines.  We have grown through efforts such
+as the Tux500 project
+&lt;http://news.cnet.com/2300-11389_3-6186004-1.html?tag=ne.gall.pg&gt;,
+and the more recent Lindependence 2008
+&lt;http://www.lindependence.net/&gt;Project. Larry Cafiero and myself built
+the Lindependence effort in July of 2007 and we've held events in Felton
+California and Portland Oregon.  2009 promises several events in the US
+and many others world-wide.
+
+In 2008, The HeliOS Project built, placed and supported 329 computers
+for our disadvantaged kids.  This has entailed an enormous amount of
+work but for every trying moment, there were twice as many gratifying
+ones.  This project has dual purpose.  The obvious one is to get
+computers into the hands of those who normally would not have one.  The
+second and equally-important mission is to proliferate GNU/Linux and
+Free Open Source Software on the everyday desktop user's computer.
+
+We have achieved much success in the limited scope of our efforts.
+Becoming an Associate Member of SPI will allow us to leverage the
+nonprofit status of the organization and not only bring our efforts into
+a wider spotlight, it would give us the much-needed ability to issue
+letters of tax exemption to our donors.  For every one donor we gain, we
+lose 3-5 because we do not have the 501 federal designator needed to
+issue such letters.
+
+We will of course need the nonprofit status that this membership brings
+as well as the book keeping that comes with it.  Membership within SPI
+brings a level of credibility and reliability to any worthwhile project
+and we are excited that you find us a good match for SPI.  Dealing with
+hardware donations, we will be happy to assign the dollar amounts for
+the donations and forward them to the appropriate contact at SPI.  We
+keep an accurate eye on current hardware prices, both new and old.  Tom
+King, our Secretary/Treasurer will maintain our records and inventory
+locally as well if you need them.  We will provide SPI with a "chain of
+custody" record of every item donated through your organization and
+given donated by us, should you require it.  The International exposure
+of our organization via our membership in SPI is invaluable and we thank
+you for considering this as our official membership application.
+
+Kenneth Starks will be the liaison between SPI and The HeliOS Project.
+In his absence or the improbable event he cannot be reached, Larry
+Cafiero will act as our official liaison.
+
+Sincerely,
+
+Ken Starks
+The HeliOS Project
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
