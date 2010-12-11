@@ -1,0 +1,112 @@
+20:32 #spi: < bdale> *GAVEL*
+20:32 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:32 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://newwww.spi-inc.org/meetings/agendas/2010/2010-12-08/
+20:32 #spi: < bdale> [item 2, Roll Call]
+20:32 #spi: < Hydroxide> there is that.
+20:32 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+20:32 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:32 #spi: < Noodles> Jonathan McDowell
+20:32 #spi: < Ganneff> Joerg Jaspert
+20:32 #spi: < schultmc> Michael Schultheiss
+20:32 #spi: < cdlu> David Graham
+20:32 #spi: < bdale> oh, url probably wrong now
+20:32 #spi: < bdale> Bdale Garbee
+20:32 #spi: < cdlu> one more for quorum
+20:32 #spi: < Hydroxide> Jimmy Kaplowitz
+20:32 #spi: < cdlu> yay
+20:32 #spi: < bdale> http://www.spi-inc.org/meetings/agendas/2010/2010-12-08/ is right now?
+20:33 #spi: < Hydroxide> bdale: I think newwww. is supposed to still work
+20:33 #spi: < Hydroxide> but so does www.
+20:33 #spi: < zobel> Martin Zobel-Helas
+20:33 #spi: < bdale> ok
+20:33 #spi: < Ganneff> yes, newwww stays alive as a url for some time
+20:34 #spi: < Noodles> So everyone bar linuxpoet is here?
+20:34 #spi: < cdlu> yep, 7/8
+20:34 #spi: < bdale> seems like it
+20:34 #spi: < bdale> [item 3, President's Report]
+20:34 #spi: < bdale> Nothing to report.
+20:34 #spi: < bdale> [item 4, Treasurer's Report]
+20:34 #spi: < bdale> Michael?
+20:35 #spi: < schultmc> A standard report is in the agenda.  Nothing of note to report.  There was a typo in the e-mailed copy of the report (spurious (DC10) label) that has been corrected in the website copy.
+20:35 #spi: < bdale> ok
+20:35 #spi: < Noodles> There was an onlist query re the refund.
+20:35 #spi: < bdale> want to comment on the big pile of paperwork?
+20:35 #spi: < schultmc> ah - I hadn't seen that - I'll respond
+20:36 #spi: < schultmc> for the record it's a refund of an attendance fee for someone who couldn't attend DC10
+20:36 #spi: < bdale> ok
+20:36 #spi: < bdale> anything else?
+20:37 #spi: < schultmc> we mailed off the NY state charity registration form
+20:37 #spi: < schultmc> nothing else from me
+20:37 #spi: < Hydroxide> \o/
+20:37 #spi: < cdlu> thanks
+20:37 #spi: < bdale> yes, thanks for handling that... in particular, thanks for the pre-addressed return envelope for the things I needed to sign, that was very helpful
+20:37 #spi: < schultmc> s/form/forms/ - it's several dozen pages :)
+20:38 #spi: < cdlu> so the irs remains happy with us? :)
+20:38 #spi: < bdale> a huge pile of paper that I juggled in my car to get everything signed and back in the mailbox the same day
+20:38 #spi: < schultmc> cdlu: new york state - the IRS hasn't been unhappy with us
+20:38 #spi: < cdlu> k
+20:38 #spi: < bdale> ok, let's move on
+20:38 #spi: < bdale> [item 5, Secretary's report]
+20:38 #spi: < bdale> Jonathan?
+20:39 #spi: < Noodles> We switched over the website; I added a few bits and pieces I felt were important over the weekend and ask Ganneff to make the switch yesterday after allowing the membership a few days to complain.
+20:39 #spi: < bdale> yay!
+20:39 #spi: < Noodles> There are still bits to move. schultmc, it would be good if you could take a look at the treasurer related bits when you get time.
+20:40 #spi: < schultmc> Noodles: I plan on adding those in the next few days
+20:40 #spi: < Noodles> Excellent.
+20:40 #spi: < bdale> I'd invite everyone present to have a look at the new site and provide feedback, please
+20:40 #spi: < Hydroxide> congrats!
+20:40 #spi: < Ganneff> every board member out there who hasnt already: i need ssh keys and you can haz write access
+20:40 #spi: < Ganneff> every project liasion: same thing, limited to your projects area
+20:41 #spi: < bdale> this has been a very long time coming.  changing infrastructure is annoying, no matter why, but the results are already paying off... we have more folks actively committing changes than ever helped update the old site, I think
+20:41 #spi: < Ganneff> yes
+20:41 #spi: < cdlu> new site looks good and simple. will this one last longer than our previous couple of changes? :)
+20:41 #spi: < Noodles> Yeah, time will tell if it's really an improvement or not.
+20:41 #spi: < bdale> it uses a lot less complex infrastructure, so I hope so
+20:42 #spi: < Hydroxide> cdlu: well, there's no reason people can't work on changing the style to satisfy their urge to tweak - hopefully they won't have to change the infrastructure, though.
+20:42 #spi: < bdale> the ability to use git as a backend which we all mostly understand and use for other things already is a win for us
+20:42 #spi: < Hydroxide> yeah
+20:42 #spi: < bdale> ok, anything else?
+20:42 #spi: < Noodles> Not that I can think of from a secretary PoV, no.
+20:42 #spi: < bdale> ok, cool
+20:42 #spi: < bdale> [item 6, Outstanding minutes]
+20:42 #spi: < bdale> I believe we have last month's ready to vote on today.  Is that correct Jonathan?
+20:42 #spi: < Noodles> Yes.
+20:42 #spi: < Noodles> Voting started, 7 people (ganneff,noodles,cdlu,bdale,hydroxide,schultmc,zobel) allowed to vote on Minutes for board meeting of November 10th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:43 #spi: < Hydroxide> !vote abstain
+20:43 #spi: < cdlu> !vote yes
+20:43 #spi: < schultmc> !vote yes
+20:43 #spi: < Ganneff> !vote yes
+20:43 #spi: < Noodles> !vote yes
+20:43 #spi: < bdale> !vote yes
+20:43 #spi: < zobel> !vote yes
+20:43 #spi: < Noodles> Current voting results for "Minutes for board meeting of November 10th, 2010": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:43 #spi: < Noodles> Voting for "Minutes for board meeting of November 10th, 2010" closed.
+20:43 #spi: < bdale> thanks all
+20:43 #spi: < bdale> [item 7, Items up for discussion]
+20:43 #spi: < bdale> None.
+20:43 #spi: < bdale> [item 8, Any other business]
+20:43 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:44 #spi:  * zobel 
+20:44 #spi: < Noodles> Zach's pointed out that we should send the second debian.eu letter.
+20:44 #spi: < zobel> ack. i will prepare the letter for Ganneff if noone complains.
+20:44 #spi: < Ganneff> sounds good to me.
+20:44 #spi:  * Hydroxide is fine with that
+20:44 #spi: < Noodles> Sounds good to me.
+20:44 #spi: < Ganneff> im only available until next thursday, so should be done before that
+20:44 #spi: < Ganneff> or it will be january
+20:44 #spi: < zobel> Ganneff: will do right after the meeting
+20:45 #spi:  * zobel is done.
+20:46 #spi: < bdale> ok, anything else?
+20:46 #spi: < cdlu> not from me
+20:46 #spi:  * Ganneff 
+20:46 #spi: < bdale> [item 9, Next board meeting]
+20:46 #spi: < bdale> Our next regularly-scheduled monthly meeting will be January 12th, 2010, 20:30 UTC.
+20:46 #spi: < bdale> Any strong objections?
+20:46 #spi: < Ganneff> would like if people want to help with puppet and admin stuff
+20:46 #spi: < bdale> Ganneff: put a call on spi-private, maybe?
+20:46 #spi: < cdlu> jan 12 works for me
+20:46 #spi: < Ganneff> bdale: will, in january
+20:47 #spi: < bdale> k
+20:47 #spi: < Hydroxide> jan 12, 20:30 UTC is fine for me too
+20:47 #spi: < bdale> Ok, thank you to everyone present for participating today.
+20:47 #spi: < bdale> *GAVEL*
