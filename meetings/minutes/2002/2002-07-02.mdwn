@@ -1,0 +1,124 @@
+# Board meeting, July 2nd, 2002
+
+__Attending__:
+
+* Branden Robinson
+* Ean Schuessler
+* Ian Jackson
+* Manoj Srivastava
+* Martin "Joey" Schulze (presiding)
+* Wichert Akkerman
+
+__Absent__:
+
+* Drew Streib
+
+__Absent with regrets__:
+
+* Nils Lohner
+
+__Agenda__:
+
+1. Approving minutes of previous meetings
+2. TeXmacs support infrastructure
+3. OFTC domain ownership
+4. Bruce Perens's "Sincere Choice" platform
+5. Next meeting
+
+__Recorder__: Wichert Akkerman
+
+__Advisors present__:
+
+* Robert Levin
+
+__Invitees present__:
+
+* David Graham (OFTC)
+
+The Board meeting was held using Internet Relay Chat. Joey opens the
+meeting at 19.07 UTC.
+
+## Approving minutes of previous meetings
+
+Minutes for the May 7th meeting were sent too late to be voted upon.
+Approval of these minutes has been shelved and will be done via mail or
+during future meetings. Minutes for the June 4 meeting have not been
+written yet.
+
+Joey makes a note to prepare the minutes in a timely fashion after the
+corresponding meeting so that the Board can compare it with their own
+recording in time.
+
+## TeXmacs support infrastructure
+
+The GNU TeXmacs team has asked SPI to provide a support structure for
+their project within the context of SPI. The Board proposed resolution
+[2002-07-02.iwj.3](/corporate/resolutions/2002/2002-07-02.iwj.3/)
+for this purpose.
+
+Vote on resolution 2002-07-02.iwj.3 to accept GNU TeXmacs as an
+affiliated project:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution was accepted unanimously with 6 votes in favour.
+
+## OFTC domain ownership
+
+The Open and Free Technology Community (OFTC) project has asked SPI to
+hold their domain (oftc.net) in ownership in order to be able to enforce
+their constitution. Wichert proposed to take a more general approach and
+offer to hold things in ownership for them. Ian suggested that SPI adopt
+OFTC as an affiliated project to implement that offer. Joey asked David if
+that was acceptable for OFTC and he confirmed it was.
+
+Votes for resolution
+[2002-07-02.iwj.5](/corporate/resolutions/2002/2002-07-02.iwj.5/)
+to adopt Open and Free Technology Community as an affiliated project:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution was accepted unanimously with 6 votes in favour.
+
+## Bruce Perens's "Sincere Choice" platform
+
+Bruce Perens started the ["Sincere Choice" platform](http://sincerechoice.org/)
+to counter the [Initiative for Software Choice](http://softwarechoice.org/),
+which appears to be an anti-Open-Source and anti-GPL organization. Bruce asked
+SPI to sign onto the platform and suggested it might be a good idea for SPI to
+take ownership of it if possible for a 501(c)3 organization.
+
+Ian had a problem with the statement "We support a broad range of
+copyright policies, from Public Domain through Open Source and Free
+Software to Proprietary": SPI does not support that range but is a
+Free Software organisation.
+
+Branden noted that the rest of the statement of principles is
+not objectionable. Wichert suggested that someone talk with Bruce
+about possibly rewording the statement, and if Bruce agrees to
+resume the discussion later. Ian volunteered to take this task.
+
+## Next meeting
+
+In accordance with Resolution
+[2002-05-07.wta](/corporate/resolutions/2002/2002-05-07.wta/),
+the next meeting of the SPI Board of Directors will be on August 6th at 19.00
+UTC.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

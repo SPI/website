@@ -1,0 +1,254 @@
+# Board meeting, May 7th, 2002
+
+__Attending__:
+
+* Branden Robinson
+* Drew Streib
+* Ean Schuessler
+* Ian Jackson
+* Manoj Srivastava
+* Martin "Joey" Schulze (presiding)
+* Wichert Akkerman
+
+__Absent__:
+
+* Ean Schuessler
+
+__Absent with regrets__:
+
+* Nils Lohner
+
+__Agenda__:
+
+1. Reports
+   * treasurer report
+   * membership report
+   * merchant account update
+2. Approving minutes from previous meetings
+3. Meeting schedule
+4. OSI advisor exchange update
+5. SPI Board advisor changes
+   * invite Guido and make him an advisor
+   * possibly replace Miguel de Icaza
+6. resolution to join FSG
+7. SPI logo
+8. next meeting
+
+__Recorder__: Wichert Akkerman
+
+__Advisors present__:
+
+* Robert Levin
+
+The Board meeting was held using Internet Relay Chat. Joey opens the
+meeting at 19.07 UTC.
+
+## Reports
+
+### Treasurer report
+
+Branden reported progress with American Express Centurion Bank. The
+signed corporate resolution identifying him as treasurer he sent them
+was not enough to allow him to access the account. He does have the
+forms that needs to be signed by the SPI President which should be
+enough. He will scan them and mail them filled-out to Nils, who will
+have to sign them and fax them back to the bank.
+
+Also, thanks to Michael Schultheiss's research, there may be progress on
+another front. Branden has written a personal check for USD35 to the New
+York Department of State to request a certified copy of SPI's
+Charter of Incorporation and a Certificate of Existence (a.k.a. Certificate of
+"Good Standing"
+
+Finally, as Russell Nelson of the Open Source Initiative pointed out, Tim
+Sailer is still listed as the designated recipient of process on behalf
+of SPI. Given that Tim Sailer resigned from the SPI Board some years
+ago, this should be fixed. Branden does not know the exact procedure for
+filing new documents with the New York Department of State's Division of
+Corporations so that will have to be researched.
+
+Branden has since learned that we can probably accomplish this by
+sending New York a document and $20 to process it. The form itself is
+available in PDF format.
+
+Ian moved to thank Branden for his work and wish him luck. Everyone
+agreed.
+
+### Membership report
+
+Branden proposed that the secretary ask Martin Michlmayr to make a
+brief report on the status of the SPI Membership Committee and mail
+that to the Board via e-mail at his earliest convenience. The report
+should include current numbers of members, rate of join, any salient
+complaints about the interface, and any other items of interest to the
+chair. Everyone agrees.
+
+### Merchant account update
+
+Drew explained:
+
+> "Basically, it is fairly easy to setup an account and have some 3rd
+> party take transactions on our behalf and deposit funds into our bank
+> account. One well known example is paypal.com. For the record also note
+> [http://www.charge.com/](http://www.charge.com/) and
+> [http://www.gotmerchant.com/echo/](http://www.gotmerchant.com/echo/).
+> Fees for this seem pretty standard across the Board ranging from 2.2%
+> to about 3%. Several places offer little to no monthly minimums
+> although there are typically small charges associated with moving
+> funds or setup. It looks like most of them set up a small bank account
+> for you and then you make 'withdrawals' of sorts from those accounts
+> into your own bank account."
+
+Branden reminded the Board he is willing to waive the SPI 5% on
+donations for electronic donations if we can get electronic deposit into
+our Centurion Bank accounts.
+
+Drew thought two things need to be decided first: will SPI receive
+electronic donations if we have that option available, and will that be
+worth the 2 to 3% processing charge (plus potential small monthly
+charges, usually under 25 US dollars).
+
+Branden proposed the Board vote to:
+
+1. authorise Drew to select a payment processor
+2. request Drew to mail the Board with a projection of expected costs for 3
+   months' worth of operation
+3. use the email voting procedure to approve the setup of the account
+4. subject this business relationship to a review after 90 days
+5. advertise this as a pilot program until after the Board has assessed
+   the reviews mentioned in 4)
+
+Everyone agrees.
+
+## Approving minutes from previous meetings
+
+Vote to approve the minutes of the January 21 meeting minutes as posted
+to the SPI Board in message `20020507185150.GG22677@deadbeast.net` and
+revised during the meeting.
+
+Votes for accepting the minutes:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The minutes are accepted with 6 votes in favour and none against.
+
+## Meeting schedule
+
+Since scheduling and attendance of meetings has proven to be a bit
+troublesome Wichert proposed to have regular meetings every first
+Tuesday at the month at 19.00 UTC. Manoj asked if meetings during
+weekends would be an preferable since his attendance on weekdays will be
+dependent on his employer. Nobody agreed.
+
+Vote for resolution
+[2002-05-07.wta](/corporate/resolutions/2002/2002-05-07.wta/),
+covering the regular meeting schedule:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>abstains</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted with 5 votes in favour and two abstentions.
+
+## OSI advisor exchange update
+
+### invite Guido van Rossum and make him an advisor
+
+Wichert explained he presented the proposed joint resolution
+2002-01-21 C.02 to the OSI Board. The response there was minimal but
+generally positive. They agreed to exchange advisors, though unfortunately
+Guido van Rossum could not attend this meeting.
+Also related to this proposal was an update regarding the opensource.org
+domain: it has been successfully updated and moved to a different registrar.
+He proposed that we invite Guido as an advisor on the SPI Board of Directors
+as a representative of OSI.
+
+Vote to invite Guide van Rossum as an advisor to the SPI Board of
+Directors:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The vote is unanimous with 7 votes in favour.
+
+### possibly replace Miguel de Icaza
+
+Joey said we need to discuss the position of the advisor position
+for the GNOME Project Leader (GPL). Wichert agreed and added that Miguel
+had never shown any life-signs. Joey proposed to amend the original
+proposal to make the GPL an advisor on the SPI Board of Directors
+to invite the GNOME Foundation to appoint an advisor instead.
+
+Vote for resolution
+[2002-05-07.mgs.3](/corporate/resolutions/2002/2002-05-07.mgs.3/)
+to request the GNOME Foundation to appoint an advisor to the SPI Board of
+Directors:
+
+<table><tbody>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted with 5 votes in favour.
+
+## resolution to join FSG
+
+Branden moved to shelve this item until Drew can work out the
+concerns Ian voiced at a previous meeting with the FSG. Everybody
+agrees.
+
+## SPI logo
+
+Wichert said he had mentioned earlier that SPI is going to need a
+proper logo and style for both the website and letterhead. He asked a
+friend to draft some logos, the results of which can be found at
+http://www.spi-inc.org/~wichert/logos/.
+She needs input from the Board in order to make a final logo: which of the
+drafts the board prefers and what needs to be changed in order for the Board
+to accept the logo.
+
+Wichert mentioned one problem with the logos: they do not work
+in black and white and definitely need to be fixed. Manoj proposed
+the Board needed to decide on a few concrete requirements like: must
+look good in black and white, can be reduced in size for
+card/letterheads, etc.
+
+Joey asked all Board members and advisors to comment on the logos, as
+well as on the logos Ean submitted earlier so Wichert can summarise
+them and present the feedback to the artists. Hopefully one of them
+can be selected later via an email vote.
+
+The discussion is shelved until feedback from Board members and advisors
+has been received.
+
+## Next meeting
+
+In accordance with Resolution
+[2002-05-07.wta](/corporate/resolutions/2002/2002-05-07.wta/), the next
+meeting of the SPI Board of Directors will be on June 4th at 19.00 UTC.
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
