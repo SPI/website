@@ -1,0 +1,248 @@
+# Board Meeting, September 17th, 2008
+
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Michael Schultheiss (Treasurer)
+* Luk Claes (luk__)
+* Martin Zobel-Helas (zobel)
+* Neil McGovern (Maulkin)
+* Joshua D. Drake (linuxpoet)
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* David Graham (cdlu)
+
+
+__Board members absent__
+
+* Bdale Garbee (bdale) (President)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Kendrick (kendrick)
+* Jonathan McDowell (Noodles)
+* Kåre Thor Olsen (Kaare)
+* Joe Nahmias (jello)
+
+
+These are the draft minutes for the September 17th, 2008 SPI Board meeting,
+held at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2008/2008-09-17-log.txt)
+
+## President's Report
+
+None received
+
+
+## Treasurer's Report
+
+
+Michael Schultheiss provided the following draft report covering the period
+from the start of the data entry system to the date of this meeting, with
+expenses fully up to date and check-based donations current as of the end of
+August.
+
+> Bank Account Summary:
+> Checking Account Balance: $21,772.07
+> Savings Account Balance: $97,459.23
+
+<pre>
+     project     | expenses  |  income   |   net
+-----------------+-----------+-----------+----------
+ Debian          | 242889.85 | 277428.79 | 34538.94
+ Drupal          |      4000 |   6650.00 |  2650.00
+ Freedesktop.org |           |   1900.00 |  1900.00
+ Gallery         |    275.23 |   3967.93 |  3692.70
+ OpenOffice.org  |           |   1062.90 |  1062.90
+ OVF             |   2368.06 |   2687.14 |   319.08
+ PostgreSQL      |  64983.98 |  75469.14 | 10485.16
+ SPI 5%          |      0.00 |  14156.84 | 14156.84
+ SPI General     |   5221.50 |  16162.65 | 10941.15
+</pre>
+
+Above chart does not include the ~$30,000 in credit card donations that are in
+the process of being entered into the data entry system.  The process of
+importing credit card donations into the data entry system is being documented
+and once that has been completed, reports can be generated ad-hoc.
+
+It was agreed that a complete and non-draft report will be emailed to
+spi-private within two weeks.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz mentioned that the former Secretary, Neil McGovern, is still
+working on and responsible for minutes up to and including the August meeting.
+Jimmy will be responsible for minutes starting with this meeting.
+
+
+## Resolution 2008-09-17.mcs.1: Tux4Kids
+
+Tux4Kids project representative Bill Kendrick explained why Tux4Kids wanted to
+become an SPI associated project, how it came to that decision, and what it
+wants from SPI. Joerg Jaspert, seconded by Jimmy Kaplowitz, moved to approve
+the resolution, granting Tux4Kids associated project status.
+
+
+Vote on Resolution 2008-09-17.mcs.1: Tux4Kids
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 0.
+
+
+Bill Kendrick then accepted the invitation to associate with SPI on behalf of
+Tux4Kids.
+
+
+
+## Statement supporting the World Day Against Software Patents
+
+Jimmy Kaplowitz mentioned that SPI contributing member MJ Ray, who was unable
+to be here for this meeting, proposed on spi-general two weeks before this
+meeting that SPI make a statement in support of this event, and then proposed
+this text one week before the meeting. Discussion of the statement followed.
+Joshua D. Drake questioned whether SPI wanted to be an activist organization as
+opposed to an educational one. Several other board members expressed a
+willingness for SPI to take a position against software patents, and it was
+pointed out that existing SPI resolution 1998-11-16.iwj.2 already stated such a
+position. Joerg Jaspert, seconded by Jimmy Kaplowitz and Neil McGovern, moved
+to vote.
+
+
+Voting on Resolution 2008-09-10.mjr.1: Statement supporting the World Day
+Against Software Patents
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 5, No: 0, Abstain: 2.
+
+
+Jimmy Kaplowitz then solicited people to help prepare a news release and a
+notice to members.
+
+
+## Other Business
+
+Joshua D. Drake invited those located west of Denver to join PostgreSQL at
+their West conference Oct 10-12th in Portland.
+[http://www.pgcon.us/](http://www.pgcon.us/)
+
+He also expressed PostgreSQL's increasing agitation at the continual delays in
+finance finalization.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, October 15th, 2008 at 19:00 UTC in
+#spi on irc.oftc.net.
+
+
+## Appendix A: Current Board Membership
+
+<table>
+<tbody><tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2007-08-06]</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>[2006-07-29]</td><td>Jimmy Kaplowitz/td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>[2007-08-06]</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2007-08-06]</td><td>Luk Claes</td></tr>
+<tr><td>[2007-08-06]</td><td>Joshua D. Drake</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+### Resolution 2008-09-17.mcs.1: Tux4Kids
+
+<pre>
+WHEREAS
+
+ 1. Tux4Kids is a significant Free Software project (an umbrella
+    organization around Tux Typing [II] (TuxType); Tux, of Math Command
+    (TuxMath) and Tux Paint).
+
+ 2. The Tux4Kids developers would like SPI's support and assistance,
+    including receiving and holding property (e.g., donations) on behalf
+    of the project, dispersing donations to project members, legal
+    advice and representation, and possibly other services to be decided
+    later by Tux4Kids.
+
+THE SPI BOARD RESOLVES THAT
+
+ 3. Tux4Kids is formally invited to become an SPI Associated Project,
+    according to the SPI Framework for Associated Projects, SPI
+    Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+    which can be found at
+    http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+
+ 4. Currently, Bill Kendrick and David Bruce are recognised by SPI
+    as the current authoritative decisionmakers for Tux4Kids.  In the
+    event of a disagreement between them, Bill Kendrick's views take
+    precedence.  The decisionmakers will appoint their own successors.
+
+ 5. This invitation will lapse, if not accepted, 60 days after it is
+    approved by the SPI Board.
+</pre>
+
+### Statement supporting the World Day Against Software Patents
+
+_(Secretary's note: this became Resolution 2008-09-10.mjr.1 once approved, though it was not called a resolution upon submission.)_
+
+WHEREAS
+
+1. we aim to aid, assist, cooperate, co-sponsor and otherwise engage
+in concerted action with private, educational and governmental
+organizations and associations on all issues and matters concerning
+the use of computers and computer software and generally; [by-laws]
+
+2. we are opposed to the existence of software patents and support the
+work of the League for Programming Freedom; [1998-11-16.iwj.2]
+
+3. a global coalition of more than 80 software companies, associations
+and developers has declared the 24th of September to be the "World Day
+Against Software Patents";
+[http://stopsoftwarepatents.org](http://stopsoftwarepatents.org)
+
+SPI RESOLVES
+
+1. to support the World Day Against Software Patents in general,
+including signing the petition, issuing a news release and board
+members making such comments to reporters as they feel appropriate;
+
+2. to inform its members about opportunities to take part in events
+against software patents around this time.
+</pre>
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

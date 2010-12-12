@@ -1,0 +1,224 @@
+# Board Meeting, October 15th, 2008
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Michael Schultheiss (Treasurer)
+* Luk Claes (luk__)
+* Martin Zobel-Helas (zobel)
+* Joshua D. Drake (linuxpoet)
+* David Graham (cdlu)
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Neil McGovern (Maulkin)
+* Joerg Jaspert (Ganneff) (Vice President)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Jonathan McDowell (Noodles)
+* Bill Allombert (yp17)
+* Rico Glöckner (mc)
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+* Moray Allan (moray)
+* Greg Sabino Mullane (GSabinoMullane)
+
+
+These are the draft minutes for the October 15th, 2008 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2008/2008-10-15-log.txt)
+
+
+## President's Report
+
+Bdale Garbee presented the following report, with discussion to happen later in
+the meeting.
+
+> SPI was approached in late September by Alan Dechert of the Open Voting
+> Foundation for assistance in preparing a proposal for a new voting system for
+> Los Angeles County.  If OVF should be awarded a contract to pursue this work,
+> SPI would have a role to play in handling the funds. 
+> 
+> After a flurry of emails between OVF and the SPI board, a conference call was
+> held on the 30th of September, attended by Bdale Garbee, Jimmy Kaplowitz,
+> Josh Berkus, Greg Pomerantz, and Michael Schultheiss represting SPI and Alan
+> Dechert, Brian Fox, and Ed Gambel representing OVF. The OVF folks now have
+> the information they need to complete their proposal.
+> 
+> While not all of the details are worked out, the participation needed from
+> SPI would be different from anything we've done before, and would clearly
+> require that we hire at least a part-time contractor to handle the
+> anticipated additional administrative work load.
+> 
+> No further action should be required from SPI until and unless a contract is
+> actually awarded.
+
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following report.
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Balance Sheet as of October 14, 2008
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      17,117.74
+        Key Business Signature Money Market Savings       97,617.96
+        Ameriprise Cash Mgmt Acct                         13,098.74
+
+     Total Current Assets                                127,834.44
+
+   TOTAL ASSETS                                          127,834.44
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    67,762.98
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            2,027.68
+           Gallery Earmark                    4,803.34
+           GNOME Earmark                         20.00
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                  922.03
+           OpenOffice.org Earmark             1,180.52
+           Open Voting Foundation Earmark       392.67
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                13,778.44
+
+        Total held in trust                              100,047.36
+
+        General reserves                                  27,787.08
+
+     Total Equity                                        127,834.44
+
+   TOTAL LIABILITIES &amp; EQUITY                            127,834.44
+</pre>
+
+Bdale expressed his pleasure that all the earmarks are resolved in this report.
+Michael said that delays in report generation should be fixed and future
+reports should be timely. Future reports will, he said, also include an income
+statement in addition to a balance sheet, and he liked the idea of making the
+balance sheet represent the accounts on the last day of the calendar month to
+which the income statement corresponds.
+
+## Secretary's Report
+
+Jimmy Kaplowitz presented the following report.
+
+> I would like volunteers to help move the website away from Plone and
+> generally keep it more accurate and up-to-date, given that it's too
+> cumbersome and buggy to use effectively. I would like to retain the ability
+> to do web-based editing as well as restore the ability to do VCS-based
+> editing. Therefore, something like ikiwiki might make sense.
+> 
+> If you want to volunteer, email secretary@spi-inc.org and admin@spi-inc.org,
+> express your interest, and say what time, effort, and skills you can offer.
+> Also, as requested by the SPI admin team, please explicitly acknowledge that
+> while your opinion as the person doing the work will be seriously considered
+> and will definitely count, the SPI admin team, officers, and board (each as
+> appropriate) have the final say on all aspects of the website.
+> 
+> Also, I have now updated the list of officers on the board and by-laws pages
+> on the website.
+
+
+## Outstanding Minutes
+
+Jimmy moved to approve the September 17th, 2008 minutes.
+
+Vote on September 17th, 2008 minutes
+
+<table><tbody>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 5, No: 0, Abstain: 2.
+
+
+## Discussion of the President's report
+
+Joshua D. Drake thought the OVF proposal mentioned in the president's report
+was a great idea, and mentioned that over 800 votes were cast with their
+software at LinuxWorld. Luk Claes thought it was a nice thing that was
+different from what we were used to. Contributing member MJ Ray wondered if the
+board still wanted to be involved with voting machines. Overall the board
+thought promoting open source voting software in this specific locality was
+better than allowing the default alternative of closed source voting machines
+which would otherwise be used there, and does not consider this to be spreading
+the adoption of voting machines. Martin Zobel-Helas wondered how the additional
+administrative costs of the OVF proposal would be paid for; Jimmy clarified
+that the costs would be paid from the grant funds themselves, and not from
+project-specific funds or (except for the cost of any general SPI tasks) from
+SPI's general fund.
+
+
+## Other Business
+
+David Graham apologized for not being around much during the 2008 Canadian
+federal election, but said he was off the campaign trail and ready to refocus
+his energy on SPI.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, November 19th, 2008 at 20:00 UTC in
+#spi on irc.oftc.net. Note the adjustment in UTC time to compensate for the end
+of Northern Hemisphere daylight saving time and summer time. Local times in
+most parts of the US, Canada, and Europe have not changed from the October
+meeting.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2007-08-06]</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>[2006-07-29]</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>[2007-08-06]</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2007-08-06]</td><td>Luk Claes</td></tr>
+<tr><td>[2007-08-06]</td><td>Joshua D. Drake</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+None
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
