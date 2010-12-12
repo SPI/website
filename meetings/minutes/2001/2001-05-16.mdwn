@@ -1,0 +1,278 @@
+# General Meeting, May 16th, 2001
+
+__Attending__:
+
+* Ben Collins
+* Branden Robinson
+* Ean Schuessler
+* Ian Jackson
+* Manoj Srivastava
+* Martin Schulze (Joey)
+* Nils Lohner
+* Scott McNeil
+* Wichert Akkerman
+
+__Advisors present__:
+
+* Rob Levin
+
+__Agenda__:
+
+1. Appointment of new board members
+2. Appointment of officers (President, VP, Secretary, Treasurer)
+3. Membership (status, deployment)
+4. Fund management / Accounting
+5. Open Source Trademark / Cooperation with OSI
+6. LinuxPPC
+7. Open Projects Network
+8. Discussion of the future of SPI
+
+__Recorder__: Wichert Akkerman
+
+This board meeting was held using Internet Relay Chat. The meeting was
+called to order by Joey Schulze shortly after 1800 GMT.
+Joey opens the meeting
+
+## 1. Appointment of new board members
+
+Ian asks about background of Scott. Summary: FSG president, VA employed,
+responsible for slink-and-half, used to be at SuSE. Nils submits a
+resolution to appoint Ean, Manoj, Scott and Wichert to the board and
+make Branden and Rob advisors. Votes:
+
+Joey: in favour
+
+Ian: in favour
+
+Nils: in favour
+
+Resolution is accepted by the board, and all 6 accept their new roles.
+Branden asks what the role of an advisor is. An advisor is described as
+`advisors to the board are open to bring up matters to the board, and
+can participate and give input on any board discussion'.
+
+## 2. Appointment of officers (President, VP, Secretary, Treasurer)
+
+Joey gives a quick summary of the various functions:
+
+* President
+  * Da-Man
+  * Calls for board meetings
+  * Calls for meetings
+  * Final power about board votings
+  * Public contact
+* Vice-President
+  * Replacement for President
+* Treasurer
+  * Maintain the funds
+  * Maintain the bank account
+  * Provide a public (only within the board!) view of the funds
+* Secretary
+  * Announce passed/failed resolutions
+  * Keep track of pending resolutions, reminding board members
+  * Post resolutions for approval (could be done by pres. as well)
+  * Keep track of discussions and demand their results
+  * Provide minutes of board meetings
+  * Eventually provide minutes/summaries of discussions
+
+Nominations and votes for president are:
+
+Joey: Ean
+
+Nils: Ian, Manoj, Wichert
+
+Wichert: Scott
+
+Joey abstains. Nils is appointed as the new president and accepts.
+
+Nominations and votes for vice president are:
+
+Joey: Ean, Ian, Nils
+
+Wichert: Manoj, Scott
+
+Joey and Wichert abstain. Joey is appointed as the new VP and
+accepts.
+
+It is mentioned that for the roles of secretary and treasurer it
+makes sense to have a US resident. Nominations and votes for treasurer
+are:
+
+Ean: Manoj, Joey,, Nils, Scott, Wichert
+
+Wichert: Ian
+
+Ean abstains, but wins and is appointed as secretary.
+
+Nils nominates Scott for treasurer. There are no other candidates.
+Ian and Scott abstain. Scott is appointed as treasurer and accepts.
+
+Joey asks Ian if he is interested in staying on the board, which
+he is. Darren will be asked later since he was not present.
+
+Branden asks what the attendance requirements for board meetings
+are, Nils replies none are defined.
+
+## 3. Membership (status, deployment)
+
+Ian and Manoj steps out here due to other obligations. Nils explains
+the current situation: Craig Small, Martin Michlmayr, and Wichert
+have been working on getting purcel and the nm.spi-inc.org pages online,
+and the non-contrib membership is almost 100% working. He posted a few
+mails about it to spi-general (everyone should subscribe). The plan is
+to finish the contrib membership process, test it a little, and then
+open the membership to all Debian developers since they don't need
+special checks to become contrib members (contributing to debian is
+enough to qualify them as contrib members). the membership pages will
+hopefully (if we keep working at this rate) be able to go online in 2-3
+weeks. Joey asked if everything that is missing is a technical issue,
+which is correct. Ean asks if there is a membership committee. Nils
+replies there is none yet, but we'll need one once we let non-debianers
+in.
+
+## 4. Fund management / Accounting
+
+Joey explains the current situation:
+
+> SPI gets quite some amount of money. Those who are on the board
+> mailing list or are Debian developers get a rough idea of our funds.
+> However, fund management is not yet active. As a result, the board
+> of directors normally have no clue about the state of our funds
+> which can lead to false assumptions and improper planning. Thus I'd
+> like to discuss how we should continue with this issue. It is my
+> understanding that the bod should be aware of the status and that
+> the most convenient way to achieve this would be a document or a
+> system on the net that contains status of our funds. I would be
+> happy if there was a single text file that contains all relevant
+> data or some https://-website on purcel where we can review the
+> state. I gathered that PostgreSQL and PHP are already running there
+> so this could be done easily. As an example: Most of you should
+> know that there's a second bank account in Europe which we may use
+> to collect and redistribute European/German money, we've got a view
+> to it on https://service.ffis.de/SPI/. It's not quite nice, but it's
+> functional and the BOD can get a status at any time. Additionally,
+> if we get more projects under our umbrella, it gets more and more
+> important to tag the money for specific project if it was earmarked.
+
+Branden strongly suggested seconding this recommendation. Joey
+asked if he should post the current status of the bank account, and
+if non-board members should see the defailt. Ben thought the fund
+status should be public, and mentioned he remembered non-profit funds
+are supposed to be public knowledge. Scott said it was a good idea,
+but wanted to know how often a status would need to be updated. There
+was a consensus that a monthly update is sufficient. Ben remarked that
+any transaction over $1000 should be updated real time. Some discussion
+on the implementation followed, Joey and Scott will work on a proposal
+and present that later. Wichert mentioned that projects should be
+able to see the status of funds earmarked for then, but not from other
+projects. Scott is also in favour of annual reports.
+
+## 5. Open Source Trademark / Cooperation with OSI
+
+Joey quotes a message from Ean Schuessler:
+
+> There are two ways we can go with this Open Source thing. We can
+> turn the domains over to OSI, which I believe is a bad idea for
+> reasons I think I've made relatively clear both in email and in the
+> IRC discussion. Or we can form a committee to solicit assistance
+> from the community and try to turn the domains into a useful tool
+> for insuring that the definition of Free Software stays consistent.
+> I think that protecting the meaning of Free Software (even when it
+> is called Open Source) is well defined in our charter and I think
+> our path of action here should be clear.
+>
+> Rather than making the resolution into a dissertation or manifesto
+> lets keep matters simple and make a decision. It has been hard
+> enough to get this many months old resolution dredged back up so we
+> can vote on it. A simple rewording in the past stalled action on
+> this issue for almost a year and I think that continued fine tuning
+> of meaning is going to pointlessly stall the process, perhaps once
+> and for all.
+
+Wichert thought that trying to remain in control over opensource is not
+going to win us anything; the trademark has been lost already and the
+domain isn't all that useful and using it to control OSI will only be a
+PR nightmare. Branden suggested turning the domains over, but
+accompanying it with an open letter decrying OSI's habit of whoring
+themselves out to any license with enough commercial backing. Ean
+wanted people to join a new Open Source committee to discuss these
+issues. His main personal concern is that a fork between the terms Free
+Software and Open Source is not acceptable. A decision is made to form
+the OS committee under lead of Ean and let them work on the issue.
+
+## 6. LinuxPPC
+
+Joey summarizes some mails:
+
+> Jeff Carr from LinuxPPC came to us and asked if SPI could be an
+> umbrella organization. They want to split off from the linuxppc
+> company because their goals don't match any longer. In detail Jeff
+> told us: First, about me: I'm the current domain holder of
+> linuxppc.org &amp; linuxppc.com. I've been looking to create a nonprofit
+> to take control of the domains and organization. I'd like to start
+> with atleast transfering the linuxppc.org domain( and trademark? )
+> More discussions will happen before we decide whether the .com
+> domain should be part of a non-profit also. That is what I would
+> like to do, but there are other people who will weigh in thier
+> opinion first.
+>
+> I talked with the FSF about having them take the domain, but not
+> everything at linuxppc.org is purely GNU( like the loki games.) So
+> it might be a compromise to thier principles to have a project like
+> this. I thought the SPI might be better because you are already an
+> umbrella nonprofit for several groups. Maybe linuxppc can be the
+> next one?
+
+Nils wanted to know when this initially came up. Joey found an email
+from September 11 from Jeff about this. There is an interested in
+proceeding with this. Wichert volunteers to talk with Jeff and work
+on something more concrete. There is a consensus that the board will
+discuss this further in email.
+
+## 7. Open Projects Network
+
+Robin explains:
+
+> After some thought last year it seemed to me that OPN should
+> probably become a small non-profit in its own right so we set up a
+> donation system and have received the necessary funds to get a
+> non-profit lawyer started on it, I'm in the process of contacting
+> her the nonprofit will be involved in maintaining OPN and in doing
+> some very "personal" advocacy and outreach for the community
+>
+> I think the issues of accepting contributions has been resolved for
+> us, but I want to develop and maintain an ongoing relationship with
+> SPI we may want to talk to you about developing and enhancing our
+> relationship with SPI, but our issues are pretty much resolved for
+> the time being
+
+Nils asked what that relationship would consist of. Rob said `at this
+point, the org is still forming, so the exact nature of the relationship
+is one we should address as OPN's organization becomes clearer'
+
+## 8. Discussion of the future of SPI
+
+Joey discusses:
+
+> What I'd like to see from SPI is:
+>
+> 1. Public noticeable organisation who "fights" for Free Software and
+>    Open Source (i.e. the OS committee)
+> 2. Help projects maintain their funds as well as legal problems
+>    (e.g. Debian and the crypto/css problem)
+> 3. Help projects by giving them a way to distribute their work if
+>    Sourceforge is not sufficient (like Berlin)
+> 4. Get members and especially active members who run projects and
+>    make the Free Software more visible
+
+Wichert mentioned SPI should nourish free software but other free things
+(like openhardware) as well. Scott suggests that the topic should be
+addressed in a short paper from each member. Wichert agreed, and nobody
+objected.
+
+## 9. Date for next meeting
+
+The next meeting will be at July 10 18:00 UTC
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

@@ -1,0 +1,128 @@
+# Board meeting, September 17th, 2001
+
+__Attending__:
+
+* Branden Robinson
+* Ean Schuessler
+* Martin Schulze
+* Nils Lohner
+* Wichert Akkerman
+
+__Invitees present__:
+
+* Ben Collins
+* Rob Levin
+
+__Agenda__:
+
+1. Opening
+2. Roll call
+3. Treasurer Report
+4. Attendance resolution
+5. Membership Report
+6. LinuxPPC update
+7. OS Committee report
+8. SPI lawyer situation
+9. Date set for next meeting
+
+__Recorder__:
+
+The following minutes were adopted (as written at the time) by the Board
+of Directors on September 7th, 2004:
+
+Meeting called to order Mon Sep 17 13:07:24 CDT 2001
+
+## Treasurer Report (Nils, Branden, Scott, Darren)
+
+Nils started by citing Scott McNeil's announcement of willingness
+to resign if anyone were interested in taking over the position of
+Treasurer.
+
+Branden reconfirmed that he is still willing to perform as SPI's
+Treasurer until a more suitable replacement is found, although he
+expressed the difficulties of officially stepping up to the position
+without essential paperwork from Darren.
+
+Resolution [2001-08-30.mgs](/corporate/resolutions/2001/2001-08-30.mgs)
+'Appointment of Branden Robinson as Treasurer' was approved 3-0 votes with
+one abstention.
+
+## Attendance resolution (Branden, Nils)
+
+The necessity for an attendance requirement resolution had been
+discussed in past meetings. The resolution was discussed on the SPI
+board mailing list.
+
+Resolution [2001-09-17.br](/corporate/resolutions/2001/2001-09-17.br/)
+can briefly be summarized as:
+
+An attendance status array of:
+
+1. Present
+2. Absent, with regrets
+3. Absent
+
+* 'Absent, with regrets' counts as half an absence.
+* Two consecutive absences can be grounds for removal.
+* Four or more absences over the course of a year and someone can make a
+  motion for your removal.
+
+Resolution 2001-09-17.br - Board Meeting Attendance Policy was then voted on
+and passed with 5-0 votes.
+
+## Membership Update (Nils)
+
+The membership pages are online as secure pages. They should have been
+activated before now, but Nils did not have time to work on the finishing
+touches and check them so they're still not active but will be soon. Membership
+guidelines have been posted to the board and spi-general lists for discussion,
+but no one has commented so they are probably OK as they are for now. They can
+be changed by the membership committee later. Martin Michlmayr is helping with
+the pages and will help with the approvals as well.
+
+## LinuxPPC update (Wichert)
+
+Wichert has been too busy with other things and will have more information on
+the issue at the next meeting.
+
+## OS Committee report (Ean)
+
+Ean expressed regret at not having made any public statement, explaining his
+unease with the political and wordiness of the in-draft paper. Also felt by Ean
+was the unneeded duplications already stated in the O.S. public message, and
+that the idea DFSG can stay unchanged as licenses continue to evolve is probably
+flawed. Branden suggested that the DFSG should probably remain totally within
+Debian's power to define. Nils agreed adding that SPI should be an umbrella
+organization that suggests but does not dictate. Nils went on to say keeping the
+domains and pushing the DFSG should rally added support. Rob stressed diplomacy
+as key to the integration of the terms, as well as the groups.
+
+Ean proposed a definitive process for determining what is and what is not
+Free Software (aka. Opensource) be created, insuring that Free Software and Open
+source always remain synonyms rather than some insidiously different thing. Also
+inclusion of Developers with a non-uploading status that concentrate on policy
+and other (non-hacking) issues, but are still active and thus know what's going
+on in debian and the community.
+
+## SPI lawyer situation (Ben, Chris)
+
+Ben summarized:
+
+> Right now we are still getting all documents inline, accumulating, and
+> organizing the replies and answers of Chris and the HP lawyer. Also
+> creating the proposal documentation for the actual implementation of
+> the move. However in light of the recent events and resulting
+> governmental scrutiny of cryptography laws, the prudence of the move
+> at this time is questionable. Setting the timeline for finishing the
+> FAQ, policy, and implementation documents of the move at approximately 2
+> months, Ben said he would be taking a very active role in following
+> government actions and proposed bills including driving to D.C.
+> personally to determine if the move is necessary.
+
+## Date set for next meeting
+
+The next meeting is set for Sept. 22, 18:00 UTC.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

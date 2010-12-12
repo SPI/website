@@ -1,0 +1,160 @@
+# Board meeting, November 26th, 2001
+
+__Attending__:
+
+* Branden Robinson
+* Ian Jackson
+* Manoj Srivastava
+* Nils Lohner
+* Wichert Akkerman
+
+__Absent__:
+
+* Ean Schuessler
+
+__Absent with regrets__:
+
+* Martin `Joey' Schulze
+
+__Agenda__:
+
+1. change in board membership
+2. take attendance
+3. approve meeting minutes for July 10, August 7, September 17, October 22
+   and November 13 meetings of this year
+4. modification of email voting
+5. treasurer report
+6. next meeting
+
+__Recorder__: Wichert Akkerman
+
+__Advisors present__:
+
+* Martin Michlmayr
+
+The board meeting was held using Internet Relay Chat. Nils opens the
+meeting at 20:08 UTC.
+
+## 1. Change in board membership
+
+Nils reports that Scott McNeil has sent his resignation to the
+SPI board and notes we will need another board member at some
+point to get back to 8 people on the board. He suggests people
+come up with names so they can be discussed on the board list and
+the people we like can be added to the board at the next meeting.
+
+Three people are mentioned:
+
+* Wichert suggests Drew Streib. Drew was one of the early
+  SourceForge people, and is also active in projects such as the
+  Free Standards Group, FreeDB, gpg key analysis and others.
+* Branden asks Martin if he would be interesting in becoming a
+  board member. Martin is interested but would like more time to
+  consider it.
+* Branden also proposes Thomas Bushnell, one of the Hurd
+  developers.
+
+Branden asks how we will select from multiple candidates and asks
+if we should use the standard resolution Procedure from Debian
+even though it is very heavyweight considering the size of the
+SPI board. No method is decided.
+
+## 2. Approving minutes from previous meetings
+
+Branden asks Nils if he has incorporated the changes he suggested
+for the July 17 minutes. Nils replies that he has.
+
+Since Branden lost his changes for the August 7 minutes, and the
+September 17 minutes are not in order yet, voting for them is
+postponed until the next board meeting.
+
+Branden asks everyone to use ISO 8601 notation for dates in order
+to prevent confusion. Nobody objects.
+
+Since the minutes for August 7 and September 17 are not ready
+voting on them is postponed until the next board meeting.
+
+Vote to approve the minutes of the July 17 meeting minutes as
+posted to the SPI board in message
+`20011126143839.A8817@debian.org`. Votes:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>abstains</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Nils </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The minutes are accepted with four votes in favour, none against
+and one abstention.
+
+Vote to approve the minutes of the November 13 meeting minutes as
+posted to the SPI board in message `20011126214316.D17553@wiggy.net`.
+Votes:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>abstains</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Nils </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The minutes are accepted with four votes in favour, none against
+and one abstention.
+
+## 3. modification of email voting
+
+Wichert asked everyone if they have read Ian's email. Not
+everyone has. Ian offers to rewrite his proposal as a resolution
+which will be resolution
+[2001-11-26.iwj.1](/corporate/resolutions/2001/2001-11-26.iwj.1/).
+Branden remarks he has no strong feelings on this topic and will
+vote with the majority.
+
+Ian asks over how long a period votes should be counted. Wichert
+proposes a week.
+
+Votes on resolution 2001-11-26.ijw.1:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Nils </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is passed with 5 votes in favour and none against.
+
+## 4. treasurer report
+
+Branden asks for permission to ask Chris to go ahead and mail a
+letter to Darren Benham pressuring him to surrender all SPI
+materials he still holds. Nils asks Branden to ask Sean Perry
+for a last check to see if he has made any progressing in
+obtaining them. Wichert proposes to try and contact Sean and
+Darren today for a last time, and if no progress has been made
+yet to proceed with the letter. Nobody objects.
+
+Branden mentions we also need to take care of the P.O.Box and
+asks if he can spend the 19 US dollar needed to open a P.O.Box
+in Indianapolis. Wichert says he would rather have a forwarding
+service that we can continue to use when the board changes.
+Branden agrees but explains that we need a registered agent
+to do that so can not be done until he has the SPI materials
+that Darren currently holds.
+
+Branden asks Wichert how he should go about getting his signature
+as SPI treasurer to open an account at the First Internet Bank
+in Indiana to setup an account for SPI. They agree to do this
+by fax next week when Wichert has returned from the Linux Kongress.
+
+## 5. Next meeting
+
+The next SPI board meeting is set for January 21, 2002 at 20.00 UTC.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
