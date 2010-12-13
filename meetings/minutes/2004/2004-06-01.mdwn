@@ -1,0 +1,167 @@
+# Board meeting, June 1st, 2004
+
+__Attending__:
+
+* Benj. Mako Hill
+* Branden Robinson
+* Bruce Perens
+* David Graham
+* Ean Schuessler
+* Ian Jackson
+* Jimmy Kaplowitz
+* John Goerzen
+* Martin Schulze
+* Wichert Akkerman
+
+
+__Absent__:
+
+* Drew Streib
+
+
+__Invitees present__:
+
+* Bdale Garbee
+* Bill Allombert
+* David Schleef
+* Drew Scott Daniels
+* Jonathan McDowell
+* Scott Dier
+
+
+__Agenda__:
+
+1. Opening
+2. Roll call
+3. Approving minutes: March 2nd, May 4th
+4. Resolution 2004-06-01.dbg.1: Current Board Membership
+5. Annual general members meeting
+6. Resolution 2004-05-28.dbg.1: Expedited Meeting Minutes
+7. Date for next meeting
+
+
+__Recorder__: Wichert Akkerman (Secretary)
+
+SPI board meeting, June 1, 2004, meeting opened: 19:05 UTC, meeting closed:
+19:51 UTC.
+
+## Approving minutes: March 2nd, May 4th
+
+Bruce moved to accept the minutes for the March 2nd May 4th board
+meetings as submitted by the secretary. Ean called for a vote:
+
+<table><tbody>
+    <tr><td>Branden</td>	<td>in favour</td></tr>
+    <tr><td>Bruce</td>		<td>in favour</td></tr>
+    <tr><td>David</td>		<td>in favour</td></tr>
+    <tr><td>Ean</td>		<td>in favour</td></tr>
+    <tr><td>Ian</td>		<td>in favour</td></tr>
+    <tr><td>Jimmy</td>		<td>in favour</td></tr>
+    <tr><td>Joey</td>		<td>abstains</td></tr>
+    <tr><td>John</td>		<td>in favour</td></tr>
+    <tr><td>Mako</td>		<td>in favour</td></tr>
+    <tr><td>Wichert</td>	<td>in favour</td></tr>
+</tbody></table>
+
+The minutes were accepted with nine votes in favour, none against and
+one abstention.
+
+## Resolution 2004-06-01.dbg.1: Current Board Membership
+
+Ean asked if anyone had comments on this
+[resolution](/corporate/resolutions/2004/2004-06-01.dbg.1).
+Nobody had comments so Ean called for a vote:
+
+<table><tbody>
+    <tr><td>Branden</td>	<td>in favour</td></tr>
+    <tr><td>Bruce</td>		<td>in favour</td></tr>
+    <tr><td>David</td>		<td>in favour</td></tr>
+    <tr><td>Ean</td>		<td>in favour</td></tr>
+    <tr><td>Ian</td>		<td>in favour</td></tr>
+    <tr><td>Jimmy</td>		<td>in favour</td></tr>
+    <tr><td>Joey</td>		<td>in favour</td></tr>
+    <tr><td>John</td>		<td>in favour</td></tr>
+    <tr><td>Mako</td>		<td>in favour</td></tr>
+    <tr><td>Wichert</td>	<td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted unanimously.
+
+Branded suggested using this resolution to remind Drew Streib about his
+board membership and the board should invite him to resign if he can not
+fulfil his commitment. Wichert said he already intended to talk to Drew
+since he has not attended three meetings in a row and thus already
+failed the attendance policy.
+
+## Annual general members meeting
+
+David withdrew 2004-05-28.dbg.2 in favour of
+[2004-05-28.dbg.2.iwj.1](/corporate/resolutions/2004/2004-05-28.dbg.2.iwj.1/).
+Branden, Jimmy, Mako and Wichert second
+2004-05-28.dbg.2.iwj.1 and a vote is called for:
+
+<table><tbody>
+    <tr><td>Branden</td>	<td>in favour</td></tr>
+    <tr><td>Bruce</td>		<td>in favour</td></tr>
+    <tr><td>David</td>		<td>in favour</td></tr>
+    <tr><td>Ean</td>		<td>in favour</td></tr>
+    <tr><td>Ian</td>		<td>in favour</td></tr>
+    <tr><td>Jimmy</td>		<td>in favour</td></tr>
+    <tr><td>Joey</td>		<td>in favour</td></tr>
+    <tr><td>John</td>		<td>in favour</td></tr>
+    <tr><td>Mako</td>		<td>in favour</td></tr>
+    <tr><td>Wichert</td>	<td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted unanimously.
+
+## Resolution 2004-05-28.dbg.1: Expedited Meeting Minutes
+
+Ian had noticed an inconsistency: in one place logs were considered to be
+minutes while in another place they were only a stand in. Joey also
+noticed that irc logs were not marked as interim minutes. Ian proposed
+an amendment to fix these two errors, which was accepted and a vote
+was called for the new resolution
+[2004-05-28.dbg.1.iwj.1](/corporate/resolutions/2004/2004-05-28.dbg.1.iwj.1/):
+
+<table><tbody>
+    <tr><td>Branden</td>	<td>in favour</td></tr>
+    <tr><td>Bruce</td>		<td>in favour</td></tr>
+    <tr><td>David</td>		<td>in favour</td></tr>
+    <tr><td>Ean</td>		<td>in favour</td></tr>
+    <tr><td>Ian</td>		<td>in favour</td></tr>
+    <tr><td>Jimmy</td>		<td>in favour</td></tr>
+    <tr><td>Joey</td>		<td>against</td></tr>
+    <tr><td>John</td>		<td>in favour</td></tr>
+    <tr><td>Mako</td>		<td>in favour</td></tr>
+    <tr><td>Wichert</td>	<td>in favour</td></tr>
+</tbody></table>
+
+The resolution was accepted with nine votes in favour and one against.
+
+## Date for next meeting
+
+David asked if the question of board member election would be addressed
+at the meeting. Ean thought it would require more discussion and he did
+not want to drop it on everyone right before the meeting. Jimmy
+suggested that it be dealt with via email or at the next board meeting,
+to which David agreed but added he would like to resolve it by email so
+it would be resolved before the July meeting. Wichert said that anyone
+could suggest this as an agenda item in which case it would have to be
+addressed.
+
+As the by-laws dictate the annual general members meeting (AGM) will be on
+July 1st. Mako noticed that that conflicts with USENIX where he would be
+giving a talk at that date. David added it also conflicts with Canada
+day. Wichert noted that the date is set by the by-laws and can not be
+changed.
+
+Ean suggested combining the AGM and the regular next board meeting. Ian
+suggested having the regular meeting thirty minutes before the AGM so
+the board could prepare. Wichert proposed having the board meeting
+at the standard time of 19:00 UTC and the AGM at 20:00 UTC. After some
+discussion this proposal was accepted.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
