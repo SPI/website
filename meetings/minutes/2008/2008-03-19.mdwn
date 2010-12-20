@@ -1,0 +1,172 @@
+# Board Meeting, March 19th, 2008
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Neil McGovern (Maulkin) (Secretary)
+* Luk Claes (luk)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jimmy Kaplowitz (Hydroxide)
+* David Graham (cdlu)
+
+__Board partially present__
+
+* Martin Zobel-Helas (zobel)
+* Joshua D. Drake (linuxpoet)
+
+__Board members absent with regrets__
+
+* (none)
+
+__Board members absent__
+
+* (none)
+
+__Board advisors present__
+
+* Sam Hocevar (Debian Project Leader)
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Julien Cristau (jcristau)
+* Bill Allombert (yp17)
+
+
+## President's Report
+
+Bdale stated there is nothing to report.
+
+
+## Treasurer's Report
+
+Michael Schultheiss presented an informal report. The data entry system
+has been moved to an SPI machine and he is currently working on new
+accounting software. He hopes to have a proper treasurer report by the
+April meeting.
+
+Current balances:
+checking  			$16,229.31
+savings: 			$126,230.68
+ameriprise investment account:	~$13,000
+
+
+## Secretary's Report
+
+No specific mail received to secretary@
+
+We got a request for our 1023: Michael Schultheiss is working with the
+Internal Revenue Service to get it. He expects a status update from
+Internal Revenue Service before the April meeting.
+
+
+## Outstanding Minutes
+
+Two outstanding, but not ready for voting on.
+
+
+## New board member
+
+postponed
+
+
+## Resolution 2008-03-19.jrk.2: Fixing the Debian Open Use Logo License
+
+The resolution is to relicense the open use logo variant that does not
+include the 'Debian' text. Luk stated that he doesn't see why the
+copyright notice and permission notice has to be included when the logo
+is used. Bdale pointed out that if there are other changes that should be
+made for the other logo variants, they can be handled through additional
+resolutions in the future. Neil McGovern moved to vote, seconded by Joshua D.
+Drake and Michael Schultheiss.
+
+<table><tbody>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Neil McGovern</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Abstain</td></tr>
+</table></tbody>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 2
+
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, April 16th, 2008 at 19:00 UTC in
+#spi on irc.oftc.net.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2007-08-06]</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>[2007-08-06]</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2007-08-06]</td><td>Luk Claes</td></tr>
+<tr><td>[2007-08-06]</td><td>Joshua D. Drake</td></tr>
+<tr><td>[2008-02-27]</td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Approved Resolutions
+
+### Resolution 2008-03-19.jrk.2: Fixing the Debian Open Use Logo License
+
+<pre>
+WHEREAS
+
+1. The Board, at its May 18, 2007 meeting, acknowledged the
+Debian Project's relicensing its logos to meet the Debian Free Software
+Guidelines, conditional upon legal approval by SPI's counsel;
+
+2. SPI's legal counsel, as reported at the Board's June 18, 2007
+meeting, suggested some limitations to the relicensing for the purpose
+of retaining enforceable trademark rights in the word "Debian"; and
+
+3. This modified relicensing plan is amenable to the Board and
+to the Debian Project Leader but has not previously been put into
+effect;
+
+THE BOARD RESOLVES that:
+
+1. Subject to paragraph 2 below, the Debian open use logo depicting a
+red swirl is hereby relicensed under the following terms, where in the          phrase "this software and associated documentation files", the subphrase
+"this software" shall refer to the logo itself:
+
+      Permission is hereby granted, free of charge, to any person
+      obtaining a copy of this software and associated documentation
+      files (the "Software"), to deal in the Software without restriction,
+      including without limitation the rights to use, copy, modify, merge,
+      publish, distribute, sublicense, and/or sell copies of the Software,
+      and to permit persons to whom the Software is furnished to do so,
+      subject to the following conditions:
+
+      The above copyright notice and this permission notice shall be
+      included in all copies or substantial portions of the Software.
+
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+      KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+      WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+      NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+      BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+      AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+      IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+      THE SOFTWARE.
+
+2. This relicensing shall only apply to the version of the Debian open
+use logo which does not include the trademarked word "debian".
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

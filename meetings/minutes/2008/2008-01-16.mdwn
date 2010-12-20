@@ -1,0 +1,192 @@
+# Board Meeting, January 16th, 2008
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Neil McGovern (Maulkin) (Secretary)
+* Michael Schultheiss (Treasurer)
+* David Graham (cdlu)
+* Luk Claes (luk)
+* Joshua D. Drake (linuxpoet)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+
+
+__Board members absent__
+
+* Josh Berkus (jberkus)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Jimmy Kaplowitz (Hydroxide)
+* Mario Iseli (tiCo)
+* Rico Gloeckner (mc)
+* Kare Thor Olsen (Kaare)
+* MJ Ray (slef)
+
+
+These are the draft minutes for the January 16th, 2008 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2008/2008-01-16-log.txt)
+
+
+## President's Report
+
+Just after the start of the year, several board members discussed on IRC the
+process for gathering together the information for our 2007 annual report, took
+assignments to deliver the various components, and moved the work in process
+and some historical documents to online shared version control.  A key
+component that is not ready yet is a financial report, I also have content to
+deliver. I think we're on track to deliver a 2007 report towards the end of
+this month, almost certainly before our next board meeting.
+
+
+## Treasurer's Report
+
+Michael Schultheiss is working on a report for our status as of December 31,
+2007. He's also planning on contacting our accountants to get recommendations
+about bookkeepers so we can more easily generate reports. Joerg Jaspert should
+know the status of floyd, Michael will liaise with him. Our CPA has finished
+our tax return for 2006 and it's just awaiting Michael's signature and
+submission to the IRS.
+
+
+## Secretary's Report
+
+No specific mail received to secretary@
+
+
+## Outstanding Minutes
+
+One set of minutes was raised for approval this meeting:
+
+Neil McGovern moved to approve the December 19th, 2007 minutes, seconded by
+Michael Schultheiss.
+
+<table><tbody>
+	<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+	<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+	<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+	<tr><td>David Graham:</td><td>Abstain</td></tr>
+	<tr><td>Luk Claes:</td><td>Yes</td></tr>
+	<tr><td>Joshua D. Drake:</td><td>Yes</td></tr>
+	<tr><td>Martin Zobel-Helas:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 6, No: 0, Abstain: 1.
+
+
+## Resolution 2007-12-29.jdd.1 - Madwifi as an associated project
+
+Neil McGovern moved to approve resolution 2007-12-29.jdd.1 - Madwifi as an
+associated project, seconded by David Graham.
+
+<table><tbody>
+	<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+	<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+	<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+	<tr><td>David Graham:</td><td>Yes</td></tr>
+	<tr><td>Luk Claes:</td><td>Abstain</td></tr>
+	<tr><td>Joshua D. Drake:</td><td>Yes</td></tr>
+	<tr><td>Martin Zobel-Helas:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 6, No: 0, Abstain: 1.
+
+
+
+## Resolution 2008-01-08.jdd.2 - Adding Paysimple as a payment provider
+
+Neil McGovern moved to approve resolution 2008-01-08.jdd.2 - Adding
+Paysimple as a payment provider, seconded by Michael Schultheiss.
+
+<table><tbody>
+	<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+	<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+	<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+	<tr><td>David Graham:</td><td>Yes</td></tr>
+	<tr><td>Luk Claes:</td><td>Yes</td></tr>
+	<tr><td>Joshua D. Drake:</td><td>Yes</td></tr>
+	<tr><td>Martin Zobel-Helas:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 0.
+
+
+## Resolution 2008-01-08.jdd.3 - Removal of wxWidgets</h1>
+
+David Graham moved to approve resolution 2008-01-08.jdd.3 - Removal of
+wxWidgets, seconded by Joshua D. Drake.
+
+<table><tbody>
+	<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+	<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+	<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+	<tr><td>David Graham:</td><td>Yes</td></tr>
+	<tr><td>Luk Claes:</td><td>Yes</td></tr>
+	<tr><td>Joshua D. Drake:</td><td>Yes</td></tr>
+	<tr><td>Martin Zobel-Helas:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 0.
+
+
+## Discussion of Josh Berkus's board member status
+
+Josh Berkus has indicated to the board that his future schedule might make it
+difficult to attend board meetings, and volunteered to step down from the board
+if that would help ensure we meet quorum. A reading of the bylaws indicates
+that it would make no difference to our quorum requirements.
+
+Joshua D. Drake queried adding an additional member, but this would increase
+quorum requirements.
+
+Neil McGovern is to call for interest to the membership, to be discussed by the
+board for appointment next meeting as an interim board member replacing Josh
+Berkus.
+
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, February 20th, 2007 at 19:00 UTC in
+#spi on irc.oftc.net.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2007-08-06]</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>[2006-07-31]</td><td>Josh Berkus</td></tr>
+<tr><td>[2007-08-06]</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2007-08-06]</td><td>Luk Claes</td></tr>
+<tr><td>[2007-08-06]</td><td>Joshua D. Drake</td></tr>
+</tbody></table>
+
+Resolution 2007-12-29.jdd.1 - Madwifi as an associated project
+
+Resolution 2008-01-08.jdd.2 - Adding Paysimple as a payment provider
+
+Resolution 2008-01-08.jdd.3 - Removal of wxWidgets
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

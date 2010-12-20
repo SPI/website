@@ -1,0 +1,333 @@
+# Board Meeting, February 16th, 2007
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Vice President)
+* Neil McGovern (Maulkin) (Secretary)
+* Josh Berkus (jberkus) (Treasurer)
+* Ian Jackson (IanJackson)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+* Branden Robinson (Overfiend)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Schulze (Joey)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* Robert Treat - PostgreSQL (xzilla)
+
+
+__Registered guests present__
+
+* Joerg Jaspert (Ganneff)
+* Kaare Thor Olsen (Kaare)
+* MJ Ray (slef)
+* Julien Cristau (jcristau)
+* John Goerzen (CosmicRay)
+
+
+These are the draft minutes for the February 16th, 2007 SPI Board meeting, held
+at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2010/2007-02-16-log.txt)
+
+
+## President's Report
+
+<pre>
+Nothing significant to report this month.
+</pre>
+
+
+## Treasurer's Report
+
+<pre>
+Account Balances
+-------------------
+As of 2007-01-31
+FirstIB Checking: $93,361.78
+Key Bank Checking: $30,058.20
+Ameriprise Financial (2006-12-31): $12,372.69
+
+Banking Status
+-------------------
+We have opened an account at Key Bank, which hopefully will suit our needs
+better than FirstIB did.  After 90 days, if we are happy with Key Bank and
+have cleared all checks from FirstIB, we will close the FirstIB account.
+
+We should consider transferring the bulk of the Debian funds to the
+investment account so they will earn interest if not being spent.
+
+We have also opened an account with XETrade.   This will allow us to do
+foreign-current wire transfers for between $10 and $25 and much faster
+than via our bank.  XETrade services should be available by 2/16.
+
+Data Entry Status
+---------------------
+After several OSS options failed for bulk data entry, with the help of a
+consultant we constructed an ad-hoc data entry interface for donations and
+expenses in PHP+PostgreSQL on one of my development servers.  Current
+status of data entry backlog is:
+2006 Donations: 100% entered, 70% deposit dated, 30% checked, 0% reconciled
+2007 Donations: 0% entered
+2006 Expenses: 95% entered, 30% checked, 0% reconciled
+2007 Expenses: entered to 2007-01-31
+
+Income Report by received date and organization
+2006 (Draft)
+   designation   | expense  |  income  |   net
+-----------------+----------+----------+----------
+ Debian          | 41432.44 | 91816.15 | 50383.71
+ Drupal          |          |  6650.00 |  6650.00
+ Freedesktop.org |          |  1900.00 |  1900.00
+ Gallery         |          |   395.76 |   395.76
+ OVF             |     1500 |  1696.16 |   196.16
+ PostgreSQL      | 19187.92 | 40207.37 | 21019.45
+ SPI General     |  2655.08 |  3218.48 |   563.40
+ %5 Commission   |          |  7396.79 |  7396.79
+totals:          | 64755.44 |153280.71 | 88525.27
+
+January draft income report:
+   project   | expenses |  income  |   net
+-------------+----------+----------+----------
+ Debian      |          | 11129.97 | 11129.97
+ Gallery     |          |   242.88 |   242.88
+ OVF         |   374.18 |   111.44 |  -262.74
+ PostgreSQL  |   475.00 |  1121.21 |   646.21
+ SPI 5%      |     0.00 |   571.44 |   571.44
+ SPI General |    55.52 |  1985.48 |  1929.96
+
+However, this income report rests on an important question of how we book
+money for fundraising purposes.
+
+Each donation has up to four dates associated with it: the date it is
+donated (check date or book date for credit cards), the date it is sent to
+us, the date it is received and the date it is deposited in an SPI bank
+account.
+
+We have no current guidelines on when we should book income for fundraising
+purposes, that is, when it should be available for the projects to use.
+While book date for the IRS is deposit date, I'm reluctant to use that for
+the income date because our deposits for some kind of income (such as
+credit cards) can be as much as 6 weeks after the donor makes the gift.  I
+don't want to tell a project they can't write checks if I know they have
+$4000 on the way.
+
+The above income statement ... and the one for 2006 ... were based on the
+somewhat complex calculation of mailbox receipt date for checks and cc book
+date for credit cards.   I don't know if this is misleading and if I
+should be doing it this way.
+
+
+Outstanding issues:
+Still need detail on $29,000 sent to Mexico for DebConf6 and one $500
+travel compensation, plus about $3000 in donations whose designation is
+being reviewed.
+There are some discrepancies between our and FirstIB's accounts totalling
+about $900 which we are still resolving.
+
+Once data entry is completed, I'll be discussing with financial officers
+whether or not to move to LedgerSMB1.2 or to wait for 1.3 which will have
+resolved a number of issues which make it currently cumbersome for us to
+use.
+
+Other Notes
+---------------
+The treasurer again points out that SPI, particularly Debian, is
+accumulating large amounts of cash.   This is not what 501(c)3s are
+supposed to do; we should come up with some plans for spending it or put
+it into an endowment.
+
+Maybe it's time for a legal defense fund, or the E&amp;O insurance we talked
+about?  Or can I at least fund major work in accounting software?
+
+I will be working with the CPA, schultmc and other relevant parties about how
+to get this into a proper accounting system for our 2006 taxes and beyond.
+</pre>
+
+Motion to accept treasurer's report, moved by Jimmy Kaplowitz, seconded by
+Branden Robinson.
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 8, No: 0, Abstain: 0.
+
+
+## Secretary's Report
+
+<pre>
+I've received one mail to secretary@spi-inc.org, which was carbon-copied to
+spi-general. All other communication has been resolutions on public SPI mailing
+lists.
+
+All other communication has been resolutions on public SPI mailing lists.
+</pre>
+
+
+## Spanish Trademark Report
+
+<pre>
+The current PoA form is progressing a little slower than I first envisioned,
+which is due to myself misplacing a email from Greg asking some questions about
+the form. This has now been forwarded to Javier for clarification, and I hope
+to have affirmative action to report by next board meeting.
+</pre>
+
+
+## Outstanding Minutes
+
+__Current status:__ January 16th 2007 minutes have been raised for approval of
+the board.
+
+David Graham moved, seconded by Bdale Garbee that Josh Berkus should be marked
+absent with regrets for the January 16th 2007 meeting.
+
+Motion to mark Josh Berkus absent with regrets for January 16th 2007 meeting
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus</td><td>Abstain</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 1.
+
+Motion to accept the January 16th minutes, moved by David Graham, seconded by
+Branden Robinson.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus</td><td>Abstain</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 1.
+
+
+## Resolution 2007-01-16.iwj.5 / 2006-12-18.mjr.iwj.1 : Member communications
+
+Motion to approve amendment 2007-01-16.iwj.5: Member communications, moved by
+Neil McGovern, seconded by David Graham.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 1.
+
+
+Motion to approve resolution 2007-01-16.iwj.5 (as amended from
+2006-12-18.mjr.iwj.1): Member communications, moved by Neil McGovern, seconded
+by Michael Schultheiss.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Abstain</td></tr>
+<tr><td>Josh Berkus</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>No</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Abstain</td></tr>
+<tr><td>Branden Robinson:</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 4, No: 1, Abstain: 3.
+
+
+## Items from the DPL
+
+The two remaining items on this list have been covered in conversation with the
+DPL since the agenda was posted, and/or as part of the Treasurer's report
+earlier in this meeting.  This item is therefore closed.
+
+
+## Opensource.org report
+
+There has been a request that the discussion that took place on the list
+spi-board is released to the membership. For this, we plan to release the
+mailbox to the membership, and a summary of the discussion publicly to follow.
+
+Ian Jackson moved to release the mbox, including only specifically-intended
+relevant headers, to the members, seconded by Branden Robinson.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 8, No: 0, Abstain: 0.
+
+
+## Adjournment
+
+The meeting was adjourned until Friday March 16th, 2007, 20:00 UTC.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Josh Berkus</td><td>Treasurer</td></tr>
+<tr><td>[2004-07-29]</td><td>Branden Robinson</td></tr>
+<tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2003-11-29]</td><td>Ian Jackson</td></tr>
+<tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+Resolution 2007-01-16.iwj.5: Member Communications
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

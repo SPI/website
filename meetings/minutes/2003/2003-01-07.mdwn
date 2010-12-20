@@ -1,0 +1,225 @@
+# Board meeting, January 7th, 2003
+
+__Attending__:
+
+* Branden Robinson
+* Drew Streib
+* Ean Schuessler (presiding)
+* Ian Jackson
+* Manoj Srivastava
+* Wichert Akkerman
+
+__Absent with regrets__:
+
+* Martin "Joey" Schulze
+
+__Invitees present__:
+
+* Antti-Juhani Kaijanaho (contributing member)
+* Bdale Garbee (contributing member)
+* Bill Allombert (contributing member)
+* Clint Adams (contributing member)
+* David B. Harris (contributing member)
+* David Graham (contributing member)
+* Jimmy Kaplowitz (contributing member)
+* Martin Michlmayr (contributing member)
+* Michael Banck (contributing member)
+* Peter Makholm (contributing member)
+* Peter Palfrader (contributing member)
+* Pierre Machard (contributing member)
+* Rene Engelhard (contributing member)
+* Rune Broberg (contributing member)
+* Scott Dier (contributing member)
+* Tina Gasperson
+
+__Agenda__:
+
+1. Report from the treasurer
+2. New board members
+3. Charter for the bylaws committee
+4. Copyright assignment
+5. Next meeting
+
+__Recorder__: Wichert Akkerman
+
+## Report from the treasurer
+
+Branden sent his report to the spi-private mailing-list earlier. Since it
+contained non-public information such as account balances he could not send
+it to a public forum. He welcomed any further questions.
+
+Wichert asked if account ownership should be transferred to Branden.
+Branden answered that he already was owner of all three accounts and that
+you can have more than one person with signing authority; the real question
+was whether Nils Lohner's signing authority should be revoked now or later.
+Wichert suggested that should be done now.
+
+Since the report was mailed minutes shortly before the meeting people
+had not gotten enough time to properly study the report and could cause
+a spectrum of discussion it was suggested to have further discussions
+on the spi-private mailing-list.
+
+Bdale asked if there was a split balance showing Debian's assets right
+now. Branden said that he did not have one and added why:
+
+> because I cannot come up with an answer in any time-frame without some
+> premises decided. SPI has never, to my knowledge, officially adopted a
+> policy of how to divide up the cash in the AXP Cash Management account
+> where almost all of the money is. Previous Treasurers did not leave good
+> enough records for me to know how much is Debian-specific and how much
+> is SPI's. Previous minutes discuss a "5%" rule, and I recommend that
+> interested parties review old minutes for this discussion.
+
+He added that Bdale's input (in his role as Debian project leader) was
+essential here. Bdale suggested that the board discuss this and determine an
+answer before the next meeting.
+
+Ian moved that the board thanks Branden and accepts his report. Ean called
+for votes:
+
+<table><tbody>
+ <tr><td>Branden</td><td>abstains</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The motion is accepted.
+
+## New board members
+
+Wichert asked everyone to read draft resolution
+[2003-01-06.wta.1](/corporate/resolutions/2003/2003-01-06.wta.1/)
+and added:
+
+> As discussed in the previous meeting we want add members to the spi
+> board. This resolution explains the method we would like to use to
+> implement that.
+
+Drew asked if the board can choose any way to elect new members. Wichert
+confirmed that.
+
+Ian thought the time periods in the draft were too short; doubling them
+would help. Someone could miss out if they are on holiday for a week or
+happened to be on vacation when the call for votes is sent. Branden replied
+that would still be true if the period was a month or a year. Ian agreed but
+said they were less likely to be away for 14 days than 6.
+
+Wichert said the list of candidates would be seeded with people who
+volunteered earlier. Ian mentioned the resolution did not say that so
+candidates will have to re-volunteer.
+
+Scott Dieman asked if there was a reason the suggestion to have short
+position papers on the SPI web-site was not included in this resolution.
+Wichert replied that that was a technicality and felt that that did not need
+to be included in the resolution.
+
+Ian also wondered who would be responsible for the organisation,
+administrative decisions, act as returning officer, etc. Wichert replied
+that he considered that part of the tasks of the secretary and updated the
+draft to reflect that.
+
+Ean called for a vote for Ian's proposal to extend the nomination period
+to 14 days:
+
+<table><tbody>
+ <tr><td>Branden</td><td>against</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>abstains</td></tr>
+</tbody></table>
+
+The proposal is accepted and Wichert updated the draft accordingly.
+
+David Graham added:
+
+> Ok, I'd just like to say I think the extra week is ... more time Joey
+> put out a call for nominations in November there have already been
+> several weeks.
+
+Wichert said he would contact everyone who volunteered earlier and ask them
+to consider nominating themselves again.
+
+Ean called for a vote to accept the resolution:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted.
+
+## Charter for the bylaws committee
+
+Wichert asked everyone to read the draft for resolution
+[2003-01-06.wta.2](/corporate/resolutions/2003/2003-01-06.wta.2/)
+which was the result of a discussion at the previous board meeting and
+further discussion on the spi-general mailing-list.
+
+Drew commented:
+
+> like that resolution, but might want to request an addition of a
+> review of the guidelines for membership, since if we are giving
+> membership more power, we want to be clear on what constitutes
+> membership, and how it is gained. the 'guidelines' on spi-inc.org are
+> pretty shaky at best
+
+Wichert said that could be suggested to the committee. Ian suggested
+officially adding that to the resolution as an item to consider. Wichert
+agreed and added it.
+
+Bdale reminded the board that months ago there was discussion leading in
+which it was decided that all Debian developers were de facto contributing
+members. Further discussion revealed that it was decided that Debian
+developers are automatically eligible for SPI contributing membership but
+will not be automatically enlisted at such. Bdale promised to remind Debian
+developers about this and ask them to sign up as contributing members so
+they could participate in the process to select new members for the board of
+directors.
+
+Ean called for a vote to accept the resolution:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Manoj </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted.
+
+Ean suggested proceeding to assign a chair to the by-laws committee.
+Branden suggested David Graham and John Goerzen. David Graham noted that a
+temporary chair could be elected who can build the committee. Jimmy
+Kaplowitz was willing to serve on the committee, either as chair or as a
+regular member. John Goerzen was also interested in the position and added
+he was interested in reforming the system and ridding it of its current
+problems. Manoj said he had full confidence in John. Ean asked John if he
+had the time needed. John confirmed that and added he would be pleased to
+lead the effort. Everyone agreed John would make a good chair, and as
+ranking officer on the board Ean appointed John Goerzen as chair of the new
+by-laws committee.
+
+## Copyright assignment (Martin Michlmayr)
+
+Due to the length of the meeting this agenda item was postponed until the
+next board meeting.
+
+## Next meeting
+
+In accordance with resolution 2002-05-07.wta the next meeting will be at
+Tuesday, February 4 at 19:00 UTC.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

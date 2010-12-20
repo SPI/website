@@ -1,0 +1,315 @@
+# Board meeting, January 21st, 2002
+
+
+__Attending__:
+
+* Branden Robinson
+* Drew Streib
+* Ean Schuessler
+* Ian Jackson
+* Martin "Joey" Schulze
+* Wichert Akkerman
+
+__Absent__:
+
+* Manoj Srivastava
+
+__Absent with regrets__:
+
+* Nils Lohner
+
+__Agenda__:
+
+1. Approving minutes from previous meetings
+2. Possible new board members
+3. OSI advisor exchange proposal
+4. Enforcing SPI's trademarks
+5. Joining FSG
+6. Treasurer update
+   * 5% Strategy
+   * Accepting credit card and paypal donations
+   * Investment strategy
+7. Debian domains
+8. Next meeting
+
+__Recorder__: Wichert Akkerman
+
+The board meeting was held using Internet Relay Chat. Wichert opens the
+meeting at 20:08 UTC.
+
+## 1. Approving minutes from previous meetings
+
+Vote to approve the minutes of the November 26 meeting minutes as
+posted to the SPI board in message 20020121201618.GE28679@wiggy.net.
+
+Votes:
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The minutes are accepted with 4 votes in favour, none against and
+one abstention.
+
+## 2. Possible new board members
+
+Three people have been suggested as possible new members for the SPI
+board of directors:
+
+* Drew Streib
+* Thomas Bushnell
+* Martin Michlmayr
+
+Drew presents himself:
+
+> I'm former VA Linux, was a founder of sourceforge.net (although no
+> longer affiliated them over some philosophical differences). Now I
+> work for the free standards group, but continue to be involved in a
+> variety of things, and in particular free software and law issues. I
+> also am a freedb team member, and run the services for the main
+> server. You might also have seen my keyanalyze report, as I run that
+> monthly analysis of the web of trust (as well as keysignings quite a
+> bit now). I'm sort of a collection of a variety of projects, mostly
+> focusing on actual implementations
+
+When asked where he saw SPI going in the grand scheme of things:
+
+> I've followed what SPI has been doing for awhile now. I can only
+> comment a little on what major issues need to be solved (that SPI
+> might be appropriate for). We continue to face obstacles to free
+> software, but this has largely moved away from the technical and
+> towards other issues: monopoly tactics, legal strong-arming and
+> industry interests (SSSCA/DMCA) etc. We approach a point where using
+> free software may be appropriate, but not available due to other
+> non-technical reasons. The world could certainly use help from
+> organisations (SPI) to help free software projects not just from a
+> pure resources point of view, but from a lobbying/legal point of
+> view as well. I wouldn't presume to know more about SPI (in
+> particular) direction than the board, but can comment on my
+> particular lean, and on this (legal) area that is my greatest
+> concern. Thus my setting up of a mailing list recently, for free
+> software/law. We've seen most of the great legal minds of the world
+> (free software related) join the list in the past couple months. I
+> volunteer (when then need it) with EFF as well, in my mind one of
+> the most important organisations of our time.
+
+Branden mentions that Drew also paid out of his own pocket for new
+Debian hardware since SPI's financial situation has not been
+straightened out yet.
+
+Discussion on Martin and Thomas is postponed until a later meeting where
+they can be present.
+
+Wichert asks Drew if he is willing to serve as an SPI board member. Drew
+replies he is. Wichert proceeds to call a vote to add Drew as a member
+to the SPI board of directors.
+
+Votes:
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Joey </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The vote is accepted with 5 votes in favour and none against. Drew joins
+the Board as a voting member.
+
+## 3. OSI advisor exchange proposal
+
+Nils Lohner posted a draft advisor exchange proposal for OSI and SPI. Ean
+mentions he posted one comment. Branden agrees with the comment and
+prepares an update text. Ean thinks the proposal is a good first step
+and thinks there is something fundamentally wrong if OSI can not agree to it.
+Branden thinks it is important to qualify "control". Ean thinks we
+should phrase it so that control is deferred instead of permanently
+granted. Ian wants to change the technical and billing contacts. Branden
+wants to keep the billing contact in order to keep things simple and
+obvious that SPI still owns the domain. Wichert mentions that, from
+InterNIC's perspective, InterNIC is the legal owner instead of the
+registrant; it might be interesting to consider changing to a
+different registrar to change that. Ean explains that SPI paying for the
+domain underscores our ownership if we ever have to deal with ICANN in
+case of a dispute. Wichert mentions that the domain is paid for until
+2008 so until then this is not a real issue. Ian decides he does want
+SPI to remain the billing contact. Branden mails the updated text and a
+vote is called.
+
+Votes for presenting joint resolution 2002-01-21 C.02.br to OSI and
+implementing it if they agree:
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>abstains</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>abstains</td></tr>
+ <tr><td>Joey </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The resolution is accepted with 3 votes in favour, none against, and 3
+abstentions.
+
+## 4. Enforcing SPI's trademarks
+
+Wichert explains:
+
+> We have two options:
+>
+> 1. enforce the Debian trademark, which could cost us a lot of money
+> 2. don't, so nobody else can get rights to it either
+
+Drew adds a third option: enforce the trademark loosely (i.e. with simple
+"cease-and-desist" letters) but with enough force that it could be legally
+considered taking "reasonable action".
+Wichert mentions that from what he gathered from Chris Rourk we will
+have to sue if people do not comply. Ian asks if we can do that without
+lawyers. Drew mentions we can so with minimal lawyers (have them look over
+letters, etc.) up to the point of suing. RIAA does the same thing and
+gets 99% compliance on simple threat letters. Ean explains that unless
+we take legal action against a person using a trademark they establish
+rights in their use of the mark. Branden is in favour of the 3rd option,
+which at least puts off the decision for enforcement until an actual
+situation comes up. Everyone agrees. This means our strategy will be:
+
+1. contact an offender ourselves
+2. send a letter
+3. ask Chris Rourk to send a letter
+4. go to the media
+5. sue
+
+The letter in step 2 will have to be sent by the SPI secretary or an
+appointed legal secretary.
+
+## 5. Joining FSG
+
+Wichert proposed a resolution to have SPI sign up as a member of the
+Free Standards Group (FSG). Ian asks what the "the membership will be
+paid by" will mean for SPI. Drew explains that there has to be a value
+of some sort attached to the membership. In lieu of a fee, the FSG accepts
+"community work" related to free software and standards. There will be a
+contract addendum which clearly states that no money will be exchanged.
+Since this addendum has not been written yet a vote on the resolution is
+postponed.
+
+## 6. Treasurer update
+
+### 6.1 The 5% strategy
+
+Branden explains the proposed 5% strategy:
+
+> If we keep money in accounts we hold on behalf of a member project,
+> we retain 5% of all deposits made on behalf on that member project.
+> Plus, member projects pay any expenses accrued by SPI in the course
+> of doing things the member project directs SPI to do.
+
+Ian is not convinced that we need this 5% and asks if we do not got enough
+funds from un-earmarked cheques. Ean thinks it is a low overhead really,
+especially if we come up with account management stuff. Wichert mentions
+a 5% tax means our bookkeeping will be much simpler since we will not
+have to bill individual small expenses to projects. Wichert is more
+worried if Debian will accept the 5% than if it is too much. Branden
+mentions that Ben (the Debian Project Leader) did not object to the
+percentage. Branden mentions that SPI is answerable to member projects
+so if they do not feel they're getting their money's worth for the 5%, we
+can always reconsider.
+
+Ian also mentions we need to figure out how to divide the money we
+currently have. Branden answers that SPI already has about 5% of
+Debian's money so this policy will only affect future donations.
+
+Wichert calls for a vote on the 5% strategy
+
+<table><tbody>
+ <tr><td>Branden</td><td>in favour</td></tr>
+ <tr><td>Drew </td><td>abstains</td></tr>
+ <tr><td>Ean </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>abstains</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+Vote is accepted with 3 votes in favour and 2 abstentions. (Joey had
+departed the meeting by this time.)
+
+### 6.2 Accepting credit card and paypal donations
+
+There is a desire to be able to accept donations using a means that is
+easier for donors than mailed checks or money orders. Both credit cards and
+PayPal have been suggested.
+
+Drew mentions that the FSG and the GNOME foundation are doing something
+similar. Tim Ney is doing the work for GNOME. He thinks their conclusion
+was to use a merchant account at a bank, which costs about 5%. Wichert
+asks if this is just for credit cards. Drew confirms this and mentions
+we can not avoid 2-3% for Mastercard &amp; Visa charges.
+
+Branden mentions he has heard enough bad stories about PayPal to make
+him nervous about them. Ian has read the PayPal terms and conditions and
+thinks we should avoid them.
+
+Branden also mentions he is willing to waive the SPI 5% surcharge on web
+based donations on the theory that the volume of those will be higher.
+
+Wichert asks Branden and Drew to work on a proposal for the next SPI
+board meeting. They agree, and Drew will take charge on this.
+
+### 6.3 Investment strategy
+
+Branden:
+
+> I don't want to move on this until I know SPI is square with the
+> state and federal authorities (translation: IRS), but... I liked
+> the idea Albert Rahman pitched about rolling investment certificates.
+> It's kind of silly to have so much money in the accounts getting eaten
+> up by inflation, with the prime rate so low.
+
+Drew agrees a conservative portfolio is sane, and rolling investments
+would fit a conservative strategy. Branden wants to know if anyone has
+any passionate feelings. He does not intend to invest much of SPI's total
+assets at first. He suggests setting aside USD6000 for 6 months' worth of
+USD1000 certificates. Drew wonders about the liquidity we want to
+maintain. Branden explains that the total assets at the moment are
+USD30k-40k so that suggests 6000 is a small part. The withdrawal penalty
+is also very low: you get back the principal minus about 10 dollars.
+Ian asks if they are stock index linked with a 0% floor. Branden
+confirms and adds there is also a 8% ceiling. Drew thinks it would be
+sane as a general strategy to invest around 50% in rolling certificates.
+Branden is not opposed to that as a long term goal but he wants to
+gradually move towards that. He also wants to get a good feel for our
+income and outlay first and wonders what the effect of the Matt
+Pavlovich donation will have (SPI is donating to a trust fund for his
+legal defence in DVD CCA versus 10 named defendants + 400 others). Ian
+proposes to authorize Branden to invest up to USD2000 per month in 6-month
+investment certificates. Wichert calls for a vote.
+
+<table><tbody>
+ <tr><td>Branden</td><td>abstains</td></tr>
+ <tr><td>Drew </td><td>in favour</td></tr>
+ <tr><td>Ian </td><td>in favour</td></tr>
+ <tr><td>Wichert</td><td>in favour</td></tr>
+</tbody></table>
+
+The vote is accepted with 3 votes in favour and 1 abstention. (Ean had
+departed the meeting by this time.)
+
+## 7. Debian domains
+
+The debian.org domain has been successfully transferred to SPI. The
+debian.com and debian.net domains have not been transferred yet since
+Darren Benham is not answering the transfer confirmation requests. He is
+willing to give us the CRYPT-PW passwords for the domains so we can
+transfer them without his help though. Drew asks if this is a registrant or
+contact change. Wichert explains we are transferring the domains to Black
+Cat (who uses OpenSRS) as well as changing the contact information to SPI
+contacts.
+
+## 8. Next meeting
+
+The next SPI Board meeting is set for March 4, 2002 at 20.00 UTC.
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

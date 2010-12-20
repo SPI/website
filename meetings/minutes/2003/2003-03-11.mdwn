@@ -1,0 +1,180 @@
+# Board meeting, March 11th, 2003
+
+__Attending__:
+
+* Ean Schuessler (presiding)
+* Branden Robinson
+* Ian Jackson
+* M. Drew Streib
+* Martin "Joey" Schulze
+* Wichert Akkerman
+
+__Absent with regrets__:
+
+* Manoj Srivastava
+
+__Advisors present__:
+
+* Bdale Garbee
+* Guido van Rossum
+
+__Invitees present__:
+
+* Benjamin Mako Hill
+* Bill Allombert
+* Bruce Perens
+* Christophe Barbe
+* David B. Harris
+* David Graham
+* Enid Gabriella "Biella" Coleman
+* JP Sugarbroad
+* John Goerzen
+* Peter Palfrader
+* Pierre Machard
+
+__Agenda__:
+
+1. New board members
+2. Clarification of the membership and mandate of the Membership Committee
+3. Scheduling of the next meeting
+4. Copyright assignments
+5. OpenOffice.org project membership
+6. New mailing list for SPI correspondence
+7. SPI funds with respect to Debian
+
+__Recorder__: David B. Harris (contributing member)
+
+## New board members
+
+As per the secretary's announcement
+[(1)](/corporate/votes/vote1/),
+[(2)](http://lists.spi-inc.org/pipermail/spi-announce/2003/000044.html)
+Bruce Perens, John Goerzen, and Benjamin Mako Hill were elected to the SPI
+Board of Directors by the contributing membership of SPI.
+
+Wichert Akkerman moved that the board accept the outcome of the vote and
+install those individuals as board members. Ian Jackson seconded.
+
+<table><tbody>
+  <tr><td>Wichert Akkerman</td><td>In favour</td></tr>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Branden Robinson</td><td>In favour</td></tr>
+  <tr><td>Ean Schuessler </td><td>In favour</td></tr>
+  <tr><td>Drew Streib </td><td>In favour</td></tr>
+  <tr><td>Martin Schulze </td><td>Abstains</td></tr>
+</tbody></table>
+
+Motion carried. Bruce Perens, John Goerzen, and Benjamin Mako Hill were
+installed as new Board members.
+
+## Clarification of the membership and mandate of the Membership Committee
+
+David Graham, a contributing member, asks for clarification on the
+membership of the Membership Committee.
+
+Wichert Akkerman responded that Craig Small, Martin Michlmayr, and Peter
+Palfrader constitute the Membership Committee. Martin Michlmayr chairs the
+committee.
+
+Ian Jackson moved that Martin Michlmayr be petitioned to create an area of
+the SPI web site detailing the Membership Committee's membership and
+mandate.
+
+<table><tbody>
+  <tr><td>Wichert Akkerman</td><td>In favour</td></tr>
+  <tr><td>John Goerzen </td><td>In favour</td></tr>
+  <tr><td>Benj. Mako Hill </td><td>In favour</td></tr>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Bruce Perens </td><td>In favour</td></tr>
+  <tr><td>Branden Robinson</td><td>In favour</td></tr>
+  <tr><td>Ean Schuessler </td><td>In favour</td></tr>
+  <tr><td>Drew Streib </td><td>In favour</td></tr>
+  <tr><td>Martin Schulze </td><td>Abstains</td></tr>
+</tbody></table>
+
+Motion carried.
+
+## Scheduling of the next meeting
+
+Ean Schussler suggested that the next meeting take place on Tuesday, 1
+April, at 1900 UTC.
+
+There were no objections; the next meeting will take place on Tuesday,
+1 April, at 1900 UTC.
+
+## Copyright assignments
+
+Since the contributing membership had not yet been petitioned for opinions,
+Ean Schuessler delayed the board's discussion of this item until such opinions
+had been garnered, via `spi-general@lists.spi-incog`.
+
+## OpenOffice.org project membership
+
+Wichert Akkerman stated that there was some confusion on behalf of
+OpenOffice.org, who believed that the project listing on SPI's website was for
+general Free Software/Open Source projects.
+
+Ean Schuessler asked Wichert Akkerman to respond to OpenOffice.org's email,
+explaining that the projects listed were SPI member projects, and that the list
+is not a Free Software/Open Source directory.
+
+## New mailing list for SPI correspondence
+
+With respect to proposed resolution
+[2003-03-11.iwj.1](/corporate/resolutions/2003/2003-03-11.iwj.1/),
+Ian Jackson opines that the SPI board-only mailing list is receiving too much
+traffic, and proposes that a new list be created.
+
+<table><tbody>
+  <tr><td>Wichert Akkerman</td><td>In favour</td></tr>
+  <tr><td>John Goerzen </td><td>In favour</td></tr>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Bruce Perens </td><td>In favour</td></tr>
+  <tr><td>Branden Robinson</td><td>In favour</td></tr>
+  <tr><td>Ean Schuessler </td><td>In favour</td></tr>
+  <tr><td>Drew Streib </td><td>In favour</td></tr>
+  <tr><td>Benj. Mako Hill </td><td>Abstains</td></tr>
+  <tr><td>Martin Schulze </td><td>Abstains</td></tr>
+</tbody></table>
+
+Motion carries.
+
+Another motion, 2003-02-25.iwj.1, was also voted on. Wichert Akkerman suggested
+that the results of 2003-03-11.iwj.1 be apparent before voting on another, more
+complicated, attempt be made at segregating various board mailing list traffic.
+
+<table><tbody>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Wichert Akkerman</td><td>Against</td></tr>
+  <tr><td>John Goerzen </td><td>Against</td></tr>
+  <tr><td>Bruce Perens </td><td>Against</td></tr>
+  <tr><td>Branden Robinson</td><td>Against</td></tr>
+  <tr><td>Ean Schuessler </td><td>Against</td></tr>
+  <tr><td>Martin Schulze </td><td>Abstains</td></tr>
+</tbody></table>
+
+The motion had quite obviously failed at this point, and no more votes
+were submitted.
+
+## SPI funds with respect to Debian
+
+Bdale Garbee stated:
+
+> I have never been presented with a statement of Debian's financial
+> health since my election as DPL. When I asked about Debian's balances
+> after the treasurer's report in the board meeting of 7 Jan 2003,
+> Branden indicated that some guidance from the board would be required
+> due to confusion over how funds held by SPI needed to be split. I've
+> seen no further action taken since that time, and now ask the board's
+> advice on how to get from here to a point where the DPL can receive a
+> concise statement of Debian's balances held by SPI.
+
+Ean Schuessler suggested that, as a long-term solution, a finances
+committee should be created, of which the Debian Project Leader should be
+a member. However, he suggested that in the short term, Bdale discuss the
+finances with Branden Robinson over email.
+
+Bdale agreed to do so.
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

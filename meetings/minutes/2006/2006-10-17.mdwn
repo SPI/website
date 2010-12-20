@@ -1,0 +1,292 @@
+# Board Meeting, October 17th, 2006
+
+These are the draft minutes for the October 17th, 2006 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2006/2006-10-17-log.txt)
+
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (Vice President)
+* Neil McGovern (Maulkin) (Secretary)
+* Ian Jackson (Diziet)
+* David Graham (cdlu)
+* Martin Schulze (Joey)
+
+
+__Board partially present__
+
+* Bdale Garbee (bdale) (President)
+* Josh Berkus (jberkus) (Treasurer)
+
+
+__Board members absent with regrets__
+
+* Jimmy Kaplowitz (Hydroxide)
+* Branden Robinson (Overfiend)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+* Steve Langasek (volorn)
+* John Goerzen (CosmicRay)
+* Joe Brockmeier (jzb)
+* Luk Claes (luk)
+* Bruce Byfield (nanday)
+* Bill Allombert (yp17)
+
+
+## President's Report
+
+<pre>
+None submitted
+</pre>
+
+
+## Treasurer's Report
+
+<pre>
+Status of Treasurer Work
+----------------------------------------------------
+I am currently focusing my main energy on two things:
+1) Minimally completing 2005 revenue and expenses so that I can file our
+2005 taxes, due 11/15.
+2) Getting the raw data entered in preparation for having a true accounting
+system.  Note that we had no previous data entry of expenses, meaning that
+I will be entering this information from source material.  Additionally,
+revenue was not entered in a way that makes it possible for me to
+associate specific transaction fees with specific designations, so that's
+being redone as well (fortunately, not from source material).
+
+I estimate that I will be able to file 2005 taxes in two weeks, and that
+straightening out the books will require another 1-2 months.   I am waiting
+for the board to approve the contract with our new CPA  (Rich &amp; Bander of
+NY), whose assistance is needed in setting up a new chart of accounts to
+better track per-organization expenses (see board meeting agenda), so that
+I can start using LedgerSMB for real accounting.
+
+2005 Preliminary Balance Sheet
+--------------------------------------------
+From Mark's.  What this is missing is designations for revenue &amp; expenses.  
+The revenue is easy; the expenses are hard.
+
+                                        Dec 31, 05
+ASSETS                                  
+        Current Assets                          
+                Checking/Savings                        
+                        1000 · ALL BANK ACCOUNTS                
+                                1002 · Amex Centurion 1296789   238.27
+                                1003 · First Internet Bank 4169 27,422.73
+                        Total 1000 · ALL BANK ACCOUNTS          27,661.00
+                Total Checking/Savings                  27,661.00
+                Other Current Assets                    
+                        1204 · AMEX MONEY MARKET                
+                                1201 · Cost     39,882.62
+                                1200 · Amex Money Market funds &amp; cash   39,697.42
+                                1203 · Accrued Dividend -24.70
+                        Total 1204 · AMEX MONEY MARKET          79,555.34
+                        1300 · Undeposited Funds                1,430.00
+                Total Other Current Assets                      80,985.34
+        Total Current Assets                            108,646.34
+TOTAL ASSETS                                    108,646.34
+LIABILITIES &amp; EQUITY                                    
+        Equity                          
+                3000 · Opening Bal Equity                       83,940.00
+                3500 · Retained Earnings                        7,519.89
+                Net Income                      17,186.45
+        Total Equity                            108,646.34
+TOTAL LIABILITIES &amp; EQUITY                                      108,646.34
+
+
+Recent Activity
+------------------------------------------
+Bank Statement for September:
+
+Balance as of last statement 81,671.62
+0 Deposits and other credits 0.00
+0 Checks Posted 0.00
+0 Returned Items Credited 0.00
+8 Other Withdrawals 4,201.73
+Balance as of this statement 77,469.89
+
+Other Notes
+------------------------------------------
+Note that, between various accounts, SPI has nearly $70,000 in cash (90%
+Debian Funds).  Denian should really think about ways to spend that money
+which fulfill our mission, rather than just accumulating it.  Development?
+Machines?  Maybe the oft-mentioned E&amp;O insurance?
+</pre>
+
+
+## Outstanding Minutes
+
+__Current status:__ August 16th 2005, and September 19th 2006 minutes have been
+raised for approval of the board.
+
+Motion to accept the August 16th minutes, moved by Neil McGovern, seconded by
+David Graham.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Abstain</td></tr>
+<tr><td>Neil McGovern:</td><td>Abstain</td></tr>
+<tr><td>Josh Berkus:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 4, No: 0, Abstain: 3.
+
+Motion to accept the September 19th minutes, moved by Neil McGovern, seconded
+by David Graham.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus:</td><td>Missing</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 6, No: 0, Abstain: 0.
+
+
+## Resolution 2006-04-03.jfsp.1: Debian trademark in Spain
+
+Bdale has made contact with Greg, who has indicated that although he hasn't had
+much to spare for a while, he will have more time going forward.
+
+Bdale would like to ask Greg how much time he has to offer and how we should
+bound the scope of what we expect him to address.
+
+Josh indicated that PostgreSQL has worked with a US trademark attorney who is
+willing to offer discounts to OSS-NPOs, should SPI require the services of a
+(paid-for) lawyer.
+
+
+## Resolution 2006-10-17.jmb.1: Engaging the services of Rich and Bander of New York
+
+Motion to accept Resolution 2006-10-17.jmb.1, moved by Neil McGovern, seconded
+by Michael Schultheiss.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 0.
+
+
+## OFTC election results
+
+David Graham reports:
+
+> OFTC voted 100% in favour of remaining with SPI, and David won re-election as
+> chair of OFTC
+
+
+## Results of email resolutions
+Neil McGovern reports:
+
+> Two email votes have been raised since our last board meeting. Both failed
+> due to a complication in NY NPO law. They were 2006-10-04.jmb.1 and
+> 2006-09-27.nm.1.
+
+
+## GPG keys: requrest of the admin team
+
+The admin team is setting up a unified userdir-ldap system (which is what
+Debian and Debconf use). Board members should send their key ids to
+admin@spi-inc.org. If they do not have a key id, they should contact the admin
+team for assistance in setting one up.
+
+
+## Items from the DPL
+
+Items 1-3 on this are pending Bdale's discussion with Greg. Items 4 and 5
+require the attention of the Treasurer, and are being worked on. Item 6 is
+resolved.
+
+
+## Adjournment
+
+The meeting was adjourned until Tuesday, October 21st, 2006 at 19:00 UTC.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Josh Berkus</td><td>Treasurer</td></tr>
+<tr><td>[2004-07-29]</td><td>Branden Robinson</td></tr>
+<tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2003-11-29]</td><td>Ian Jackson</td></tr>
+<tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td></tr>
+</tbody></table>
+
+
+## Appendix B: Approved Resolutions
+
+[2006-10-17.jmb.1](/corporate/resolutions/2006/2006-10-17.jmb.1/):
+Engaging the services of Rich and Bander of New York
+
+
+## Appendix C: Outstanding Items from the DPL
+
+<pre>
+    1) Response to concerns related to the acceptance of Sun Java into
+       non-free, see:
+           From: John Goerzen
+           Date: Wed, 7 Jun 2006 18:28:22 -0500
+           Subject: Questions about Java license and related questions
+           Message-ID: &lt;20060607232822.GA31686@katherina.lan.complete.org&gt;
+
+    2) Response to concerns related to interaction between Debian developers
+       and citizens of embargoed countries, see:
+           From: Anthony Towns
+           Date: Fri, 9 Jun 2006 17:47:49 +1000
+           Subject: Debian in embargoed countries
+           Message-ID: &lt;20060609074749.GB1408@azure.humbug.org.au&gt;
+
+    3) Response to concerns related to online harrassment, see:
+           From: Steve Langasek
+           Date: Fri, 9 Jun 2006 17:04:51 -0700
+           Subject: request for assistance with ongoing harrassment
+               [debianwomenpassaway@yahoo.com: Debian women: please pass away.]
+           Message-ID: &lt;20060610000450.GN13192@mauritius.dodds.net&gt;
+
+    4) Precise accounting of funds held for the benefit of the Debian
+       project (my imprecise estimate is $0, split between -$50,000 for
+       debconf, and +$50,000 for misc debian use, which will obviously
+       only be useful when the HP money makes its way in)
+
+    5) Is there any sort of online/electronic report of donations from
+       Click &amp; Pledge that can be made available?
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

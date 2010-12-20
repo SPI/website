@@ -1,0 +1,267 @@
+# Board Meeting, November 21st, 2006
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Vice President)
+* Neil McGovern (Maulkin) (Secretary)
+* Josh Berkus (jberkus) (Treasurer)
+* Ian Jackson (Diziet)
+* David Graham (cdlu)
+* Branden Robinson (Overfiend)
+
+
+__Board partially present__
+
+* Martin Schulze (Joey)
+
+
+__Board members absent with regrets__
+
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* Robert Treat - PostgreSQL (xzilla)
+
+
+__Registered guests present__
+
+* Joshua Drake (linuxpoet)
+* John Goerzen (CosmicRay)
+* Joerg Jaspert (Ganneff)
+* Christoph Berg (Myon)
+* Haris Sehic (hajvan)
+* Christel Dahlskjaer (christel)
+* Benjamin Seidenberg (astronut)
+* Bruce Byfield (nanday)
+
+These are the draft minutes for the November 21st, 2006 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2006/2006-11-21-log.txt)
+
+## President's Report
+
+<pre>
+I've had several interesting discussions with representatives of current and
+potential associated projects in person (particularly at LW-UK) or by email and
+IRC in the last month, but nothing from those conversations is ready for board
+action at this time.
+
+Greg Pomerantz and I have exchanged several emails since our last board
+meeting.  I missed a chance to talk to him last night by phone due to not
+seeing his email invitation until this morning, but he's engaged and reviewing
+our list of open questions.  I regret not having his inputs but hopefully I'll
+have an update for the board by email this week.
+</pre>
+
+Josh Berkus comments:
+
+<pre>
+I would like us to have the completed Associated Projects HOWTO online before
+we accept anyone else, and for the record, LedgerSMB and OpenOffice.org are
+both pending us getting stuff together.
+</pre>
+
+
+## Treasurer's Report
+
+<pre>
+I did a fairly extensive writeup online:
+http://www.spi-inc.org/treasurer/treasurer-s-report-11-2006.html
+
+The one thing that didn't make my report is that based on feedback we may want
+to revisit the 5% rule as our way of allocating SPI funds for some kind of
+modified rule, which will be discussed via email.
+
+LedgerSMB should be ready to data entry next week, volunteers appreciated.
+</pre>
+
+
+## Outstanding Minutes
+
+__Current status:__ October 17th 2006 minutes have been raised for approval of
+the board.
+
+Motion to accept the August 16th minutes, moved by Neil McGovern, seconded by
+David Graham.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Abstain</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 7, No: 0, Abstain: 1.
+
+
+## Resolution 2006-04-03.jfsp.1: Debian trademark in Spain
+
+Bdale apologises for being last-minute-ish catching up with Greg before the
+meeting, but he is not yet sure why Greg hasn't responded to the initial query
+back in April, since he should have had it and several pings since.
+
+Greg has no advice on the issue as yet.
+
+Bdale was enthusiastic when Greg engaged on one of our lists recently, then he
+went quiet again which is why Bdale sent him the ping this weekend hoping for
+some answers before today. Greg replied with an invite for a phone call to
+catch up last night which Bdale didn't see until today (20061121)
+
+Josh raised the possibility of looking at getting a paid attorney, or paying
+Greg. He writes:
+
+<pre>
+It seems that Greg does not have enough pro-bono time to take care of all of
+our advice issues.
+</pre>
+
+Bdale thinks we need to figure out how much of this is that Greg is not plugged
+in to our communication streams and/or pending request list vs how much he does
+or doesn't have time.
+
+Anthony Towns stated he would appreciate advice from SPI board and/or US folks
+on having Debian pay an attorney and/or how much are appropriate fees.
+
+Bdale is to follow up, as per the president's report. If Ian Jackson doesn't
+hear from Bdale, he will follow up instead.
+
+
+## Resolution 2006-11-21.jmb.3: Removal of OpenVAS as an associated project
+
+Motion to accept Resolution 2006-11-21.jmb.3, moved by Bdale Garbee, seconded
+by Branden Robinson.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Abstain</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Missing</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 6, No: 0, Abstain: 1.
+
+
+## Resolution 2006-11-18.dbg.mjs.1: Open Source Initiative domain
+
+David Graham reports:
+
+<pre>
+Rationale: Former SPI project, the Open Source Initiative has requested that
+its domains (opensource.org and opensource.net) be turned over to their own
+501c3.
+
+In the past there has been some discussion of this being an unfavourable thing
+to do due to OSI's governance structure.
+
+I put it to the board that the governance structures of other 501(c)3
+non-profits is none of our business and that we have a responsibility to turn
+these domains over to OSI at the earliest opportunity. I am not willing to
+postpone this vote as I believe it is an issue that should be settled for once
+and for all.
+</pre>
+
+Ian Jackson and Josh Berkus move to postpone the resolution until next meeting
+for further discussion via email.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>No</td></tr>
+<tr><td>Neil McGovern:</td><td>No</td></tr>
+<tr><td>Josh Berkus:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>No</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion to postpone passes with a vote of Yes: 5, No: 3, Abstain: 0.
+
+Bdale noted that he would like to close this issue one way or another, once and
+for all and will not tolerate another postponement, so please, everyone on the
+board continue to discuss and be ready to vote on the resolution a month hence.
+
+
+## Items from the DPL
+
+Items 1-3 on this are pending Bdale's discussion with Greg. Items 4 and 5 are
+awaiting data entry on the accounting system, and are being worked on.
+
+
+## Adjournment
+
+The meeting was adjourned until Tuesday, December 19th, 2006 at 19:00 UTC.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Josh Berkus</td><td>Treasurer</td></tr>
+<tr><td>[2004-07-29]</td><td>Branden Robinson</td></tr>
+<tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2003-11-29]</td><td>Ian Jackson</td></tr>
+<tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+Resolution 2006-11-21.jmb.3: Removal of OpenVAS as an associated project
+
+
+## Appendix C: Outstanding Items from the DPL
+
+<pre>
+    1) Response to concerns related to the acceptance of Sun Java into
+       non-free, see:
+           From: John Goerzen
+           Date: Wed, 7 Jun 2006 18:28:22 -0500
+           Subject: Questions about Java license and related questions
+           Message-ID: &lt;20060607232822.GA31686@katherina.lan.complete.org&gt;
+
+    2) Response to concerns related to interaction between Debian developers
+       and citizens of embargoed countries, see:
+           From: Anthony Towns
+           Date: Fri, 9 Jun 2006 17:47:49 +1000
+           Subject: Debian in embargoed countries
+           Message-ID: &lt;20060609074749.GB1408@azure.humbug.org.au&gt;
+
+    3) Response to concerns related to online harrassment, see:
+           From: Steve Langasek
+
+           Date: Fri, 9 Jun 2006 17:04:51 -0700
+           Subject: request for assistance with ongoing harrassment
+               [debianwomenpassaway@yahoo.com: Debian women: please pass away.]
+           Message-ID: &lt;20060610000450.GN13192@mauritius.dodds.net&gt;
+
+    4) Precise accounting of funds held for the benefit of the Debian
+       project (my imprecise estimate is $0, split between -$50,000 for
+       debconf, and +$50,000 for misc debian use, which will obviously
+       only be useful when the HP money makes its way in)
+
+    5) Is there any sort of online/electronic report of donations from
+       Click &amp; Pledge that can be made available?
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

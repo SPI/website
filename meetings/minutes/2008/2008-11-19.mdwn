@@ -1,0 +1,208 @@
+# Board Meeting, November 19th, 2008
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jimmy Kaplowitz (Hydroxide) (Secretary)
+* Michael Schultheiss (Treasurer)
+* Luk Claes (luk_)
+* Martin Zobel-Helas (zobel)
+* Joshua D. Drake (linuxpoet)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Neil McGovern (Maulkin)
+
+
+__Board members absent__
+
+* David Graham (cdlu)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* MJ Ray (slef)
+* Joe Nahmias (jello)
+
+
+These are the draft minutes for the November 19th, 2008 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2008/2008-11-19-log.txt)
+
+## President's Report
+
+Bdale Garbee presented the following report:
+
+* Privoxy is interested in becoming an associated project, and I am working
+  with them on a resolution. Hope to have it for next month's meeting.
+
+* Noting the long-standing $20 GNOME balance in our financial statement, I
+  emailed the GNOME Foundation executive director earlier today suggesting we
+  transfer the funds to them.
+
+* An author working on a document relating to Debian installation has
+  approached SPI for advice on licensing his article and about the possibility
+  of transferring copyright in the article to us.  I plan to follow up with him
+  later today.
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following report.
+
+<pre>
+Treasurer's Note:
+
+An Income Statement for the period 2008-10-15 through 2008-11-18 is in
+the process of being drafted but it's unlikely that the income statement
+will be complete before the SPI board meeting at 20:00 UTC today.  I'll
+complete the Income Statement ASAP and send it out by 2008-11-22.  I
+apologize for the delay.
+
+======================
+
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Balance Sheet as of November 18, 2008
+
+   ASSETS
+     Current Assets
+        Key Business Reward Checking                      32,741.73
+        Key Business Signature Money Market Savings       97,779.62
+        Ameriprise Cash Mgmt Acct                         13,336.39
+
+     Total Current Assets                                143,857.74
+
+   TOTAL ASSETS                                          143,857.74
+
+
+   LIABILITIES &amp; EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           Debian Earmark                    80,565.77
+           Drupal Earmark                     2,650.00
+           Freedesktop.org Earmark            1,666.83
+           Gallery Earmark                    5,974.69
+           GNOME Earmark                         20.00
+           GNU TeXmacs Earmark                    9.70
+           Madwifi.org Earmark                1,004.11
+           OpenOffice.org Earmark             1,185.32
+           Open Voting Foundation Earmark       392.67
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                11,272.42
+           Tux4Kids Earmark                   3,325.05
+
+        Total held in trust                              114,566.56
+
+        General reserves                                  29,291.18
+
+     Total Equity                                        143,857.74
+
+   TOTAL LIABILITIES &amp; EQUITY                            143,857.74
+
+</pre>
+
+Michael also announced that SPI's 2007 IRS Form 990, a report given to US
+federal tax authorities, was filed the week before the meeting. In response to
+a question, he stated that the deadline for the filing was November 15, 2008.
+
+
+## Secretary's Report
+
+Jimmy Kaplowitz presented the following report.
+
+_(This was my secretary's report from a month ago; in the near future I will
+email this to an SPI mailing list to get volunteers. I will aim to use the
+spi-www mailing list to coordinate discussion between me and the volunteers. It
+would also be helpful if the webmaster email alias could forward to the spi-www
+list and be subject to the same spam filtering that keeps spi-www and most SPI
+lists spam-free.)_
+
+> I would like volunteers to help move the website away from Plone and
+> generally keep it more accurate and up-to-date, given that it's too
+> cumbersome and buggy to use effectively. I would like to retain the ability
+> to do web-based editing as well as restore the ability to do VCS-based
+> editing. Therefore, something like ikiwiki might make sense.
+> 
+> If you want to volunteer, email secretary@spi-inc.org and admin@spi-inc.org,
+> express your interest, and say what time, effort, and skills you can offer.
+> Also, as requested by the SPI admin team, please explicitly acknowledge that
+> while your opinion as the person doing the work will be seriously considered
+> and will definitely count, the SPI admin team, officers, and board (each as
+> appropriate) have the final say on all aspects of the website.
+
+Jimmy also mentioned MJ Ray's offer to help in response to the call for
+volunteers, which he appreciated.
+
+
+## Outstanding Minutes
+
+Jimmy moved to approve the October 15th, 2008 minutes.
+
+
+Vote on October 15th, 2008 minutes
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Luk Claes</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of Yes: 6, No: 0, Abstain: 1.
+
+
+## Other Business
+
+Joshua D. Drake solicited contacts in the education community to help SPI get
+speakers out to engage in strong educating efforts. It was agreed that he would
+ask about this on the spi-general mailing list.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, December 17th, 2008 at 20:00 UTC in
+#spi on irc.oftc.net.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2007-08-06]</td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>[2006-07-29]</td><td>Jimmy Kaplowitz</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>[2007-08-06]</td><td>Martin Zobel-Helas</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2007-08-06]</td><td>Luk Claes</td></tr>
+<tr><td>[2007-08-06]</td><td>Joshua D. Drake</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Resolutions
+
+None
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

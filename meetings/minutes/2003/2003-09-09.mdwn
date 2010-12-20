@@ -1,0 +1,131 @@
+# Board meeting, September 9th, 2003
+
+__Attending__:
+
+* Bdale Garbee
+* Branden Robinson
+* Ean Schuessler
+* Ian Jackson
+* Martin Schulze
+* Wichert Akkerman
+
+__Absent with regrets__:
+
+* Benj. Mako Hill
+* Branden Robinson
+* Bruce Perens<
+
+__Invitees present__:
+
+* Antti-Juhani Kaijanaho
+* David Graham
+* Gregory Pomerantz
+* Jimmy Kaplowitz
+* Jonathan McDowell
+* Josip Rodin
+* Michelle Ribeiro
+
+__Agenda__:
+
+1. Opening
+2. Roll call
+3. SPI-admin notes
+4. Board meeting procedure
+5. Debian trademark registration in Brazil
+6. Treasurer update, including credit-card donations
+7. Date for next meeting
+
+__Recorder__: David B. Harris (contributing member)
+
+## SPI-admin notes
+
+Speaking as a member of the SPI admin team Wichert had the following
+to say:
+
+> SPI has received bandwidth and machine donations recently so it
+> can help its members projects with simple hosting, mail and DNS
+> services. Fresco for example has been using those services for a
+> while. I would like to thank Oregon state University, Black Cat
+> Networks and Andrew Mulholland for their donations. At this moment
+> frida.spi-inc.org is already online and running secondary DNS and mail
+> services. chic.spi-inc.org will arrive later.
+>
+> Furthermore, we've revamped the entire mail-system for SPI it is now
+> running exim-SA everywhere, so you should see a large reduction in
+> the amount of spam going through SPI machines. Thanks go to Josip
+> Rodin for doing the email setup.
+
+Ian and Ean thanked the SPI admin team for their work.
+
+## Board meeting procedure
+
+Ian did not have anything to add to the previously held
+discussions. Wichert asked for a change in paragraph 12 to allow the
+secretary to be replaced with someone else when necessary. Nobody
+objected, and a vote was called for resolution
+[2003-09-09.iwj.1](/corporate/resolutions/2003/2003-09-09.iwj.1/).
+Bdale recommended people vote in favour.
+
+<table><tbody>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Ean Schuessler </td><td>In favour</td></tr>
+  <tr><td>Martin Schulze </td><td>In favour</td></tr>
+  <tr><td>Wichert Akkerman</td><td>In favour</td></tr>
+</tbody></table>
+
+The resolution is accepted with four votes in favour and none
+against.
+
+## Debian trademark registration in Brazil
+
+Michelle proposed registering the Debian trademark in Brazil. In order
+to do that a procurator needs to be appointed for which she suggested
+Debian developer and SPI contributing member Henrique Moraes. Several
+people asked what the exact function and responsibilities of a procurator
+are. Michelle explained it is just the person who did the paperwork.
+Wichert asked who would own the trademark: the procurator, or SPI
+even though it is not based in Brazil. Michelle answered that SPI would
+be the owner.
+
+Since this agenda item generated a fair amount of questions and
+discussions Ean proposed to discuss this on the SPI mailing-lists first.
+Wichert asked Michelle to write a summary of the plans and issues and
+involved and post that, so a resolution could be drafted based on that.
+Everyone agreed with both suggestions.
+
+## Treasurer update, including credit-card donations
+
+Wichert explained:
+
+> SPI has been talking forever about accepting credit-card
+> donations and several decisions have already been made in the past,
+> but nothing has happened so far. We now have a concrete proposal from
+> Jimmy Kaplowitz for handling them using the services of Network for
+> Good, which has been providing these services to 501(c)3 charities for
+> a while already. Ian and I had a quick look at their terms and
+> conditions and their rates and they seem reasonable. So in order to
+> move on and be able to set something up I am proposing resolution
+> [2003-09-09.wta.1](/corporate/resolutions/2003/2003-09-09.wta.1/)
+
+Ean called for a vote on resolution
+[2003-09-09.wta.1](/corporate/resolutions/2003/2003-09-09.wta.1/)
+Bdale recommended people vote in favour.
+
+<table><tbody>
+  <tr><td>Ian Jackson </td><td>In favour</td></tr>
+  <tr><td>Ean Schuessler </td><td>In favour</td></tr>
+  <tr><td>Wichert Akkerman</td><td>In favour</td></tr>
+  <tr><td>Martin Schulze </td><td>Abstains</td></tr>
+</tbody></table>
+
+The resolution is accepted with three votes in favour and none
+against.
+
+## Date for next meeting
+
+The date for the next meeting is set for October 7, at 19:00
+UTC.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

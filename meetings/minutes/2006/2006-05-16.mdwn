@@ -1,0 +1,214 @@
+# Board Meeting, May 16th, 2006
+
+__Board members present__
+
+* John Goerzen            (CosmicRay)     (President)
+* Benj. Mako Hill         (mako)          (Vice-President)
+* David Graham            (cdlu)          (Secretary)
+* Jimmy Kaplowitz         (Hydroxide)     (Treasurer)
+* Branden Robinson        (Overfiend)
+* Ian Jackson             (IanJackson)
+* Bdale Garbee            (bdale)
+* Bruce Perens            (BrucePerens)
+
+
+__Board members absent with regrets__
+
+* Martin Schulze          (Joey)
+
+
+__Advisors present__
+
+* Josh Berkus (agliodbs)
+
+
+__Registered guests present__
+
+
+* Bill Allombert          (yp17)
+* MJ Ray                  (slef)
+
+
+__Agenda__
+
+1. Opening
+2. Roll call
+3. President's report (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Outstanding minutes
+   * Annual meeting: July 1st, 2005 (log only)
+   * July 26th, 2005 (log only)
+   * August 16th, 2005 (log only)
+   * October 4th, 2005 (log only)
+   * October 18th, 2005 (log only)
+   * November 15th, 2005 (log only)
+   * December 13th, 2005 (log only)
+   * March 21st, 2006 (log only)
+   * April 18th, 2006 (log only)
+6. Items up for discussion:
+   1. Further on Debian trademark in Spain?
+   2. Tax filing and book keeping status? (Jimmy)
+   3. Mark's bill: $610
+   4. Anything further on Postgresql conference? (Josh Berkus)
+   5. Website rebuild?
+7. Next board meeting: Tuesday, June 20th, 2006 (John Goerzen)
+
+__Recorder:__ David Graham (Secretary)
+
+
+These are the draft minutes for the May 16th, 2006 SPI Board meeting, held at
+19:00 UTC in #spi on irc.spi-inc.org.
+
+## President's report
+
+No president's update tabled.
+
+
+## Treasurer's report
+
+No treasurer's report tabled.
+
+__However:__ Robinson reports MBS has invoiced us for $610.
+
+
+### Motion 2006-05-16.dbg.1: Pay MBS invoices
+
+SPI's treasurer(s) are directed to pay all bills they construe as reasonable
+from Mark's Bookkeeping Services.
+
+Moved by David Graham, seconded by Ian Jackson
+
+<table><tbody>
+<tr><td>David Graham:</td><td>yes</td></tr>
+<tr><td>Ian Jackson:</td><td>yes</td></tr>
+<tr><td>John Goerzen:</td><td>yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>yes</td></tr>
+<tr><td>Bruce Perens:</td><td>yes</td></tr>
+<tr><td>Branden Robinson:</td><td>yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>yes</td></tr>
+</tbody></table>
+
+2006-05-16.dbg.1 is approved by a vote of: Yes: 8, No: 0, Abstain: 0
+
+Kaplowitz advises that NY state tax filing deadline is June 30th, unless we
+receive more than $25,000 in gross receipts from NY state entities in 2005.
+
+Robinson reports that tax filing is proceeding with Frank Boardman of MBS's
+help.
+
+Robinson reports that funds in First IB will be moved to our Ameriprise account
+following DebConf and the Postgresql conference.
+
+
+### Motion 2006-05-16.dbg.2: Pre-2001 Debian/SPI funds divison
+
+All SPI funds from prior to 2001 are assumed to be 95% Debian's (in trust) and
+5% SPI's own funds.
+
+Moved by David Graham, seconded by Branden Robinson
+
+<table><tbody>
+<tr><td>Branden Robinson:</td><td>yes</td></tr>
+<tr><td>David Graham:</td><td>yes</td></tr>
+<tr><td>Ian Jackson:</td><td>yes</td></tr>
+<tr><td>John Goerzen:</td><td>yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>yes</td></tr>
+<tr><td>Bruce Perens:</td><td>did not vote</td></tr>
+</tbody></table>
+
+Jimmy Kaplowitz announced he will not be seeking a third term as treasurer.
+
+
+## Outstanding minutes
+
+No minutes tabled.
+
+
+## Spain Trademark
+
+This issue has been deferred in the past while seeking legal advice. This issue
+has been again deferred in the search for legal advice.
+
+
+## PostgreSQL conference
+
+Josh Berkus advises that the conference has received $31,000 of sponsorships,
+of which $12,000 should have been received.
+
+The conference expected 60 attendees but has had to close registration and open
+a waiting list at 85.
+
+The idea of joint SPI-project conferences being held in the future was floated
+for later discussion.
+
+
+## Website rebuild
+
+No update tabled
+
+
+## Annual meeting
+
+Do we need to get voting going now?  Does our voting software work?  When do we
+need to start taking nominations?
+
+Strictly speaking nominations is july 1-14, voting 15-28, swearing in the 29th
+
+Annual board member elections take place at annual meeting and are governed by
+resolution 2004-08-10.dbg.2 found at:
+
+http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.dbg.2/
+
+Nominations take place from July 1st to 14th, with voting taking place from
+July 15th to 28th. Voting takes place using Condorcet/SSD, an explanation of
+which can be found at:
+
+http://people.debian.org/~branden/talks/condorcet_and_debian/
+
+At the 2006 board meeting, the seats of Bruce Perens, Benj. Mako Hill, and John
+Goerzen will be up for election.
+
+## Adjournment
+
+The next meeting is scheduled for June 20th, 2006 at 19:00 UTC in #spi on
+irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2003-03-11]</td><td>John Goerzen</td><td>President</td></tr>
+<tr><td>[2003-03-11]</td><td>Benjamin Mako Hill</td><td>Vice President</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td><td>Secretary</td></tr>
+<tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td><td>Treasurer</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td></tr>
+<tr><td>[2004-07-29]</td><td>Branden Robinson</td></tr>
+<tr><td>[2003-11-29]</td><td>Ian Jackson</td></tr>
+<tr><td>[2003-03-11]</td><td>Bruce Perens</td></tr>
+<tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td></tr>
+</tbody></table>
+
+## Appendix B: Approved Motions
+
+### Motion 2006-05-16.dbg.1:
+
+Pay MBS invoices:
+
+SPI's treasurer(s) are directed to pay all bills they construe as reasonable
+from Mark's Bookkeeping Services.
+
+
+### Motion 2006-05-16.dbg.2:
+
+Pre-2001 Debian/SPI funds divison:
+
+All SPI funds from prior to 2001 are assumed to be 95% Debian's (in trust) and
+5% SPI's own funds.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

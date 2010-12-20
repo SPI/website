@@ -1,0 +1,224 @@
+# Board Meeting, August 15th, 2006
+
+These are the <b>DRAFT</b> minutes for the August 15th, 2006 SPI Board meeting,
+held at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2006/2006-08-15-log.txt)
+
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss	(schultmc) (Vice President)
+* Neil McGovern (Maulkin) (Secretary)
+* Josh Berkus (jberkus) (Treasurer)
+* Ian Jackson (Diziet)
+* David Graham (cdlu)
+* Branden Robinson (Overfiend)
+* Martin Schulze (Joey)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* Robert Treat (xzilla) (postgresql)
+
+
+__Registered guests present__
+
+* Joerg Jaspert (Ganneff)
+* Joshua D. Drake (linuxpoet)
+* Joey Smith (TML)
+* Javier Fernandez-Sanguino (javifs)
+* MJ Ray (slef)
+* Kaare Thor Olsen (Kaare)
+* Steve Langasek (volorn)
+* Greg Sabino Mullane (greg)
+* John Goerzen (CosmicRay)
+* Daniel Baumann (panthera)
+
+
+These are the draft minutes for the August 15th, 2006 SPI Board meeting, held at
+19:00 UTC in #spi on irc.spi-inc.org.
+
+## President's Report
+
+No formal report was received
+
+## Tresurer's Report
+
+Jimmy Kaplowitz has submitted reports from Jan through April on the 1st August.
+Approval from the board will occur after the handoff to the new treasurer (Josh
+Berkus) has occured.
+
+The board thanks Jimmy for his work to date and looks forward to the report
+next time.
+
+
+## Outstanding Minutes
+
+__Current status:__ August 1st, 2006 is ready to be voted on and approved this
+meeting. David Graham is processing the previous unapproved minutes, which will
+be presented next meeting for approval.
+
+Motion to accept the August 1st minutes, moved by Neil McGovern, seconded by
+David Graham.
+
+<table><tbody>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss:</td><td>Yes</td></tr>
+<tr><td>Neil McGovern:</td><td>Yes</td></tr>
+<tr><td>Josh Berkus:</td><td>Abstain</td></tr>
+<tr><td>Ian Jackson:</td><td>Abstain</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+</tbody></table>
+
+## Resolution 2006-04-03.jfsp.1: Debian trademark in Spain
+
+No update has been received from Greg Pomerantz as to this issue. Bdale Garbee
+is to follow up.
+
+
+## Resolution 2006-08-07.dbg.2: Attendance Policy
+
+Vote deferred until next meeting.
+
+
+## Resolution 2006-08-15.bg.1: Freedesktop.org as Associated Project
+
+Motion 2006-08-15.bg.1 to invite Freedesktop.org as an Associated Project,
+proposed by David Graham, seconded by Branden Robinson.
+
+<table><tbody>
+<tr><td>David Graham</td><td>yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>yes</td></tr>
+<tr><td>Branden Robinson</td><td>yes</td></tr>
+<tr><td>Ian Jackson</td><td>yes</td></tr>
+<tr><td>Martin Schulze</td><td>yes</td></tr>
+<tr><td>Neil McGovern</td><td>yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>yes</td></tr>
+<tr><td>Josh Berkus</td><td>yes</td></tr>
+<tr><td>Bdale Garbee</td><td>yes</td></tr>
+</tbody></table>
+
+Motion passes with a vote of Yes: 9, No: 0, Abstain: 0.
+
+
+## Tax filing and book keeping status
+
+[Form 8688](http://www.irs.gov/pub/irs-pdf/f8868.pdf)
+has to be posted today to apply for an extension on filing taxes until
+November. Branden Robinson to action. Josh Berkus expects to be spending a good
+portion of September doing filings.
+
+
+## Website rebuild
+
+The website transition has happened. We're now using a new server, and thanks
+is extended to the admin team and Black Cat Networks for their support in doing
+so. There was a couple of issues during the transition process, but these seem
+mostly resolved now.
+
+
+## Items from the DPL (see Appendix C)
+
+Items one to three need input from Greg Pomerantz, which Bdale Garbee will
+action, and items four and five are to be discussed with Josh Berkus. For item
+six, the consensus of the board is that we're ok with it.
+
+
+## Any other Business
+
+Some concern was expressed over the timing of the board meetings in future.
+This will be discussed later via email.
+
+
+## Adjournment
+
+The meeting was adjourned until September 19th, 2006  at 19:00 UTC.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Date elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>[2004-07-29]</td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>[2006-07-31]</td><td>Michael Schultheiss</td><td>Vice President</td></tr>
+<tr><td>[2006-07-31]</td><td>Neil McGovern</td><td>Secretary</td></tr>
+<tr><td>[2006-07-31]</td><td>Josh Berkus</td><td>Treasurer</td></tr>
+<tr><td>[2004-07-29]</td><td>Branden Robinson</td></tr>
+<tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>[2003-11-29]</td><td>David Graham</td></tr>
+<tr><td>[2003-11-29]</td><td>Ian Jackson</td></tr>
+<tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td></tr>
+</tbody></table>
+
+
+## Appendix B: Approved Resolutions
+
+2006-08-15.bg.1: freedesktop.org as Associated Project
+
+
+## Appendix C: Items from the DPL
+
+<pre>
+Since there's a new board, I thought it might be a reasonable time to
+go back over some of the issues that Debian would appreciate SPI input on:
+
+    1) Response to concerns related to the acceptance of Sun Java into
+       non-free, see:
+           From: John Goerzen
+           Date: Wed, 7 Jun 2006 18:28:22 -0500
+           Subject: Questions about Java license and related questions
+           Message-ID: &lt;20060607232822.GA31686@katherina.lan.complete.org&gt;
+
+    2) Response to concerns related to interaction between Debian developers
+       and citizens of embargoed countries, see:
+           From: Anthony Towns
+           Date: Fri, 9 Jun 2006 17:47:49 +1000
+           Subject: Debian in embargoed countries
+           Message-ID: &lt;20060609074749.GB1408@azure.humbug.org.au&gt;
+
+    3) Response to concerns related to online harrassment, see:
+           From: Steve Langasek
+           Date: Fri, 9 Jun 2006 17:04:51 -0700
+           Subject: request for assistance with ongoing harrassment
+               [debianwomenpassaway@yahoo.com: Debian women: please pass away.]
+           Message-ID: &lt;20060610000450.GN13192@mauritius.dodds.net&gt;
+
+    4) Precise accounting of funds held for the benefit of the Debian
+       project (my imprecise estimate is $0, split between -$50,000 for
+       debconf, and +$50,000 for misc debian use, which will obviously
+       only be useful when the HP money makes its way in)
+
+    5) Is there any sort of online/electronic report of donations from
+       Click &amp; Pledge that can be made available?
+
+    6) I think Debian would appreciate it if SPI would formally comment
+       on the asset handling changes proposed on debian-vote, to ensure we
+       can maintain a friendly and consultative relationship. (Even if the
+       comment is just "yup, that's fine by us!" or whatever) See the threads
+       related to:
+           From: Manoj Srivastava
+
+           Date: Thu, 20 Jul 2006 20:12:54 -0500
+           Subject: Constitutional Amendment GR: Handling assets for the project
+           Message-id: &lt;87r70f92w9.fsf@glaurung.internal.golden-gryphon.com&gt;
+           http://lists.debian.org/debian-vote/2006/07/msg00005.html
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

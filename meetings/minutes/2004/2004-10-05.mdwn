@@ -1,0 +1,279 @@
+# Board meeting, October 5th, 2004
+
+__Attending__:
+
+* Bdale Garbee (bdale)
+* Benjamin Mako Hill (mako) (Vice President)
+* Branden Robinson (Overfiend)
+* Bruce Perens (BrucePerens)
+* David Graham (cdlu) (Secretary)
+* Ian Jackson (Diziet)
+* Jimmy Kaplowitz (Hydroxide) (Treasurer)
+* John Goerzen (CosmicRay) (President)
+* Martin Schulze (JoeySPI)
+
+
+__Invitees present__:
+
+* Alexander R Perry (LabARP)
+* Christian T. Steigies (cts)
+* Drew Scott Daniels (mlots)
+* MJ Ray (slef)
+* Michael Banck (azeem)
+* Michael Schultheiss (schultmc)
+* Phil Brooke (philb208)
+* Romain Francoise (ore)
+
+
+__Agenda__:
+
+1. Opening
+2. Roll call
+3. President's update
+4. Treasurer's report
+5. Outstanding minutes
+6. Resolution 2004-10-04.jrk.1: Begin Banking with FirstIB
+7. Resolution 2004-10-05.bmh.1: Permanent Legal Address
+8. Resolution 2004-10-04.bmh.2: Relicense Debian Logo
+9. Call for Canadian resident to re-research SPI banking possibilities in Canada
+10. Call for volunteer to moderate SPI mailing lists
+11. Web site maintenance
+12. Project support request
+13. Next meeting
+14. Extra issues
+
+
+__Recorder__: David Graham (Secretary)
+
+The following minutes wwere accepted by the Board of Directors of SPI
+during its meeting on November 9th, 2004.
+
+Meeting opened at 19:00 UTC on October 5th, 2004 and took place in
+`#spi` on irc.spi-inc.org
+
+## President's update
+
+John Goerzen stated that he plans to establish a section on the website
+for the president to maintain a general todo list and archive of reports.
+
+## Treasurer's report
+
+Jimmy Kaplowitz reported that our AmEx Centurion Bank account has been
+closed and we will be opening an account with First Internet Bank instead.
+
+As a result, SPI has no chequing account at this time.
+
+Recently merged Fleet bank and Bank of America were not considered an
+option due to their merger and questions arising out of it, namely if
+Fleet's good deals would survive.
+
+First Internet Bank has a decent non-profit deal, which is a business
+account minus the monthly bank fees.
+
+## Outstanding minutes
+
+September 7th, 2004:
+
+<table><tbody>
+    <tr><td>Ian Jackson</td>		<td>Yes</td></tr>
+    <tr><td>John Goerzen</td>		<td>Yes</td></tr>
+    <tr><td>Bdale Garbee</td>		<td>Yes</td></tr>
+    <tr><td>Bruce Perens</td>		<td>Yes</td></tr>
+    <tr><td>Jimmy Kaplowitz</td>	<td>Yes</td></tr>
+    <tr><td>David Graham</td>		<td>Yes</td></tr>
+    <tr><td>Martin Schulze</td>		<td>Yes</td></tr>
+    <tr><td>Benjamin Mako Hill</td>	<td>Abstain</td></tr>
+</tbody></table>
+
+Vote count: Yes: 7, No: 0, Abstain: 1
+
+The minutes of September 7th, 2004 were approved.
+
+## Resolution 2004-10-04.jrk.1: Begin Banking with FirstIB
+
+The discussion:
+
+Ian Jackson expressed concern that the resolution requires our compliance
+with First Internet Bank's account agreement terms. Item 7 of the account
+terms, found at http://www.firstib.com/apply/pdf/corpdepapp.pdf, requires
+the issuing of a digital signature by the bank which could give us some
+liability as ostensibly authorised transactions could take place should the
+key get into the wrong hands.
+
+Ian pointed out also that First Internet Bank denies all responsibility for
+fraudulent transactions originating on their on line services. Should the bank
+leak our password, we are liable, Ian argued. John Goerzen pointed that they
+would be liable under liability law.
+
+Ian said he would be amenable to the account if our balance is maintained
+low to reduce our liability risk.
+
+Ian expressed concern that a disgruntled Debian Developer could sneak a
+virus onto the treasurer's computer and send all the money to Nigeria, as an
+example of our risk.
+
+Bdale Garbee pointed out that the banking system's terms of service exist
+within the context of the legal system.
+
+After extensive discussion, it is agreed that the treasurer will make an
+effort to maintain the account balance below $5000 to limit our potential
+liability.
+
+Branden Robinson noted that our remaining funds in our American Express
+Financial Advisors account will remain there, so this is not a problem.
+
+The vote:
+
+<table><tbody>
+    <tr><td>John Goerzen</td>		<td>Yes</td></tr>
+    <tr><td>David Graham</td>		<td>Yes</td></tr>
+    <tr><td>Ian Jackson</td>		<td>Yes</td></tr>
+    <tr><td>Jimmy Kaplowitz</td>	<td>Yes</td></tr>
+    <tr><td>Branden Robinson</td>	<td>Yes</td></tr>
+    <tr><td>Benjamin Mako Hill</td>	<td>Yes</td></tr>
+    <tr><td>Bruce Perens</td>		<td>Yes</td></tr>
+    <tr><td>John Goerzen</td>		<td>Yes</td></tr>
+    <tr><td>Martin Schulze</td>		<td>Yes</td></tr>
+    <tr><td>Bdale Garbee</td>		<td>Yes</td></tr>
+</tbody></table>
+
+Yes: 9, No: 0, Abstain: 0
+
+Resolution
+[2004-10-04.jrk.1](/corporate/resolutions/2004/2004-10-04.jrk.1/)
+was passed unanimously on the understanding that the Treasurer does want to
+restrict what he can do in unexpected circumstances, but expects the account to
+be under $5000 most of the time.
+
+## Resolution 2004-10-05.bmh.1: Permanent Legal Address
+
+This matter went directly to a vote with no discussion.
+
+<table><tbody>
+    <tr><td>Branden Robinson</td>	<td>Yes</td></tr>
+    <tr><td>John Goerzen</td>		<td>Yes</td></tr>
+    <tr><td>David Graham</td>		<td>Yes</td></tr>
+    <tr><td>Benjamin Mako Hill</td>	<td>Yes</td></tr>
+    <tr><td>Ian Jackson</td>		<td>Yes</td></tr>
+    <tr><td>Jimmy Kaplowitz</td>	<td>Yes</td></tr>
+    <tr><td>Bruce Perens</td>		<td>Yes</td></tr>
+    <tr><td>Bdale Garbee</td>		<td>Yes</td></tr>
+    <tr><td>Martin Schulze</td>		<td>Yes</td></tr>
+</tbody></table>
+
+Yes: 9, No: 0, Abstain: 0.
+
+Resolutions
+[2004-10-05.bmh.1](/corporate/resolutions/2004/2004-10-05.bmh.1/)
+was unanimously approved.
+
+## Resolution 2004-10-04.bmh.2: Relicense Debian Logo
+
+This matter was deferred to the November meeting in the interests of
+obtaining more feedback from the membership of the members of the
+debian-legal Debian project mailing list.
+
+## Call for Canadian resident to re-research SPI banking possibilities in Canada
+
+Deputy Treasurer Branden Robinson requested that a Canadian member look
+into opening a bank account in Canada for Canadian operations.
+
+Branden summarised the reasons in two basic problems:
+
+First, it is difficult to make disbursements to Canadians because of the
+lengthy cheque clearing time.
+
+Second, Canadians have some difficulty making donations to SPI as they
+must, at present, be made in US funds.
+
+Drew Scott Daniels of Manitoba and David Graham of Ontario volunteered to
+research Canadian banking options.
+
+## Call for volunteer to moderate SPI mailing lists
+
+Branden Robinson complained about the volume of spam to SPI's public
+mailing lists and asked if we could have the lists be moderated.
+
+Several ideas were put forward:
+
+* Making subscribers the only people able to post to lists was rejected because
+  the board list receives much of its traffic from non-subscribed members.
+* A moderator could be assigned to the lists, however finding someone to
+  volunteer could be difficult.
+* Only allowing PGP signed mail would reject messages from some people, such as
+  legal advisors.
+* Spamassassin or another spam-fighting mechanism is to be considered
+
+The matter was deferred to the spi-general mailing list for further
+discussion.
+
+## Web site maintenance
+
+David Graham asked to find out who has access to update the website and is
+willing to make the many updates needed.
+
+Benjamin Mako Hill volunteered to do the updates needed.
+
+## Project support request
+
+David Graham stated that OpenC++ through Grzegorz Jakacki had sent a
+request to join SPI.
+
+At the time of the meeting, no one had done any research into OpenC++ and
+the matter was deferred to the November meeting, with all board members
+asked to look into the project where possible.
+
+## Next meeting
+
+Due to the American election on November 2nd, 2004, with 6 of 9 board
+members being from the United States, the meeting will be deferred until
+November 9th at 1900 UTC.
+
+## Extra issues
+
+Branden Robinson advised that he had not as yet received a reply from the
+Indiana Attorney General in regards to our response to a complaint from
+earlier in the year.
+
+### The meeting closed at 19:53 UTC.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+    <tr><th>Date elected</th><th>Name</th>		<th>Role</th></tr>
+    <tr><td>[2003-03-11]</td><td>John Goerzen</td>	<td>President</td></tr>
+    <tr><td>[2003-03-11]</td><td>Benjamin Mako Hill</td><td>Vice President</td></tr>
+    <tr><td>[2003-11-29]</td><td>David Graham</td>	<td>Secretary</td></tr>
+    <tr><td>[2004-02-20]</td><td>Jimmy Kaplowitz</td>	<td>Treasurer</td></tr>
+    <tr><td>[2004-07-29]</td><td>Bdale Garbee</td>	<td> </td></tr>
+    <tr><td>[2004-07-29]</td><td>Branden Robinson</td>	<td> </td></tr>
+    <tr><td>[2003-11-29]</td><td>Ian Jackson</td>	<td> </td></tr>
+    <tr><td>[2003-03-11]</td><td>Bruce Perens</td>	<td> </td></tr>
+    <tr><td>[2003-11-29]</td><td>Martin "Joey" Schulze</td>	<td> </td></tr>
+</tbody></table>
+
+
+## Appendix B: Approved Resolutions<ul>
+
+* Resolution
+  [2004-10-04.jrk.1](/corporate/resolutions/2004/2004-10-04.jrk.1/):
+  Begin Banking with FirstIB
+* Resolution
+  [2004-10-05.bmh.1](/corporate/resolutions/2004/2004-10-05.bmh.1/);
+  Permanent Legal Address
+
+## Appendix C: First Internet Bank Corporate Resolution
+
+For the Corporate Authorization Resolution, please see the
+[original minutes](http://lists.spi-inc.org/pipermail/spi-announce/2004/000110.html)
+in the mailing list archive.
+
+## Appendix D: Meeting Log
+
+For the meeting log, please see the
+[original minutes](http://lists.spi-inc.org/pipermail/spi-announce/2004/000110.html)
+in the mailing list archive.
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

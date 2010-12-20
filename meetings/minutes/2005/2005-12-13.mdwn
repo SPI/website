@@ -1,0 +1,256 @@
+# Board Meeting, December 13th, 2005
+
+__Board members present__
+
+* Benj. Mako Hill (mako) (Vice-President)
+* David Graham (cdlu) (Secretary)
+* Jimmy Kaplowitz (Hydroxide) (Treasurer)
+* Branden Robinson (Overfiend)
+* Ian Jackson (IanJackson)
+* Bdale Garbee (bdale)
+* Bruce Perens (BrucePerens)
+* Martin Schulze (Joey)
+
+
+__Board members absent with regrets__
+
+* John Goerzen (CosmicRay) (President)
+
+
+__Registered guests present__
+
+* Michael Schultheiss (schultmc)
+* Matthew Wilcox (willy)
+* Vincent Sanders (kyllikki)
+* Eric Evans (urandom)
+* Roger Leigh (rleigh)
+* Stephen Gran (sgran)
+* Greg Sabino Mullane (G_SabinoMullane)
+* Bill Allombert (yp17)
+* Neil McGovern (Maulkin)
+* David Pashley (JD)
+* Steve McIntyre (Sledge)
+* Philip Hands (fil)
+* John Lightsey (lightsey)
+
+
+These are the draft minutes for the December 13th, 2005 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2005/2005-12-13-log.txt)
+
+
+## Treasurer's report
+
+Moved by David Graham, seconded by Jimmy Kaplowitz
+
+<table><tbody>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Bruce Perens:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Abstain</td></tr>
+</tbody></table>
+
+Report approved by a vote of 7-0-1
+
+
+## Debian Common Core Alliance
+
+Ian Murdock of the DCCA asks what remains wrong. Branden Robinson advises him
+that DCCA cannot use the Debian Open Use Logo as their name is no longer
+Debian.
+
+Benj. Mako Hill suggests that DCCA seek a trademark license from Debian.
+Murdock advises that this idea has been dismissed out of hand by DCCA.
+
+The discussion is ultimately referred back to Debian for resolution.
+
+
+## OFTC update
+
+David Graham advises that David Harris has resigned as chair and by the
+constitution of the organisation, Graham is now the chair. He also advises that
+after three years of service, Martin Schulze is resigning as SPI's advisor to
+OFTC and a replacement board member is sought.
+
+SPI contributing member David Moreno Garza volunteers.
+
+Moved by Jimmy Kaplowitz, seconded by Branden Robinson that David Moreno Garza
+be appointed SPI's representative to OFTC contingent on the approval of OFTC's
+NOC.
+
+<table><tbody>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Abstain</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passes by a vote of 5-0-1 (1 did not vote).
+
+
+## Debian website copyright issues
+
+Bdale Garbee notes that the options before us are:
+
+* leave the site as-is
+* do a lot of work and get the assignments from all contributors to relicense
+  the website
+* dump the website and start over, doing the licensing properly the first time
+
+Branden Robinson notes that the latter option is already in progress, through
+[wiki.debian.org](http://wiki.debian.org/).
+
+## PostgreSQL
+
+
+Moved by Jimmy Kaplowitz, seconded by David Graham, resolution
+2005-12-13.jrk.1: PostgreSQL as a Member Project
+
+<table><tbody>
+<tr><td>Bruce Perens:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+</tbody></table>
+
+Resolution 2005-12-13.jrk.1 is accepted with a vote of 8-0.
+
+Josh Berkus immediately accepts on behalf of PostgreSQL.
+
+## Nessus/OpenVAS
+
+The resolution for PostgreSQL is modified to apply to OpenVAS and designated
+2005-12-13.iwj.1. Moved by Ian Jackson, seconded by David Graham:
+
+<table><tbody>
+<tr><td>Ian Jackson:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Bruce Perens:</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+Resolution 2005-12-13.iwj.1 is accepted with a vote of 8-0.
+
+Neil McGovern thanks SPI on behalf of OpenVAS.
+
+
+## DUS
+
+Ian Jackson moves that `The SPI Board notes that MJ Ray has been shit-stirring
+about Debian UK and asks him to stop doing so.' The motion is not seconded.
+
+Debian UK is embroiled in controversy over automatically considering UK Debian
+developers members. Some members consider this a violation of human rights and
+would like to see the trademark license for DUS' use of Debian revoked.
+
+Branden Robinson, speaking in his capacity as the Debian Project Leader,
+states:
+
+> My opinion is that: 1) If DUS automatically considers anyone
+> a member of their Society by virtue of a UK resident becoming
+> a Debian Developer, I request that that practice cease.
+
+The discussion lasts twenty minutes and is deferred.
+
+
+## Adjournment
+
+The meeting is adjourned to January 17th, 2006 at 19:00 UTC.
+
+
+## Appendix: treasurer's report
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss November 1 2005 - November 30 2005
+
+   Ordinary Income/Expense
+      Income
+
+        Donations
+          Debian                                   1,950.92
+          Unrestricted                               248.40[1]
+        Total Donations                            2,199.32
+
+      Total Income                                 2,199.32[1]
+
+      Expense
+        Reimbursement mailing fees (Debian earmark)   (4.00)[2]
+        aKademy 2005 travel costs (Debian earmark)(1,623.32)
+      Total Expense                               (1,627.32)
+
+   Net Ordinary Income                               572.00[1]
+
+   Net Income                                        572.00[1]
+
+Balance Sheet as of November 30, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      4,138.43
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 575.54[1]
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   30,260.75[1]
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,393.26
+        Total Ameriprise Financial Acct           40,393.26
+
+     Total Current Assets                         70,654.01[1]
+
+   TOTAL ASSETS                                   70,654.01[1]
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         70,082.01
+        Net Income                                   572.00
+     Total Equity                                 70,654.01
+
+   TOTAL LIABILITIES &amp; EQUITY                     70,654.01
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] This amount includes $10 from a check which was written in Canadian
+dollars. Our bank handles these by crediting us the full face value and then
+later adjusting to take into account the exchange rate between USD and CAD.
+Therefore this amount will change when the bank deals with this, probably in
+the December reporting period, but it will not change by much.
+
+[2] These fees are for the aKademy 2005 travel costs, as incidental mailing
+costs associated with a DPL-approved expense of Debian's. Therefore they are
+Debian-earmarked. This makes sense to me as Treasurer, to Branden as Deputy
+Treasurer, and also to Branden as DPL.
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

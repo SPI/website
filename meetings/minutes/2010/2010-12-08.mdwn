@@ -1,0 +1,299 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Jimmy Kaplowitz (Hydroxide)
+* David Graham (cdlu)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+
+
+These are the minutes for the December 8th, 2010 SPI Board meeting, held
+at 20:30 UTC in #spi on irc.spi-inc.org. 
+[LOG](../../../logs/2010/2010-12-08-log.txt)
+
+
+## President's Report
+
+None
+
+## Treasurer's Report
+
+Michael Schultheiss provided the following financial reports for
+November 2010:
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period November 01, 2010 - November 30, 2010
+
+ Income
+   Ordinary Income
+        aptosid                             41.00
+        Debian                          12,676.00
+        Gallery                             20.00
+        GNU TeXmacs                         40.00
+        Open Voting Foundation              50.00
+        OpenOffice.org                     459.00
+        OpenWrt                             15.00
+        PostgreSQL                         104.00
+        Privoxy                             20.00
+        SPI General                        145.00
+        SPI 5%                             144.50
+        The HeliOS Project               1,465.00
+
+        Total Ordinary Income           15,179.50
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.48
+        Chase BusinessClassic Checking       0.26
+        Chase Bus Select High Yield Savings  3.61
+
+        Total Interest Income                5.35
+                                             ----
+
+   Gross Income                         15,184.85
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+        
+        aptosid
+          Processing Fees             2.69
+          SPI 5%                      2.05
+
+          Total aptosid Exp           4.74
+                                      ----
+
+        Debian
+          Food/Office Supplies
+            Shipping (DC10)         762.88
+          Refund (DC10)             672.00
+          Processing Fees            32.39
+          SPI 5%                     33.80
+          Travel reimbursment
+            (GSoC)                  984.15
+
+          Total Debian Exp        2,485.22
+                                  --------
+
+        GNU TeXmacs
+          Processing Fees             1.95
+          SPI 5%                      2.00
+
+          Total TeXmacs Exp           3.95
+                                      ----
+
+        Gallery
+          Processing Fees             0.55
+          SPI 5%                      1.00
+
+          Total Gallery Exp           1.55
+                                      ----
+
+        Open Voting Foundation
+          Processing Fees             2.35
+          SPI 5%                      2.50
+
+          Total OVF Exp               4.85
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            19.40
+          SPI 5%                     22.95
+
+          Total OO.o Exp             42.35
+                                     -----
+        OpenWrt
+          Processing Fees             1.30
+          SPI 5%                      0.75
+
+          Total OpenWrt Exp           2.05
+                                      ----
+
+        PostgreSQL
+          Processing Fees             4.24
+          SPI 5%                      5.20
+
+          Total PostgreSQL Exp        9.44
+                                      ----
+
+        Privoxy
+          Processing Fees             1.50
+          SPI 5%                      1.00
+
+          Total Privoxy Exp           2.50
+                                      ----
+
+        SPI
+          Banking Supplies           32.95
+          PaySimple Monthly Fee      29.95
+          Transaction Fees          801.55
+
+          Total SPI Exp             864.45
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     933.49
+          Processing Fees           103.40
+          SPI 5%                     73.25
+
+          Total HeliOS Exp        1,110.14
+                                  --------
+
+
+        Total Expenses            4,531,24
+                                  --------
+
+        Net Income               10,653,61
+                                 =========
+
+
+Balance Sheet as of November 30, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      31,523.84
+        Chase Business Select High Yield Savings          27,550.49
+        Key Business Reward Checking                      64,370.78
+        Key Business Signature Money Market Savings       36,001.86
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                172,848.59
+
+
+   TOTAL ASSETS                                          172,848.59
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       36.26
+           Debian Earmark                    22,917.04
+           Drupal Earmark                     2,735.37
+           Freedesktop.org Earmark           42,342.64
+           Gallery Earmark                    7,098.21
+           GNU TeXmacs Earmark                   45.75
+           Madwifi.org Earmark                1,445.34
+           OpenOffice.org Earmark            17,277.46
+           OpenVAS                               45.71
+           OpenWrt                              584.33
+           Open Voting Foundation Earmark       135.80
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                28,879.08
+           Privoxy Earmark                      355.85
+           The HeliOS Project                   470.00
+           Tux4Kids Earmark                   5,529.05
+           YafaRay Earmark                   (1,648.31)
+
+        Total held in trust                              134,759.45
+
+        General reserves                                  38,089.14
+
+
+     Total Equity                                        172,848.59
+
+   TOTAL LIABILITIES & EQUITY                            172,848.59
+</pre>
+
+There had been a query on the list about the refund listed under expenses;
+Michael clarified that it was a refund of an attendance fee for DebConf10 for
+someone who ended up unable to attend. Michael also reported that our NY state
+charity documentation had been mailed off.
+
+
+## Secretary's report
+
+Jonathan reported that he'd added a few remaining pages to the new website that
+he felt were important to have, and Joerg had made the switch to enable it the
+day before the meeting. It's accepted there are still some content that needs
+to be moved from the old site, but felt that the new site is now the more
+complete of the two.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes November 10th, 2010
+
+<table><tbody>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing
+
+## Items up for discussion
+
+### debian.eu
+
+As nothing has been heard from the current debian.eu holder it was decided to
+send the second letter indicating that we were prepared to initiate the EURid
+ADR process.
+
+Joerg indicated he'd appreciate some assistance with SPI sysadmin and puppet
+configuration.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, January 12th, 2011 at 20:30
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

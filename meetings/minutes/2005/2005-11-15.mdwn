@@ -1,0 +1,171 @@
+# Board Meeting, November 15th, 2005
+
+__Board members present__
+
+* John Goerzen            (CosmicRay)     (President)
+* Benj. Mako Hill         (mako)          (Vice-President)
+* David Graham            (cdlu)          (Secretary)
+* Jimmy Kaplowitz         (Hydroxide)     (Treasurer)
+* Branden Robinson        (Overfiend)
+* Martin Schulze          (Joey)
+
+__Board members absent__
+
+* Ian Jackson             (IanJackson)
+* Bdale Garbee            (bdale)
+* Bruce Perens            (BrucePerens)
+
+__Guests__
+
+* Michael Schultheiss (schultmc)
+* Luk Claes (luk)
+
+
+These are the draft minutes for the November 15th, 2005 SPI Board meeting, held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2005/2005-11-15-log.txt)
+
+
+## President's report
+
+None received
+
+
+## Treasurer's report
+
+Four treasurer's reports are presented for approval. Moved by Branden Robinson,
+seconded by Benj. Mako Hill, the four sets were voted on together.
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>John Goerzen:</td><td>Abstain</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion is approved by a vote of 5-0-1.
+
+
+## Outstanding minutes
+
+Moved by Branden Robinson, seconded by David Graham, the minutes for the board meeting of 2005-06-21 were voted on:
+
+<table><tbody>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>John Goerzen:</td><td>Abstain</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion is approved by a vote of 4-0-2.
+
+
+## OpenVAS: Nessus fork
+
+Moved by David Graham, seconded by Branden Robinson, that OpenVAS be accepted
+as an SPI member project with a formal resolution to follow.
+
+<table><tbody>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+<tr><td>John Goerzen:</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+</tbody></table>
+
+## Adjournment
+
+The board meeting is adjourned until December 13th, 2005.
+
+
+
+## Appendix: Treasurer's report
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it. We now have Q3 2005 data
+for our Ameriprise Financial account (with income from the
+RVS Cash Management fund)[1], which is included in October's
+report despite it covering a period of three months.
+
+Profit/Loss October 1 2005 - October 31 2005
+
+   Ordinary Income/Expense
+      Income
+
+        RVS Cash Management Fund Income              283.23[1][2]
+
+      Total Income                                   283.23[3]
+
+      Expense
+        Bookkeeper fees (SPI earmark)               (120.00)
+        FirstIB statement fees (SPI earmark)          (9.00)
+        CSC representation services (SPI earmark)   (299.00)
+        Providence PO box renewal (SPI earmark)      (34.00)
+        Miscellaneous treasurer costs (SPI earmark)  (14.26)
+      Total Expense                                 (476.26)
+
+   Net Ordinary Income                              (193.03)
+
+   Net Income                                       (193.03)
+
+Balance Sheet as of October 31, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      3,814.83
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 327.14
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   29,688.75
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,393.26
+        Total Ameriprise Financial Acct           40,393.26[1]
+
+     Total Current Assets                         70,082.01
+
+   TOTAL ASSETS                                   70,082.01
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         70,275.04
+        Net Income                                  (193.03)
+     Total Equity                                 70,082.01
+
+   TOTAL LIABILITIES &amp; EQUITY                     70,082.01
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] Ameriprise Financial used to be American Express Financial Advisors. The
+RVS Cash Management Fund used to be the AXP Cash Management Fund. Aren't
+corporate spin-offs fun?
+
+[2] This is current as of October 13, the closing date of our most recent
+Ameriprise statement, and covers the period from July 14 through then.
+
+[3] Again, keep in mind that the lack of donations listed only means we did
+not deposit any donations in October, not that we received none. Reread the
+first paragraph of this report if this is unclear.
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

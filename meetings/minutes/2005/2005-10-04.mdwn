@@ -1,0 +1,195 @@
+# Board meeting, October 4th, 2005
+
+__Board members present__
+
+* John Goerzen            (CosmicRay)     (President)
+* Benj. Mako Hill         (mako)          (Vice-President)
+* David Graham            (cdlu)          (Secretary)
+* Martin Schulze          (Joey)
+* Branden Robinson        (Overfiend)
+* Bdale Garbee            (bdale)
+
+
+__Board members absent with regrets__
+
+* Jimmy Kaplowitz         (Hydroxide)     (Treasurer)
+
+
+__Board members absent__
+
+* Ian Jackson             (IanJackson)
+* Bruce Perens            (BrucePerens)
+
+
+__Registered guests present__
+
+* None
+
+
+These are the draft minutes for the October 4th 2005 SPI Board meeting, held in
+#spi on irc.spi-inc.org.
+[LOG](../../../logs/2005/2005-10-04-log.txt)
+
+
+## President's Update
+
+The president has nothing to report.
+
+
+## Treasurer's Report
+
+Branden Robinson reports that donations are up.
+
+He further reports that MBS has sent us a bill for $240 that we should pay. It
+is agreed that this falls within the treasurer's existing discretionary budget.
+
+He also reports that Frank at MBS is in possession of our First IB website
+username and password as part of the relationship.
+
+A vote is held to approve the treasurer's report as delivered by email.
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz:</td><td>Yes</td></tr>
+<tr><td>Branden Robinson:</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee:</td><td>Yes</td></tr>
+<tr><td>John Goerzen:</td><td>Yes</td></tr>
+<tr><td>Benj. Mako Hill:</td><td>Yes</td></tr>
+<tr><td>Martin Schulze:</td><td>Yes</td></tr>
+<tr><td>David Graham:</td><td>Yes</td></tr>
+</tbody></table>
+
+The treasurer's reported is adopted by a vote of 7-0.
+
+
+## Outstanding minutes
+
+No minutes are presented.
+
+
+## Tax filing/bookkeeping status
+
+No updates are provided.
+
+
+## Debian Core Consortium (DCC) issues
+
+Don Armstrong reports to the board that DCC is moving slowly.
+
+Branden Robinson advises that DCC will call itself, recursively, DCC Common
+Core.
+
+Robinson advises that Don Armstrong is in negotiations with DCC. He says we
+take Debian's trademark seriously.
+
+Jimmy Kaplowitz notes that that we will need to convince the press to stop
+calling DCC the Debian Common Core Alliance for enforceability reasons, and
+suggests a joint press release.
+
+
+## OFTC elections
+
+David Graham advises that SPI member project OFTC is having its annual election
+on Saturday the 8th of October and that a volunteer scrutineer who is not an
+OFTC staff member is needed from SPI's ranks to run the election via SPI.
+
+OFTC chair David Harris advises that the election cannot be delayed if a
+volunteer is not found, but volunteers can be found outside of SPI if needed.
+
+It is agreed that SPI will handle the emailed votes and forward them on to
+designated scrutineers.
+
+
+## Adjournment
+
+The meeting is adjourned until October 18th, 2005 at 19:00 UTC.
+
+
+## Appendix: Treasurers report
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss August 1 2005 - August 31 2005
+
+   Ordinary Income/Expense
+      Income
+        Donations
+        Total Donations                                0.00[1]
+
+      Total Income                                     0.00
+
+      Expense
+        OASIS membership (Debian earmark)         (1,000.00)
+        CSC services fee (SPI earmark)              (173.77)
+        Bookkeeper retainer fee (SPI earmark)     (1,000.00)
+      Total Expense                               (2,173.77)[2]
+
+   Net Ordinary Income                            (2,173.77)
+
+   Net Income                                     (2,173.77)
+
+Balance Sheet as of August 31, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      1,262.15[1]
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known Unrestricted Earmark                  39.30[1]
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   26,838.53
+
+        AmEx Financial Advisors Acct
+          Earmark to be Determined                39,882.62
+        Total AmEx Financial Advisors Acct        39,882.62[3]
+
+     Total Current Assets                         66,721.15
+
+   TOTAL ASSETS                                   66,721.15
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         68,894.92
+        Net Income                                (2,173.77)
+     Total Equity                                 66,721.15
+
+   TOTAL LIABILITIES &amp; EQUITY                     66,721.15
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] These numbers appear artificially low because no deposits were made
+(aside from a $10 deposit by me) during the months of July and August,
+and some or all donations received in June had not been deposited by the
+end of August. Branden has now made deposits for June, July, and August
+totaling over $3000, but since these were done in early September they
+will show up on the next report instead of this one.
+
+[2] According to our online banking information, $2,813.80 of the DebConf5
+reimbursements paid so far was withdrawn from our account in July and $5,927.90
+of this was withdrawn in August. All of these reimbursements were distributed
+as US checks during DebConf5 (quite an improvement from past years!), and so
+are listed in the July report in accordance with the paragraph at the top of
+this message.
+
+[3] I'd expect that in July or August we received another quarterly statement
+for this account reporting a net increase in value, but since Branden hasn't
+provided any information about this, and since we don't have online access set
+up for that account, I can't include it in this report. I've been nagging him
+about several other SPI-related tasks, but I haven't remembered to nag him
+about this.
+</pre>
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

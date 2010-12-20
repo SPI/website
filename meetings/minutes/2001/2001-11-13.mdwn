@@ -1,0 +1,312 @@
+# Board meeting, November 13th, 2001
+
+__Attending__:
+
+* Ben Collins
+* Branden Robinson
+* Ean Schuessler
+* Manoj Srivastava
+* Nils Lohner
+* Wichert Akkerman
+
+__Absent__:
+
+* Darren Benham
+* Ian Jackson
+* Scott McNeil
+
+__Absent with regrets__:
+
+* Martin `Joey' Schulze (mostly)
+
+__Advisors present__:
+
+* Rob Levin
+
+__Agenda__:
+
+1.  take attendance
+2.  approve meeting minutes
+3.  modification of email voting
+4.  treasurer report
+5.  membership report
+6.  OS committee report
+7.  LinuxPPC update
+8.  Legal issues and `crypto-in-main' update
+9.  miscellaneous
+10. next meeting
+
+__Recorder__: Wichert Akkerman
+
+The board meeting was held using Internet Relay Chat. Nils opens the
+meeting at 20:13 UTC.
+
+## 1. Approving minutes from previous meetings
+
+Nils asks Ean if the missing minutes were completed with the open
+issues addressed. Branden suggests that the minutes be accepted
+in their current state and be amended later. Wichert is unsure if
+we could technically do that considering minutes become official
+records once approved. Branden moves that the current minutes be
+accepted as-is and we consider anything not covered in them as
+not having happened. Ean mentions that he does not have the time
+currently to properly produce minutes and would like to resign as
+secretary. The board accepts this and a new agenda item to select
+a new secretary was added to the agenda.
+
+Vote to approve the minutes of the July 10 meeting minutes as
+posted to the SPI board in message `20011011125037.A23013@deadbeast.net`.
+Votes:
+
+Branden: against
+
+Ean: against
+
+Nils: against
+
+Manoj: against
+
+Wichert: against
+
+The July 10 minutes in their current form are not approved.
+
+Vote to approve the minutes of the August 6 meeting minutes as
+posted to the SPI board in message `20011011125211.A23036@deadbeast.net`.
+Votes:
+
+Branden: against
+
+Ean: against
+
+Nils: against
+
+Manoj: against
+
+Wichert: against
+
+The August 6 minutes in their current form are not accepted.
+
+Vote to approve the minutes of the September 17 meeting minutes
+as posted to the SPI board in message
+`200110221914.f9MJEsR4017246@brainfood.com`. Votes:
+
+Branden: against
+
+Ean: against
+
+Nils: against
+
+Manoj: against
+
+Wichert: against
+
+The September 17 minutes in their current form are not accepted.
+
+Branden asks about the minutes for October's meeting. It is
+determined no minutes have been made yet, only an IRC log is
+available.
+
+Nils promises to look at the IRC logs for the meetings and
+produce updated minutes in the next 2 weeks. Branden commits
+to put the relevant IRC logs in his home directory on purcel.
+
+## 2. Modification of email voting
+
+Ian proposed earlier to regulate the email voting so that it is
+still usable with 8 to 12 board members. Nils asks if anyone is
+opposed to modifying the voting procedure to require a quorum of 75%
+of the board if they agree unanimously. Manoj adds that a minimum
+of 4 should be required. Branden suggests 75% plus unanimity
+might be too strict. Nils explains `the thought is that email
+voting should be for obvious issues where not much discussion is
+required to get things done quickly', and as such unanimity
+should not be a problem. There is some confusion on the
+definition of quorum, which Wichert describes as the minimum
+number of people voting required to make a vote legal. Branden
+suggests `Quorum shall be 4 or 50% of the board membership
+eligible to vote, whichever is greater". Wichert is in favour of
+that suggestion. Nils asks if anyone objected to it, and if not
+he would write something the board could vote on at the next
+meeting. Nobody objects.
+
+## 3. Treasurer report
+
+Branden has an update:
+
+> Sean Perry has continued to make attempts to contact Darren
+> Benham. Contact has been made, but no fruit has been borne
+> yet. Sean spoke to me today and said he hopes to talk to
+> Darren again today.
+
+## 4. Membership report
+
+Martin Michlmayr mentions some technicalities that need to be
+fixed on the web-server and the list-server. It is agreed he should
+take that up with SPI-admin. He also mentions that there were at
+the moment 116 contributing and 27 non-contributing members.
+
+## 5. Open Source committee report
+
+Unfortunately Ean has to leave for a meeting, so this agenda item
+is postponed until next meeting.
+
+## 6. Linux PPC update
+
+Wichert apologises for not having any updates due to having been
+too busy with finding new employment and settling in at his new
+job.
+
+## 7. Legal issues and `crypto-in-main' update
+
+Manoj has some interesting news:
+
+>     The FSF is interested in their hiring a lawyer and paying
+>     someone to go through all licences in main, and telling us of
+>     any problems They shall bear all costs for this exercise. In
+>     return, I committed to bringing up a policy proposal to set
+>     up an email address to which all *new* package licences
+>     should be mailed to prior to initial upload to incoming
+>
+> ..
+>
+> Also, they shall vet any and all packages in main and see if
+>     we have LZW encoded gifs, and warn us
+>
+> ..
+>
+> the FSF is also committed to providing legal expertise to
+>     enable crypto in main
+
+Nils says this sounded like a good idea, but it is something that
+the FSF needs to discuss with Debian instead of SPI, and asks
+Manoj to discuss this with Ben and Debian. Manoj agrees and adds
+that this was just a FYI.
+
+Ben has an update about the cryptography policies for Debian.
+Debian is ready to allow crypto in its main archive. All the
+documents are in order and all questions have been resolved.
+Branden asks Ben who bears the responsibility of the notification
+requirements, because ultimately it is SPI's responsibility in a
+legal sense. Ben explains:
+
+> the day-to-day will be handled by a mixture of archive
+> emails to a designated person, who will then send in paper
+> form and push things through incoming afterwards it's
+> somewhat more complex than it sounds, but the majority of the
+> mechanism is automated and yes, precautions are being made to
+> keep in-waiting crypto from being public, even to
+> developers.
+
+Wichert asks if the SPI board will be able to read and approve
+the documents before Debian proceeds. Ben agrees with this, as
+long as the board is just in its decision. Branden adds he would
+not mind expediting things as much as reasonable.
+
+## 7. ALS
+
+Branden and Manoj are not happy with the way Debian was treated
+at ALS. Debian was presented with a bare booth, no chairs, net
+connectivity, tables or power. This was partially the fault of
+Sean Perry who requested the booth but had not realized he needed
+to ask for (the free) power and net connection. A table cost $131
+and was paid for the by FSF. Chairs and trash cans were too
+expensive and not rented. External chairs, tables and food were
+not allowed for `security reasons'.
+
+Branden proposes that Debian/SPI, the FSF and other groups
+organise a boycott of ALS. Nils tells Branden to propose that to
+Debian since it is not an SPI issue. Branden counters that if
+Debian has to pay for such costs this is done either from
+developers' private pockets, or SPI funds, so a policy on who
+pays for Debian's booth expenses is needed. Nils responds that
+this was still a Debian matter. Ben thinks that a boycott is a
+start, but more is needed.
+
+Wichert wonders what exactly the problem is. Branden explains
+that the problem is that ALS was not what it used to be in that
+it doesn't respect the non-profit and informal organizations
+that ALS has recognized as the `heart and soul of Linux' in the
+past, and is is upset that no external equipment could be brought
+in. Wichert thinks that is true for most shows (including Linux
+shows these days).
+
+Everyone agrees the FSF will be refunded for the costs they
+incurred on Debian's behalf.
+
+Branden mentions that reimbursement might be a problem
+considering AmEx froze SPI's account. He explains that buying
+drives for auric's new RAID raised red flags since they have not
+heard from SPI's treasurer in ages so they froze the account.
+
+## 8. SPI mailing-lists
+
+Wichert mentions that he set up lists2.spi-inc.org as a
+replacement for the current (Debian hosted) lists.spi-inc.org a
+while ago but has not received any feedback on it. If nobody
+objects, he wants to populate the lists using the current
+subscriber lists and switch DNS in the next 10 days. A method for
+verifying spi-private subscribers with registered members still
+has to designed. Nobody objects.
+
+##  9. Attendance
+
+The attendance list is verified.
+
+Branden proposes to remove Darren Benham and Scott McNeil from
+the SPI board under the board attendance policy, considering they
+have missed 3 meetings in a row without regrets. Nils says he
+wants to talk with both personally in this or next week first.
+Wichert does not mind voting on Darren immediately but would
+rather wait with Scott until Nils has spoken with him. Manoj also
+prefers voting now.
+
+Vote to remove Darren Benham from the SPI Board of Directors for
+violation of the Meeting Attendance Policy:
+
+Branden: in favour
+
+Nils: in favour
+
+Manoj: in favour
+
+Wichert: in favour
+
+The vote is accepted.
+
+Branden moves to ask SPI's attorney-at-law to draft a letter to
+Darren requesting the surrender of all SPI materials, which
+we can send if Darren hasn't done so by next week. After some
+discussion it is agreed to proceed with this.
+
+Branden notices that according to the web-pages Scott is not a
+board member so a motion to remove him was not necessary. Nils
+adds that Scott also mailed a semi-resignation when he found he
+did not have enough time for SPI so he prefers to let Scott
+resign formally.
+
+## 10. SPI Secretary
+
+Since Ean resigned as secretary earlier in the meeting, a new
+secretary needs to be elected. Nils nominates Wichert for the
+position. Branden seconds the nomination.
+
+Votes for nominating Wichert Akkerman as the new secretary of
+SPI:
+
+Branden: in favour
+
+Nils: in favour
+
+Manoj: in favour
+
+Wichert: abstained
+
+The vote is accepted, and Wichert accepts the position.
+
+## 11. Next meeting
+
+The next SPI board meeting is set for November 26 at 20.00 UTC
+
+
+[[!meta copyright="Copyright © 2010 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
