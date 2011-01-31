@@ -1,0 +1,100 @@
+20:30 #spi: < bdale> *GAVEL*
+20:30 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.  
+20:30 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2011/2011-01-12/
+20:30 #spi: < cdlu> David Graham
+20:30 #spi: < bdale> [item 2, Roll Call]
+20:30 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.  
+20:30 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:30 #spi: < schultmc> Michael Schultheiss
+20:30 #spi: < Ganneff> Joerg Jaspert
+20:30 #spi: < Hydroxide> Jimmy Kaplowitz
+20:30 #spi: < bdale> Bdale Garbee
+20:30 #spi: < Hydroxide> cdlu: you beat the roll call :)
+20:30 #spi: < Noodles> Jonathan McDowell
+20:30 #spi: < bdale> cool, quorum
+20:30 #spi: < bdale> who are we missing?
+20:30 #spi: < schultmc> linuxpoet
+20:31 #spi: < schultmc> zobel
+20:31 #spi: < bdale> short agenda today, so I'll give them another minute or so before we proceed even though we have quorum
+20:31 #spi:  * Hydroxide took a moment just now to catch up on the December minutes and will be ready to approve them when we get to that point
+20:32 #spi: < zobel> Martin Zobel-Helas
+20:32 #spi: < bdale> ok, cool, 7 of 8 and the 8th isn't on channel .. let's proceed
+20:32 #spi: < bdale> [item 3, President's Report]
+20:32 #spi: < bdale> Nothing to report.
+20:32 #spi: < bdale> [item 4, Treasurer's Report]
+20:32 #spi: < bdale> Michael?
+20:32 #spi: < schultmc> standard report is in the agenda
+20:33 #spi: < schultmc> Jimmy did have a question about the transaction fees in SPI's expenses.  Those are related to the credit card processing.
+20:33 #spi: < bdale> any questions or comments?
+20:33 #spi: < bdale> right, ok 
+20:33 #spi: < Hydroxide> what credit card processing is so different this time to result in that large amount?
+20:33 #spi: < schultmc> they're higher than past fees - I'll be reviewing our credit card processing to determine why the difference
+20:33 #spi: < bdale> end of year charitable bulge?
+20:33 #spi: < schultmc> I'll report back what if any issue there was
+20:34 #spi: < bdale> ok
+20:34 #spi: < Hydroxide> schultmc: ok. maybe also let us know why it's SPI-general instead of projects-allocable?
+20:34 #spi: < bdale> anything worth reporting on the filings with NY charities folks?
+20:34 #spi: < Hydroxide> (when you report back)
+20:34 #spi: < schultmc> Hydroxide: will do
+20:34 #spi: < Hydroxide> cool
+20:34 #spi: < schultmc> bdale: Jimmy noticed that we're partially in the NY charities records now
+20:34 #spi: < schultmc> so they're processing our forms
+20:34 #spi: < bdale> oh, that's an interesting point .. yes .. seems like fees should be amortized unless it's something we're forgetting
+20:35 #spi: < bdale> yes, great, I'm pleased to know they at least received the stuff from us
+20:35 #spi: < bdale> ok, anything else?
+20:35 #spi: < Hydroxide> http://bartlett.ag.ny.gov/Char_Forms/show_details.jsp?id={CA400437-19FD-44C5-8A10-AD5132D7A2CF} is our partial record there, presumably still being processed
+20:35 #spi: < schultmc> nothing from me
+20:35 #spi: < bdale> [item 5, Secretary's report]
+20:35 #spi: < bdale> Jonathan?
+20:35 #spi: < Noodles> Nothing to report here.
+20:35 #spi: < bdale> ok
+20:36 #spi: < bdale> thanks for handling the cert stuff vis new web structure
+20:36 #spi: < bdale> [item 6, Outstanding minutes]
+20:36 #spi: < bdale> I believe we have last month's ready to vote on today, right Jonathan?
+20:36 #spi: < Noodles> Yup.
+20:36 #spi: < bdale> I'm ready to vote
+20:36 #spi: < Noodles> They've been up for a while, so hopefully people have had a chance to look at them before now.
+20:36 #spi: < Noodles> Voting started, 7 people (ganneff,noodles,cdlu,bdale,hydroxide,schultmc,zobe) allowed to vote on Minutes for board meeting of December 8th, 2010. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:36 #spi: < Ganneff> !vote yes
+20:36 #spi: < schultmc> !vote yes
+20:36 #spi: < cdlu> !vote yes
+20:36 #spi: < bdale> !vote yes
+20:36 #spi: < Hydroxide> !vote yes
+20:36 #spi: < zobel> !vote yes
+20:37 #spi: < Noodles> !vote yes
+20:37 #spi: < Noodles> Current voting results for "Minutes for board meeting of December 8th, 2010": Yes: 6, No: 0, Abstain: 0, Missing: 1 ( zobe )
+20:37 #spi: < Noodles> Voting for "Minutes for board meeting of December 8th, 2010" closed.
+20:37 #spi: < bdale> typo
+20:37 #spi: < Noodles> I mistyped zobel there, but I'll make sure it's correct in the minutes.
+20:37 #spi: < bdale> great, thanks
+20:37 #spi: < bdale> [item 7, Items up for discussion]
+20:37 #spi: < bdale> None.
+20:37 #spi: < bdale> [item 8, Any other business]
+20:37 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:37 #spi: < bdale> zobel?
+20:38 #spi: < zobel> well, as we did not hear back from debian.eu domain holder, zack asked if someone his common with the ADR process
+20:38 #spi: < zobel> i guess not
+20:38 #spi: < bdale> outside my experience
+20:38 #spi: < zobel> zack == currently DPL
+20:39 #spi: < zobel> for those not common with Debian
+20:39 #spi: < bdale> let's continue this on the lists, I guess, working out an answer for zack and proceeding on behalf of Debian to take the next step is probably best not handled here today
+20:39 #spi: < zobel> i would give it a complete other try. i could try to give them a phone call next week, if noone minds.
+20:39 #spi: < bdale> anyone have anything else?
+20:39 #spi: < cdlu> not me
+20:39 #spi: < Hydroxide> me either
+20:39 #spi: < Noodles> Nor me.
+20:40 #spi: < Ganneff> we are too fast. bdale wanted 30 mins
+20:40 #spi: < Noodles> We can provide him an extra 20 minutes some other time.
+20:40 #spi: < Hydroxide> haha
+20:40 #spi: < bdale> pfft
+20:40 #spi: < zobel> bdale: give Ganneff 20min talk time :)
+20:40 #spi: < bdale> [item 9, Next board meeting]
+20:40 #spi: < bdale> Our next regularly-scheduled monthly meeting will be February 9th, 2010, 20:30 UTC. 
+20:40 #spi: < bdale> Any strong objections?
+20:40 #spi: < Hydroxide> cdlu's rule is in tatters :)
+20:40 #spi:  * bdale ^5's Hydroxide 
+20:40 #spi:  * Hydroxide does not mind that time/date
+20:40 #spi: < cdlu> hahahaha
+20:41 #spi: < bdale> it's after FOSDEM, so should be ok for me
+20:41 #spi: < bdale> Ok, thank you to everyone present for participating today.
+20:41 #spi: < bdale> *GAVEL*
