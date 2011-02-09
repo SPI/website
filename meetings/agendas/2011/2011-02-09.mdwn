@@ -26,7 +26,398 @@ February 9th, 2011, to be held at 20:30 UTC in #spi on irc.spi-inc.org.
 ## Treasurer's report
 
 <pre>
-(none)
+At the 2011-01-12 SPI board meeting, there was a query around the higher
+than normal credit card processing fees attributed to SPI's general
+expenses during this reporting period.  I contacted the credit card
+processing firm and learned that $685.00 of these fees were for a
+chargeback against a DebConf professional attendee fee that the attendee
+had accidentally paid twice.  This chargeback has been listed as a
+Debian expense in this updated report.  I also fixed an arithmetic error
+with The HeliOS Project and Yafaray balances.
+
+
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period December 01, 2010 - December 31, 2010
+
+ Income
+   Ordinary Income
+        aptosid                             10.00
+        Debian                          11,362.71
+        Freedesktop.org                    110.00
+        Gallery                            140.00
+        Open Voting Foundation              20.00
+        OpenOffice.org                     572.00
+        OpenWrt                             22.00
+        PostgreSQL                       5,189.00
+        Privoxy                            100.00
+        SPI General                      1,115.00
+        SPI 5%                             227.10
+        Tux4Kids                         4,730.45
+        The HeliOS Project                 267.00
+        Yafaray                          6,973.43
+
+        Total Ordinary Income           30,838.69
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.53
+        Chase BusinessClassic Checking       0.27
+        Chase Bus Select High Yield Savings  3.50
+
+        Total Interest Income                5.30
+                                             ----
+
+   Gross Income                         30,843.99
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total aptosid Exp           1.25
+                                      ----
+
+        Debian
+          Chargeback (DC10)         685.00
+          Processing Fees            95.83
+          SPI 5%                    120.60
+          Travel reimbursment
+            (DC10)                4,784.68
+          Travel reimbursment
+            (GSoC)                1,353.01
+
+          Total Debian Exp        7,039.12
+                                  --------
+
+        Drupal
+          Donation to OSUOSL      2,735.37
+
+          Total Drupal Exp        2,735.37
+                                  --------
+
+        Freedesktop.org
+          Processing Fees             5.10
+          SPI 5%                      5.50
+
+          Total fd.o Exp             10.60
+                                     -----
+
+        Gallery
+          Processing Fees             3.85
+          SPI 5%                      7.00
+
+          Total Gallery Exp          10.85
+                                     -----
+
+        Open Voting Foundation
+          Processing Fees             1.15
+          SPI 5%                      1.00
+
+          Total OVF Exp               2.15
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            29.33
+          SPI 5%                     28.60
+
+          Total OO.o Exp             57.93
+                                     -----
+        OpenWrt
+          Processing Fees             1.58
+          SPI 5%                      1.10
+
+          Total OpenWrt Exp           2.68
+                                      ----
+
+        PostgreSQL
+          Processing Fees             6.14
+          SPI 5%                      9.45
+          Transfer to PG.eu       4,000.00
+            (GSoC)
+          Travel reimbursement      469.15
+
+          Total PostgreSQL Exp    4,484.74
+                                  --------
+
+        Privoxy
+          Processing Fees             4.35
+          SPI 5%                      5.00
+
+          Total Privoxy Exp           9.35
+                                      ----
+
+        SPI
+          Copies                      0.58
+          PaySimple Monthly Fee      29.95
+          Postage                    44.30
+          Transaction Fees          493.71
+
+          Total SPI Exp           1,253.54
+                                  --------
+
+        The HeliOS Project
+          Expense Reimbursement     313.00
+          Processing Fees             7.43
+          SPI 5%                     13.35
+
+          Total HeliOS Exp          333.78
+                                    ------
+
+        Tux4Kids
+          Travel Reimbursement    1,470.65
+
+          Total T4K Exp           1,470.65
+                                  --------
+
+        YafaRay
+          Book                      119.94
+          Processing Fees            28.35
+          SPI 5%                     35.00
+
+          Total YafaRay Exp         183.29
+                                    ------
+
+
+        Total Expenses           16,864.30
+                                  --------
+
+        Net Income               13,979.69
+                                 =========
+
+
+Balance Sheet as of December 31, 2010
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      34,084.24
+        Chase Business Select High Yield Savings          27,553.99
+        Key Business Reward Checking                      74,644.10
+        Key Business Signature Money Market Savings       36,003.39
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                185,687.34
+
+
+   TOTAL ASSETS                                          185,687.34
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       45.01
+           Debian Earmark                    27,240.63
+           Freedesktop.org Earmark           42,442.04
+           Gallery Earmark                    7,227.36
+           GNU TeXmacs Earmark                   45.75
+           Madwifi.org Earmark                1,445.34
+           OpenOffice.org Earmark            17,791.53
+           OpenVAS                               45.71
+           OpenWrt                              603.65
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                29,583.34
+           Privoxy Earmark                      446.50
+           The HeliOS Project                   403.22
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    5,141.83
+
+        Total held in trust                              147,914.28
+
+        General reserves                                  37,773.06
+
+
+     Total Equity                                        185,687.34
+
+   TOTAL LIABILITIES & EQUITY                            185,687.34
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period January 01, 2011 - January 31, 2011
+
+ Income
+   Ordinary Income
+        aptosid                              5.00
+        Debian                           1,327.00
+        Freedesktop.org                     10.00
+        Gallery                            100.00
+        OpenOffice.org                   1,183.00
+        OpenWrt                             40.00
+        PostgreSQL                         410.00
+        SPI General                        998.00
+        SPI 5%                             147.47
+        The HeliOS Project                  75.00
+        Yafaray                             50.00
+
+        Total Ordinary Income            4,345.47
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.52
+        Chase BusinessClassic Checking       0.30
+        Chase Bus Select High Yield Savings  3.50
+
+        Total Interest Income                5.32
+                                             ----
+
+   Gross Income                          4,350.79
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total aptosid Exp           0.80
+                                      ----
+
+        Debian
+          Customs (DC10)            435.82
+          Processing Fees            32.33
+          SPI 5%                     66.35
+          Travel reimbursment
+            (DC10)                  896.00
+          Travel reimbursment
+            (DC Newbies)            522.00
+
+          Total Debian Exp        1,952.50
+                                  --------
+
+        Freedesktop.org
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total fd.o Exp              1.25
+                                     -----
+
+        Gallery
+          Processing Fees             2.75
+          SPI 5%                      5.00
+
+          Total Gallery Exp           7.75
+                                     -----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            27.47
+          SPI 5%                     59.12
+
+          Total OO.o Exp             86.59
+                                     -----
+        OpenWrt
+          Processing Fees             2.30
+          SPI 5%                      2.00
+
+          Total OpenWrt Exp           4.30
+                                      ----
+
+        PostgreSQL
+          Processing Fees            17.03
+          SPI 5%                     20.50
+          Travel reimbursement    2,219.96
+
+          Total PostgreSQL Exp    2,257.49
+                                  --------
+
+        SPI
+          New York State Charities
+            Bureau Reg Fee          175.00
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           40.60 
+
+          Total SPI Exp             245.55
+                                    ------
+
+        The HeliOS Project
+          Processing Fees             2.70
+          SPI 5%                      3.75
+
+          Total HeliOS Exp            6.45
+                                      ----
+
+        YafaRay
+          Processing Fees             2.35
+          SPI 5%                      2.50
+
+          Total YafaRay Exp           4.85
+                                      ----
+
+
+        Total Expenses            4,567.53
+                                  --------
+
+        Net Income                 (216.74)
+                                   ========
+
+
+Balance Sheet as of January 31, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      36,569.28
+        Chase Business Select High Yield Savings          27,557.49
+        Key Business Reward Checking                      73,063.33
+        Key Business Signature Money Market Savings       36,004.91
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                186,596.63
+
+
+   TOTAL ASSETS                                          186,596.63
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       49.21
+           Debian Earmark                    26,615.13
+           Freedesktop.org Earmark           42,450.79
+           Gallery Earmark                    7,319.61
+           GNU TeXmacs Earmark                   45.75
+           Madwifi.org Earmark                1,445.34
+           OpenOffice.org Earmark            18,887.94
+           OpenVAS                               45.71
+           OpenWrt                              639.35
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                27,735.85
+           Privoxy Earmark                      446.50
+           The HeliOS Project                   471.77
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    5,186.98
+
+        Total held in trust                              146,792.30
+
+        General reserves                                  39,804.33
+
+
+     Total Equity                                        186,596.63
+
+   TOTAL LIABILITIES & EQUITY                            186,596.63
 </pre>
 
 [[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
