@@ -1,0 +1,103 @@
+20:30 #spi: < bdale> *GAVEL*
+20:30 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+20:30 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2011/2011-02-09/
+20:30 #spi: < bdale> [item 2, Roll Call]
+20:30 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+20:30 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:30 #spi: < cdlu> David Graham
+20:30 #spi: < schultmc_> Michael Schultheiss
+20:30 #spi: < Ganneff> Joerg Jaspert
+20:30 #spi: < bdale> Bdale Garbee
+20:30 #spi: < Hydroxide> Jimmy Kaplowitz
+20:30 #spi: < zobel> gah, needed to change laptop, bb in 1min
+20:30 #spi: < zobel> martin Zobel-helas
+20:30 #spi: < Noodles> Jonathan McDowell
+20:30 #spi: < cdlu> quorum
+20:30 #spi: < bdale> and Joshua sent regrets, right?
+20:30 #spi: < Hydroxide> he did
+20:30 #spi: < schultmc_> yes
+20:30 #spi: < bdale> ok, then that's all accounted for
+20:30 #spi: < zobel> back i am
+20:30 #spi: < bdale> [item 3, President's Report]
+20:30 #spi: < bdale> Nothing to report.
+20:30 #spi: < bdale> [item 4, Treasurer's Report]
+20:30 #spi: < bdale> Michael?
+20:31 #spi: < schultmc_> At the 2011-01-12 SPI board meeting, there was a query around the higher than normal credit card processing fees attributed to SPI's general expenses during this reporting period.  I contacted the credit card processing firm and learned that $685.00 of these fees were for a chargeback against a DebConf professional attendee fee that the attendee had accidentally paid twice.  This chargeback has been listed as a Debian expense in the update
+20:31 #spi: < schultmc_> I also fixed an arithmetic error with The HeliOS Project and Yafaray balances.  
+20:31 #spi: < schultmc_> The credit card processing firm also explained how I could get online access to the chargeback interface to review documentation and dispute chargebacks if needed.
+20:31 #spi: < schultmc_> For this month, a standard report is also in the agenda.
+20:31 #spi: < schultmc_> </end>
+20:31 #spi: < bdale> cool, that all makes sense
+20:31 #spi: < schultmc_> btw, if that first paragraph got truncated it's also in the agenda
+20:31 #spi: < bdale> any questions?
+20:32 #spi: < Hydroxide> thanks. might be good to encourage dc11 attendees and other future payors to SPI to talk to us first, to avoid us building up a chargeback record
+20:32 #spi: < Hydroxide> but, it's not like it's a frequent problem
+20:32 #spi: < schultmc_> yes
+20:32 #spi: < Hydroxide> so it mostly doesn't matter
+20:32 #spi: < schultmc_> it's both a good suggestion and quite rare
+20:32 #spi: < bdale> we just don't want a lot of them in one month
+20:32 #spi: < Hydroxide> right
+20:32 #spi: < bdale> since we use payment processors and don't do cards directly, that probably helps
+20:32 #spi: < Hydroxide> no other questions from me. thanks for the corrections.
+20:33 #spi: < Hydroxide> sure.
+20:33 #spi: < bdale> ok, I think we can proceed.  Thanks for chasing that down, Michael!
+20:33 #spi: < schultmc_> no problem
+20:33 #spi: < bdale> [item 5, Secretary's report]
+20:33 #spi: < bdale> Jonathan?
+20:33 #spi: < Noodles> Nothing to report from me.
+20:33 #spi: < bdale> [item 6, Outstanding minutes]
+20:33 #spi: < bdale> I believe we have last month's ready to vote on today, right Jonathan?
+20:33 #spi:  * Hydroxide is ready to vote, having read them.
+20:34 #spi: < cdlu> ditto
+20:34 #spi: < Noodles> Voting started, 7 people (cdlu,schultmc_,bdale,hydroxide,zobel,noodles,ganneff) allowed to vote on Minutes for meeting of January 12th, 2011. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:34 #spi: < schultmc_> !vote yes
+20:34 #spi: < Ganneff> !vote yes
+20:34 #spi: < cdlu> !vote yes
+20:34 #spi: < zobel> !vote yes
+20:34 #spi: < Noodles> !vote yes
+20:34 #spi: < bdale> !vote yes
+20:34 #spi: < Hydroxide> !vote yes
+20:34 #spi: < Noodles> Current voting results for "Minutes for meeting of January 12th, 2011": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+20:34 #spi: < Noodles> Voting for "Minutes for meeting of January 12th, 2011" closed.
+20:35 #spi: < bdale> [item 7, Items up for discussion]
+20:35 #spi: < bdale> None.
+20:35 #spi: < bdale> [item 8, Any other business]
+20:35 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:35 #spi: < Noodles> There's the issue of debian.eu, which I've raised on the board list.
+20:35 #spi: < Noodles> zobel, did you want to try to ring the current reigstrant before we start the ADR?
+20:35 #spi: < bdale> any actions for us to discuss here today?
+20:35 #spi: < zobel> i hadn't had time to phone them, dunno if want to go that way anyway
+20:35 #spi: < Noodles> Ok.
+20:36 #spi: < bdale> anything else?
+20:36 #spi: < Noodles> I think zack needs to ok the expense too, but it can all be handled offline rather than needing meeting time.
+20:36 #spi: < Hydroxide> indeed, sounds fine
+20:36 #spi: < zobel> they ignored the two letters that we sent anyway
+20:36 #spi: < bdale> I don't think calling them is going to help
+20:36 #spi: < zobel> b) debian has released last saturday squeeze and a new website
+20:36 #spi: < Hydroxide> woo! :-)
+20:37 #spi: < cdlu> woot! 
+20:37 #spi: < cdlu> zobel, do you want to write a resolution for action on 1?
+20:37 #spi: < Hydroxide> cdlu: no need for one. we do those too much :)
+20:38 #spi: < zobel> bah, this dsl connection sucks today.
+20:38 #spi: < cdlu> well our resolution passing has thinned out dramatically over the past months ;)
+20:38 #spi: < bdale> I agree.  This is just responding to a service request from the DPL on behalf of Debian.
+20:38 #spi: < cdlu> ok
+20:38 #spi: < Hydroxide> cdlu: it's been discussed enough at past meetings of the board and via emails. if any SPI authority is needed beyond what exists bdale can approve something as president
+20:38 #spi: < bdale> right
+20:38 #spi:  * zobel done
+20:38 #spi: < bdale> and if it gets to a lawsuit or something, that's a different thing
+20:39 #spi: < bdale> ok, any other topics?
+20:39 #spi: < Hydroxide> right
+20:39 #spi: < cdlu> are we all happy with bottom-of-the-hour meetings? they work for me.
+20:39 #spi: < bdale> [item 9, Next board meeting]
+20:39 #spi: < bdale> Our next regularly-scheduled monthly meeting will be March 9th, 2010, 20:30 UTC.
+20:39 #spi: < bdale> Any strong objections?
+20:39 #spi:  * Hydroxide is fine with this time on march 9
+20:39 #spi: < schultmc_> works for me
+20:39 #spi: < Noodles> I'm more flexible now my Wednesday meeting has moved, so it's fine with me.
+20:39 #spi: < zobel> no, works for me.
+20:39 #spi: < bdale> I should be in my home office
+20:39 #spi: < bdale> ok, then we'll do that
+20:39 #spi: < Hydroxide> cool
+20:40 #spi: < bdale> Ok, thank you to everyone present for participating today.
+20:40 #spi: < bdale> *GAVEL*
