@@ -1,0 +1,221 @@
+21:30 #spi: < bdale> *GAVEL*
+21:30 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:30 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2011/2011-04-13/
+21:30 #spi: < bdale> [item 2, Roll Call]
+21:30 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+21:30 #spi: < zobel> Martin Zobel-Helas
+21:30 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:30 #spi: < schultmc> Michael Schultheiss
+21:30 #spi: < bdale> Bdale Garbee
+21:30 #spi: < Hydroxide> Jimmy Kaplowitz
+21:31 #SPI: < Noodles> Jonathan McDowell
+21:31 #spi: < schultmc> cdlu: ping
+21:32 #spi: < Hydroxide> Noodles: do I remember right that you have free international SMS? if so, please sms him; if not I'm happy to
+21:32 #SPI: < Noodles> Canada isn't international. Sent.
+21:32 #spi: < cdlu> hi
+21:32 #spi: < cdlu> David Graham
+21:32 #spi: < bdale> cool
+21:32 #spi: < zobel> yay
+21:32 #spi: < Hydroxide> Noodles: usually is for that purpose despite sharing our numbering system
+21:32 #spi: < cdlu> sorry
+21:32 #spi: < Hydroxide> anyway, can be discussed later
+21:32 #spi: < bdale> I believe Ganneff said he wouldn't make it?
+21:32 #spi: < schultmc> bdale: correct
+21:33 #SPI: < Noodles> Yes, regrets have been received from Ganneff.
+21:33 #spi:  * bdale tries to count .. we have everyone else?
+21:33 #spi: < Hydroxide> that's quorum. still no linuxpoet right?
+21:33 #SPI: < Noodles> I don't think I've seen any from linuxpoet.
+21:33 #spi: < bdale> oh, right
+21:33 #spi: < schultmc> bdale: missing linuxpoet
+21:33 #spi: < Hydroxide> is there a 9th board member currently who I'm forgetting?
+21:33 #spi: < bdale> with quorum, I suggest we proceed
+21:33 #spi: < cdlu> no we are at 9
+21:33 #spi: < cdlu> 8
+21:33 #spi: < cdlu> since last summer :)
+21:33 #spi: < Hydroxide> right, ok :)
+21:33 #spi: < Hydroxide> let's go on
+21:33 #SPI: < Noodles> We have 6. We're at quorum.
+21:34 #spi: < bdale> [item 3, President's Report]
+21:34 #spi: < bdale> Two items to mention.
+21:34 #spi: < bdale> One is that I spent some time recently working with a new representative of the Open64 community, reflected in the resolution we will consider today.
+21:34 #spi: < bdale> The other is that I was interviewed by the US Department of Justice anti-trust folks on behalf of Debian.  The contents of the interview are confidential, 
+21:34 #spi: < bdale> but I found it very encouraging that they reached out to the Free Software world for input on a pending matter in this way.
+21:34 #spi: < bdale> [item 4, Treasurer's Report]
+21:34 #spi: < bdale> Michael?
+21:34 #spi: < schultmc> two standard reports are in the agenda
+21:34 #spi: < bdale> any questions?
+21:34 #spi: < schultmc> there's a typo in the march report - it should be through march 31, not march 28
+21:35 #SPI: < Noodles> Nothing for Libreoffice yet. Have they been in contact with you at all?
+21:35 #spi: < schultmc> Noodles: not yet - I'll ping the liaison after the meeting
+21:35 #spi: < bdale> good idea, as I was under the impression they had a pending asset transfer to SPI
+21:35 #SPI: < Noodles> Fair enough. No hurry from our side obviously, but I thought they were waiting on SPI association for some cash flow.
+21:35 #spi: < bdale> right
+21:35 #spi: < bdale> ok .. any other treasurer report related stuff?
+21:35 #spi: < schultmc> bdale: they do but it's a NET 30 transaction
+21:36 #spi: < bdale> ah, ok
+21:36 #spi: < bdale> k, let's move on
+21:36 #spi: < schultmc> nothing further from me
+21:36 #spi: < bdale> [item 5, Secretary's report]
+21:36 #spi: < bdale> Jonathan?
+21:36 #SPI: < Noodles> Nothing much from me. I was pleased we were able to do the Libreoffice stuff via email last month.
+21:37 #spi: < zobel> can we please make those mails public?
+21:37 #SPI: < Noodles> I've no objections, but equally I don't see the benefit; the fact we all voted for is obvious.
+21:38 #spi:  * Hydroxide was about to say what Noodles said. we just need that fact to be public, and nothing else was of substance
+21:38 #spi: < bdale> right, it seemed like a fairly content-free discussion
+21:38 #spi: < bdale> ok .. let's make sure the resolution is documented and move on
+21:38 #SPI: < Noodles> I did wonder about why treasurer reports went to -private instead of -general btw.
+21:38 #SPI: < Noodles> On the subject of privacy.
+21:38 #SPI: < Noodles> They go onto the website at about the same time.
+21:39 #spi: < bdale> hrm
+21:39 #spi: < schultmc> Noodles: force of habit - they can go to -general I suppose
+21:39 #SPI: < Noodles> Not a bit issue, just an inconsistency.
+21:39 #SPI: < Noodles> s/bit/big/
+21:39 #spi: < Hydroxide> schultmc, Noodles: it does make sense to me for the deposit emails since those contain private specifics, to the extent they even remain appropriate for -private. I agree about the reports going to -general though
+21:39 #spi: < bdale> I have no objection.  does everyone read -general?
+21:40 #spi: < Hydroxide> I do
+21:40 #spi:  * zobel as well
+21:40 #spi: < bdale> maybe at least once or twice we announce on -private that they're posted on -general?
+21:40 #spi:  * Hydroxide nods
+21:40 #spi: < bdale> ok, let's move on
+21:40 #spi: < bdale> [item 6, Outstanding minutes]
+21:40 #spi: < bdale> Jonathan, I believe we have two months to vote on?
+21:41 #SPI: < Noodles> Yeah, though one is the no quorum meeting.
+21:41 #SPI: < Noodles> So hopefully easy.
+21:41 #spi: < Hydroxide> no idea if that one needs to be voted on, but it's so quick to do we might as well do both
+21:41 #spi: < bdale> right
+21:41 #spi: < bdale> I agree
+21:41 #spi: < cdlu> I'm not sure that we need to approve non-quorate meeting minutes, but as the cause of not making quorum I won't raise too much of a fuss. Sorry about htat. :)
+21:41 #spi: < Hydroxide> I need to abstain for that one, so not as the same vote
+21:41 #spi: < bdale> captures factual information about who was and was not present, etc, good to have it part of the formal record
+21:41 #spi: < Hydroxide> cdlu: same here
+21:41 #spi:  * Hydroxide nods
+21:42 #SPI: < Noodles> Voting started, 6 people (bdale,cdlu,hydroxide,zobel,noodles,schultmc) allowed to vote on Minutes for 9th February 2011. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:42 #spi: < Hydroxide> !vote yes
+21:42 #SPI: < Noodles> !vote yes
+21:42 #spi: < bdale> !vote yes
+21:42 #spi: < schultmc> !vote yes
+21:42 #spi: < zobel> !vote yes
+21:42 #spi: < cdlu> !vote yes
+21:42 #SPI: < Noodles> Current voting results for "Minutes for 9th February 2011": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:42 #SPI: < Noodles> Voting for "Minutes for 9th February 2011" closed.
+21:42 #SPI: < Noodles> Voting started, 6 people (bdale,cdlu,hydroxide,zobel,noodles,schultmc) allowed to vote on Minutes for 9th March 2011. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:42 #spi: < Hydroxide> !vote abstain
+21:42 #spi: < schultmc> !vote yes
+21:42 #spi: < bdale> !vote abstain
+21:42 #SPI: < Noodles> !vote yes
+21:42 #spi: < zobel> !vote yes
+21:43 #spi: < cdlu> !vote abstain
+21:43 #SPI: < Noodles> Current voting results for "Minutes for 9th March 2011": Yes: 3, No: 0, Abstain: 3, Missing: 0 ()
+21:43 #SPI: < Noodles> Voting for "Minutes for 9th March 2011" closed.
+21:43 #spi: < bdale> ok, thanks
+21:43 #spi: < bdale> [item 7, Items up for discussion]
+21:43 #spi: < bdale> [item 7.1, SPI Resolution 2011-04-13.bg.1 (Open64 as associated project)]
+21:43 #spi: < bdale> This is essentially the same resolution we approved in 2009, updated to reflect a new contact.  There has been some discussion on the list, is there anyone who would
+21:43 #spi: < bdale> like to discuss further here before we call a vote?
+21:44 #SPI: < Noodles> I feel that SPI is in no position to mark down a potential project due to an out of date website. ;)
+21:44 #spi: < cdlu> hah
+21:44 #spi: < Hydroxide> personally I'm fine voting now, but I do think it's at least worthwhile for board members to have read Chris Bergström's concerns before they vote. I'm still inclined to vote yes despite them
+21:45 #spi: < Hydroxide> if enough other board members are ready to proceed, let's do so. otherwise let's defer.
+21:45 #SPI: < Noodles> I think I'm happy enough; I felt that there was a lack of substantiation and it came across a bit as project rivalry.
+21:45 #spi: < Hydroxide> yeah.
+21:46 #spi: < bdale> I agree, and hope everyone has been reading along.  My personal take on this is that we can and should support the resolution, we can then be part of the process of helping ensure they do the right things vis the community.
+21:46 #spi: < Hydroxide> also, even if it is a corporately run project, it's not the kind where it's one company pretending to be open, it's a legit community project where the community members happen to be megacorps :)
+21:46 #spi: < Hydroxide> which I don't object to our involvement in
+21:47 #spi: < bdale> the things they want to do through SPI seem entirely in keeping with the things we do for other associated projects, too
+21:47 #SPI: < Noodles> Do we want to proceed to a vote or does anyone want to discuss further?
+21:47 #spi: < zobel> can we move on. my day is now ~38h long.
+21:47 #spi: < bdale> I'm happy to vote.  Does anyone object?
+21:47 #spi: < zobel> +?
+21:47 #spi:  * Hydroxide seconds the implied move to vote
+21:47 #spi: < bdale> Noodles: call the vote, please
+21:47 #SPI: < Noodles> Voting started, 6 people (bdale,cdlu,hydroxide,zobel,noodles,schultmc) allowed to vote on Resolution 2011-04-13.bg.1 - Open64 as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:47 #spi: < Hydroxide> !vote yes
+21:47 #spi: < zobel> !vote yes
+21:48 #SPI: < Noodles> (I was already typing it)
+21:48 #SPI: < Noodles> !vote yes
+21:48 #spi: < Hydroxide> it isn't quick to type, as I remember from when i was secretary :)
+21:48 #spi: < schultmc> !vote yes
+21:48 #spi: < bdale> !vote yes
+21:48 #spi: < cdlu> !vote yes
+21:48 #SPI: < Noodles> Current voting results for "Resolution 2011-04-13.bg.1 - Open64 as associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:48 #SPI: < Noodles> Voting for "Resolution 2011-04-13.bg.1 - Open64 as associated project" closed.
+21:48 #spi: < cdlu> seems to me that they're working on improving the project, thus the approach to us. Certainly don't have a problem with that.
+21:48 #spi: < Hydroxide> indeed.
+21:49 #spi: < bdale> Noodles: let's sync after the meeting on who emails Aida, I have her contact info if you don't
+21:49 #spi: < bdale> [item 8, Any other business]
+21:49 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:49 #spi: < Hydroxide> zobel, *: quick item that hopefully won't delay things much. what's the status of the debian.edu ADR?
+21:49 #SPI: < Noodles> We have an election in 3 months.
+21:49 #SPI: < Noodles> I have 2 thoughts about it.
+21:49 #SPI: < Noodles> Firstly, I think it's for 2 positions. I'd like it to be for 3 to try and fill out the board to 9 again.
+21:50 #spi: < bdale> I agree
+21:50 #SPI: < Noodles> Secondly, we keep talking about using a different voting system, so if we want to do that we should discuss it sooner rather than later.
+21:50 #spi:  * zobel has a question on: any news from Jenkins CI
+21:50 #spi: < zobel> ?
+21:50 #spi: < bdale> 9 doesn't change quorum but makes it easier to achieve quorum
+21:50 #SPI: < Noodles> Both of these concerns are irrelevant if we can't get enough people standing though.
+21:50 #spi: < zobel> Hydroxide: you mean debian.eu? no
+21:50 #spi: < cdlu> Noodles, it is still trapped in the 8-year old quest to fix our by-laws
+21:50 #spi: < Hydroxide> Noodles: as I understand it, the voting system is under the control of the secretary (or his designate to run the election if he is a candidate)
+21:50 #spi: < zobel> but i will contact zack the next days
+21:50 #spi: < bdale> cdlu: has it really been that long?  sigh.
+21:50 #spi: < cdlu> last summer we went from 9 to 8 by acclamation due to a lack of interest in running
+21:51 #spi: < bdale> I think we can drum up more interest this year with some head-start time
+21:51 #spi: < Hydroxide> Noodles: as for filling the vacancy at the election, either we don't need a resolution for that or we can propose one for the next meeting
+21:51 #spi: < Hydroxide> but it can be done
+21:51 #spi: < cdlu> bdale, yes, it has been longer since we started working on the by-laws committee than the time between SPI's founding and the creation of that committee
+21:51 #SPI: < Noodles> I don't think we need a resolution, but I thought it was worth bringing up.
+21:51 #spi:  * Hydroxide nods
+21:51 #spi: < zobel> we should encourage other project then debian to stuff board members.
+21:51 #spi: < cdlu> I had intended to do it at the end of the meeting but this is as a seemingly appropriate time
+21:51 #spi: < bdale> I fully support opening 3 positions this year to get back to 9
+21:51 #SPI: < Noodles> Yes.
+21:51 #spi:  * cdlu does not intend to seek a 4th term on the board
+21:51 #SPI: < Noodles> More non Debian representation would be good.
+21:51 #spi: < Hydroxide> zobel: definitely
+21:52 #spi: < zobel> Noodles: btw, if you want, i can run take over Secretary in the next term if you want...
+21:52 #spi: < bdale> cdlu: thanks for being explicit about that.  sorry to see you go, but I understand.
+21:52 #spi: < Hydroxide> cdlu: so we'd need four new directors to get back up to 9 ... anyway, I understand 100% how busy you've been and am grateful for your long board service
+21:52 #spi:  * Hydroxide intends to run to retain his seat
+21:52 #spi: < cdlu> bdale, I've outlived my usefulness here. THe one thing I really wanted to achieve was new by-laws and I've failed to do that.
+21:52 #spi: < cdlu> and now I'm too busy to give the time I need to to SPI 
+21:53 #spi: < bdale> cdlu: so .. if you're not on the board, you'd have more time to work on the bylaws, right?  -)
+21:53 #SPI: < Noodles> Hydroxide: Why 4?
+21:53 #spi: < cdlu> bdale, ask me after May 2nd :)
+21:53 #spi: < Hydroxide> Noodles: cdlu is not running :)
+21:53 #spi: < bdale> that doesn't change the count
+21:53 #SPI: < Noodles> Hydroxide: 2 plus you re-running is enough?
+21:53 #spi: < Hydroxide> oh, his was one of those up
+21:53 #spi: < bdale> since he's up for reelection
+21:53 #spi: < Hydroxide> right
+21:53 #spi: < Hydroxide> never mind
+21:53 #spi:  * cdlu works for the opposition house leader in the parliament of canada now, not exactly a job for free time
+21:53 #spi: < bdale> ok .. any other business ?
+21:53 #spi: < Hydroxide> cdlu: \o/
+21:54 #spi: < bdale> [item 9, Next board meeting]
+21:54 #spi: < bdale> Our next regularly-scheduled monthly meeting will be 11 May 2011, 20:30 UTC.
+21:54 #spi: < bdale> Any strong objections?
+21:54 #spi: < zobel> bdale: [22:50:16]  * zobel has a question on: any news from Jenkins CI
+21:54 #spi: < bdale> zobel: oh, sorry, missed that
+21:54 #spi: < bdale> I don't
+21:54 #spi:  * zobel is too slow today, and too tired
+21:55 #SPI: < Noodles> Remind me what that is?
+21:55 #spi: < bdale> oracle-induced hudson fork, right?
+21:55 #spi: < zobel> Noodles: hudson not under Oracle
+21:55 #spi: < schultmc> Noodles: open source continuous integration server f/k/a hudson
+21:55 #SPI: < Noodles> Oh, that, right.
+21:55 #spi: < bdale> nobody has approached me
+21:55 #spi: < zobel> should we ask them again?
+21:56 #spi: < Hydroxide> hudson technically exists and is being continued by oracle, but most of the community including its creator went to jenkins
+21:56 #spi: < bdale> if they want our help, I'd certainly be happy to entertain a request
+21:56 #spi: < bdale> not sure I know folks there to talk to, though
+21:56 #SPI: < Noodles> It sounded like a reasonable associated project. Last mail was from linuxpoet to them?
+21:56 #spi:  * zobel will contact the guy who mailed us by the weekend if that is okay.
+21:57 #spi: < bdale> yes, go for it
+21:57 #spi: < bdale> ok, any objections to proposed next meeting time?
+21:57 #SPI: < Noodles> Fine with me.
+21:57 #spi: < zobel> fine with me
+21:57 #spi: < cdlu> depends on the outcome of the eleciton :)
+21:57 #spi: < cdlu> but should be fine
+21:57 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:57 #spi: < bdale> *GAVEL*
