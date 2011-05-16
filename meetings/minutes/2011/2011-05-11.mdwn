@@ -1,0 +1,316 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Kåre Thor Olsen (Kaare)
+* Mark Walling (mwalling)
+* MJ Ray (slef)
+
+
+These are the minutes for the May 11th, 2011 SPI Board meeting, held
+at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-05-11-log.txt).
+
+
+## President's Report
+
+Bdale reported that he was pleased to see the recent announcement from
+the US DJ regarding the CPTN transaction, at
+[http://www.justice.gov/opa/pr/2011/April/11-at-491.html](http://www.justice.gov/opa/pr/2011/April/11-at-491.html)
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period April 01, 2011 - April 30, 2011
+
+ Income
+   Ordinary Income
+        Debian                           1,287.02
+        Freedesktop.org                    100.00
+        Gallery                             10.00
+        OpenOffice.org                     444.96
+        OpenWrt                            150.00
+        PostgreSQL                          50.00
+        SPI General                        125.00
+        SPI 5%                              88.40
+        The HeliOS Project                 225.00
+
+        Total Ordinary Income            2,480.38
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.48
+        Chase BusinessClassic Checking       0.37
+        Chase Bus Select High Yield Savings  3.27
+
+        Total Interest Income                5.12
+                                             ----
+
+   Gross Income                          2,485.50
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Hard Drive                265.00
+          Processing Fees            19.52
+          SPI 5%                     22.25
+
+          Total Debian Exp          306.77
+                                    ------
+
+        Freedesktop.org
+          Processing Fees             4.35
+          SPI 5%                      5.00
+
+          Total fd.o Exp              9.35
+                                      ----
+
+        Gallery
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total Gallery Exp           1.25
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            19.52
+          SPI 5%                     22.25
+
+          Total OO.o Exp             41.77
+                                     -----
+
+        OpenWrt
+          Processing Fees             6.35
+          SPI 5%                      7.50
+
+          Total OpenWrt Exp          13.85
+                                     -----
+
+        PostgreSQL
+          Processing Fees             2.45
+          SPI 5%                      2.50
+
+          Total PostgreSQL Exp        4.95
+                                      ----
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees            7.10
+
+          Total SPI Exp              37.05
+                                     -----
+
+        The HeliOS Project
+          Expense Reimbursement     346.61
+          Processing Fees            10.10
+          SPI 5%                     11.25
+
+          Total HeliOS Exp          367.96
+                                    ------
+
+        YafaRay
+          Books                      69.91
+
+          Total YafaRay Exp          69.91
+                                    ------
+
+
+        Total Expenses              852.79
+                                    ------
+
+        Net Income                1,632.71
+                                  ========
+
+
+Balance Sheet as of April 30, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      48,572.83
+        Chase Business Select High Yield Savings          27,567.42
+        Key Business Reward Checking                      43,010.69
+        Key Business Signature Money Market Savings       36,009.30
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                168,561.86
+
+
+   TOTAL ASSETS                                          168,561.86
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       57.88
+           Debian Earmark                    35,699.99
+           Freedesktop.org Earmark           12,827.40
+           Gallery Earmark                    7,383.70
+           GNU TeXmacs Earmark                   63.60
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            20,433.53
+           OpenVAS                               45.71
+           OpenWrt                              779.70
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                27,487.53
+           Privoxy Earmark                      446.50
+           The HeliOS Project                    23.08
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,897.20
+
+        Total held in trust                              127,052.28
+
+        General reserves                                  41,509.58
+
+
+     Total Equity                                        168,561.86
+
+   TOTAL LIABILITIES & EQUITY                            168,561.86
+</pre>
+
+## Secretary's report
+
+Jonathan mentioned that [http://ankur.org.in/](http://ankur.org.in/) had
+enquired about associated project status and that he expected a
+resolution about this for the next board meeting.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 13th April 2011:
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+## 2011-04-13.mzh.1: Jenkins as associated project
+
+Vote on 2011-04-13.mzh.1: Jenkins as associated project
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 missing.
+
+## Any other business
+
+Martin mentioned that Midnight Commander had approached him and were
+keen for SPI to hold their domain.
+
+There was further discussion about the upcoming board election in July
+and Jonathan suggested he'd email spi-project to poke project liaisons
+about it.
+
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, June 8th, 2011 at 20:30
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### 2011-04-26.mzh.1: Jenkins as associated project
+
+<pre>
+WHEREAS
+
+1. Jenkins is a substantial and useful open source project.
+
+2. The Jenkins developers would like SPI's support and assistance,
+   including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Jenkins is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+
+   http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1
+
+4. Kohsuke Kawaguchi is recognised by SPI as the current
+   authoritative decision maker and SPI liaison for Jenkins. He is
+   acting on behalf of the interim governance board. Successors will
+   be appointed by the said governance board when need be.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI
+</pre>
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
