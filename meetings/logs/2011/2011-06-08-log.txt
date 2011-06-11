@@ -1,0 +1,200 @@
+21:30 #spi: < bdale> *GAVEL*
+21:30 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:30 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2011/2011-06-08/
+21:30 #spi: < bdale> [item 2, Roll Call]
+21:30 #spi: < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+21:30 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:30 #spi: < Ganneff> Joerg Jaspert
+21:30 #spi: < schultmc> Michael Schultheiss
+21:30 #spi: < zobel> Martin Zobel-Helas
+21:30 #spi: < bdale> Bdale Garbee
+21:30 #SPI: < Noodles> Jonathan McDowell
+21:30 #spi: < Ganneff> (yay, first)
+21:30 #spi: < Hydroxide> Jimmy Kaplowitz
+21:30 #spi: < bdale> I saw cdlu say this time wouldn't work earlier today .. linuxpoet?
+21:31 #spi: < zobel> linuxpoet: ^
+21:31 #spi: < Hydroxide> hopefully linuxpoet will show, but we have quorum either way if I'm counting right
+21:32 #spi: < linuxpoet> Joshua Drake
+21:32 #spi: < bdale> yay!
+21:32 #spi: < Hydroxide> yay.
+21:32 #spi: < bdale> ok, I don't expect cdlu, so that's everyone
+21:32 #spi: < bdale> [item 3, President's Report]
+21:32 #spi: < bdale> I'd like to take this opportunity to publicly thank board member Joshua Drake and his company Command Prompt for their continuing support of SPI.  
+21:32 #spi: < bdale> Our admin team recently moved a webapp used by our treasurer from a physical server installed on 28 October 2006 to a virtual machine.  
+21:32 #spi: < bdale> It is only through the ongoing generosity of Command Prompt and our other resource donors that SPI is able to provide services to our associated projects.  
+21:32 #spi: < bdale> Thanks, Joshua!
+21:32 #spi: < bdale> [item 4, Treasurer's Report]
+21:32 #spi: < bdale> Michael?
+21:32 #spi: < linuxpoet> Our pleasure
+21:32 #spi: < schultmc> standard report is in the agenda
+21:32 #spi: < Ganneff> others like bytemark, mythic beast, ...
+21:33 #spi: < schultmc> other than the report, we're having issues with one of our payment processors, paysimple and are working with their support to resolve the issues
+21:33 #spi: < bdale> Ganneff: indeed .. we should make sure the list is present and current on our web site
+21:33 #spi: < Ganneff> bdale: well
+21:33 #spi: < Hydroxide> schultmc: following up on an idea from jberkus on IRC recently, might it be worth reaching out to the DPL to have him write a personal thank-you to the rather large-dollar donor included in Debian's income in this report?
+21:33 #spi: < Ganneff> until now it was "we dont list such things"?
+21:33 #spi: < bdale> schultmc: any action we need to take on that here?
+21:33 #spi: < Ganneff> bdale: but im happy to change that
+21:34 #spi: < schultmc> bdale: nothing needed from the board currently, other than making them aware that it may be necessary to cancel our service if the issues can't be resolved
+21:34 #spi: < bdale> Ganneff: hrm .. will ponder then
+21:34 #spi: < schultmc> hydroxide: yes, good idea - I'll mention it to zack
+21:34 #spi: < Hydroxide> (reminder to anyone who responds to what I said, don't put identifying donor details here during the meeting, or really in general)
+21:34 #spi: < Hydroxide> schultmc: great
+21:34 #spi: < Ganneff> bdale: it sure would be a good treat to them
+21:35 #spi: < Ganneff> bdale: but dangerous if we do it to easy, otherwise each little donator wants one link, so it needs limits
+21:35 #spi: < bdale> yes
+21:35 #spi: < bdale> schultmc: ok.  anything else?
+21:35 #spi: < schultmc> bdale: not from me
+21:35 #spi: < bdale> [item 5, Secretary's report]
+21:35 #spi: < bdale> Jonathan?
+21:36 #SPI: < Noodles> Nothing to report from me, other than items elsewhere on the agenda.
+21:36 #spi: < bdale> ok
+21:36 #spi: < bdale> [item 6, Outstanding minutes]
+21:36 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+21:36 #SPI: < Noodles> Yes.
+21:36 #spi: < bdale> looked ok to me
+21:36 #SPI: < Noodles> Voting started, 7 people (ganneff,schultmc,bdale,noodles,hydroxide,zobel,linuxpoet) allowed to vote on Meeting minutes from Wednesday 11th May 2011. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:36 #spi: < Ganneff> !vote yes
+21:36 #spi: < linuxpoet> !vote abstain
+21:36 #spi: < schultmc> !vote yes
+21:36 #spi: < bdale> !vote yes
+21:36 #SPI: < Noodles> !vote yes
+21:37 #spi: < Hydroxide> !vote yes
+21:37 #spi: < zobel> !vote yes
+21:37 #SPI: < Noodles> Current voting results for "Meeting minutes from Wednesday 11th May 2011": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:37 #SPI: < Noodles> Voting for "Meeting minutes from Wednesday 11th May 2011" closed.
+21:37 #spi: < bdale> great.  thanks for keeping us up to date!
+21:37 #spi: < bdale> [item 7, Items up for discussion]
+21:37 #spi: < bdale> [item 7.1, SPI Resolution 2011-05-12.jmd.1 (ankur.org.in as an associated project)]
+21:37 #spi: < bdale> Jonathan?
+21:37 #SPI: < Noodles> ankur.org.in contacts us last year.
+21:38 #spi: < Hydroxide> one question about ankur.org.in: they seem reasonable, but the projects and resources sections of their website are blank. if this is just a website imperfection, I'm fine with that. do we know some other way if they're actually doing things?
+21:38 #SPI: < Noodles> At which point their structure + mission statment was a bit unclear.
+21:38 #SPI: < Noodles> They've done a lot of tidying up since then in response to comments I made at that time, and part of that has been the ongoing work on the website.
+21:38 #spi: < bdale> they seem ok to me, too, except that I was surprised that the main mailing list archives are only available to list members, so I wasn't easily able to go read and see what sort of stuff they do and how they do it
+21:39 #spi: < bdale> that and the sparse web content left me scratching my head a bit
+21:39 #spi: < linuxpoet> It seems odd that they want to hook up with SPI as they are specifically a non-US project
+21:39 #SPI: < Noodles> linuxpoet: I asked them about that.
+21:39 #spi: < Hydroxide> Noodles: so can we take that as your assurance that they're actually working on the free software l10n/i18n/translation they claim to be doing, in a sustainable/substantial way, despite the weak website?
+21:39 #SPI: < Noodles> Apparently there was nothing local that was helpful.
+21:39 #spi: < Hydroxide> Noodles: if so, I'm okay voting yes.
+21:40 #SPI: < Noodles> Hydroxide: I was able to find references to them elsewhere when I looked, though I didn't keep the details after the initial investigation.
+21:40 #SPI: < Noodles> _sankarshan is here from the project.
+21:40 #spi: < bdale> what sort of mess are we getting in to collection donations for a project that seems likely to want to spend most of those donations in India?
+21:40 #spi: < bdale> s/collection/collecting/
+21:40 #spi: < linuxpoet> from a business perspective I think it is a problem
+21:40 #spi: < linuxpoet> since we can only do expenses right?
+21:40 #spi: < bdale> schultmc: your opinion on this matters to me
+21:41 #SPI: < Noodles> bdale: My concern was largely about it not necessarily making sense for /them/. They'll have to cope with extra charges and delays due to us being in the US.
+21:41 #spi: < Ganneff> linuxpoet: we can also do "admin" stuff, like domains, virtual machines, bla.
+21:41 #spi: < Hydroxide> linuxpoet: not sure what you mean by business perspective. we can do most things that aren't oriented toward individual developers making personal profit
+21:41 #spi: < schultmc> bdale: I've worked with reimbursements for .in before - it's not a tremendous hassle
+21:41 #spi: < Hydroxide> linuxpoet: and that are oriented toward free software
+21:41 #spi: < schultmc> but being non-local, there are issues (like exchange rates)
+21:42 #spi: < bdale> is _sankarshan actually present?
+21:42 #spi: < _sankarshan> I am
+21:42 #spi: < bdale> _sankarshan: care to chime in?  from what I can see, I'd be inclined to vote in favor of the proposal, but I am definitely left wondering how well this is going to work out for you.
+21:42 #spi: < Hydroxide> _sankarshan: do you have any thoughts on our questions? none of them are necessarily fatal, but some might warrant further discussion first
+21:44 #spi: < _sankarshan> With regards to our continuing work for l10n/i18n, the couple of current batches continuing contributions I can point out to include maintaining work for bn_IN locale in GNOME Translation Project, The Fedora Project and Mozilla (primarily Firefox)
+21:44 #spi: < _sankarshan> We also maintain a few fonts and keyboard layouts which are specific to Bengali (and these are of course included in other distributions too)
+21:46 #spi: < _sankarshan> On the topic of whether we see any issue in the US-IN related transactions, we do not. We have indeed exhausted all resources towards investigating setting up a structure/body here and given the lack of anything that seems suitable, SPI is what we'd like to be requested to be associated with.
+21:46 #spi: < bdale> ok
+21:46 #spi: < bdale> I'm satisfied with that.  If you've done the homework and think we can help you, then I'm ok with it.
+21:46 #spi: < bdale> anyone else have other comments or questions?
+21:47 #spi: < Ganneff> off to vote
+21:47 #spi: < bdale> Noodles: let's vote on it
+21:47 #SPI: < Noodles> Voting started, 7 people (ganneff,schultmc,bdale,noodles,hydroxide,zobel,linuxpoet) allowed to vote on Resolution 2011-05-12.jmd.1 - ankur.org.in as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:47 #SPI: < Noodles> !vote yes
+21:47 #spi: < Hydroxide> !vote yes
+21:47 #spi: < linuxpoet> !vote yes
+21:47 #spi: < Ganneff> !vote yes
+21:47 #spi: < bdale> !vote yes
+21:47 #spi: < schultmc> !vote yes
+21:47 #spi: < zobel> !vote yes
+21:48 #SPI: < Noodles> Current voting results for "Resolution 2011-05-12.jmd.1 - ankur.org.in as an associated project": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:48 #SPI: < Noodles> Voting for "Resolution 2011-05-12.jmd.1 - ankur.org.in as an associated project" closed.
+21:48 #SPI: < Noodles> Oh, that reminds me.
+21:48 #SPI: < Noodles> I haven't seen any reply from Jenkins to my mail about our vote for them.
+21:48 #spi: < linuxpoet> how long has it been (since you emailed)
+21:49 #spi: < zobel> Noodles: will you ping them, or should i?
+21:49 #spi: < bdale> since _sankarshan is here, can we ask and get an answer on channel?
+21:49 #SPI: < Noodles> linuxpoet: A month (shortly after the last meeting IIRC).
+21:49 #SPI: < Noodles> bdale: That seems sensible.
+21:49 #spi: < bdale> sounds like a ping to Jenkins is in order
+21:49 #spi: < Hydroxide> bdale: based on past precedent, yes, as long as it's during the meeting, or otherwise noted for the record
+21:49 #SPI: < Noodles> I'll do so.
+21:49 #spi: < Hydroxide> Noodles: might want to remind them of the deadline to accept.
+21:50 #spi: < bdale> _sankarshan: as per the just approved resolution, ankur.org.in is invited to join SPI as an associated project.  do you accept?
+21:51 #spi: < _sankarshan> Yes, we do. Thank you.
+21:51 #spi: < bdale> our pleasure!
+21:51 #spi: < Hydroxide> welcome! \o/
+21:51 #spi: < bdale> [item 8, Any other business]
+21:51 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:51 #SPI: < Noodles> _sankarshan: If you can send me a logo and some text I can add you to a page under http://www.spi-inc.org/projects/
+21:51 #SPI: < Noodles> I sent out a mail to -projects about the election.
+21:51 #spi: < bdale> noted.  thanks for that.
+21:52 #SPI: < Noodles> Unfortunately the first attempt got lost with some mail issues, but I did a resend today.
+21:52 #spi: < zobel> just a question to Hydroxide: did we hear back from Karen or SFLC?
+21:52 #spi: < _sankarshan> Noodles, I'll do that. If there are documents and guidelines that we need to read up, could you please point them out to me as well ?
+21:52 #SPI: < Noodles> Also I thought we should probably look at doing an annual report.
+21:52 #spi: < bdale> right .. anything else we need to do soon for the election?
+21:52 #SPI: < Noodles> We talked about doing this last year, but I don't think any progress was made.
+21:52 #spi: < Hydroxide> zobel: not quite yet, but she's only expected to return from her honeymoon roughly today, so I'll ping her next week if she doesn't reply first
+21:52 #spi: < zobel> Hydroxide: or even Greg?
+21:52 #spi: < zobel> Hydroxide: thx.
+21:53 #spi: < bdale> Noodles: I've utterly failed to ring-lead such an activity in the past, so the smart thing would be for you or someone else to take the lead and hound me for any content I need to provide
+21:53 #spi: < zobel> i would like to get all that trademark and debian.eu stuff get sorted out.
+21:53 #spi: < Hydroxide> zobel: my emails to greg never went through - I have to figure out his current email address(es) for future matters, but karen will handle this matter.
+21:53 #spi:  * Hydroxide nods at zobel 
+21:53 #SPI: < Noodles> bdale: I will see what I can come up with then.
+21:53 #spi:  * zobel done
+21:54 #SPI: < Noodles> (no promises, if anyone else feels they'd have more spare cycles for it.)
+21:54 #spi: < bdale> cool .. and really, feel free to hound me for content as needed
+21:54 #spi: < Ganneff> report - we could reuse a latex thing we had some years ago
+21:54 #spi: < bdale> I'd be just as happy if this ends up being something we publish in our ikiwiki
+21:54 #spi: < Ganneff> i can make up a git for it, so people can play?
+21:54 #spi: < Ganneff> oh, fine
+21:54 #SPI: < Noodles> schultmc: A single report of the same style as the monthly ones covering an entire year would be nice.
+21:54 #spi: < zobel> bdale: will there be a meeting before debconf?
+21:54 #spi: < bdale> yes
+21:54 #spi: < zobel> k.
+21:54 #spi: < bdale> [item 9, Next board meeting]
+21:54 #spi: < bdale> Our next regularly-scheduled monthly meeting will be 13 July 2011, 20:30 UTC.
+21:54 #spi: < bdale> Any strong objections?
+21:55 #SPI: < Noodles> WFM.
+21:55 #spi: < Hydroxide> should be fine
+21:55 #spi: < linuxpoet> wfm
+21:55 #spi: < Ganneff> should work for me
+21:55 #spi:  * zobel might be away
+21:55 #spi: < bdale> I don't expect to leave for Bosnia until after the 17th, so should work for me too
+21:55 #spi: < zobel> wedding of my sister...
+21:55 #spi: < zobel> will see if i have 3G there :)
+21:55 #spi: < bdale> zobel: ;-)
+21:55 #spi: < bdale> ok, last call .. anything else?
+21:55 #spi: < linuxpoet> I have a quick thing
+21:55 #spi: < bdale> linuxpoet: go
+21:56 #spi: < linuxpoet> PgWest is 09-27/09-30, we have some extra capacity. I was thinking it might be interesting to have a SPIDay there, would there be interest in this?
+21:56 #SPI: < Noodles> Where is it? SF again?
+21:56 #spi: < linuxpoet> San Jose Convention Center
+21:56 #spi: < linuxpoet> we growed up :P
+21:57 #SPI: < Noodles> I am in favour of SPI bits at associated project events.
+21:57 #spi: < bdale> interesting idea .. my calendar is relatively clear then, if my showing up would be interesting
+21:57 #SPI: < Noodles> (and can potentially make it to SJ)
+21:57 #spi: < Ganneff> .oO(make the project members bow to the spi overlords at conferences?) :)
+21:57 #spi: < schultmc> Noodles: I can provide that
+21:58 #spi: < bdale> Ganneff: the other way around, SPI folk bow to our project overlords...
+21:58 #spi: < linuxpoet> The idea would be to get some presentations from the various associated projects (Postgres is obviously already covered) and have a mini-conf within the conf
+21:58 #spi: < Ganneff> bdale: oh bad you
+21:58 #spi: < Hydroxide> so you might have at least two directors there - cool. sadly I won't be able to attend
+21:58 #spi: < Hydroxide> s/two/three/
+21:58 #spi: < bdale> linuxpoet: that's a very cool idea .. how about bringing that up on -general and let's see what we can pull together?
+21:58 #spi: < jberkus> Ganneff: be careful what you wish for
+21:59 #spi: < linuxpoet> bdale: sure be happy to
+21:59 #spi: < Ganneff> jberkus: well. wish for the best, expect the worst?
+21:59 #spi: < bdale> I can't promise to be there, that's nearing the end of our fiscal year at work and travel gets weird
+21:59 #spi:  * jberkus practices his full prone salaam
+21:59 #spi: < bdale> ok .. last call again
+21:59 #spi: < Hydroxide> at least 2-3 then? :-)
+21:59 #spi: < linuxpoet> jberkus: hahahhaha
+21:59 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:59 #spi: < bdale> *GAVEL*
