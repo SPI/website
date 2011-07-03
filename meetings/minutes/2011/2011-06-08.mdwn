@@ -1,0 +1,341 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joshua D. Drake (linuxpoet)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* David Graham (cdlu)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Josh Berkus (jberkus)
+* Kåre Thor Olsen (Kaare)
+* Sankarshan Mukhopadhyay (_sankarshan)
+
+
+These are the minutes for the June 8th, 2011 SPI Board meeting, held
+at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-06-08-log.txt).
+
+
+## President's Report
+
+Bdale thanked Joshua Drake and his company Command Prompt for their continuing
+support of SPI. The SPI admin team recently moved a webapp used by our
+treasurer from a physical server installed on 28 October 2006 to a virtual
+machine. It is only through the ongoing generosity of Command Prompt and our
+other resource donors that SPI is able to provide services to our associated
+projects.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period May 01, 2011 - May 31, 2011
+
+ Income
+   Ordinary Income
+        aptosid                             10.00
+        Debian                          21,069.99
+        DebConf 11                         750.00
+        Gallery                             10.00
+        OpenOffice.org                     150.00
+        OpenWrt                             30.00
+        PostgreSQL                         200.00
+        SPI General                      1,173.45
+        SPI 5%                              88.40
+        The HeliOS Project               1,222.00
+
+        Total Ordinary Income           24,703.84
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.53
+        Chase BusinessClassic Checking       0.55
+        Chase Bus Select High Yield Savings  3.61
+
+        Total Interest Income                5.69
+                                             ----
+
+   Gross Income                         24,709.53
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid
+          Processing Fees             0.44
+          SPI 5%                      0.50
+
+          Total aptosid Expense       0.94
+                                      ----
+
+        Debian
+          Battery for RAID           33.07
+          Domain Transfer            12.09
+          Final Report (DC10)       228.41
+          Processing Fees           848.78
+          SPI 5%                  1,054.85
+
+          Total Debian Exp        2,177.20
+                                  --------
+
+        DebConf 11
+          Processing Fees            30.70
+          SPI 5%                     37.50
+
+          Total DC11 Exp             68.20
+                                     -----
+
+        Gallery
+          Processing Fees             0.60
+          SPI 5%                      0.50
+
+          Total Gallery Exp           1.10
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees             7.75
+          SPI 5%                      7.50
+
+          Total OO.o Exp             15.25
+                                     -----
+
+        OpenWrt
+          Processing Fees             1.55
+          SPI 5%                      1.50
+
+          Total OpenWrt Exp           3.05
+                                      ----
+
+        PostgreSQL
+          Poster Design             100.00
+          Processing Fees             5.70
+          SPI 5%                     10.00
+          SSL certificate           799.96
+
+          Total PostgreSQL Exp      915.66
+                                    ------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          SSL Certificate
+            (Wikimedia)              12.99
+          Transaction Fees           10.61
+
+          Total SPI Exp              53.55
+                                     -----
+
+        The HeliOS Project
+          Expense Reimbursement   1,091.83
+          Processing Fees            11.60
+          SPI 5%                     61.10
+
+          Total HeliOS Exp        1,164.53
+                                  --------
+
+
+        Total Expenses            4,399.48
+                                    ------
+
+        Net Income               20,310.05
+                                 =========
+
+
+Balance Sheet as of May 31, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      71,017.40
+        Chase Business Select High Yield Savings          27,571.03
+        Key Business Reward Checking                      41,797.43
+        Key Business Signature Money Market Savings       36,010.83
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                189,798.31
+
+
+   TOTAL ASSETS                                          189,798.31
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       66.94
+           Debian Earmark                    54,592.78
+           DebConf 11 Earmark                   681.80
+           Freedesktop.org Earmark           12,827.40
+           Gallery Earmark                    7,392.60
+           GNU TeXmacs Earmark                   63.60
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            20,568.28
+           OpenVAS                               45.71
+           OpenWrt                              806.65
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                26,771.87
+           Privoxy Earmark                      446.50
+           The HeliOS Project                    80.55
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,897.20
+
+        Total held in trust                              146,148.34
+
+        General reserves                                  43,649.97
+
+
+     Total Equity                                        189,798.31
+
+   TOTAL LIABILITIES & EQUITY                            189,798.31
+</pre>
+
+## Secretary's report
+
+(none)
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 11th May 2011:
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+## 2011-05-12.jmd.1: ankur.org.in as an associated project
+
+Vote on 2011-05-12.jmd.1: ankur.org.in as an associated project
+
+There was some discussion about whether a US organisation was the best choice
+for an Indian project, but Sankarshan stated they had exhausted the options for
+a suitable local structure/body.
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 missing.
+
+Sankarshan accepted on behalf of ankur.org.in during the meeting.
+
+## Any other business
+
+Mention was made of the fact that nothing had been heard from Jenkins since we
+informed them they'd been accepted as an associated project. [They've since
+been in touch and accepted.]
+
+It was pointed out that the annual board election was coming up and the
+spi-projects list had been emailed to reminded associated projects that they
+might want to get involved.
+
+The status of the Debian European trademark was asked about; our contact at the
+SFLC had been on vacation but was expected back shortly.
+
+Joshua mentioned that PgWest was at the end of September (in San Jose) and that
+he thought it might be interesting to have some sort of SPI day as part of it.
+
+Finally it was pointed out that we'd failed to produce an annual report for a
+while and that we should try harder to achieve something this year.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, July 13th, 2011 at 20:30
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### 2011-05-12.jmd.1: ankur.org.in as an associated project
+
+<pre>
+WHEREAS
+
+1. ankur.org.in is a substantial and useful open source project.
+
+2. The ankur.org.in developers would like SPI's support and assistance,
+   including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. ankur.org.in is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+
+   http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1
+
+4. Sankarshan Mukhopadhyay is recognised by SPI as the current
+   authoritative decision maker and SPI liaison for ankur.org.in. In the
+   event of his unavailability any of the administration contacts listed
+   on <http://ankur.org.in/people/> are authorised to act as temporary
+   liaison.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
