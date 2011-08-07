@@ -1,0 +1,416 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Joshua D. Drake (linuxpoet)
+* David Graham (cdlu)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Kåre Thor Olsen (Kaare)
+* MJ Ray (slef)
+* Trevor Walkley (bluewater)
+* Pace Willisson (pacew)
+
+
+
+These are the minutes for the July 13th, 2011 SPI Board Annual General Meeting,
+held at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-07-13-log.txt).
+
+
+## President's Report
+
+Bdale reported that discussions were underway that were likely to result in at
+least one resolution for a new associated project next month. He also commented
+that DebConf11 was being held in Bosnia at the end of the month and a proposal
+for an SPI BOF had been accepted.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period June 01, 2011 - June 30, 2011
+
+ Income
+   Ordinary Income
+        Debian                             867.16
+        DebConf 11                      18,341.00
+        FreeDesktop.org                      5.00
+        Gallery                             20.00
+        LibreOffice                     12,000.00
+        OpenOffice.org                     430.00
+        OpenWrt                             95.00
+        PostgreSQL                      10,120.00
+        SPI General                        149.40
+        SPI 5%                             112.09
+        The HeliOS Project                 704.60
+
+        Total Ordinary Income           42,844.25
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.48
+        Chase BusinessClassic Checking       0.57
+        Chase Bus Select High Yield Savings  3.39
+
+        Total Interest Income                5.44
+                                             ----
+
+   Gross Income                         42,849.69
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+
+        Debian
+          Processing Fees            16.75
+          SPI 5%                     43.36
+
+          Total Debian Exp           60.11
+                                     -----
+
+        DebConf 11
+          HD Shipping                55.80
+          Travel                  4,938.24
+          Processing Fees           245.43
+
+          Total DC11 Exp          5,239.47
+                                  --------
+
+        FreeDesktop.org
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total fd.o Exp              0.80
+                                      ----
+
+        Gallery
+          Processing Fees             0.80
+          SPI 5%                      1.00
+
+          Total Gallery Exp           1.80
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees            11.45
+          SPI 5%                     21.50
+
+          Total OO.o Exp             32.95
+                                     -----
+
+        OpenWrt
+          Processing Fees             5.20
+          SPI 5%                      4.75
+
+          Total OpenWrt Exp           9.95
+                                      ----
+
+        PostgreSQL
+          Processing Fees             3.40
+          SPI 5%                      6.00
+
+          Total PostgreSQL Exp        9.40
+                                      ----
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees        4,015.12
+
+          Total SPI Exp           4,045.07
+                                  --------
+
+        The HeliOS Project
+          Expense Reimbursement     525.87
+          Processing Fees             4.85
+          SPI 5%                     35.23
+
+          Total HeliOS Exp          565.95
+
+                                  --------
+
+
+        Total Expenses            9,966.60
+                                  --------
+
+        Net Income               32,884.19
+                                 =========
+
+
+Balance Sheet as of June 30, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      73,433.04
+        Chase Business Select High Yield Savings          27,574.42
+        Key Business Reward Checking                      72,255.67
+        Key Business Signature Money Market Savings       36,012.31
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                222,677.06
+
+
+   TOTAL ASSETS                                          222,677.06
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       66.94
+           Debian Earmark                    55,399.83
+           DebConf 11 Earmark                23,783.33
+           Freedesktop.org Earmark           12,831.60
+           Gallery Earmark                    7,410.80
+           GNU TeXmacs Earmark                   63.60
+           LibreOffice Earmark               12,000.00
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            20,965.33
+           OpenVAS                               45.71
+           OpenWrt                              891.70
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                36,882.47
+           Privoxy Earmark                      446.50
+           The HeliOS Project                   219.20
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,897.20
+
+        Total held in trust                              182,810.67
+
+        General reserves                                  39,866.39
+
+
+     Total Equity                                        222,677.06
+
+   TOTAL LIABILITIES & EQUITY                            222,677.06
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period July 01, 2010 - June 30, 2011
+
+ Income
+   Ordinary Income
+        aptosid                             76.68
+        Debian                         125,031.07
+        DebConf 11                      19,091.00
+        Drupal                              89.86
+        FreeDesktop.org                 41,896.00
+        Gallery                            581.00
+        GNU TeXmacs                         60.00
+        LibreOffice                     12,000.00
+        Madwifi-project.org                 71.00
+        OpenOffice.org                   7,361.96
+        OpenVas                             51.00
+        OpenWrt                            521.86
+        Open Voting Foundation             111.00
+        OSUNIX                               1.00
+        Path64                              11.00
+        PostgreSQL                      18,621.86
+        Privoxy                            123.00
+        SPI General                      6,009.37
+        SPI 5%                           1,769.14
+        The HeliOS Project               7,940.94
+        Tux4Kids                         4,730.45
+        Yafaray                          7,136.43
+
+        Total Ordinary Income          253,285.62
+                                       ----------
+
+   Interest Income
+        Key Bank Money Mkt Savings          20.36
+        Chase BusinessClassic Checking       3.76
+        Chase Bus Select High Yield Savings 42.00
+
+        Total Interest Income               66.12
+                                            -----
+
+   Gross Income                        253,351.74
+                                       ----------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid                      9.74
+        Debian                 151,634.39
+        DebConf 11               5,307.67
+        Drupal                   2,739.86
+        FreeDesktop.org         31,268.38
+        Gallery                     46.72
+        GNU TeXmacs                  6.10
+        Madwifi-project.org          7.79
+        OpenOffice.org             653.20
+        OpenVas                      5.29
+        OpenWrt                     52.57
+        Open Voting Foundation       7.44
+        OSUNIX                       0.44
+        Path64                       1.69
+        PostgreSQL              12,729.30
+        Privoxy                     11.85
+        SPI                      8,070.54
+        The HeliOS Project       8,137.62
+        Tux4Kids                 1,470.65
+        Yafaray                  2,437.62
+
+
+        Total Expenses          224,598.86
+                                ----------
+
+        Net Income               28,752.88
+                                 =========
+
+
+Balance Sheet as of June 30, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      73,433.04
+        Chase Business Select High Yield Savings          27,574.42
+        Key Business Reward Checking                      72,255.67
+        Key Business Signature Money Market Savings       36,012.31
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                222,677.06
+
+
+   TOTAL ASSETS                                          222,677.06
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       66.94
+           Debian Earmark                    55,399.83
+           DebConf 11 Earmark                23,783.33
+           Freedesktop.org Earmark           12,831.60
+           Gallery Earmark                    7,410.80
+           GNU TeXmacs Earmark                   63.60
+           LibreOffice Earmark               12,000.00
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            20,965.33
+           OpenVAS                               45.71
+           OpenWrt                              891.70
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                36,882.47
+           Privoxy Earmark                      446.50
+           The HeliOS Project                   219.20
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,897.20
+
+        Total held in trust                              182,810.67
+
+        General reserves                                  39,866.39
+
+
+     Total Equity                                        222,677.06
+
+   TOTAL LIABILITIES & EQUITY                            222,677.06
+</pre>
+
+
+## Secretary's report
+
+There has been some contact with the Dragora project about becoming an
+associated member. Jenkins have accepted the offer made in May. Nominations for
+our election are still open, with currently 4 candidates standing for the 3
+available seats. A draft annual report has also been produced.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 8th June 2011:
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Joshua Drake</td><td>Yes</td></tr>
+<tr><td>David Graham</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 1 abstain, 0 missing.
+
+## Any other business
+
+Bdale opened up the floor to our contributing members. MJ Ray congratulated us
+on having produced an annual report and asked what plans continuing board
+members had for SPI over the next year. Bdale indicated he'd like to get our
+bylaws cleaned up. Jonathan mentioned some old website content that still
+needed moved over. Joshua was continuing with plans for an SPI portion at
+PgWest and also talking to various potential new projects. Jimmy pointed at his
+position statement for the election. Finally Michael said he'd sent out a
+reminder about a post-election membership purge of non-active members.
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, August 10th, 2011 at 20:30
+UTC in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2008<br /></td><td>David Graham</td></tr>
+<tr><td>July 2008<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
