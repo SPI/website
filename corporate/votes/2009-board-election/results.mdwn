@@ -162,7 +162,13 @@ For the above table, a row beats a column by N votes
 <tr><th> </th><th>A</th><th>B</th><th>C</th><td bgcolor="#9999ff">#</td></tr>
 <tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99ff99">3</td><td align="center">-35</td><td bgcolor="#9999ff">1</td></tr>
 <tr><th>B</th><td align="center">-3</td><td align="center">-</td><td align="center">-28</td><td bgcolor="#9999ff">0</td></tr>
-<tr><th>C</th><td align="center" bgcolor="#99ff99">35</td><td align="center" bgcolor="#99ff99">28</td><td align="center">-</td><td bgcolor="#9999ff">2</td></tr></tbody></table><h3>Results<table><tbody>
+<tr><th>C</th><td align="center" bgcolor="#99ff99">35</td><td align="center" bgcolor="#99ff99">28</td><td align="center">-</td><td bgcolor="#9999ff">2</td></tr></tbody>
+</table>
+
+### Results
+
+<table>
+<tbody>
 <tr><td>Michael Schultheiss</td></tr>
 <tr><td>Jonathan McDowell</td></tr>
 <tr><td>Greg Sabino Mullane</td></tr>
