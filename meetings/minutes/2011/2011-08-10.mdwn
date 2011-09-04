@@ -1,0 +1,398 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Jimmy Kaplowitz (Hydroxide)
+* Robert Brockway (Solver)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Clint Adams (Clint)
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Henrik Ingo (hingo)
+* Pace Willisson (pacew)
+
+
+These are the minutes for the August 10th, 2011 SPI Board Meeting,
+held at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-08-10-log.txt).
+
+
+## President's Report
+
+Bdale reported that there had been a well-attended SPI BOF during DebConf11 in
+Banja Luka. A video recording of the meeting is available at
+[http://meetings-archive.debian.net/pub/debian-meetings/2011/debconf11/low/703_SPI_BOF.ogv](http://meetings-archive.debian.net/pub/debian-meetings/2011/debconf11/low/703_SPI_BOF.ogv).
+He also congratulated and welcomed our new/returning board members, as well as
+thanking David Graham for his many years of service to the board.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period July 01, 2011 - July 31, 2011
+
+ Income
+   Ordinary Income
+        Debian                             315.01
+        DebConf 11                      12,135.00
+        FreeDesktop.org                     15.00
+        OpenOffice.org                      51.00
+        PostgreSQL                         600.00
+        SPI General                      5,118.00
+        SPI 5%                              62.89
+        The HeliOS Project                 276.85
+
+        Total Ordinary Income           18,573.75
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.53
+        Chase BusinessClassic Checking       0.60
+        Chase Bus Select High Yield Savings  3.27
+
+        Total Interest Income                5.40
+                                             ----
+
+   Gross Income                         18,579.15
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+
+        Debian
+          Processing Fees            15.40
+          SPI 5%                     15.75
+          Trademark Registration  3,080.16
+          Travel (GSoC DC11)        605.73
+
+          Total Debian Exp        3,717.04
+                                  --------
+
+        DebConf 11
+          Processing Fees            64.40
+
+          Total DC11 Exp             64.40
+                                     -----
+
+        FreeDesktop.org
+          Processing Fees             0.95
+          SPI 5%                      0.75
+
+          Total fd.o Exp              1.70
+                                      ----
+
+        OpenOffice.org (OO.o)
+          Processing Fees             1.54
+          SPI 5%                      2.55
+
+          Total OO.o Exp              4.09
+                                      ----
+
+        PostgreSQL
+          Accomodation              681.94
+          Poster design             100.00
+          Processing Fees            15.95
+          SPI 5%                     30.00
+          Travel Reimbursement      891.42
+
+          Total PostgreSQL Exp    1,719.31
+                                  --------
+
+        SPI
+          Office Supplies            33.95
+          PaySimple Monthly Fee      29.95
+          Transaction Fees        1,482.22
+
+          Total SPI Exp           1,546.12
+                                  --------
+
+        The HeliOS Project
+          Expense Reimbursement     401.83
+          Processing Fees             9.12
+          SPI 5%                     13.84
+
+          Total HeliOS Exp          424.79
+                                    ------
+
+
+        Total Expenses            7,477.45
+                                  --------
+
+        Net Income               11,101.70
+                                 =========
+
+
+Balance Sheet as of July 31, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      77,370.30
+        Chase Business Select High Yield Savings          27,577.69
+        Key Business Reward Checking                      81,734.99
+        Key Business Signature Money Market Savings       36,013.84
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                236,098.44
+
+
+   TOTAL ASSETS                                          236,098.44
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       66.94
+           Debian Earmark                    51,997.80
+           DebConf 11 Earmark                35,853.93
+           Freedesktop.org Earmark           12,844.90
+           Gallery Earmark                    7,410.80
+           GNU TeXmacs Earmark                   63.60
+           LibreOffice Earmark               12,000.00
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            21,012.24
+           OpenVAS                               45.71
+           OpenWrt                              891.70
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                35,763.16
+           Privoxy Earmark                      446.50
+           The HeliOS Project                    71.26
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,897.20
+
+        Total held in trust                              200,272.20
+
+        General reserves                                  35,826.24
+
+
+     Total Equity                                        236,098.44
+
+   TOTAL LIABILITIES & EQUITY                            236,098.44
+</pre>
+
+There was some discussion about getting close to the $250k assets level and
+whether this would mean we'd need a formal CPA audit under NY/IRS rules.
+Michael reported that we were currently exempt from this requirement and that
+it was related to how much was collected from NY sources.
+
+
+## Secretary's report
+
+Nothing much to report; Tux4Kids had been missing from our projects list, but
+this has been corrected. There was some discussion about keeping an up-to-date
+list of contact details for our project representatives, and whether it was
+acceptable to do so on the project pages. It was agreed the representatives
+should contacted about whether it was ok to list their email addresses
+publicly.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 13th July 2011:
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+
+## 2011-08-10.bg.1: Drizzle as associated project
+
+Vote on 2011-08-10.bg.1: Drizzle as associated project
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 abstain, 0 missing.
+
+
+## 2011-08-10.bg.2: Arch Linux as associated project
+
+Vote on 2011-08-10.bg.2: Arch Linux as associated project
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 abstain, 0 missing.
+
+
+## Appointment of board officers
+
+Self nominations had been received before the meeting from Bdale, Jonathan and
+Michael to continue in their current posts (President, Treasurer + Secretary).
+Joerg nominated himself to continue as Vice President. There were no other
+nominations.
+
+Vote on Reappoint Bdale, Michael, Jonathan and Joerg in their board officer
+positions.
+
+<table><tbody>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 abstain, 0 missing.
+
+
+## Any other business
+
+Henrik Ingo from Drizzle was present at the meeting and accepted the associated
+project status offer on behalf of the project.
+
+There was some query about which email address our SFLC representative should
+have subscribed to our board list; a generic role address or a specific
+individual. It was agreed that for legal representatives a specific address
+made more sense.
+
+Jimmy reported that we'd heard back from Mishi at SFLC confirming that WIPO had
+given us a certification of registration of the Debian trademark under the
+Madrid Protocol, covering the EU, China, Japan and the UK.
+
+
+## Adjournment
+
+The meeting was adjourned until Wednesday, September 14th, 2011 at 20:30
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### Resolution 2011-08-10.bg.1: Drizzle as associated project
+
+<pre>
+WHEREAS
+
+1. Drizzle is a substantial and significant Free Software project.
+
+2. The Drizzle developers would like SPI's support and assistance,
+   including legal help, holding property, and taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Drizzle is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+
+   http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Henrik Ingo is recognised by SPI as the authoritative decision maker and
+   SPI liaison for Drizzle.  Successors will be appointed by simple majority
+   vote of the Drizzle SPI Council.  The Drizzle SPI Council will initially
+   consist of Brian Aker, Lee Bieber, Stewart Smith, Monty Taylor, and Henrik
+   Ingo, and may fill vacancies on the Council by majority vote of the
+   remaining Council members on resignation or absence of any Council member.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
+
+
+### Resolution 2011-08-10.bg.2: Arch Linux as associated project
+
+<pre>
+WHEREAS
+
+1. Arch Linux is a substantial and significant Free Software project.
+
+2. The Arch Linux developers would like SPI's support and assistance,
+   including legal help, holding property, and taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Arch Linux is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+
+   http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Aaron Griffin is recognised by SPI as the authoritative decision maker and
+   SPI liaison for Arch Linux. Successors will be appointed in turn by the
+   sitting project liaison, or by a simple majority of existing Arch
+   Linux developers.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
