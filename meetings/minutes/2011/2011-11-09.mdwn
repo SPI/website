@@ -1,0 +1,485 @@
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxpoet)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* Bdale Garbee (bdale) (President)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Pace Willisson (pacew1)
+
+
+These are the minutes for the November 9th, 2011 SPI Board Meeting,
+held at 21:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-11-09-log.txt).
+
+
+## President's Report
+
+(None)
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period September 01, 2011 - September 30, 2011
+
+ Income
+   Ordinary Income
+        Debian                             613.70
+        Gallery                            100.00
+        Jenkins                          4,210.00
+        OpenOffice.org                     215.00
+        OpenWrt                             10.00
+        PostgreSQL                         110.00
+        SPI General                         83.00
+        SPI 5%                             274.69
+        The HeliOS Project                 235.00
+
+        Total Ordinary Income            5,851.39
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.48
+        Chase BusinessClassic Checking       0.08
+        Chase Bus Select High Yield Savings 12.00
+
+        Total Interest Income               13.56
+                                            -----
+
+   Gross Income                          5,864.95
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        Debian
+          Processing Fees            29.80
+          SPI 5%                     30.69
+
+          Total Debian Exp           60.48
+                                     -----
+
+        DebConf 11
+          Travel                  7,420.01
+
+          Total DC11 Exp          7,420.01
+                                  --------
+
+        Gallery
+          Processing Fees             2.60
+          SPI 5%                      5.00
+
+          Total Gallery Exp           7.60
+                                      ----
+
+        Jenkins
+          Processing Fees           174.00
+          SPI 5%                    210.50
+
+          Total Jenkins Exp         384.50
+                                    ------
+
+        OpenOffice.org (OO.o)
+          Processing Fees            11.15
+          SPI 5%                     10.75
+
+          Total OO.o Exp             21.90
+                                     -----
+
+        OpenWrt
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total OpenWrt Exp           1.25
+                                      ----
+
+        PostgreSQL
+          Legal Fees              3,218.48
+          Press Release             140.00
+          Processing Fees             4.93
+          SPI 5%                      5.50
+          Travel                    900.00
+
+          Total PostgreSQL Exp    4,296.88
+                                  --------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Registered Agent Fee      363.00
+          Transaction Fees          145.24
+
+          Total SPI Exp             538.19
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     318.21
+          Processing Fees             7.45
+          SPI 5%                     11.75
+
+          Total HeliOS Exp          337.41
+                                    ------
+
+        Yafaray
+          Training Materials         97.84
+
+          Total Yafaray Exp          97.84
+                                     -----
+
+
+        Total Expenses           13,166.06
+                                 ---------
+
+        Net Income               (7,301.11)
+                                 ==========
+
+
+Balance Sheet as of September 30, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      13,729.01
+        Chase Business Select High Yield Savings          97,597.75
+        Key Business Reward Checking                      75,933.75
+        Key Business Signature Money Market Savings       36,016.85
+        Ameriprise Cash Mgmt Acct                         13,401.62
+
+     Total Current Assets                                236,678.98
+
+
+   TOTAL ASSETS                                          243,911.50
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       69.32
+           Debian Earmark                    55,191.41
+           DebConf 11 Earmark                38,935.49
+           Freedesktop.org Earmark           12,849.10
+           Gallery Earmark                    7,503.20
+           GNU TeXmacs Earmark                   63.60
+           Jenkins Earmark                    3,825.50
+           LibreOffice Earmark               12,000.00
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            21,461.74
+           OpenVAS                               45.71
+           OpenWrt                              954.35
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                27,942.18
+           Privoxy Earmark                      446.50
+           The HeliOS Project                    71.25
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,799.36
+
+        Total held in trust                              203,065.17
+
+        General reserves                                  33,613.81
+
+
+     Total Equity                                        236,678.98
+
+   TOTAL LIABILITIES & EQUITY                            236,678.98
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period October 01, 2011 - October 31, 2011
+
+ Income
+   Ordinary Income
+        aptosid                             15.00
+        Debian                             385.00
+        freedesktop.org                     10.00
+        Gallery                             20.00
+        Jenkins                            130.00
+        OpenOffice.org                     190.00
+        OpenWrt                             30.00
+        PostgreSQL                       3,156.62
+        Privoxy                             10.00
+        SPI General                         75.00
+        SPI 5%                              41.50
+        The HeliOS Project                 125.00
+
+        Total Ordinary Income            4,188.12
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.53
+        Chase BusinessClassic Checking       0.11
+        Chase Bus Select High Yield Savings 12.40
+        Ameriprise Cash Mgmt Acct            4.53 [1]
+
+        Total Interest Income               18.57
+                                            -----
+
+   Gross Income                          4,206.69
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid
+          Processing Fees             0.95
+          SPI 5%                      0.75
+
+          Total aptosid Exp           1.70
+                                      ----
+
+        Debian
+          Processing Fees            21.70
+          SPI 5%                     19.25
+          Travel                    350.00
+
+          Total Debian Exp          390.95
+                                    ------
+
+        DebConf 11
+          Travel                  6,696.05
+
+          Total DC11 Exp          6,696.05
+                                  --------
+
+        freedesktop.org
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total fd.o Exp              1.25
+                                      ----
+
+        Gallery
+          Processing Fees             0.80
+          SPI 5%                      1.00
+
+          Total Gallery Exp           1.80
+                                      ----
+
+        Jenkins
+          Processing Fees             6.60
+          SPI 5%                      6.50
+
+          Total Jenkins Exp          13.10
+                                     -----
+
+        OpenOffice.org (OO.o)
+          Processing Fees             5.60
+          SPI 5%                      9.50
+
+          Total OO.o Exp             15.10
+                                     -----
+
+        OpenWrt
+          Processing Fees             1.90
+          SPI 5%                      1.50
+
+          Total OpenWrt Exp           3.40
+                                      ----
+
+        Privoxy
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total Privoxy Exp           1.25
+                                      ----
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees          217.96
+
+          Total SPI Exp             247.91
+                                    ------
+
+        The HeliOS Project
+          Processing Fees             2.70
+          SPI 5%                      6.25
+
+          Total HeliOS Exp            8.95
+                                      ----
+
+        Yafaray
+          Training Materials         40.98
+
+          Total Yafaray Exp          40.98
+                                     -----
+
+
+        Total Expenses            7,422.44
+                                  --------
+
+        Net Income               (3,215.75)
+                                 ==========
+
+[1] Includes dividends since the last time the Ameriprise account was
+reconciled. Dividends were not all earned in this period.
+
+
+Balance Sheet as of October 31, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      14,256.59
+        Chase Business Select High Yield Savings          97,610.15
+        Key Business Reward Checking                      72,183.34
+        Key Business Signature Money Market Savings       36,018.38
+        Ameriprise Cash Mgmt Acct                         13,406.15
+
+     Total Current Assets                                233,474.61
+
+
+   TOTAL ASSETS                                          233,474.61
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       82.62
+           Debian Earmark                    55,185.46
+           DebConf 11 Earmark                32,239.44
+           Freedesktop.org Earmark           12,857.85
+           Gallery Earmark                    7,521.40
+           GNU TeXmacs Earmark                   63.60
+           Jenkins Earmark                    3,942.40
+           LibreOffice Earmark               12,000.00
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            21,636.64
+           OpenVAS                               45.71
+           OpenWrt                              980.95
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                31,098.80
+           Privoxy Earmark                      455.25
+           The HeliOS Project                   187.30
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,758.38
+
+        Total held in trust                              199,962.26
+
+        General reserves                                  33,512.35
+
+
+     Total Equity                                        233,474.61
+
+   TOTAL LIABILITIES & EQUITY                            233,474.61
+</pre>
+
+
+## Secretary's report
+
+Jonathan had nothing to report.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 14th September 2011:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+Vote on Meeting Minutes for 12th October 2011:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Abstain</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 4 yes, 3 abstain, 0 missing.
+
+
+## Any other business
+
+There was some discussion about changing the regular day and time of the
+meeting, which resulted in agreeing to try Thursdays at 21:00 UTC.
+Robert asked about the status of investigations into Directors and
+Officers insurance. Jimmy said he'd try to get some number for next
+months meeting. Robert also raised the subject of a restricted access
+git repository, eg for holding private contact details. Finally it was
+suggested that we ask Mishi to call the current registrant of debian.eu
+before initiating the .eu ADR process.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, December 15th, 2011 at 21:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
