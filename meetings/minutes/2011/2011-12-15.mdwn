@@ -1,0 +1,346 @@
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Martin Zobel-Helas (zobel)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Bdale Garbee (bdale) (President)
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Ganesh Sittampalam (Heffalump)
+
+
+These are the minutes for the December 15th, 2011 SPI Board Meeting,
+held at 21:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2011/2011-12-15-log.txt).
+
+
+## President's Report
+
+(None)
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period November 01, 2011 - November 30, 2011
+
+ Income
+   Ordinary Income
+        aptosid                             16.00
+        Arch Linux                         289.00
+        DebConf 11                          10.00
+        Debian                             672.00
+        freedesktop.org                     10.00
+        FreedomBox Foundation           20,000.00
+        Gallery                            100.00
+        GNU TeXmacs                         10.00
+        LibreOffice                      3,027.00
+        PostgreSQL                         217.00
+        SPI General                        297.00
+        SPI 5%                             239.50
+        The HeliOS Project                 433.95
+        Yafaray                              5.00
+
+        Total Ordinary Income           25,326.45
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           1.48
+        Chase BusinessClassic Checking       0.12
+        Chase Bus Select High Yield Savings 12.01
+
+
+        Total Interest Income               13.61
+                                            -----
+
+   Gross Income                         25,340.06
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        aptosid
+          Processing Fees             1.69
+          SPI 5%                      0.80
+
+          Total aptosid Exp           2.49
+                                      ----
+
+        Arch Linux
+          Processing Fees            16.11
+          SPI 5%                     14.45
+
+          Total Arch Linux Exp       30.56
+                                     -----
+
+        DebConf 11
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total DC11 Exp              1.25
+                                      ----
+
+        Debian
+          Processing Fees            21.43
+          SPI 5%                     33.60
+          Travel (DC11 GSoC)      1,306.85
+          Travel (GSoC)             547.40
+
+          Total Debian Exp        1,909.28
+                                  --------
+
+
+        freedesktop.org
+          Processing Fees             1.10
+          SPI 5%                      0.50
+
+          Total fd.o Exp              1.60
+                                      ----
+
+        Gallery
+          Processing Fees             2.85
+          SPI 5%                      5.00
+
+          Total Gallery Exp           7.85
+                                      ----
+
+        GNU TeXmacs
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total GNU TeXmacs Exp       1.25
+                                      ----
+
+        LibreOffice
+          Processing Fees           122.83
+          SPI 5%                    151.35
+
+          Total LibreOffice Exp     274.18
+                                    ------
+
+        PostgreSQL
+          Legal Fees              3,199.93
+          Processing Fees             8.75
+          Transaction Fees           31.99
+          SPI 5%                     10.85
+
+          Total PostgreSQL Exp    3,251.52
+                                  --------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           14.46
+
+          Total SPI Exp              44.41
+                                     -----
+
+        The HeliOS Project
+          Processing Fees            10.94
+          SPI 5%                     21.70
+
+          Total HeliOS Exp           32.64
+                                     -----
+
+        Yafaray
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total Yafaray Exp           0.80
+                                      ----
+
+
+        Total Expenses            5,557.83
+                                  --------
+
+        Net Income               19,782.23
+                                 =========
+
+
+Balance Sheet as of November 30, 2011
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      18,375.31
+        Chase Business Select High Yield Savings          97,622.16
+        Key Business Reward Checking                      87,863.16
+        Key Business Signature Money Market Savings       36,019.86
+        Ameriprise Cash Mgmt Acct                         13,406.15
+
+     Total Current Assets                                253,286.64
+
+
+   TOTAL ASSETS                                          253,286.64
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                       96.13
+           Arch Linux Earmark                   258.44
+           Debian Earmark                    53,948.18
+           DebConf 11 Earmark                32,248.19
+           Freedesktop.org Earmark           12,866.25
+           FreedomBox Foundation Earmark     20,000.00
+           Gallery Earmark                    7,613.55
+           GNU TeXmacs Earmark                   72.35
+           Jenkins Earmark                    3,942.40
+           LibreOffice Earmark               14,752.82
+           Madwifi.org Earmark                1,454.09
+           OpenOffice.org Earmark            21,636.64
+           OpenVAS                               45.71
+           OpenWrt                              980.95
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                28,064.28
+           Privoxy Earmark                      455.25
+           The HeliOS Project                   588.61
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,762.58
+
+        Total held in trust                              219,238.79
+
+        General reserves                                  34,047.85
+
+
+     Total Equity                                        253,286.64
+
+   TOTAL LIABILITIES & EQUITY                            253,286.64
+</pre>
+
+
+## Secretary's report
+
+Jonathan had nothing to report.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 9th November 2011:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+## Resolution 2011-12-11.rtb.1: Haskell.org as an SPI Associated Project
+
+Vote on 2011-12-11.rtb.1: Haskell.org as an SPI Associated Project
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 abstain, 0 missing.
+
+
+## Any other business
+
+(None)
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, January 12th, 2012 at 21:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2009<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2009<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+## Appendix B: Resolutions
+
+### Resolution 2011-12-11.rtb.1: Haskell.org as an SPI Associated Project
+
+<pre>
+WHEREAS
+
+1. Haskell.org is a substantial and significant Free Software project.
+
+2. Haskell.org would like SPI's support and assistance,
+   including legal help, holding property, and taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Haskell.org is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+
+   http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Ganesh Sittampalam is recognised by SPI as the authoritative decision
+   maker and SPI liaison for Haskell.org.  Successors will be appointed
+   by the Haskell.org committee.  The Haskell.org committee currently
+   consists of Ganesh Sittampalam, Edward Z. Yang, Vo Minh Thu, Mark
+   Lentczner, Jason Dagit, Edward Kmett, Brent Yorgey.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
+
+
+
+
+[[!meta copyright="Copyright © 2011 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
