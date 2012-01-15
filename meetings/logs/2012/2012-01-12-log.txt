@@ -1,0 +1,98 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.  
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-01-12/
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.  
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < Ganneff> Joerg Jaspert
+21:00 #spi: < bdale> Bdale Garbee
+21:00 #spi: < zobel> Martin Zobel-Helas
+21:00 #SPI: < Noodles> Jonathan McDowell
+21:00 #spi: < schultmc> Michael Schultheiss
+21:00 #spi: < Solver> Robert Brockway
+21:00 #spi: < Clint> Clint Adams
+21:00 #spi: < zobel> who is missing?
+21:00 #spi: < bdale> who's missing?  Joshua?
+21:01 #SPI: < Noodles> Yup.
+21:01 #spi: < bdale> ok, let's proceed
+21:01 #spi: < bdale> [item 3, President's Report]
+21:01 #spi: < bdale> My thanks to everyone for carrying on in my absence last month.  Leaving for LCA tomorrow, then FOSDEM in early Feb, look forward to seeing SPI members at both events.
+21:01 #spi: < bdale> [item 4, Treasurer's Report]
+21:01 #spi: < bdale> Michael?
+21:02 #spi: < schultmc> Standard report is in the agenda.  Nothing further from me.
+21:02 #spi: < bdale> thanks
+21:02 #spi: < bdale> [item 5, Secretary's report]
+21:02 #spi: < bdale> Jonathan?
+21:02 #SPI: < Noodles> Nothing to note from me.
+21:02 #spi: < bdale> ok, thanks
+21:02 #spi: < bdale> [item 6, Outstanding minutes]
+21:02 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+21:02 #SPI: < Noodles> Yup.
+21:02 #SPI: < Noodles> Voting started, 8 people (hydroxide,ganneff,bdale,zobel,noodles,schultmc,solver,clint) allowed to vote on Meeting minutes for Thursday, 15th December 2011. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:02 #spi: < Hydroxide> !vote yes
+21:02 #SPI: < Noodles> !vote yes
+21:02 #spi: < Clint> !vote yes
+21:02 #spi: < schultmc> !vote yes
+21:02 #spi: < Ganneff> !vote yes
+21:02 #spi: < zobel> !vote yes
+21:02 #spi: < Solver> !vote yes
+21:02 #spi: < bdale> ! vote abstain
+21:02 #SPI: < Noodles> Current voting results for "Meeting minutes for Thursday, 15th December 2011": Yes: 7, No: 0, Abstain: 0, Missing: 1 ( bdale )
+21:02 #SPI: < Noodles> Voting for "Meeting minutes for Thursday, 15th December 2011" closed.
+21:02 #spi: < bdale> !vote abstain
+21:03 #spi: < Clint> oops
+21:03 #spi: < bdale> thanks, sorry about the typo, mark me as an intentional abstain please
+21:03 #SPI: < Noodles> I think we're clear on the intention. :)
+21:03 #spi: < bdale> great
+21:03 #spi: < bdale> [item 7, Items up for discussion]
+21:03 #spi: < bdale> None this month.
+21:03 #spi: < bdale> [item 8, Any other business]
+21:03 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly? 
+21:04 #spi: < zobel> Solver: do we have any more informations from mishi?
+21:04 #spi: < zobel> this is re debian.eu
+21:04 #spi: < Solver> zobel: nothing further to add
+21:04 #spi: < Ganneff> jfyi, privoxy.org is still waiting on "the other side" to finally get in transfer.
+21:04 #spi: < Solver> just what I posted to the list.
+21:04 #spi: < Ganneff> we requested, nothing since then.
+21:04 #spi: < zobel> but i am fine with discussing that after meeting.
+21:04 #spi: < zobel> Solver: great.
+21:04 #spi: < Solver> sounds good
+21:04 #spi: < Clint> did we reach any consensus on the board list membership issue?
+21:04 #SPI: < Noodles> I didn't see anyone objecting to it being board only.
+21:04 #spi: < bdale> Ganneff: any action required here?
+21:05 #spi: < Solver> the response was overwhelmingly positive for the change, imho
+21:05 #spi: < Ganneff> bdale: ill trigger a re-request, if nothing comes out, mail to the liasion to kick "his people" :)
+21:05 #spi: < bdale> I think we have consensus
+21:05 #spi: < Ganneff> they have to ack the transfer or nothing happens
+21:05 #spi: < bdale> ok
+21:05 #spi: < Ganneff> (usual domain foo)
+21:05 #spi: < bdale> I noted the other day that the OSUNIX web site seemed dead, has anyone followed up on that or should I?
+21:05 #spi: < Solver> so re board list change? at this point do we just change the list?
+21:05 #spi: < Ganneff> re list - does it mean i kick off all non-board?
+21:05 #spi: < Solver> there does seem to be concensus, as noted
+21:06 #spi: < bdale> Ganneff: yes, please
+21:06 #SPI: < Noodles> bdale: Solver had noted it was a temporary thing I think.
+21:06 #spi: < Ganneff> ok
+21:06 #spi: < bdale> one last email to the list saying it's happening, then do the elide
+21:06 #spi: < Solver> Ganneff: you'll send a courtesy email to -general?
+21:06 #spi:  * Hydroxide approves of the change
+21:06 #spi: < Ganneff> bdale: well, i let mailman send "unsub" notes to the victims
+21:06 #spi: < bdale> Noodles: ok .. as I mentioned here the other day, I have no other data
+21:06 #spi: < bdale> Ganneff: good point
+21:07 #spi: < bdale> just don't want it to surprise anyone that's being removed, not that it should
+21:07 #spi: < bdale> ok, anything else?
+21:07 #spi: < Solver> I still want us to look at D&O
+21:07 #spi: < Solver> I'll see if I can find some time
+21:07 #spi: < bdale> ok .. I'm willing to help, but probably not until after FOSDEM
+21:08 #spi: < Solver> ah np thanks.  it isn't a huge hurry
+21:08 #spi: < bdale> anything else?
+21:08 #spi: < zobel> next board meeting on thursday after fosdem?
+21:08 #spi: < Solver> (it has waited this long)
+21:08 #spi: < bdale> [item 9, Next board meeting]
+21:08 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 9 February 2012, 21:00 UTC.
+21:08 #spi: < bdale> Any strong objections?
+21:08 #SPI: < Noodles> Fine with me.
+21:09 #spi: < zobel> fine with me
+21:09 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:09 #spi: < bdale> *GAVEL*
