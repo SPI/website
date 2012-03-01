@@ -1,0 +1,153 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < Clint> or so we think
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:00 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-02-09/
+21:00 #spi: < zobel> Martin Zobel-Helas
+21:00 #spi: < Clint> Clint Adams
+21:00 #spi: < zobel> ups.
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:00 #spi: < Noodles> Too soon guys.
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < bdale> Bdale Garbee
+21:00 #spi: < Clint> Clint Adams
+21:01 #spi: < zobel> Martin Zobel-Helas
+21:01 #spi: < Noodles> Jonathan McDowell
+21:01 #spi: < Solver> Robert Brockway
+21:01 #spi: < Hydroxide> Jimmy Kaplowitz
+21:01 #spi: < zobel> no Ganneff?
+21:01 #spi: < Ganneff> Joerg Jaspert
+21:01 #spi: < schultmc> Michael Schultheiss
+21:01 #spi: < bdale> cool, well past quorum .. who's missing?
+21:01 #spi: < Noodles> linuxpoest.
+21:01 #spi: < bdale> oh, right
+21:01 #spi: < Noodles> s/s//
+21:02 #spi: < bdale> let's proceed, perhaps he'll join us, but with only one vote and that on minutes I'm not inclined to wait
+21:02 #spi: < bdale> [item 3, President's Report]
+21:02 #spi: < bdale> Since our last meeting, I've been to LCA and FOSDEM, both had very interesting talks this year and led to good conversations with contributing members.
+21:02 #spi: < bdale> [item 4, Treasurer's Report]
+21:02 #spi: < bdale> Michael?
+21:02 #spi: < schultmc> standard report just hit the lists and is in the agenda (just added - may need to refresh)
+21:02 #spi: < schultmc> nothing of note
+21:03 #spi: < bdale> ok .. I just pulled it up .. anyone else have questions?
+21:03 #spi:  * Hydroxide managed to read it with at least the usual level of care ;)
+21:03 #spi: < bdale> I note assets are over 300k .. where are the interesting thresholds with respect to reporting rules?
+21:04 #spi: < bdale> ??
+21:05 #spi: < schultmc> I don't think we've hit any thresholds that require specific reportings yet although we're close to the level where audited financial reports are prudent (though not required iirc)
+21:05 #spi: < bdale> ok, that's probably what I'm thinking of
+21:05 #spi: < bdale> anything else?
+21:05 #spi: < Hydroxide> it may affect our annual filing fee with new york minutely
+21:05 #spi: < bdale> [item 5, Secretary's report]
+21:05 #spi: < bdale> Jonathan?
+21:05 #spi: < schultmc> nothing from me
+21:05 #spi: < Noodles> Nothing of note from me either.
+21:05 #spi: < bdale> [item 6, Outstanding minutes]
+21:05 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+21:06 #spi: < Noodles> Voting started, 8 people (bdale,clint,zobel,noodles,solver,hydroxide,ganneff,schultmc) allowed to vote on Minutes for Thursday, 12th January 2012. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:06 #spi: < Clint> !vote yes
+21:06 #spi: < Noodles> !vote yes
+21:06 #spi: < bdale> !vote yes
+21:06 #spi: < Solver> !votes yes
+21:06 #spi: < Ganneff> !vote yes
+21:06 #spi: < Solver> !vote yes
+21:06 #spi: < schultmc> !vote yes
+21:06 #spi: < zobel> !vote yes
+21:06 #spi: < Hydroxide> !vote yes
+21:06 #spi: < Noodles> Current voting results for "Minutes for Thursday, 12th January 2012": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:06 #spi: < Noodles> Voting for "Minutes for Thursday, 12th January 2012" closed.
+21:06 #spi: < bdale> thanks
+21:06 #spi: < bdale> [item 7, Items up for discussion]
+21:06 #spi: < bdale> None this month.
+21:06 #spi: < bdale> [item 8, Any other business]
+21:06 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:06 #spi: < Noodles> Er.
+21:07 #spi: < Noodles> We have an item up for discussion.
+21:07 #spi: < bdale> do we?
+21:07 #spi: < Clint> Items up for discussion
+21:07 #spi: < Clint> Discussion of back office support
+21:07 #spi: < bdale> oops, you're right
+21:07 #spi: < bdale> my mistake .. Solver, this is yours?
+21:07 #spi: < Solver> right...
+21:07 #spi: < Solver> I refer to the discussion on spi-general.  I hope everyone got a chance to read it
+21:08 #spi:  * Hydroxide gave his thoughts already - those stand
+21:08 #spi: < Solver> The purpose here is to gauge the feeling of the board members about moving forward with paid support for certain aspects of SPIs paperwork
+21:09 #spi: < Solver> SPI is growing and there is plenty of evidence that this is going to continue
+21:09 #spi: < Noodles> As long as we have defined tasks that we believe help will be useful for then I'm fine with it, but I still haven't seen anyone say "If someone can do <foo> that would be helpful to me."
+21:09 #spi: < Solver> so I'd like to invite board members to comment on the possibility of paid support for 'back office' or bookkeeping services
+21:09 #spi: < bdale> I'm generally supportive, though more inclined to respond to specific suggestions than general themes.  I have not read the discussion on -general yet.
+21:10 #spi: < bdale> I do worry about the fact that most of the routine workload falls to schultmc
+21:10 #spi: < Solver> yes it seems like a lot to fall on a single volunteer
+21:10 #spi: < zobel> who is doing great work here.
+21:10 #spi: < schultmc> bookkeeping assistance would be helpful
+21:10 #spi: < Solver> I agree
+21:10 #spi: < Noodles> Give the man a minion.
+21:10 #spi: < Clint> i'm fine with it as long as it's done with a significant amount of formality (that is well-documented and defined policies, procedures, and auditable evidence)
+21:10 #spi: < schultmc> especially since my work situation may be changing soon and my available free time may diminish
+21:11 #spi: < Solver> schultmc: ok so you think that bookkeeping assistance would be the best option
+21:11 #spi: < bdale> schultmc: didn't we already approve expenses for bookkeeping at some point?
+21:11 #spi: < Hydroxide> having just undergone such a shift, I know how that goes. congratulations :)
+21:12 #spi: < Solver> bdale: I was told by a former board member bht that is true, yes
+21:12 #spi: < schultmc> bdale: yes - we terminated our relationship with that bookkeeper due to unhappiness with their services
+21:12 #spi: < zobel> i think, schultmc should tell where he needs help, and define task. but we should do that on the list.
+21:12 #spi: < bdale> I vaguely remember that.  and nothing since?
+21:12 #spi: < bdale> yes, I would quickly support any reasonable requests for paid help that schultmc would care to make
+21:12 #spi: < schultmc> correct, nothing since
+21:13 #spi: < schultmc> a local bookkeeper may be better
+21:13 #spi: < Hydroxide> was the approval for bookkeeping assistance specific to the bookkeper? if not, please feel free to choose another one :)
+21:13 #spi: < bdale> schultmc: maybe you and Solver can chat offline about what would make sense and turn this into a specific proposal?
+21:13 #spi: < schultmc> we had one in a remote city and we had to mail them a whole bunch of paperwork
+21:13 #spi: < schultmc> it wasn't practical
+21:13 #spi: < schultmc> bdale: sounds fine to me
+21:13 #spi: < Solver> yes being local to you would seem to make sense
+21:13 #spi: < Solver> ok cool
+21:14 #spi: < bdale> great .. you guys chat, and if you get far enough for us to have a resolution for next meeting that's fine, if not that's also fine
+21:14 #spi: < Solver> so schultmc and I will formulate a proposal for March?
+21:14 #spi: < bdale> anything else here?
+21:14 #spi: < Hydroxide> Solver: if he already has the authority for hiring a local bookkeeper, we don't need to do anything other than provide any support he needs in that
+21:14 #spi: < Solver> I have one additional item that came up too recently for me to submit it
+21:14 #spi: < bdale> ok, let's transition to item 8 then .. new topics
+21:14 #spi: < Hydroxide> in terms of as a service provider, not as an employee
+21:14 #spi: < Hydroxide> k
+21:14 #spi:  * Hydroxide is done
+21:14 #spi: < Solver> ok cool
+21:14 #spi: < bdale> [item 8, Any other business]
+21:14 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:15 #spi: < Solver> yes I have one
+21:15 #spi: < Hydroxide> :D
+21:15 #spi: < Solver> cdlu (david Graham) has started working on a major revision of the by-laws
+21:15 #spi: < Solver> I have joined him in this
+21:16 #spi: < bdale> hallelujah!
+21:16 #spi: < Solver> David asked me to advise the board the we expect to be able to present the revised by-laws to the board in the North American spring
+21:16 #spi: < Hydroxide> great :) on that note, schultmc, are we going to be able to follow through on our membership expiry resolution?
+21:16 #spi: < bdale> as already indicated, I'm happy to help review
+21:16 #spi: < Solver> It is essential that the membership list be up to date for an expected referendum on the new by-laws
+21:16 #spi: < schultmc> Hydroxide: yes, we should be able to
+21:16 #spi: < schultmc> a previous suggestion was to make the board all members of the membership ctte
+21:16 #spi: < bdale> maybe get someone else to work on that?
+21:17 #spi: < schultmc> currently it's just noodles and me
+21:17 #spi: < Solver> David and I will post out more information about the revision later
+21:17 #spi: < Hydroxide> schultmc: I'd be fine with that, sure. in terms of pinging and reversibly expiring inattentive members, are there any prereqs or can that move forward in the next month or two? it's necessary to have any chance at meeting quorum
+21:17 #spi: < Hydroxide> for the vote
+21:18 #spi: < schultmc> Hydroxide: no prereqs other than proper permissions in the membership web app
+21:18 #spi: < bdale> yes .. I think it's important enough that I'll make time to help with it 
+21:18 #spi: < schultmc> I can grant the board members membership cttee status after this meeting
+21:18 #spi: < bdale> who's going to lead the ping and expire process?
+21:19 #spi: < Noodles> I can probably do something around tying the voting information in.
+21:19 #spi: < Noodles> To give a list of people to ping.
+21:19 #spi: < Hydroxide> right, yes. as per the resolution
+21:19 #spi: < bdale> Noodles: are you willing to nominally "lead" the activity on this?
+21:19 #spi: < Noodles> I'm not likely to have much time in the next week or so, but I'll try to have something done before the next meeting (and by done I mean ping sent out).
+21:20 #spi: < bdale> I'll take that as a "yes" .. ;-)
+21:20 #spi: < Hydroxide> that'd be great. IIRC we had a four-week period envisaged in the resolution
+21:20 #spi: < Hydroxide> so that shouldn't delay any eventual vote
+21:20 #spi: < Solver> havnig this done over the next 1-2 months would seem to be a reasonable time period
+21:20 #spi: < bdale> yes
+21:20 #spi: < bdale> anything else?
+21:21 #spi: < Solver> not from me
+21:21 #spi: < bdale> [item 9, Next board meeting]
+21:21 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 8 March 2012, 21:00 UTC.
+21:21 #spi: < bdale> Any strong objections?
+21:21 #spi: < schultmc> no objections currently, may have objections in a couple weeks pending outcome of job stuff
+21:21 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:21 #spi: < bdale> *GAVEL*
