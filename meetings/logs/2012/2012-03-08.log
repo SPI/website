@@ -1,0 +1,111 @@
+21:03 #spi: < Ganneff> *BANG*
+21:03 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:03 #spi: < Ganneff> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-03-08/
+21:03 #spi: < Ganneff> [item 2, Roll Call]
+21:03 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:03 #spi: < Ganneff> Noodles: any regrets?
+21:03 #spi: < Clint> Clint Adams
+21:03 #spi: < Noodles> Hydroxide and schultmc.
+21:03 #spi: < Ganneff> Joerg Jaspert
+21:03 #spi: < zobel> Martin Zobel-Helas
+21:03 #spi: < Solver> Robert Brockway
+21:03 #spi: < Noodles> Jonaathn McDowell
+21:03 #spi: < zobel> Noodles: typo in your RN
+21:03 #spi: < Noodles> I know but I figure we all know what I meant and I won't get it wrong in the minutes.
+21:03 #spi: < Noodles> Jonathan McDowell
+21:03 #spi: < schultmc> Michael Schultheiss
+21:04 #spi: < Noodles> Quorum.
+21:04 #spi: < Ganneff> we mixx bdale, as always linuxpoet. well, lets go on.
+21:04 #spi: < Ganneff> xx? ss
+21:04 #spi: < Ganneff> [item 3, President's Report]
+21:04 #spi: < Ganneff> Agenda looks like there is none, and Bdale is out anyways, so next
+21:04 #spi: < Ganneff> [item 4, Treasurer's Report]
+21:04 #spi: < Ganneff> Thats for Michael
+21:05 #spi: < schultmc> report was just added to the agenda and emailed out
+21:05 #spi: < schultmc> it's pretty standard - nothing of note
+21:05 #spi: < Ganneff> noone with comments?
+21:06 #spi: < Ganneff> [item 5, Secretary's report]
+21:06 #spi: < Ganneff> Jonathan?
+21:06 #spi: < zobel> schultmc: any tax stuff we need to take care of?
+21:06 #spi: < Noodles> Nothing from me to report.
+21:07 #spi: < schultmc> zobel: our annual report is due may 15 (or august 15 if we file for an extension) - it's in progress
+21:07 #spi: < Ganneff> [item 6, Outstanding minutes]
+21:07 #spi: < Ganneff> Noodles: I think we have one set to vote on?
+21:07 #spi: < Solver> which report is that?  to NYS?
+21:07 #spi: < schultmc> s/report/filing/
+21:08 #spi: < Noodles> Voting started, 6 people (clint,ganneff,zobel,solver,noodles,schultmc) allowed to vote on Minutes for Thursday, 9th February 2012 meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:08 #spi: < schultmc> Solver: IRS form 990
+21:08 #spi: < Ganneff> !vote yes
+21:08 #spi: < Noodles> !vote yes
+21:08 #spi: < schultmc> !vote yes
+21:08 #spi: < Clint> !vote yes
+21:08 #spi: < Solver> !vote yes
+21:08 #spi: < zobel> !vote yes
+21:08 #spi: < Noodles> Current voting results for "Minutes for Thursday, 9th February 2012 meeting": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:08 #spi: < Noodles> Voting for "Minutes for Thursday, 9th February 2012 meeting" closed.
+21:08 #spi: < Ganneff> good
+21:08 #spi: < Ganneff> [item 7, Items up for discussion]
+21:08 #spi: < Ganneff> Nada, it seems...
+21:08 #spi: < Ganneff> [item 8, AOB]
+21:08 #spi: < Ganneff> Anyone anything?
+21:08 #spi: < Noodles> I did look at the membership cleanup stuff.
+21:08 #spi: < schultmc> Solver: NYS filing is also due at approximately the same time and is also in progress
+21:08 #spi: < Solver> schultmc: ah cool thanks
+21:09 #spi: < Noodles> I produced the list of members who hadn't voted and started to draft a mail (which cdlu has commented on) but the number of people involved (300+) made me think that having a way for them to indicate continued interest in the web interface might be a good plan.
+21:09 #spi: < Ganneff> Noodles: so, how many less will we have when you are done?
+21:09 #spi: < Noodles> We had less than 25% turnout for the election.
+21:10 #spi: < schultmc> there was a way to indicate interest several years ago
+21:10 #spi: < Ganneff> cdlu: go
+21:10 #spi: < schultmc> I haven't found the bit of code that handles that
+21:11 #spi: < cdlu> hi guys, sorry I haven't got the draft in yet 
+21:11 #spi: < cdlu> imo we don't want to use any other system besides voting
+21:11 #spi: < cdlu> because we can't push bylaw amendments without people voting
+21:11 #spi: < cdlu> our amending formula really sucks so making sure only people who will vote can vote will be important to the success fo this project
+21:11 #spi: < cdlu> thanks
+21:11 #spi: < cdlu> is all.
+21:11 #spi: < Noodles> That's fine, this is just about cleaning up the voting list first.
+21:11 #spi: < Solver> cdlu: I'll touch base with you on that soon.  I still want to help but have been busy in real life
+21:11 #spi: < cdlu> me too. Am working a by-election (=12/7s).
+21:12 #spi: < Noodles> It may be that 3 people will reply and that'll be easy to do by hand, but I don't feel like processing 100+ "I'm still interested" emails by hand.
+21:12 #spi: < Noodles> But I'm not a PHP person so I haven't got round to trying to understand the web membership stuff.
+21:13 #spi: < Ganneff> so, to get on, we need someone willing (and with time) to dig through that (old) code?
+21:13 #spi: < Noodles> Ideally, yes.
+21:13 #spi: < Clint> or perhaps a clever mail filtering script instead
+21:13 #spi: < schultmc> got to go - e-mail me if you need anything else from me
+21:13 #spi: < Ganneff> and then probably a mass mail to tell people "we kick you unless you click over there once"
+21:13 #spi: < Noodles> Yeah, doing it by mail is still a fallback.
+21:13 #spi: < Ganneff> Clint: want to create such a thing?
+21:14 #spi: < Clint> i'm not sure i'll have time, but maybe
+21:14 #spi: < Solver> well the by-law vote would occur at the same time as the election so we've got, what, 3 months
+21:14 #spi: < cdlu> noodles, isn't upgrading from non-contrib to contrib membership semi-automatic now? as in, just a matter of approving? contrib membership expiry is to ensure that contrib members conform to our definition of contributing membership, not their own, so the bureaucracy of approval might be prudent.
+21:14 #spi: < Ganneff> can we leave it with Noodles/clint driving it til next meeting, and then either have it done :) or see whats still missing to finish this run?
+21:14 #spi: < cdlu> so if we just expire people they can reapply, no form needed.
+21:15 #spi: < Noodles> cdlu: We said we'd contact people who hadn't voted and give them 4 weeks to respond.
+21:16 #spi: < cdlu> ok, but my point is they can respond through normal channels as opposed to any special system. and there's no time limit that way. just imo.
+21:16 #spi: < Ganneff> though somehow a "you didnt vote, you are non-contrib. want to be contrib again? click there" seems nice to. less work involved, i think
+21:16 #spi: < Solver> schultmc: did you get a chance to get any ideas for local bookkeeprs?
+21:16 #spi: < Noodles> Ganneff: I was thinking "You didn't vote, we'll make you non-contrib until you click here within the next 4 weeks".
+21:16 #spi: < Noodles> Which fits what we voted on.
+21:16 #spi: < Solver> Ganneff: yes that seems like a fairly painless approach
+21:17 #spi: < Ganneff> Noodles: yeah, just a bit more work up front
+21:17 #spi: < Clint> does the db track last login?
+21:18 #spi: < Noodles> I don't believe so.
+21:18 #spi: < Clint> scrap that idea then
+21:19 #spi: < Solver> well we could draft a new resolution to streamline the process if necessary
+21:19 #spi: < Ganneff> it tracks a "lastchange", but thats probably not too helpful
+21:19 #spi: < Solver> but that wouldn't occur until next meeting probably
+21:20 #spi: < Ganneff> right, i think this will take longer than it should for this meeting. can we have people continue it outside and report back to list or next meeting?
+21:21 #spi: < Solver> yep, let's take it up on the general list
+21:21 #spi: < schultmc> Solver: other than thinking about it very generally, not yet - I'll work on it this month
+21:21 #spi: < Ganneff> anyone else with an AOB?
+21:21 #spi: < Solver> nothing else from me
+21:22 #spi: < Noodles> Oh, I had a thought.
+21:22 #spi: < Ganneff> [item 9, Next board meeting]
+21:22 #spi: < Ganneff> Next board meeting: Thursday, 12th April, 2012, 21:00 UTC
+21:22 #spi: < Ganneff> Err, yes, I have a comment there: That makes it go to 2300 in CEST, which plain sucks. Can we go 20:00 UTC?
+21:22 #spi: < Noodles> Daylight savings time.
+21:22 #spi: < Noodles> Yeah, 20:00 UTC keeps real time the same for everyone except Solver?
+21:22 #spi: < Solver> yep that's fine
+21:22 #spi: < Solver> I don't mind gettnig up early for it
+21:23 #spi: < Ganneff> i note the 2000 utc for now, if someone other freaks out, we have lists still :)
+21:23 #spi: < Ganneff> *GAVEL*
