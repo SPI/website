@@ -1,0 +1,175 @@
+21:01 #spi: < bdale> *GAVEL*
+21:01 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:01 #spi: < bdale> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-04-12/
+21:01 #spi: < bdale> [item 2, Roll Call]
+21:01 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:01 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:01 #spi: < Noodles> Jonathan McDowell
+21:01 #spi: < Clint> Clint Adams
+21:01 #spi: < zobel> Martin Zobel-Helas
+21:01 #spi: < Hydroxide> Jimmy Kaplowitz
+21:01 #spi: < bdale> Bdale Garbee
+21:01 #spi: < Ganneff> Joerg Jaspert
+21:01 #spi: < Solver> Robert Brockway
+21:01 #spi: < schultmc> Michael Schultheiss
+21:01 #spi: < Hydroxide> everyone but linuxpoet
+21:01 #spi: < bdale> did we hear from him?
+21:02 #spi: < Noodles> I didn't.
+21:02 #spi: < Hydroxide> he commented laconically on the ticketing system thread, but that's it
+21:02 #spi: < bdale> perhaps he'll join us then, since we have quorum I will proceed
+21:02 #spi: < bdale> [item 3, President's Report]
+21:02 #spi: < bdale> My apologies to the board for my absence from our last meeting, I suffered an unanticipated airline flight delay that day.
+21:02 #spi: < bdale> [item 4, Treasurer's Report]
+21:02 #spi: < bdale> Michael?
+21:02 #spi: < schultmc> standard report was mailed out and is in the agenda
+21:02 #spi: < schultmc> nothing of note
+21:02 #spi: < bdale> any questions for Michael?  mine was already answered this morning.
+21:03 #spi: < schultmc> although Debian did receive a large donation via credit card - the donor should be informed of lest costly donation methods
+21:03 #spi: < Solver> bdale: yes one....
+21:03 #spi: < Solver> schultmc: any chance to review options for bookkeeping assistance?
+21:03 #spi: < schultmc> Solver: not yet - I'll be less busy after this weekend
+21:04 #spi: < Solver> np thanks
+21:04 #spi: < bdale> great
+21:04 #spi: < bdale> [item 5, Secretary's report]
+21:04 #spi: < bdale> Jonathan?
+21:04 #spi: < Noodles> Nothing from me.
+21:04 #spi: < bdale> [item 6, Outstanding minutes]
+21:04 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+21:04 #spi: < Noodles> Voting started, 8 people (clint,zobel,hydroxide,bdale,ganneff,solver,schultmc,noodles) allowed to vote on Minutes for 8th March 2012 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:04 #spi: < bdale> !vote abstain
+21:04 #spi: < Hydroxide> !vote abstain
+21:04 #spi: < schultmc> !vote yes
+21:04 #spi: < Solver> !vote yes
+21:04 #spi: < Ganneff> !vote yes
+21:04 #spi: < Clint> !vote yes
+21:04 #spi: < Noodles> !vote yes
+21:05 #spi: < zobel> !vote yes
+21:05 #spi: < Noodles> Current voting results for "Minutes for 8th March 2012 board meeting": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:05 #spi: < Noodles> Voting for "Minutes for 8th March 2012 board meeting" closed.
+21:05 #spi: < bdale> thanks, all!
+21:05 #spi: < bdale> [item 7, Items up for discussion]
+21:05 #spi: < bdale> [item 7.1, YafaRay selling training materials]
+21:05 #spi: < bdale> Who wants to speak to this?
+21:06 #spi: < Ganneff> woo, not so many at once.
+21:06 #spi: < Noodles> I don't think I saw any serious objections to this?
+21:06 #spi: < Solver> What was the final opinion from counsel?
+21:06 #spi:  * Hydroxide sees no problem with YafaRay selling educational, training, or documentation materials about YafaRay.
+21:06 #spi: < bdale> I didn't see any problem either, so wasn't sure why this was on the agenda
+21:06 #spi: < Hydroxide> Solver: we shouldn't get to specific about the details in a public channel, due to privilege concerns. my guess is Alvaro wanted to prod us into action
+21:07 #spi: < Solver> Hydroxide: yes good point
+21:07 #spi: < Hydroxide> but, someone will have to handle things like collecting sales tax and verifying what needs to happen there
+21:07 #spi: < Hydroxide> and in which jurisdictions
+21:07 #spi: < bdale> so is there anything for us to discuss or act on here today?
+21:07 #spi: < Noodles> I'm guessing it may be driven from outside the US.
+21:07 #spi: < Noodles> IIRC YafaRay are mostly in Europe.
+21:07 #spi: < Noodles> Which may make sales tax a non issue.
+21:08 #spi: < Alvaro> am I allowed to speak?
+21:08 #spi: < bdale> US sales tax, certainly
+21:08 #spi: < Hydroxide> Noodles: if SPI is doing the sales, we can't ignore US or New York law, as a US and New York entity. we may have other jurisdictions to worry about - no idea about EU VAT myself
+21:08 #spi: < bdale> Alvaro: please
+21:08 #spi: < Noodles> But aside from checking the exact nature of that I don't see a problem.
+21:08 #spi: < Hydroxide> Noodles: none of this is a problem, someone just has to follow up on it
+21:09 #spi: < bdale> Alvaro: please speak if you wish
+21:09 #spi: < Alvaro> afaik tax sales should be handled by SPI in regard to his legal address
+21:10 #spi: < bdale> in the US, most states only require the collection of sales tax for items sold in the same jurisdiction as the seller
+21:10 #spi: < Hydroxide> there is probably some way to use a third-party to handle the whole sales process for us, including tax collections stuff. so the work involved might just be "find an online storefront that does that and confirm with SFLC that that meets our obligations"
+21:10 #spi: < bdale> I'm not 100% clear on US law, but I suspect tax only needs to be collected on sales of items to NY addresses
+21:10 #spi: < bdale> s/US/NY/
+21:10 #spi: < Hydroxide> bdale: yes - but we might at least have to worry about it for New York buyers, and possibly Indiana and other buyers where we have either officers, directors, and/or significant donations or sales
+21:11 #spi: < Hydroxide> bdale: agreed that we basically have to do it for NY unless this falls into an exception like DebConf10's activities did
+21:11 #spi: < bdale> wrt sales tax collection, don't make it more complicated than it needs to be is my general advice
+21:11 #spi: < Hydroxide> yup
+21:11 #spi: < Hydroxide> that's why I'm suggesting outsourcing that :)
+21:11 #spi: < bdale> ok, so I see no action for us to take today?
+21:12 #spi: < Hydroxide> someone just has to follow up on it. no vote needed today.
+21:12 #spi: < bdale> I can't think of any issue outsourcing it, it shouldn't need a board resolution
+21:12 #spi: < Hydroxide> right
+21:12 #spi: < Alvaro> so how we should proceed when our training stuff is finished
+21:12 #spi: < Hydroxide> Alvaro: how soon are you expecting that to be ready?
+21:13 #spi: < Solver> Alvaro: how long until you think you will be ready?
+21:13 #spi:  * Hydroxide grins at Solver 
+21:13 #spi: < Solver> Hydroxide: :)
+21:13 #spi: < Alvaro> soon, within this month probably
+21:13 #spi: < bdale> ok
+21:13 #spi: < bdale> Hydroxide: did you have an particular suggestion on who to outsource to?
+21:14 #spi: < Alvaro> do you have a tax advisor? maybe he has something to say about it
+21:14 #spi: < Hydroxide> bdale: no. I guess I can look into it
+21:14 #spi: < bdale> Alvaro: no, not exactly
+21:14 #spi: < bdale> Hydroxide: if you would, that'd be great, then let's continue this discussion via email?
+21:14 #spi: < Hydroxide> bdale: sure
+21:14 #spi: < Solver> Alvaro: we discussed it with legal counsel at the time of the request but not an accountant afaik
+21:14 #spi: < Alvaro> I see
+21:14 #spi: < Solver> bdale: agreed
+21:15 #spi: < bdale> ok, I think we can wrap this for today.  Hydroxide will look for suitable out-sourcers and we can discuss on list as no resolution should be required
+21:15 #spi: < Hydroxide> Solver: it doesn't really have tax implications for SPI so we don't need tax advice - it's more legal advice about which taxes we have to collect and pass on, and how to do that with as little effort and complication as possible :)
+21:15 #spi: < bdale> Alvaro: thanks for your input to the discussion, we'll look forward to working with you to do the right thing(s)
+21:15 #spi: < bdale> [item 7.2, Discussion of tracking system]
+21:15 #spi: < bdale> Robert, did you want to kick us off on this?
+21:15 #spi: < Solver> sure....
+21:15 #spi: < Alvaro> I am sorry that the whole matter could be a extra hassle for you but maybe it is an useful experience for other projects too
+21:15 #spi: < Hydroxide> (that was meant for Alvaro, not Solver. /me yields the floor again)
+21:15 #spi: < bdale> Alvaro: no worries
+21:16 #spi: < bdale> it's what we're here for!
+21:16 #spi: < Solver> There is a general concensus that a tracking system is a good idea
+21:16 #spi: < Solver> and RT seems to be the preferred option
+21:16 #spi: < Ganneff> im against redmine unless someone has a reason for the other features it has. which i can't see. im fine with rt, have multiple of em, its nice and easy to adapt if need be. i veto otrs as its sh*t as hell if someone plans to mention it... i think we will end up with a nice little vm just for this, so i can easily hand out rt admin access to others (including filesystem access i mean, not just the web stuff).
+21:16 #spi: < Solver> at this stage I think we just need to confirm we will get it installed and running
+21:16 #spi: < Noodles> Again I didn't think this really needed to be on the agenda as I thought we'd come to a decision offline.
+21:17 #spi: < Solver> I submitted it before some discussion ensued
+21:17 #spi: < bdale> Ganneff: if you're ok to proceed with RT, I think the answer is "just do it"
+21:17 #spi: < Noodles> I know.
+21:17 #spi: < Noodles> I left it anyway so we could say yay or nay.
+21:17 #spi: < Ganneff> bdale: sure. next week, and i guess solver wants to be on board of that train
+21:17 #spi: < Noodles> And I think we're all saying yes to RT if sysadmin@spi is happy to install it.
+21:17 #spi: < bdale> I'm not going to call for a vote unless there's objection to "the plan"
+21:17 #spi: < Solver> Noodles: exactly
+21:18 #spi:  * Hydroxide agrees with the above
+21:18 #spi: < bdale> ok, I mark this item done and we move on.  thanks, all
+21:18 #spi: < Ganneff> we have to get up with some useful queues and groups maybe, but otherwise it will be nice and simple
+21:18 #spi: < bdale> [item 8, Any other business]
+21:18 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:18 #spi: < Noodles> I'd like to apologise for making zero progress on membership cleanup.
+21:19 #spi: < bdale> I'll note in passing here that I've already proposed a SPI BOF for Debconf 12, all who plan to attend from the board are respectfully asked to include it in their plans once it gets scheduled assuming it does
+21:19 #spi: < Noodles> Various things came up that meant I didn't have a decent chunk of time to sit down and look at the website code, though I did have a few thoughts on what I wanted to do with it.
+21:19 #spi: < Noodles> bdale: I'm hoping to be there so will certainly attend if so.
+21:19 #spi: < bdale> Noodles: anything you could use help on?
+21:20 #spi: < Noodles> I think all the discussion from last month is still relevant.
+21:20 #spi: < Noodles> If someone else has time/inclination to jump in and suggest some changes or wants to discuss with me I'm happy for that to happen. As I said I'm not a PHP person so it's a steeper curve for me.
+21:20 #spi:  * bdale reads the minutes again
+21:20 #spi:  * Hydroxide will attend the BoF
+21:21 #spi: < zobel> schultmc: will we meet our deadline for our annual report (IRS 990)?
+21:21 #spi: < bdale> I'm not exactly a PHP hack either .. but I do want to see us make progress on this.
+21:21 #spi: < Clint> i'll try to take a look at the code before the next meeting
+21:21 #spi: < schultmc> zobel: yes
+21:21 #spi: < bdale> Clint: thanks
+21:21 #spi: < zobel> schultmc: thx
+21:21 #spi: < Noodles> bdale: Largely I think we/I want a "I'm still interested" button/link in the members area to update an active date field in the DB.
+21:21 #spi: < Noodles> And a vote will also update that field.
+21:21 #spi: < Noodles> And then we can mail based on that field, and cull x weeks after the mail based on that field.
+21:21 #spi: < bdale> ok, that makes sense .. sound like something you can handle, Clint?
+21:22 #spi: < Noodles> And that can all be largely automatic.
+21:22 #spi: < Clint> probably, depending on what the db's like
+21:22 #spi: < bdale> ok .. let's all poke each other on IRC as needed to get this done in the next month?
+21:22 #spi: < Noodles> So extend the members table to have that field, extend the vote script to update it, add a page/link to update it from the web interface and add a script to send out a mail with a link to the page.
+21:23 #spi: < Noodles> I don't think it's complex, I just haven't had time to sit down and write code.
+21:23 #spi: < bdale> understand .. I've been pretty swamped too, but as I say this is important so let's all try to collaborate and get it done
+21:23 #spi: < bdale> ok, anything else?
+21:23 #spi: < bdale> [item 9, Next board meeting]
+21:23 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 9 May 2012, 20:00 UTC.
+21:23 #spi: < bdale> Any strong objections?
+21:23 #spi: < schultmc> I'll be at a conference the second week of May 2012.  I'd prefer moving the meeting to 2012-05-17
+21:24 #spi: < Solver> no objections
+21:24 #spi:  * zobel will not be able to attend the next meeting
+21:24 #spi: < bdale> either week would be ok with me
+21:24 #spi: < zobel> i will be on VAC whole of May.
+21:24 #spi: < bdale> any strong objections to the 17th?
+21:24 #spi: < Noodles> Fine with me. I note UDS is on the second week of May. It'd be good to meet anyone who's going to be in the Bay Area for that.
+21:24 #spi: < Ganneff> i might not be at that meeting. depends on when the babys crawling out, but its right before that...
+21:25 #spi: < schultmc> Noodles: I'll be in the bay area for a different conference
+21:25 #spi: < zobel> babys?!
+21:25 #spi: < bdale> Noodles: let's go with the 17th then, then return to normal in June, ok?
+21:25 #spi: < Noodles> bdale: Sure.
+21:25 #spi: < schultmc> works for me
+21:25 #spi: < Ganneff> ahwell, minus the s. or plus a ' :)
+21:25 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:25 #spi: < bdale> *GAVEL*
