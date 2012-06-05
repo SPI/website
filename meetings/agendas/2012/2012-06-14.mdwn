@@ -1,0 +1,292 @@
+# Meeting agenda for Thursday 14th June, 2012
+
+This is the proposed agenda for the SPI board meeting of Thursday,
+June 14th, 2012, to be held at 20:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll Call
+3. President's report (Bdale Garbee)
+4. Treasurer's report (Michael Schultheiss)
+5. Secretary's report (Jonathan McDowell)
+6. Outstanding minutes
+   1. [Thursday, 12th April 2012](../../../minutes/2012/2012-04-12/)
+      (Jonathan McDowell)
+   1. [Thursday, 17th May 2012](../../../minutes/2012/2012-05-17/)
+      (Jonathan McDowell)
+7. Items up for discussion
+   1. Resolution 2012-05-17.mcs.1 (Removal of OpenOffice.org as associated project)
+8. Any other business
+9. Next board meeting: Thursday, 12th July, 2012, 20:00 UTC
+
+
+## President's report
+
+<pre>
+(none)
+</pre>
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period April 01, 2012 - April 30, 2012
+
+ Income
+   Ordinary Income
+        Arch Linux                         360.00
+        DebConf 12                       5,110.00
+        Debian                           3,803.50
+        Drizzle                            150.00
+        FreeDesktop.org                 27,000.00
+        Gallery                             50.00
+        Jenkins                            100.00
+        LibreOffice                        110.00
+        PostgreSQL                         500.00
+        Privoxy                             25.00
+        SPI General                        205.76
+        SPI 5%                             271.80
+        The HeliOS Project                 200.00
+        YafaRay Code Sprint                127.50
+        YafaRay                             10.00
+
+        Total Ordinary Income           38,023.56
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           0.77
+        Chase BusinessClassic Checking       0.54
+        Chase Bus Select High Yield Savings 12.41
+
+        Total Interest Income               13.72
+                                            -----
+
+   Gross Income                         38,037.28
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Arch Linux
+          Processing Fees            18.60
+          SPI 5%                     18.00
+
+          Total Arch Linux Exp       36.60
+                                     -----
+
+        DebConf 11
+          Travel Reimbursement      119.09
+
+          Total DebConf 11 Exp      119.09
+                                    ------
+
+        DebConf 12
+          Processing Fees             5.10
+
+          Total DebConf 12 Exp        5.10
+                                      ----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees            99.84
+          SPI 5%                    190.18
+          Travel Reimbursement
+            (GSoC)                  500.00
+
+          Total Debian Exp          793.02
+                                    ------
+
+        Drizzle
+          Processing Fees             6.35
+          SPI 5%                      7.50
+
+          Total Drizzle Exp          13.85
+                                     -----
+
+        freedesktop.org (fd.o)
+          Travel Reimbursement    4,467.32
+
+          Total fd.o Exp          4,467.32
+                                  --------
+
+        Gallery
+          Processing Fees             1.13
+          SPI 5%                      2.50
+
+          Total Gallery Exp           3.63
+                                      ----
+
+        Haskell
+          Hosting Fees               54.51
+
+          Total Haskell Exp          54.51
+                                     -----
+
+        Jenkins
+          Processing Fees             4.35
+          SPI 5%                      5.00
+
+          Total Jenkins Exp           9.35
+                                      ----
+
+
+        LibreOffice
+          Processing Fees             5.10
+          SPI 5%                      5.50
+          Travel Reimbursement    1,832.13
+
+          Total LibreOffice Exp   1,842.73
+                                  --------
+
+        OpenWrt
+          Transfer to FFIS
+           (hosting)                666.67
+
+          Total OpenWrt Exp         666.67
+                                    ------
+
+        PostgreSQL
+          Graphics Design           160.00
+          Legal Fees              1,277.66
+          Processing Fees            11.25
+          SPI 5%                     25.00
+          Travel Reimbursement    1,569.72
+
+          Total PostgreSQL Exp    3,043.63
+                                  --------
+
+        Privoxy
+          Processing Fees             1.35
+          SPI 5%                      1.25
+
+          Total Privoxy Exp           2.60
+                                      ----
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          SSL Cert
+            Wikimedia Elections      49.99
+          Transaction Fees           46.61
+          Transfer to FFIS
+            OpenJDK Dev Room
+            FOSDEM                4,315.85
+
+          Total SPI Exp           4,442.40
+                                  --------
+
+        The HeliOS Project
+          Expense reimbursement     819.08
+          Processing Fees             2.70
+          SPI 5%                     10.00
+
+          Total HeliOS Exp          831.78
+                                    ------
+
+        YafaRay Code Sprint
+          Processing Fees             7.20
+          SPI 5%                      6.38
+
+          Total YafaRay CS Exp       13.58
+                                     -----
+
+        YafaRay
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total YafaRay Exp           1.25
+                                      ----
+
+
+        Total Expenses           16,347.11
+                                 ---------
+
+        Net Income               21,690.17
+                                 =========
+
+
+Balance Sheet as of April 30, 2012
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      65,624.79
+        Chase Business Select High Yield Savings          97,683.01
+        Key Business Reward Checking                     142,300.61
+        Key Business Signature Money Market Savings       36,026.56
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    308.00
+
+     Total Current Assets                                355,349.12
+
+
+   TOTAL ASSETS                                          355,349.12
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                      100.33
+           Arch Linux Earmark                 2,877.30
+           Debian Earmark                    87,202.28
+           DebConf 11 Earmark                29,251.50
+           DebConf 12 Earmark                 5,104.90
+           Drizzle                            1,104.10
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           35,390.88
+           FreedomBox Foundation Earmark     20,105.69
+           Gallery Earmark                    7,940.36
+           GNU TeXmacs Earmark                  162.90
+           Haskell Earmark                   12,892.26
+           Jenkins Earmark                   11,501.50
+           LibreOffice Earmark               24,795.42
+           madwifi-project.org Earmark        1,494.90
+           OpenOffice.org Earmark            21,857.84
+           OpenVAS                               45.71
+           OpenWrt                              831.93
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                29,919.75
+           Privoxy Earmark                      568.30
+           The HeliOS Project                   952.69
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Code Sprint Earmark          345.13
+           YafaRay Earmark                    4,892.78
+
+        Total held in trust                              315,785.82
+
+        General reserves                                  39,563.30
+.
+
+     Total Equity                                        355,349.12
+
+   TOTAL LIABILITIES & EQUITY                            355,349.12
+</pre>
+
+
+## Resolution 2012-05-17.mcs.1: Removal of OpenOffice.org as associated project
+
+<pre>
+WHEREAS
+
+ 1. OpenOffice.org has joined the Apache Software Foundation and no longer
+    wishes to be an SPI affiliated project.
+
+THE SPI BOARD RESOLVES THAT
+
+ 1.  SPI shall remove OpenOffice.org's affiliated status.
+ 2.  SPI shall transfer the balance of OpenOffice.org's earmarked funds
+     to the Apache Software Foundation for earmarked use of the Apache
+     OpenOffice project.
+</pre>
+
+[[!meta copyright="Copyright © 2012 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
