@@ -2,15 +2,15 @@
 
 <center>![FFmpeg](../ffmpeg-logo.png)</center>
 
-[FFmpeg](http://ffmpeg.org/) is a the leading multimedia framework, able
+[FFmpeg](http://ffmpeg.org/) is a leading multimedia framework, able
 to decode, encode, transcode, mux, demux, stream, filter and play pretty
 much anything that humans and machines have created. It supports the
-most obscure ancient formats up to the cutting edge. No matter if they
-were designed by some standards committee, the community or a
+most obscure ancient formats up to the cutting edge, no matter if they
+were designed by some standards committee, the community, or a
 corporation. It contains libavcodec, libavutil, libavformat,
 libavdevice, libswscale and libswresample which can be used by
-applications. As well as ffmpeg, ffserver, ffplay and ffprobe which can
-be used by end users for transcoding, streaming and playing.
+applications, along with ffmpeg, ffserver, ffplay and ffprobe programs 
+which can be used directly by end users for transcoding, streaming and playing.
 
 ### Project Liaison
 
