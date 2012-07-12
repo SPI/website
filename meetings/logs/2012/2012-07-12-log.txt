@@ -1,0 +1,173 @@
+14:00 #spi: < bdale> *GAVEL*
+14:00 #spi: < bdale> [item 1, Opening] Welcome to the 2012 Annual General Meeting of Software in the Public Interest, which is now called to order.
+14:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-07-12/
+14:00 #spi: < zobel> schultmc: great.
+14:00 #spi: < bdale> [item 2, Roll Call]
+14:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+14:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+14:00 #spi: < Noodles> Jonathan McDowell
+14:00 #spi: < Hydroxide> Jimmy Kaplowitz
+14:00 #spi: < bdale> Bdale Garbee
+14:00 #spi: < Ganneff> Joerg Jaspert
+14:00 #spi: < schultmc> Michael Schultheiss
+14:00 #spi: < zobel> Martin Zobel-Helas
+14:00 #spi: < Solver> Robert Brockway
+14:00 #spi: < bdale> linuxpoet: ??
+14:00 #spi: < linuxpoet> JOshua Drake
+14:01 #spi: < Noodles> Clint sent regrets. He's on a plane.
+14:01 #spi: < bdale> ok, then that's everyone!  great.
+14:01 #spi: < bdale> [item 3, President's Report]
+14:01 #spi: < bdale> Several of us are joining this meeting from Debconf12, currently underway in Managua, Nicaragua.
+14:01 #spi: < bdale> There is a SPI BOF scheduled for 10am local time tomorrow, a live video stream will be available to watch remotely if anyone is interested.
+14:01 #spi: < bdale> [item 4, Treasurer's Report]
+14:01 #spi: < bdale> Michael?
+14:01 #spi: < Hydroxide> (local time is UTC-6)
+14:01 #spi: < Ganneff> (video.debconf.org:8000)
+14:02 #spi: < schultmc> standard report is in the agenda.
+14:02 #spi: < bdale> anything worthy of special note?
+14:02 #spi: < schultmc> only thing of note is that the OpenOffice.org funds were transferred to the apache software foundation per their request (as stated in our resolution)
+14:02 #spi: < bdale> great, glad that's done .. thanks!
+14:02 #spi: < bdale> [item 5, Secretary's report]
+14:02 #spi: < bdale> Jonathan?
+14:03 #spi: < zobel> schultmc: debconf11 money will be merged back to debian i guess at some point?
+14:03 #spi: < schultmc> zobel: yes
+14:03 #spi: < zobel> well, that is up to debian anyway.
+14:03 #spi: < bdale> Noodles just lost network connectivity ..
+14:03 #spi: < schultmc> aiui dc12 may use some of that
+14:03 #spi: < Noodles> Sorry, wifi dropped.
+14:03 #spi: < schultmc> regardless it'll be handled at debian's direction
+14:04 #spi: < Noodles> Nothing from me from secretary side.
+14:04 #spi: < bdale> [item 6, Outstanding minutes]
+14:04 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+14:04 #spi: < Noodles> Yes.
+14:04 #spi: < Noodles> Voting started, 8 people (bdale,hydroxide,noodles,ganneff,schultmc,zobel,solver,linuxpoet) allowed to vote on Meeting minutes for June 14th 2012 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+14:04 #spi: < Noodles> !vote yes
+14:04 #spi: < schultmc> !vote yes
+14:04 #spi: < zobel> !vote abstain
+14:04 #spi: < bdale> !vote yes
+14:04 #spi: < Solver> !vote yes
+14:04 #spi: < Ganneff> !vote yes
+14:04 #spi: < Hydroxide> !vote abstain
+14:05 #spi: < linuxpoet> !vote abstain
+14:05 #spi: < Noodles> Current voting results for "Meeting minutes for June 14th 2012 board meeting": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+14:05 #spi: < Noodles> Voting for "Meeting minutes for June 14th 2012 board meeting" closed.
+14:05 #spi: < bdale> thank you
+14:05 #spi: < bdale> [item 7, Items up for discussion]
+14:05 #spi: < bdale> We have no pending resolutions on our agenda today.
+14:05 #spi: < bdale> [item 8, Any other business]
+14:05 #spi: < bdale> In recognition of this being our Annual General Meeting, do any contributing members present have other items for discussion or questions for the board they would like to address briefly?
+14:05 #spi: < bdale> I'm aware of at least two
+14:05 #spi: < bdale> Solver: you want to start?
+14:05 #spi: < Solver> will do thanks
+14:05 #spi: < linuxpoet> I have something as well
+14:05 #spi: < Noodles> Me too.
+14:05 #spi: < bdale> linuxpoet: noted, that makes 3
+14:05 #spi: < bdale> 4
+14:06 #spi: < Solver> I sent an email to spi-general about 6 hours ago proposing a way to resolve the outstanding debian audit 
+14:06 #spi: < Solver> my suggestion is stated in that email
+14:06 #spi: < Solver> did everyone get a chance to read that?
+14:06 #spi: < linuxpoet> Solver: I saw that, it seems that if we want to do a proper audit shouldn't we have a CPA do it?
+14:07 #spi: < Solver> linuxpoet: well this is an internal audit by debian.  we are just suply information for them
+14:07 #spi: < bdale> linuxpoet: Debian is doing an audit, how they choose to do that isn't up to us
+14:07 #spi: < Noodles> I spoke to tbm about it. He would like to see SPI sort itself out re records in the long term, but said if schultmc thinks it would help get Debian's info sorted he will help out for a limited period.
+14:07 #spi: < Hydroxide> linuxpoet: they also have assets at other organizations besides SPI, so it's not something SPI can do solo
+14:07 #spi: < Noodles> He has some issues with typing at present (RSI like I believe) so couldn't start immediately.
+14:07 #spi: < bdale> schultmc: so I guess the question is where are we in the process, and what can others like tbm or the rest of us do to help get this one closed?
+14:08 #spi: < Noodles> Is it a case of paper records needing entered/scanned/found? ie is there grunt work someone can help with?
+14:08 #spi: < schultmc> I just finished up a major roll out at work and thus currently have more available time to work on outstanding tasks
+14:08 #spi: < schultmc> the records should all be electronic, it's just combining them into a useful format for debian's use
+14:09 #spi: < bdale> oh, ok, that sounds like something someone else really could help with, then?
+14:09 #spi: < schultmc> yes - I could provide raw data to whomever wants to assist with collating it
+14:09 #spi: < schultmc> be that tbm or whomever
+14:09 #spi: < Noodles> Is the raw data all Debian specific?
+14:10 #spi: < Noodles> Or does it include other projects?
+14:10 #spi: < schultmc> no, it includes other projects
+14:10 #spi: < Solver> the idea of making someone an assistant treasurer was to cover legalities of access to records, etc
+14:10 #spi: < bdale> Solver: right, makes sense
+14:10 #spi: < schultmc> most of the records are already public
+14:10 #spi: < Noodles> So if we can strip the Debian stuff out then there's no issue with handling tbm a bunch of raw stuff even without assistant treasurer status.
+14:11 #spi: < schultmc> correct
+14:11 #spi: < bdale> and, in fact, relatively raw data that needs collation would probably completely satisfy the current request
+14:11 #spi: < Solver> I figured that granting temporary treasurer status to a debian personis little different to someone from another project (eg, postgresql) having the same status
+14:12 #spi: < bdale> ok, so can we be specific about action items from here forward to close this out?
+14:12 #spi: < Solver> all of us are involved in a subset of the associated projects anyway
+14:12 #spi: < Noodles> Someone needs to split the data out (which sounds like it can be anyone we trust with the raw data) and then hand it to tbm.
+14:12 #spi: < Hydroxide> maybe we can just get an agreement from tbm (probably email confirmation) to keep the non-debian data confidential and to destroy his copy of it after he's done, then securely send him a copy of the relevant data?
+14:12 #spi: < Solver> *temporary assistant treasurer, I meant of course
+14:13 #spi: < Hydroxide> no need for formalities beyond that IMHO
+14:13 #spi: < Noodles> Yes, unless one of the existing board is going to do it tbm is no different than anyone else we'd involve.
+14:13 #spi: < Solver> well I figured we could grant the status to pre-empt any potential problems
+14:13 #spi: < Solver> Noodles: exactly
+14:13 #spi: < Noodles> I think we'd need a resolution for that.
+14:13 #spi: < Solver> indeed if a long time debian contributor offered to act as an assistant tomorrow I doubt we'd turn them down
+14:14 #spi: < Hydroxide> we also don't really define what assistant treasurer means anywhere, or what the obligations are in terms of privacy, etc
+14:14 #spi: < Solver> Hydroxide: yes that should be defined
+14:14 #spi: < Hydroxide> it's simplest to just have bdale as president email tbm, cc'ing the board, asking him to commit to that confidentiality and data destruction request in exchange for getting access to the data
+14:14 #spi: < Hydroxide> and then after he says yes, just send it to him securely
+14:14 #spi: < bdale> ok, so this seems like it would really be easier if someone already on the board can help Michael get the Debian-specific data split out, do no further work on it, and hand the raw data subset for Debian to tbm
+14:14 #spi: < Hydroxide> and no board action needed beyond that
+14:15 #spi: < Hydroxide> or that works too
+14:15 #spi: < Ganneff> how complicated is the format the stuff is in?
+14:15 #spi: < bdale> I'm willing, but time-limited for at least the next 3 weeks
+14:15 #spi: < Ganneff> how much work is it to actually see "its debian" "its whatever"?
+14:15 #spi: < schultmc> Ganneff: text files
+14:15 #spi: < schultmc> mostly
+14:15 #spi: < linuxpoet> grep
+14:15 #spi: < Ganneff> grep?
+14:16 #spi: < bdale> schultmc: if the task definition changes to just extracting the Debian-specific stuff, does that make it something you can just do quickly, or is getting help still plan A?
+14:16 #spi: < Ganneff> schultmc: im willing to take it and go through this weekend.
+14:17 #spi: < bdale> Ganneff: cool .. schultmc, does that work?
+14:17 #spi: < schultmc> yes that works
+14:17 #spi: < bdale> ok, great
+14:17 #spi: < Ganneff> right. mail me the thing and a little desc wth is needed and i do it
+14:17 #spi: < Solver> excellent
+14:18 #spi: < schultmc> Ganneff: will do
+14:18 #spi: < bdale> thanks to you both, let's get this wrapped up ASAP, I'm sure tbm will be happy to work with whatever data format we can give him 
+14:18 #spi: < bdale> ok, zobel, you had an item?
+14:18 #spi: < zobel> I would like to remind that the nomination for this year's SPI board eletion is still open. We have two seats are up for election for a three-year term. Up to now i have 3 nominations. If you want to nominate yourself, read http://lists.spi-inc.org/pipermail/spi-announce/2012/000273.html and send a mail to zobel@spi-inc.org until July 14th, 2012 23:59 UTC.
+14:18 #spi: < zobel> .
+14:18 #spi: < Noodles> Cool, we get a vote.
+14:18 #spi: < bdale> great, thanks, and thank you for helping run the election this year since Noodles is a candidate!
+14:19 #spi: < Ganneff> that reminds me of my question from lasttime
+14:19 #spi: < bdale> Ganneff: ?
+14:19 #spi: < Ganneff> whats up with linuxpoet - and today he is here...
+14:19 #spi: < linuxpoet> Yes I am
+14:19 #spi: < Ganneff> haven been much in the past (was my point last time)
+14:20 #spi: < zobel> bdale: i am done, except there are any questions.
+14:20 #spi: < bdale> zobel: thanks
+14:20 #spi: < linuxpoet> First I wanted to thank Noodles for reaching out. I wasn't missing the meetings on purpose. The last year has been rather difficult personally. So I would miss a meeting by a day or an hour. So anyway, thanks for your patience and I am hoping that things will improve from here on out.
+14:21 #spi: < bdale> linuxpoet: ok, great.  please if you *know* you have a conflict send regrets, it helps us know what's up .. 
+14:21 #spi: < linuxpoet> that's all I have
+14:21 #spi: < bdale> linuxpoet: did you have another item?
+14:21 #spi: < linuxpoet> no I am good
+14:21 #spi: < bdale> linuxpoet: ok, thanks!
+14:21 #spi: < bdale> Noodles: you had an item?
+14:22 #spi: < Noodles> I was going to just mention a couple of things; firstly we've made a little progress on the members site/vote stuff - we have a git repo thanks to Ganneff.
+14:22 #spi: < Ganneff> (nonpublic right now)
+14:22 #spi: < Noodles> Also I started the annual report; mostly cloned from last year with updated info, but it's in the www git and additions/comments welcome - I think with a president's welcome and the yearly treasurer report it's good to go.
+14:23 #spi: < bdale> I'll try to get my piece done today.
+14:23 #spi: < zobel> err.. schultmc did we miss the report for May? 
+14:24 #spi: < schultmc> zobel: it was emailed out - it's not in the agendas on the website
+14:24 #spi: < schultmc> zobel: http://lists.spi-inc.org/pipermail/spi-general/2012-June/003079.html
+14:24 #spi: < zobel> maybe it should be added then.
+14:24 #spi: < Noodles> It just missed the agenda last month.
+14:24 #spi: < Noodles> Hence not being in last months minutes.
+14:25 #spi: < bdale> ok, we should at least reference the posting from the minutes
+14:25 #spi: < bdale> anyone else have items for us today?
+14:25 #spi: < schultmc> I can add it to this month's agenda or reference the posting
+14:25 #spi: < Noodles> Adding it would be nice to have in the same format as others.
+14:25 #spi: < zobel> schultmc: add it to this month's agenda i would say.
+14:25 #spi: < bdale> I agree
+14:26 #spi: < bdale> ok, last call, anything else?
+14:26 #spi: < zobel> did it stop raining in .ni? :)
+14:26 #spi: < bdale> [item 9, Next board meeting]
+14:26 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 9th August 2012, 20:00 UTC.
+14:26 #spi: < bdale> Any strong objections?
+14:26 #spi: < Noodles> WFM (assuming I'm still here).
+14:27 #spi: < Ganneff> should work
+14:27 #spi: < Hydroxide> works for me, probably. I might be traveling, in which case I"ll send regrets.
+14:27 #spi: < zobel> wfm.
+14:27 #spi: < Solver> fine for me
+14:27 #spi: < bdale> ok, great, should be ok for me too
+14:27 #spi: < bdale> Ok, thank you to everyone present for participating today.
+14:27 #spi: < bdale> *GAVEL*
