@@ -150,9 +150,9 @@ members of SPI may not vote. Each voting member shall have exactly one
 vote. Ballots concerning election or removal of officers shall be secret
 ballots.
 
-The quorum for a vote by the membership shall be set at 35% of eligible
-voters. All votes (unless otherwise stated) are approved by a simple
-majority (50%) of voters being in favor of the issue in question.
+There shall be no quorum for a vote by the membership.
+All votes (unless otherwise stated) are approved by a simple
+majority (greater than 50%) of voters being in favor of the issue in question.
 
 At any regular or special meeting if a majority so requires, any question
 may be voted upon in the manner and style deemed appropriate by the
@@ -160,15 +160,9 @@ secretary of the organization or chairman of the meeting.
 
 All votes by the membership shall be cast in the manner specified by the
 Secretary. The default method of voting shall be by cryptographically
-signed email ballots.
+signed email ballots using a cryptographic algorithm and strength considered acceptable for use by the government of the United States of America.
 
-Any proposal submitted to the secretary with N or more number of seconds
-shall be put before the membership for a vote within 30 days. N is defined
-as follows:
-
-	N = sqrt(M)
-
-where M is the number of contributing members of the organization.
+Any written proposal submitted to the secretary that bears the signatures of at least 5% of the number of contributing members of the organisation shall be put to the membership for a vote within 30 days.  Such written proposals may be submitted electronically.
 
 Votes and tallies are not revealed during voting but votes cast are listed
 after the election is over. The ballots for the election of officers shall
