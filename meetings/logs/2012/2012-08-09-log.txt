@@ -1,0 +1,249 @@
+13:00 #spi: < bdale> *GAVEL*
+13:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-08-09/
+13:00 #spi: < bdale> [item 2, Roll Call]
+13:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:00 #spi: < zobel> bdale: i think it is DebConf with capital C :)
+13:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:00 #spi: < Clint> Clint Adams
+13:00 #spi: < Noodles> Jonathan McDowell
+13:00 #spi: < zobel> Martin Zobel-Helas
+13:00 #spi: < bdale> Bdale Garbee
+13:00 #spi: < schultmc1> Michael Schultheiss
+13:00 #spi: < Solver> Robert Brockway
+13:00 #spi: < Ganneff> Joerg Jaspert
+13:00 #spi: < bdale> zobel: ok, we can fix that
+13:00 #spi: < bdale> cool, quorum .. linuxpoet is missing, who else?
+13:01 #spi: < Noodles> Hydroxide.
+13:01 #spi: < schultmc1> Hydroxide
+13:01 #spi: < Hydroxide> Jimmy kaplowitz
+13:01 #spi: < Hydroxide> thanks for the highlight
+13:01 #spi: < bdale> cool
+13:01 #spi: < bdale> let's proceed, hopefully Joshua will join us
+13:01 #spi: < bdale> [item 3, President's Report]
+13:01 #spi: < bdale> We hosted a SPI BOF at DebConf 12 just after last month's meeting, as with all Debconf sessions, video is available if anyone wants to watch it at
+13:01 #spi: < bdale> http://meetings-archive.debian.net/pub/debian-meetings/2012/debconf12/low/847_SPI_BOF.ogv
+13:01 #spi: < bdale> The other real news from me this month is that I'm taking early retirement from HP at the end of August, there are more details at
+13:01 #spi: < bdale> http://www.gag.com/bdale/blog/posts/Early_Retirement.html
+13:01 #spi: < bdale> [item 4, Treasurer's Report]
+13:01 #spi: < bdale> Michael?
+13:02 #spi:  * zobel wishes all the best to bdale in his time after HP.
+13:02 #spi: < schultmc1> standard report is in the agenda - nothing notable
+13:02 #spi: < bdale> ok, thanks .. anyone have questions for Michael?
+13:02 #spi: < bdale> [item 5, Secretary's report]
+13:02 #spi: < bdale> Jonathan?
+13:02 #spi: < Noodles> I have a couple of things.
+13:03 #spi: < Noodles> Firstly I've had contact about being us being nominated for the Chase Community Giving program.
+13:03 #spi: < bdale> that sounds cool at least on the surface
+13:03 #spi: < Noodles> There are a set of conditions (https://www.chase.com/online/Special-Offers/chasegiving_rules.htm) I still need to investigate fully to see if we comply - I think we'd have to come under "education" and I'm not sure if that's a stretch or not.
+13:04 #spi: < bdale> our mission includes education, so that's probably workable .. I can help if you wish
+13:04 #spi: < Noodles> But if we do it sounds like we definitely get something if we sign up before the end of the month and may get something else if we get nominated.
+13:04 #spi: < Noodles> I plan to look properly this weekend; it only came in this week.
+13:04 #spi: < bdale> ok, great, poke me if you need me
+13:04 #spi: < Noodles> The other thing is the annual report. It would be nice to wrap it up and I think the main pieces left are the president's welcome and the yearly financial report.
+13:05 #spi: < bdale>  /o\
+13:05 #spi: < bdale> yeah, see, I told you if I didn't do it right then I'd forget...
+13:05 #spi: < bdale> schultmc: can you get a suitable financial report to Jonathan soonish?
+13:06 #spi: < Noodles> Edit the tex directly in spiwww.git is preferred: corporate/annual-reports/2012.tex
+13:06 #spi: < bdale> ok
+13:06 #spi: < bdale> putting at the top of tomorrow's to-do list
+13:06 #spi: < schultmc> bdale: yes, I plan on getting that done in the next few days
+13:06 #spi: < Noodles> Great.
+13:06 #spi: < bdale> schultmc: thanks .. let's get this done ASAP
+13:06 #spi: < bdale> Noodles: anything else?
+13:06 #spi: < Noodles> Nope, that's it from me.
+13:07 #spi: < bdale> [item 6, Outstanding minutes]
+13:07 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+13:07 #spi: < Noodles> Yup.
+13:07 #spi: < Noodles> Voting started, 8 people (clint,bdale,zobel,noodles,schultmc,solver,ganneff,hydroxide) allowed to vote on Meeting minutes for 12th July 2012 AGM. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:07 #spi: < Clint> !vote abstain
+13:07 #spi: < schultmc> !vote yes
+13:07 #spi: < Noodles> !vote yes
+13:07 #spi: < bdale> !vote yes
+13:07 #spi: < Solver> !vote yes
+13:07 #spi: < zobel> !vote yes
+13:07 #spi: < Hydroxide> !vote yes
+13:07 #spi: < Ganneff> !vote yes
+13:07 #spi: < Noodles> Current voting results for "Meeting minutes for 12th July 2012 AGM": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+13:07 #spi: < Noodles> Voting for "Meeting minutes for 12th July 2012 AGM" closed.
+13:08 #spi: < bdale> [item 7, Items up for discussion]
+13:08 #spi: < bdale> We have no pending resolutions on our agenda today.
+13:08 #spi: < bdale> [item 8, Appointment of board officers]
+13:08 #spi: < bdale> How do we want to do this this year?
+13:08 #spi: < bdale> I suppose we start by acknowledging the election results to the board?
+13:09 #spi: < Noodles> I'd like to thank zobel for handling the election process.
+13:09 #spi: < bdale> indeed!
+13:09 #spi:  * zobel would like to thank glp and Selena for running as well!
+13:09 #spi: < zobel> nP.
+13:10 #spi: < bdale> ok, so what we need to do is "elect" officers for the coming year
+13:10 #spi: < Noodles> Do all the currently officers plan to stand for re-election?
+13:10 #spi: < Noodles> s/currently/current/
+13:10 #spi: < Ganneff> si
+13:10 #spi: < bdale> since all of our current officers remain on the board, the first question is are all interested in and willing to continue?
+13:10 #spi: < schultmc> yes
+13:10 #spi:  * Noodles does.
+13:10 #spi: < bdale> yes for me, too
+13:11 #spi: < bdale> the next question is whether anyone else wants to contest for any of the roles?
+13:11 #spi: < Clint> not I
+13:11 #spi: < Solver> Not me
+13:11 #spi:  * zobel would go in contest for secretary.
+13:11 #spi: < bdale> if so, we can hold votes .. if not, then we can do a single vote to approve the current slate continuing, I think?
+13:11 #spi: < Solver> bdale: sounds reasonable
+13:11 #spi: < bdale> ok, sounds like zobel wants to make this fun.  ;-)
+13:12 #spi: < bdale> any other nominations for any of the posts?
+13:12 #spi: < Noodles> Hydroxide?
+13:12 #spi: < Ganneff> .oO(can i run for P and bdale for VP, just for fun?) :)
+13:12 #spi: < Solver> hahah
+13:12 #spi: < Ganneff> (NO)
+13:12 #spi: < Hydroxide> I dont' have time to run for anything, myself
+13:12 #spi: < Hydroxide> I mean, perform a service
+13:12 #spi: < Noodles> Ganneff: What happens if we elect the same person to both?
+13:12 #spi: < bdale> Ganneff: that means you have to run all the meetings, dude...
+13:12 #spi: < Hydroxide> so, no
+13:13 #spi: < Ganneff> bdale: but maybe i get my own wikipedia page then!! "Dumbass who run for P despite knowing off the meetings". ha.
+13:13 #spi: < Solver> :)
+13:13 #spi: < Ganneff> (umm. err. no, bdales not a dumbass, didnt mean that)
+13:14 #spi: < bdale> ok, in seriousness, it sounds like we have two candidates for secretary and no other contests?
+13:14 #spi: < Noodles> bdale: Sounds like it.
+13:14 #spi: < Solver> so one vote to accept the other three positions with incumbants, and one vote for secretary?
+13:15 #spi: < bdale> Noodles, zobel, seems appropriate that you each say a few words about why you'd like to be sec, then we vote on that, then we vote for the other three
+13:15 #spi: < zobel> uhm..
+13:16 #spi: < Noodles> I like to think I've done a reasonable job of being secretary over the past 2.5 years, making sure the meeting announcements go out and the minutes are up to date.
+13:17 #spi:  * zobel thinks Noodles is doing a perfect job. /me already did work as interim secretary. /me thinks i can do the same.
+13:17 #spi: < Noodles> I can't really say I feel I'm going to do a lot different as part of the secretary role going forward.
+13:17 #spi: < bdale> ok, anything else?
+13:17 #spi: < Hydroxide> one question for each candidate
+13:17 #spi: < Hydroxide> from me
+13:17 #spi: < bdale> Hydroxide: go for it
+13:18 #spi:  * zobel would like to see a bit more role changes withing the officers board.
+13:18 #spi: < Hydroxide> well, two related ones for zobel 
+13:18 #spi: < bdale> Hydroxide: just ask...
+13:18 #spi: < Hydroxide> zobel: are you planning to run for re-election in 2013, and if elected, try to stay on as secretary for another year?
+13:18 #spi: < Hydroxide> Noodles: are you inclined to try to stay on as secretary for another year beyond the current one?
+13:19 #spi: < zobel> i think i am going to be reelected in 2014, but yes.
+13:19 #spi: < Hydroxide> zobel: last elected July 2010, so next year.
+13:19 #spi: < Noodles> I don't feel that the secretary role takes up too much of my time so I have no real reason to step down that I can see.
+13:19 #spi: < zobel> ah, true
+13:19 #spi: < Hydroxide> done with my questinos
+13:19 #spi: < Hydroxide> s/typo/real word/
+13:20 #spi: < bdale> anyone else have questions?  I know and like both candidates and think either would make an excellent secretary for the organization, fwiw.
+13:20 #spi: < Hydroxide> agreed.
+13:20 #spi: < Noodles> I should point out I have no objection to zobel as secretary; he did a fine job before I took over.
+13:20 #spi:  * zobel has no objection with Noodles, i just want to make the election a bit more fun...
+13:21 #spi: < bdale> ok, I think it's time to vote .. how best to do that?  can our vote machinery handle voting for names or something?
+13:21 #spi: < Noodles> zobel: The great bit is the others have to do the deciding. ;)
+13:21 #spi: < Noodles> The vote stuff just does yes/no/abstain.
+13:21 #spi: < bdale> ok
+13:21 #spi:  * zobel is for open voting.
+13:21 #spi: < bdale> then how about we use the same syntax but with 'Noodles' or 'zobel' as target, then count by hand?
+13:22 #spi: < Ganneff> .oO(we get all yes for Noodles, all yes for zobel. back to start)
+13:22 #spi: < Noodles> Ganneff: 3 of each
+13:22 #spi: < bdale> yeah, we'll work it out if we have to
+13:22 #spi: < Hydroxide> I'd say !vote zobel or !vote Noodles
+13:22 #spi: < Hydroxide> so that we can't vote for both, just to decide
+13:22 #spi: < Ganneff> Hydroxide: the vote script doesnt support that.
+13:22 #spi: < bdale> there are 8 here, so 8 votes total, please everyone use '!vote <nick>' at this time .. go!
+13:22 #spi: < Ganneff> but we can run without it.
+13:22 #spi: < Hydroxide> counting by hand, it doesn't matter
+13:23 #spi: < Ganneff> !vote Noodles 
+13:23 #spi: < bdale> !vote Noodles
+13:23 #spi: < Hydroxide> !vote Noodles
+13:23 #spi: < Solver> !vote Noodles
+13:23 #spi: < schultmc> !vote Noodles
+13:23 #spi: < Ganneff> 5 noodles, done deal?!
+13:23 #spi: < bdale> all we need is sauce, and it'd be 'done meal'
+13:23 #spi: < Ganneff> i want rice
+13:24 #spi: < Noodles> Is Clint abstaining?
+13:24 #spi: < Clint> er, sorry
+13:24 #spi: < Solver> well we should record the votes of all board members - so everony should at least abstain imho
+13:24 #spi: < Clint> was distracted
+13:24 #spi: < bdale> in any case, correct, the outcome is no longer in doubt.  thanks to zobel for making it interesting, and congrats to Noodles on the vote of confidence in his continuing role
+13:24 #spi: < bdale> Clint: feel free to vote if you'd like
+13:24 #spi: < Clint> !vote Noodles
+13:25 #spi: < zobel> !vote abstain.
+13:25 #spi: < bdale> Noodles: ?
+13:25 #spi: < Noodles> Thanks for the continuing confidence.
+13:25 #spi: < bdale> Noodles: I meant, do you want to put a vote on the record?
+13:25 #spi: < Noodles> Oh, right. !vote abstain
+13:26 #spi: < bdale> ok, done with that .. now, we need to vote to approve retention of the other 3 officers for another year
+13:26 #spi: < bdale> we can do that with the vote thingy
+13:26 #spi: < bdale> resolved to retain other officers, vote yes to agree
+13:26 #spi: < Noodles> Voting started, 8 people (clint,bdale,zobel,noodles,schultmc,solver,ganneff,hydroxide) allowed to vote on Accept continuation of bdale,Ganneff and schulmc as President, Vice President and Treasurer for the following year. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:26 #spi: < Clint> !vote yes
+13:26 #spi: < Noodles> !vote yes
+13:26 #spi: < bdale> !vote yes
+13:26 #spi: < schultmc> !vote yes
+13:26 #spi: < zobel> !vote yes
+13:26 #spi: < Solver> !vote yes
+13:26 #spi: < Hydroxide> !vote yes
+13:26 #spi: < Ganneff> !vote yes
+13:26 #spi: < schultmc> s/schulmc/schultmc/
+13:26 #spi: < Noodles> Current voting results for "Accept continuation of bdale,Ganneff and schulmc as President, Vice President and Treasurer for the following year": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+13:26 #spi: < Noodles> Voting for "Accept continuation of bdale,Ganneff and schulmc as President, Vice President and Treasurer for the following year" closed.
+13:27 #spi: < schultmc> unless my dopleganger gets to do the work :)
+13:27 #spi: < Noodles> schultmc1.
+13:27 #spi: < Noodles> :P
+13:27 #spi: < bdale> ok, great, thanks to everyone for making that process no more difficult than it was, and the general vote of confidence in the current officers that it represents!
+13:27 #spi: < bdale> [item 9, Any other business]
+13:27 #spi: < bdale> any board members have anything else to bring up?
+13:28 #spi: < zobel> what needs to be done by board for the ADR process now?
+13:28 #spi:  * zobel reads Mishi's mail at least this way.
+13:28 #spi: < bdale> I don't know .. assume Mishi will tell us?
+13:28 #spi: < Solver> yes I'm sure she will tell us the next step
+13:28 #spi: < Hydroxide> it will proably involve coordinating with ffis
+13:28 #spi: < Hydroxide> since they are EU
+13:28 #spi: < Hydroxide> but, yes
+13:29 #spi: < Hydroxide> will follow mishi's lead
+13:29 #spi: < bdale> ok, let's wait to hear more from Mishi .. any other items?
+13:29 #spi: < Noodles> Debian audit stuff?
+13:29 #spi: < Noodles> They were lacking some info?
+13:29 #spi: < Solver> there were discussions informally about extending the board
+13:29 #spi: < bdale> schultmc: did that get closed out?
+13:29 #spi: < Solver> thoughts from board members?
+13:29 #spi: < bdale> Solver: bylaws issue, one of many
+13:29 #spi: < schultmc> bdale: i got them the first batch of data - hope to have the missing data within a week
+13:30 #spi: < bdale> schultmc: ok .. please let us know if there's anything anyone else can do to help get this closed
+13:30 #spi: < bdale> any other items?
+13:30 #spi: < Hydroxide> Solver: board can go up to 12 without a bylaws amendment, but quorum is 2/3 with no rounding down, so increasing makes quorum less attainable
+13:30 #spi: < Solver> quorum seems to be the strongest 'no' arguement imho
+13:30 #spi: < bdale> I agree
+13:30 #spi: < Solver> otoh the set of projects is growing, whichis a 'yes' arguement' to me
+13:31 #spi: < Noodles> We've had problems making quorum in the past year.
+13:31 #spi: < bdale> we chose the current size to optimize for quorum after having trouble meeting it for a while
+13:31 #spi: < Solver> bdale: ah fair enough
+13:31 #spi: < Ganneff> we have most of us attending regularly
+13:31 #spi: < Ganneff> so it should be possible to get that even with more people.
+13:31 #spi: < Ganneff> (yaaah, hope)
+13:31 #spi: < bdale> but, as I say, we really should get around to revisiting the bylaws SOMEDAY ..
+13:31 #spi: < Noodles> I do note that we have a mostly absent representative from PostgreSQL and a potential representative from PostgreSQL with a strong mandate from the voters.
+13:31 #spi: < Hydroxide> I mean, if it would help increase diversity, I could step down before july 2014, which I might do - but I don't think more than 9 is good until we fix the bylaws
+13:32 #spi: < Solver> bdale: work is proceeding slowly on the bylaws (cdlu) I understand.  i want to get back to helping him
+13:32 #spi: < Ganneff> Noodles: question is if the one would be willing to step down, so we could get the other in
+13:32 #spi:  * Hydroxide has lately had the worst attendance and least direct SPI activity among board members participating in today's meeting...
+13:32 #spi: < Hydroxide> Ganneff: that would also help
+13:33 #spi: < zobel> bdale: would you be willint to speak with him about that?
+13:34 #spi: < zobel> willing.
+13:35 #spi: < Noodles> He said he was going to try and make more of an effort so we should give him an opportunity to do so.
+13:35 #spi: < zobel> fair enough.
+13:36 #spi: < Ganneff> first meeting, failed... :)
+13:36 #spi: < bdale> sorry, got called to door
+13:36 #spi: < Clint> how many consecutive months has it been now?
+13:36 #spi: < Ganneff> Clint: he was here once, last meeting iirc.
+13:36 #spi: < Noodles> Clint: He was here for the AGM.
+13:36 #spi: < Clint> oh
+13:36 #spi: < Ganneff> but before that - many.
+13:37 #spi: < bdale> ok .. Noodles, let's talk offline about next steps
+13:37 #spi: < Noodles> Sure.
+13:37 #spi: < bdale> any other items?
+13:37 #spi: < Solver> Nothing from me
+13:37 #spi: < zobel> maybe he could send Selena as proxy?
+13:37 #spi: < bdale> [item 10, Next board meeting]
+13:37 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 13th September 2012, 20:00 UTC.
+13:37 #spi: < bdale> Any strong objections?
+13:37 #spi: < Solver> sounds fine
+13:37 #spi: < Ganneff> works
+13:37 #spi: < schultmc> none here
+13:38 #spi: < Noodles> WFM.
+13:38 #spi: < bdale> should work for me too
+13:38 #spi: < bdale> Ok, thank you to everyone present for participating today.
+13:38 #spi: < bdale> *GAVEL*
