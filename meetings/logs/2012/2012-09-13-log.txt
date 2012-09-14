@@ -1,0 +1,154 @@
+21:03 #spi: < Ganneff> *BANG*
+21:03 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:03 #spi: < Ganneff> Today's agenda and details of pending resolutions can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-09-13/
+21:03 #spi: < Ganneff> [item 2, Roll Call]
+21:03 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:03 #spi: < Ganneff> Noodles: any regrets?
+21:03 #spi: < linuxpoet> Joshua Drake
+21:03 #spi: < Clint> Clint Adams
+21:03 #spi: < Hydroxide> Jimmy Kaplowitz
+21:03 #spi: < zobel> Martin Zobel-Helas
+21:03 #spi: < Ganneff> Joerg Jaspert
+21:03 #spi: < Solver> Robert Brockway
+21:03 #spi: < schultmc> Michael Schultheiss
+21:03 #spi: < Noodles> Jonathan McDowell
+21:03 #spi: < Noodles> No regrets I have seen.
+21:03 #spi: < Ganneff> good
+21:03 #spi: < Noodles> Just missing bdale?
+21:03 #spi: < Ganneff> yep
+21:03 #spi: < Ganneff> (bad him)
+21:03 #spi: < Ganneff> [item 3, President's Report]
+21:03 #spi: < Ganneff> Agenda looks like there is none, and Bdale is out anyways, so next
+21:03 #spi: < Ganneff> [item 4, Treasurer's Report]
+21:03 #spi: < Ganneff> Thats for Michael
+21:04 #spi: < schultmc> standard report is in the agenda and was mailed out
+21:04 #spi:  * Hydroxide was going to propose waiting a bit for bdale, but it's not like we're expecting controversial votes today, so carry on
+21:04 #spi: < Ganneff> Hydroxide: ... he had 3 minutes :)
+21:04 #spi: < Hydroxide> true :)
+21:04 #spi: < schultmc> the mailing originally stated July where it should say August
+21:04 #spi: < schultmc> correction was just e-mailed out
+21:04 #spi:  * bdale is here, sorry
+21:04 #spi: < schultmc> nothing else of note
+21:04 #spi: < bdale> Bdale Garbee
+21:05 #spi: < Ganneff> [item 5, Secretary's report]
+21:05 #spi: < Ganneff> Jonathan?
+21:05 #spi: < Noodles> \o/
+21:05 #spi: < bdale> unexpected phone call
+21:05 #spi: < Noodles> Not a lot from me. I did the appropriate paperwork for the Chase Giving program which I think means we'll definitely see /some/ money.
+21:05 #spi: < bdale> nice
+21:05 #spi: < Solver> Excellent, thanks for that
+21:05 #spi: < Hydroxide> great
+21:05 #spi: < Noodles> As part of that I put our 990s up on the website and a signed W9 about our tax status.
+21:05 #spi: < bdale> Ganneff: thanks for covering, please continue to lead the meeting, but I'm here to vote, etc
+21:06 #spi: < Noodles> I /believe/ Chase customers can vote for us but I don't know the details.
+21:06 #spi: < Ganneff> ok, continue?
+21:06 #spi: < Noodles> Ah, voting finishes on the 19th.
+21:06 #spi: < Noodles> I'm done.
+21:06 #spi: < Ganneff> [item 6, Outstanding minutes]
+21:06 #spi: < Ganneff> Noodles: I think we have one set to vote on?
+21:07 #spi: < Noodles> Yes.
+21:07 #spi: < Noodles> Voting started, 9 people (linuxpoet,clint,hydroxide,zobel,ganneff,solver,schultmc,noodles,bdale) allowed to vote on Meeting minutes for 9th August 2012 Board Meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 #spi: < Hydroxide> !vote yes
+21:07 #spi: < Solver> !vote yes
+21:07 #spi: < Clint> !vote yes
+21:07 #spi: < Noodles> !votes yes
+21:07 #spi: < schultmc> !vote yes
+21:07 #spi: < Ganneff> !vote yes
+21:07 #spi: < bdale> !vote yes
+21:07 #spi: < linuxpoet> !vote yes
+21:07 #spi: < zobel> !vote yes
+21:07 #spi: < Noodles> Current voting results for "Meeting minutes for 9th August 2012 Board Meeting": Yes: 8, No: 0, Abstain: 0, Missing: 1 ( noodles )
+21:07 #spi: < Noodles> Voting for "Meeting minutes for 9th August 2012 Board Meeting" closed.
+21:07 #spi: < Ganneff> good, next then
+21:07 #spi: < Noodles> Damn it. I'll fix that up in the results, I missed my own typo (votes)
+21:08 #spi: < bdale> Noodles: fix your own vote for the minutes, please
+21:08 #spi:  * bdale grins
+21:08 #spi: < Ganneff> [item 7, Items up for discussion]
+21:08 #spi: < Ganneff> 2 Resolutions, Debian Logo and TideSDK
+21:08 #spi: < schultmc> aren't there supposed to be 3 resolutions?
+21:08 #spi: < schultmc> jberkus submitted open bioinformatics iirc
+21:09 #spi: < bdale> the third one didn't make the agenda, apparently
+21:09 #spi: < Noodles> I never saw a formal submission of that. I was uncomfortable adding it without the membership having been copied on it.
+21:09 #spi: < schultmc> k
+21:09 #spi: < Solver> we can follow up with an email vote
+21:09 #spi: < Noodles> If there's urgency, yes.
+21:09 #spi:  * Hydroxide guesses nosuspension is hilmar, from the hostname
+21:09 #spi: < bdale> I'm not aware of any serious timing issues on it, so it can probably be queued up for next month
+21:09 #spi: < Hydroxide> wasn't there a GSOC related timing issue?
+21:09 #spi: < Ganneff> ok. so any discussion on any of the two? or just vote?
+21:09 #spi: < Hydroxide> or am I confusing that with tidesdk?
+21:09 #spi: < Noodles> The Debian one seems straightforward.
+21:10 #spi: < nosuspension> Hydroxide: yes indeed
+21:10 #spi: < bdale> I think we can just vote both
+21:10 #spi: < Noodles> Voting started, 9 people (linuxpoet,clint,hydroxide,zobel,ganneff,solver,schultmc,noodles,bdale) allowed to vote on Resolution 2012-09-09.rtb.1 - Relicensing Debian logos. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:10 #spi: < Noodles> !vote yes
+21:10 #spi: < bdale> the TideSDK one generated some discussion, fairwinds provided responses that answered all questions I'm aware of
+21:10 #spi: < Clint> !vote yes
+21:10 #spi: < linuxpoet> !vote yes
+21:10 #spi: < zobel> !vote yes
+21:10 #spi: < Ganneff> !vote yes
+21:10 #spi: < Solver> !vote yes
+21:10 #spi: < Hydroxide> !vote yes
+21:10 #spi: < schultmc> !vote yes
+21:10 #spi: < bdale> !vote yes
+21:10 #spi: < Noodles> Current voting results for "Resolution 2012-09-09.rtb.1 - Relicensing Debian logos": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+21:10 #spi: < Noodles> Voting for "Resolution 2012-09-09.rtb.1 - Relicensing Debian logos" closed.
+21:10 #spi:  * nosuspension had lots of trouble connecting to the OFTC network
+21:10 #spi: < Noodles> Voting started, 9 people (linuxpoet,clint,hydroxide,zobel,ganneff,solver,schultmc,noodles,bdale) allowed to vote on Resolution 2012-09-13.bg.1 - TideSDK as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:10 #spi: < Ganneff> !vote yes
+21:10 #spi: < linuxpoet> !vote yes
+21:10 #spi: < Solver> !vote yes
+21:10 #spi: < bdale> !vote yes
+21:10 #spi: < Clint> !vote yes
+21:10 #spi: < schultmc> !vote yes
+21:10 #spi: < zobel> !vote yes
+21:10 #spi: < Noodles> !vote yes
+21:11 #spi: < Hydroxide> !vote yes
+21:11 #spi: < Noodles> Current voting results for "Resolution 2012-09-13.bg.1 - TideSDK as associated project": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+21:11 #spi: < Noodles> Voting for "Resolution 2012-09-13.bg.1 - TideSDK as associated project" closed.
+21:11 #spi: < bdale> Noodles: since fairwinds appears to be on channel, feel free to seek acceptance immediately
+21:11 #spi: < Noodles> fairwinds: We'd like to invite TideSDK to become an associated project, as per this vote. Would you like to accept?
+21:12 #spi: < Noodles> I guess we can move on if he's not here.
+21:12 #spi: < fairwinds> yes I do, many thanks for receiving the motion and acting on it so quickly . I am very appreciative on behalf of he project
+21:12 #spi: < bdale> cool
+21:13 #spi: < Noodles> Cool. Can you send me a logo and some project blurb for the website?
+21:13 #spi: < Hydroxide> nosuspension / drycafe: you mostly missed this, but just in case it's relevant: we're deferring a vote on OBF until next month, or sooner via email vote if urgent, because the association resolution hasn't been presented to the membership for their comments. if there are timing issues that require a certain turnaround speed, please let us know.
+21:13 #spi: < fairwinds> absolutely
+21:13 #spi: < Ganneff> so lets go on
+21:13 #spi: < Ganneff> [item 8, AOB]
+21:13 #spi: < Ganneff> Anyone anything?
+21:13 #spi: < Solver> One item
+21:13 #spi: < drycafe> Hydroxide: wasn't it presented earlier, in June?
+21:14 #spi: < Ganneff> Solver: go
+21:14 #spi: < Solver> I understood that we still have to give Debian a little bit of the financial info for the audit (even though most of it has been sent).  I just wanted an update on that
+21:14 #spi: < bdale> will just comment in passing in lieu of a president's report that my early retirement from HP was effective 8/31 ...
+21:14 #spi:  * drycafe (apologizes for the confusing nicknames - still me, Hilmar, but this time identified)
+21:14 #spi: < bdale> drycafe: there's a difference between some discussion and actually presenting a resolution for pre-vote comments
+21:14 #spi: < Ganneff> schultmc: Solvers question is for you
+21:14 #spi: < drycafe> I see
+21:14 #spi: < schultmc> Solver: I still need to finish compiling the data and hope to have it available this weekend
+21:14 #spi: < Solver> and is there anything I can do to help the treasurer, etc
+21:15 #spi: < Hydroxide> drycafe: the resolution jberkus was only emailed to the board, and hasn't been provided to a list that includes the membership yet (spi-private or spi-general, usually plus secretary)
+21:15 #spi: < Solver> schultmc: thanks for the update
+21:15 #spi: < Ganneff> ok, anyone else with an aob?
+21:15 #spi: < zobel> schultmc: is there anything we can help you with?
+21:15 #spi: < schultmc> for future requests, hiring the long talked about bookkeeping firm would greatly speed up these requests
+21:15 #spi: < bdale> drycafe: don't mean to make you the victim(s) of simple procedural issues, but...
+21:15 #spi: < schultmc> zobel: not at this time
+21:15 #spi: < drycafe> bdale & Hydroxide: there is a time issue, in that we're expecting a GSoC payment by the end of Oct
+21:15 #spi: < schultmc> i'll ask for help if I can delegate anything
+21:15 #spi: < zobel> schultmc: okay, thx.
+21:16 #spi: < schultmc> we can accept GSoC payments prior to official acceptance of an associated project
+21:16 #spi: < Noodles> drycafe: We'd vote on October 11th if it waits until the next meeting.
+21:16 #spi: < Hydroxide> drycafe: right, I thought I had remembered something about GSOC. However, if our mid-October meeting is soon enough, that works. also what schultmc said
+21:16 #spi: < bdale> drycafe: I see no potential blockers for offering association, so worst case we could accept the incoming GSoC payment in advance of a vote... but perhaps we can get a vote closed before then anyway
+21:16 #spi: < Ganneff> [item 9, Next board meeting]
+21:16 #spi: < Ganneff> Next board meeting: October 11th, 2012, 20:00 UTC
+21:16 #spi: < bdale> wfm
+21:16 #spi: < Hydroxide> likewise
+21:16 #spi: < Noodles> <aol />
+21:16 #spi: < schultmc> Google pays on Net 30 business days so it's likely they'll be associated by the time the payment is received
+21:16 #spi: < zobel> might wfm
+21:17 #spi: < Ganneff> right, so
+21:17 -!- Ganneff changed the topic of #spi to: http://www.spi-inc.org/ | Next board meeting October 11th, 2012, 20:00 UTC (aka `date -d @1349985600` or `date -r 1349985600`)
+21:17 #spi: < Ganneff> *GAVEL*
