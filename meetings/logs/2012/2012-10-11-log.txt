@@ -1,0 +1,172 @@
+21:00 #spi: < bdale> *GAVEL*
+21:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+21:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-10-11/
+21:00 #spi: < jberkus> Solver: I think that should be optional per board member
+21:00 #spi: < bdale> [item 2, Roll Call]
+21:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 #spi: < bdale> Bdale Garbee
+21:00 #spi: < Solver> Robert Brockway
+21:00 #SPI: < Noodles> Jonathan McDowell
+21:00 #spi: < schultmc> Michael Schultheiss
+21:00 #spi: < Hydroxide> Jimmy Kaplowitz
+21:01 #spi: < linuxpoet> JOshua Drake
+21:01 #SPI: < Noodles> We have tentative regrets from Ganneff.
+21:01 #spi: < Clint> Clint Adams
+21:01 #spi: < zobel> Martin Zobel-Helas
+21:01 #spi: < zobel> sorry for being late.
+21:01 #spi: < bdale> nice, all accounted for!
+21:01 #spi: < bdale> thanks
+21:01 #spi: < bdale> [item 3, President's Report]
+21:01 #spi: < bdale> Nothing of interest to report today.
+21:01 #spi: < bdale> [item 4, Treasurer's Report]
+21:01 #spi: < bdale> Michael?
+21:02 #spi: < schultmc> standard report is in the agenda and was mailed out - nothing of note
+21:02 #spi: < bdale> good .. did I understand we have a federal filing coming due soon?
+21:02 #spi: < schultmc> that was already taken care of - I just need to publish the filing on our website
+21:02 #spi: < bdale> ok, also good
+21:03 #spi: < Solver> Thanks schultmc.  great to hear
+21:03 #spi: < bdale> anything else?
+21:03 #spi: < schultmc> not from me
+21:03 #spi: < bdale> thanks
+21:03 #spi: < bdale> [item 5, Secretary's report]
+21:03 #spi: < bdale> Jonathan?
+21:03 #SPI: < Noodles> Nothing much from me.
+21:03 #SPI: < Noodles> We had our first external website patch submission.
+21:03 #spi: < bdale> very nice
+21:03 #SPI: < Noodles> Thanks to Catalin Patulea for that; just some minor cleanups, but appreciated.
+21:04 #spi: < bdale> always!
+21:04 #spi: < bdale> anything else?
+21:04 #spi: < Hydroxide> wow, I've actually met him. cool.
+21:04 #SPI: < Noodles> No, nothing else at present.
+21:04 #spi: < bdale> [item 6, Outstanding minutes]
+21:04 #spi: < bdale> Jonathan, I believe we have last month's to vote on?
+21:04 #SPI: < Noodles> Yup.
+21:04 #SPI: < Noodles> Voting started, 8 people (bdale,solver,noodles,schultmc,hydroxide,linuxpoet,clint,zobel) allowed to vote on Meeting minutes for 13th September 2012. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:04 #spi: < Clint> !vote yes
+21:05 #spi: < linuxpoet> !vote yes
+21:05 #SPI: < Noodles> !vote yes
+21:05 #spi: < bdale> !vote yes
+21:05 #spi: < schultmc> !vote yes
+21:05 #spi: < Solver> !vote yes
+21:05 #spi: < zobel> !vote yes
+21:05 #SPI: < Noodles> Hydroxide?
+21:05 #spi: < Hydroxide> !vote yes
+21:05 #SPI: < Noodles> Current voting results for "Meeting minutes for 13th September 2012": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:05 #SPI: < Noodles> Voting for "Meeting minutes for 13th September 2012" closed.
+21:05 #spi: < bdale> thanks, all
+21:06 #spi: < bdale> [item 7, Items up for discussion]
+21:06 #spi: < bdale> [item 7.1, Resolution 2012-09-28.jb.1 (Open Bioinformatics Foundation as associated project)
+21:06 #spi: < bdale> Is Hilmar on channel?
+21:06 #spi: < bdale> Hilmar or Josh, do you want to say anything about this before we vote?
+21:06 #spi:  * drycafe Hilmar is here, yes
+21:06 #spi: < bdale> ah, nice
+21:06 #spi: < bdale> I'm sorry, I forgot the nick
+21:06 #spi: < drycafe> I don't have much to say other than that I'm pretty excited about finally being at this point
+21:07 #spi: < bdale> ok.  any questions or comments from the board before we vote?
+21:07 #spi: < bdale> Noodles: nothing heard, let's vote
+21:07 #SPI: < Noodles> Voting started, 8 people (bdale,solver,noodles,schultmc,hydroxide,linuxpoet,clint,zobel) allowed to vote on Resolution 2012-09-28.jb.1 - Open Bioinformatics Foundation as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 #spi: < schultmc> !vote yes
+21:07 #SPI: < Noodles> !vote yes
+21:07 #spi: < linuxpoet> !vote yes
+21:07 #spi: < bdale> !vote yes
+21:07 #spi: < Solver> !vote yes
+21:07 #spi: < Hydroxide> !vote yes
+21:07 #spi: < Clint> !vote yes
+21:08 #spi: < zobel> !vote yes
+21:08 #SPI: < Noodles> Current voting results for "Resolution 2012-09-28.jb.1 - Open Bioinformatics Foundation as associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:08 #SPI: < Noodles> Voting for "Resolution 2012-09-28.jb.1 - Open Bioinformatics Foundation as associated project" closed.
+21:08 #spi: < drycafe> awesome!
+21:08 #spi: < bdale> Noodles: since Hilmar is here, feel free to make the offer now
+21:08 #SPI: < Noodles> drycafe: I'd like to formally invite OBF to become an SPI associated project. Would you like to accept now?
+21:08 #SPI: < Noodles> I think you mentioned putting it to a vote with your members?
+21:09 #spi: < drycafe> as we "spoke" at the last board meeting, we put the matter before our members as a provisional acceptance. 
+21:09 #SPI: < Noodles> No problem.
+21:10 #spi: < drycafe> The vote closed today. Result is 38 to 1 in favor of accepting. So I am entitled to accept right here.
+21:10 #spi: < bdale> nice!  congrats, and welcome.
+21:10 #spi: < drycafe> thanks, and let me say tremendous thanks to jberkus
+21:10 #SPI: < Noodles> Excellent. Can you send me a logo and some blurb for your project page? secretary@spi-inc.org.
+21:10 #spi: < drycafe> Noodles: will do!
+21:11 #spi: < jberkus> drycafe: you're welcome
+21:11 #spi: < bdale> yes, my thanks to jberkus for putting the resolution on this forward 
+21:11 #spi: < bdale> ok, let's move on
+21:11 #spi: < jberkus> drycafe: getting new affiliates is fun
+21:11 #spi: < bdale> [item 8, Any other business]
+21:11 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+21:11 #spi:  * zobel 
+21:11 #spi: < Solver> one item
+21:11 #spi: < bdale> zobel first
+21:12 #spi: < zobel> we saw some action on the board mailing list re response times of treasuer.
+21:12 #spi: < zobel> i wonder what board can do to help here to improove that.
+21:12 #spi: < zobel> one thing i see is we all could help with, if everything is in RT.
+21:12 #spi: < Solver> Let me say at this point that I appreciate how time consuming a job being treasurer is
+21:12 #spi: < jberkus> yes, that would help
+21:12 #spi: < schultmc> having requests in RT would help a lot
+21:13 #spi: < zobel> and as far as i know the Debian auditors are still waiting for more data.
+21:13 #spi: < Solver> yes that would be great
+21:13 #spi: < zobel> so i would like to help, but how...
+21:13 #spi: < schultmc> jberkus is also helping with tasks that I can delegate to him
+21:13 #spi: < jberkus> as assistant treasurer, I'm also willing to do more with the routine expense payments, but i can only do that if they are in RT
+21:13 #SPI: < Noodles> We need to fix up our infrastructure.
+21:13 #spi: < Solver> also could we add additional assistant treasurers?
+21:13 #SPI: < Noodles> Having lists and RT be unreliable is not helping.
+21:13 #spi: < bdale> Noodles: in what way?
+21:13 #spi: < schultmc> we've also talked about hiring a bookkeeping service - that would help with some the data requests from projects
+21:13 #spi: < bdale> oh, this is about the server we've been having issues with
+21:13 #spi: < jberkus> yes.
+21:14 #spi: < Solver> RT email was failing for a while
+21:14 #SPI: < Noodles> bdale: And DNS is broken too.
+21:14 #spi: < jberkus> schultmc: have you talked to bkuhn about adopting his bookkeeping system?
+21:14 #SPI: < Noodles> RT is a DNS issue. lists are a chic issue.
+21:14 #spi: < zobel> Noodles: not sure, but i think Ganneff wants to move some infrastructure to a blade at bytemark.
+21:14 #spi: < schultmc> jberkus: not yet - I'll talk with him about it
+21:15 #spi: < zobel> schultmc: what needs to be done from our side to get the hiring done?
+21:15 #spi: < Solver> schultmc: do you want to put forward a name of one or two local services?
+21:15 #spi: < schultmc> Solver: I can do some research and report back
+21:15 #spi: < Solver> great
+21:15 #spi: < zobel> schultmc: can you do that for the next meeting?
+21:15 #spi: < Solver> I've done a bit of googling but nothing like local knowledge
+21:15 #spi: < schultmc> zobel: yes
+21:16 #spi: < jberkus> schultmc: let me know where I can help on that
+21:16 #spi: < bdale> schultmc: if you'd like help doing the research, and/or just to bounce what you're learing off someone, please feel free to poke me about it.  I'd be happy to help.
+21:16 #spi: < Solver> is there any paper involved in the process?  If not it should be easy for an assistant treasurer to do most/all of each ticket
+21:16 #spi: < zobel> bdale: /me is done for now.
+21:17 #spi: < bdale> zobel: thanks
+21:17 #spi: < bdale> Solver: did you have another issue?
+21:17 #spi: < Solver> yes I just wanted to check in on finalising the Debian audit data
+21:17 #spi: < bdale> ok, that's at least somewhat related.  schultmc, what's the status on that?
+21:18 #spi: < schultmc> i'm still gathering the needed data - hopefully by the end of october I should have everything available
+21:18 #spi: < Solver> what format is most of the data stored in?
+21:19 #spi: < Solver> could raw data be sent to someone else and you get a hand with it?
+21:19 #spi: < zobel> schultmc: is there anything board can help with?
+21:19 #spi: < schultmc> some of it is online at our service providers
+21:19 #spi: < schultmc> yes, the board should be able to help parse the data once i've gathered it all
+21:19 #spi: < zobel> due date?
+21:20 #spi: < schultmc> 2012-10-18 should be a reasonable timeframe to finish gathering the data
+21:21 #spi: < zobel> okay, count me in for parsing the data.
+21:21 #spi: < Solver> and me
+21:22 #spi: < bdale> great.  it would be wonderful if we can bring this to a close quickly, preferably well before the end of the month.  frankly, regardless of "why", we should be embarrassed that it has taken this long to fill this request, I think.  once it's done, I'd like to spend a bit of time reviewing processes with schultmc and Noodles to see if there are things we can improve for the future.
+21:22 #spi: < bdale> anything else?
+21:22 #spi: < Solver> bdale: I fully endorse that comment
+21:22 #spi: < bdale> [item 9, Next board meeting]
+21:22 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 8th November 2012, 20:00 UTC.
+21:22 #spi: < bdale> Any strong objections?
+21:23 #spi: < bdale> should work for me
+21:23 #spi: < Hydroxide> note that this is after the end of summer time in europe
+21:23 #spi: < schultmc> no objections from me
+21:23 #spi: < Hydroxide> and I think after the end of US DST as well
+21:23 #spi: < Hydroxide> so it's an hour different
+21:23 #spi:  * zobel might not be available.
+21:23 #SPI: < Noodles> An hour earlier for most of us. It's fine by me.
+21:23 #spi: < Hydroxide> yes, it is an hour different on both continents
+21:23 #spi: < Solver> earlier or later?
+21:24 #spi: < Hydroxide> in the US and europe, earlier
+21:24 #spi: < Solver> oh for most of you... right
+21:24 #spi: < Hydroxide> if australia isnt' changing time, neither
+21:24 #spi: < Solver> got it :)
+21:24 #spi: < bdale> Solver: if we leave the UTC time alone, is that ok for you?
+21:24 #spi: < Solver> yep np
+21:24 #spi: < Solver> thanks
+21:24 #spi: < bdale> ok, good, then it's settled
+21:24 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:24 #spi: < bdale> *GAVEL*
