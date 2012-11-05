@@ -1,0 +1,382 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxpoet)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Josh Berkus (jberkus)
+* David Graham (cdlu)
+* Hilmar Lapp (drycafe)
+* Kåre Thor Olsen (Kaare)
+
+
+These are the minutes for the October 11th, 2012 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2012/2012-10-11-log.txt).
+
+
+## President's Report
+
+Bdale had nothing to report.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period September 01, 2012 - September 30, 2012
+
+ Income
+   Ordinary Income
+        Arch Linux                         409.09
+        Debian                           9,112.39
+        FFmpeg                              18.00
+        Gallery                            110.00
+        LibreOffice                     20,340.00
+        OpenWrt                             10.00
+        PostgreSQL                         530.00
+        SPI General                        149.55
+        SPI 5%                              88.75
+        The HeliOS Project                  25.00
+        Yafaray                          2,500.00
+
+        Total Ordinary Income           35,074.78
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           0.59
+        Chase BusinessClassic Checking       0.18
+        Chase Bus Select High Yield Savings 29.45
+
+        Total Interest Income               30.22
+                                            -----
+
+   Gross Income                         35,105.00
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Arch Linux
+          Processing Fees            19.86
+          SPI 5%                     20.45
+
+          Total Arch Linux Exp       40.32
+                                     -----
+
+        Debian
+          Debit Card Fee              3.00
+          JP Trademark Fee          494.48
+          Postage                    29.25
+          Processing Fees            15.50
+          SPI 5%                     15.05
+          Travel Reimbursement
+            (GSoC)                1,018.86
+
+          Total Debian Exp        1,576.09
+                                  --------
+
+        FFmpeg
+          Processing Fees             1.77
+          SPI 5%                      0.90
+
+          Total FFmpeg Exp            2.67
+                                      ----
+
+        Gallery
+          Processing Fees             3.18
+          SPI 5%                      5.50
+
+          Total Gallery Exp           8.68
+                                      ----
+
+        Haskell
+          Hosting Fees               55.03
+
+          Total Haskell Exp          55.03
+                                     -----
+
+        Jenkins
+          Shirts/Stickers           620.23
+
+          Total Jenkins Exp         620.23
+                                    ------
+
+
+        LibreOffice 
+          Processing Fees            14.00
+          SPI 5%                     17.00
+          Travel Reimbursement    2,600.76
+
+          Total LibreOffice Exp   2,631.76
+                                  --------
+
+        OpenWrt
+          Processing Fees             0.75
+          SPI 5%                      0.50
+
+          Total OpenWrt Exp           1.25
+                                      ----
+
+
+        PostgreSQL
+          Processing Fees            12.98
+          SPI 5%                     26.50
+
+          Total PostgreSQL Exp       39.48
+                                     -----
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Registered Agent Fees     371.00
+          Transaction Fees           16.99
+
+          Total SPI Exp             417.94
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     335.70
+          Processing Fees             1.35
+          SPI 5%                      1.25
+
+          Total HeliOS Exp          338.30
+                                    ------
+
+       Yafaray
+         Processing Fees            100.35
+
+         Total Yafaray              100.35
+                                    ------
+
+        Total Expenses            5,832.10
+                                  --------
+
+        Net Income               29,272.90
+                                 =========
+
+
+Balance Sheet as of September 30, 2012
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      24,760.46
+        Chase Business Select High Yield Savings         153,796.24
+        Key Business Reward Checking                      77,761.39
+        Key Business Signature Money Market Savings       36,029.57
+        Key Express Checking                               5,035.76
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    293.00
+
+     Total Current Assets                                311,082.57
+
+
+   TOTAL ASSETS                                          311,082.57
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                      100.33
+           Arch Linux Earmark                 5,097.39
+           Debian Earmark                    70,395.46
+           DebConf 12 Earmark                25,715.15
+           Drizzle                            1,367.30
+           FFmpeg                                57.31
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           21,242.61
+           FreedomBox Foundation Earmark     20,114.44
+           Gallery Earmark                    7,958.56
+           GNU TeXmacs Earmark                  162.90
+           Haskell Earmark                   12,630.67
+           Jenkins Earmark                    7,383.82
+           LibreOffice Earmark               21,711.50
+           madwifi-project.org Earmark        1,494.90
+           OpenVAS                               45.71
+           OpenWrt                              840.09
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                26,578.09
+           Privoxy Earmark                      572.50
+           The HeliOS Project                   411.05
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Code Sprint Earmark          769.14
+           YafaRay Earmark                    4,835.01
+
+        Total held in trust                              273,571.71
+
+        General reserves                                  37,510.86
+
+     Total Equity                                        311,082.57
+
+   TOTAL LIABILITIES & EQUITY                            311,082.57
+</pre>
+
+There was a query about whether our federal filing was due and Michael
+confirmed it had been filed but not yet placed on the website.
+
+
+## Secretary's report
+
+Jonathan reported our first external website patch submission; just
+some minor cleanups, but appreciated.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 13th September 2012:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 missing.
+
+
+## Resolution 2012-09-28.jb.1: Open Bioinformatics Foundation as associated project
+
+Vote on 2012-09-13.bg.1: Open Bioinformatics Foundation as associated project
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 missing.
+
+Hilmar Lapp from the Open Bioinformatics Foundation was on channel and accepted
+SPI's invitation to become an associated project on behalf of the Open
+Bioinformatics Foundation.
+
+
+## Any other business
+
+There was a desire to help lighten the workload of the treasurer. A
+suggestion was made that if all requests went through RT then other
+board members could help out. Josh Berkus, already acting as assistant
+treasurer, indicated he would be prepared to take on more if it was in
+RT would he could see it. The topic of a professional bookkeeping
+service to help out with routine processing of data was also brought up
+again.
+
+This also lead to discussion about the outstanding request from
+Debian for some audit related data. It was indicated this should be
+completed by the end of October. Bdale stated that no matter what the
+underlying reason we should be doing better and should review our
+processes to see how we can approve.
+
+Finally the topic of our infrastructure being unreliable was brought up;
+both lists and RT have had reliability issues which has not helped with
+improving our communication and moving treasurer related tasks into RT.
+It was suggested there were already some plans to move things around to
+be more reliable.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, November 8th, 2012 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+(There was some discussion about this being after the end of summer time
+for Europe/the US and so would be an hour earlier for those located there,
+but it was decided to leave the time alone for the moment.)
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+## Appendix B: Resolutions
+
+### Resolution 2012-09-28.jb.1: Open Bioinformatics Foundation as associated project
+
+<pre>
+WHEREAS
+
+1. Open Bioinformatics Foundation (hereafter OBF) is a substantial and
+   significant Free Software project.
+
+2. OBF developers would like SPI's support and assistance, including
+   taking donations, and holding trademarks and domain names.
+
+THE SPI BOARD RESOLVES THAT
+
+3. OBF is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI Resolution
+   1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be found
+   at http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. The president of the OBF is recognized by SPI as the SPI liaison for
+   OBF.  At the time of this resolution, that president is Hilmar Lapp.
+   This president is elected according to the bylaws at:
+   http://www.open-bio.org/wiki/File:OBF-Bylaws.pdf
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
+
+
+[[!meta copyright="Copyright © 2012 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
