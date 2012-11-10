@@ -1,0 +1,183 @@
+20:08 #SPI: < Noodles> *GAVEL*
+20:08 #SPI: < Noodles> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+20:08 #SPI: < Noodles> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2012/2012-11-08/
+20:08 #SPI: < Noodles> [item 2, Roll Call]
+20:08 #spi: < schultmc> Michael Schultheiss
+20:08 #spi: < Hydroxide> Jimmy Kaplowitz
+20:08 #SPI: < Noodles> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:08 #spi: < Solver> Robert Brockway
+20:08 #SPI: < Noodles> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+20:08 #SPI: < Noodles> Jonathan McDowell
+20:08 #spi: < zobel> Martin Zobel-Helas
+20:09 #SPI: < Noodles> Clint?
+20:09 #spi: < zobel> 11/08/12 [21:02:50] < Clint> i'm here but a little distracted
+20:09 #spi: < Clint> Clint Adams
+20:10 #SPI: < Noodles> I've seen regrets from bdale, nothing from Ganneff or linuxpoet.
+20:10 #SPI: < Noodles> But that's quorum so let's proceed.
+20:10 #SPI: < Noodles> [item 3, President's Report]
+20:10 #SPI: < Noodles> No bdale, so nothing here.
+20:10 #SPI: < Noodles> [item 4, Treasurer's Report]
+20:10 #SPI: < Noodles> Michael?
+20:11 #spi: < schultmc> Standard report is in the agenda.  I do want to publically thank Google for their generous donation of USD 10,000 to the SPI General fund.
+20:11 #spi: < zobel> wow!
+20:11 #spi: < jberkus> wow, what inspired that?
+20:11 #spi: < schultmc> I also got the raw data for the Debian audit to zobel and Solver
+20:11 #spi: < Solver> Yes that was fantastic, and I think completely unexpected
+20:12 #SPI: < Noodles> Yes, it was a nice surprise.
+20:12 #spi: < Solver> schultmc: thanks very much for that, and thanks to zobel for working through the data
+20:12 #SPI: < Noodles> Moving on if there are no further questions/comments...
+20:12 #SPI: < Noodles> [item 5, Secretary's report]
+20:12 #spi: < Hydroxide> jberkus: I have no inside info on that despite working for Google, but based on the email the board received, they wanted to recognize and support what we do. It was unsolicited
+20:12 #spi: < zobel> i still need to move them from paper&pencil back to my PC, but 2010/01-2010/06 done 
+20:13 #spi: < Hydroxide> schultmc: I do have a question about the treasurer's report, but it doesn't need to delay the meeting necessarily
+20:13 #spi: < Ganneff> oh sod it.
+20:13 #spi: < Ganneff> sorry, im here now
+20:13 #spi: < zobel> Ganneff: got my SMS?
+20:13 #SPI: < Noodles> Hydroxide: Do you want to go ahead?
+20:14 #spi: < Hydroxide> Noodles: briefly, but if it's long, we can abort the q and proceed
+20:14 #spi: < Ganneff> zobel: yeah, but delayed.
+20:15 #spi: < Hydroxide> schultmc: I didn't see any email about a $10k+ deposit to the account, but I also don't see any "money to be received from C&P/PaySimple" asset account. how are we accounting for such things in terms of the balance sheet?
+20:15 #spi: < schultmc> C&P and PaySimple do direct deposits to our accounts shortly after the donations are made
+20:16 #spi: < schultmc> there's no longer the delay of waiting for a paper check
+20:16 #spi: < Hydroxide> ok, good to know. as long as the money is in one of the asset accounts that are listed as of the balance sheet date, I'm fine. thanks for the answer!
+20:16 #spi: < schultmc> np
+20:16 #spi: < zobel> schultmc: and my q: i think Solver pushed all data you send us to git. can you do so in future as well, with the new monthly balance sheets from Chase and & Key?
+20:17 #spi: < schultmc> zobel: sure
+20:17 #spi: < zobel> great.
+20:17 #spi: < Solver> I used the board-private repo
+20:17 #spi: < schultmc> ok
+20:17 #SPI: < Noodles> Ok, done?
+20:17 #spi: < schultmc> yes
+20:17 #SPI: < Noodles> [item 5, Secretary's report]
+20:17 #SPI: < Noodles> Nothing in particular from me. I had confirmation that we'd be receiving $335.30 from the Chase Giving program at some point.
+20:18 #SPI: < Noodles> [item 6, Outstanding minutes]
+20:18 #SPI: < Noodles> We've one set to vote on, from last month.
+20:18 #SPI: < Noodles> Voting started, 7 people (schultmc,zobel,hydroxide,clint,noodles,solver,ganneff) allowed to vote on Meeting minutes for Thursday, 11th October 2012. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:18 #spi: < Clint> !vote yes
+20:18 #SPI: < Noodles> !vote yes
+20:18 #spi: < Solver> !vote yes
+20:18 #spi: < Hydroxide> !vote yes
+20:18 #spi: < schultmc> !vote yes
+20:18 #spi: < zobel> !vote yes
+20:18 #spi: < Ganneff> !vote abstain
+20:18 #SPI: < Noodles> Current voting results for "Meeting minutes for Thursday, 11th October 2012": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:18 #SPI: < Noodles> Voting for "Meeting minutes for Thursday, 11th October 2012" closed.
+20:18 #spi: < zobel> now that schultmc fixed the sums :)
+20:19 #SPI: < Noodles> [item 7, Items up for discussion]
+20:19 #SPI: < Noodles> Nothing on the agenda this month here.
+20:19 #spi: < Solver> zobel: :)
+20:19 #SPI: < Noodles> [item 8, Any other business]
+20:19 #SPI: < Noodles> Anyone have anything else they'd like to bring up?
+20:19 #spi: < Solver> one quick item
+20:19 #SPI: < Noodles> Go for it.
+20:19 #spi: < zobel> any progress with the bookkeeping service?
+20:19 #spi: < Solver> schultmc: do you have any local recommendations?
+20:20 #spi: < schultmc> I need to call the service Solver found - it looks like they'd work well
+20:20 #spi: < jberkus> we're looking for a bookkeeper in Indiana?
+20:20 #spi: < schultmc> I don't have any local recommendations
+20:20 #spi: < zobel> schultmc is doing a perfect job, btw.
+20:20 #spi: < Solver> I asked on the foundations list for recommendations/suggestions.  It was suggested to me to get an NYS based service as SPI is registered there
+20:20 #spi: < zobel> as already said before the meeting....
+20:20 #spi: < Hydroxide> I don't think the state of incorporation matters too much
+20:21 #spi: < Hydroxide> for this purpose I mean
+20:21 #spi: < Hydroxide> ease of coordination matters more.
+20:21 #spi: < Clint> unless they're doing tax filings
+20:21 #spi: < jberkus> well, our tax accountant needs to be in NY
+20:21 #spi: < Solver> ah ok
+20:22 #spi: < Hydroxide> Clint, jberkus: the only filing with much substance to it is the IRS Form 990. We do need to file a NY form, but the NY-specific bits aren't too hard
+20:22 #spi: < jberkus> as I asked before, we were working with a firm in NYC which was doing tax accounting for us.  they also offered bookkeping services.  what happend to them?
+20:22 #spi: < Hydroxide> still, if we use someone else for day-to-day-stuff and someone in NY for the NY filings, sure
+20:22 #spi: < jberkus> schultmc: do you have a rough estimate on our annual income for SPI general fund?
+20:23 #spi: < schultmc> roughly 5k
+20:23 #spi: < Hydroxide> I guess it's possible there might be some NY-specific legal nuance in terms of how to determine whether we pass certain income/asset thresholds
+20:23 #spi: < jberkus> schultmc: really?  seems like I've been seeing a lot more "undesignated" gifts lately
+20:23 #spi: < Hydroxide> since they care about NY-source numbers for that
+20:23 #spi: < Hydroxide> schultmc: well, presumably aside from the $10k that just happened :)
+20:24 #spi: < schultmc> jberkus: that was a very rough estimate - i'd have to check for more accurate numbers
+20:24 #spi: < Solver> schultmc: what do you think about using the NY based firm that is used for filing, or is local better?
+20:24 #spi: < jberkus> ok, if it's only $5K we can't hire an admin
+20:24 #spi: < zobel> beside the 10k, the 5k roughly  matche what i saw during my two night shifts walking through the data.
+20:24 #spi: < jberkus> ok
+20:25 #spi: < Hydroxide> jberkus: if we want to hire an admin, we probably could seek and obtain additional funds, with specific fundraising
+20:25 #spi: < jberkus> I'd have recommendations if we could use a California company, but I don't think that helps
+20:25 #spi: < Hydroxide> jberkus: we've never tried to fundraise for SPI itself, so I'm sure we could afford part-time help if we go that route
+20:26 #spi: < jberkus> yeah, we're better off with a contract company than a part-time employee
+20:26 #spi: < Solver> that was the concensus
+20:26 #spi: < jberkus> so, let me put an offer on the table.  I'm not sure it's the best approach, but I want the board to be aware that it exists
+20:27 #spi: < jberkus> our company in SF has an office staff who does bookkeeping and paperwork for the 4 corporations our group runs
+20:28 #spi: < jberkus> we could do SPI's check processing and bookkeeping for fairly reasonable, discounted-for-nonprofit rattes
+20:28 #spi: < zobel> jberkus: what would that roughly mean?
+20:28 #spi: < zobel> in terms of money...
+20:28 #spi: < jberkus> I'd have to get an estimate
+20:29 #spi: < jberkus> it would be low, though.  SPI doesn't actually have much paperwork
+20:29 #spi: < Hydroxide> I'd be quite open to that if we follow good practices in approving and overseeing that to avoid conflict-of-interest concerns, such as getting the understanding in writing to avoid differing impressions and having disinterested knowledgeable board members (bdale?) agree the rates are fair.
+20:29 #spi: < jberkus> the Board would also have to discuss conflict-of-interest issues, and rearranging treasurer permissions to avoid malfeasance
+20:29 #spi: < Hydroxide> yup, what jberkus said
+20:30 #spi: < jberkus> but the idea would be to take away the routine data entry work from schultmc 
+20:30 #SPI: < Noodles> Still seems worth talking to the service Solver found?
+20:30 #spi: < jberkus> and have him only approve stuff
+20:30 #spi: < jberkus> Noodles: yes, please.  let's get some competitive bids
+20:30 #spi: < schultmc> Noodles: i think it would be good to get an estimate from them
+20:31 #SPI: < Noodles> Ok. Sounds like we're making a little bit of progress which is good to see.
+20:31 #SPI: < Noodles> Did anyone have anything else they wanted to bring up?
+20:31 #spi: < Solver> one item
+20:32 #spi: < zobel> i played around with an open source software called tryton, which looked quite promising. if we could import our data into that, i am sure we could do most of our bookkeeping ourself.
+20:32 #SPI: < Noodles> zobel, stop hijacking Solver
+20:32 #SPI: < Noodles> :P
+20:32 #spi: < Solver> DPL asked about whether RT was the official place to send reimbursement requests
+20:32 #spi: < Solver> :)
+20:32 #spi: < zobel> sorry.
+20:32 #spi: < Solver> can we get some concensus.  is it official?
+20:32 #spi: < Ganneff> Solver: IMO it should be
+20:32 #SPI: < Noodles> I think everyone had said using RT was helpful to the treasurer?
+20:32 #spi: < Solver> I agree that it should be
+20:32 #spi: < jberkus> zobel: oh, cool!  this is one I handn't heard of before
+20:33 #spi: < jberkus> Noodles: yes
+20:33 #spi: < Clint> it's a fork of openerp
+20:33 #spi: < Solver> so does anyone object if the answer is "Yes, send them to RT" ?
+20:33 #spi: < Ganneff> the maintainers in debian are entirely broken, though...
+20:33 #spi: < zobel> Ganneff: ack.
+20:33 #SPI: < Noodles> Solver: It sounds like that's what our answer should be.
+20:33 #spi: < Hydroxide> we don't have to use the debian package just because most of us have debian associations :)
+20:33 #spi: < zobel> better, the maintainer
+20:33 #spi: < Solver> great thanks.  that's it from me
+20:33 #spi: < jberkus> yes, please
+20:33 #spi: < zobel> are there more than one?
+20:34 #spi: < Ganneff> Hydroxide: we have debian servers... but yes, we can test it, if treasruer wants it
+20:34 #spi: < Clint> fwiw, i used to use tryton and in retrospect should have used ledger instead
+20:34 #spi: < jberkus> zobel: the lead developer for LedgerSMB, a different ERP package, is willing to help us adapt the software to SPI needs
+20:35 #spi: < Solver> my company used ledgersmb.  I love it
+20:35 #spi: < Hydroxide> Ganneff: never a requirement to use OS-vendor packages if there's a reason to do otherwise. it's always nice of course from perspectives like ours
+20:35 #spi: < Ganneff> Hydroxide: "the more comes out of packages, the more happy our admins are".
+20:35 #spi: < Hydroxide> I agree on that point :)
+20:36 #spi: < Solver> so all reimbursement requests must be individually authorised by schultmc right?
+20:36 #spi: < zobel> schultmc: what are you using for the accounting currently?
+20:36 #spi: < Ganneff> Solver: or whichever future treasurer we have
+20:36 #spi: < Solver> if so, could we allow assistant treasurers to authorise receipts up to some limit?
+20:36 #spi: < Solver> the larger ones would still fall to the treasurer
+20:36 #spi: < Ganneff> eww
+20:37 #spi: < zobel> Solver: i THINK our bylaws forbid that.
+20:37 #spi: < Solver> oh ok
+20:37 #spi: < jberkus> actually, no.  AFAIK, I can handle anything as long as I'm doing it under schultmc's direction
+20:37 #spi: < jberkus> however, I have to run.  we can discuss this later
+20:37 #spi: < schultmc> zobel: spreadsheets mostly
+20:37 #spi: < Hydroxide> yeah, our bylaws don't restrict our flexibility in this regard as much as they do in some
+20:38 #spi: < Hydroxide> we can do various kinds of delegations of authority
+20:38 #spi:  * Solver recommends LedgerSMB, never treid Tryton
+20:38 #spi: < Hydroxide> but, outside the scope of this meeting.
+20:38 #SPI: < Noodles> Yes, we can discuss this offline I think.
+20:38 #spi: < Solver> np
+20:38 #spi: < Ganneff> we HAD a *ldegder* (whichever) install at one point
+20:39 #SPI: < Noodles> Anything else other than bookeeping to discuss?
+20:39 #spi:  * zobel is done
+20:39 #SPI: < Noodles> [item 9, Next board meeting]
+20:39 #SPI: < Noodles> Our next regularly-scheduled monthly meeting would be 13th December 2012, 20:00 UTC
+20:40 #spi: < zobel> wfm
+20:40 #spi: < Clint> should work
+20:40 #spi: < Hydroxide> will be at a conference - tentative regrets here
+20:40 #spi: < Hydroxide> but depending on things I might show up
+20:40 #spi: < Hydroxide> most times that week are similar, so don't move it on my account
+20:40 #SPI: < Noodles> Ok, let's keep with that earlier time then if it's not causing problems.
+20:41 #SPI: < Noodles> Thank you to everyone present for participating today.
+20:41 #spi: < Solver> yep np
+20:41 #SPI: < Noodles> *GAVEL*
