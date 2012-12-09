@@ -1,0 +1,323 @@
+__Board members present__
+
+* Michael Schultheiss (schultmc) (Treasurer)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Bdale Garbee (bdale) (President)
+
+
+__Board members absent__
+
+* Joshua D. Drake (linuxpoet)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Josh Berkus (jberkus)
+* Gregers Petersen (glp)
+
+
+These are the minutes for the November 8th, 2012 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2012/2012-11-08-log.txt).
+
+
+## President's Report
+
+Bdale was not present and there was therefore no president's report.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period October 01, 2012 - October 31, 2012
+
+ Income
+   Ordinary Income
+        Arch Linux                       1,360.00
+        Debian                           3,007.00
+        FFmpeg                             160.00
+        freedesktop.org                    105.00
+        Gallery                              5.00
+        LibreOffice                      1,300.60
+        OpenWrt                            192.00
+        PostgreSQL                          20.00
+        SPI General                     10,114.55
+        SPI 5%                             305.23
+        The HeliOS Project                  55.00
+
+        Total Ordinary Income           16,624.38
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           0.61
+        Chase BusinessClassic Checking       0.29
+        Chase Bus Select High Yield Savings 34.71
+
+        Total Interest Income               35.61
+                                            -----
+
+   Gross Income                         16,659.99
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Arch Linux
+          Processing Fees            62.10
+          SPI 5%                     68.00
+
+          Total Arch Linux Exp      130.10
+                                    ------
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees           124.88
+          SPI 5%                    145.35
+
+          Total Debian Exp          273.23
+                                    ------
+
+        Drizzle
+          Trademark registration    275.00
+
+          Total Drizzle Exp         275.00
+                                    ------
+
+        FFmpeg
+          Processing Fees             7.80
+          SPI 5%                      8.00
+
+          Total FFmpeg Exp           15.80
+                                     -----
+
+        freedesktop.org
+          Processing Fees             4.90
+          SPI 5%                      5.25
+
+          Total fd.o Exp             10.15
+                                     -----
+
+        Gallery
+          Processing Fees             0.46
+          SPI 5%                      0.25
+
+          Total Gallery Exp           0.71
+                                      ----
+
+        Haskell
+          Hosting Fees               54.19
+
+          Total Haskell Exp          54.19
+                                     -----
+
+        LibreOffice
+          Processing Fees            53.42
+          SPI 5%                     65.03
+
+          Total LibreOffice Exp     118.45
+                                    ------
+
+        OpenWrt
+          Processing Fees             8.30
+          SPI 5%                      9.60
+
+          Total OpenWrt Exp          17.90
+                                     -----
+
+        PostgreSQL
+          Processing Fees             1.33
+          SPI 5%                      1.00
+          Travel Reimbursement    2,919.00
+
+          Total PostgreSQL Exp    2,921.33
+                                  --------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees          402.30
+
+          Total SPI Exp             432.25
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     179.17
+          Processing Fees             3.25
+          SPI 5%                      2.75
+
+          Total HeliOS Exp          185.17
+                                    ------
+
+       Yafaray
+         Travel Fees                 13.99
+
+         Total Yafaray               13.99
+                                     -----
+
+        Total Expenses            4,448.27
+                                  --------
+
+        Net Income               12,211.72
+                                 =========
+
+
+Balance Sheet as of October 31, 2012
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      39,683.38
+        Chase Business Select High Yield Savings         153,830.95
+        KeyBank Basic Business Checking                    2,000.00
+        Key Business Reward Checking                      72,551.70
+        Key Business Signature Money Market Savings       36,030.18
+        Key Express Checking                               5,030.76
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    290.00
+
+     Total Current Assets                                322,823.12
+
+
+   TOTAL ASSETS                                          322,823.12
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                      100.33
+           Arch Linux Earmark                 6,696.06
+           Debian Earmark                    80,665.62
+           DebConf 12 Earmark                25,715.15
+           Drizzle                            1,092.30
+           FFmpeg                               216.84
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           21,337.46
+           FreedomBox Foundation Earmark     20,114.44
+           Gallery Earmark                    8,064.17
+           GNU TeXmacs Earmark                  162.90
+           Haskell Earmark                   12,521.45
+           Jenkins Earmark                    6,763.59
+           LibreOffice Earmark               40,601.89
+           madwifi-project.org Earmark        1,494.90
+           OpenVAS                               45.71
+           OpenWrt                            1,022.94
+           Open Voting Foundation Earmark       153.65
+           OSUNIX                                 0.56
+           Path64                                 9.31
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                24,177.28
+           Privoxy Earmark                      572.50
+           The HeliOS Project                   (32.42)
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Code Sprint Earmark          769.14
+           YafaRay Earmark                    7,220.67
+
+        Total held in trust                              275,770.29
+
+        General reserves                                  47,052.83
+
+     Total Equity                                        322,823.12
+
+   TOTAL LIABILITIES & EQUITY                            322,823.12
+</pre>
+
+Michael expressed a wish to publicly thank Google for their generous
+donation of $10,000 to the general SPI fund. Jimmy queried how we were
+currently accounting for payments fro Click&Pledge and PaySimple.
+Michael indicated that we were getting direct deposits from these
+payment provides nowadays, and that there was no longer a long delay
+due to a need to receive and process a paper check.
+
+
+## Secretary's report
+
+Jonathan reported that he'd had confirmation we'd be receiving $335.30
+from the Chase Giving program at some point.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 11th October 2012:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 1 abstain, 0 missing.
+
+
+## Any other business
+
+There was further discussion about obtaining the use of a bookkeeping
+service to help lighten the workload of the treasurer. It was suggested
+a New York based service may make sense as we are incorporated there,
+but Michael stated that the amount of NY specific work was minimal. Josh
+Berkus offered to contact the bookkeeper that PostgreSQL Experts use and
+see if they had the resources to help us out and how much that would
+cost.
+
+Robert asked for confirmation that requests to the treasurer for
+reimbursement should be sent to the RT alias. It was agreed that this
+was the appropriate place.
+
+Some discussion took place about accounting software. Currently Michael
+is mainly using spreadsheets. Josh indicated that the lead developer for
+LedgerSMB had expressed a willingness to help adapt it to SPI's needs.
+Martin suggested the use of Tryton.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, December 13th, 2012 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2012 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
