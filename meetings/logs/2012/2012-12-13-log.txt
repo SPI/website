@@ -1,0 +1,183 @@
+20:01 #spi: < bdale> *GAVEL*
+20:01 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of di
+20:01 #spi: < bdale> rector's meeting, which is now called to order.
+20:01 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agend
+20:01 #spi: < bdale> as/2012/2012-12-13/
+20:01 #spi: < Hydroxide> Noodles: cool. possibly last month's minutes too, or no?
+20:01 #spi: < Hydroxide> schultmc: and maybe treas' report somewhere else?
+20:01 #spi: < bdale> [item 2, Roll Call]
+20:01 #spi: < bdale> Board members, please state your name for the record.  As we have nine board mem
+20:01 #spi: < bdale> bers, quorum for today's meeting is six.
+20:01 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish
+20:01 #spi: < bdale>  your attendance to be recorded in the minutes of this meeting.
+20:01 #spi: < Hydroxide> Jimmy Kaplowitz
+20:01 #spi: < bdale> Bdale Garbee
+20:01 #spi: < Noodles> Hydroxide: I can't see the site now. I happened to still have that in a tab.
+20:01 #spi: < Solver> Robert Brockway
+20:01 #spi: < Noodles> Jonathan McDowell
+20:01 #spi: < schultmc> Michael Schultheiss
+20:02 #spi: < zobel> Martin Zobel-Helas
+20:02 #spi: < schultmc> Hydroxide: yeah, I can put it somewhere
+20:02 #spi: < bdale> the treasurer's report was in email
+20:02 #spi: < Ganneff> Joerg Jaspert
+20:02 #spi: < bdale> we can defer approval of last month's minutes until next month
+20:02 #spi: < Hydroxide> ok
+20:02 #spi: < Hydroxide> schultmc: thanks
+20:02 #spi: < zobel> website works again for me
+20:02 #spi: < Clint> Clint Adams
+20:03 #spi: < Ganneff> http://www.spi-inc.org/meetings/agendas/2012/2012-12-13/
+20:03 #spi: < Hydroxide> yup, back now
+20:03 #spi: < bdale> yes, great
+20:03 #spi: < bdale> ok, I lost track .. do we have quorum?
+20:03 #spi: < Hydroxide> thanks for fixing it
+20:03 #spi: < bdale> looks like yes
+20:03 #spi: < Hydroxide> yes we do
+20:03 #spi: < Noodles> We have everyone except linuxpoet.
+20:03 #spi: < bdale> yes, I see that now .. great!
+20:04 #spi: < Ganneff> gah. no, its not fixed. :(
+20:04 #spi: < Clint> hmm
+20:04 #spi: < Ganneff> i hate bnx2
+20:04 #spi: < Hydroxide> let's proceed via the alternate links and deal with the server outside the meeting
+20:05 #spi: < bdale> yep
+20:05 #spi: < bdale> [item 3, President's Report]
+20:05 #spi: < bdale> In the last month, I was pleased to talk to contributing members at Linuxcon Europe in Barcelona and FOSS Con Korea 2012.  
+20:05 #spi: < bdale> I look forward to seeing more of you at LCA in late January and FOSDEM in early February.  
+20:05 #spi: < bdale> In the last week, I had a couple conversations about different matters with Bradley Kuhn, and I'm pleased to report that we still have a strong working relationship.
+20:05 #spi: < bkuhn> :)
+20:05 #spi: < bdale> [item 4, Treasurer's Report]
+20:05 #spi: < bdale> Michael?
+20:05 #spi: < linuxpoet> hrmf... I thought I was on time
+20:05 #spi: < bdale> linuxpoet: welcome .. full name for the minutes, please!
+20:06 #spi: < linuxpoet> Joshua D. Drake
+20:06 #spi: < bdale> thanks
+20:06 #spi: < bdale> Michael?
+20:06 #spi: < bkuhn> [This is Bradley Kuhn, if you need my for the Minutes; my only contribution will likely that I  smiled when bdale mentioned my name, though ]
+20:06 #spi: < schultmc> treasurer's report was emailed out
+20:06 #spi: < schultmc> i can get it on a public webserver shortly
+20:06 #spi: < schultmc> nothing of note
+20:06 #spi: < bdale> I saw it, thanks.
+20:07 #spi: < bdale> did the data request from Debian get completely closed out yet?
+20:07 #spi: < Noodles> schultmc: Did we ever see the check from Chase Giving?
+20:07 #spi: < Noodles> I'm supposed to send them confirmation when we have.
+20:07 #spi: < zobel> bdale: i am about to finish the report and send it to tbm on sunday.
+20:07 #spi: < schultmc> Noodles: not yet
+20:08 #spi: < bdale> zobel: ok, thanks, please let me / the board know when that is completed
+20:08 #spi: < Noodles> Ok, thanks.
+20:08 #spi: < bdale> schultmc: anything else?
+20:08 #spi: < schultmc> bdale: not from me
+20:08 #spi: < bdale> [item 5, Secretary's report]
+20:08 #spi: < bdale> Jonathan?
+20:08 #spi: < Noodles> Nothing from me.
+20:09 #spi: < Noodles> Did everyone manage to see the minutes?
+20:09 #spi: < zobel> yes
+20:09 #spi: < bdale> not really
+20:09 #spi:  * Clint nods.
+20:09 #spi:  * Hydroxide didn't manage to see the November minutes. if you can get them online somewhere, I can read them
+20:10 #spi: < bdale> [item 6, Outstanding minutes]
+20:10 #spi: < bdale> Due to the issue with our web server today, I have not read these.  Let's defer until next month.
+20:10 #spi: < bdale> any objection?
+20:10 #spi:  * Hydroxide doesn't object
+20:10 #spi: < Solver> no objections here
+20:10 #spi: < Noodles> Ok. I can put them up but there's no point in rushing it.
+20:10 #spi: < bdale> we can do two sets next month, no problem
+20:11 #spi: < bdale> [item 7, Items up for discussion]
+20:11 #spi: < bdale> [item 7.1, Resolution 2012-12-09.jmd.1 (0 A.D. as associated project)]
+20:11 #spi: < bdale> who wants to speak to this?
+20:11 #spi: < Noodles> I wrote the resolution, but I don't have a lot further to add. They've been messed about a bit by members being down.
+20:12 #spi: < bdale> I saw that.  Anyone have issues to discuss before we vote on this resolution?
+20:12 #spi: < Noodles> They clarified that Wildfire Games isn't a legal entity which had been mine/Solver's only concern.
+20:12 #spi: < bdale> right
+20:12 #spi: < Hydroxide> is Erik here?
+20:12 #spi: < Hydroxide> not that he needs to be, but sometimes liaisons want to say something brief.
+20:13 #spi:  * Hydroxide assumes not from the silence
+20:13 #spi: < Noodles> Voting started, 9 people (hydroxide,bdale,solver,noodles,schultmc,zobel,ganneff,clint,linuxpoet) allowed to vote on Resolution 2012-12-09.jmd.1 (0 A.D. as associated project). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 #spi: < bdale> I'm happy to move to a vote
+20:13 #spi: < Hydroxide> !vote yes
+20:13 #spi: < Clint> !vote yes
+20:13 #spi: < Noodles> !vote yes
+20:13 #spi: < bdale> !vote yes
+20:13 #spi: < Solver> !vote yes
+20:13 #spi: < linuxpoet> !vote yes
+20:13 #spi: < schultmc> !vote yes
+20:13 #spi: < Ganneff> !vote yes
+20:13 #spi: < zobel> !vote yes
+20:13 #spi: < Noodles> Current voting results for "Resolution 2012-12-09.jmd.1 (0 A.D. as associated project)": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+20:13 #spi: < Noodles> Voting for "Resolution 2012-12-09.jmd.1 (0 A.D. as associated project)" closed.
+20:14 #spi: < bdale> ok, great
+20:14 #spi: < bdale> since Erik doesn't appear to be on channel, we can communicate via email to close on this
+20:14 #spi: < bdale> [item 7.2, Resolution 2012-12-10.jrk.1 (SproutCore as associated project)]
+20:14 #spi: < bdale> anyone want to speak to this?
+20:14 #spi: < Noodles> I'll mail him + Aviv.
+20:14 #spi: < Solver> One comment re wording of resolution
+20:15 #spi: < Solver> bdale: shall I go ahead?
+20:15 #spi: < Hydroxide> Tyler Keating : if you're watching, feel free to surface and say something
+20:15 #spi: < bdale> Solver: of course, sorry
+20:16 #spi:  * bdale was momentarily distracted by a domesticated feline
+20:16 #spi: < Solver> As per my post on the list I felt that the word 'appoint' would be more appropriate in Section 4 rather than 'elect' given that it is a single individual doing the electing/appointing
+20:16 #spi:  * Hydroxide grins at bdale 
+20:16 #spi: < Solver> comments?  too pedantic? :)
+20:16 #spi: < bdale> pedantic, yes?  but I agree.
+20:17 #spi: < Solver> hahha
+20:17 #spi: < linuxpoet> Solver: pedantic, but I agree
+20:17 #spi: < Hydroxide> I don't object to the wording change if people want it. I stuck with wording from Tyler's application since I didn't want to misrepresent things by mistake and it's technically within what elect can mean. appoint is clearer
+20:17 #spi: < Solver> I understand we can amend at the meeting before voting, right?
+20:17 #spi: < Hydroxide> feel free to change the wording to appoint and go forward. no objection here
+20:17 #spi: < linuxpoet> as in, I think we can let it go, there is really no practical difference between appoint and elect
+20:17 #spi: < zobel> can we go on. /me has to rush in a bit.
+20:17 #spi: < Solver> yes I agree it is a technically ocrrect but unusual use of the world elect
+20:17 #spi: < Noodles> Voting started, 9 people (hydroxide,bdale,solver,noodles,schultmc,zobel,ganneff,clint,linuxpoet) allowed to vote on Resolution 2012-12-10.jrk.1 (SproutCore as associated project) replacing elect with appoint. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 #spi: < bdale> any other issues?
+20:17 #spi: < linuxpoet> !vote yes
+20:17 #spi: < bdale> !vote yes
+20:17 #spi: < Clint> !vote yes
+20:17 #spi: < Hydroxide> !vote yes
+20:17 #spi: < schultmc> !vote yes
+20:17 #spi: < Noodles> !vote yes
+20:17 #spi: < zobel> !vote yes
+20:17 #spi: < Ganneff> !vote yes
+20:18 #spi: < Solver> !vote yes
+20:18 #spi: < Noodles> Current voting results for "Resolution 2012-12-10.jrk.1 (SproutCore as associated project) replacing elect with appoint": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+20:18 #spi: < Noodles> Voting for "Resolution 2012-12-10.jrk.1 (SproutCore as associated project) replacing elect with appoint" closed.
+20:18 #spi: < bdale> [item 8, Any other business]
+20:18 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+20:18 #spi: < bdale> Hydroxide, a quick summary of your SPI BOF at Usenix LISA would be appreciated...
+20:19 #spi: < bdale> zobel: if you need to leave, we're done voting, so no harm done
+20:19 #spi: < Hydroxide> yeah. Last night at LISA '12 in San Diego I presented a quick introduction to SPI and took questions, together with Josh Berkus. For those who were at DebConf SPI BoFs, this was similar but adapted for the audience with a new slide about the reasons for SPI
+20:19 #spi: < Solver> well done
+20:19 #spi: < bdale> glad you were able to do that!
+20:19 #spi:  * zobel has one item to AOB. :)
+20:19 #spi: < bdale> I'd be pleased to have a copy of the modified slide deck back for my files
+20:19 #spi: < bdale> zobel: go
+20:20 #spi: < Hydroxide> bdale: yes, either sent already or I"m a few clicks away ):
+20:20 #spi: < Hydroxide> :)
+20:20 #spi: < bdale> Hydroxide: thank you!
+20:20 #spi: < Hydroxide> indeed, sent already.
+20:20 #spi:  * zobel had a meeting with maxx (one of the debian auditors). we might have found a solution for a european foundation for open source projects. we are currently investigating legal issues and will hopefully present the ideas at DebConf13
+20:21 #spi: < bdale> if others are in similar situations, I was happy to provide my SPI BOF slide deck to Hydroxide for adaptation and use, that process can certainly be repeated any time an SPI board or contributing member wants to run a BOF somewhere
+20:21 #spi: < linuxpoet> why not just make the slide deck available on the website?
+20:21 #spi: < linuxpoet> opensource and all
+20:21 #spi: < zobel> base idea is to have a austrian foundation with offices within Europe.
+20:21 #spi: < bdale> linuxpoet: good thought .. I'll do that
+20:21 #spi: < Hydroxide> zobel: would this be in lieu of using FFIS? but, col
+20:21 #spi:  * zobel done
+20:21 #spi: < Hydroxide> *cool
+20:21 #spi: < Solver> that's what I'm doing with my technical presentations
+20:21 #spi: < bdale> right now, it lives in my gag.com talks tree, moving or linking it would be easy
+20:22 #spi: < bdale> zobel: thanks .. will look forward to more details when the time is right
+20:22 #spi: < bdale> anyone else?
+20:22 #spi: < Ganneff> Hydroxide: ffis does have problems enough that one might think of alternatives
+20:22 #spi:  * Hydroxide is unlikely to object to whatever reasonable free license Bdale chooses for this week's contributions
+20:22 #spi: < Hydroxide> Ganneff: I agree, I was just asking if that was the intent
+20:22 #spi: < bdale> Hydroxide: CC by SA 3 is my default for things like slide decks
+20:23 #spi: < Hydroxide> bdale: that's fine for what I've added/changed
+20:23 #spi: < bdale> [item 9, Next board meeting]
+20:23 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 10th January 2013, 20:00 UTC.
+20:23 #spi: < bdale> Any strong objections?
+20:23 #spi: < bdale> works for me
+20:23 #spi: < Noodles> Me too.
+20:23 #spi: < Solver> sounds fine
+20:23 #spi: < Hydroxide> same
+20:23 #spi:  * Clint nods.
+20:23 #spi: < Ganneff> should work for me
+20:23 #spi: < bdale> Ok, thank you to everyone present for participating today, and Happy Holidays!
+20:23 #spi: < bdale> *GAVEL*
