@@ -1,0 +1,278 @@
+13:00 #spi: < bdale> *GAVEL*
+13:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-03-14/
+13:00 #spi: < bdale> [item 2, Roll Call]
+13:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:00 #spi: < Ganneff> Joerg Jaspert
+13:00 #spi: < bdale> Bdale Garbee
+13:00 #spi: < schultmc> Michael Schultheiss
+13:01 #spi: < Hydroxide> Jimmy Kaplowitz
+13:01 #spi: < zobel> Martin Zobel-Helas
+13:01 #spi: < Solver> Robert Brockway
+13:01 #spi: < Noodles> Jonathan McDowell
+13:01 #spi: < zobel> Ganneff: der versuchte noch nen simultan-übersetzter zu finden
+13:01 #spi: < Noodles> linuxpoet and Clint left?
+13:02 #spi: < bdale> well, we're quorate, so perhaps we should proceed and let them catch up?
+13:02 #spi: < bdale> [item 3, President's Report]
+13:02 #spi: < bdale> Happy pi-day!  Nothing meaningful to report today.
+13:02 #spi: < bdale> [item 4, Treasurer's Report]
+13:02 #spi: < bdale> Michael?
+13:03 #spi: < schultmc> apologies for the delay in getting the january report out.  Both january and february's reports are in the agenda.  Nothing notable in the reports
+13:03 #spi: < bdale> ok, thanks
+13:03 #spi: < bdale> Can we discuss briefly is what we should to to make progress on finding a suitable book-keeping service to reduce Michael's workload?
+13:03 #spi: < schultmc> I did receive an e-mail about difficulty donating to ffis so I'm attempting to contact ffis to see if the issue is permanent or temporary
+13:03 #spi: < bdale> Everyone seems to agree this is a good idea, yet we don't seem to be getting anywhere in the last year or so.
+13:04 #spi: < Noodles> Josh Berkus had got us a response from someone who sounds like a good fit in SF.
+13:04 #spi: < Noodles> Who does the PostgreSQL stuff already.
+13:04 #spi: < bdale> I'm more interested in a plan for a plan than a final answer today
+13:04 #spi: < schultmc> iirc we had a list of potential bookkeepers we wanted to talk to
+13:04 #spi: < Noodles> I had thought someone was going to talk to someone more local to Michael.
+13:04 #spi: < Noodles> As that might be a better option.
+13:04 #spi: < schultmc> we have jberkus' recommendation but wanted at least one other for comparision's sake
+13:04 #spi: < Noodles> Agreed.
+13:05 #spi: < bdale> yeah, this all sounds familiar, but I fear we aren't really making forward progress.  what should we do to move things along?
+13:05 #spi: < Solver> pick one and give them a try?
+13:05 #spi: < Noodles> Do we have any options on the list that just need to be contacted?
+13:06 #spi: < Noodles> Or is it a case of finding some options first?
+13:06 #spi: < bdale> I don't know
+13:06 #spi: < linuxpoet> here
+13:06 #spi: < linuxpoet> sigh
+13:06 #spi: < linuxpoet> Joshua D. Drake
+13:06 #spi: < Noodles> 'cos I could easily steal Josh's mail and email it to some other options if we had some.
+13:06 #spi: < bdale> linuxpoet: welcome!
+13:07 #spi: < bdale> schultmc: do you know what happened to the supposed list?
+13:07 #spi: < schultmc> bdale: not off hand - it's probably in email
+13:07 #spi: < bdale> ok
+13:08 #spi: < Solver> jerbkus suggestion was the best imho
+13:08 #spi: < bdale> I don't want to spend all of our meeting today on this, but I *do* want to push for some forward progress.  can you dig around in email and see what you can find, and/or help us understand if there's anyone or any firm near you that you'd like to investigate?
+13:08 #spi: < schultmc> will do
+13:09 #spi: < bdale> ok, thanks.  once you've got that together, we'll put it next to the jberkus suggestion and see what makes sense
+13:09 #spi: < bdale> I'd *love* to be ready for next board meeting with a resolution, but that may be pushing too hard
+13:10 #spi: < Clint> argh
+13:10 #spi: < bdale> anything else?
+13:10 #spi: < bdale> Clint: welcome!
+13:10 #spi: < Clint> sorry
+13:10 #spi: < zobel> hi Clint 
+13:10 #spi: < Clint> Clint Adams
+13:10 #spi: < schultmc> nope, only thing I had was the ffis issue mentioned previously
+13:10 #spi: < bdale> let me know if there's anything you need help with on that
+13:10 #spi: < bdale> [item 5, Secretary's report]
+13:10 #spi: < bdale> Jonathan?
+13:10 #spi: < Noodles> Nothing to report from me.
+13:11 #spi: < bdale> [item 6, Outstanding minutes]
+13:11 #spi: < bdale> Jonathan, I believe we have two month's to vote on today?
+13:11 #spi: < Noodles> Yup.
+13:11 #spi: < Noodles> Voting started, 9 people (ganneff,bdale,schultmc,hydroxide,zobel,solver,noodles,linuxpoet,clint) allowed to vote on Meeting minutes for Thursday, 10th January 2013. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:11 #spi: < Noodles> !vote yes
+13:11 #spi: < Clint> !vote yes
+13:11 #spi: < Hydroxide> !vote yes
+13:11 #spi: < bdale> !vote abstain
+13:11 #spi: < Solver> !vote yes
+13:11 #spi: < linuxpoet> !vote yes
+13:11 #spi: < Ganneff> !vote yes
+13:11 #spi: < zobel> !vote abstain
+13:12 #spi: < Noodles> schultmc?
+13:12 #spi: < schultmc> !vote yes
+13:13 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday, 10th January 2013": Yes: 7, No: 0, Abstain: 2, Missing: 0 ()
+13:13 #spi: < Noodles> Voting for "Meeting minutes for Thursday, 10th January 2013" closed.
+13:13 #spi: < schultmc> sorry - got distracted at work
+13:13 #spi: < Noodles> Voting started, 9 people (ganneff,bdale,schultmc,hydroxide,zobel,solver,noodles,linuxpoet,clint) allowed to vote on Meeting minutes for Thursday, 14th February 2013. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:13 #spi: < Noodles> !vote yes
+13:13 #spi: < bdale> !vote yes
+13:13 #spi: < schultmc> !vote abstain
+13:13 #spi: < Ganneff> !vote abstain
+13:13 #spi: < Solver> !vote yes
+13:13 #spi: < Clint> !vote yes
+13:13 #spi: < Hydroxide> !vote abstain
+13:13 #spi: < zobel> !vote yes
+13:13 #spi: < linuxpoet> !vote yes
+13:13 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday, 14th February 2013": Yes: 6, No: 0, Abstain: 3, Missing: 0 ()
+13:13 #spi: < Noodles> Voting for "Meeting minutes for Thursday, 14th February 2013" closed.
+13:14 #spi: < Noodles> Not quite sure how a quorate number can vote for a non quorate meeting...
+13:14 #spi: < Ganneff> thats linuxpoet voting yes
+13:14 #spi: < bdale> I was going to vote yes, too, since the minutes are, well, easy to believe
+13:14 #spi: < Hydroxide> either way, if you changed the relevant person's vote, it'd still be approved
+13:14 #spi: < bdale> anyway, thanks
+13:14 #spi: < Hydroxide> so not worth a big deal (and we're kind of unusual in having the norm of voting abstain in this case)
+13:15 #spi: < bdale> right
+13:15 #spi: < Noodles> Sure.
+13:15 #spi: < bdale> I like the abstain if you weren't present thing, though, just makes logical sense to me.
+13:15 #spi: < bdale> ok, let's move on
+13:15 #spi: < bdale> [item 7, Items up for discussion]
+13:15 #spi: < bdale> [item 7.1, Resolution 2013.03.14.bg.1 (OpenEmbedded as associated project)]
+13:15 #spi: < bdale> Philip, are you on channel?
+13:15 #spi: < Hydroxide> sure, though it causes a problem if most people miss :)
+13:15 #spi: < Hydroxide> anyway, proceed, yes :)
+13:15 #spi: < Noodles> Yay, OpenEmbedded.
+13:16 #spi: < bdale> this seems simple to me.  there was a question raised about whether we were adequately specific about how future reps might be selected, but I'm happy with the resolution as-is.  any other discussion?
+13:16 #spi: < zobel> not from me.
+13:16 #spi: < Noodles> Given it's an existing legal entity like Hydroxide I'm not too worried about that at present.
+13:17 #spi: < Hydroxide> yeah. its governing national bureaucracy ensures there's a way to determine that.
+13:17 #spi: < Ganneff> is it clear who select it for us?
+13:17 #spi: < Hydroxide> at least in terms of who the board is and whether they have authority to decide that
+13:17 #spi: < Ganneff> ah. fine then.
+13:17 #spi: < Hydroxide> *whether a given resolution is valid
+13:17 #spi: < bdale> I had the chance to see Phil in person at ELC in SF and we spoke about various details, nothing to add here
+13:18 #spi:  * Hydroxide has no objection to voting yes
+13:18 #spi: < bdale> ok, let's vote on it
+13:18 #spi: < Noodles> Voting started, 9 people (ganneff,bdale,schultmc,hydroxide,zobel,solver,noodles,linuxpoet,clint) allowed to vote on Resolution 2013.03.14.bg.1 (OpenEmbedded as associated project). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:18 #spi: < Noodles> !vote yes
+13:18 #spi: < bdale> !vote yes
+13:18 #spi: < Clint> !vote yes
+13:18 #spi: < Solver> !vote yes
+13:18 #spi: < zobel> !vote yes
+13:18 #spi: < Hydroxide> !vote yes
+13:18 #spi: < schultmc> !vote yes
+13:18 #spi: < Ganneff> !vote yes
+13:18 #spi: < linuxpoet> !vote yes
+13:18 #spi: < Noodles> Current voting results for "Resolution 2013.03.14.bg.1 (OpenEmbedded as associated project)": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+13:18 #spi: < Noodles> Voting for "Resolution 2013.03.14.bg.1 (OpenEmbedded as associated project)" closed.
+13:18 #spi: < bdale> great, thanks all!
+13:19 #spi: < Noodles> I'll send out a mail to Phil.
+13:19 #spi: < bdale> good
+13:19 #spi: < bdale> I'm sure he'll respond promptly
+13:19 #spi: < bdale> [item 8, Any other business]
+13:19 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+13:20 #spi: < zobel> Debian DPL voting time, zack does not stand anymore.
+13:20 #spi: < zobel> well, currently campaining.
+13:20 #spi: < zobel> ah, and OFTC asked for a commercial cert.
+13:20 #spi: < bdale> right.  is any action pending from us on that?
+13:20 #spi: < tjfontaine> a response of any kind would be nice :)
+13:21 #spi: < zobel> they want to offer a web-chat thingy, and asked us to provide a class1 cert.
+13:21 #spi: < bdale> it all made sense to me.  what do we need to do to get on with it?
+13:21 #spi: < schultmc> OFTC doesn't have any funds - SPI has more than enough to cover even the most expensive cert
+13:21 #spi: < Ganneff> which might mean money needa be used.
+13:21 #spi: < bdale> oic
+13:21 #spi: < Ganneff> so somone needs to say "take spi money"
+13:21 #spi: < Hydroxide> I gave thoughts within the board that we should consider signing up with the least evil of the companies, i.e. StartSSL, for an intermediate CA to be issued to SPI (they do offer groups like us discounts)
+13:21 #spi: < Ganneff> then us hostmasters can do stuff.
+13:21 #spi: < bdale> so we need a resolution?  or can I just say "do it"?
+13:22 #spi: < Ganneff> Hydroxide: do they offer full featured CAs so we can roll our own behind that?
+13:22 #spi: < Solver> how much is an intermedia cert from startssl?
+13:22 #spi: < Ganneff> bdale: good question.
+13:22 #spi: < Solver> *intermediate
+13:22 #spi: < Noodles> Are we doing a single cert (which is easy to just say yes to I think?) or our own intermediate?
+13:22 #spi: < Hydroxide> Ganneff: it's the kind of thing where we can issue our own certs within that
+13:22 #spi: < zobel> Ganneff: no.
+13:22 #spi: < Noodles> How do we control the security on the intermediate?
+13:22 #spi: < Ganneff> now that would be interesting, if it isnt too expensive.
+13:22 #spi: < Hydroxide> Ganneff: at least within our org (presumably SPI associated projects)
+13:22 #spi: < Noodles> I think the intermediate would be nice for all of our associated projects.
+13:22 #spi: < Hydroxide> Noodles: my guess is it's an interface via their site
+13:23 #spi: < zobel> Ganneff: we (DSA) had a look into that, startssl is at least not DSAs preference.
+13:23 #spi: < bdale> Noodles: presumably the same way we handle self-signed certs now?
+13:23 #spi: < Ganneff> zobel: reasons?
+13:23 #spi: < Ganneff> (i hate all ssl mafia btw)
+13:23 #spi: < Hydroxide> Solver: they list face-value pricing on their website but offer discounts for open source orgs, so we should contact them
+13:23 #spi: < Noodles> bdale: I've no idea how we handle signing stuff with the SPI CA other than "Talk to Ganneff".
+13:23 #spi: < zobel> they want persons and not role accounts to be contact.s
+13:23 #spi: < Ganneff> zobel: well.
+13:23 #spi: < bdale> yes, the CA Cartel is to be loathed, but let's not let that get in the way of doing what makes sense for an associated project
+13:23 #spi: < zobel> like debian-admin@d.o will not work
+13:23 #spi: < Ganneff> zobel: any other?
+13:23 #spi: < Solver> bdale: ++
+13:23 #spi: < Ganneff> zobel: also, the idea is for spi to take it. and then hand the projects more
+13:24 #spi: < Clint> isn't that just for the free ones?
+13:24 #spi: < Hydroxide> Ganneff: the startssl people seem to be of similar mindset to you but are trying to make it suck less instead of avoiding it
+13:24 #spi: < Hydroxide> Ganneff: e.g. their single-site domain-validated certs are gratis
+13:24 #spi: < Ganneff> Hydroxide: i havent vetoed anything here, i just stated what i think of it.
+13:24 #spi: < Hydroxide> Ganneff: right
+13:24 #spi: < zobel> Ganneff: you will not get any intermediate cert, unless you pay several 10k USD.
+13:24 #spi: < Ganneff> Hydroxide: and if we get a USEFUL thing out of them for us, then im happy to deal with it like i do with our current
+13:24 #spi: < Hydroxide> zobel: you're thinking of a root cert
+13:25 #spi:  * Hydroxide moves that we vote to let bdale and/or gannef contact startssl to discuss discount pricing for us, and go ahead with it if bdale says okay
+13:25 #spi: < linuxpoet> why don't we just do what the rest of the world does and buy a wildcard cert for *spi and have debian buy a wildcard cert for *debian
+13:25 #spi: < zobel> Ganneff: i think Gandi is the way DSA wants to go, but not fully sure yet.
+13:25 #spi: < Ganneff> Hydroxide: do you have a good contact with them?
+13:25 #spi:  * Hydroxide ready to vote on that
+13:25 #spi: < Ganneff> zobel: or maybe spi will, if we get something useful here...
+13:26 #spi: < Noodles> linuxpoet: This is actually for OFTC and the idea is that SPI could have the ability to issue for all our projects domains, not just spi-inc.org.
+13:26 #spi: < bdale> ok, let's ground this
+13:26 #spi: < bdale> I don't think there's any objection to getting OFTC at least one cert they need, right?
+13:26 #spi: < Noodles> StartSSL seem to be saying ~ $60 for unlimited certs for an organisation.
+13:26 #spi: < Hydroxide> Ganneff: http://www.startssl.com/?app=5 has an email link
+13:26 #spi: < Hydroxide> nobody wants to vote on my proposal? :)
+13:26 #spi: < Ganneff> Hydroxide: ok, so you dont have anything more than what the web gives
+13:27 #spi: < Hydroxide> Ganneff: right, but i've seen the main startssl guy post on e.g. mozilla ca bugs and he seems generally sane
+13:27 #spi: < Ganneff> im fine contacting them asking for an intermediate and what it means
+13:27 #spi: < bdale> I'm happy to take the job of talking to startcom, but need someone in the loop who groks what we actually need
+13:27 #spi: < Noodles> StartSSL seem to be $2000+
+13:27 #spi: < Ganneff> right, so bdale and me
+13:27 #spi: < Hydroxide> Noodles: $2000+ minus discount for an SPI CA seems good
+13:27 #spi: < Hydroxide> well, s/good/acceptable/ :)
+13:27 #spi: < Solver> would we get sufficient value out of it?
+13:28 #spi: < bdale> how about Ganneff and I go figure that out
+13:28 #spi: < Noodles> So far I can think of 3 users (us, Debian + OFTC).
+13:28 #spi: < Solver> vs buying certs as needed.  many projects probably already have certs from various CAs
+13:28 #spi: < Ganneff> Solver: yes
+13:28 #spi: < Noodles> But multiple hosts for Debian I guess.
+13:28 #spi: < Hydroxide> yup, my proposal is to let ganneff and bdale figure it out and proceed if ganneff and bdale agree on it
+13:28 #spi: < Ganneff> yes.
+13:28 #spi: < Noodles> Hydroxide: I'm happy with that. And happy to help if necessary.
+13:28 #spi: < bdale> Hydroxide: you resolving that so we can/should vote on it?
+13:29 #spi: < Hydroxide> bdale: I don't have the time right now to form it into a resolution. can we just vote? :)
+13:29 #spi: < bdale> that would be ok with me
+13:29 #spi: < Noodles> Do we need to vote?
+13:29 #spi: < bdale> I asked because I don't know
+13:29 #spi: < Noodles> I'm happy with you guys going and figuring it out and then telling us what you decide.
+13:29 #spi: < Ganneff> not if its just getting stuff sorted
+13:29 #spi: < Solver> we're voting on deciding to investigate?  I don't think that would be needed
+13:29 #spi: < Ganneff> and see what it means (in terms of money and work)
+13:29 #spi: < Hydroxide> we could have voted by now :) my guess is "it's a larger expenditure than we typically do at once without voting, but we're a weird board" :)
+13:29 #spi: < Ganneff> and if its money, we make it a vote next time
+13:29 #spi: < Hydroxide> Solver: no, I was saying they could just go ahead
+13:29 #spi: < Noodles> If it's a lot of money then we need to vote or agree somehow, but we'd need a figure for that.
+13:30 #spi: < Hydroxide> but okay
+13:30 #spi: < bdale> I want to get OFTC an actual result ASAP
+13:30 #spi: < Ganneff> i think bdale and me will be able to see when we should stop before committing anything
+13:30 #spi: < Hydroxide> ok. if someone seconds my motion to vote, let's vote
+13:30 #spi: < zobel> so, why not buy a whatever-cert for ~30USD for oftc now?
+13:30 #spi: < Noodles> bdale: Totally happy with getting OFTC a cert now while bigger picture is investigated.
+13:31 #spi: < Clint> from what i've heard, eddy answers questions promptly
+13:31 #spi: < zobel> and find out about the other thing later?
+13:31 #spi: < bdale> ok
+13:31 #spi: < Solver> yes that sounds better
+13:31 #spi: < Hydroxide> proposal: "Bdale and Joerg investigate a StartSSL Intermediate CA for SPI, with suitable discount pricing. If they both are okay with going forward, they're authorized to do so. They're also authorized to get OFTC <= 10 individual certs in the next 90 days as needed."
+13:31 #spi: < Hydroxide> I call for a vote on what I just quoted
+13:32 #spi: < bdale> second?
+13:32 #spi: < zobel> Hydroxide: oftc will need exactly 1 cert
+13:32 #spi: < Hydroxide> zobel: 1 <= 10. no problem. :)
+13:32 #spi: < zobel> tjfontaine: or am i wrong here?
+13:32 #spi: < tjfontaine> you are right here
+13:32 #spi: < Noodles> Voting started, 9 people (ganneff,bdale,schultmc,hydroxide,zobel,solver,noodles,linuxpoet,clint) allowed to vote on OFTC SSL cert purchase / Intermediate CA investigation. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:32 #spi: < schultmc> !vote yes
+13:32 #spi: < bdale> !vote yes
+13:32 #spi: < Hydroxide> !vote yes
+13:32 #spi: < Ganneff> !vote yes
+13:32 #spi: < Noodles> !vote yes
+13:32 #spi: < Solver> !vote yes
+13:32 #spi: < Clint> !vote no
+13:32 #spi: < zobel> !vote yes
+13:33 #spi: < linuxpoet> !vote yes
+13:33 #spi: < Noodles> Current voting results for "OFTC SSL cert purchase / Intermediate CA investigation": Yes: 8, No: 1, Abstain: 0, Missing: 0 ()
+13:33 #spi: < Noodles> Voting for "OFTC SSL cert purchase / Intermediate CA investigation" closed.
+13:33 #spi: < Noodles> Clint: OOI, what would you prefer?
+13:33 #spi: < Clint> Noodles: i would prefer not to pre-approve a plan i haven't heard
+13:33 #spi: < Ganneff> thats why its investigation
+13:33 #spi: < Clint> that's not what jimmy moved
+13:33 #spi: < Hydroxide> Ganneff: we authorized the purchase too if you and bdale agree
+13:33 #spi: < bdale> right
+13:33 #spi: < Ganneff> hrm.
+13:33 #spi: < Hydroxide> I don't think we need to micro-manage stuff at SPI as much as we usually do
+13:34 #spi: < bdale> I think this is either going to be slam-dunk obvious, or worthy of further discussion
+13:34 #spi: < Hydroxide> and I think I can trust bdale and ganneff not to jointly be horribly stupid about this
+13:34 #spi: < bdale> in either case, Ganneff and I will go figure it out
+13:34 #spi: < Hydroxide> right
+13:34 #spi:  * bdale gives Ganneff an evil grin, and moves on
+13:34 #spi: < Noodles> Hydroxide: If they start a CA, get it into the browsers, sell it and start a Linux disribution then we know we've been had.
+13:34 #spi: < Hydroxide> :)
+13:34 #spi: < Solver> Hydroxide: exactly.  I considered suggesting a $ cap but decided your proposal was reasonable as it stood
+13:34 #spi: < Hydroxide> Noodles: :)
+13:35 #spi: < bdale> [item 9, Next board meeting]
+13:35 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 11 April 2013, 20:00 UTC.
+13:35 #spi: < bdale> Any strong objections?
+13:35 #spi: < Noodles> WFM.
+13:35 #spi: < Hydroxide> fine here
+13:35 #spi: < bdale> Ok, thank you to everyone present for participating today.
+13:35 #spi: < bdale> *GAVEL*
