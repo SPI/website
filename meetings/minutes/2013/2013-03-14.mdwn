@@ -1,0 +1,648 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxpoet)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* MJ Ray (slef)
+
+
+These are the minutes for the March 14th, 2013 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2013/2013-03-14-log.txt).
+
+
+## President's Report
+
+Bdale wished us all a happy Pi day and didn't have much to report.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period January 01, 2013 - January 31, 2013
+
+ Income
+   Ordinary Income
+        Arch Linux                         685.00
+        DebConf 13                      12,500.00
+        Debian                           4,173.34
+        FFmpeg                              41.00
+        FreedomBox Foundation                5.00
+        Jenkins                          1,140.00
+        LibreOffice                     10,376.00
+        OpenWrt                              2.00
+        PostgreSQL                         250.00
+        SPI General                      2,901.30
+        SPI 5%                             340.37
+        The HeliOS Project                 125.00
+        TideSDK                             30.00
+
+        Total Ordinary Income           32,569.01
+                                        ---------
+
+   Interest Income
+        Key Bank Money Mkt Savings           0.56
+        Chase BusinessClassic Checking       0.48
+        Chase Bus Select High Yield Savings 32.63
+
+        Total Interest Income               33.67
+                                            -----
+
+   Gross Income                         32,602.68
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        Arch Linux
+          Processing Fees            34.75
+          SPI 5%                     34.25
+
+          Total Arch Linux Exp       69.00
+                                     -----
+
+        DebConf 12
+          Travel Reimbursement      515.00
+
+          Total DC12 Exp            515.00
+                                    ------
+
+        DebConf 13
+          To DC13.ch             12,500.00
+          Wire Fees                  22.00
+
+          Total DC13 Exp         12,522.00
+                                 ---------
+
+        Debian
+          Debit Card Fee              3.00
+          Foreign Transaction Fees    8.36
+          Hardware                  835.60
+          Processing Fees            69.93
+          SPI 5%                    208.67
+          Travel Reimbursement    1,327.69
+
+          Total Debian Exp        2,453.25
+                                  --------
+
+        FFmpeg
+          Processing Fees             2.69
+          SPI 5%                      2.05
+
+          Total FFmpeg Exp            4.74
+                                      ----
+
+        FreedomBox
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total FreedomBox Exp        0.80
+                                      ----
+
+
+        Haskell
+          Hosting Fees               55.17
+
+          Total Haskell Exp          55.17
+                                     -----
+
+        Jenkins
+          Processing Fees           46.65
+          SPI 5%                    57.00
+
+          Total Jenkins Exp        103.65
+                                   ------
+
+        LibreOffice 
+          Processing Fees            11.99
+          SPI 5%                     17.80
+          Travel Reimbursement    1,841.32
+
+          Total LibreOffice Exp   1,871.11
+                                  --------
+
+        OpenWrt
+          SPI 5%                      0.10
+
+          Total OpenWrt Exp           0.10
+                                      ----
+
+        PostgreSQL
+          Expense Reimbursement   4,053.29
+          Processing Fees             5.98
+          SPI 5%                     12.50
+
+          Total PostgreSQL Exp    4,071.77
+                                  --------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           24.78
+
+          Total SPI Exp              54.73
+                                     -----
+
+        The HeliOS Project
+          Expense Reimbursement     530.75
+          Processing Fees             1.35
+          SPI 5%                      6.25
+
+          Total HeliOS Exp          538.35
+                                    ------
+
+       TideSDK
+         Processing Fees              2.08
+         SPI 5%                       1.50
+
+         Total TideSDK Exp            3.58
+                                      ----
+
+
+        Total Expenses           22,263.25
+                                  --------
+
+        Net Income               10,339.43
+                                 =========
+
+
+Balance Sheet as of January 31, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      59,083.14
+        Chase Business Select High Yield Savings         153,927.77
+        KeyBank Basic Business Checking                    1,093.73
+        Key Business Reward Checking                      66,134.40
+        Key Business Signature Money Market Savings       36,032.55
+        Key Express Checking                               5,015.76
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    281.00
+
+     Total Current Assets                                334,974.50
+
+
+   TOTAL ASSETS                                          334,974.50
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           aptosid Earmark                      113.28
+           Arch Linux Earmark                 8,916.23
+           Debian Earmark                    89,928.45
+           DebConf 12 Earmark                     0.43
+           DebConf 13 Earmark                19,425.70
+           Drizzle                            1,092.86
+           FFmpeg                               789.59
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           21,462.41
+           FreedomBox Foundation Earmark     20,598.40
+           Gallery Earmark                    8,077.38
+           GNU TeXmacs Earmark                  254.11
+           Haskell Earmark                   12,358.68
+           Jenkins Earmark                    8,569.29
+           LibreOffice Earmark               40,312.59
+           madwifi-project.org Earmark        1,494.90
+           OpenVAS                               47.18
+           OpenWrt                            2,778.03
+           Open Voting Foundation Earmark       154.21
+           OSUNIX                                 1.12
+           Path64                                 9.87
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                20,804.75
+           Privoxy Earmark                      698.15
+           The HeliOS Project Earmark           567.69
+           TideSDK Earmark                      217.69
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,874.38
+
+        Total held in trust                              279,831.22
+
+        General reserves                                  55,143.28
+
+     Total Equity                                        334,974.50
+
+   TOTAL LIABILITIES & EQUITY                            334,974.50
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period February 01, 2013 - February 28, 2013
+
+ Income
+   Ordinary Income
+        0 A.D.                               5.00
+        Arch Linux                         215.83
+        DebConf 13                          20.43
+        Debian                             798.55
+        FFmpeg                              60.00
+        freedesktop.org                     27.00
+        FreedomBox Foundation               22.00
+        GNU TeXmacs                         20.00
+        Jenkins                          1,155.00
+        LibreOffice                        583.00
+        OpenWrt                              4.00
+        PostgreSQL                           5.00
+        SPI General                        718.55
+        SPI 5%                             199.62
+        The HeliOS Project               1,025.00
+        TideSDK                             52.00
+
+        Total Ordinary Income            4,909.98
+                                         --------
+
+   Interest Income
+        Key Bank Money Mkt Savings           0.56
+        Chase BusinessClassic Checking       0.45
+        Chase Bus Select High Yield Savings 29.48
+
+        Total Interest Income               30.49
+                                            -----
+
+   Gross Income                          4,940.47
+                                         --------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          Processing Fees             0.27
+          SPI 5%                      0.25
+
+          Total 0 A.D. Exp            0.52
+                                      ----
+
+        Arch Linux
+          Processing Fees            12.99
+          SPI 5%                     10.79
+
+          Total Arch Linux Exp       23.78
+                                     -----
+
+        DebConf 12
+          Transfer to DebConf 13      0.43
+
+          Total DC12 Exp              0.43
+                                      ----
+
+        DebConf 13
+          Processing Fees             0.98
+
+          Total DC13 Exp              0.98
+                                      ----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees            31.83
+          SPI 5%                     39.93
+          Travel (GSoC Mentor
+            Summit)               1,088.60
+
+          Total Debian Exp        1,163.36
+                                  --------
+
+        FFmpeg
+          Processing Fees             3.00
+          SPI 5%                      3.00
+
+          Total FFmpeg Exp            6.00
+                                      ----
+
+        freedesktop.org
+          Processing Fees             1.24
+          SPI 5%                      1.35
+
+          Total fd.o Exp              2.59
+                                      ----
+
+        FreedomBox
+          Processing Fees             0.97
+          SPI 5%                      1.10
+
+          Total FreedomBox Exp        2.07
+                                      ----
+
+        GNU TeXmacs
+          Processing Fees             0.89
+          SPI 5%                      1.00
+
+          Total GNU TeXmacs Exp       1.89
+                                      ----
+
+        Haskell
+          Hosting Fees               56.49
+          Travel (GSoC Mentor
+            Summit)                 323.60
+
+          Total Haskell Exp         380.09
+                                    ------
+
+        Jenkins
+          Processing Fees            1.35
+          SPI 5%                    57.75
+
+          Total Jenkins Exp         59.10
+                                    -----
+
+        LibreOffice 
+          Processing Fees             3.75
+          SPI 5%                     29.15
+          Travel Reimbursement    5,857.82
+
+          Total LibreOffice Exp   5,890.72
+                                  --------
+
+        OpenWrt
+          Processing Fees             0.20
+          SPI 5%                      0.20
+
+          Total OpenWrt Exp           0.40
+                                      ----
+
+        PostgreSQL
+          Processing Fees             0.27
+          SPI 5%                      0.25
+          Travel (GSoC Mentor
+            Summit)               1,171.97
+
+          Total PostgreSQL Exp    1,172.49
+                                  --------
+
+        SPI
+          PaySimple Monthly Fee      29.95
+          PO Box Renewal             88.00
+          Transaction Fees           28.94
+
+          Total SPI Exp             146.89
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     526.55
+          Processing Fees             1.35
+          SPI 5%                     51.25
+
+          Total HeliOS Exp          579.15
+                                    ------
+
+       TideSDK
+         Processing Fees              2.22
+         SPI 5%                       2.60
+
+         Total TideSDK Exp            4.82
+                                      ----
+
+
+        Total Expenses            9,435.08
+                                  --------
+
+        Net Income               (4,494.61)
+                                 ==========
+
+
+Balance Sheet as of February 28, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      59,919.35
+        Chase Business Select High Yield Savings         153,957.25
+        KeyBank Basic Business Checking                    1,088.73
+        Key Business Reward Checking                      60,579.76
+        Key Business Platinum Money Market Savings        36,032.55
+        Key Express Checking                               5,010.76
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    278.00
+
+     Total Current Assets                                330,272.55
+
+
+   TOTAL ASSETS                                          330,272.55
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                         4.48
+           aptosid Earmark                      113.28
+           Arch Linux Earmark                 9,108.28
+           Debian Earmark                    89,563.64
+           DebConf 13 Earmark                19,445.15
+           Drizzle                            1,092.86
+           FFmpeg                               843.59
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           21,486.82
+           FreedomBox Foundation Earmark     20,618.33
+           Gallery Earmark                    8,077.38
+           GNU TeXmacs Earmark                  272.22
+           Haskell Earmark                   11,978.59
+           Jenkins Earmark                    9,665.19
+           LibreOffice Earmark               35,004.87
+           madwifi-project.org Earmark        1,494.90
+           OpenVAS                               47.18
+           OpenWrt                            2,781.63
+           Open Voting Foundation Earmark       154.21
+           OSUNIX                                 1.12
+           Path64                                 9.87
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                19,637.26
+           Privoxy Earmark                      698.15
+           The HeliOS Project Earmark         1,013.54
+           TideSDK Earmark                      264.87
+           Tux4Kids Earmark                   8,788.85
+           YafaRay Earmark                    4,874.38
+
+        Total held in trust                              274,535.64
+
+        General reserves                                  55,736.91
+
+     Total Equity                                        330,272.55
+
+   TOTAL LIABILITIES & EQUITY                            330,272.55
+</pre>
+
+
+## Secretary's report
+
+Jonathan had nothing to report.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 10th January 2013:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Abstain</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 2 abstain, 0 missing.
+
+Vote on Meeting Minutes for 14th February 2013:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 3 abstain, 0 missing.
+
+
+## Resolution 2013.03.14.bg.1: OpenEmbedded as associated project
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 9 yes, 0 missing.
+
+
+## Any other business
+
+OFTC had asked for a suitable SSL cert to allow them to provide a web
+based IRC interface. There was some discussion about the need of
+associated projects for SSL certs in general (for example Debian require
+a number for different services/hosts, but other projects were thought
+to be able to make use of such a service). Jimmy suggested that we might
+want to investigate the possibility of an SPI intermediate CA that would
+enable us to provide certificates for associated projects easily. Bdale
+and Joerg suggested they would go and check out how much this was likely
+to cost overall. A vote was taken allowing them to at least purchase a
+certificate for OFTC and potentially enter into an intermediate CA
+relationship if they deemed it appropriate.
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>No</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 1 no, 0 missing.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, April 11th, 2013 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### Resolution 2013.03.14.bg.1: OpenEmbedded as associated project
+
+<pre>
+WHEREAS
+
+1. OpenEmbedded is a substantial and significant Free Software project.
+
+2. The OpenEmbedded developers would like SPI's support and assistance,
+including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. OpenEmbedded is formally invited to become an SPI Associated Project,
+according to the SPI Framework for Associated Projects, SPI Resolution
+1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be found
+at http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Philip Balister <philip@balister.org> is recognised by SPI as the
+authoritative decision maker and SPI liaison for OpenEmbedded.
+Successors will be appointed by the OpenEmbedded eV board
+<board@openembedded.org>.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+</pre>
+
+
+[[!meta copyright="Copyright © 2013 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
