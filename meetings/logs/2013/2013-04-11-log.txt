@@ -1,0 +1,96 @@
+13:04 #spi: < bdale> *GAVEL*
+13:04 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:04 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-04-11/
+13:04 #spi: < bdale> [item 2, Roll Call]
+13:04 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:04 #spi: < Hydroxide> Noodles: looks good, thanks
+13:04 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:04 #spi: < Clint> Clint Adams
+13:04 #spi: < Hydroxide> Jimmy Kaplowitz
+13:04 #spi: < Ganneff> Joerg Jaspert
+13:04 #spi: < schultmc> Michael Schultheiss
+13:04 #spi: < bdale> Bdale Garbee
+13:04 #spi: < Noodles> Jonathan McDowell
+13:04 #spi: < Solver> Robert Brockway
+13:05 #spi: < luca> to buy a single cert... okay
+13:05 #spi: < Noodles> zobel sent regrets.
+13:05 #spi: < Noodles> So just linuxpoet unaccounted for.
+13:06 #spi: < bdale> ok, thanks
+13:06 #spi: < bdale> [item 3, President's Report]
+13:06 #spi: < bdale> Nothing meaningful to report today.
+13:06 #spi: < bdale> [item 4, Treasurer's Report]
+13:06 #spi: < bdale> Michael?
+13:06 #spi: < schultmc> Standard report is in the agenda and has been e-mailed out.
+13:06 #spi: < bdale> I know there was some discussion after last month's meeting about book-keepers, is there any progress to report?
+13:06 #spi: < Hydroxide> luca: see latest minutes update we allowed up to 10 certs, but that was just intentional slight overkill to remove unnecessary round-trips with the board in case OFTC's needs had been stated imprecisely. /me stops distracting from the main meeting now.
+13:06 #spi: < schultmc> I've contacted the bookkeeping firm in metro indy about working with SPI and haven't yet heard back from them.  I'll call them in the next few days.
+13:07 #spi: < bdale> ok
+13:07 #spi: < schultmc> they may be busy due to the april 15 personal income tax deadline
+13:07 #spi: < bdale> sure
+13:07 #spi: < Hydroxide> speaking of which, are we on track with our tax year 2012 / calendar year 2013 filings?
+13:07 #spi:  * bdale filed early this year...
+13:07 #spi: < schultmc> Hydroxide: yes
+13:07 #spi: < Hydroxide> cool
+13:08 #spi: < bdale> [item 5, Secretary's report]
+13:08 #spi: < bdale> Jonathan?
+13:08 #spi: < zobel> Martin Zobel-Helas
+13:08 #spi: < Noodles> Nothing much from me. We had one mail through to officers@ about donating a monitor but I replied and said a project donation address was a better move.
+13:08 #spi: < zobel> (internet is up since a few minutes at home!)
+13:09 #spi: < zobel> sorry for being late.
+13:09 #spi: < Noodles> I think it was in NY so all I could think of was Hydroxide ending up with it otherwise.
+13:09 #spi: < Hydroxide> zobel: welcome back!
+13:09 #spi: < bdale> yes, thanks, I didn't have any great thoughts about the monitor either
+13:09 #spi: < Hydroxide> Noodles: haha :D
+13:09 #spi: < bdale> it's a nice monitor, but not easy to move around
+13:09 #spi: < bdale> anyway, thanks for handlign that
+13:09 #spi: < bdale> [item 6, Outstanding minutes]
+13:09 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+13:09 #spi: < Noodles> Yup, just a single set.
+13:10 #spi: < Noodles> Voting started, 8 people (clint,hydroxide,ganneff,schultmc,bdale,noodles,solver,zobel) allowed to vote on Minutes for 14th March 2013 meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:10 #spi: < Ganneff> !vote yes
+13:10 #spi: < Clint> !vote yes
+13:10 #spi: < Hydroxide> !vote yes
+13:10 #spi: < Noodles> !vote yes
+13:10 #spi: < bdale> !vote yes
+13:10 #spi: < schultmc> !vote yes
+13:10 #spi: < Solver> !vote yes
+13:10 #spi: < zobel> !vote yes
+13:10 #spi: < Noodles> Current voting results for "Minutes for 14th March 2013 meeting": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+13:10 #spi: < Noodles> Voting for "Minutes for 14th March 2013 meeting" closed.
+13:11 #spi: < bdale> thanks
+13:11 #spi: < bdale> [item 7, Items up for discussion]
+13:11 #spi: < bdale> [item 8, Any other business]
+13:11 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+13:11 #spi: < bdale> Ganneff: anything further to report on the CA front?
+13:11 #spi: < Ganneff> well, there is that bit on the lists, but nothing much, nope
+13:12 #spi: < Solver> so the verdict is it was too expensive?
+13:12 #spi: < bdale> for the board's purposes, I think the only immediate action from last month was to get oftc the cert(s) they needed .. that's taken care of?
+13:12 #spi: < Ganneff> (except that my personal experience with startssl is horrible. technical that is)
+13:12 #spi: < Ganneff> yes
+13:12 #spi: < Ganneff> i yelled a lot at that sh*t while doing it.
+13:12 #spi: < Ganneff> so broken they are.
+13:13 #spi: < bdale> Solver: yes, I think the verdict is too little benefit for too much money at this time for SPI to become a CA in the cartel's clutches/embrace/whatever
+13:13 #spi: < Ganneff> anyways, yes, oftc has their stuff and is happy. doesnt look like we go on with intermediate ca for now
+13:13 #spi: < Solver> bdale: agreed
+13:13 #spi: < bdale> any other topics today?
+13:13 #spi: < bdale> [item 9, Next board meeting]
+13:13 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 9 May 2013, 20:00 UTC.
+13:13 #spi: < bdale> Any strong objections?
+13:14 #spi: < zobel> 19:30 UTC?
+13:14 #spi: < Ganneff> wfm
+13:14 #spi: < zobel> or is that too early for Solver?
+13:14 #spi: < Noodles> It ends up right in the middle of lunch time for me.
+13:14 #spi: < Solver> that makes it 5:30am for me...
+13:14 #spi: < Ganneff> 2200 (aka 20utc) is a fine time with son sleeping :)
+13:14 #spi: < bdale> yeah, I think 20:00 is the best compromise
+13:14 #spi: < zobel> okay.
+13:14 #spi: < Ganneff> solver just needs to move
+13:14 #spi: < Ganneff> to a more sane tz
+13:14 #spi:  * zobel shuts up.
+13:14 #spi: < Solver> zobel: thanks :)
+13:15 #spi: < Solver> one day :)
+13:15 #spi: < Hydroxide> should be fine with me :)
+13:15 #spi: < bdale> my apologies to everyone for the late start...
+13:15 #spi: < Ganneff> Solver: one day each month. yes.
+13:15 #spi: < bdale> Ok, thank you to everyone present for participating today.
+13:15 #spi: < bdale> *GAVEL*
