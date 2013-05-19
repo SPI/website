@@ -1,0 +1,212 @@
+13:01 #spi: < bdale> *GAVEL*
+13:01 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:01 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-05-09/
+13:01 #spi: < bdale> [item 2, Roll Call]
+13:01 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:01 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:01 #spi: < Noodles> Jonathan McDowell
+13:01 #spi: < Ganneff> Joerg Jaspert
+13:01 #spi: < Clint> Clint Adams
+13:01 #spi: < bdale> Bdale Garbee
+13:01 #spi: < Solver> Robert Brockway
+13:01 #spi: < schultmc> Michael Schultheiss
+13:01 #spi: < zobel> Martin Zobel-Helas
+13:02 #spi: < bdale> nice, quorum met
+13:02 #spi: < Noodles> No linuxpoet or Hydroxide?
+13:02 #spi: < linuxpoet> Joshua Drake
+13:03 #spi: < zobel> Hydroxide: around?
+13:03 #spi: < linuxpoet> stupid phone
+13:03 #spi:  * Noodles SMSes Hydroxide.
+13:03 #spi: < bdale> ok, well, we can proceed and perhaps he'll join us
+13:03 #spi: < bdale> [item 3, President's Report]
+13:03 #spi: < bdale> I was pleased this month to be able to review and comment on Bradley Kuhn's drafts of the call for donations to help fund development of a Free Software solution to
+13:03 #spi: < bdale> address the accounting needs of fiscal sponsor NPOs like us.  I provided a quote, and as a result SPI was listed as endorsing the project.  The announcement is posted
+13:03 #spi: < bdale> at https://sfconservancy.org/news/2013/may/01/npo-accounting/.  There is *no* commitment on the part of SPI to provide funds or other resources for the project at this
+13:03 #spi: < bdale> time.  Josh Berkus has suggested and others have agreed that it might be appropriate for SPI to make a donation from our general fund, and the discussion his suggestion
+13:03 #spi: < bdale> sparked may lead to a specific resolution for consideration at next month's meeting.
+13:03 #spi: < bdale>  
+13:04 #spi: < bdale> I will also note for the record that I've submitted an SPI BOF request to the Debconf13 organizers.  The SPI BOF sessions at previous Debconf events have been well attended,
+13:04 #spi: < bdale> and so it seemed approrpriate to continue the tradition.
+13:05 #spi: < bdale> any discussion?
+13:05 #spi: < zobel> bdale: did you see the mail from Lyle Ruppert to board?
+13:05 #spi: < bdale> not if it came in the last 24 hrs
+13:05 #spi: < Noodles> Looks like openvoting didn't renew their domain.
+13:06 #spi: < bdale> that sounds like something we can handle under other biz?
+13:06 #spi: < zobel> bdale: mail from 4th, but i received it today.
+13:06 #spi: < zobel> ack.
+13:06 #spi: < bdale> ruppert email found, let's talk about that in other biz
+13:07 #spi: < bdale> ok, if there's no discussion about my report let's proceed
+13:07 #spi: < bdale> [item 4, Treasurer's Report]
+13:07 #spi: < bdale> Michael?
+13:07 #spi: < schultmc> Standard report is in the agenda.  The higher than normal income this month was from Google Summer of Code funds, transfer of OBF funds to SPI, and receipt of LibreOffice advisory board funds.  I haven't yet heard back from the local bookkeeping firm.  Due to work issues this week, I haven't had time to call them but will do so early next week.
+13:08 #spi: < bdale> ok, please keep after the accounting firm, and let us all know if someone else can help move that along
+13:08 #spi: < schultmc> will do
+13:08 #spi: < bdale> anything else?
+13:08 #spi: < schultmc> nope
+13:08 #spi: < bdale> [item 5, Secretary's report]
+13:08 #spi: < bdale> Jonathan?
+13:08 #spi: < Noodles> Nothing to report from me.
+13:08 #spi: < bdale> [item 6, Outstanding minutes]
+13:08 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+13:08 #spi: < Noodles> Yup.
+13:08 #spi: < Noodles> Voting started, 8 people (ganneff,clint,bdale,solver,schultmc,noodles,zobel,linuxpoet) allowed to vote on Meeting minutes for Thursday 11th April 2013. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:08 #spi: < schultmc> !vote yes
+13:08 #spi: < Noodles> !vote yes
+13:08 #spi: < bdale> !vote yes
+13:08 #spi: < Ganneff> !vote yes
+13:08 #spi: < Solver> !vote yes
+13:09 #spi: < linuxpoet> !vote yes
+13:09 #spi: < zobel> !vote yes
+13:09 #spi: < Noodles> Clint?
+13:10 #spi: < Clint> !vote yes
+13:10 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday 11th April 2013": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+13:10 #spi: < Noodles> Voting for "Meeting minutes for Thursday 11th April 2013" closed.
+13:11 #spi: < bdale> cool
+13:11 #spi: < bdale> [item 7, Items up for discussion]
+13:11 #spi: < bdale> [item 7.1, Resolution 2013-05-06.jmd.1 (MinGW as associated project)]
+13:11 #spi: < bdale> any discussion?
+13:11 #spi: < bdale> I'm somewhat familiar with this project, but haven't had time this week to dig in .. anyone have any concerns?
+13:12 #spi: < Solver> seems uncontroversial
+13:12 #spi: < Noodles> This was a late addition, but I didn't think it was likely to be contentious and nothing was brought up on the lists.
+13:12 #spi: < bdale> ok
+13:12 #spi: < Solver> I was also familiar with it
+13:12 #spi: < bdale> I'm happy to vote on it, then
+13:12 #spi: < Noodles> Voting started, 8 people (ganneff,clint,bdale,solver,schultmc,noodles,zobel,linuxpoet) allowed to vote on Resolution 2013-05-06.jmd.1 (MinGW as associated project). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:12 #spi: < Clint> !vote yes
+13:12 #spi: < Noodles> !vote yes
+13:12 #spi: < schultmc> !vote yes
+13:12 #spi: < bdale> !vote yes
+13:12 #spi: < zobel> !vote yes
+13:12 #spi: < Ganneff> !vote yes
+13:12 #spi: < Solver> !vote yes
+13:13 #spi: < linuxpoet> !vote yes
+13:13 #spi: < Noodles> Current voting results for "Resolution 2013-05-06.jmd.1 (MinGW as associated project)": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+13:13 #spi: < Noodles> Voting for "Resolution 2013-05-06.jmd.1 (MinGW as associated project)" closed.
+13:13 #spi: < Hydroxide> gah
+13:13 #spi: < Hydroxide> Jimmy Kaplowitz
+13:13 #spi:  * Hydroxide votes yes for mingw if it's not too late
+13:13 #spi: < bdale> Hydroxide: welcome .. no worries
+13:14 #spi:  * Hydroxide doesn't object to last month's minutes either but clearly wasn't paying attention for that vote, so proceed :)
+13:14 #spi: < bdale> Noodles: do we have the MinGW rep on channel, or will you follow up?
+13:14 #spi: < Noodles> I'll follow up; I don't think either of the reps are on channel.
+13:14 #spi: < bdale> ok
+13:14 #spi: < bdale> thanks
+13:15 #spi: < bdale> [item 8, Any other business]
+13:15 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+13:15 #spi: < bdale> so, what's the open voting deal?
+13:15 #spi: < bdale> have they just gone away?
+13:15 #spi: < schultmc> their domain expired and some squatters grabbed it
+13:15 #spi: < Ganneff> the domain at least has. (it wasnt with us)
+13:15 #spi: < Noodles> Looks like either they've gone away or the domain has expired.
+13:15 #spi: < Noodles> Though the registration on the domain doesn't appear "new"?
+13:15 #spi: < Solver> I can remove the link so it is plain text on our page
+13:15 #spi: < schultmc> i'm connected to the liaison on linkedin - looks like he stopped working on OVF in 2012 sometime
+13:16 #spi: < bdale> Solver: that sounds like a good step
+13:16 #spi: < Noodles> Solver: I think that's the minimum we want.
+13:16 #spi: < bdale> schultmc: can you poke, please?  we can disassociate easily enough if the project is just gone.
+13:16 #spi: < Noodles> But if they don't exist any more then we have some money in their name.
+13:16 #spi: < Hydroxide> if we've had OVF and OSUNIX and Path64 vanish, we may want to adjust our associated project framework for new projects to address the case of them vanishing/going defunct, so that we can legally do something sane with the assets
+13:16 #spi: < Noodles> Only $154.21 it seems.
+13:16 #spi: < schultmc> bdale: sure
+13:16 #spi: < Solver> OSUNIX web site has been dead for ages
+13:16 #spi: < Solver> I was bout to bring it up too :)
+13:16 #spi: < zobel> Noodles: i have one small remark for the minutes of last month: "OFTC's immediate needs for an SSL certificate had been dealt with via the purchase of a specific cert." it was a cost free certificate.
+13:16 #spi: < Noodles> zobel: Ok, noted.
+13:17 #spi: < Hydroxide> and then start addressing the issue how to handle existing projects (it's trickier since donors donated within the existing set of expectations, if they bothered to look)
+13:17 #spi: < Hydroxide> (but only tricky for projects that aren't going to spend an amount equal to their current assets in the foreseeable future) 
+13:17 #spi: < bdale> Hydroxide: my assumption is that if a project really goes away the default would be that the funds fall to the SPI general fund?
+13:18 #spi: < Solver> wasn't there a discussion on -board last year about the difficulty of dealing with the donations if the project disappears
+13:18 #spi: < Solver> SFLC was involved in the discussion
+13:18 #spi: < Hydroxide> bdale: I don't know that we can do that solely on our say-so. I think it might need to wait 20 years and then go to a court for permission, or something, if we don't get donors to agree otherwise
+13:18 #spi: < Solver> yes it was something like that
+13:18 #spi: < bdale> I guess I appreciate your attention to detail, but that sure seems ridiculous for $154.21
+13:19 #spi: < Solver> agreed
+13:19 #spi: < Hydroxide> bdale: charitable donor intent has pretty strong impact :) I don't remember the details, but the simplest way forward is to make a default general fund rule in the associated projects framework for new projects
+13:19 #spi: < bdale> ok
+13:19 #spi: < bdale> are you up for looking at what we need to do on that?
+13:19 #spi: < Hydroxide> bdale: and then have most projects agree to change the rule for new donations and that they'll use up old-rules assets first, and then bug the few donors we have for defunct projects (not a lot)
+13:19 #spi: < Hydroxide> sure
+13:20 #spi: < Hydroxide> I'll have more time starting in a couple of weeks compared to april and early may
+13:20 #spi: < bdale> ok, thanks
+13:20 #spi: < Hydroxide> np
+13:20 #spi: < bdale> anything else we need to talk about today?
+13:20 #spi: < Solver> the proposed donation
+13:21 #spi: < bdale> sure, we can do that here or in email, whatever folks prefer
+13:21 #spi: < bdale> I think Josh suggested $10k and various folks suggested it be restricted to just the project in question 
+13:22 #spi: < bdale> it also sounded from chat here the other day like there might be interest in looking at what Bradley is using now and/or helping with the phase 0 review?
+13:22 #spi: < schultmc> yes
+13:22 #spi: < Solver> $10K is quite a bit.  Like most everyone else I like the idea proposed by SFC.  I want to make sure we don't cut in to funds too much given that expenditure will likely go up once we engage the bookkeepers
+13:23 #spi: < schultmc> i'm interested in reviewing what SFC is currently using
+13:23 #spi:  * Hydroxide is fine with that amount and restriction, though won't have time to be involved in any paperwork (e.g. grant agreement) himself - probably we could just send him a check with a suitable restriction in the memo field, and enclose a letter noting it just to ensure whoever cashes it doesn't overlook it
+13:23 #spi: < schultmc> fyi, we semi recently received a $10k grant
+13:23 #spi: < bdale> from Google, right?
+13:23 #spi: < schultmc> and we rarely spend much out of the general fund
+13:23 #spi: < Solver> yep
+13:23 #spi: < schultmc> bdale: yes
+13:23 #spi: < Hydroxide> Solver: $10k is a reasonable minority of what we have in the general fund IMHO, plus we've never even done much SPI-focused fundraising - if we actually have a need to, I think we could raise it
+13:24 #spi: < bdale> I agree
+13:24 #spi: < bdale> I'm fine with $10k, fwiw
+13:24 #spi: < Clint> if the board is interested in funding development, i'm sure there are tons of tasks we could consider
+13:25 #spi: < bdale> Clint: indeed
+13:25 #spi: < Noodles> I'd really rather us finally make some steps towards sorting out our own financial stuff first.
+13:25 #spi: < Solver> yes it is new for spi, afaik
+13:25 #spi: < bdale> in the past, we haven't had sufficient resources for it to seem to make sense to start funding things in a broad sense
+13:26 #spi: < Noodles> I know they're sort of orthogonal tasks, but it still seems to be putting the cart before the horse.
+13:26 #spi: < bdale> Noodles: as would I.  is there anything we can/should be doing to move faster?  
+13:26 #spi: < Hydroxide> is there a desire to approve this today or do we want to defer a month? I don't see a reason to defer given that the issues are orthogonal, but equally bkuhn has made clear that any donation from us isn't urgent
+13:26 #spi: < bdale> we have no resolution before us
+13:26 #spi: < Clint> i don't see a reason to rush
+13:26 #spi: < bdale> bkuhn isn't in that much of a rush
+13:26 #spi: < Hydroxide> okay
+13:26 #spi: < Clint> especially since the failings of our current system have yet to be enumerated
+13:27 #spi: < Solver> if there is no rush I'd like to consider it for a while, especially given that at least one other board member expressed a reservation
+13:27 #spi: < zobel> schultmc: are there plans to move money from Checking account to a Savings account?
+13:27 #spi: < schultmc> zobel: we have 2 savings accounts
+13:27 #spi: < bkuhn> re: rush mainly because I never expected SPI would use its limited resources to give us a donation.  Conservancy does need to raise the money, but I was surprised SPI was even considering it (although it's much appreciated).
+13:27 #spi: < bdale> ok.  so schultmc seems interested in looking at what Bradley uses now vs what we use, if that can happen soon that would seem helpful
+13:27 #spi:  * schultmc can transfer funds from checking to saving whenever needed
+13:27 #spi: < Solver> It is true that the contributing members that have posted have all supported a donation, iirc
+13:28 #spi: < Hydroxide> who wants to take responsibility for making progress on this before next month and presenting a resolution if appropriate? "progress" should include working out with bkuhn what legal paperwork they'd consider necessary - a memo field note may not work for them.
+13:28 #spi: < bkuhn> schultmc: https://gitorious.org/ledger/npo-ledger-cli is where I'm documenting Conservancy's current setup.
+13:28 #spi: < bkuhn> patches (and questions) welcome. :)
+13:28 #spi: < zobel> schultmc: sure. just Key Business Reward Checking looks quite much for a checking account
+13:28 #spi: < Hydroxide> Clint: I don't even think there is a system per se, more like an ad-hoc combo of things
+13:28 #spi: < schultmc> bkuhn: thanks - i signed up for gitorius recently to poke around
+13:29 #spi: < zobel> schultmc: but i leave that to you to decide.
+13:29 #spi: < zobel> is the meeting finished btw?
+13:29 #spi: < bdale> this is other biz
+13:29 #spi: < Hydroxide> schultmc: but since Clint is right that we should be explicit can you send a summary to the -general thread documenting the failings of the current arrangement?
+13:29 #spi: < bdale> the only thing left is next meeting
+13:29 #spi: < schultmc> Hydroxide: sure
+13:29 #spi: < Hydroxide> schultmc: ideally soon before we all forget? :)
+13:29 #spi: < Hydroxide> thanks
+13:29 #spi: < Solver> I'd like to confirm we're settled on the question of becoming a CA?
+13:29 #spi: < Solver> too expensive?
+13:30 #spi: < bdale> I thought we wrapped that last month?
+13:30 #spi: < Hydroxide> wait, can someone take responsibility to keep the Conservancy donation issue going forward before we move past?
+13:30 #spi: < Ganneff> yep we did
+13:30 #spi: < Solver> oh ok
+13:30 #spi: < Hydroxide> schultmc just agreed to summarize why the status quo is bad, but nobody took responsibility for keeping the ball moving
+13:30 #spi: < Ganneff> Hydroxide: you just did :)
+13:30 #spi: < bdale> I suspect jberkus would be willing to recast his proposal as an actual resolution
+13:30 #spi: < Solver> :)
+13:30 #spi: < Hydroxide> e.g. moving toward a discussion conclusion + resolution + determining what's okay with bkuhn/Conservancy
+13:31 #spi: < Hydroxide> Ganneff: I dont' have the time for that - I have to pace my committments now
+13:31 #spi: < bdale> there's no requirement that resolutions be drafted by board members
+13:31 #spi: < Hydroxide> bdale: true
+13:31 #spi:  * Solver is also flat out so won't volunteer for anything else :(
+13:31 #spi: < Hydroxide> jberkus: are you okay with doing those bits then?
+13:32 #spi: < bdale> ok .. I suspect jberkus will see his nick mentioned here and respond at some point.  I'll make sure that at least that connect gets made.
+13:32 #spi: < Solver> OVF spam site no longer linked from spi site
+13:32 #spi:  * Hydroxide suggest we move on if he's not around, yeah.
+13:32 #spi: < Hydroxide> Solver: cool
+13:32 #spi: < bdale> [item 9, Next board meeting]
+13:32 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 13 June 2013, 20:00 UTC.
+13:32 #spi: < bdale> Any strong objections?
+13:32 #spi: < schultmc> works for me
+13:32 #spi: < bdale> looks like that works for me
+13:32 #spi: < Solver> fine thanks
+13:32 #spi: < Ganneff> i wont be available then, vacation, so regrets from already.
+13:32 #spi: < Noodles> Ganneff: Noted.
+13:32 #spi: < bdale> Ok, thank you to everyone present for participating today.
+13:32 #spi: < bdale> *GAVEL*
