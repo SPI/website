@@ -1,0 +1,394 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxpoet)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Luca Filipozzi (luca)
+* David Graham (cdlu)
+
+
+These are the minutes for the May 9th, 2013 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2013/2013-05-09-log.txt).
+
+
+## President's Report
+
+Bdale was pleased to have been able to review and comment on Bradley
+Kuhn's call to donations for a Free Software solution to the accounting
+needs of NPOs like SPI. He also noted he had submitted a request for an
+SPI BOF to the DebConf 13 organizers.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period April 01, 2013 - April 30, 2013
+
+ Income
+   Ordinary Income
+        ankur.org.in                     1,000.00
+        Arch Linux                         470.80
+        DebConf 13                      12,907.84
+        Debian                          11,861.79
+        Drizzle                          4,500.00
+        FFmpeg                             110.00
+        freedesktop.org                    100.00
+        FreedomBox Foundation            4,000.00
+        Haskell                          5,368.60
+        Jenkins                             90.00
+        LibreOffice                     34,750.40
+        Open Bioinformatics Foundation  37,447.31
+        OpenWrt                             52.00
+        PostgreSQL                       2,681.97
+        Privoxy                            100.00
+        SPI General                        320.00
+        SPI 5%                             383.87
+        TideSDK                            166.00
+        Tux4Kids                         2,488.65
+
+        Total Ordinary Income          118,799.23
+                                       ----------
+
+   Interest Income
+        Key Business Platinum MM Savings     0.59
+        Chase BusinessClassic Checking       0.10
+        Chase Bus Select High Yield Savings 36.51
+
+        Total Interest Income               37.10
+                                            -----
+
+   Gross Income                        118,836.33
+                                       ----------
+
+ Expenses
+  Ordinary Expenses
+
+        Arch Linux
+          Processing Fees            25.48
+          SPI 5%                     23.54
+
+          Total Arch Linux Exp       49.02
+                                     -----
+
+        DebConf 13
+          Processing Fees             0.52
+
+          Total DC13 Exp              0.52
+                                      ----
+
+        Debian
+          Debit Card Fee              3.00
+          Hardware Warranty         882.18
+          Processing Fees            41.72
+          SPI 5%                    117.39
+
+          Total Debian Exp        1,044.29
+                                  --------
+
+        FFmpeg
+          Processing Fees             3.39
+          SPI 5%                      5.50
+
+          Total FFmpeg Exp            8.89
+                                      ----
+
+        freedesktop.org
+          Server Maintenance        547.50
+          SPI 5%                      5.00
+
+          Total fd.o Exp            552.50
+                                    ------
+
+        FreedomBox Foundation
+          SPI 5%                    200.00
+
+          Total FreedomBox Exp      200.00
+                                    ------
+
+        Haskell
+          Hosting Fees               54.29
+
+          Total Haskell Exp          54.29
+                                     -----
+
+        Jenkins
+          Processing Fees            4.83
+          SPI 5%                     4.50
+
+          Total Jenkins Exp          9.33
+                                     ----
+
+        LibreOffice 
+          Bugzilla work           6,655.50
+          Processing Fees            23.73
+          SPI 5%                      8.50
+          Travel Reimbursement    3,957.19
+
+          Total LibreOffice Exp  10,644.92
+                                 ---------
+
+        Open Bioinformatics Foundation
+          Processing Fees             2.78
+          SPI 5%                      3.04
+
+          Total OBF Exp               5.82
+                                      ----
+        OpenWrt
+          SPI 5%                      2.60
+
+          Total OpenWrt Exp           2.60
+                                      ----
+
+        PostgreSQL
+          Processing Fees             0.58
+          SPI 5%                      0.50
+
+          Total PostgreSQL Exp        1.08
+                                      ----
+
+        Privoxy
+          SPI 5%                      5.00
+
+          Total Privoxy Exp           5.00
+                                      ----
+
+        SPI
+          Office Supplies            53.51
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           32.86
+
+          Total SPI Exp             116.32
+                                    ------
+
+        The HeliOS Project
+          Expense Reimbursement     747.02
+
+          Total HeliOS Exp          747.02
+                                    ------
+
+       TideSDK
+         Processing Fees              6.54
+         SPI 5%                       8.30
+
+         Total TideSDK Exp           14.84
+                                     -----
+
+
+        Total Expenses           13,456.44
+                                 ---------
+
+        Net Income              105,379.89
+                                ==========
+
+
+Balance Sheet as of April 30, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      12,718.67
+        Chase Business Select High Yield Savings         208,598.48
+        KeyBank Basic Business Checking                    1,078.73
+        Key Business Reward Checking                     156,843.88
+        Key Business Platinum Money Market Savings        36,033.75
+        Key Express Checking                               5,000.76
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    272.00
+
+     Total Current Assets                                433,952.42
+
+
+   TOTAL ASSETS                                          433,952.42
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                        39.83
+           ankur.org.in                       1,000.00
+           aptosid Earmark                      181.06
+           Arch Linux Earmark                 9,895.40
+           Debian Earmark                   100,677.75
+           DebConf 13 Earmark                34,431.36
+           Drizzle                            4,306.80
+           FFmpeg                               980.87
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           20,549.86
+           FreedomBox Foundation Earmark     24,418.33
+           Gallery Earmark                    8,095.58
+           GNU TeXmacs Earmark                  272.22
+           Haskell Earmark                   16,179.88
+           Jenkins Earmark                    9,904.06
+           LibreOffice Earmark               52,875.67
+           madwifi-project.org Earmark        1,494.90
+           OpenVAS                               47.18
+           OpenWrt                            2,841.94
+           Open Bioinformatics Earmark       37,441.49
+           Open Voting Foundation Earmark       154.21
+           OSUNIX                                 1.12
+           Path64                                 9.87
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                22,964.79
+           Privoxy Earmark                      793.15
+           The HeliOS Project Earmark             0.00
+           TideSDK Earmark                      426.81
+           Tux4Kids Earmark                  16,277.50
+           YafaRay Earmark                    4,883.13
+
+        Total held in trust                              378,639.76
+
+        General reserves                                  55,312.66
+
+     Total Equity                                        433,952.42
+
+   TOTAL LIABILITIES & EQUITY                            433.952.42
+</pre>
+
+The higher than normal income this month was from Google Summer of Code
+funds, transfer of OBF funds to SPI, and receipt of LibreOffice advisory
+board funds.  He hadn't yet heard back from the local bookkeeping firm.
+
+
+## Secretary's report
+
+Jonathan had nothing to report.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 11th April 2013:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 missing.
+
+
+## Resolution 2013-05-06.jmd.1: MinGW as associated project
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss </td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 missing.
+
+
+## Any other business
+
+There was some discussion about the fact that the Open Voting Foundation
+website had disappeared and been replaced with a SEO site. As a minimum
+it was agreed we'd remove the link to the no longer active site, but the
+larger concern of what to do about projects that were no longer active
+was brought up. This potentially applies to OSUNIX and Path64 as well.
+
+The SFC accounting software proposal was also discussed, with a
+suggestion that SPI would contribute $10,000 towards the effort.
+Agreement on this was not reached, but it was agreed we'd probably want
+to get involved in the process of defining the needs of NPOs such as SPI
+and that we should revisit the topic of donating after some further
+investigation.
+
+## Adjournment
+
+The meeting was adjourned until Thursday, June 13th, 2013 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2010<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2010<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2010<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2010<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+## Appendix B: Resolutions
+
+### Resolution 2013-05-06.jmd.1: MinGW as associated project
+
+<pre>
+WHEREAS
+
+1. MinGW is a substantial and significant Free Software project.
+
+2. The MinGW developers would like SPI's support and assistance,
+including taking donations and holding trademarks.
+
+THE SPI BOARD RESOLVES THAT
+
+3. MinGW is formally invited to become an SPI Associated Project,
+according to the SPI Framework for Associated Projects, SPI Resolution
+1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be found
+at http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Earnie Boyd is recognised by SPI as the liaison to SPI for MinGW and
+is responsible in the first instance for communicating the wishes of
+MinGW to SPI. In the event of the need for a replacement Keith Marshall
+will name the new liaison.
+
+5. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+</pre>
+
+[[!meta copyright="Copyright © 2013 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
