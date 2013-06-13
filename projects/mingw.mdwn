@@ -1,0 +1,28 @@
+# MinGW
+
+<center>
+MinGW<br />
+Minimalist GNU for Windows
+</center>
+
+[MinGW](http://www.mingw.org/) provides a complete Open Source
+programming tool set which is suitable for the development of native
+MS-Windows applications, and which do not depend on any 3rd-party
+C-Runtime DLLs. (It does depend on a number of DLLs provided by
+Microsoft themselves, as components of the operating system; most
+notable among these is MSVCRT.DLL, the Microsoft C runtime library.
+Additionally, threaded applications must ship with a freely
+distributable thread support DLL, provided as part of MinGW itself).
+
+
+Project Liaison
+
+Earnie Boyd
+
+Services
+
+* Accepting donations
+* Holding trademarks
+
+[[!meta copyright="Copyright © 2013 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
