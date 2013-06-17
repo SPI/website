@@ -1,0 +1,178 @@
+21:05 #SPI: < Noodles> *GAVEL*
+21:05 #SPI: < Noodles> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, w
+21:05 #SPI: < Noodles> hich is now called to order.
+21:05 #SPI: < Noodles> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-06-13/
+21:05 #SPI: < Noodles> [item 2, Roll Call]
+21:05 #spi: < schultmc> Michael Schultheiss
+21:05 #spi: < Solver> Robert Brockway
+21:05 #spi: < Hydroxide> Jimmy Kaplowitz
+21:05 #SPI: < Noodles> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:05 #spi: < Clint> Clint Adams
+21:05 #SPI: < Noodles> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:05 #SPI: < Noodles> Jonathan McDowell
+21:06 #spi: < schultmc> linuxpoet: ping
+21:06 #SPI: < Noodles> I've received regrets from Ganneff and zobel.
+21:07 #spi: < linuxpoet> JOshua Drake
+21:07 #spi: < Hydroxide> that's quorum!
+21:07 #SPI: < Noodles> \o/
+21:07 #SPI: < Noodles> [item 3, President's Report]
+21:07 #SPI: < Noodles> No bdale, no report.
+21:07 #SPI: < Noodles> [item 4, Treasurer's Report]
+21:07 #SPI: < Noodles> Michael?
+21:07 #spi: < schultmc> Standard report is in the agenda and has been e-mailed out.  Nothing of note.
+21:07 #spi: < schultmc> Bookkeeping: I contacted Foster Results (local) and Human Bookkeeping (Massachusetts).  I left a message with Foster Results since I was unable to reach anyone.  
+21:07 #spi: < schultmc> Human Bookkeeping got back to me and will be sending me an e-mail with more details about their services.  In short, 99% of their clients' books are done in QuickBooks but they can also use other systems if desired.  They can also provide us reports regardless of the backend bookkeeping software.  
+21:07 #spi: < schultmc> Based on the estimated level of transactions, they quoted a monthly fee of roughly $479/mo with a 10% discount since we're a 501(c)(3) bringing the monthly total to $431/mo.  They can either start fresh with June's books or start from January so the entire year is on the same system.  They estimate $579 for up to 9 hours of catchup work, $379 for 6 hours of catch up work.  Any left over from the catchup fee would be applied to future mo
+21:08 #SPI: < Noodles> That got cut off after "future mo".
+21:08 #spi: < schultmc> uture monthly  billings.  They are fully bonded and insured.
+21:08 #spi: < schultmc> </end>
+21:08 #SPI: < Noodles> Any feel on how they compare to the people PostgreSQL are using?
+21:08 #spi: < linuxpoet> It should be noted that 99% of all small businesses use Quickbooks
+21:08 #spi: < Hydroxide> great, thanks for the information! do we have a similar quote for comparison purposes from whoever jberkus suggested, and have you had a chance to make a comparison?
+21:09 #spi: < linuxpoet> PostgreSQL.US uses Alten Sakai (which is who Command Prompt's CPA is)
+21:09 #spi: < schultmc> I'd like to also get a quote from foster results just for comparison
+21:09 #spi: < Clint> could you explain what services would be provided?
+21:09 #spi: < Solver> I was concerned about data formats but it sounds like they are preparted to work with us
+21:09 #spi: < schultmc> bookkeeping and accounting
+21:10 #spi: < Solver> you (or an assistant treasurer) would still approve and make payments right?
+21:10 #spi: < schultmc> yes
+21:11 #spi: < Solver> I'd prefer not to have to wait until next month to do approval
+21:12 #SPI: < Noodles> We can vote via email if necessary. If schultmc wants to get a 3rd quote I think that's reasonable enough.
+21:12 #SPI: < Noodles> As long as it doesn't delay us too long.
+21:12 #spi: < schultmc> I'd expect to hear back from foster results tomorrow or Monday
+21:12 #spi: < Solver> or we could pre-approve up to a certain amount?
+21:12 #spi: < Hydroxide> Solver: did you want to rely on an email vote or did you want to make a motion to approve up to a certain price per month and leave it up to schultmc, with some reasonable conditions?
+21:13 #spi: < Solver> yes I'd prefer to pre-approve
+21:13 #spi: < linuxpoet> I would like to have an idea of Solver's data format concerns
+21:13 #spi: < Hydroxide> I'd be fine approving schultmc's judgment for a fully bonded/insured bookkeeper/accountant up to 10% above the quote he just mentioned
+21:13 #spi: < Hydroxide> or some other reasonable buffer for human judgment in selecting something
+21:13 #spi: < Solver> linuxpoet: I was just wondering how they would cope with non-quickbooks
+21:13 #spi: < linuxpoet> Solver: are we expected them not to use Quickbooks?
+21:14 #spi: < Hydroxide> if you want to require non-quickbooks-friendliness as a condition, I'd be okay with that, or leaving it out for flexibility but still striving for it
+21:14 #spi: < Solver> Hydroxide: I was thinking that exact figure
+21:14 #spi: < Hydroxide> cool :) /me leaves any motion drafting to Solver or others here
+21:14 #spi: < linuxpoet> I think we need to let them use the tool that is most appropriate
+21:15 #spi:  * Hydroxide fine with not specifying it as a condition but striving for it to the extent feasible, as a non-blocker.
+21:15 #spi: < Solver> I haven't done a proposal 'cold' before but I propose we approve schultmc to make an agreement with a bookkeeping firm to do 'catchup' work and proceed with month by month payments up to 10% greater than the figures schultmc quoted above
+21:15 #SPI: < Noodles> FWIW the other quote was somewhere from $360 - $720/month very roughly.
+21:16 #SPI: < Noodles> (It was a quote per hour with a rough guess of hours a week required.)
+21:16 #spi: < schultmc> the quote was $431/mo
+21:16 #spi: < schultmc> the hourly work was one time to input january - may data
+21:16 #spi: < schultmc> as well as set us up in their system
+21:17 #SPI: < Noodles> schultmc: For Stacey's quote?
+21:17 #spi: < schultmc> Noodles: oh
+21:17 #spi: < schultmc> Noodles: I was referring to the quote I just got
+21:17 #SPI: < Noodles> I'm providing a comparison to this quote.
+21:17 #spi: < schultmc> I didn't recall jberkus' bookkeeper's quote - thanks for providing the info
+21:17 #spi: < Hydroxide> Noodles: are you suggesting different dollar thresholds then?
+21:18 #SPI: < Noodles> I'm not sure I have a feel for how much it will cost or how much time it will take. The original quote seems to assume more time required, as the hourly cost is cheaper than that quoted above.
+21:18 #spi: < Solver> Ok, I propose we approve schultmc to make an agreement with a bookkeeping firm to do 'catchup' work and proceed with month by month payments with a budget of $1000 for catch up and $500 per month for on-going fees
+21:18 #spi: < linuxpoet> I think we are being optimistic with those numbers and we should allow for at least 2x more
+21:18 #spi: < Solver> this should give plenty of flexibility
+21:18 #SPI: < Noodles> I think we should wait the few days for the 3rd quote to come in so we have a better feel for the cost.
+21:19 #spi: < linuxpoet> remember, these are per hour rates which means, a single question could tack on 2 hours more work
+21:19 #SPI: < Noodles> If we contrain schultmc to $500 and it turns out 2 of the 3 quotes are more than I don't feel we should be picking purely on cost.
+21:19 #spi: < Clint> so none of these options are flat monthly fee?
+21:19 #spi: < schultmc> the $431/mo fee is a flat rate based on up to 1000 transactions per month
+21:20 #spi: < Clint> ok
+21:20 #spi: < schultmc> the hourly fee was for setup and importing past data
+21:20 #spi: < Solver> how many tranactions do we do now?
+21:20 #spi: < Solver> (roughly)
+21:20 #spi: < schultmc> under 1000 - roughly 500 I'd estimate
+21:20 #spi: < schultmc> I estimated high for the quote
+21:20 #spi: < Solver> thanks
+21:20 #spi: < Solver> good idea
+21:20 #spi: < Hydroxide> Do we want to say $750/month as a monthly max but encourage schultmc to save money if it won't cut value? I mean, hopefully it'll be either be a lower flat fee or lower every month we don't have something complicated, but it's worth paying for something that will do the job here
+21:21 #spi: < Solver> If Noodles wants to wait for the quote I'm happy to proceed with an email vote.  I just don't want us to wait another month
+21:21 #spi: < linuxpoet> Does the flat fee include any consulting? That is where my concern is, when transaction 432 doesn't make sense and you are on the phone for 2 hours, and then they dig for an hour and then there is another 1 hour call
+21:21 #spi: < linuxpoet> that is 4 hours extra
+21:21 #spi: < schultmc> I don't know - we can certainly ask before committing to anything
+21:22 #SPI: < Noodles> schultmc: What would you prefer? Do you think that if we approve you up to $750 you'll have a good feel for who you want to use within the next week?
+21:22 #SPI: < Noodles> Or would you rather collect the info and make a concrete proposal for us to approve?
+21:22 #spi: < linuxpoet> schultmc: to give you a correlation, CMD pays about 20k a year in total for CPA + Internal book keeper. Granted we are doing a lot more than SPI, but even when we were much smaller we allocated 6k a year minimum and we were still doing our own books
+21:23 #spi: < schultmc> Noodles: yes, assuming we hear back from the third option.
+21:23 #spi: < Hydroxide> ok, if we're actually going to do the email vote quite soon AND believe unanimity can be achieved (required), we can do that, but I share Solver's concern about this getting delayed for a month by default.
+21:23 #spi: < schultmc> linuxpoet: thanks for the data
+21:23 #spi: < Hydroxide> so voting now seems preferable. keep in mind nothing forces schultmc to proceed without a vote, it just authorizes him to do so
+21:23 #SPI: < Noodles> I'm fine with voting as schultmc thinks we're close to an answer.
+21:24 #spi: < Hydroxide> he's the treasurer, some discretion in these matters is common for treasurers
+21:24 #spi: < Hydroxide> not everything needs to be fully concrete in front of a board vote :)
+21:24 #SPI: < Noodles> What's the wording? "Authorize the treasurer to commit to expendature of up to $1500 catch up, $750 monthly to cover hiring a bookkeper to aide in the treasurer's duties"?
+21:24 #spi: < linuxpoet> Hydroxide: very true, this is really an operational thing, I am surprised we are holding a vote
+21:25 #spi: < Clint> we may have already authorized this previously
+21:25 #spi: < Hydroxide> Noodles: sounds good to me. s/aide/aid/ (grammar) and maybe add "fully bonded and insured"
+21:25 #spi: < Hydroxide> Clint: entirely possible. :) probably with lower thresholds though, if I remember right
+21:26 #spi: < Hydroxide> Clint: I think $500/month and good arguments were just made that it's too low as a hard maximum (likely good as a goal), plus doesn't handled catch-up
+21:26 #spi: < Hydroxide> -d
+21:26 #SPI: < Noodles> Voting started, 6 people (schultmc,solver,hydroxide,clint,noodles,linuxpoet) allowed to vote on Authorize the treasurer to commit to expenditure of up to $1500 catch up, $750 monthly to cover hiring a fully bonded and insured bookkeper to aid in the treasurer's duties. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:26 #spi: < Hydroxide> !vote yes
+21:26 #spi: < Clint> !vote yes
+21:26 #SPI: < Noodles> !vote yes
+21:26 #spi: < schultmc> !vote yes
+21:26 #spi: < Solver> !vote yes
+21:26 #spi: < linuxpoet> !vote yes
+21:26 #SPI: < Noodles> Current voting results for "Authorize the treasurer to commit to expenditure of up to $1500 catch up, $750 monthly to cover hiring a fully bonded and insured bookkeper to aid in the treasurer's duties": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:26 #SPI: < Noodles> Voting for "Authorize the treasurer to commit to expenditure of up to $1500 catch up, $750 monthly to cover hiring a fully bonded and insured bookkeper to aid in the treasurer's duties" closed.
+21:26 #SPI: < Noodles> Excellent.
+21:26 #SPI: < Noodles> Moving on...
+21:26 #SPI: < Noodles> [item 5, Secretary's report]
+21:27 #SPI: < Noodles> MinGW accepted our invitation to become an associated project. I've added them to the list on the website.
+21:27 #spi: < Hydroxide> linuxpoet: we've never gotten in the habit of having officers do as much as our bylaws probably allow without a vote, even though we should. not worth continued discussion during the meeting though.
+21:27 #spi:  * Hydroxide shuts up :)
+21:27 #spi: < Solver> :)
+21:27 #SPI: < Noodles> We have an outstanding mail from Swathanthra Malayalam Computing (http://smc.org.in) about becoming an associated project.
+21:27 #SPI: < Noodles> I don't know anything about them to be honest.
+21:27 #SPI: < Noodles> But I'll try to reply in the next few days as it's been sitting around on board@ for a while now.
+21:28 #SPI: < Noodles> Also next month we have an election, with 4 of the board up for re-election if I recall correctly.
+21:28 #spi: < linuxpoet> Noodles: Am I on that list (of re-election?)
+21:29 #SPI: < Noodles> bdale, Ganneff, linuxpoet & zobel.
+21:29 #spi: < linuxpoet> yep
+21:29 #SPI: < Noodles> Nothing else from me this month.
+21:29 #SPI: < Noodles> [item 6, Outstanding minutes]
+21:29 #SPI: < Noodles> One set of minutes to vote on, from last month.
+21:29 #spi: < Hydroxide> are we all set up to run the election, btw?
+21:30 #SPI: < Noodles> Voting started, 6 people (schultmc,solver,hydroxide,clint,noodles,linuxpoet) allowed to vote on Meeting minutes for 2013-05-09 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:30 #spi: < schultmc> !vote yes
+21:30 #SPI: < Noodles> !vote yes
+21:30 #spi: < Hydroxide> !vote abstain
+21:30 #spi: < Clint> !vote yes
+21:30 #spi: < Solver> !vote yes
+21:30 #spi: < Hydroxide> (abstaining since I missed most of the meeting including all votes)
+21:30 #SPI: < Noodles> linuxpoet?
+21:31 #SPI: < Noodles> schultmc: I need to check the machinery works after the members move, but assuming so we should be.
+21:31 #spi: < linuxpoet> !vote yes
+21:31 #SPI: < Noodles> Sorry, s/schultmc/Hydroxide/
+21:31 #SPI: < Noodles> Current voting results for "Meeting minutes for 2013-05-09 board meeting": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+21:31 #SPI: < Noodles> Voting for "Meeting minutes for 2013-05-09 board meeting" closed.
+21:31 #SPI: < Noodles> [item 7, Items up for discussion]
+21:31 #spi: < Hydroxide> Noodles: cool
+21:31 #SPI: < Noodles> Don't think we have anything here this month.
+21:31 #spi: < Solver> one items for other business
+21:31 #SPI: < Noodles> Just getting to that...
+21:31 #SPI: < Noodles> [item 8, Any other business]
+21:31 #SPI: < Noodles> Go ahead.
+21:32 #spi: < Solver> the last bit of the debian audit is still hanging around
+21:32 #spi: < Solver> It's a bit unclear to me what we need to do so I've asked debian for clarification on what transactions (defined by dates) they don't have
+21:33 #spi: < Solver> I'm hoping zobel can provide scanned copies of the hand written work he did
+21:34 #spi: < Solver> that's all I have
+21:34 #spi: < lucas> hi. I just answered via email. According to the mails I saw, the handwriting was on the bank listings?
+21:34 #spi: < Solver> ok thanks.  I looked through but didn't see the stuff.  If I don't have it i'll ping you.
+21:35 #SPI: < Noodles> Anything else?
+21:35 #spi: < Hydroxide> is jberkus here?
+21:35 #spi: < Hydroxide> he was driving forward the SFC donation IIRC
+21:36 #spi: < Hydroxide> if he's not here, nothing else from me
+21:36 #spi: < Hydroxide> if he is, just wondering status.
+21:36 #SPI: < Noodles> I've not seen anything more about that since last month's meeting.
+21:36 #spi: < Solver> same
+21:36 #spi: < schultmc>  /me forgot to mention explicitly that libreoffice donated $500 to SFC for the accounting fundraiser
+21:37 #spi: < Solver> excellent
+21:37 #SPI: < Noodles> [item 9, Next board meeting]
+21:37 #SPI: < Noodles> July 11th, 2013, 20:00 UTC would seem to be the next according to our current schedule.
+21:37 #spi: < Solver> no objection here
+21:38 #spi: < linuxpoet> no objection here
+21:38 #spi: < Hydroxide> I'll be on a work trip, so my attendance depends on schedule there
+21:38 #spi: < Hydroxide> but it might be fine
+21:38 #spi: < Hydroxide> no reason to reschedule, at least
+21:38 #SPI: < Noodles> Ok.
+21:38 #SPI: < Noodles> In that case:
+21:39 #SPI: < Noodles> *GAVEL*
