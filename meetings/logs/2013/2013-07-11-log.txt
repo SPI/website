@@ -1,0 +1,266 @@
+21:03 #spi: < bdale> *GAVEL*
+21:03 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+21:03 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-07-11/
+21:03 #spi: < bdale> [item 2, Roll Call]
+21:03 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:03 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:03 #spi: < Ganneff> Joerg Jaspert
+21:03 #spi: < linuxpoet> Joshua Drake
+21:03 #spi: < Solver> Robert Brockway
+21:03 #spi: < schultmc> Michael Schultheiss
+21:04 #SPI: < Noodles> Jonathan McDowell
+21:04 #spi: < Ganneff> zobel: 
+21:04 #SPI: < Noodles> + bdale.
+21:04 #spi: < bdale> Bdale Garbee
+21:04 #spi: < bdale> sorry
+21:04 #spi: < Clint> Clint Adams
+21:04 #spi: < zobel> Martin Zobel-Helas
+21:04 #SPI: < Noodles> We've had regrets from Hydroxide.
+21:05 #spi: < bdale> ok
+21:05 #spi: < bdale> [item 3, President's Report]
+21:05 #spi: < bdale> As many of you already know, my home was destroyed by the fires in Black Forest, Colorado, last month.  We are making progress, and are in an apartment we will use while
+21:05 #spi: < bdale> rebuilding our home, etc.  This has inevitably distracted me from many things including SPI business for several weeks, and will continue to do so for several more. 
+21:05 #spi: < bdale> Thank you to everyone for your expressions of support and encouragement, we will continue to post updates at http://gag.com.
+21:06 #spi: < bdale> [item 4, Treasurer's Report]
+21:06 #spi: < bdale> Michael?
+21:06 #spi: < linuxpoet> blink, I am sorry to hear that
+21:06 #spi: < schultmc> standard report is in the agenda.  I've received a formal quote of $439/mo for bookkeeping services from Human Bookkeeping in massachusetts
+21:07 #spi: < linuxpoet> schultmc: that seems reasonable
+21:07 #spi: < schultmc> I'm answering some final questions from foster results in metro indianapolis and hope to have a quote from them shortly
+21:07 #spi: < linuxpoet> schultmc: that is about what my CPA charges us
+21:07 #spi: < bdale> I haven't been keeping up with email, is there more detail about the book keeping search there?
+21:07 #spi: < schultmc> linuxpoet: thanks - it's good to have comparison data
+21:07 #spi: < schultmc> bdale: we discussed it briefly at the last meeting - there's a summary in the meeting minutes
+21:08 #spi: < bdale> ok, thanks
+21:08 #spi: < bdale> anything else?
+21:08 #spi: < linuxpoet> I have something for #4
+21:08 #spi: < schultmc> not from me
+21:08 #spi:  * zobel would like to add some bookkeeping stuff
+21:08 #spi: < bdale> linuxpoet: ?
+21:08 #spi:  * linuxpoet defers to zobel as mine is not in the same context
+21:09 #spi: < bdale> zobel: go
+21:09 #spi: < zobel> i have identified (hopefully) all debian bookings from january 2010 until march 2012
+21:09 #spi: < zobel> i have done so with paper/pencil
+21:09 #spi: < zobel> i am currently adding it to git.
+21:09 #spi: < Solver> well done zobel.  thanks for your hard work on this.
+21:09 #spi: < bdale> ouch, sounds like a lot of work .. but awesome job!
+21:09 #spi: < zobel> i hope i will be done by weekend.
+21:09 #spi:  * linuxpoet notes that we all need to send zobel beer or whiskey, his choice
+21:10 #spi: < zobel> if schultmc adds the bank documents, i can go with Solver over the rest of 2012.
+21:10 #spi: < zobel> </done>
+21:10 #spi: < Solver> definitely
+21:10 #spi: < Solver> thanks
+21:10 #spi: < linuxpoet> bdale: may I proceed?
+21:10 #spi: < Solver> i'd like to clarify one thing
+21:10 #spi: < linuxpoet> oh
+21:10 #spi: < bdale> Solver: go
+21:11 #spi: < Solver> zobel went back to identified expenses, etc, by project
+21:11 #spi: < Solver> now that we are using RT, are we tagging expenses?
+21:11 #spi: < bdale> good question.  I don't know.
+21:11 #spi: < Solver> ie, if i understand it correctly, we should be sable to identify the projects an expense is related to easily now
+21:11 #spi: < Solver> *able
+21:12 #spi: < zobel> ah, yes, those bookings are not only debian. Solver, thanks for noticing.
+21:12 #spi: < Solver> this hopefully avoiding this ever happening again :)
+21:12 #spi: < schultmc> i've been putting tickets in the proper queue but haven't filled out all of the fields in RT - I can go back and do so
+21:12 #spi: < bdale> sounds like a good idea
+21:12 #spi: < Ganneff> .oO(thats what those fields are there for (or can be added if more is needed) ) :)
+21:12 #spi: < zobel> schultmc: my format is quite easy and plain text in the git.
+21:13 #spi: < bdale> cool
+21:13 #spi: < bdale> zobel: thanks again for your work on this
+21:13 #spi: < bdale> linuxpoet: go
+21:13 #spi: < linuxpoet> ok
+21:13 #spi: < linuxpoet> So, at the current rate we are going hit half a mil by the end of the year. The IRS doesn't like it when non-profit expenses don't have a reasonable expenditure rate against donations
+21:14 #spi: < linuxpoet> We need to get some people to spend some money
+21:14 #spi: < linuxpoet> Debian, LibreOffice, OpenBio, PostgreSQL (I can get us spending money), Tux4Kids are all very obvious points of interest
+21:14 #spi: < linuxpoet> Arch, Haskell, FreeDesktop etc.. are others
+21:15 #spi: < bdale> as the number of associated projects grows, my personal tolerance for the balance growing is somewhat moderated .. but your point is well taken
+21:15 #spi: < zobel> <DSA hat>we are about to do that.
+21:15 #spi: < Ganneff> debian does spend money...
+21:15 #spi: < Ganneff> also, debconf should take off some of it too
+21:15 #spi: < linuxpoet> bdale: I would argue that the number of projects means that we have to be more diligent not less
+21:15 #spi: < bdale> said tolerance because there are many parallel buckets each of which isn't huge .. but which in aggregate may get us more attention than we want
+21:15 #spi: < linuxpoet> Ganneff: I didn't include Debconf in my list because I know it comes and goes
+21:15 #spi: < linuxpoet> Ganneff: however, Debian itself has a huge cache of money right now
+21:15 #spi: < bdale> linuxpoet: yes, I understand your point
+21:16 #spi: < Ganneff> linuxpoet: i know.
+21:16 #spi: < bdale> linuxpoet: some of which has recently been allocated by the DPL, but your point remains valid
+21:16 #spi: < zobel> linuxpoet: and debian will need to buy hardware the next month, but that is off-topic here.
+21:16 #spi: < Ganneff> nah, its not, not as a point for this.
+21:16 #spi:  * Hydroxide surfaces - Jimmy Kaplowitz
+21:16 #spi: < zobel> months.
+21:17 #spi: < linuxpoet> anyway, I think it would be good if someone from the board started gently nudging, I am willing if I have contact info (is the liasons@ list still valid?) and if I have some point of measure... e.g; "The treasurer would like to see a 30% increase in expenses, hoarding cash doesn't look good" 
+21:17 #SPI: < Noodles> projects@ I think?
+21:18 #spi: < Ganneff> we have the projects list
+21:18 #spi: < schultmc> spi-projects@lists.spi-inc.org is valid
+21:18 #spi: < Hydroxide> it would probably help to have concrete links about what the downside of excessive cash is
+21:18 #spi: < Hydroxide> in such an email
+21:18 #spi: < Hydroxide> to authoritative-ish external sources
+21:18 #spi: < linuxpoet> Does the treasurer want to handle this or would he like to delegate?
+21:18 #spi: < Hydroxide> also, we could suggest to projects that have more than they can foresee needing that they stop accepting donations until that changes
+21:18 #spi: < linuxpoet> Hydroxide: I think that is a non-starter
+21:19 #spi: < Hydroxide> (not pre-judging which projects that would be)
+21:19 #spi: < linuxpoet> "that" being not accepting donations
+21:19 #spi: < Hydroxide> linuxpoet: at least one of our projects doesn't accept donations
+21:19 #spi: < Hydroxide> linuxpoet: because they have no need for them
+21:19 #spi: < Ganneff> yeah, but forever
+21:19 #spi: < Hydroxide> at least monitary
+21:19 #spi: < Ganneff> and not just as a short term thing
+21:19 #spi: < Ganneff> way different.
+21:19 #spi: < Hydroxide> no, temporarily until they have a need for it
+21:19 #spi: < Hydroxide> it's a suggestion, not a ban
+21:19 #spi: < Hydroxide> oh I see what you meant - you meant OFTC
+21:20 #spi:  * schultmc can contact the projects list
+21:20 #spi: < Hydroxide> if OFTC had a sudden need for monetary donations, such as a lawsuit, it probably would solicit funds
+21:20 #spi: < bdale> yep
+21:20 #spi: < bdale> ok, linuxpoet has made a good point.  we obviously have Debian folks here who will act.  how should we communicate to other projects with large balances?
+21:20 #spi:  * bdale will talk to Eben about the Freedombox Foundation funds
+21:20 #spi: < bdale> the wifi here sucks .. 
+21:20 #spi: < Hydroxide> so it's temporary until it has a need too :)
+21:20 #spi: < Solver> Personally I'd be very much against suggesting project refusing donations
+21:20 #spi: < Hydroxide> okay, I'm fine with not suggesting that if it's a minority view
+21:20 #spi: < linuxpoet> Solver: yeah that is a total non-starter, imo :)
+21:20 #spi: < bdale> I think telling projects to not accept donations is a non-starter, better to help them understand they need to spend some
+21:21 #spi: < bdale> fwiw, my net connection here is very laggy, sorry if I seem to come and go
+21:21 #spi: < linuxpoet> a very simple argument is spending money to make money. That applies to non-profits too. People want to see that their money is being used in a good way, if they see that, donations will go up.
+21:21 #spi: < bdale> ok, so I tried asking who is going to do what .. I'll talk to Eben about the Freedombox balance .. who is doing what overwise?
+21:22 #spi: < Hydroxide> at some point outside the meeting I'd like people to explain to me why it's a non-starter, but not during the meeting, it's not worth taking up meeting time :)
+21:22 #spi: < schultmc> bdale: as I understood it, freedombox was applying for its own 501(c)(3) and their association with us was temporary
+21:22 #spi: < linuxpoet> Hydroxide: happy to talk about it after the meeting
+21:22 #spi: < bdale> schultmc: that was the idea, until 501(c)3 grants kind of dried up
+21:23 #spi: < bdale> not sure of current status, but we're about to spend money and it might as well be from the SPI bucket
+21:23 #spi: < Clint> seems to me like the IRS is getting worse right now
+21:23 #spi: < bdale> I won't argue that
+21:23 #spi: < bdale> ok, any other commitments to express, or should we move on?
+21:24 #spi: < Ganneff> .oO(while this is the AGM, please dont make it a (felt) year long meeting :) )
+21:24 #spi: < bdale> [item 5, Secretary's report]
+21:24 #spi: < bdale> Jonathan?
+21:25 #SPI: < Noodles> The main thing from me is that nominations for the board election are currently open (closing at the end of Saturday 13th). We've 4 positions open and I've currently received 3 nominations.
+21:25 #spi: < bdale> Noodles: you got mine?  I'm in a weird email location now.
+21:25 #SPI: < Noodles> I did.
+21:25 #spi: < bdale> thanks
+21:25 #spi: < Ganneff> so zobel, bdale and me right now.
+21:25 #spi: < bdale> so we need to shake the trees?
+21:25 #SPI: < Noodles> I also note, for the record, that I haven't prepared an annual report. I never got the pieces I needed for last years to be complete.
+21:25 #spi: < Ganneff> should get an outsider up.
+21:26 #SPI: < Noodles> However that's not an excuse so I expect to try and put something rough together over the next month.
+21:26 #spi: < bdale> Noodles: poke me and I promise I'll give you president's comments this year.  honest.
+21:26 #SPI: < Noodles> I will probably also call last years "done" and put the PDF on the site (the .tex is already there).
+21:26 #spi: < bdale> good plan
+21:27 #spi: < Solver> Sounds good.   a small report is better than no report.
+21:27 #spi: < bdale> so, any action required on the nominations status?
+21:27 #SPI: < Noodles> Anyone who wants to stand should email me (secretary@) asap.
+21:27 #spi: < bdale> I'd like to see > 4 nominations so we have an actual election
+21:27 #SPI: < Noodles> If I don't get any more, no election. If I get more I'll put them all up on the site on the 14th.
+21:28 #spi: < bdale> ok, thanks
+21:28 #spi: < bdale> anything else?
+21:28 #spi: < Hydroxide> and if you don't get any more, we have a vacancy, even
+21:28 #SPI: < Noodles> I'll put them all up anyway I guess, but I'm doing them all at the same time either way.
+21:28 #SPI: < Noodles> Nothing else from me.
+21:28 #spi: < bdale> [item 6, Outstanding minutes]
+21:28 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+21:28 #SPI: < Noodles> One set.
+21:28 #SPI: < Noodles> Voting started, 9 people (ganneff,linuxpoet,solver,schultmc,noodles,bdale,clint,zobel,hydroxide) allowed to vote on Minutes for 13th June 2013 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:29 #SPI: < Noodles> !vote yes
+21:29 #spi: < linuxpoet> Wait
+21:29 #spi: < Clint> !vote yes
+21:29 #spi: < Ganneff> !vote abstain
+21:29 #spi: < bdale> !vote abstain
+21:29 #spi: < Solver> !vote yes
+21:29 #spi: < zobel> !vote abstain
+21:29 #spi: < schultmc> !vote yes
+21:29 #spi: < linuxpoet> !vote yes
+21:29 #spi: < linuxpoet> sorry, that isn't the vote I have a concern on
+21:29 #spi: < linuxpoet> it is the next one
+21:29 #spi: < bdale> ok
+21:29 #SPI: < Noodles> Hydroxide?
+21:29 #spi: < bdale> good, as we're not known for being good at waiting .. ;-)
+21:30 #spi: < Hydroxide> got distracted
+21:30 #spi: < Hydroxide> !vote abstain
+21:30 #spi: < Hydroxide> because I haven't had the chance to read them
+21:30 #SPI: < Noodles> Current voting results for "Minutes for 13th June 2013 board meeting": Yes: 5, No: 0, Abstain: 4, Missing: 0 ()
+21:30 #SPI: < Noodles> Voting for "Minutes for 13th June 2013 board meeting" closed.
+21:30 #spi: < bdale> [item 7, Items up for discussion]
+21:31 #spi: < bdale> [item 7.1, Resolution 2013-06-30.jmd.1 (Swathanthra Malayalam Computingas an associated project))
+21:31 #spi: < bdale> Joshua, is this yours?
+21:31 #spi: < linuxpoet> SI
+21:31 #spi: < linuxpoet> eRR YES
+21:31 #spi: < linuxpoet> sigh, caps lock
+21:31 #spi: < linuxpoet> Sorry. May I proceed?
+21:31 #spi: < bdale> no worries .. proceed, please
+21:31 #spi: < linuxpoet> The resolution does not state in anyway how approving this resolution is somehow beneficial to SPI or that it is in line with our bylaws
+21:31 #spi: < linuxpoet> As it stands, it looks like a money funnel
+21:32 #spi: < bdale> I don't know the organization at all, fwiw
+21:32 #SPI: < Noodles> I wasn't aware of them before they contacted us. The resolution doesn't differ materially from what we've used for other associated projects.
+21:33 #spi: < Solver> Their website reports GPLv3 licensing and that they have been accepted for GSoC.  I have not independently verified these statements.
+21:33 #spi: < bdale> I'm not negative about them, I've just been distracted and haven't researched them myself.  I therefore plan to abstain from any vote on this resolution today.
+21:33 #SPI: < Noodles> They have an Indian non-profit, they have a nongnu project page, they're on github, and I'm fairly sure I saw confirmation of their GSoC status from a site that wasn't theres.
+21:33 #spi: < schultmc> http://www.google-melange.com/gsoc/org/google/gsoc2013/smc
+21:33 #spi: < Hydroxide> complete list of accepted GSoC projects: http://www.google-melange.com/gsoc/program/accepted_orgs/google/gsoc2013
+21:33 #SPI: < Noodles> s/theres/theirs/
+21:33 #spi: < linuxpoet> Noodles: our other projects are a bit more obvious in nature but that also doesn't make them right. I have (in case it wasn't obvious from my previous concern) taken interest in the fact that we are starting to become a larger NP which means more scrutiny
+21:34 #spi: < bdale> linuxpoet: is your concern that we don't know, or just that the resolution doesn't state?
+21:34 #SPI: < Noodles> http://www.google-melange.com/gsoc/org/google/gsoc2013/smc
+21:34 #spi: < linuxpoet> bdale: It is a documentation concern. If we amend the resolution just to state something about them adhering to our mission and why we think so, I would be fine with it
+21:34 #spi: < Solver> Noodles: thanks
+21:34 #spi: < Hydroxide> linuxpoet: it probably means we shouldn't take a haphazard approach to oversight either - i.e. disrupting ordinary business operations should be done based on lawyer advice of what we have to do to comply
+21:34 #spi: < Clint> i believe we were advised by legal counsel a while back that we should be more explicit about the mission, indeed
+21:35 #spi: < Hydroxide> but, yes, being explicit about the mission is good
+21:35 #spi: < bdale> linuxpoet: you put the resolution forward?  If so, I'd be happy for you to either amend now or retract to amend for a vote next month?
+21:35 #SPI: < Noodles> I put the resolution forward.
+21:35 #spi: < bdale> oh, sorry
+21:35 #SPI: < Noodles> It had sat around with no one commenting on it.
+21:35 #spi: < bdale> failing initials to nick conversions... /o\
+21:35 #spi: < bdale> ok
+21:36 #SPI: < Noodles> Just because you make that easy for us. :P
+21:36 #spi: < Solver> I have no concerns about their FOSS credentials based on what I'm seeing.
+21:36 #spi: < bdale> so I think the point about improving our resolution text template to include a mission connection is good.  I'm ambivalent about it in this particular case, except that since I'm not prepared to support the resolution today, if time isn't a big issue then maybe updating for next month is a good plan?
+21:36 #spi: < linuxpoet> I would suggest a renumbering and something like 3. The Swathanthra Malayalam Computing project is an Indian Non Profit seeking to receive United States 501c3 recognition for its work in "insert"
+21:37 #spi: < Clint> is it seeking that?
+21:37 #spi: < bdale> if there's no time constraint, and it sounds like there isn't, I'd rather not word-smith in this meeting
+21:37 #spi: < Solver> but the project is applying, not the foreign non-profit (AFAIK)
+21:37 #SPI: < Noodles> Yes, it's the project.
+21:38 #spi: < bdale> can we take this offline, update the specific resolution and the template, and vote on this next month?
+21:38 #spi: < linuxpoet> Clint: that was my understanding but Noodles would know better
+21:38 #spi: < linuxpoet> bdale: I would second that
+21:38 #spi: < Clint> when do the gsoc payments happen?
+21:38 #spi: < bdale> Noodles: make sense to you?
+21:38 #SPI: < Noodles> AFAICT it's similar to the Debian situation. The project has an Indian non-profit that serves their needs there, and wants SPI to cover the US/RoW potentally.
+21:38 #spi: < bdale> that makes sense
+21:38 #SPI: < Noodles> I'm happy to set it aside, though I think they would like us to help them with GSoC as a matter of priority.
+21:38 #spi: < Solver> can we accept GSoC payments provisionally?
+21:39 #spi: < bdale> ok .. would a vote next month mess that up?  we've accepted payments provisionally in the past.
+21:39 #SPI: < Noodles> We can do an email vote if time is sensitive.
+21:39 #spi: < bdale> jberkus must not be on channel?
+21:40 #spi: < linuxpoet> Solver: we can accept the payments but the problem is, if we turn them down, we have a problem
+21:40 #spi: < bdale> ok, I propose we table this until next month, and Noodles can call for an email vote if there's going to be a problem.  any objection?
+21:40 #spi: < zobel> can we have an indication who would prefer to set thise aside for one month and do email vote if it gets urgent?
+21:40 #spi: < linuxpoet> bdale: no objection
+21:40 #spi: < linuxpoet> zobel: I am fine with an email vote (thinks they should all be emails votes)
+21:40 #spi: < Solver> no objections
+21:40 #spi: < Hydroxide> I'm fine with that
+21:40 #SPI: < Noodles> WFM.
+21:40 #spi: < bdale> Noodles: make it so, then, and I'll move on
+21:41 #spi: < zobel> WFM.
+21:41 #spi: < Hydroxide> linuxpoet: it seems like nobody objects to them, but we want to fix the wording. I'm therefore not too concerned about that
+21:41 #spi: < bdale> [item 8, Any other business]
+21:41 #spi: < bdale> Since this is our AGM, do any board and/or contributing members have other items for discussion they would like to address briefly?
+21:41 #spi: < bdale> I will mention in passing that my request for an SPI BOF at Debconf has been granted, so please, any board members present please plan to join me for that session.
+21:41 #spi: < Ganneff> i will join by irc, if possible
+21:42 #SPI: < Noodles> Likewise.
+21:42 #spi: < Hydroxide> linuxpoet: also, email votes require unanimity under NY state law, with 100% of board members voting yes (i.e. all 9). in-meeting votes don't. so it's more of a pain.
+21:42 #spi: < Hydroxide> I will be there in person
+21:42 #spi: < linuxpoet> Hydroxide: same with Oregon (PgUS), I am used to it
+21:42 #spi: < Hydroxide> assuming it doesn't conflict with a session I'm participating in for work-related reasons
+21:42 #spi: < bdale> any other items?
+21:43 #spi: < linuxpoet> none
+21:43 #spi: < bdale> Ok, my apologies for the late start today...
+21:43 #spi: < bdale> [item 9, Next board meeting]
+21:43 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 8 August 2013, 20:00 UTC.
+21:43 #spi: < bdale> Any strong objections?
+21:43 #spi: < Ganneff> SHOULD work
+21:43 #spi: < zobel> WFM
+21:43 #spi: < Solver> np
+21:43 #spi:  * schultmc will be in training that week and unavailable
+21:43 #spi: < bdale> I don't fly until the 9th, so works for me
+21:44 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:44 #spi: < bdale> *GAVEL*
