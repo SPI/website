@@ -1,0 +1,101 @@
+13:00 #spi: < bdale> *GAVEL*
+13:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-09-12/
+13:00 #spi: < bdale> [item 2, Roll Call]
+13:00 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:00 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:00 #spi: < Noodles> Jonathan McDowell
+13:00 #spi: < Clint> Clint Adams
+13:00 #spi: < bdale> Bdale Garbee
+13:00 #spi: < Solver> Robert Brockway
+13:00 #spi: < Ganneff> Joerg Jaspert
+13:01 #spi: < Noodles> Regrets have been received from Jimmy, Martin + Michael.
+13:01 #spi: < Noodles> So we need linuxpoet.
+13:02 #spi: < jberkus> I emailed him, but not sure what else I can do
+13:02 #spi: < Ganneff> call?
+13:02 #spi: < bdale> the only vote required today is on minutes, which can wait.  there are definitely a couple topics we can cover even if it's not an official meeting.  I don't think I have any better contact info for linuxpoet, personally.
+13:02 #spi: < jberkus> might be worth collecting phone info for all board members
+13:03 #spi: < Ganneff> we have a file in board git somewhere
+13:03 #spi: < bdale> I thought we had, but I don't remember where
+13:03 #spi: < Solver> 3 of us have put info in last I checked (iirc)
+13:03 #spi: < Solver> board-private repo
+13:03 #spi:  * bdale freshens his checkout
+13:04 #spi: < bdale> yep, everyone in the file is present and accounted for
+13:04 #spi: < bdale> or excused
+13:04 #spi: < bdale> need to update my entry, though
+13:05 #spi:  * Noodles should add his.
+13:05 #spi: < jberkus> linuxpoet is excused?
+13:05 #spi: < bdale> no, but he's not in the file
+13:06 #spi:  * bdale updates his address info and pushes
+13:06 #spi:  * Noodles adds his details and pushes.
+13:08 #spi: < bdale> ok, well, I'm willing to wait a few to see if linuxpoet shows up.  in the meantime, would jberkus like to tackle his "other business" item?
+13:08 #spi: < jberkus> bdale: so I'm becoming extremely frustrated by the amount of time it takes to get approval on routine paperwork, and the total lack of transparency in the process
+13:09 #spi: < jberkus> it's making my job as assistant treasurer impossible and I'm considering resigning
+13:09 #spi: < jberkus> after GSOC is taken care of
+13:09 #spi: < bdale> what "routine paperwork" are you referring to?
+13:10 #spi: < jberkus> for example, I sent the grant to SFC, which was approved at the last board meeting, in to the board 2 weeks ago
+13:10 #spi: < Noodles> I'm aware of 2 outstanding issues. 1, the SFC paperwork, 2, the declaration of interests document. Are there others?
+13:10 #spi: < jberkus> I've heard nothing
+13:11 #spi: < Ganneff> there, added my details too
+13:11 #spi: < jberkus> nobody acknowledges receipt, there's no progress updates on anything, and I have no idea if stuff will ever be approved, or when
+13:12 #spi: < bdale> isn't this why we put up an RT instance?
+13:13 #spi: < bdale> I just found your email to the board in the morass which is my inbox tree.  I see that Clint had a question about it but no signs of any action taken.
+13:13 #spi: < jberkus> bdale: I wasn't aware the board was using RT
+13:13 #spi: < jberkus> if you you are, I'd be happy to put stuff there
+13:13 #spi: < bdale> Clint: did you hear back from Mishi?
+13:13 #spi: < Clint> i am going to need to resend that, it seems
+13:14 #spi: < bdale> jberkus: I don't know that we've had anything that needed it recently, which is why I questioned your use of the word 'routine'
+13:15 #spi: < Ganneff> we have a board queue in RT
+13:15 #spi: < jberkus> bdale: well, some of these things, like contract work agreements, are going to become increasingly routine
+13:15 #spi: < Ganneff> (and an incoming and a secret)
+13:15 #spi: < jberkus> I already know of 2 pending requests as soon as those projects get their acts togeter
+13:15 #spi: < jberkus> we can't be waiting an indefinite amount of time on legal review for these things
+13:15 #spi: < jberkus> they need to get turned around in less than a week
+13:16 #spi: < Ganneff> we arent great in usin git. we have two open tickets. oneabout the readonly user spi password, one about the bookeeping service
+13:16 #spi: < Solver> Yes we should be using RT for items like this and we should establish what constitutes approval
+13:16 #spi: < bdale> jberkus: sure, which is why RT is probably a good place for them .. I'm not trying to pick on you about this particular item, rather trying to figure out how we do better .. I didn't have in my head that there was anything open and requiring action on the SFC thing at this point, for example
+13:16 #spi: < jberkus> yeah, if RT helps you track them, then that's great
+13:16 #spi: < jberkus> I already use it all the time for treasurer stuff
+13:17 #spi: < bdale> so anything that's actually "routine" shouldn't take much time .. I just fear that most of what we're working on right now is "new and different", not "routine", so is likely to involve extra time / steps / scrutiny
+13:17 #spi: < bdale> the SFC grant, for example, is something SPI has never done before
+13:17 #spi: < jberkus> right
+13:17 #spi: < jberkus> bdale: and it's fine if it's waiting onn actual legal review and questions
+13:17 #spi: < jberkus> but it's not fine if it's waiting on Clint to nag Mishi, who has yet to even acknowledge receipt
+13:18 #spi: < jberkus> if you see what I mean?
+13:18 #spi: < bdale> I do
+13:18 #spi: < bdale> the distinction is a relatively fine one in this case, however
+13:19 #spi: < Clint> in this case i am dealing with multiple conflicts of interest
+13:19 #spi: < Clint> so it would have been better for someone else to have asked
+13:19 #spi: < Solver> fair enough.  we should bear that in mind in future
+13:19 #spi: < jberkus> bdale: I think it would be helpful to have a board officer *responsible* for making sure that paperwork keeps moving
+13:20 #spi: < Noodles> Clint: I think the problem is you didn't bring it up before forwarding it and no one else felt as strongly as you did that we needed legal counsel.
+13:20 #spi: < jberkus> not necessarily for doing it, but making sure it's not stuck in limbo
+13:20 #spi: < Clint> Noodles: that's one problem, yes
+13:20 #spi: < Clint> or two
+13:20 #spi: < jberkus> I'll also note that the wording on that grant has been floating on spi-private for 3 months, and legal review could have been done at any time
+13:20 #spi: < jberkus> so color me frustrated
+13:21 #spi: < Clint> i didn't expect the vote to be so rushed through
+13:21 #spi: < bdale> ok, so someone needs to bring the query to Mishi to closure.  should I send her email?
+13:21 #spi: < jberkus> Clint: 3 months is rushed?
+13:21 #spi: < Clint> seeing as how i still don't think my concerns were addressed even though people keep referring to non-specific emails on the list, yes
+13:22 #spi: < bdale> the only expression of concern from you that I'm personally aware of is in the post-vote email to Mishi
+13:22 #spi: < bdale> which probably means I missed something
+13:23 #spi: < Clint> i guess so
+13:25 #spi: < Ganneff> doesnt look like we get quorum. anything else we can discuss outside regular meeting style?
+13:25 #spi: < Solver> agreed
+13:25 #spi:  * Ganneff eager to get off
+13:25 #spi: < Ganneff> stuff waiting
+13:25 #spi: < Solver> same
+13:25 #spi: < Noodles> Congrats to bdale on the new job.
+13:25 #spi: < Solver> :)
+13:26 #spi: < Ganneff> thats what you retire for, for a new job?
+13:26 #spi: < jberkus> oh?  I haven't checked his blog ...
+13:26 #spi: < Noodles> jberkus: Open Source Guru at Samsung.
+13:26 #spi: < Noodles> They're lucky to have him.
+13:26 #spi: < jberkus> cool!
+13:26 #spi: < bdale> I just started a part-time consulging thing for Samsung
+13:26 #spi: < bdale> consulting, even
+13:26 #spi: < bdale> official title is something like "Senior Adviser, Open Source Group, Samsung Research America"
+13:27 #spi: < bdale> ok, I agree, failure to meet quorum today
+13:28 #spi: < bdale> we'll try again on 10 Oct at 20:00 UTC
+13:28 #spi: < bdale> *GAVEL*
