@@ -1,0 +1,108 @@
+12:04 #spi: < Noodles> *GAVEL*
+12:04 #spi: < Noodles> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+12:04 #spi: < Noodles> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-12-12/
+12:04 #spi: < Noodles> [item 2, Roll Call]
+12:04 #spi: < Noodles> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+12:04 #spi: < Noodles> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+12:04 #spi: < linuxhiker> JOshua D. Drake
+12:04 #spi: < zobel> Martin Zobel-Helas
+12:04 #spi: < Solver> Robert Brockway
+12:04 #spi: < Noodles> Jonathan McDowell
+12:04 #spi: < schultmc> Michael Schultheiss
+12:05 #spi: < Clint> Clint Adams
+12:05 #spi: < Noodles> I've received regrets from Jimmy.
+12:06 #spi: < Noodles> And we're quorum so I guess we can proceed.
+12:06 #spi: < Noodles> [item 3, President's Report]
+12:06 #spi: < Noodles> No bdale, no report.
+12:06 #spi: < Noodles> [item 4, Treasurer's Report]
+12:06 #spi: < Noodles> schultmc?
+12:06 #spi: < schultmc> August report is in the agenda.  I'm working on the remaining outstanding reports.
+12:06 #spi: < schultmc> Getting the bookkeeper online has been a slow process - they're handling some reimbursements but their reporting is not yet available
+12:07 #spi: < Noodles> I was going to ask if we were at the stage they are useful yet or if it was still ramp up.
+12:07 #spi: < schultmc> yes and no - yes for reimbursements, no for reporting
+12:07 #spi: < Noodles> Ok, good to hear there's some progress at least.
+12:08 #spi: < Noodles> Nothing else?
+12:08 #spi: < schultmc> nope
+12:08 #spi: < Noodles> [item 5, Secretary's Report]
+12:08 #spi: < Noodles> I don't have anything particular to report this month.
+12:08 #spi: < Noodles> [item 6, Outstanding minutes]
+12:08 #spi: < Noodles> We have one set. I didn't write up last month because there was no formal meeting - we had enough regrets to know it wasn't quorum beforehand.
+12:08 #spi: < zobel> i miss the minutes from november, even if we say that there was no meeting.
+12:09 #spi: < zobel> ok.
+12:09 #spi: < Noodles> Voting started, 6 people (linuxhiker,zobel,solver,noodles,schultmc,clint) allowed to vote on Meeting minutes for Thursday 10th October 2013. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+12:09 #spi: < Clint> !vote yes
+12:09 #spi: < Solver> !vote yes
+12:09 #spi: < Noodles> !vote yes
+12:09 #spi: < linuxhiker> !vote yes
+12:09 #spi: < zobel> !vote yes
+12:09 #spi: < schultmc> !vote abstain
+12:10 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday 10th October 2013": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+12:10 #spi: < Noodles> Voting for "Meeting minutes for Thursday 10th October 2013" closed.
+12:10 #spi: < Noodles> zobel: I can add a "It didn't happen" page for November.
+12:10 #spi: < Noodles> [item 7, resolution 2013-12-12.mcs.1 (New bank account for Paypal use)]
+12:10 #spi: < Noodles> schultmc: Do you want to make any comments on this? Is anyone unaware of why we need this?
+12:11 #spi: < schultmc> I think it's self explanatory
+12:11 #spi: < schultmc> there's been a huge thread on spi-private about paypal - this was so we can move forward if we decide to go with paypal
+12:11 #spi: < Noodles> Can we move to the vote then? My understanding is this is just a formality so we have a board resolution for opening the account.
+12:11 #spi: < jberkus> schultmc: FWIW, USBank offers free business accounts and their online banking is pretty good.  However, the account signup might be an insurmountable obstacle
+12:12 #spi: < Noodles> What's the hurdle there?
+12:12 #spi: < schultmc> jberkus: good to know
+12:12 #spi: < schultmc> I don't know if USbank has any local branches here but that's not necessarily a huge hurdle
+12:13 #spi:  * linuxhiker notes there is Ally Bank
+12:13 #spi: < Noodles> Voting started, 6 people (linuxhiker,zobel,solver,noodles,schultmc,clint) allowed to vote on Resolution 2013-12-12.mcs.1 (New bank account for Paypal use). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+12:13 #spi: < zobel> go for vote.
+12:13 #spi: < linuxhiker> !vote yes
+12:13 #spi: < Noodles> !vote yes
+12:13 #spi: < Clint> !vote yes
+12:13 #spi: < Solver> !vote yes
+12:13 #spi: < zobel> !vote yes
+12:13 #spi: < schultmc> !vote yes
+12:13 #spi: < Noodles> Current voting results for "Resolution 2013-12-12.mcs.1 (New bank account for Paypal use)": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+12:13 #spi: < Noodles> Voting for "Resolution 2013-12-12.mcs.1 (New bank account for Paypal use)" closed.
+12:13 #spi: < Noodles> [item 8, Any other business]
+12:13 #spi: < Noodles> Did anyone have anything else they wanted to bring up?
+12:13 #spi: < Solver> SPI as legal entity for DebConf 14?
+12:14 #spi: < Solver> mentioned in the previous minutes.
+12:14 #spi: < Noodles> I believe that was covered last time.
+12:14 #spi: < jberkus> schultmc an online-only bank might be an option, if there are any trustworthy ones
+12:14 #spi: < Noodles> I checked with schultmc that it wouldn't be an issue.
+12:14 #spi: < Solver> oh so it is all settled?  ok
+12:14 #spi: < jberkus> Noodles: do we have adequate insurance for that?
+12:14 #spi: < Noodles> DC 14 are in the process of sorting out their accomodation contracts; I expect that to be the first point where SPI would be committed to being the legal entity.
+12:15 #spi: < schultmc> jberkus: the resolution purposely didn't mention a specific bank - we can pick whichever one meets our needs
+12:15 #spi: < jberkus> schultmc right, I'm just discussing
+12:15 #spi: < Noodles> jberkus: I'm not sure which insurance you mean. I think the event insurance is something covered separately but I'd defer to someone involved with NYC DebConf for details.
+12:15 #spi: < linuxhiker> jberkus: schultmc: ally bank is totall online and has rave reviews. Might be nice to not use a traditional bank with all the hodge podge of cruft that brings
+12:16 #spi: < schultmc> the event insurance for dc10 was time limited (dc10 timeframe only)
+12:16 #spi: < schultmc> I'm not opposed to ally - it's certainly one to consider
+12:16 #spi: < Noodles> schultmc: Right, but I assume it was sorted out as part of dc10 so there'd be something similar for dc14.
+12:16 #spi: < Noodles> I don't know if that was what jberkus was asking about or not.
+12:17 #spi: < jberkus> Noodles: yeah, we just need to have insurance before we sign the first contract.  Usually the accomodation requires liability insurance before they'll sign
+12:18 #spi: < Noodles> Ok.
+12:18 #spi: < jberkus> but for the sake of SPI, I also want to make sure that we have more insurance than the minimum requirements
+12:18 #spi: < jberkus> like, we might need D&O in case we get sued for violating a contract
+12:18 #spi: < Noodles> We've been talking about D&O for a couple of years now.
+12:18 #spi: < Noodles> Just to have in general.
+12:19 #spi: < Solver> yep.  something we should look at again seriously
+12:19 #spi: < Noodles> Last I remember I thought it was being looked at but I don't remember seeing any actual proposals for options.
+12:19 #spi: < zobel> are we done?
+12:20 #spi: < Solver> I'll go back and see what we got up to re D&O
+12:20 #spi: < Noodles> I think so unless anyone has anything else.
+12:20 #spi: < Solver> one more item
+12:20 #spi: < Solver> Mishi sent an email re the SFC donation and talked about some modifications
+12:20 #spi: < jberkus> the thing to do would be to find an adviser who knows events + insurance
+12:20 #spi: < jberkus> so they can tell us what we really need
+12:21 #spi: < Noodles> Solver: And?
+12:21 #spi: < Solver> so did everyone review Mishi's attachment and can we move forward with that?
+12:22 #spi: < Solver> we can discuss on list as no further resolutions required, afaik but I wanted to flag it for action
+12:22 #spi: < Noodles> I had a look at it when the mail came in and didn't see anything objectionable.
+12:22 #spi: < Noodles> Worth poking on list I think.
+12:23 #spi: < Solver> will do...
+12:23 #spi: < Noodles> Ok. So:
+12:23 #spi: < Noodles> [item 9, Next board meeting]
+12:23 #spi: < Noodles> January 9th, 2014, 20:00 UTC would be our next regular slot.
+12:24 #spi: < Noodles> I'll take silence as that working for everyone?
+12:24 #spi:  * Solver nods silently
+12:24 #spi: < Noodles> :)
+12:24 #spi: < Noodles> In which case thank you all for attending, have a good holiday of whatever kind you celebrate and see you next month.
+12:25 #spi: < Noodles> *GAVEL*
