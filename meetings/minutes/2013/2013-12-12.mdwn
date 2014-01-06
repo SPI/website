@@ -1,0 +1,388 @@
+__Board members present__
+
+* Michael Schultheiss (schultmc) (Treasurer)
+* Jonathan McDowell (Noodles) (Secretary)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxhiker)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members absent__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+* Josh Berkus (jberkus)
+
+
+These are the minutes for the December 12th, 2013 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2013/2013-12-12-log.txt).
+
+
+## President's Report
+
+Bdale was not present at the meeting.
+
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period August 01, 2013 - August 31, 2013
+
+ Income
+   Ordinary Income
+        0 A.D.                              25.00
+        Arch Linux                         314.00
+        Debian                           2,967.56
+        FFmpeg                             109.00
+        freedesktop.org                     12.00
+        FreedomBox                         500.00
+        Gallery                            100.00
+        Jenkins                            525.00
+        LibreOffice                      6,531.35
+        MinGW                               10.00
+        OpenWrt                            463.98
+        PostgreSQL                         328.00
+        SPI General                         76.58
+        SPI 5%                             285.43
+        The HeliOS Project                 100.00
+        TideSDK                              5.00
+        YafaRay                             10.00
+
+        Total Ordinary Income           12,335.90
+                                        ---------
+
+   Interest Income
+        Key Business Platinum MM Savings     2.77
+        Chase BusinessClassic Checking       0.23
+        Chase Bus Select High Yield Savings 34.25
+
+        Total Interest Income               37.25
+                                            -----
+
+   Gross Income                         12,373.15
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          Processing Fees             1.39
+          Software Development    1,302.00
+          SPI 5%                      1.25
+
+          Total 0 A.D. Exp        1,304.64
+                                  --------
+
+        Arch Linux
+          Processing Fees            19.02
+          SPI 5%                     15.70
+
+          Total Arch Linux Exp       34.72
+                                     -----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees            62.22
+          SPI 5%                    148.38
+
+          Total Debian Exp          213.60
+                                    ------
+
+        FFmpeg
+          Processing Fees             4.75
+          SPI 5%                      5.45
+
+          Total FFmpeg Exp           10.20
+                                     -----
+
+        freedesktop.org
+          Processing Fees             0.52
+          SPI 5%                      0.60
+
+          Total fd.o Exp              1.12
+                                      ----
+
+        FreedomBox
+          SPI 5%                     25.00
+
+          Total FreedomBox Exp       25.00
+                                     -----
+
+        Gallery
+          Processing Fees             2.60
+          SPI 5%                      5.00
+
+          Total Gallery Exp           7.60
+                                      ----
+
+        Haskell
+          Hosting Fees              159.08
+
+          Total Haskell Exp         159.08
+                                    ------
+
+        Jenkins
+          Processing Fees             1.35
+          SPI 5%                     26.25
+
+          Total Jenkins Exp          27.60
+                                     -----
+
+        LibreOffice 
+          Processing Fees            27.97
+          SPI 5%                     11.95
+          Travel Reimbursement    2,838.88
+
+          Total LibreOffice Exp   2,878.80
+                                  --------
+
+        MinGW
+          Processing Fees             0.52
+          SPI 5%                      0.50
+
+          Total MinGW Exp             1.02
+                                      ----
+
+        OpenWrt
+          Processing Fees            19.49
+          SPI 5%                     23.20
+
+          Total OpenWrt Exp          42.69
+                                     -----
+
+        PostgreSQL
+          Processing Fees            10.07
+          SPI 5%                     16.40
+
+          Total PostgreSQL Exp       26.47
+                                     -----
+
+        SPI
+          Bookkeeping Fee           830.00
+          PaySimple Monthly Fee      29.95
+          Tax Filing Fees           135.00
+          Transaction Fees           91.67
+
+          Total SPI Exp           1,347.62
+                                  --------
+
+        The HeliOS Project
+          Processing Fees             4.35
+          SPI 5%                      5.00
+
+          Total HeliOS Exp            9.35
+                                      ----
+
+       TideSDK
+         Processing Fees              0.55
+         SPI 5%                       0.25
+
+         Total TideSDK Exp            0.80
+                                      ----
+
+       YafaRay
+         Processing Fees              0.75
+         SPI 5%                       0.50
+
+         Total YafaRay Exp            1.25
+                                      ----
+
+        Total Expenses            6,091.56
+                                  --------
+
+        Net Income                6,281.59
+                                  ========
+
+
+Balance Sheet as of August 31, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      29,784.10
+        Chase Business Select High Yield Savings         208,737.72
+        KeyBank Basic Business Checking                    1,058.73
+        Key Business Reward Checking                      68,739.60
+        Key Business Platinum Money Market Savings       162,807.87
+        Key Express Checking                               5,529.24
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    260.00
+
+     Total Current Assets                                490,323.41
+
+
+   TOTAL ASSETS                                          490,323.41
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                     5,238.76
+           ankur.org.in                       1,000.00
+           aptosid Earmark                      181.06
+           Arch Linux Earmark                10,903.56
+           Debian Earmark                   109,263.79
+           DebConf 13 Earmark                56,492.18
+           Drizzle                            4,311.30
+           FFmpeg                               691.55
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           18,278.19
+           FreedomBox Foundation Earmark     24,420.13
+           Gallery Earmark                    8,207.28
+           GNU TeXmacs Earmark                  274.02
+           Haskell Earmark                   15,928.15
+           Jenkins Earmark                   10,393.56
+           LibreOffice Earmark               64,355.99
+           madwifi-project.org Earmark        1,494.90
+           MinGW Earmark                        270.65
+           OpenVAS                               56.21
+           OpenWrt                            3,165.75
+           Open Bioinformatics Earmark       37,556.78
+           Open Voting Foundation Earmark       158.74
+           OSUNIX                                 2.92
+           Path64                                14.40
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                23,126/98
+           Privoxy Earmark                      805.52
+           The HeliOS Project Earmark            55.78
+           TideSDK Earmark                      332.69
+           Tux4Kids Earmark                  16,277.50
+           YafaRay Earmark                    4,884.73
+
+        Total held in trust                              432,895.02
+
+        General reserves                                  57,428.39
+
+     Total Equity                                        490,323.41
+
+   TOTAL LIABILITIES & EQUITY                            490,323.41
+</pre>
+
+Michael reported that there was some progress in getting the bookkeeper
+up and running - they are handling some reimbursements but do not yet
+have reporting available.
+
+
+## Secretary's report
+
+Jonathan had nothing to report.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 10th October 2013 board meeting:
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Abstain</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 5 yes, 1 abstain, 0 missing.
+
+
+## Resolution 2013-12-12.mcs.1: New bank account for Paypal use
+
+<table><tbody>
+<tr><td>Clint Adams</td><td>Yes</td></tr>
+<tr><td>Robert Brockway</td><td>Yes</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 0 missing.
+
+
+## Any other business
+
+There was some discussion about the use of SPI as the legal entity for
+DebConf 14 (to be held in Portland, Oregon), including ensuring that
+there is sufficient event insurance involved. This led on to the fact
+we'd previously started to investigate directors + officers insurance
+for SPI but not completed the process. The donation to SFC for
+accounting software was also brought up again - some legal advice about
+how to present the donation had been provided. Robert requested that the
+board look over the mail with these details in it.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, January 9th, 2014 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2013<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2013<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2013<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2013<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### Resolution 2013-12-12.mcs.1: New bank account for Paypal use
+
+<pre>
+WHEREAS
+
+ 1. Debian and other SPI associated projects have expressed interest in
+    accepting donations via Paypal
+ 2. It is prudent to separate Paypal funds from the general treasury for
+    a variety of reasons
+
+
+THE SPI BOARD RESOLVES THAT
+
+ 1.  The SPI Treasurer, Assistant Treasurer, Secretary, and President are
+     directed to work together as necessary to complete and submit to a
+     banking institution of their choosing all application forms necessary
+     to open a business banking account relationship with said banking
+     institution.
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
