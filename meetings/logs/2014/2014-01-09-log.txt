@@ -1,0 +1,121 @@
+12:01 #spi: < bdale> *GAVEL*
+12:01 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+12:01 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2014/2014-01-09/
+12:01 #spi: < bdale> [item 2, Roll Call]
+12:01 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+12:01 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+12:01 #spi: < Noodles> Jonathan McDowell
+12:01 #spi: < schultmc> Michael Schultheiss
+12:01 #spi: < Solver> Robert Brockway
+12:01 #spi: < bdale> Bdale Garbee
+12:01 #spi: < Noodles> I've had regrets from Ganneff and Hydroxide.
+12:01 #spi: < zobel> Martin Zobel-Helas
+12:02 #spi: < Noodles> Clint?
+12:02 #spi: < Noodles> linuxhiker?
+12:03 #spi: < Clint> Clint Adams
+12:03 #spi: < bdale> cool .. quorum met
+12:04 #spi: < bdale> [item 3, President's Report]
+12:04 #spi: < bdale> I'm in Perth, Western Australia, this week attending Linux Conf Australia 2014.  It has, as usual, been an excellent conference.
+12:04 #spi: < bdale> Also, since I mentioned it here when it started last September, I will also mention in passing that my consulting engagement with Samsung has now concluded.
+12:04 #spi: < bdale> [item 4, Treasurer's Report]
+12:04 #spi: < bdale> Michael?
+12:04 #spi: < schultmc> September 2013 report is in the agenda.  Still working on the backlog and working with the bookkeeper.  Negative balance for ankur.or.in is due to cash accounting method (awaiting funds from Google Summer of Code - posted in December 2013).  Nothing further.
+12:05 #spi: < bdale> [item 5, Secretary's report]
+12:05 #spi: < bdale> Jonathan?
+12:05 #spi: < Noodles> Nothing from me.
+12:06 #spi: < bdale> [item 6, Outstanding minutes]
+12:06 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+12:06 #spi: < Noodles> Yup.
+12:06 #spi: < Noodles> Voting started, 6 people (bdale,clint,noodles,schultmc,solver,zobel) allowed to vote on Meeting minutes for Thursday 12th December 2013. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+12:06 #spi: < Noodles> !vote yes
+12:06 #spi: < Solver> !vote yes
+12:06 #spi: < schultmc> !vote yes
+12:06 #spi: < zobel> !vote yes
+12:06 #spi: < Clint> !vote yes
+12:06 #spi: < bdale> !vote abstain
+12:06 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday 12th December 2013": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+12:06 #spi: < Noodles> Voting for "Meeting minutes for Thursday 12th December 2013" closed.
+12:06 #spi: < bdale> [item 7, Items up for discussion]
+12:06 #spi: < bdale> None on the agenda this month.
+12:06 #spi: < bdale> [item 8, Any other business]
+12:06 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+12:07 #spi: < jberkus> schultmc: is there something I should do on the bookeeper stuff?
+12:07 #spi: < linuxhiker> Joshua D. Drake
+12:07 #spi: < zobel> i just would like to know where debian admin requests to SPI should go to. we need DNS foo updated....
+12:07 #spi: < jberkus> bdale: credit card issues, briefly
+12:07 #spi: < linuxhiker> Sorry... I made it, if 7 minutes late
+12:07 #spi: < schultmc> jberkus: brian had a list of questions - once we get those answered we should be able to get several months of reports from him.
+12:08 #spi: < jberkus> schultmc: right, are any of those questions I can answer?
+12:08 #spi: < bdale> linuxhiker: welcome
+12:08 #spi: < linuxhiker> bdale: thanks, I was actually here just dealing with a last minute kitchen snafu.
+12:08 #spi: < schultmc> jberkus: possibly - I'll take a look after the meeting.
+12:08 #spi: < Solver> Brian is the bookkeeper? (I assume you do not mean bgupta)
+12:09 #spi: < schultmc> Solver: yes - sorry for the confusion
+12:09 #spi: < Solver> np.  thanks for clarifying
+12:09 #spi: < bdale> zobel: probably Ganneff on your question?
+12:10 #spi: < zobel> i want the rt queue address.
+12:10 #spi: < zobel> that is all.
+12:10 #spi: < schultmc> zobel: admin@spi-inc.org (or admin@rt.spi-inc.org)
+12:10 #spi: < zobel> weasel: ^ there
+12:10 #spi: < bdale> cool
+12:10 #spi: < bdale> jberkus: what about credit cards?
+12:10 #spi: < weasel> thanks
+12:11 #spi:  * bdale waves at weasel
+12:11 #spi: < weasel> (hi there)
+12:11 #spi: < jberkus> bdale: in the December meeting I brought up that Click&Pledge had become an unreliable provider
+12:11 #spi: < bdale> right
+12:11 #spi: < jberkus> I had not had time to do anything about switching providers since that meeting, and it is unlikely that I will have time before the next meeting.
+12:12 #spi: < jberkus> if a Board member wants to take ownership of this, I'd be more than happy to turn it over to them.
+12:13 #spi: < bdale> do we have a new provider selected, or is that the question?
+12:13 #spi: < bgupta> how urgent is it?
+12:13 #spi: < jberkus> that's one of the questions
+12:14 #spi: < jberkus> bgupta: we are having ongoing issues with C&P and CC fraud
+12:14 #spi:  * schultmc placed a block on the country that the vast majority of fraudulent charges are coming from
+12:14 #spi: < bdale> schultmc: seems reasonable
+12:14 #spi: < jberkus> which, among other things, has forced us to block donations from Ireland
+12:14 #spi: < schultmc> but I agree we should find a better provider
+12:14 #spi: < bdale> ok
+12:15 #spi: < bdale> I'm having good luck with the provider for a web store I run, but I haven't thought at all about whether they'd be good as a provider to SPI
+12:15 #spi: < linuxhiker> jberkus: bdale: schultmc: I can review half a dozen providers and post a list, but I need a set of requirements
+12:15 #spi: < jberkus> bdale: whom are you using?
+12:15 #spi: < bdale> braintree
+12:16 #spi: < bdale> who are apparently on the path to being acquired by paypal at this point, sadly
+12:16 #spi: < jberkus> the majority of the work is picking 1-2 new providers, setting up the account, and getting our projects transitioned over
+12:16 #spi: < linuxhiker> bdale: they are one of my customers, it is sad :(
+12:17 #spi: < jberkus> linuxhiker: I'd like to also dump PaySimple.  there's no reason we should be paying $30/month for CC services today.
+12:17 #spi: < bdale> ouch
+12:17 #spi: < bdale> jberkus: can you put this in email to linuxhiker and me?  I don't really have time in Jan, but I'll make some to help.
+12:17 #spi: < jberkus> sure
+12:17 #spi: < linuxhiker> jberkus: that may be a legacy issue (not saying I have a problem with it). Meaning that a phone call may get us more cost effectiveness with them
+12:17 #spi: < bdale> ok, let's do that then
+12:18 #spi: < bdale> any other topics?
+12:18 #spi: < Solver> last month we passed a resolution to open new bank accounts
+12:18 #spi: < Solver> just wondering if there was any progess there.  given the time of year there may not be but I thought I'd ask
+12:18 #spi: < schultmc> no progress yet
+12:19 #spi: < Solver> np thanks
+12:19 #spi: < schultmc> I can open the account once the bank has been selected
+12:19 #spi: < bdale> anyone working on the selection process?
+12:20 #spi: < jberkus> I am not
+12:20 #spi: < schultmc> jberkus and I need to find one that doesn't require us both to physically be in a branch to open an account
+12:20 #spi: < bdale> oic
+12:20 #spi: < schultmc> us bank was mentioned
+12:20 #spi: < jberkus> or require any 3 board members to be
+12:20 #spi: < jberkus> schultmc: US Bank has that issue
+12:20 #spi: < schultmc> there's a us bank about 50 miles from here
+12:21 #spi: < bdale> can you guys make time in the next month to progress on this topic?
+12:21 #spi: < schultmc> sure
+12:21 #spi: < jberkus> bdale: I cannot.
+12:21 #spi: < Noodles> Does jberkus + other board member in a bank help or is it a signatory thing?
+12:21 #spi: < schultmc> there's about 5 different banks near my work
+12:21 #spi: < jberkus> Noodles: it's a signatory thing
+12:21 #spi: < schultmc> I can contact them about their procedures
+12:21 #spi: < bdale> schultmc: ok, if you can do a first pass survey, maybe we can at least narrow this down
+12:21 #spi: < schultmc> will do
+12:21 #spi: < bdale> thanks
+12:21 #spi: < bdale> anything else?
+12:21 #spi: < jberkus> schultmc: the other criteria is that they need to allow us to disable overdraft protection
+12:22 #spi: < bdale> [item 9, Next board meeting]
+12:22 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 13 February 2014, 20:00 UTC.
+12:22 #spi: < bdale> Any strong objections?
+12:23 #spi: < bdale> Ok, thank you to everyone present for participating today.
+12:23 #spi: < bdale> *GAVEL*
