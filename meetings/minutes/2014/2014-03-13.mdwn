@@ -1,0 +1,578 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Clint Adams (Clint)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxhiker)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Jonathan McDowell (Noodles) (Secretary)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Hilmar Lapp (drycafe)
+* H W Tovetjärn (totte)
+
+
+These are the minutes for the March 13th, 2014 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2014/2014-03-13-log.txt).
+
+## President's Report
+
+Bdale had nothing of significance to report.
+
+## Treasurer's report
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period October 01, 2013 - October 31, 2013
+
+ Income
+   Ordinary Income
+        0 A.D.                          18,552.71
+        Arch Linux                         239.88
+        Debian                           1,344.14
+        FFmpeg                              50.00
+        freedesktop.org                      5.00
+        FreedomBox Foundation                5.00
+        GNU TeXmacs                         40.00
+        Haskell.org                      1,000.00
+        LibreOffice                     24,278.40
+        MinGW                               30.00
+        OpenWrt                             25.00
+        PostgreSQL                         140.00
+        SPI General                        496.45
+        SPI 5%                             364.82
+        The HeliOS Project                 350.00
+        TideSDK                             37.00
+
+        Total Ordinary Income           46,958.40
+                                        ---------
+
+   Interest Income
+        Key Business Platinum MM Savings     2.76
+        Chase BusinessClassic Checking       0.28
+        Chase Bus Select High Yield Savings 35.40
+
+        Total Interest Income               38.44
+                                            -----
+
+   Gross Income                         46,996.84
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          Processing Fees            11.86
+          SPI 5%                    132.27
+
+          Total 0 A.D. Exp          144.13
+                                    ------
+
+        Arch Linux
+          Processing Fees            14.22
+          SPI 5%                     11.99
+
+          Total Arch Linux Exp       26.21
+                                     -----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees            28.04
+          SPI 5%                     67.21
+          Travel (GSoC)           3,141.00
+
+          Total Debian Exp        3,239.25
+                                  --------
+
+        FFmpeg
+          Processing Fees             3.59
+          SPI 5%                      2.50
+
+          Total FFmpeg Exp            6.09
+                                      ----
+
+        freedesktop.org
+          Processing Fees             0.27
+          SPI 5%                      0.25
+
+          Total fd.o Exp              0.52
+                                      ----
+
+        FreedomBox
+          Processing Fees             0.27
+          SPI 5%                      0.25
+
+          Total FreedomBox Exp        0.52
+                                      ----
+
+        GNU TeXmacs
+          Processing Fees             1.95
+          SPI 5%                      2.00
+
+          Total GNU TeXmacs Exp       3.95
+                                      ----
+
+        Haskell
+          Hosting Fees              162.55
+          Processing Fees            40.35
+          SPI 5%                     50.00
+
+          Total Haskell Exp         252.90
+                                    ------
+
+        LibreOffice
+          Processing Fees            28.62
+          SPI 5%                     69.25
+          Travel Reimbursement    3,157.60
+
+          Total LibreOffice Exp   3,255.47
+                                  --------
+
+        MinGW
+          Processing Fees             1.55
+          SPI 5%                      1.50
+
+          Total MinGW Exp             3.05
+                                      ----
+
+        OpenWrt
+          Processing Fees             1.53
+          SPI 5%                      1.25
+
+          Total OpenWrt Exp           2.78
+                                      ----
+
+        PostgreSQL
+          Processing Fees             4.55
+          SPI 5%                      7.00
+          Travel Reimbursement    2,000.00
+
+          Total PostgreSQL Exp    2,011.55
+                                  --------
+
+        SPI
+          Bookkeeping Fee           632.00
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           28.22
+
+          Total SPI Exp             693.81
+                                    ------
+
+        Swathanthra Malayalam Computing
+          Travel (GSoC)           1,371.95
+
+          Total SMC Exp           1,371.95
+                                  --------
+
+        The HeliOS Project
+          SPI 5%                     17.50
+
+          Total HeliOS Exp           17.50
+                                     -----
+
+       TideSDK
+         Processing Fees              1.88
+         SPI 5%                       1.85
+
+         Total TideSDK Exp            3.73
+                                      ----
+
+        Total Expenses           11,033.41
+                                  --------
+
+        Net Income               35,963.43
+                                 =========
+
+
+Balance Sheet as of October 31, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      34,983.51
+        Chase Business Select High Yield Savings         208,808.52
+        KeyBank Basic Business Checking                    1,048.73
+        Key Business Reward Checking                     103,403.06
+        Key Business Platinum Money Market Savings       162,813.31
+        Key Express Checking                               5,517.72
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    254.00
+
+     Total Current Assets                                530,235.00
+
+
+   TOTAL ASSETS                                          530,235.00
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                    21,824.82
+           ankur.org.in                         (67.96)
+           aptosid Earmark                      181.06
+           Arch Linux Earmark                11,261.64
+           Debian Earmark                   107,679.14
+           DebConf 13 Earmark                56,492.18
+           Drizzle                            4,311.30
+           FFmpeg                               718.08
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           18,373.49
+           FreedomBox Foundation Earmark     24,424.61
+           Gallery Earmark                    8,207.28
+           GNU TeXmacs Earmark                  310.07
+           Haskell Earmark                   16,516.13
+           Jenkins Earmark                   10,407.09
+           LibreOffice Earmark               89,316.56
+           madwifi-project.org Earmark        1,494.90
+           MinGW Earmark                      1,207.25
+           OpenVAS                               56.21
+           OpenWrt                            3,187.97
+           Open Bioinformatics Earmark       39,376.08
+           Open Voting Foundation Earmark       158.74
+           OSUNIX                                 2.92
+           Path64                                14.40
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                21,323.91
+           Privoxy Earmark                      877.62
+           Swathanthra Malayan Comp Earmark  (1,371.95)
+           The HeliOS Project Earmark           388.28
+           TideSDK Earmark                      401.43
+           Tux4Kids Earmark                  16,277.50
+           YafaRay Earmark                    4,884.73
+
+        Total held in trust                              465,730.48
+
+        General reserves                                  64,504.52
+
+     Total Equity                                        530,235.00
+
+   TOTAL LIABILITIES & EQUITY                            530,235.00
+</pre>
+
+<pre>
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period November 01, 2013 - November 30, 2013
+
+ Income
+   Ordinary Income
+        0 A.D.                          11,673.80
+        Arch Linux                         457.00
+        Debian                           1,235.34
+        FFmpeg                           1,920.00
+        freedesktop.org                      5.00
+        Gallery                             30.00
+        Haskell.org                      1,286.05
+        LibreOffice                     14,210.00
+        MinGW                               11.00
+        Path64                               5.00
+        Privoxy                              5.00
+        SPI General                        390.00
+        SPI 5%                             209.74
+        The HeliOS Project                  25.00
+        TideSDK                             38.00
+
+        Total Ordinary Income           31,500.93
+                                        ---------
+
+   Interest Income
+        Key Business Platinum MM Savings     2.68
+        Chase BusinessClassic Checking       0.28
+        Chase Bus Select High Yield Savings 24.83
+
+        Total Interest Income               27.79
+                                            -----
+
+   Gross Income                         31,528.72
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          Processing Fees             8.80
+          SPI 5%                     12.67
+
+          Total 0 A.D. Exp           21.47
+                                     -----
+
+        Arch Linux
+          Processing Fees            61.33
+          SPI 5%                     22.85
+
+          Total Arch Linux Exp       84.18
+                                     -----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees            43.82
+          SPI 5%                     61.77
+
+          Total Debian Exp          108.59
+                                    ------
+
+        FFmpeg
+          Processing Fees            41.62
+          SPI 5%                     96.00
+
+          Total FFmpeg Exp          137.62
+                                    ------
+
+        freedesktop.org
+          NPES Membership           250.00
+          PDF Association 
+            Membership              305.64
+          Processing Fees             0.32
+          SPI 5%                      0.25
+
+          Total fd.o Exp            556.21
+                                    ------
+
+        Gallery
+          Processing Fees             1.38
+          SPI 5%                      1.50
+
+          Total Gallery Exp           2.88
+                                      ----
+
+        Haskell
+          Hosting Fees              161.04
+          GSoC Travel             1,589.85
+
+          Total Haskell Exp       1,750.89
+                                  --------
+
+        LibreOffice 
+          Processing Fees            10.21
+          SPI 5%                     10.50
+          Travel Reimbursement   14,516.53
+
+          Total LibreOffice Exp  14,537.24
+                                 ---------
+
+        MinGW
+          Processing Fees             0.79
+          SPI 5%                      0.55
+
+          Total MinGW Exp             1.34
+                                      ----
+
+        Path64
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total Path64 Exp            0.80
+                                      ----
+
+        PostgreSQL
+          GSoC Travel             1,034.50
+          Travel Reimbursement    1,286.05
+
+          Total PostgreSQL Exp    2,320.55
+                                  --------
+
+        Privoxy
+          Processing Fees             0.38
+          SPI 5%                      0.25
+
+          Total Privoxy Exp           0.63
+                                      ----
+
+        SPI
+          Bookkeeping Fee         2,537.50
+          PaySimple Monthly Fee      29.95
+          Transaction Fees           32.23
+
+          Total SPI Exp           2,599.68
+                                  --------
+
+        The HeliOS Project
+          Processing Fees             1.35
+          SPI 5%                      1.25
+
+          Total HeliOS Exp            2.60
+                                      ----
+
+       TideSDK
+         Processing Fees              1.91
+         SPI 5%                       1.90
+
+         Total TideSDK Exp            3.81
+                                      ----
+
+        YafaRay
+          Blender Videos            221.31
+
+          Total YafaRay Exp         221.31
+                                    ------
+
+        Total Expenses           22,349.80
+                                 ---------
+
+        Net Income                9,178.92
+                                  ========
+
+
+Balance Sheet as of November 30, 2013
+
+   ASSETS
+     Current Assets
+        Chase BusinessClassic Checking with Interest      36,182.42
+        Chase Business Select High Yield Savings         208,833.35
+        KeyBank Basic Business Checking                    1,043.73
+        Key Business Reward Checking                     110,064.92
+        Key Business Platinum Money Market Savings       162,815.99
+        Key Express Checking                               5,510.72
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    251.00
+
+     Total Current Assets                                538,108.28
+
+
+   TOTAL ASSETS                                          538,108.28
+
+
+   LIABILITIES & EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                    33,477.15
+           ankur.org.in                         (67.96)
+           aptosid Earmark                      181.06
+           Arch Linux Earmark                11,634.46
+           Debian Earmark                   112,805.89
+           DebConf 13 Earmark                56,492.18
+           Drizzle                            4,311.30
+           FFmpeg                             2,500.46
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           17,822.28
+           FreedomBox Foundation Earmark     24,424.61
+           Gallery Earmark                    8,234.40
+           GNU TeXmacs Earmark                  310.07
+           Haskell Earmark                   16,051.29
+           Jenkins Earmark                   10,407.09
+           LibreOffice Earmark               84,989.32
+           madwifi-project.org Earmark        1,494.90
+           MinGW Earmark                      1,216.91
+           OpenVAS                               56.21
+           OpenWrt                            3,187.97
+           Open Bioinformatics Earmark       39,376.08
+           Open Voting Foundation Earmark       158.74
+           OSUNIX                                 2.92
+           Path64                                18.60
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                19,003.36
+           Privoxy Earmark                      881.99
+           Swathanthra Malayan Comp Earmark  (1,371.95)
+           The HeliOS Project Earmark           410.68
+           TideSDK Earmark                      435.62
+           Tux4Kids Earmark                  16,277.50
+           YafaRay Earmark                    4,663.42
+
+        Total held in trust                              476,881.55
+
+        General reserves                                  61,226.73
+
+     Total Equity                                        538,108.28
+
+   TOTAL LIABILITIES & EQUITY                            538,108.28
+</pre>
+
+Michael was not present but had sent out the November 2013 report in
+advance of the meeting. There was a query from drycafe about seeing a
+breakdown of wire transfers to a project and Bdale he should file an RT
+ticket. Jimmy also mentioned the fact that we have a backlog of
+treasurer reports.
+
+
+## Secretary's report
+
+Jonathan was not present.
+
+
+## Outstanding minutes
+
+As Jonathan was not present it was decided to postpone voting on the
+outstanding meeting minutes until April.
+
+
+## Items up for discussion
+
+### Status of SPI's support infrastructure for associated project services
+
+Hilmar Lapp of OBF asked for this item to be included on the agenda due
+to delays in handling various DNS related requests. The domains had been
+transferred to SPI but not yet configured for DNS hosting by SPI. Joerg
+indicated the SPI sysadmin team consisted of just him and Michael and
+that this was not enough as they were both generally busy. There had
+been at least one offer of help on the SPI lists that Joerg was going to
+pursue, and he said we could expect an update by the next meeting.
+
+
+## Any other business
+
+No one had any other items to discuss.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, April 10th, 2014 at 20:00
+UTC in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2013<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2013<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2013<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2013<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2011<br /></td><td>Clint Adams</td></tr>
+<tr><td>July 2011<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2011<br /></td><td>Jimmy Kaplowitz</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
