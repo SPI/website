@@ -1,0 +1,241 @@
+13:02 #spi: < Ganneff> *BANG*
+13:02 #spi: < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+13:02 #spi: < Ganneff> The agenda can be found on the web at:  http://www.spi-inc.org/meetings/agendas/2014/2014-04-10/
+13:02 #spi: < Ganneff> [item 2, Roll Call]
+13:02 #spi: < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:02 #spi: < Ganneff> Noodles: any regrets?
+13:02 #spi: < jberkus> Hydroxide: it's not any specific time
+13:02 #spi: < Noodles> Hydroxide sent tentative but seems to be here.
+13:02 #spi: < Ganneff> Joerg Jaspert
+13:02 #spi: < Solver> Robert Brockway
+13:02 #spi: < Noodles> Jonathan McDowell
+13:02 #spi: < Hydroxide> Jimmy Kaplowitz
+13:02 #spi: < Clint> Clint Adams
+13:02 #spi: < schultmc> Michael Schultheiss
+13:03 #spi: < Ganneff> zobel: *kick*
+13:03 #spi: < Ganneff> less beer, more attention :)
+13:03 #spi: < zobel> Martin Zobel-Helas
+13:04 #spi: < bdale> oops .. I'm here now
+13:04 #spi: < Ganneff> [item 3, President's Report]
+13:04 #spi: < Ganneff> Agenda looks like there is none, and Bdale is wherever
+13:04 #spi: < Ganneff> [item 4, Treasurer's Report]
+13:04 #spi: < Ganneff> That's for Michael
+13:04 #spi: < bdale> Bdale Garbee
+13:04 #spi: < zobel> sorry, was reading work mail.
+13:04 #spi: < Ganneff> bad bdale.
+13:04 #spi: < bdale> was at lunch with my wife, late returning .. apologies
+13:04 #spi: < Ganneff> bdale: anything for president report?
+13:04 #spi: < bdale> no
+13:04 #spi: < Ganneff> great. schultmc: your turn
+13:04 #spi: < schultmc> hit refresh please - just sent out report and committed it to the web repo
+13:05 #spi: < schultmc> nothing of note
+13:05 #spi: < bdale> Ganneff: thanks for taking over, please continue
+13:05 #spi: < schultmc> still working on backlog, hope to be done by next meeting
+13:05 #spi: < jberkus> schultmc is the contract bookkeeper not helping?  I thought they were supposed to be up to speed by now
+13:05 #spi: < zobel> schultmc: Debian                          78,761.98 <-- that is transfer of dc13 money to debian?
+13:05 #spi: < schultmc> jberkus: I haven't received any reports from them - I need to find out what the holdup is
+13:06 #spi: < schultmc> zobel: some of it, yes (~56.5k)
+13:06 #spi: < jberkus> schultmc I'm thinking that we need to start getting reports from them, or start considering different clerical help
+13:06 #spi: < schultmc> jberkus: agreed
+13:06 #spi: < Hydroxide> yeah, I think we started working on using them about a year ago, right?
+13:06 #spi: < schultmc> june/july 2013
+13:07 #spi: < schultmc> so roughly 9 months
+13:07 #spi: < Hydroxide> yeah
+13:07 #spi: < Ganneff> ok, so i guess schultmc sorts that with them, and we may hear if we have to move or not next meeting?
+13:07 #spi: < schultmc> yes
+13:07 #spi: < Ganneff> great. anything else here?
+13:07 #spi: < schultmc> not from me
+13:07 #spi: < Ganneff> [item 5, Secretary's report]
+13:07 #spi: < Ganneff> Jonathan?
+13:08 #spi: < Noodles> Not much from me. I've been adding a few more bits from the old website to the new one (old votes mainly) to try and get that all completed.
+13:08 #spi: < Noodles> We got all the important stuff moved and then the historical bits slowed down.
+13:09 #spi: < Ganneff> ay. its not really work thats gets one motivated to do it
+13:09 #spi: < bdale> right
+13:09 #spi: < zobel> schultmc: can you push the PDFs from the banks to git anytime soon?
+13:09 #spi: < Noodles> I plan to finish off all the old vote stuff before the next meeting.
+13:09 #spi: < schultmc> zobel: sure
+13:10 #spi: < Noodles> tbm kindly sent some patches of misc cleanup.
+13:10 #spi: < Noodles> Other members are welcome to do the same. :)
+13:10 #spi: < Noodles> (patches to webmaster@ against our ikiwiki git)
+13:11 #spi: < Noodles> Nothing else from me.
+13:11 #spi: < Ganneff> ok. next i think
+13:11 #spi: < Ganneff> [item 6, Outstanding minutes]
+13:11 #spi: < Ganneff> Noodles: Three sets it seems.[item 6, Outstanding minutes]
+13:11 #spi: < Ganneff> Noodles: Three sets it seems.
+13:11 #spi: < Noodles> Yup.
+13:11 #spi: < Ganneff> err
+13:11 #spi: < Noodles> Voting started, 8 people (ganneff,solver,noodles,hydroxide,clint,schultmc,zobel,bdale) allowed to vote on Meeting minutes for 9th January 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:11 #spi: < Clint> !vote yes
+13:11 #spi: < Ganneff> !vote abstain
+13:11 #spi: < schultmc> !vote yes
+13:11 #spi: < Solver> !vote yes
+13:11 #spi: < Hydroxide> !vote abstain
+13:11 #spi: < Noodles> !vote yes
+13:11 #spi: < bdale> !vote yes
+13:11 #spi: < zobel> !vote yes
+13:11 #spi: < Noodles> Current voting results for "Meeting minutes for 9th January 2014": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+13:11 #spi: < Noodles> Voting for "Meeting minutes for 9th January 2014" closed.
+13:12 #spi: < Noodles> Voting started, 8 people (ganneff,solver,noodles,hydroxide,clint,schultmc,zobel,bdale) allowed to vote on Meeting minutes for 13th February 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:12 #spi: < Clint> !vote yes
+13:12 #spi: < Noodles> !vote yes
+13:12 #spi: < Hydroxide> !vote abstain
+13:12 #spi: < zobel> !vote abstain
+13:12 #spi: < Solver> !vote yes
+13:12 #spi: < bdale> !vote abstain
+13:12 #spi: < schultmc> !vote yes
+13:12 #spi: < Ganneff> !vote yes
+13:12 #spi: < Noodles> Current voting results for "Meeting minutes for 13th February 2014": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+13:12 #spi: < Noodles> Voting for "Meeting minutes for 13th February 2014" closed.
+13:12 #spi: < Noodles> Voting started, 8 people (ganneff,solver,noodles,hydroxide,clint,schultmc,zobel,bdale) allowed to vote on Meeting minutes for 13th March 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:12 #spi: < schultmc> !vote abstain
+13:12 #spi: < Noodles> !vote abstain
+13:12 #spi: < Ganneff> !vote yes
+13:12 #spi: < Clint> !vote yes
+13:12 #spi: < bdale> !vote yes
+13:12 #spi: < Solver> !vote yes
+13:12 #spi: < Hydroxide> !vote yes
+13:12 #spi: < zobel> !vote abstain
+13:12 #spi: < Noodles> Current voting results for "Meeting minutes for 13th March 2014": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+13:12 #spi: < Noodles> Voting for "Meeting minutes for 13th March 2014" closed.
+13:13 #spi: < Ganneff> good, thanks
+13:13 #spi: < Ganneff> [item 7, Items up for discussion]
+13:13 #spi: < Ganneff> Anything?
+13:13 #spi: < bdale> I have an item
+13:13 #spi: < Noodles> So I didn't put the Chakra resolution up here.
+13:13 #spi: < Noodles> And the reason is that there was still active discussion about it.
+13:13 #spi: < Hydroxide> I have two things for any-other-business, but after whatever bdale and Noodles have.
+13:13 #spi: < Noodles> I'd like us to get our new project resolution nailed down rather than constantly saying "We'll do it next time".
+13:14 #spi: < Solver> I'd like to have a email vote on this when it is sorted out
+13:14 #spi: < Solver> Noodles: agreed
+13:14 #spi: < Noodles> Solver: Any particular reason for the email vote?
+13:14 #spi: < Solver> just so it doesn't have to wait until the next meeting
+13:15 #spi: < bdale> there's a desire by some Debian folk to have a place to assign copyrights and/or assist with GPL enforcement actions.  zack has been driving a conversation about the possibility that the SFC could provide this service to Debian.  I've been asked whether SPI has any objection to SFC playing this role for Debian, and I see no reason to object.  Anyone with a differing opinion I'd like to hear from.
+13:15 #spi: < jberkus> Solver: do they have a reason why they need to take donations before next month?
+13:15 #spi: < Solver> jberkus: I'll find out
+13:15 #spi: < Noodles> bdale: I see no problem with us playing that role. We already hold trademarks for projects which I think is a similar area.
+13:16 #spi: < bdale> while we *could* hold copyrights, I don't believe we ever have .. and we are not really set up to pursue GPL enforcement
+13:16 #spi: < jberkus> Solver: my $0.02: Chakra was proposed only 8 days before this meeting, so I really don't see what the rush is
+13:16 #spi: < Hydroxide> bdale, Noodles: I see no problem with letting Conservancy do this. we're short on man-hours as is; litigation would take that to excessive levels.
+13:17 #spi: < bdale> so I think the question is whether we want to try and ramp up to meet Debian's request, or admit that this is a place where the SFC might be well-oiled already and we can collaborate in support of Debian
+13:17 #spi: < Hydroxide> (GPL enforcement = litigation or at the very least negotiations with the credible possibility of litigations.)
+13:17 #spi:  * Hydroxide fails at grammars on "litigations".
+13:17 #spi: < bdale> I think bkuhn is on-channel, he's welcome to chime in if I'm getting anything wrong
+13:17 #spi: < Noodles> If SFC are ready to go I've no objections to them doing it. I just think that the main issue with us doing it is manpower rather than any other problem.
+13:17 #spi: < bdale> Noodles: I agree
+13:17 #spi: < Hydroxide> Noodles: yup
+13:17 #spi: < Solver> yes
+13:17 #spi:  * schultmc is fine with SFC handling this request
+13:18 #spi: < bkuhn> Yes, I'm here.
+13:18 #spi: < bdale> I see no reason SPI couldn't do this other than that we're not up to speed and don't have obvious manpower to apply to new things right now
+13:18 #spi: < Ganneff> so debian would have some ownership with sfc (copyright stuff) and some with spi?
+13:18 #spi: < bdale> in contrast, SFC is active in this area
+13:18 #spi: < bkuhn> My only comment is on Hydroxide's point, rarely does GPL enforcement require litigation... but it is labor-intensive even for non-litigation matters.  
+13:18 #spi: < Hydroxide> the only catch here: Conservancy wouldn't have the exclusivity they usually require of Conservancy projects
+13:18 #spi: < Hydroxide> bkuhn: sure. that's a better clarification than my parenthetical, but I think we agree.
+13:18 #spi: < o11c> bkuhn: but non-litigation only works if the threat of litigation is credible
+13:18 #spi: < jberkus> point ... *can* SFC do enforcement for a non-SFC project?
+13:19 #spi: < jberkus> if they can, I'm all for it ...
+13:19 #spi: < bdale> I think the idea was to spin up a special project
+13:19 #spi: < bkuhn> Hydroxide: Indeed, we would not have exclusivity.  The model is the GPL Compliance Project for Linux Developers.  It's because we had that precedent that we can even consider this.  (i.e., Linux isn't a Conservancy member, nor would Debian be)
+13:19 #spi: < jberkus> gotta run, later
+13:19 #spi: < Hydroxide> jberkus: if someone assigns them copyright, it's up to what they're willing to do, not what they can. I'll defer to bdale and bkuhn on that, but it sounds like they're willing.
+13:20 #spi: < bkuhn> Hydroxide: It's easily added to the existing Linux, BusyBox, Mercurial, (and  now Wine too) GPL enforcement we're doing regularly anyway.
+13:20 #spi: < Hydroxide> bkuhn: seems fine to me.
+13:20 #spi: < bdale> right, so I think the idea is that the Conservancy would spin up a project for Debian like the one for the kernel community, and folks in Debian that want to participate would know that the possibility exists
+13:20 #spi: < bkuhn> But, as I've already told bdale: Conservancy won't do this if there's a slightest objection from SPI.  We see SPI as Debian's home, and wouldn't want to do this without SPI's full blessing.
+13:21 #spi: < Ganneff> if we ever get to the point spi wants to do it, would that be blocked by having it in sfc already? (dont think so, but better asking)
+13:21 #spi: < bdale> in any case, I don't believe this requires board action, but I certainly didn't want to act without the board knowing what's afoot.
+13:21 #spi: < bkuhn> Ganneff: no, SPI could take over, although that would probably happen this way: (a) Conservancy canceling all its enforcement agreements with non-assigning developers, (b) Conservancy assigns all copyright to SPI (no problem, you're a (c)(3), and (c) Conservancy cancels the project. 
+13:22 #spi: < Ganneff> bkuhn: right, the way exactly doesnt matter, just the general thing.
+13:22 #spi: < bkuhn> Ganneff: if SPI wants, we could sign a side-agreement with SPI to that effect, and include it by reference in agreements with developers.
+13:22 #spi: < Ganneff> so, does anyone wants a vote on it or are we fine just letting it go on and sfc do it for debian?
+13:22 #spi:  * Hydroxide sees no objection and no need for a vote
+13:23 #spi: < Solver> agreed
+13:23 #spi: < Ganneff> ok, i see no further objection, so let it go this way.
+13:23 #spi: < bkuhn> Ok, next step is Conservancy's Eval Committee has to actually consider this as a potential project (which we hadn't done b/c we wanted SPI's blessing first).  Will these minutes be online quickly enough that I can refer to them in a week or two for Conservancy's Eval committee ?
+13:24 #spi: < Noodles> The log can be up within a day.
+13:24 #spi: < Ganneff> now, there was chakra, anything to discuss or just "goes to a mail vote"?
+13:24 #spi: < bkuhn> Noodles: great, thanks.  I'll ping you later about it when I need it. :)
+13:24 #spi: < Noodles> bkuhn: I can turn around the full minutes over the weekend if that's what you need, but poke me.
+13:25 #spi: < bdale> ok, bkuhn, I could send you an email with a summary authorization
+13:25 #spi: < Noodles> Ganneff: Chakra needs revised wording still I think and we either email vote or discuss next time.
+13:25 #spi: < Ganneff> ok.
+13:25 #spi: < Ganneff> i think next was one from Noodles and then two from Hydroxide
+13:25 #spi: < bkuhn> bdale: that's fine too.
+13:26 #spi: < Ganneff> ie the new project resolution, or do i mix something wrong here?
+13:26 #spi: < Noodles> Ganneff: No, my point was just about Chakra. I'm done.
+13:26 #spi: < Ganneff> good
+13:26 #spi: < Ganneff> Hydroxide: you can go
+13:26 #spi: < Ganneff> (and after, i have one)
+13:27 #spi: < Hydroxide> 1) briefly: it's worth mentioning in the meeting that I sent a delayed letter of resignation due to time constraints. I urge the board to select an interim board member via email vote soon. Either way my term will end no later than May 8.
+13:27 #spi: < Hydroxide> If someone wants to join the board and we don't already know, email board@. There are already two names under consideration.
+13:28 #spi: < Noodles> I have been lax in drawing up a draft role specification.
+13:28 #spi: < Noodles> I wanted to circulate that a bit once I had.
+13:29 #spi: < Hydroxide> 2) Our incorporation state of New York recently overhauled its Not-for-Profit Corporation Law, mostly going into effect July 1 of this year. Can someone who will be continuing on the board take point on making sure we make any necessary adjustments? It looks like at minimum we need to devise a conflict of interest policy. I'm not sure what else is required.
+13:29 #spi: < Hydroxide> the law is the Nonprofit Revitalization Act of 2013 or NPRA. I sent more specific links to the board list, and any internet search will find it too.
+13:30 #spi: < bdale> I'd love for someone else to take point on this, but I'll be the fall-back if not.
+13:30 #spi: < Solver> Depending on how big it is, it might even require several of us
+13:31 #spi: < Hydroxide> there probably aren't a lot of changes needed imminently besides that, but if we cross audit-related thresholds, there's a bit more imposition on governance requirements.
+13:31 #spi: < schultmc> http://open.nysenate.gov/legislation/bill/A8072-2013 has a colored diff of the statute
+13:31 #spi: < Hydroxide> and ideally some lawyer (SFLC would do) will review the specifics in case the highlight summaries widely available on the internet overlook something applicable to us specifically.
+13:32 #spi: < Ganneff> we may need to get legal support for this
+13:32 #spi: < Hydroxide> yeah.
+13:32 #spi: < Hydroxide> it just needs to happen since it's going into effect July 1 (small portion delayed until January 2015)
+13:32 #spi: < Ganneff> someone volunteering?
+13:32 #spi: < Hydroxide> no reason to panic or be concerned, but definitely worth doing.
+13:33 #spi: < Solver> I can be involved but I think it may be a multi-person effort
+13:33 #spi: < bkuhn> Hydroxide: Just as a note of additional info that might be helpful, Conservancy is NYS as well.  The key change we have to make is president and chair of the board can't be the same person anymore.  I'm resigning as chair myself of Conservancy later this year.  That part isn't until 2015-01-01, so our lawyer tells us.
+13:34 #spi: < Hydroxide> I'll be involved via email discussion for the remainder of my time on the board, and if it won't create attorney-client privilege problems after that you're welcome to discuss informally with me.
+13:34 #spi: < Hydroxide> bkuhn: if I read the new law correctly, the conflict there is that you are an employee. bdale is an officer but not an employee
+13:34 #spi: < schultmc> Chair Requirements. To ensure independent board leadership and promote clear lines of accountability between management and the board, the Act expressly prohibits employees from serving as chair of the board or in an officer position with similar responsibilities, effective July 1, 2015.
+13:34 #spi: < Hydroxide> well we have no employees
+13:35 #spi: < Hydroxide> so doesn't apply to us :)
+13:35 #spi: < bdale> right, we have no employees, and we haven't ever really been explicit about a board chair
+13:35 #spi: < bkuhn> Hydroxide: You should double-check, our lawyer definitely told us that it was president and chair being the same employee.  Perhaps a different part of the law?
+13:35 #spi: < Hydroxide> also that looks like July.
+13:35 #spi: < bdale> I guess by default president acts as board chair?
+13:35 #spi: < bkuhn> er same person
+13:35 #spi: < Ganneff> ok, lets take this out of meeting time. Solver could you coordinate getting something started? i could volunteer a *little* time, but sure not taking lead on it.
+13:35 #spi: < Hydroxide> bkuhn: we hvae no employees.
+13:35 #spi: < bkuhn> not same employee.
+13:35 #spi: < bkuhn> Yes, I typoed there.
+13:35 #spi: < Hydroxide> bkuhn: definitely worth checking, as you say.
+13:35 #spi: < bkuhn> The what employees can do on board I think is different than separation of board roles issue.
+13:35 #spi: < Solver> Ganneff: ok will do
+13:35 #spi: < bdale> Solver: feel free to involve me as needed
+13:36 #spi: < Ganneff> thanks
+13:36 #spi: < Solver> thanks
+13:36 #spi: < Ganneff> so, ive got one point, its a followup to last meeting
+13:36 #spi: < Ganneff> in the meantime we got one already with some rights for admin foo (schultmc gave them out), and with my mail from earlier this week we got a few more volunteers which i still have to give access
+13:37 #spi: < Noodles> Great. Sounds like we have progress.
+13:37 #spi: < Hydroxide> yay.
+13:37 #spi: < Ganneff> yes. it goes on. not the fastest train, but it moves.
+13:37 #spi: < Ganneff> unfortunately the other mail thread that (i think) linuxwhatshisnicknow? :) wanted to start about spi providing services didnt get out yet, but it may be good too, until we have more people know the infrastructure well
+13:38 #spi: < Ganneff> [item 8, AOB]
+13:38 #spi: < Ganneff> Anyone anything?
+13:38 #spi: < Solver> one quick item
+13:38 #spi: < Ganneff> go
+13:38 #spi: < Solver> I wanted to raise 2009-11-04.jmd.1: Contributing membership expiry
+13:38 #spi: < Ganneff> kick em out, the idle ones?
+13:38 #spi: < Noodles> From memory the database has a record of the last vote people made.
+13:39 #spi: < Solver> we've never properly implemented it.  I've never liked it.  i think we should consider repealng it and replacing it with something simpler
+13:39 #spi: < Solver> I don't suggest we discuss it now.  i just wanted to put the idea out there
+13:39 #spi: < schultmc> I received an automated email in 2004 about whether I wanted to retain my contributing membership
+13:39 #spi: < Ganneff> Solver: come up with one? :)
+13:39 #spi: < schultmc> unfortunately we haven't found what sent that out :)
+13:39 #spi: < Solver> schultmc: :)
+13:40 #spi: < Ganneff> schultmc: hehe. and you are the members committee
+13:40 #spi: < Noodles> schultmc: I think automated mails and a tie in to the members interface to confirm activity (assuming someone hasn't voted) makes sense.
+13:40 #spi: < Solver> Ganneff: I'll started a list thread on the topic.  I have some thoughts
+13:40 #spi: < Noodles> But I'm interested in Solver's issues with it and look forward to the mail.
+13:40 #spi: < bdale> Solver: I think the trick is that if we're going to scrub, we should do it before another board election
+13:40 #spi: < Ganneff> Solver: good.
+13:40 #spi: < Hydroxide> bkuhn: check Section 73 of NPRA, or section 713 the revised NPCL. the new restriction clearly applies only to employees, of whom we have none, not even our officers or directors.
+13:40 #spi: < Ganneff> ok, so lets go on:
+13:40 #spi: < Ganneff> [item 9, Next board meeting]
+13:40 #spi: < Ganneff> Next board meeting: May 8th, 2014, 20:00 UTC
+13:41 #spi: < Hydroxide> sorry for pasting that here, I had typed it out for after the meeting and wanted to make another comment without losing it :)
+13:41 #spi: < schultmc> works for me
+13:41 #spi: < bdale> should be ok for me
+13:41 #spi: < Noodles> Hopefully fine for me.
+13:41 #spi: < Ganneff> *GAVEL*
