@@ -1,0 +1,227 @@
+# 2006-11-21
+
+This is the proposed agenda for the Annual Board meeting of November 21st,
+2006, to be held at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. Apologies received from Jimmy Kaplowitz
+3. President's report (Bdale Garbee)
+4. Treasurer's report (Josh Berkus)
+5. Outstanding minutes
+   1. [October 4th, 2005](../../../minutes/2005/2005-10-04/)
+   2. [October 18th, 2005](../../../minutes/2005/2005-10-18/)
+   3. [November 15th, 2005](../../../minutes/2005/2005-11-15/)
+   4. [December 13th, 2005](../../../minutes/2005/2005-12-13/)
+   5. [October 17th, 2006](../../../minutes/2006/2006-10-17/)
+6. Items up for discussion:
+   1. Further on Debian trademark in Spain? (Resolution 2006-04-03.jfsp.1)
+   2. Resolution 2006-11-21.jmb.1: Removal of OpenVAS as an associated project
+   3. Resolution 2006-11-18.dbg.mjs.1: Open Source Initiative domain
+   4. Outstanding items requesting comment from the DPL - see discussion
+7. Next board meeting - Tuesday, December 19th, 2006
+
+### President's Report
+
+<pre>
+(none)
+</pre>
+
+### Treasurer's Report
+
+## Accountants
+
+I received a 2005 statement from Mark's.   Once I pay them their balance
+(awaiting statement) and get a dump of their Quickbooks DB.  I expect that we
+will owe them about $600.  However, I do not want to terminate our agreement
+with Mark's until I'm sure I won't need their help for 2004 or earlier.
+
+Rich &amp; Bander prepared our 2005 Form990, and are helping me with our vastly
+overdue state registration (see below).  I am very pleased by their fast
+turnaround on this.  We are paying them $650 for the Form990.
+
+## Taxes
+
+Our 2005 Form990 has been filed.   Please note that since SPI is now over
+$100,000 annual income, we will be required to file a full Form990 in the
+future every year.  Our Form990 is <i>sixteen pages</i>.  This, combined with
+the necessity of filing a certified financial statement with the State of New
+York every year from 2006 on means that we do not have the option of going
+without a CPA again.
+
+We are extremely (as in four years) overdue on registration with the State of
+New York.   When we register next month, I expect to owe them several years of
+back fees amounting to some $600 or so.   More daunting is the prospect that NY
+might demand financial statements back to 2003 or earlier, which would be very
+difficult for us to produce due to the poor quality of our records.
+
+2006 tax situation will be dealt with when we are caught up on data entry for
+financials (see below).  Note, again, that we are officially a "medium-sized
+NPO" per the IRS now and our tax reporting requirements are going up
+significantly.
+
+## Statements -2005
+
+Attached is a copy of our 2005 statement and P&amp;L from Mark's.  
+
+My proposal is to assume that we broke even on SPI funds for 2005, since we do
+not have good enough records to determine which expenses are SPI's and which
+Debian's without extensive research.  This would make all accumulated funds
+Debian's.
+
+
+## Statements - 2006
+
+I spent several hours with the LedgerSMB team and our CPA working out how to
+properly record our income and expenses using LedgerSMB.  Joerg is installing
+LedgerSMB 1.2 on the new treasurer server today.   Next week we will therefore
+be able to start earnest data entry to bring all of the revenue and expenses
+from 2006 up to date.
+
+I did have a temp worker enter all revenue to early October 2006 into a
+spreadsheet.  Note that SPI direct donations are only $1721, and would be
+unlikely to exceed $2500 before the end of the year without a specific
+campaign.   This will not make our SPI expense budget.  The 5%, if appled back
+to 1/1/2006, would amount to $5999 through October, or a projected $7000 for
+the year.   This would cover our accounting expenses handily.
+
+Total Revenue through the first week of October, <i>non-reconciled</i>, is:
+
+<table>
+<tbody>
+  <tr>
+    <td align="right"><b><i>Gross</i></b></td>
+    <td align="right"><b><i>Transaction Fees</i></b></td>
+    <td align="right"><b><i>Net</i></b></td>
+    <td align="right"><b><i>SPI 5%</i></b></td>
+    <td align="right"><b><i>Project Allocation </i></b></td>
+    <td align="justify"><b><i>Project</i></b></td>
+  </tr>
+  <tr><td><i>77845.32</i></td><td align="right"> <i>405.29</i></td><td align="right"> <i>77440.03</i></td><td align="right"> <i>3922</i></td><td align="right"> <i>73518.03</i></td><td> <b><i>Debian</i></b></td></tr>
+  <tr>
+    <td align="right"><i>45</i></td>
+    <td align="right"><i>2.14</i></td>
+    <td align="right"><i>42.86</i></td>
+    <td align="right"><i>2.14</i></td>
+    <td align="right"><i>40.72</i></td>
+    <td align="left"><b><i>Gallery</i></b></td>
+  </tr>
+  <tr>
+    <td align="right"><i>1700</i></td>
+    <td align="right"><i>8.31</i></td>
+    <td align="right"><i>1691.69</i></td>
+    <td align="right"><i>84.58</i></td>
+    <td align="right"><i>1607.1</i></td>
+    <td align="justify"><b><i>OVF</i></b></td>
+  </tr>
+  <tr>
+    <td align="right"><i>39013.05</i></td>
+    <td align="right"><i>932.63</i></td>
+    <td align="right"><i>38080.42</i></td>
+    <td align="right"><i>1904.02</i></td>
+    <td align="right"><i>36176.4</i></td>
+    <td align="left"><b><i>PostgreSQL</i></b></td>
+  </tr>
+  <tr>
+    <td align="right"><i>1759</i></td>
+    <td align="right"><i>37.36</i></td>
+    <td align="right"><i>1721.64</i></td>
+    <td align="right"><i>86.08</i></td>
+    <td align="right"><i>1635.56</i></td>
+    <td align="justify"><b><i>SPI General</i></b></td>
+  </tr>
+  <tr>
+    <td align="right"><i>$20.00</i></td>
+    <td align="right"><i>0.65</i></td>
+    <td align="right"><i>19.35</i></td>
+    <td align="right"><i>0.97</i></td>
+    <td align="right"><i>18.38</i></td>
+    <td align="justify"><b><i>TeXmacs</i></b></td>
+  </tr>
+  <tr>
+    <td align="right"><b><i>120382.37</i></b></td>
+    <td align="right"><b><i>1386.38</i></b></td>
+    <td align="right"><b><i>118995.99</i></b></td>
+    <td align="right"><b><i>5999.8</i></b></td>
+    <td align="right"><b><i>112996.19</i></b></td>
+    <td align="justify"><b><i>Grand Total</i></b></td>
+  </tr>
+</tbody>
+</table>
+
+I do not have figures on expenses.  
+
+Expect a full statement, both for 2006 and month-by-month, next month if we can
+get all of the data entered.   Volunteers are appreciated.
+
+
+
+### Discussion appendix
+
+<pre>
+    1) Response to concerns related to the acceptance of Sun Java into
+       non-free, see:
+           From: John Goerzen &lt;jgoerzen@complete.org&gt;
+           Date: Wed, 7 Jun 2006 18:28:22 -0500
+           Subject: Questions about Java license and related questions
+           Message-ID: &lt;20060607232822.GA31686@katherina.lan.complete.org&gt;
+
+    2) Response to concerns related to interaction between Debian developers
+       and citizens of embargoed countries, see:
+           From: Anthony Towns &lt;aj@azure.humbug.org.au&gt;
+           Date: Fri, 9 Jun 2006 17:47:49 +1000
+           Subject: Debian in embargoed countries
+           Message-ID: &lt;20060609074749.GB1408@azure.humbug.org.au&gt;
+
+    3) Response to concerns related to online harrassment, see:
+           From: Steve Langasek &lt;vorlon@debian.org&gt;
+           Date: Fri, 9 Jun 2006 17:04:51 -0700
+           Subject: request for assistance with ongoing harrassment
+               [debianwomenpassaway@yahoo.com: Debian women: please pass away.]
+           Message-ID: &lt;20060610000450.GN13192@mauritius.dodds.net&gt;
+
+    4) Precise accounting of funds held for the benefit of the Debian
+       project (my imprecise estimate is $0, split between -$50,000 for
+       debconf, and +$50,000 for misc debian use, which will obviously
+       only be useful when the HP money makes its way in)
+
+    5) Is there any sort of online/electronic report of donations from
+       Click &amp; Pledge that can be made available?
+</pre>
+
+### Resolutions
+
+<pre>
+2006-11-21.jmb.1
+Removal of OpenVAS as an associated project
+
+Whereas
+
+1. The OpenVAS project site, www.openvas.org is down and has been for 3 weeks;
+
+2. Attempts to reach OpenVAS project members have failed;
+
+3. SPI is not holding any assets for OpenVAS to our knowledge, nor have we
+received any donations for OpenVAS for over a year;
+
+The SPI Board Resolves That
+
+OpenVAS is hereby removed as an Associated Project.
+</pre>
+
+<pre>
+2006-11-18.dbg.mjs.1Open Source Initiative domain
+
+Whereas
+
+1. the Open Source Initiative is not part of SPI;
+
+2. SPI still holds the Open Source Initiative's domain, "opensource.org" and
+"opensource.net" which are used by the Open Source Initiative.
+The SPI Board Resolves That control of the domains "opensource.org" and
+"opensource.net" shall be transferred to the Open Source Initiative at the
+earliest opportunity.
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

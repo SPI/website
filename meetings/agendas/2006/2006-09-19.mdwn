@@ -1,0 +1,534 @@
+# 2006-09-19
+
+This is the proposed agenda for the Annual Board meeting of August 15th, 2006,
+to be held at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. Apologies received from Jimmy Kaplowitz
+3. President's report (Bdale Garbee)
+4. Treasurer's report (Josh Berkus)
+5. Outstanding minutes
+   1. [August 16th, 2005](../../../minutes/2005/2005-08-16/)
+   2. [October 4th, 2005](../../../minutes/2005/2005-10-04/)
+   3. [October 18th, 2005](../../../minutes/2005/2005-10-18/)
+   4. [November 15th, 2005](../../../minutes/2005/2005-11-15/)
+   5. [December 13th, 2005](../../../minutes/2005/2005-12-13/)
+   6. [July 1st, 2006](../../../minutes/2006/2006-07-01/)
+   7. [July 11th, 2006](../../../minutes/2006/2006-07-11/)
+   8. [August 1st, 2006](../../../minutes/2006/2006-08-01/)
+6. Items up for discussion:
+   1. Further on Debian trademark in Spain? (Resolution 2006-04-03.jfsp.1)
+   2. Attendance Policy (Resolution 2006-08-07-dbg.2)
+   3. Accepting Gallery as Associated Project (Resolution 2006-09-19.mcs.2)
+   4. Moving board meeting date/time
+   5. FirstIB form
+   6. Items requesting comment from the DPL - see discussion
+7. Next board meeting - Tuesday, October 17th, 2006
+
+### President's Report
+
+<pre>
+(none)
+</pre>
+
+### Treasurer's Report
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it. Income from our Ameriprise
+Financial account (with income from the RVS Cash Management
+fund) for the statement period ending January 16 is included
+in January's report despite it covering a period of three
+months.
+
+Profit/Loss January 1 2006 - January 31 2006
+
+   Ordinary Income/Expense
+      Income
+
+        RVS Cash Management Fund                     350.80[1]
+
+      Total Income                                   350.80[2]
+
+      Expense
+      Total Expense                                    0.00
+
+   Net Ordinary Income                               350.80
+
+   Net Income                                        350.80
+
+Balance Sheet as of January 31, 2006
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf)       1,301.09
+          Known DebConf Earmark                   13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 574.86
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   27,422.73
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,744.06
+        Total Ameriprise Financial Acct           40,744.06
+
+     Total Current Assets                         68,166.79
+
+   TOTAL ASSETS                                   68,166.79
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         67,815.99
+        Net Income                                   350.80
+     Total Equity                                 68,166.79
+
+   TOTAL LIABILITIES &amp; EQUITY                     68,166.79
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] This is current as of January 16, the closing date of our most recent
+Ameriprise statement, and covers the period from October 14, 2005, through
+then.
+[2] Again, keep in mind that the lack of donations listed only means we did
+not deposit any donations in January, not that we received none. Reread the
+first paragraph of this report if this is unclear.
+</pre>
+
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss February 1 2006 - February 28 2006
+
+   Ordinary Income/Expense
+      Income
+
+        Donations
+            Debian                                   425.00
+            SPI                                       60.00
+        Total Donations                              485.00
+
+      Total Income                                   485.00
+
+      Expense
+        Misc Mailing Expenses                          0.59[1]
+      Total Expense                                    0.59
+
+   Net Ordinary Income                               484.41
+
+   Net Income                                        484.41
+
+Balance Sheet as of February 28, 2006
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf)       1,726.09
+          Known DebConf Earmark                   13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 634.27
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   27,907.14
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,744.06
+        Total Ameriprise Financial Acct           40,744.06
+
+     Total Current Assets                         68,651.20
+
+   TOTAL ASSETS                                   68,651.20
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         68,166.79
+        Net Income                                   484.41
+     Total Equity                                 68,651.20
+
+   TOTAL LIABILITIES &amp; EQUITY                     68,651.20
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] Our records don't make clear what this expense is, although Branden might
+possibly remember. Regardless, the only fair thing to do is treat this as SPI
+earmark.
+</pre>
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss March 1 2006 - March 31 2006
+
+   Ordinary Income/Expense
+      Income
+
+        PGConference Sponsorship                   3,976.00
+
+      Total Income                                 3,976.00
+
+      Expense
+        Refund of Erroneous Debian Donation           44.97
+        Debian Travel Reimbursements               2,028.22
+      Total Expense                                2,073.19
+
+   Net Ordinary Income                             1,902.81
+
+   Net Income                                      1,902.81
+
+Balance Sheet as of February 28, 2006
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf)        (347.10)[1]
+          Known DebConf Earmark                   13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known PGConference Earmark               3,976.00
+          Known Unrestricted Earmark                 634.27
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   29,809.95
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,744.06
+        Total Ameriprise Financial Acct           40,744.06
+
+     Total Current Assets                         70,554.01
+
+   TOTAL ASSETS                                   70,554.01
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         68,651.20
+        Net Income                                 1,902.81
+     Total Equity                                 70,554.01
+
+   TOTAL LIABILITIES &amp; EQUITY                     70,554.01
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] Debian does not actually have a negative amount of funds; this number
+doesn't include DebConf-earmarked funds or any funds in the Amerprise
+account. Additionally, most of the funds whose earmarks remain to be
+determined are Debian's.
+</pre>
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it. Income from our Ameriprise
+Financial account (with income from the RVS Cash Management
+fund) for the statement period ending April 16 is included
+in April's report despite it covering a period of three
+months.
+
+Profit/Loss April 1 2006 - April 30 2006
+
+   Ordinary Income/Expense
+      Income
+
+        RVS Cash Management Fund                     372.66[1]
+        Amerprise -&gt; FirstIB Transfer             29,000.00[2]
+
+        Donations
+            SPI                                    1,042.75
+            Debian                                   490.82
+            PostgreSQL                                48.50
+            PGConference Sponsorship              10,000.00
+        Total Donations                           11,582.07
+
+      Total Income                                40,954.73
+
+      Expense
+        Ameriprise -&gt; FirstIB Transfer            29,000.00[2]
+        Ameriprise Commission (DebConf earmark)       25.00
+        DebConf6 Venue Fee Payment                29,000.00
+        DebConf6 Wire Transfer Costs                  50.00
+        PGConference Venue Fee Payment             1,532.72
+        PGConference Faxing Costs                      2.14
+        PGConference Wire Transfer Costs              50.00
+        Deposit Mailing Costs (SPI earmark)            0.08
+      Total Expense                               59,659.94
+
+   Net Ordinary Income                           (18,705.21)
+
+   Net Income                                    (18,705.21)
+
+Balance Sheet as of April 30, 2006
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf)         143.72
+          Known DebConf Earmark                   13,208.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known PGConference Earmark              12,391.14
+          Known PostgreSQL Earmark                    48.50
+          Known Unrestricted Earmark               1,676.94
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   39,757.08
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                12,091.72
+        Total Ameriprise Financial Acct           12,091.72
+
+     Total Current Assets                         51,848.80
+
+   TOTAL ASSETS                                   51,848.80
+
+   LIABILITIES &amp; EQUITY
+     Liabilities
+        DebConf (all owed to Debian)              29,025.00[3]
+     Total Liabilities                            29,025.00
+
+     Equity
+        Retained Earnings                         70,554.01
+        Net Income                               (18,705.21)
+        Debian (all owed by DebConf)              29,025.00[3]
+     Total Equity                                 80,873.80
+
+   TOTAL LIABILITIES &amp; EQUITY                     51,848.80
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] This is current as of April 16, the closing date of our most recent
+Ameriprise statement, and covers the period from January 17 through then.
+
+[2] I am mainly listing this so that it's clear that the FirstIB and
+Ameriprise account values are changing and why, not because it's any net
+change in SPI assets; it's not. This was related to DebConf6.
+
+[3] This is to be repaid (at 0% interest) automatically as soon as DebConf
+has sufficient funds.
+</pre>
+
+### Discussion appendix
+
+<pre>
+Since there's a new board, I thought it might be a reasonable time to
+go back over some of the issues that Debian would appreciate SPI input on:
+
+    1) Response to concerns related to the acceptance of Sun Java into
+       non-free, see:
+           From: John Goerzen &lt;jgoerzen@complete.org&gt;
+           Date: Wed, 7 Jun 2006 18:28:22 -0500
+           Subject: Questions about Java license and related questions
+           Message-ID: &lt;20060607232822.GA31686@katherina.lan.complete.org&gt;
+
+    2) Response to concerns related to interaction between Debian developers
+       and citizens of embargoed countries, see:
+           From: Anthony Towns &lt;aj@azure.humbug.org.au&gt;
+           Date: Fri, 9 Jun 2006 17:47:49 +1000
+           Subject: Debian in embargoed countries
+           Message-ID: &lt;20060609074749.GB1408@azure.humbug.org.au&gt;
+
+    3) Response to concerns related to online harrassment, see:
+           From: Steve Langasek &lt;vorlon@debian.org&gt;
+           Date: Fri, 9 Jun 2006 17:04:51 -0700
+           Subject: request for assistance with ongoing harrassment
+               [debianwomenpassaway@yahoo.com: Debian women: please pass away.]
+           Message-ID: &lt;20060610000450.GN13192@mauritius.dodds.net&gt;
+
+    4) Precise accounting of funds held for the benefit of the Debian
+       project (my imprecise estimate is $0, split between -$50,000 for
+       debconf, and +$50,000 for misc debian use, which will obviously
+       only be useful when the HP money makes its way in)
+None
+    5) Is there any sort of online/electronic report of donations from
+       Click &amp; Pledge that can be made available?
+
+    6) I think Debian would appreciate it if SPI would formally comment
+       on the asset handling changes proposed on debian-vote, to ensure we
+       can maintain a friendly and consultative relationship. (Even if the
+       comment is just "yup, that's fine by us!" or whatever) See the threads
+       related to:
+           From: Manoj Srivastava &lt;srivasta@debian.org&gt;
+           Date: Thu, 20 Jul 2006 20:12:54 -0500
+           Subject: Constitutional Amendment GR: Handling assets for the project
+           Message-id: &lt;87r70f92w9.fsf@glaurung.internal.golden-gryphon.com&gt;
+
+           http://lists.debian.org/debian-vote/2006/07/msg00005.html
+
+</pre>
+
+### Resolutions
+
+<pre>
+Resolution 2006-04-03.jfsp.1: Debian trademark in Spain
+
+WHEREAS
+
+1. The Debian trademark in Spain is currently held by Jesus Martinez which
+  has no assocation with either the Debian project or SPI Inc.
+
+2. The SPI trademark commitee wants to register the Debian trademark EU-wide
+  and any registration in an EU country will stall the process
+
+3. Mr. Martinez has been contacted by the "Debian Spain" association and
+  by Javier de la Cueva and has rejected to transfer the trademark over to
+  SPI unless the following terms are met:
+      * Deletion of all Internet web pages with prior references to
+        Mr.  Martínez trademark appropriation.
+      * Payment of 3,000 Euros as a fee for having made the defense of
+        the trademark and the costs.
+      * SPI letter granting him the rights to use perennialy the trademark
+        "Debian".
+
+4. The SPI Board considers the transfer term unacceptable.
+
+THE SPI BOARD RESOLVES THAT
+
+5. SPI will initiate legal actions against Mr. Martinez.
+
+6. SPI will provide a notarized and apostilled Power of Attorney to
+  the Spanish lawyer Javier de la Cueva, who will act in a Pro Bono basis,
+  and will litigate on behalf of SPI.
+
+7. SPI will provide certificates of the trademark registry and any other
+  relevant documents to Javier de la Cueva needed to provide
+  documentary evidences necessary to defend the case.
+</pre>
+
+<pre>
+Resolution 2006-08-07.dbg.2
+
+This resolution supercedes 2001-09-17.br.
+
+1. WHEREAS the Board of Directors of Software in the Public Interest is
+responsible for the operation of the organisation;
+
+2. and WHEREAS the Board of Directors performs its business at its
+meetings;
+
+3. and WHEREAS Board members are expected to attend all meetings;
+
+4. and WHEREAS Board members who do not attend a reasonable number of
+meetings can prevent the Board from carrying out its duties;
+
+The Board of Directors hereby resolves that:
+
+5. The Accounting Period for this Attendance Policy shall be one year,
+ending with the most recent Board meeting, including any meeting in
+session;
+
+6. All Board members shall be recorded in the meeting minutes of all board
+meetings while they are members as having an attendance status that is one
+of:
+  a. Absent,
+  b. Absent, with regrets,
+  c. Present, with exception,
+  d. Present;
+
+7. A Board member who fails to attend a valid Board meeting, and who has
+not sent the Board regrets for the meeting at least twenty-four (24) hours
+prior to the scheduled start of the meeting, shall be marked as: "Absent",
+but may, by a vote of the Board at the time the Minutes are being approved
+for that meeting be marked as "Absent, with regrets" without notice having
+been received should the Board be satisfied that reasonable notice was not
+possible;
+
+8. A Board member who fails to attend a valid Board meeting, but who has
+sent the Board regrets at least twenty-four (24) hours prior to the
+scheduled start of the meeting, shall be marked as: "Absent, with
+regrets";
+
+9. A Board member who attends a valid Board meeting shall be marked as
+"Present", but shall be marked as "Present, with exception" if he does
+not:
+  a. Register as present during Roll Call, and
+  b. Participate or actively abstain in all votes, and
+  c. Respond to all Quorum Calls called for by the meeting Chair;
+
+10. A Quorum Call may be called by the meeting Chair at any time during a
+meeting if he reasonably believes that the number of members still
+attending are insufficient to retain Quorum, and all members present must
+respond in acknowledgement of their presence. Such Quorum calls and their
+results shall be recorded in the meeting Minutes;
+
+11. All Board members shall be considered "Present" for all meetings for
+the year prior to their first appointment to the Board;
+
+12. A Board member shall be asked to resign from the Board, and may be
+subject to a removal hearing if the Board member is
+  a. marked as "Absent" for the greater of 20% or three Board meetings
+during the accounting period, or
+  b. marked as "Absent, with regrets" for the greater of 40% or five Board
+meetings during the accounting period, or
+  c. not marked as "Present" for the lesser of 50% or seven Board meetings
+during the accounting period;
+
+13. This resolution and all its effects shall take place effective with
+the passage of this resolution, with no action being taken for attendance
+records prior to its implementation.
+</pre>
+
+<pre>
+Resolution 2006-09-19.mcs.2
+
+Accepting Gallery as Associated Project
+
+WHEREAS
+
+1. Gallery is a substantial and significant Free Software project.
+
+2. The Gallery developers would like SPI's support and assistance, including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Gallery is formally invited to become an SPI Associated Project, according
+   to the SPI Framework for Associated Projects, SPI Resolution
+   1998-11-16.iwj.1-amended-2004-08-10.iwj.1,
+   a copy of which can be found at http://www.spi-inc.org/corporate/resolutions/2004-08-10-iwj.1
+
+4. Currently, Bharat Mediratta is recognised by SPI as the current
+   authoritative decision maker for Gallery.
+
+5. This invitation will lapse, if not accepted, 60 days after it is approved
+   by the SPI Board.
+</pre>
+
+
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

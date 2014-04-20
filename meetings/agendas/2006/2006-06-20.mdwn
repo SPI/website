@@ -1,0 +1,254 @@
+# 2006-06-20
+
+This is the proposed agenda for the Board meeting of June 20th, 2006, to be
+held at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. Branden Robinson has sent regrets
+3. President's report (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Outstanding minutes
+   1. [AGM: July 1st, 2005](../../../minutes/2006/2005-07-01/)
+   2. [July 26th, 2005](../../../minutes/2005/2005-07-26/)
+   3. [August 16th, 2005](../../../minutes/2005/2005-08-16/)
+   4. [October 4th, 2005](../../../minutes/2005/2005-10-04/)
+   5. [October 18th, 2005](../../../minutes/2005/2005-10-18/)
+   6. [December 13th, 2005](../../../minutes/2005/2005-12-13/)
+   7. [February 21th, 2006](../../../minutes/2006/2006-02-21)
+   8. [March 21st, 2006](../../../minutes/2006/2006-03-21/)
+   9. [April 18th, 2006](../../../minutes/2006/2006-04-18/)
+   10. [May 16th, 2006](../../../minutes/2006/2006-05-16/)
+6. Items up for discussion:
+   1. Election
+    * Voting software
+    * Call for nominations
+    * Officer roles - add 'admin' to board? (VP role?)
+    * 3 candidates this year, 6 next year, 0 in 2008. Think about solutions.
+   2. OVF membership. See Resolution 2006-06-06.dbg.1: Open Voting Foundation membership and Amendment 2006-06-20.iwj.1
+   3. Further on Debian trademark in Spain?
+   4. Resolution 2006-06-16.dbg.1: Vice President responsibilities
+   5. Tax filing and book keeping status? (Jimmy)
+   6. Postgresql charter (Josh Berkus) (see discussion appendix)
+   7. Website rebuild?
+7. Next board meeting - ANNUAL MEETING: Saturday, July 1st, 2006 (John Goerzen)
+
+
+### Discussion appendix
+
+<pre>
+      Well, it took about 4 months longer than  anticipated ... partly due to a
+      mail server failure ... but here it is.
+
+      Some additional notes:
+      1) You'll notice that we've split "Liason" and "Observer" into separate
+      functions.  This is because we have a large distributed community and need
+      to involved as many people as possible.  So, the Liason works with the
+      Treasurer to manage our funds, and the Observer attends SPI board
+      meetings.
+
+      2) I will be "Acting Board Observer and Liason" until the SPI elections in
+      July.  At that time, the PostgreSQL folks will elect a new Liason and a
+      new Observer.
+
+      3) The list of contributing members is just for information; I'll send it
+      to the Membership committee to give them a checklist for PG people.  Of
+      course, not all of these people will sign up.
+      ---------------------------------------------------------------------------
+      Governance Charter of the Relationship
+      between the PostgreSQL project
+      and Software in the Public Interest, Inc.
+
+      The Core Team of the PostgreSQL project currently consists of the following
+      people: Josh Berkus, Peter Eisentraut, Marc Fournier, Tom Lane, Bruce
+      Momjian, Dave Page, Jan Wieck.  The Core Team appoints its own members.
+
+      The Fundraising Group of the PostgreSQL project initially consists of the
+      members of The PostgreSQL Foundation Inc. at the time of its termination.
+      Thereafter, the Fundraising Group appoints its own members.
+
+      The Fundraising Group elects the SPI Project Liason and the SPI Board
+      Observer.  These may be the same person.  The appointments are subject to
+      the veto of the Core Team.  The appointments may be replaced by voting on
+      new representatives at any time.
+
+      The SPI Board Observer will submit to SPI on an ongoing basis a list of
+      persons eligible for automatic SPI contributing membership in recognition
+      of their contributions to the PostgreSQL project.
+
+      Unless specified otherwise, decisions require a majority of votes.
+
+      -----------
+
+      Initially, the members of the Core Committee, contributing developers of
+      PostgreSQL as listed on the PostgreSQL web site, and the members of the
+      Fundraising Group are eligible for contributing membership of SPI.
+      Josh Berkus, Acting Board Observer, June 7th 2006
+
+      ------------
+
+      (list of names redacted)
+      ----------------------------------------------------------------------------
+
+      </pre>
+
+
+### Resolutions
+
+<pre>
+Resolution 2006-04-03.jfsp.1: Debian trademark in Spain
+
+WHEREAS
+
+1. The Debian trademark in Spain is currently held by Jesus Martinez which
+  has no association with either the Debian project or SPI Inc.
+
+2. The SPI trademark committee wants to register the Debian trademark EU-wide
+  and any registration in an EU country will stall the process
+
+3. Mr. Martinez has been contacted by the "Debian Spain" association and
+  by Javier de la Cueva and has rejected to transfer the trademark over to
+  SPI unless the following terms are met:
+      * Deletion of all Internet web pages with prior references to
+        Mr.  Martínez trademark appropriation.
+      * Payment of 3,000 Euros as a fee for having made the defense of
+        the trademark and the costs.
+      * SPI letter granting him the rights to use perennialy the trademark
+        "Debian".
+
+4. The SPI Board considers the transfer term unacceptable.
+
+THE SPI BOARD RESOLVES THAT
+
+5. SPI will initiate legal actions against Mr. Martinez.
+
+6. SPI will provide a notarized and apostilled Power of Attorney to
+  the Spanish lawyer Javier de la Cueva, who will act in a Pro Bono basis,
+  and will litigate on behalf of SPI.
+
+7. SPI will provide certificates of the trademark registry and any other
+  relevant documents to Javier de la Cueva needed to provide
+  documentary evidences necessary to defend the case.
+
+
+----------------------------------------------------------------------------
+
+Resolution 2006-06-06.dbg.1: Open Voting Foundation membership
+
+1. WHEREAS the Open Voting Foundation has approached Software in the
+Public Interest for membership through one of its officers;
+
+2. and WHEREAS the Open Voting Foundation's goals and purposes fit within
+those of Software in the Public Interest;
+
+3. and WHEREAS there exists potential to misconstrue the Open Voting
+Foundations' goals as partisan;
+
+The Board of Directors of Software in the Public Interest hereby resolves
+that:
+
+4. The Open Voting Foundation is formally invited to become an SPI
+Associated Project, according to the SPI Framework for Associated
+Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy
+of which can be found at
+lists.spi-inc.org/pipermail/spi-announce/2004/000091.html;
+
+5. This offer and Open Voting Foundation's membership is subject to all
+laws pertaining to non-profit involvement in political activity;
+
+6. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+
+Amendment 2006-06-20.iwj.1 to 2006-06-06.dbg.1:
+
+REPLACE entire text of the OVF resolution with the following text:
+
+ 1. Computer security and auditability are currently wholly
+    insufficient to rely on for voting in high-stakes elections such as
+    civil elections for national and local governments.
+
+ 2. The dependability, particularly for high-stakes decisionmaking, of
+    computer systems is getting worse and this trend is likely to
+    continue.  Pre- and post-election review and auditing of the
+    computing systems is not and will not be sufficiently robust
+    against malicious interference.
+
+ 3. Therefore, voting processes must rely on non-computerised means
+    to ensure that the votes and the result are not interfered with
+    (these means possibly including voter-verified human-readable paper
+    trails generated by any automatic voting machinery, although wholly
+    manual processes are to be preferred).
+
+ 4. While in some circumstances or jurisdictions there may be a place for
+    computer assistance in the voting arrangements, the election
+    processes must be arranged so that the computers are not able to
+    compromise the election result even if the computers themselves
+    are wholly compromised and malicious.
+
+ 5. Furthermore, the election processes must have robust responses
+    available for those case where evidence of malfunction (whether
+    malicious or accidental) of automatic equipment is detected,
+    including (if necessary) recourse to fully-manual and hence
+    fully-human-auditable recount.
+
+ 6. In jurisdictions where computers are heavily used, the biggest
+    current computer-related problem with the election processes is
+    the use of computers in critical roles without any means for
+    detecting and dealing with malfunction.
+
+ 7. It would be good if such voting software as is used were Free
+    Software, but the provision of, and drive towards adoption of, Free
+    voting software is at best a dangerous distraction from the task of
+    removing reliance on the integrity of computers, and preventing
+    the introduction of manipulable computer-dependent processes in
+    jurisdictions which don't currently use them.
+
+ 8. Therefore, at the current time, the Board of Software in the Public
+    Interest are of the view that efforts to improve voting software
+    by making it Free are misguided and harmful - that is, the
+    development of Free voting software is not in the public interest.
+
+ 9. Software in the Public Interest will therefore decline any request
+    by a voting software project to become an Associated Project.
+
+10. The Board wishes to make it clear that it regards the proponents
+    of Free voting software as misguided allies, even though we
+    disagree with them.  SPI will not use any underhand tactics to
+    undermine such projects; SPI restricts its opposition to these
+    projects to this resolution and position statement.
+
+11. Should the situation regarding computer assistance with elections
+    improve significantly - in particular, if at some point in the
+    future the problem of reliance on automatic systems is overcome,
+    and the processes for dealing with computer failure are
+    well-developed, well-exercised, and entrenched - the Board will
+    reverse this decision.
+
+
+----------------------------------------------------------------------------
+
+
+Resolution 2006-06-16.dbg.1: Vice President responsibilities
+
+1. WHEREAS the Vice President is the Board Officer with the fewest
+responsibilities;
+
+2. and WHEREAS it is necessary to provide some measure of coordination
+between the Board, the Membership, and SPI's various system and website
+administrations;
+
+The Board hereby resolves that
+
+3. The Vice President of the Board of Directors will be the Admin Leader
+for SPI and will be responsible for coordinate the Board, the Membership,
+and various system and website administrators.
+
+4. The Vice President will be responsible for coordinating the content of
+SPI's Website.
+
+5. This resolution takes effect at the first Board meeting following the
+2006 annual Board member elections.
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
