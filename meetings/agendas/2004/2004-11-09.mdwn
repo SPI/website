@@ -1,0 +1,313 @@
+# 2004-11-09
+
+This is the proposed agenda for the November 9th, 2004 Board meeting to be held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. Bruce Perens has sent regrets
+3. President's update (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Outstanding minutes (David Graham)
+   1. [October 5th, 2004](../../../minutes/2004/2004-10-05/)
+6. Resolution 2004-10-15.iwj.1: Efficient Board Meetings (Ian Jackson)
+   - Amendment 2004-10-18.dbg.1 (David Graham)
+7. Resolution 2004-10-15.dbg.1: Non-meeting voting (David Graham)
+8. Resolution 2004-10-16.dbg.1: Committee Framework (David Graham)
+9. Resolution 2004-10-28.dbg.1: Treasurer's Budget (David Graham)
+10. <del>Resolution 2004-11-08.iwj.1: GNUstep as Associated Project (Ian Jackson) -- deferred</del>
+11. <del>New project request: OpenC++ (unclaimed) -- deferred until response received</del>
+12. <li>Web site updates (David Graham)
+    - <a href="http://lists.spi-inc.org/pipermail/spi-www/2004-October/000555.html">Several updates are outstanding</a>
+13. Next meeting: December 7th, 2004 (John Goerzen)
+
+### Resolutions
+
+<pre>
+Amendment 2004-10-18.dbg.1:
+
+Sections A, B, and C are stricken from Resolution 2004-10-15.iwj.1. The
+Section D header is removed. Paragraph 16 is renumbered to paragraph 1 and
+read as follows
+
+1. "Resolution 2003-09-01.iwj.1: Efficient Board Meetings" is cancelled.
+
+Thus the entire resolution shall read:
+
+Resolution 2004-10-15.iwj.1: Efficient Board Meetings
+
+1. "Resolution 2003-09-01.iwj.1: Efficient Board Meetings" is cancelled.
+</pre>
+
+<pre>
+2004-10-15.iwj.1 Efficient Board Meetings
+
+A. WHEREAS
+
+1.  It is important that board meetings, which require simultaneous
+    presence of a quorum of the board, be short.
+
+2.  IRC discussions provide less easily read archives of discussions
+    than email archives, and require substantial efforts at redaction
+    to produce minutes.
+
+3.  IRC discussions are less accessible to people who are not available
+    at the time of the meeting than email.
+
+4.  IRC discussions are more prone to misunderstandings, accidental
+    offence, and personality clashes, than email.
+
+5.  On-line board meetings via IRC are a poor medium for
+    discussion for the reasons given above.
+
+6.  Board members should give due consideration to proposed decisions,
+    and reports, presented to the board.
+
+B. IT IS RESOLVED THAT
+
+7.  Discussion at on-line real-time Board meetings of Software in the
+    Public Interest shall be limited to the minimum necessary, by the
+    specific measures below, and by the active cooperation of the Board
+    and others during the meeting.
+
+8.  The Board aims to be able, during the meeting itself, merely to
+    approve or decline proposals already worked out in detail in
+    advance.
+
+9.  Issues (other than short fixed routine items such as apologies) for
+    consideration by the Board at its next meeting shall be notified to
+    the Board, to the Secretary, and if confidentiality is not required
+    to the Members, at least 7 days in advance of the relevant Board
+    meeting.  Such notification shall include the text of any report to
+    the Board, or a draft of any proposed resolution by the Board, as
+    relevant.
+
+10. The Secretary shall include on the agenda of the meeting those
+    items which were notified in time, as described above.  Items
+    arising and notified less than one week ahead of the meeting will
+    be postponed until the next subsequent meeting.  However, if the
+    Secretary believes that it is necessary to consider an item
+    immediately, for example because it is urgent, it may still appear
+    on the agenda with less than 7 days' notice.
+
+11. During the 7 days prior to the meeting, Board members shall
+    consider and discuss the agenda items as notified.  Just as Board
+    members should attend Board meetings, as part of their duties as a
+    Board member they have a responsibility to participate actively in
+    the Board's email deliberations.  A board member who wishes to
+    raise an issue regarding an agenda item should do so as soon as
+    possible, and in any case aim to do so within 48 hours of the
+    notification.
+
+12. Where a formal report is to be made to the Board, but no specific
+    resolution is envisaged, the usual formal action to be taken by
+    the Board during the meeting will be to vote whether to accept the
+    report.  The person making the report should avoid elaborating on
+    the report during the meeting; any questions or updates should
+    have been dealt with by email during the preceding week.
+
+13. The meeting chair shall be responsible for enforcing the rules
+    above.
+
+14. The above rules may in any case be deviated from in case of
+    necessity, such as external deadlines, emergencies etc.
+
+C. IT IS FURTHER RESOLVED THAT
+
+15. Guests will not be asked to state their name during the meeting.
+    Instead, the Secretary shall start logging the channel 15 minutes
+    before the meeting, and guests will be asked to state their name
+    during that period, or when they arrive if they arrive later.
+
+D. SUPERCESSION
+
+16. This resolution supercedes and replaces 2003-09-01.iwj.1
+    `Efficient Board Meetings'.
+</pre>
+
+<pre>
+Resolution 2004-10-15.dbg.1: Non-meeting voting
+
+This resolution supercedes 2001-11-26.iwj.1
+
+1. WHEREAS SPI board meetings take place electronically using IRC;
+
+2. and WHEREAS not all meeting business can take place using any single
+medium;
+
+The Board of Directors of SPI resolves that:
+
+3. Any motion or resolution may be voted on by the board of directors as
+per the following procedure:
+
+ i. All board members must be notified of the vote by means of, at
+  minimum, an electronic mail being sent to the board mailing list;
+
+ ii. Non-meeting vote announcements must contain the following
+  information:
+
+  1. The subject of the vote
+  2. The content of the motion or resolution
+  3. The date and time the vote opens
+  4. The date and time the vote closes
+
+ iii. In order for any motion or resolution to pass outside of a meeting,
+  a majority of board members must vote in favour;
+
+ iv. The authenticity of every vote must be ascertained by the Secretary,
+  or a designated member of the board;
+
+ v. No vote may be open for less than five days (120 hours), unless the
+  motion or resolution has been defeated;
+
+4. No matter shall be put to a vote which has not been put forth for
+discussion for a minimum of two days (48 hours);
+
+5. Any board member may call a non-meeting vote;
+
+6. No resolution or motion may be passed outside of a meeting if the Board
+of Directors does not have the minimum membership required by the By-Laws
+of this organisation without the affirmative vote of every board member;
+
+7. Any resolution or motion passed under the terms of this resolution
+shall have the same force and effect as if passed during a board meeting.
+</pre>
+
+<pre>
+Resolution 2004-10-16.dbg.1: Committee Framework
+
+1. WHEREAS, the day to day of the operations of a large organisation are
+better managed by committees with Board oversight;
+
+2. and WHEREAS, SPI's By-laws mandates the creation of some specific
+committees;
+
+3. and WHEREAS, SPI's Board may create committees as it sees fit;
+
+4. and WHEREAS, all SPI committees must remain accountable to the Board of
+Directors, and by extension to the Membership of this organisation;
+
+5. and WHEREAS, Article 10 of the By-laws outline rules governing
+committees;
+
+The Board hereby resolves that:
+
+6. Every committee shall report to the Board of Directors a minimum of
+once per year on their work, membership, and status. The committee's
+annual report shall be submitted to the Board at least one month prior to
+the Annual Meeting, so as to be included in the President's Annual Report;
+
+7. Committee membership shall be administered as follows, though a
+committee charter may specify alternatives for any of these rules:
+
+  i. The Board shall assign the initial membership of the committee
+  ii. The membership of the committee shall select an initial chair
+  iii. The chair shall be responsible for all future committee membership
+    appointments
+  iv. The committee shall elect the chair annually following the Annual
+    Meeting
+  v. Any committee may dismiss any member of the committee by a majority
+    vote of the committee
+  vi. The Board may replace any member of the the committee at any time
+  vii. Membership in all committees shall be between four (4) and sixteen
+    (16) members and may be adjusted by either the Board or the committee
+    chair;
+  ix. Committees may select officers other than a chair at their
+    discretion;
+
+8. The Board Secretary shall maintain an up-to-date list of all
+committees, their memberships, and their charters and related resolutions
+on the corporate website, and the chairs of all committees shall ensure
+that the Board Secretary's list is up to date.
+</pre>
+
+<pre>
+Resolution 2004-10-28.dbg.1: Treasurer's Budget
+
+1. WHEREAS the Treasurer may require an allocation of money with which to
+perform his duties;
+
+The Board of Directors hereby resolves that:
+
+2. The Treasurer shall be allocated a budget not to exceed $100 per month
+to perform his duties;
+
+3. All money spent by the Treasurer is counted against this budget in the
+month in which it is spent, regardless of when it is reimbursed to the
+Treasurer;
+
+4. The Treasurer may choose to reimburse other people for expenses
+incurred in assisting the Treasurer in his duties;
+
+5. The Treasurer shall be under no obligation to spend this money;
+
+6. Unspent monies from one month shall not carry over to the next month;
+
+7. Money spent under the terms of this budget may only be spent in such a
+way as to assist the Treasurer in his duties as the Treasurer;
+
+8. This budget takes effect on the date of the passage of this resolution
+and is effective for one year.
+
+9. This budget may be renewed by the board of directors annually, if a
+report on the previous year's expenditures and reimbursements has been
+presented and is to the satisfaction of the Board.
+</pre>
+
+<pre>
+Resolution 2004-11-08.iwj.1: GNUstep as Associated Project
+
+WHEREAS
+
+1. GNUstep is a substantial and significant Free Software project.
+
+2. The GNUstep developers would like SPI to take donations for
+   purposes related to GNUstep.
+
+THE SPI BOARD RESOLVES THAT
+
+3. GNUstep is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects,
+   SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1,
+   a copy of which can be found at
+   http://lists.spi-inc.org/pipermail/spi-announce/2004/000091.html
+
+4. The GNUstep maintainer, Adam Fedor, is recognised by SPI as the
+   current authoritative decisionmaker in the GNUstep project.
+
+5. This invitation will lapse, if not accepted, 60 days after it
+   is approved by the SPI Board.
+
+Ian.
+</pre>
+
+### OpenC++ as associated project
+
+<pre>
+Hello,
+
+My name is Grzegorz Jakacki, I am a team leader of OpenC++ software project
+(opencxx.sourceforge.net). OpenC++ is a mature open-source C++ program
+transformation framework, distributed under non-copyleft open-source
+license.
+
+I am writing to solicit information about possibility of winning support of
+Software in Public Interest for OpenC++.
+
+Recently I worked together with Stefan Seefeld who is a project leader of
+Synopsis, a project hosted at SPI. Synopsis is in part based on OpenC++, and
+recently Stefan and myself came to conclusion that the common part of those two
+could and should be factored out and extended into reusable library, nicknamed
+OpenC++ Core.
+
+As Synopsis is hosted at SPI it would help if OpenC++ Core could be hosted here
+too. Thus my question is how should OpenC++ Core project apply for hosting at
+SPI, what information should it provide to support application, and what is an
+expected timeframe for SPI to decide on this matter.
+
+Thank you
+Grzegorz
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
