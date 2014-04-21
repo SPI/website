@@ -1,0 +1,106 @@
+# 2005-07-26
+
+This is the proposed agenda for the Board meeting of July 26th, 2005, to be
+held at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. Regrets received from Bdale Garbee and Benj. Mako Hill
+3. President's report (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Items up for discussion:
+   1. Open Source Initiative resolution resolution (Bruce Perens)
+   2. LinuxFund.org grant offer (Jimmy Kaplowitz)
+   3. Tax filing and book keeping status
+6. Next board meeting: Tuesday, August 16th, 2005 (John Goerzen)
+
+
+### Treasurer's Report
+
+<pre>
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss June 1 2005 - June 30 2005
+
+   Ordinary Income/Expense
+      Income
+        Donations
+          DebConf5 Sponsorship                    22,000.00
+          Debian (except DebConf5 Sponsorship)     2,724.60[1]
+          Unrestricted                               225.02
+        Total Donations                           24,949.62
+
+        First IB Fee Reversals  (SPI)                 60.00[2]
+      Total Income                                25,009.62
+
+      Expense
+        LinuxWorld Reimbursement (Debian earmark)   (110.25)
+        Canadian Exchange Rate Adjustments (Debian)  (30.09)
+      Total Expense                                 (140.34)
+
+   Net Ordinary Income                            24,869.28
+
+   Net Income                                     24,869.28
+
+Balance Sheet as of June 30, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      2,262.15
+          Known DebConf5 Earmark                  22,000.00
+          Known GNOME Earmark                         20.00
+          Known Unrestricted Earmark               1,229.69
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   37,770.62
+
+        AmEx Financial Advisors Acct
+          Earmark to be Determined                39,882.62
+        Total AmEx Financial Advisors Acct        39,882.62
+
+     Total Current Assets                         77,653.24
+
+   TOTAL ASSETS                                   77,653.24
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         52,783.96
+        Net Income                                24,869.28
+     Total Equity                                 77,653.24
+
+   TOTAL LIABILITIES &amp; EQUITY                     77,653.24
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] This includes the full face value of our first-ever Canadian check
+received, which was originally deposited in April and redeposited after
+bank hassles in June, as well as the full face value of our second-ever
+Canadian check received, which seems to have been handled smoothly by FirstIB.
+
+[2] These fees are as explained in Branden's BANK: mail sent to spi-private
+with Message-ID: &lt;20050620083344.GA31302@redwald.deadbeast.net&gt;.
+</pre>
+
+### Resolutions
+
+<pre>
+Resolution 2005-07-26.bp.1: Open Source Initiative domain transfer
+
+1. WHEREAS The historical reasons for SPI holding the opensource.org domain no longer apply;
+
+2. The board resolves that the opensource.org domain be transferred to the Open Source Initiative Inc.
+</pre>
+
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

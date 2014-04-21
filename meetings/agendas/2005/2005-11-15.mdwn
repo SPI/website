@@ -1,0 +1,367 @@
+# 2005-11-15
+
+This is the proposed agenda for the Board meeting of November 15th, 2005, to be
+held at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. David Graham may not be able to make it
+3. President's report (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Outstanding minutes
+   1. [June 21st, 2005](../../../minutes/2005/2005-06-21/)
+   2. [AGM: July 1st, 2005](../../../minutes/2005/2005-07-01/)
+   3. [July 26th, 2005](../../../minutes/2005/2005-07-26/)
+   4. [August 16th, 2005](../../../minutes/2005/2005-08-16/)
+   5. [October 4th, 2005](../../../minutes/2005/2005-10-04/)
+   6. [October 18th, 2005](../../../minutes/2005/2005-10-18/)
+6. Items up for discussion:
+   1. Tax filing and book keeping status (Jimmy)
+   2. Debian Core Consortium related issues (Mako)
+   3. OFTC election results (cdlu)
+   4. Debian website copyright issues (Tommi Vainikainen) [see appendix]
+   5. Nessus fork project membership: OpenVAS (see also <a href="http://www.openvas.org/doku.php?id=proposal_for_becoming_an_spi_project">openvas.org</a>(Tim Brown ([machine]))
+7. Next board meeting: Tuesday, December 20th, 2005 (John Goerzen)
+
+### Treasurer's Report
+
+<pre>
+Adjusted Treasurer's Report for July 2005
+
+Software in the Public Interest Financial Data (Adjusted)
+=========================================================
+
+This report has been adjusted in mid-November 2005 to take
+into account the Q2 2005 performance of the AmEx Financial
+Advisors account, which was made available to me by Branden
+only in late October 2005. No other substantive changes have
+been made. The entire quarter corresponding to the Q2 2005
+statement is reflected in this report, despite it covering a
+period of three months, as was done in the April 2005
+report.
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it. The specifics of the income
+and expenses summarized here will be detailed in one or more
+separate "BANK:" mails or snail mail reports.
+
+Profit/Loss July 1 2005 - July 31 2005
+
+   Ordinary Income/Expense
+      Income
+        Donations
+          Unrestricted                                10.00
+        Total Donations                               10.00
+
+        AXP Cash Management Fund Income              227.41[1]
+
+      Total Income                                   237.41
+
+      Expense
+        DebConf5 Reimbursement                    (8,741.70)[2]
+        Purchase of SPI Checks                       (26.62)
+      Total Expense                               (8,768.32)
+
+   Net Ordinary Income                            (8,530.91)
+
+   Net Income                                     (8,530.91)
+
+Balance Sheet as of July 31, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      2,262.15
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known Unrestricted Earmark               1,213.07
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   29,012.30
+
+        AmEx Financial Advisors Acct
+          Earmark to be Determined                40,110.03
+        Total AmEx Financial Advisors Acct        40,110.03
+
+     Total Current Assets                         69,122.33
+
+   TOTAL ASSETS                                   69,122.33
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         77,653.24
+        Net Income                                (8,530.91)
+     Total Equity                                 69,122.33
+
+   TOTAL LIABILITIES &amp; EQUITY                     69,122.33
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] This is current as of July 13, the closing date of our most recent AmEx
+statement, and covers the period from April 14 through then.
+
+[2] According to our online banking information, $2,813.80 of this was
+withdrawn from our account in July and $5,927.90 of this was withdrawn in
+August. All of these reimbursements were distributed as US checks during
+DebConf5 (quite an improvement from past years!), and so are listed in the
+July report in accordance with the paragraph at the top of this message.
+
+
+
+
+Adjusted Treasurer's Report for August 2005
+
+Software in the Public Interest Financial Data (Adjusted)
+=========================================================
+
+This report has been adjusted in mid-November 2005 to take
+into account the Q2 2005 performance of the AmEx Financial
+Advisors account, which was made available to me by Branden
+only in late October 2005. That income was reported in the
+adjusted July 2005 report, and therefore the only
+substantive changes here are to the size of assets in the
+AmEx account and to the total size of assets.
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss August 1 2005 - August 31 2005
+
+   Ordinary Income/Expense
+      Income
+        Donations
+        Total Donations                                0.00[1]
+
+      Total Income                                     0.00
+
+      Expense
+        OASIS membership (Debian earmark)         (1,000.00)
+        CSC services fee (SPI earmark)              (173.77)
+        Bookkeeper retainer fee (SPI earmark)     (1,000.00)
+      Total Expense                               (2,173.77)[2]
+
+   Net Ordinary Income                            (2,173.77)
+
+   Net Income                                     (2,173.77)
+
+Balance Sheet as of August 31, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      1,262.15[1]
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known Unrestricted Earmark                  39.30[1]
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   26,838.53
+
+        AmEx Financial Advisors Acct
+          Earmark to be Determined                40,110.03
+        Total AmEx Financial Advisors Acct        40,110.03
+
+     Total Current Assets                         66,948.56
+
+   TOTAL ASSETS                                   66,948.56
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         69,122.33
+        Net Income                                (2,173.77)
+     Total Equity                                 66,948.56
+
+   TOTAL LIABILITIES &amp; EQUITY                     66,948.56
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] These numbers appear artificially low because no deposits were made
+(aside from a $10 deposit by me) during the months of July and August,
+and some or all donations received in June had not been deposited by the
+end of August. Branden has now made deposits for June, July, and August
+totaling over $3000, but since these were done in early September they
+will show up on the next report instead of this one.
+
+[2] According to our online banking information, $2,813.80 of the DebConf5
+reimbursements paid so far was withdrawn from our account in July and $5,927.90
+of this was withdrawn in August. All of these reimbursements were distributed
+as US checks during DebConf5 (quite an improvement from past years!), and so
+are listed in the July report in accordance with the paragraph second from the
+top of this message.
+
+
+Treasurer's Report for September 2005
+
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it.
+
+Profit/Loss September 1 2005 - September 30 2005
+
+   Ordinary Income/Expense
+      Income
+        Donations
+          Debian                                   2,552.68
+          GNU TeXmacs                                  9.70
+          Unrestricted                               764.10
+        Total Donations                            3,326.48
+
+      Total Income                                 3,326.48
+
+      Expense
+      Total Expense                                    0.00
+
+   Net Ordinary Income                             3,326.48
+
+   Net Income                                      3,326.48
+
+Balance Sheet as of September 30, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      3,814.83
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 803.40
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   30,165.01
+
+        AmEx Financial Advisors Acct
+          Earmark to be Determined                40,110.03
+        Total AmEx Financial Advisors Acct        40,110.03
+
+     Total Current Assets                         70,275.04
+
+   TOTAL ASSETS                                   70,275.04
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         66,948.56
+        Net Income                                 3,326.48
+     Total Equity                                 70,275.04
+
+   TOTAL LIABILITIES &amp; EQUITY                     70,275.04
+
+
+Treasurer's Report for October 2005
+
+Software in the Public Interest Financial Data
+==============================================
+
+This report uses a cash-based method of accounting,
+recording donations when deposited (not when the check was
+written or received by us) and recording expenses when sent
+or scheduled for payment (not when incurred). Network for
+Good processing fees are no longer listed, both to avoid
+confusion and since they are already subtracted out from our
+check before we ever receive it. We now have Q3 2005 data
+for our Ameriprise Financial account (with income from the
+RVS Cash Management fund)[1], which is included in October's
+report despite it covering a period of three months.
+
+Profit/Loss October 1 2005 - October 31 2005
+
+   Ordinary Income/Expense
+      Income
+
+        RVS Cash Management Fund Income              283.23[1][2]
+
+      Total Income                                   283.23[3]
+
+      Expense
+        Bookkeeper fees (SPI earmark)               (120.00)
+        FirstIB statement fees (SPI earmark)          (9.00)
+        CSC representation services (SPI earmark)   (299.00)
+        Providence PO box renewal (SPI earmark)      (34.00)
+        Miscellaneous treasurer costs (SPI earmark)  (14.26)
+      Total Expense                                 (476.26)
+
+   Net Ordinary Income                              (193.03)
+
+   Net Income                                       (193.03)
+
+Balance Sheet as of October 31, 2005
+
+   ASSETS
+     Current Assets
+        First IB Checking
+          Known Debian Earmark (non-DebConf5)      3,814.83
+          Known DebConf5 Earmark                  13,258.30
+          Known GNOME Earmark                         20.00
+          Known GNU TeXmacs Earmark                    9.70
+          Known Unrestricted Earmark                 327.14
+          Earmark to be Determined                12,258.78
+        Total First IB Checking                   29,688.75
+
+        Ameriprise Financial Acct
+          Earmark to be Determined                40,393.26
+        Total Ameriprise Financial Acct           40,393.26[1]
+
+     Total Current Assets                         70,082.01
+
+   TOTAL ASSETS                                   70,082.01
+
+   LIABILITIES &amp; EQUITY
+     Equity
+        Retained Earnings                         70,275.04
+        Net Income                                  (193.03)
+     Total Equity                                 70,082.01
+
+   TOTAL LIABILITIES &amp; EQUITY                     70,082.01
+
+- Jimmy Kaplowitz, SPI Treasurer
+treasurer@spi-inc.org
+
+[1] Ameriprise Financial used to be American Express Financial Advisors. The
+RVS Cash Management Fund used to be the AXP Cash Management Fund. Aren't
+corporate spin-offs fun?
+
+[2] This is current as of October 13, the closing date of our most recent
+Ameriprise statement, and covers the period from July 14 through then.
+
+[3] Again, keep in mind that the lack of donations listed only means we did
+not deposit any donations in October, not that we received none. Reread the
+first paragraph of this report if this is unclear.
+</pre>
+
+### Discussion appendix
+
+<pre>
+Item 6.4:
+
+Hello,
+
+I don't know if someone else has draw your attention to Debian's web
+page license, which is currently non-free Open Publication License.
+
+To change license to something that fits Debian's definition of free,
+there is SPI's board's attention needed because SPI has copyright for
+Debian's web pages even though no FSF style paperwork has been done.
+
+I'm a bit unsure about how much SPI board cares about Debian
+internals, but maybe you want to discuss about this?
+
+This issue has been reported as a bug, please see:
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

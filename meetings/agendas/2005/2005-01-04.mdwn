@@ -1,0 +1,210 @@
+# 2005-01-04
+
+This is the proposed agenda for the January 4th, 2005 Board meeting to be held
+at 19:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll call
+   1. No regrets received
+3. President's update (John Goerzen)
+4. Treasurer's report (Jimmy Kaplowitz)
+5. Outstanding minutes (David Graham)
+   1. [December 7th, 2004](../../../minutes/2004/2004-12-07/)
+6. New project membership request: Drupal
+7. Next meeting: February 1st, 2005 (John Goerzen)
+
+### Treasurer's report
+
+<pre>
+I have reviewed with great interest the discussion thread about a new
+report format for me to use. I will try to adopt some format based on
+those suggestions in time for the February report; I have not been able
+to do that yet, due to the busy pace of the holiday season and a
+lower-than-normal level of access to my computers while on vacation.
+
+Bank balances
+-------------
+
+As of December 31, 2004, the FirstIB checking account contains
+$10,677.01. The only transaction since this account was opened was a $10
+maintenance fee, which should more properly apply only to business
+accounts and not to nonprofit accounts such as ours. Branden or I will
+talk to them about this in an attempt to get the charge reversed.
+Hiccups like this are to be expected when an account has just been
+opened.
+
+The American Express Financial Advisors account only sends statements
+quarterly and not monthly, and Branden and I are unaware of any online
+account viewing feature associated with that account. Therefore, expect
+an update on this account in the Treasurer's report for the February
+board meeting. We will look into the existence of any online or
+telephone account information system for this account.
+
+Providence PO Box
+-----------------
+
+I checked the Providence PO box twice in December. On December 16, there
+was a mail from our Secretary, David Graham, containing my copy of one
+of the forms used to open the First IB checking account. In addition to
+this, there was a sizable quantity of mostly large envelopes, none of
+which contained our name. Some of these simply had our PO Box number
+indicated, while others had indicated recipients such as "Receptionist,"
+"Human Resources," "Law Office," and "Providence Law Office."
+
+Understandably, I felt that some mistake had been made, and I discussed
+this with a postal employee. She determined that there was a law office
+which had a mailbox at that post office, and whose box number differed
+from ours by only one digit. She and I assumed that they must have made
+a typographical error in a job advertisement. The postal employee held
+the mail for the law office, none of which had any SPI-related markings
+on the envelope, and she said she would contact the law firm to have
+them correct their error. I made it clear that we would take any mail
+that did turn out to be for us despite appearances.
+
+When I checked the mailbox again on December 21 soon before going on
+vacation, the box was empty, so presumably the above mishap got resolved
+appropriately. I will check it again shortly after I return to
+Providence on the 13th of this month.
+
+Old business
+------------
+
+As indicated above, the First IB account got opened and the funds
+deposited, with only the minor mishap of an accidental maintenance fee.
+Hooray! Branden has also received two ATM/Visa cards associated with the
+account, and the corresponding PINs. Unfortunately, mine as well as his
+went to the Indianapolis address, but he will send me mine after my
+return to Providence.
+
+New business
+------------
+
+I have done some investigating into alternative donation solutions,
+since there are many limitations of Network for Good. One option worth
+considering is ECHO, which is a reputable financial company that will
+provide a true merchant account at relatively reasonable rates. We would
+be able to process credit cards (the following rates apply to Visa and
+Mastercard but other brands are possible too) at a cost of $0.30 per
+transaction plus 2.26% of the donation amount, plus a $19.95/month fee
+for any months in which we receive donations. Checks can be cleared
+through this system too, if we so desire, for $0.30/transaction,
+although this is less obviously beneficial. This would include
+electronic checks where the user never physically mails us anything but
+just enters the info online.
+
+The $19.95 fee is unfortunate, but it would be more than offset by the
+additional donations we would receive from international donors who
+cannot currently donate to us through Network for Good. (They can donate
+in their local currency, and we will receive US dollars after conversion
+by the credit card companies.) We can also, for those donors who wish
+it, set up recurring donations via periodic charges to their credit
+cards. I am not entirely sure whether we would want to recommend going
+through ECHO in only some cases and NfG in others, or only ECHO all the
+time.
+
+One last benefit is that their gateway is truly open, in that they
+provide *GPLed* code to use their processing system in a plethora of
+UNIX-friendly programming languages including stalwarts like PHP and
+Perl, as well as make available a specification of their gateway
+interface for developer use. We can integrate their processing with our
+site, or if we prefer we can process through their Merchant America site
+for free. (The latter might be the way to go if we don't also want to
+purchase a commercial SSL certificate, in the interest of not making our
+donors worry about website security.)
+
+
+A complication is that they require an associated bank account at First
+Regional Bank, but we can regularly transfer funds to our First IB
+account. There are no charges for this additional account if we make 10
+or fewer debits per month, which would be the case if we transfer funds,
+say, weekly to First IB. I don't think this is a downside of ECHO, since
+all true merchant accounts have a similar requirement due to Visa and
+Mastercard rules. After all, it is a merchant _account_, and banks are
+often involved in legitimate tools such as that (as opposed to cheap
+imitations like PayPal).
+
+Please take a look at the following links and tell me what you think. I
+may propose a resolution before or during the meeting (if a resolution
+is even necessary for this), or simply gather opinions for a future
+decision.
+
+General info on their non-profit program, with other FAQs easily linked:
+http://www.echo-inc.com/faqs/index.php?ba=view_subs&amp;name=Nonprofit%20Program&amp;cat_id=19
+
+Fee structure for non-profits and more info on accepting donations:
+http://www.echo-inc.com/faqs/index.php?ba=view_answer&amp;cat_id=19&amp;answer_id=1905&amp;name=Nonprofit%20Program
+http://www.echo-inc.com/accept-donation-payments-online.html
+
+Info on working with their payment gateway:
+http://www.openecho.com/echo_gateway_guide.html
+
+Gateway tech specs:
+https://wwws.echo-inc.com/ISPGuide-Menu.asp
+</pre>
+
+
+### Resolutions
+
+<pre>
+( NO resolutions received over the holidays )
+
+Hello
+
+Drupal is a free software community project. It is one of the largest Content
+Management Systems in its market. Since Drupal has a large userbase and
+community the cost to maintain these servers for development and distribution
+is increasing. Till now the lead developers of the project used to pay for
+this from their own pocket. After a couple of meetings we have decided to
+accept donations for this kind of maintainance.
+
+We would like to become a  associate member of the SPI Inc. We have alread had
+a number of meetings with Mako, regarding this.
+
+We would like SPI Inc to help us with.
+1. Management of funds
+2. Accepting our donations.
+
+We hope you can put this on the agenda of the meeting that is going to take
+place on the 4th of January 2005. I will be at the meeting representing the
+Drupal community.
+
+Merry Christmas and a Happy New Year.
+
+--
+Best Regards,
+Warren Brian Noronha.
+GNU (http://www.gnu.org.in)
+</pre>
+
+<pre>
+Further to our discussion:
+
+ Proposed Resolution 2005-01-04.iwj.1
+
+ WHEREAS
+
+ 1. Drupal is a substantial and significant Free Software project.
+
+ 2. The Drupal developers would like SPI to take donations for
+    purposes related to Drupal.
+
+ THE SPI BOARD RESOLVES THAT
+
+ 3. Drupal is formally invited to become an SPI Associated Project,
+    according to the SPI Framework for Associated Projects,
+    SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1,
+    a copy of which can be found at
+     http://lists.spi-inc.org/pipermail/spi-announce/2004/000091.html
+
+ 4. The Drupal Founder and Lead Developer, Dries Buytaert, is
+    recognised by SPI as the current authoritative decisionmaker in
+    the Drupal project.
+
+ 5. This invitation will lapse, if not accepted, 60 days after it
+    is approved by the SPI Board.
+
+Ian.
+</pre>
+
+[[!meta copyright="Copyright © 2014 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
