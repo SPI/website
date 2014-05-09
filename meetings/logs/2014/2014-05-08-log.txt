@@ -1,0 +1,190 @@
+13:00 #spi: < bdale> *GAVEL*
+13:00 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest board of director's meeting, which is now called to order.
+13:00 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2013-03-14/
+13:00 #spi: < bdale> oops
+13:00 #spi: < Hydroxide> Noodles: not trying to spring it on you. I didn't have a chance to look before now. I doubt anyone will object if you change it silently when you get a chance.
+13:00 #spi: < bdale> wrong date in the url, too
+13:00 #spi: < Ganneff> old template he uses
+13:00 #spi: < Noodles> Hydroxide: I've fixed it.
+13:00 #spi: < Hydroxide> k
+13:01 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2013/2014-05-08/
+13:01 #spi: < Noodles> http://www.spi-inc.org/meetings/agendas/2014/2014-05-08/
+13:01 #spi: < bdale> gah
+13:01 #spi: < bdale> thanks
+13:01 #spi: < bdale> [item 2, Roll Call]
+13:01 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+13:01 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+13:01 #spi: < Ganneff> Joerg Jaspert
+13:01 #spi: < bdale> Bdale Garbee
+13:01 #spi: < zobel> Martin Zobel-Helas
+13:01 #spi: < Clint> Clint Adams
+13:01 #spi: < schultmc> Michael Schultheiss
+13:01 #spi: < Hydroxide> Jimmy Kaplowitz
+13:01 #spi: < Solver> Robert Brockway
+13:01 #spi: < Noodles> Jonathan McDowell
+13:02 #spi: < bdale> cool .. Joshua sent regrets, right?
+13:02 #spi: < Noodles> Yes.
+13:02 #spi: < wushin> edward pasek
+13:02 #spi: < zobel> maybe tbm should name himself too.
+13:02 #spi: < bdale> sure
+13:02 #spi: < tbm> zobel: I messages Noodles.  Anyway: Martin Michlmayr
+13:02 #spi: < bdale> [item 3, President's Report]
+13:02 #spi: < bdale> Nothing of interest to report today.
+13:02 #spi: < bdale> [item 4, Treasurer's Report]
+13:02 #spi: < bdale> Michael?
+13:02 #spi: < zobel> wushin: /msg Noodles your name :)
+13:03 #spi: < schultmc> Treasurer's reports for January and February are in the agenda
+13:03 #spi: < schultmc> I'm working on catching up on the remaining backlog
+13:03 #spi: < bdale> great
+13:03 #spi: < Solver> how is it going with the bookkeepers?
+13:03 #spi: < schultmc> I also wanted to publicly thank the Craigslist Foundation for their unsolicted donations of $25,000 to SPI and $25,000 to PostgreSQL
+13:03 #spi: < bdale> any status update on working with the book keeper, etc?
+13:03 #spi: < Hydroxide> schultmc: that's very impressive. Thanks to them!
+13:03 #spi: < schultmc> I reached out to the bookkeeper (both the individual bookkeeper and the COO of the company)
+13:03 #spi: < bdale> indeed!
+13:04 #spi: < Ganneff> oh gosh i know what happened with that silly buggers mail. it came through all fine, it was a manual deletion. bet i took it as spam by subject. :(
+13:04 #spi: < zobel> i did some cross checking on the latest pdf book entries schultmc did commit to board-private, looks good so far.
+13:04 #spi: < schultmc> they apologiesed for the delay in timely reports and want to make sure I have all the access I need and they're planning a phone or in person meeting to get the bookkeeper up to speed on anything outstanding
+13:04 #spi: < schultmc> future reports from them should be available by the 10th of a given month
+13:05 #spi: < Solver> great
+13:05 #spi: < bdale> ok, sounds like progress
+13:05 #spi: < bdale> please let us know how the meeting goes when it happens, and if any of the rest of us can/should help, just ask
+13:05 #spi: < schultmc> will do
+13:05 #spi: < bdale> anything else?
+13:05 #spi: < zobel> schultmc: can you commit the xtrade pdfs too?
+13:05 #spi: < schultmc> no, other than I have a work conferency call at 16:30 EDT thus have a hard stop in ~25 mins
+13:05 #spi: < Hydroxide> thanks for that progress.
+13:05 #spi: < schultmc> zobel: yes
+13:06 #spi: < bdale> [item 5, Secretary's report]
+13:06 #spi: < bdale> Jonathan?
+13:06 #spi: < Noodles> I've finished moving all of the old votes and meeting agendas etc into the new website (so back to 2004).
+13:06 #spi: < bdale> yay!
+13:06 #spi: < Ganneff> yay
+13:06 #spi: < bdale> what's left, then?
+13:07 #spi: < Noodles> I ended up moving a few other bits as part of that and I don't think there's very much at all left from the old site that isn't moved across.
+13:07 #spi: < Noodles> I have details but not locally (on my laptop at home).
+13:07 #spi: < bdale> ok
+13:07 #spi: < Ganneff> when we are at website details: not all of board have git access yet
+13:07 #spi: < bdale> ping me later if there's anything you'd like my help reviewing, it'd be glad to close that chapter of history 
+13:07 #spi: < Ganneff> those who dont and want, i need ssh keys from em.
+13:07 #spi: < Ganneff> (thats also for board and board private repo)
+13:08 #spi: < bdale> so noted
+13:08 #spi: < bdale> anything else?
+13:08 #spi: < Noodles> Nothing else from me.
+13:08 #spi: < bdale> [item 6, Outstanding minutes]
+13:08 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+13:08 #spi: < Noodles> Yup.
+13:09 #spi: < Noodles> Voting started, 8 people (ganneff,bdale,zobel,clint,schultmc,hydroxide,solver,noodles) allowed to vote on Minutes for 10th April 2014 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:09 #spi: < Noodles> !vote yes
+13:09 #spi: < Clint> !vote yes
+13:09 #spi: < Ganneff> !vote yes
+13:09 #spi: < Solver> !vote yes
+13:09 #spi: < Hydroxide> !vote yes
+13:09 #spi: < bdale> !vote yes
+13:09 #spi: < schultmc> !vote yes
+13:09 #spi: < zobel> !vote yes
+13:09 #spi: < Noodles> Current voting results for "Minutes for 10th April 2014 board meeting": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+13:09 #spi: < Noodles> Voting for "Minutes for 10th April 2014 board meeting" closed.
+13:10 #spi: < bdale> thanks all
+13:10 #spi: < bdale> [item 7, Items up for discussion]
+13:10 #spi: < bdale> [item 7.1, Resolution 2014-05-06.jrk.1: Martin Michlmayr as interim director
+13:10 #spi: < bdale> I saw Gregers note of concern and replied on -private, any other discussion?
+13:11 #spi: < Solver> we have an outstanding project application.  we need to decide what we are going to do with this
+13:11 #spi: < zobel> i would like to express that i read his mail and understand it.
+13:11 #spi: < zobel> the concerns he has.
+13:11 #spi: < Solver> the hold up being questions about resolution wording.
+13:11 #spi: < bdale> Solver: please hold that for item 8
+13:11 #spi: < Solver> ok will do
+13:11 #spi: < zobel> Solver: read backlog: i will sponsor it.
+13:12 #spi: < bdale> rephrasing, any other discussion about appointing tbm to fill the interim position before we vote on the resolution?
+13:12 #spi: < Hydroxide> glp: I agree it would have been ideal if a more proactive selection process had occurred. as you noted, this is only for a few months and then the election will be as public as this should have been
+13:12 #spi: < Noodles> zobel: He means Chakra I think.
+13:12 #spi: < zobel> ah.
+13:13 #spi: < Hydroxide> only other comments from me: 1) I'll abstain to leave the official decision to the other directors, but I do support tbm's appointment; and 2) It's been a pleasure serving on the board and as Treasurer and Secretary over the last 10 years, and on the bylaws committee before that. I look forward to SPI's future.
+13:13 #spi: < bdale> Hydroxide: thank you VERY much
+13:13 #spi: < Solver> Hydroxide: you'll be missed on the board
+13:13 #spi: < Hydroxide> glp: and I would welcome your candidacy in this summer's elections. more new blood is needed.
+13:13 #spi: < bdale> Noodles: I think we can vote now ..
+13:13 #spi: < zobel> i would like to encourage glp to run during next elections.
+13:13 #spi: < Noodles> Voting started, 0 people () allowed to vote on Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:14 #spi: < Noodles> Ganneff,bdale,zobel,Clint,schultmc,Hydroxide,Solver,Noodles
+13:14 #spi: < Noodles> Bah.
+13:14 #spi: < Clint> you wanna start over?
+13:14 #spi: < Noodles> Current voting results for "Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director": Yes: 0, No: 0, Abstain: 0, Missing: 0 ()
+13:14 #spi: < Noodles> Voting for "Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director" closed.
+13:14 #spi: < Noodles> Bad paste with a NL at the start.
+13:14 #spi: < bdale> it happens
+13:14 #spi: < Noodles> Voting started, 8 people (ganneff,bdale,zobel,clint,schultmc,hydroxide,solver,noodles) allowed to vote on Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+13:14 #spi: < Clint> !vote yes
+13:14 #spi: < Hydroxide> !vote abstain
+13:14 #spi: < Ganneff> !vote yes
+13:14 #spi: < Noodles> !vote abstain
+13:14 #spi: < bdale> !vote yes
+13:14 #spi: < Solver> !vote yes
+13:14 #spi: < schultmc> !vote yes
+13:14 #spi: < zobel> !vote yes
+13:14 #spi: < Noodles> Current voting results for "Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+13:14 #spi: < Noodles> Voting for "Resolution 2014-05-06.jrk.1 - Martin Michlmayr as interim director" closed.
+13:15 #spi: < zobel> tbm: welcome.
+13:15 #spi: < bdale> tbm: congrats, and welcome
+13:15 #spi: < tbm> thanks, I look forward to working with you!
+13:15 #spi: < Hydroxide> yes, congrats, thanks, nd welcome
+13:15 #spi: < Noodles> I should point out I have absolutely no issues with tbm's ability and suitability for SPI.
+13:15 #spi: < bdale> Ganneff: please add tbm to the board list, and I guess it's time to drop Hydroxide
+13:15 #spi: < Solver> tbm: welcome to the board.  I look forward working with you on some of the outstanding tasks we have
+13:15 #spi: < Ganneff> bdale: willdo.
+13:16 #spi: < Ganneff> tbm: an ssh key would be nice for access to git
+13:16 #spi: < Ganneff> tbm: and preferred mail address?
+13:16 #spi: < bdale> [item 8, Any other business]
+13:16 #spi: < bdale> Do any board members have other items for discussion they would like to address briefly?
+13:16 #spi: < tbm> Ganneff: tbm@cyrius.com
+13:16 #spi: < tbm> Ganneff: I'll email you my key
+13:16 #spi: < tbm> Ganneff: tbm@
+13:16 #spi: < Solver> bdale: 2 items technically although they are linked
+13:16 #spi: < bdale> Solver: go
+13:17 #spi: < Ganneff> tbm: fine.
+13:17 #spi: < Solver> (1) Chakra resolutiuon (2) what we are going to do about concerns over wording of resolution template
+13:17 #spi: < Noodles> I had thought post the last meeting you would take the existing resolution and tidy it up based on the feedback and we'd be ready to vote on it today.
+13:17 #spi: < Solver> Chakra has been waiting for us to proceed on a vote.  I'm concerned they are waiting on what is effectively a structural matter about how we word the resolutions
+13:17 #spi: < bdale> for 2, I think we should just plan to pass the next few resolution drafts by counsel until we hit the happy balancing point
+13:18 #spi: < bdale> I was not aware that we were holding anyone back due to 2
+13:18 #spi: < bdale> I'm working with another project that I hope we'll have a draft resolution for in a week or two that I will pass by counsel for review
+13:19 #spi: < Noodles> I didn't put the resolution on the meeting last month because there was active discussion still going on.
+13:19 #spi: < Solver> Noodles: I left it for further discussion.  ok so if I repost we can perhaps do an email vote.
+13:19 #spi: < Noodles> I didn't receive a modified (or unmodified) copy to put on for this month.
+13:19 #spi: < Solver> ok I'll update and send
+13:19 #spi: < bdale> yeah, ok, so we dropped the ball
+13:19 #spi: < Solver> which brings us to (2)
+13:20 #spi: < bdale> under the circumstances, if you want to try an email vote that's ok, just remember that our bylaws require those be unanimous, I think?
+13:20 #spi: < Hydroxide> I'm fine approving the most recent draft this meeting, but if the board prefers to wait, I encourage the board to pass it by email vote instead of waiting a whole month.
+13:20 #spi: < Noodles> bdale: Yes, unanimous for an email vote.
+13:20 #spi: < Solver> I had not planned any changes
+13:20 #spi: < Hydroxide> bdale: s/bylaws/governing law/
+13:20 #spi: < bdale> Hydroxide: thanks
+13:20 #spi: < bdale> which is ridiculous, but not something we can fix today
+13:21 #spi: < bdale> I don't think we should try to vote Chakra in-meeting today, as I for one am not up to speed on the current draft
+13:21 #spi: < bdale> and I know schultmc said he needs to leave shortly
+13:21 #spi: < Solver> that's fine. we can do an email vote soon
+13:21 #spi: < bdale> ok, that works for me
+13:22 #spi: < Hydroxide> ok
+13:22 #spi: < Solver> bdale: let's review your upcoming resolution then and see if it can be the basis of a new template
+13:23 #spi: < bdale> with respect to 2, the request that we do a better job of describing each project's connection to SPI's mission and purpose is "soft", in the sense that it's not like we have a hard procedural/structural change we need to make in the template
+13:23 #spi: < bdale> that's why I think some iteration may be required to get one or two that "feel right" and can be examples (more that than templates) for future use
+13:24 #spi: < Noodles> We also need to reword the decision maker piece.
+13:24 #spi: < bdale> right
+13:24 #spi: < Hydroxide> I definitely don't think we should delay Chakra until we have perfection in our template
+13:24 #spi: < bdale> agree
+13:24 #spi: < Solver> agreed
+13:24 #spi: < Solver> ok I'm satisfied on my items
+13:24 #spi: < bdale> the one I'm working on has SFLC actively engaged anyway, so it's an easy one to use as a test case for this
+13:24 #spi: < bdale> anything else?
+13:25 #spi: < bdale> [item 9, Next board meeting]
+13:25 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 12 June 2014, 20:00 UTC.
+13:25 #spi: < bdale> Any strong objections?
+13:25 #spi:  * zobel on VAC
+13:25 #spi: < Noodles> Fine by me. I'll be back in BST by that point.
+13:25 #spi: < Ganneff> should work
+13:26 #spi: < Solver> Fine for me
+13:26 #spi: < bdale> ok
+13:26 #spi: < bdale> Ok, thank you to everyone present for participating today.
+13:26 #spi: < bdale> *GAVEL*
