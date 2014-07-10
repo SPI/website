@@ -1,0 +1,248 @@
+21:04 #spi: < bdale> *GAVEL*
+21:04 #spi: < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Annual General Meeting, which is now called to order.
+21:04 #spi: < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2014/2014-07-10/
+21:04 #spi: < bdale> [item 2, Roll Call]
+21:04 #spi: < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:04 #spi: < bdale> Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+21:04 #spi: < Noodles> Jonathan McDowell
+21:04 #spi: < schultmc> Michael Schultheiss
+21:04 #spi: < Solver> Robert Brockway
+21:04 #spi: < linuxhiker> Joshua D. Drake
+21:04 #spi: < bdale> Bdale Garbee
+21:04 #spi: < tbm> Martin Michlmayr
+21:04 #spi: < zobel> Martin Zobel-Helas
+21:04 #spi: < Ganneff> Joerg Jaspert
+21:04 #spi: < bdale> who's missing?
+21:04 #spi: < schultmc> Clint
+21:06 #spi: < Clint> Clint Adams
+21:06 #spi: < bdale> cool
+21:06 #spi: < zobel> wow. complete.
+21:06 #spi: < bdale> [item 3, President's Report]
+21:06 #spi: < bdale> Nothing of interest to report today.
+21:06 #spi: < bdale> [item 4, Treasurer's Report]
+21:06 #spi: < bdale> Michael?  It looks like you caught us up on reports through the end of June?
+21:06 #spi: < linuxhiker> I will be more present now, I have someone keeping track of me :P
+21:06 #spi: < bdale> linuxhiker: ;-)
+21:06 #spi: < schultmc> yes, all outstanding treasurer's reports have been completed
+21:07 #spi: < bdale> awesome
+21:07 #spi: < bdale> thanks for that!
+21:07 #spi: < bdale> any relevations in the data?  I haven't had time to study the reports yet.
+21:07 #spi: < schultmc> I'm continuing to work with our bookkeeper - we should be able to rely on them more fully in the near future
+21:07 #spi: < Noodles> We seem to be holding a lot more funds than we were a year ago.
+21:07 #spi: < schultmc> nothing notable
+21:08 #spi: < bdale> Noodles: some of that seems to be in things like the Debconf bucket, some seems to be due to the increasing number of associated projects.  
+21:08 #spi: < schultmc> our associated projects should be encouraged to spend their donated funds rather than continue to collect them without use
+21:08 #spi: < bdale> yes
+21:08 #spi: < Noodles> Yeah. Not a bad thing, just an observation.
+21:09 #spi: < bdale> schultmc: anything else?
+21:09 #spi: < zobel> schultmc: debian tried that with buying servers... HP had a different opinion on that. :)
+21:09 #spi: < schultmc> nothing further from me
+21:09 #spi: < bdale> [item 5, Secretary's report]
+21:09 #spi: < bdale> Jonathan?
+21:09 #spi: < tbm> Does anyone know off the top of their head what the thresholds are that NYS requires an audit?
+21:09 #spi: < bdale> I don't
+21:09 #spi: < schultmc> tbm: it's related to how much was received from NYS sources
+21:10 #spi: < tbm> schultmc: oh, really?  I thought it was if balance was > $X
+21:10 #spi: < Noodles> I don't have an annual report to present, but I'd like to thank tbm for doing the lion's share of getting what we do have sorted. I've added in some membership details and now we have the completed treasurer's reports up until the end of June I think adding in that should be doable.
+21:10 #spi: < bdale> good.  I know I owe text, I'll try to get that done by Monday
+21:10 #spi: < Noodles> The TeX is in the website git as per tbm's mail to -board.
+21:10 #spi: < schultmc> 3a. 7A filing exemption: Total contributions from NY State including residents, foundations, government agencies, etc. did not exceed $25,000 
+21:10 #spi: < schultmc> and the organization did not engage a professional fund raiser (PFR) or fund raising counsel (FRC) to solicit contributions during the fiscal year. 
+21:10 #spi: < schultmc> Or the organization qualifies for another 7A exemption (see instructions).
+21:11 #spi: < tbm> schultmc: great, thanks
+21:11 #spi: < bdale> Noodles: anything else?
+21:11 #spi: < Solver> Do we (or can we) track NYS contributions separately?
+21:12 #spi: < schultmc> if we lose our 7A exemption, a CPA needs to review our financials for gross revenue of 250,000-500,000 and an audit is required for over 500,000 in gross revenue
+21:12 #spi: < Noodles> Not sure whether it's appropriate here or later but nominations for the board election (3 seats) are open and so far I've received 2 nominations.
+21:12 #spi: < schultmc> Solver: yes
+21:12 #spi: < Solver> ok thanks
+21:12 #spi: < bdale> Noodles: glad to hear that now, please bring the nominating period back up in AOB, too
+21:12 #spi: < Noodles> Will do.
+21:12 #spi: < bdale> anything else?
+21:12 #spi: < Noodles> Nope.
+21:13 #spi: < bdale> [item 6, Outstanding minutes]
+21:13 #spi: < bdale> Jonathan, I believe we have last month's to vote on today?
+21:13 #spi: < Noodles> Yes.
+21:13 #spi: < Noodles> Voting started, 9 people (noodles,schultmc,solver,linuxhiker,bdale,tbm,zobel,ganneff,clint) allowed to vote on Meeting minutes for Thursday, 12th June 2014 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:13 #spi: < Clint> !vote yes
+21:13 #spi: < Ganneff> !vote yes
+21:13 #spi: < Noodles> !vote yes
+21:13 #spi: < bdale> !vote yes
+21:13 #spi: < tbm> !vote yes
+21:13 #spi: < schultmc> !vote yes
+21:13 #spi: < zobel> !vote abstain
+21:13 #spi: < Solver> !vote yes
+21:13 #spi: < linuxhiker> !vote yes
+21:13 #spi: < linuxhiker> err
+21:13 #spi: < linuxhiker> !vote abstain
+21:13 #spi: < Noodles> Current voting results for "Meeting minutes for Thursday, 12th June 2014 board meeting": Yes: 7, No: 0, Abstain: 2, Missing: 0 ()
+21:13 #spi: < Noodles> Voting for "Meeting minutes for Thursday, 12th June 2014 board meeting" closed.
+21:13 #spi: < bdale> thanks
+21:14 #spi: < bdale> [item 7, Items up for discussion]
+21:14 #spi: < bdale> [item 7.1, Resolution 2014-07-07.mzh.1: The Mana World (TMW) as an associated project
+21:14 #spi: < Noodles> This was a bit close to the meeting for my liking but I didn't want to hold things up as I normally seem to end up doing.
+21:14 #spi: < linuxhiker> I like the general idea, if it takes off it could bring us some visibility
+21:14 #spi: < bdale> I was going to say that I haven't been following this one and was surprised to see it on the agenda
+21:15 #spi: < Noodles> There was a mail to -general a month or two ago.
+21:15 #spi: < zobel> bdale: we had that request on -general on may.
+21:15 #spi: < zobel> i was on vacation in june.
+21:15 #spi: < bdale> zobel: ok .. so I gather you've been working with them, can you fill me in quickly?
+21:15 #spi: < o11c> http://lists.spi-inc.org/pipermail/spi-general/2014-May/003329.html
+21:16 #spi: < bdale> o11c: thanks
+21:16 #spi: < bdale> yeah, ok, I remember seeing that note
+21:16 #spi: < zobel> they contacted me. i was working with o11c, looked into their status.
+21:17 #spi: < zobel> they are a well lifing open source (GPL) game
+21:17 #spi: < zobel> from what i saw with an active community.
+21:17 #spi: < bdale> I know little about the MMORPG world, but I see nothing to be concerned about here.  Any concerns raised?
+21:17 #spi: < zobel> their application seemed fine.
+21:17 #spi: < Noodles> It looks fine to me; active project with some active forks as well.
+21:18 #spi: < bdale> anyone else have comments before we vote?
+21:18 #spi: < linuxhiker> They may actually spend their money
+21:18 #spi: < zobel> thanks for jberkus for pointing out that it is not about any gambling. i was not aware of the US gambling laws.
+21:18 #spi: < linuxhiker> they will need hardware etc
+21:19 #spi: < Noodles> Voting started, 9 people (noodles,schultmc,solver,linuxhiker,bdale,tbm,zobel,ganneff,clint) allowed to vote on Resolution 2014-07-07.mzh.1 - The Mana World (TMW) as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:19 #spi: < zobel> bdale: if you have any further questions, o11c and wushin are here.
+21:19 #spi: < wushin> We actually have a host that is looking for us to gain non-profit status to use us as a write off
+21:19 #spi: < Ganneff> !vote yes
+21:19 #spi: < zobel> !vote yes
+21:19 #spi: < Solver> !vote yes
+21:19 #spi: < linuxhiker> !vote yes
+21:19 #spi: < bdale> wushin: makes sense
+21:19 #spi: < Noodles> !vote yes
+21:19 #spi: < schultmc> !vote yes
+21:19 #spi: < bdale> !vote yes
+21:19 #spi: < Clint> !vote abstain
+21:19 #spi: < tbm> !vote abstain
+21:19 #spi: < Noodles> Current voting results for "Resolution 2014-07-07.mzh.1 - The Mana World (TMW) as an associated project": Yes: 7, No: 0, Abstain: 2, Missing: 0 ()
+21:19 #spi: < Noodles> Voting for "Resolution 2014-07-07.mzh.1 - The Mana World (TMW) as an associated project" closed.
+21:20 #spi: < bdale> Noodles: want to make the offer now?
+21:20 #spi: < zobel> Noodles: will you ask wushin and o11c directly?
+21:20 #spi: < Noodles> o11c,wushin: Would The Mana World like to accept the offer from SPI to become an associated project?
+21:20 #spi: < wushin> Aye.
+21:20 #spi: < o11c> Yes
+21:20 #spi: < wushin> <3
+21:20 #spi: < bdale> wushin, o11c: thanks, and welcome!
+21:20 #spi: < Noodles> Can you send me (secretary@spi-inc.org) some blurb and a logo for your project page and I'll get that sorted?
+21:21 #spi: < schultmc> o11c, wushin: please follow the instructions at http://www.spi-inc.org/treasurer/newprojects/ to get added to our online donation system
+21:21 #spi: < o11c> okay
+21:21 #spi: < bdale> [item 8, Any other business]
+21:21 #spi: < bdale> Since this is our AGM, do any SPI members present have items for discussion they would like to address briefly?
+21:21 #spi: < zobel> bdale: i promise to send new Resolution in a more timely manner.
+21:22 #spi: < bdale> I'll mention in passing that I submitted a request for a SPI BOF at Debconf but it has not yet been accepted to the best of my knowledge
+21:22 #spi: < zobel> ah.
+21:22 #spi: < bdale> zobel: thanks .. we all struggle with schedules
+21:22 #spi: < zobel> i was about to do it after the meeing.
+21:22 #spi: < bdale> you should be able to find the proposal in the system, feel free to add weight to it if you wish
+21:23 #spi: < Noodles> I think you can associate multiple people with an event so it makes sense to have anyone who's attending connected to it.
+21:23 #spi: < bdale> Noodles: I added everyone I could see in the attendee list would be there, but I may have missed someone or someone's plans may have changed
+21:23 #spi: < bdale> s/everyone/everyone on the SPI BOD/
+21:24 #spi: < bdale> any other items for discussion?
+21:24 #spi: < bdale> Noodles: remind us of the election nomination status and deadlines?
+21:24 #spi: < linuxhiker> I would like to talk about something when we have a moment
+21:24 #spi: < jberkus> I wanted to contratulate schultmc on getting the financial reports up to date
+21:24 #spi: < Noodles> There are 3 seats on the board up for election this year. Nominations are open until the close of July 13th.
+21:24 #spi: < jberkus> schultmc: do you feel like the bookkeeper is working out now?
+21:24 #spi: < bdale> jberkus: absolutely .. thanks for saying so
+21:25 #spi: < Noodles> Assuming we get more than 3 nominations voting will open on July 15th.
+21:25 #spi: < bdale> I would like to strongly encourage more nominees .. having a full board is a good thing, having some competition for board seats is even better!
+21:25 #spi: < schultmc> jberkus: yes, they seem to be working out.
+21:25 #spi: < Noodles> Nominations should be sent to secretary@spi-inc.org and ideally be OpenPGP signed.
+21:25 #spi: < bdale> linuxhiker: go ahead
+21:26 #spi: < linuxhiker> bdale: I have been playing with hangouts on air, (the pg community has started doing this as well)
+21:26 #spi: < linuxhiker> I think it would be great way to get some more exposure to a wider community
+21:26 #spi: < linuxhiker> it is amazing how many in the community have no idea we even exist (webodf for example)
+21:26 #spi: < bdale> I'm pretty sure I don't even know what "hangouts on air" means
+21:26 #spi: < zobel> bdale: esp. when nominations come from more associated projects
+21:26 #spi: < Ganneff> bdale: "stream from your laptop to the world/youtube" from google
+21:27 #spi: < linuxhiker> bdale: IRC but live broadcasted via youtube + video
+21:27 #spi: < schultmc> bdale: google hangout (video conferencing) broadcast via youtube
+21:27 #spi: < bdale> oh, i know about google hangouts
+21:27 #spi: < jberkus> linuxhiker: I'll wnat to talk to you later about AV equip, I'm still having issues.
+21:27 #spi: < Ganneff> needsa google+ i think
+21:27 #spi: < bdale> the on air part is new to me
+21:27 #spi: < linuxhiker> jberkus: sure
+21:27 #spi: < linuxhiker> jberkus: it is working great fo rme
+21:27 #spi: < linuxhiker> Ganneff: It can be a public hangout
+21:27 #spi: < linuxhiker> Ganneff: but to participate (outside of just watch) I believe yes, you have to have a google account
+21:28 #spi: < Ganneff> a google or a google+?
+21:28 #spi: < jberkus> +
+21:28 #spi: < bdale> hrm
+21:28 #spi: < Ganneff> eww, so not me. ok
+21:28 #spi: < linuxhiker> look guys, if we want to expose ourselves to the world we have to realize the world isn't in our openpgp bubble :P
+21:29 #spi: < Clint> and who cares about free software, really
+21:29 #spi: < jberkus> linuxhiker: you believe that some kind of video thing is a good idea for greater exposure of SPI?
+21:29 #spi: < bdale> I don't know enough about it to really comment right now.  how about putting a proposal to us in email?
+21:29 #spi: < linuxhiker> jberkus: I do
+21:29 #spi: < jberkus> ... to get back on the point
+21:29 #spi: < Ganneff> linuxhiker: yeah, so promote free stuff in closed shit, very nice.
+21:29 #spi: < Noodles> With board meetings through video conferencing?
+21:29 #spi: < Noodles> If we think video conferencing is what we should be doing isn't WebRTC what we should be looking at?
+21:29 #spi: < bdale> Ganneff: that argument is weak, in that promoting free stuff to the already free isn't all that helpful either
+21:29 #spi: < linuxhiker> jberkus: I believe it would very much. Like I said, lots of popular projects out there that really don't know about us and I think they should
+21:29 #spi: < jberkus> linuxhiker: leaving the choice of technology aside, (a) why do we want greater exposure (i.e. what do we want out of it), and (b) why video?
+21:29 #spi: < Solver> Please stick to IRC for board meetings :)
+21:29 #spi: < Noodles> Personally there are plenty of times it would have been harder for me to attend board meetings if I actually needed a quiet space to do so.
+21:30 #spi: < bdale> ditto
+21:30 #spi: < schultmc> ditto
+21:30 #spi: < linuxhiker> jberkus: Because its part of the deal right? We are supposed to help open source, if a great deal of opensource is a part of the techno world that doesn't know about us, then are we doing our job?
+21:30 #spi: < bdale> I've hosted board meetings during in-person staff meetings in the past... 
+21:30 #spi: < bdale> just 'cause I'm nuts
+21:30 #spi:  * linuxhiker is not suggesting we move to video for board meetings
+21:30 #spi: < o11c> well, TMW took quite a while to find you
+21:30 #spi: < Noodles> o11c: What would have made it easier?
+21:31 #spi: < jberkus> linuxhiker: what I'm asking is: what's the *goal* of the greater exposure?  
+21:31 #spi: < jberkus> the specific goals?
+21:31 #spi: < linuxhiker> jberkus: my specific goal would be to get more associated projects (presumably of worth)
+21:31 #spi:  * wushin raises hand
+21:31 #spi: < linuxhiker> (not financial worth)
+21:31 #spi:  * linuxhiker go for it wushin, open discussion
+21:31 #spi: < bdale> wushin: we're kind of in open discussion, if this is on the same topic, just jump in
+21:31 #spi: < wushin> robots.txt and sitemap.xml 
+21:32 #spi: < o11c> I don't know ... but I'm guessing that the most useful thing would be if associated projects linked prominently
+21:32 #spi: < wushin> would help a lot
+21:32 #spi: < bdale> yeah, good point
+21:32 #spi: < wushin> getting set-up with some analytics
+21:32 #spi: < jberkus> I'd also say that *if* it's our goal to get new associated projects at a faster rate, we will need to look into having a paid staff member
+21:32 #spi: < linuxhiker> case in point, there are 75k members of the Open Source Software google plus community
+21:32 #spi: < Clint> the more associated projects we have, the more legal risk we expose everyone to
+21:33 #spi: < jberkus> Clint: yeah, we'd need to have speedier legal service as well
+21:33 #spi: < wushin> tie yourself in tighter with "ideas" you can market that achieve your goals.
+21:33 #spi: < bdale> linuxhiker: so I'm pleased to hear that you're having good experiences with this, but you'd have to educate me more before I'd really care about the medium .. if the real question is what can we do to broaden visibility of SPI, that's a good discussion for us to tackle, but not in this meeting I think
+21:33 #spi: < linuxhiker> bdale: fair enough, I was just saying maybe have a QA or something
+21:33 #spi: < wushin> On that note as well, I'd like to slap a banner on themanaworld.org linking to you guys
+21:33 #spi: < jberkus> linuxhiker: OSCON might be a good place.  Wanna schedule a BOF?
+21:34 #spi: < wushin> Is that cool?
+21:34 #spi: < bdale> well, hrm, *if* the Debconf organizers accept our proposed BOF and that's going to be video streamed anyway, is there some value in trying to tie in then?
+21:34 #spi: < linuxhiker> jberkus: uh, there is no way I will be at OSCON (I don't live anywhere near pdx anymore)
+21:34 #spi: < bdale> wushin: sure
+21:34 #spi: < linuxhiker> jberkus: I am 20 minutes from Canada now
+21:34 #spi: < linuxhiker> jberkus: next time I am down there will be for pdxpug day
+21:34 #spi: < bdale> I won't be at OSCON either
+21:34 #spi: < jberkus> wushin: AFAIK, you're entitled to do that.  As long as it says something like "Associated Project of SPI"
+21:35 #spi: < jberkus> I don't know that we have a banner design though
+21:35 #spi: < bdale> I need to wrap in about 10 mins for a family commitment.  any other topics for this section of the agenda?
+21:35 #spi: < Ganneff> we have a graphic designer offering to do some work for spi
+21:35 #spi: < Ganneff> i forwarded to board@
+21:35 #spi: < wushin> well as a MMORPG we do art for Open Source. ;}
+21:35 #spi: < Ganneff> he has done multiple things for debian and debconf in the past
+21:36 #spi: < Solver> Ganneff: yes that is a very interesting offer
+21:36 #spi: < bdale> I saw that, thanks, Ganneff
+21:36 #spi: < bdale> maybe we can get a banner ad or two made up for our associated projects to use?  ;-)
+21:36 #spi: < zobel> bdale: yes, please!
+21:36 #spi: < Ganneff> he already did something, and if we asked i bet he does more
+21:36 #spi: < bdale> ok, anything else?
+21:36 #spi: < Ganneff> the latest work you can see on debconf15.debconf.org
+21:37 #spi: < Ganneff> but he has way more around debian than just that
+21:37 #spi: < bdale> I think the work looks great, let's figure out how to say yes in email
+21:37 #spi: < bdale> [item 9, Next board meeting]
+21:37 #spi: < bdale> Our next regularly-scheduled monthly meeting would be 14 August 2014, 20:00 UTC.
+21:37 #spi: < bdale> Any strong objections?
+21:37 #spi: < bdale> Noodles: that would be after the election closes?
+21:37 #spi: < Noodles> There is a chance I will not be able to make it.
+21:38 #spi: < Noodles> The election will be complete before the end of July.
+21:38 #spi: < schultmc> no objection from me
+21:38 #spi: < zobel> go for it.
+21:38 #spi: < Noodles> Election results by the end of July 29th.
+21:38 #spi: < bdale> ok, well, then I'll say thank you right now to the outgoing board members for their service and hope they'll at least show up for the next meeting 
+21:38 #spi: < bdale> Ok, thank you to everyone present for participating today.
+21:38 #spi: < bdale> *GAVEL*
