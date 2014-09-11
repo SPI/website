@@ -1,0 +1,149 @@
+[20:03:30]< Ganneff> *BANG*
+[20:03:30]< Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+[20:03:30]< Ganneff> The agenda can be found on the web at:  http://www.spi-inc.org/meetings/agendas/2014/2014-08-14/
+[20:03:30]< Ganneff> [item 2, Roll Call]
+[20:03:30]< Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to Noodles if you wish your attendance to be recorded in the minutes of this meeting.
+[20:03:30]< Ganneff> Noodles: any regrets?
+[20:03:38]< Ganneff> Joerg Jaspert
+[20:03:39]< schultmc> Michael Schultheiss
+[20:03:43]< glp>  Gregers Petersen
+[20:03:50]< zobel> Martin Zobel-Helas
+[20:03:52]< linuxhiker> Joshua D. Drake
+[20:04:03]< zobel> Ganneff: Noodles regreted himself.
+[20:04:03]< Solver> Robert Brockway
+[20:04:08]< Ganneff> yiha
+[20:04:09]< tbm> Martin Michlmayr
+[20:04:21]< Ganneff> whi takes his job today?
+[20:04:23]< Ganneff> who
+[20:04:31]< zobel> i can do the minutes of today.
+[20:05:20]< Ganneff>  i think we are enough, lets go on
+[20:05:30]< Ganneff> [item 3, President's Report]
+[20:05:30]< Ganneff> Agenda looks like there is none, and Bdale is wherever
+[20:05:30]< Ganneff> [item 4, Treasurer's Report]
+[20:05:30]< Ganneff> That's for Michael, nothing in Agenda
+[20:05:35]< zobel> Ganneff: so guests better /msg their names to me.
+[20:05:54]< schultmc> I'm still finishing up the July treasurer's report - it should be finished in the next day or two. Apologies for the delay.
+[20:06:29] * zobel needs to dig out the vote scripts...
+[20:06:31]< Ganneff> ok, thats it?
+[20:06:38]< schultmc> that's it from me
+[20:06:42]< Ganneff> [item 5, Secretary's report]
+[20:06:42]< Ganneff> Without Noodles, thats not going to be there
+[20:06:42]< Ganneff> [item 6, Outstanding minutes]
+[20:06:42]< Ganneff> zobel: there is one set mentioned, want to run the vote?
+[20:08:54]< Ganneff> zobel: ?
+[20:09:05]< linuxhiker> Ganneff: think he is digging out the vote script ;)
+[20:09:15]< zobel> Voting started, 0 people () allowed to vote on "Outstanding minutes for Thursday, 10th July 2014" Ganneff schultmc glp zobel linuxhiker Solver tbm . - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[20:09:21]< Ganneff> no, that wasnt it
+[20:09:40]< zobel> Current voting results for ""Outstanding minutes for Thursday, 10th July 2014" Ganneff schultmc glp zobel linuxhiker Solver tbm ": Yes: 0, No: 0, Abstain: 0, Missing: 0 ()
+[20:09:40]< zobel> Voting for ""Outstanding minutes for Thursday, 10th July 2014" Ganneff schultmc glp zobel linuxhiker Solver tbm " closed.
+[20:09:40]< schultmc> syntax error?
+[20:09:56]< Ganneff> schultmc: si
+[20:10:29]< zobel> gah, i hate that syntax.
+[20:11:09]< zobel> Voting started, 1 people ( ganneff schultmc glp zobel linuxhiker solver tbm ) allowed to vote on Outstanding minutes for Thursday, 10th July 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[20:11:20]< Ganneff> hrhr. no. how about just doing it manually?
+[20:11:27]< zobel> Current voting results for "Outstanding minutes for Thursday, 10th July 2014": Yes: 0, No: 0, Abstain: 0, Missing: 1 (  ganneff schultmc glp zobel linuxhiker solver tbm  )
+[20:11:27]< zobel> Voting for "Outstanding minutes for Thursday, 10th July 2014" closed.
+[20:11:30]< linuxhiker> That's us, smooth as butter
+[20:11:30]< zobel> yes, please.
+[20:11:34]< glp> :D
+[20:11:46]< Solver> :)
+[20:11:47]< Ganneff> so, lets vote for the minutes, people know what to write...
+[20:11:48]< Ganneff> !vote yes
+[20:11:50]< linuxhiker> !vote yes
+[20:11:52]< tbm> !vote yes
+[20:11:52]< schultmc> !vote yes
+[20:11:53]< Solver> !vote yes
+[20:11:58]< zobel> !vote yes
+[20:12:02]< glp> !vote yes
+[20:12:16]< zobel> so that is all yes.
+[20:12:17]< Ganneff> there, i think we dont need a script to calculate if they got in
+[20:12:34]< Ganneff> [item 7, Items up for discussion]
+[20:12:34]< Ganneff> Anything? Agenda is empty
+[20:13:18]< Ganneff> sounds like nothing, short meeting we will get...
+[20:13:20]< tbm> Officer election should be on the agenda since this is the first meeting after the election.
+[20:13:20]< Ganneff> [item 8, Appointment of board officers]
+[20:13:20]< Ganneff> Oh cool, with two of em absent.
+[20:13:35]< tbm> ah, never mind :)
+[20:13:40]< zobel> ah, nicklist would had been comma-separeted.
+[20:13:53]< Solver> can we call bdale?
+[20:14:06]< Ganneff> so, we should elect officers... two current ones are not near here.
+[20:14:26]< zobel> Ganneff: Noodles said he will not run again, IIRC
+[20:14:31]< Ganneff> yes
+[20:14:33]< Ganneff> on list
+[20:14:39]< Ganneff> so we need at least a new secretary
+[20:14:52] * zobel looks at tbm....
+[20:14:56]< Solver> bdale's phone number is in the board-private repo
+[20:14:56]< Ganneff> did bdale say anything?
+[20:15:52]< Ganneff> and, do we have anyone who would like to take one of the positions?
+[20:16:12] * schultmc is willing to serve as treasurer again
+[20:16:30] * Ganneff can do VP again, unless you say I shouldnt.
+[20:16:53] * linuxhiker is willing to help anyway the board sees fit (especially now that his life is back in order)
+[20:17:01]< Solver> could someone in the US pls give bdale a call...
+[20:17:11]< linuxhiker> Solver: if you pm me his number, I will
+[20:17:13]< Ganneff> we need a new secretary (write minutes, agendas, send reminders about meetings, deal with questions around spi that secretary gets a bit more than others)
+[20:17:37]< zobel> i just texted broonie 
+[20:17:37]< Solver> linuxhiker: done
+[20:17:42]< zobel> i just texted bdale 
+[20:17:47]< linuxhiker> calling
+[20:17:50]< Solver> ta
+[20:17:58]< bdale> oops
+[20:18:09]< bdale> Bdale Garbee
+[20:18:12]< Ganneff> aha!
+[20:18:14]< zobel> hi bdale 
+[20:18:18]< linuxhiker> bdale I just hung up on you
+[20:18:26]< Ganneff> bdale: officer election time. are you running away or want to keep president? :)
+[20:18:27]< bdale> linuxhiker: thanks for letting me know that was you
+[20:18:46]< zobel> bdale: you should have an SMS from my companies cell phone...
+[20:18:49]< bdale> I'm willing to continue as president.
+[20:18:58] * linuxhiker notes that he could be treasurer or president, but secretary requires a different skillset than he offers
+[20:18:59]< Ganneff> so we have 3 possibly continues
+[20:18:59]< bdale> zobel: I do, that's what caused me to appear .. thanks!
+[20:19:03]< Ganneff> noone yet for secretary
+[20:19:06]< zobel> good. so we only need a new secretary.
+[20:19:22]< Solver> glp: we kee out of band contact details for the board...  I'll point you at it later
+[20:19:35]< schultmc> tbm had sort of expressed interest about secretary on list
+[20:19:44]< tbm> I can act as secretary if there are no other volunteers.  I have some questions about record keeping but we can discuss that later.
+[20:19:50] * Solver would happily nominate tbm
+[20:19:56]< glp> me to
+[20:19:56] * linuxhiker seconded
+[20:20:13]< Ganneff> ok, anyone want to compete with us other 3 existing ones?
+[20:20:14]< zobel> i could run as well, but past told us that this is not a good idea.
+[20:20:24] * Solver is not running for a position as officer
+[20:20:34]< zobel> but if tbm wants to run, then i will not run
+[20:20:37]< Ganneff> or do we have a set of 4 to vote on to confirm?
+[20:21:13]< Solver> seems like we do
+[20:21:48]< Ganneff> i see no one else speaking up, so lets confirm bdale == president, me == vice president, tbm == secretary, schultmc == treasurer for another round?
+[20:21:58]< schultmc> !vote yes
+[20:22:02]< linuxhiker> !vote yes
+[20:22:03]< glp> !vote yes
+[20:22:05]< zobel> !vote yes
+[20:22:07]< Solver> !vote yes
+[20:22:08]< tbm> !vote yes
+[20:22:09]< bdale> !vote yes
+[20:22:12]< Ganneff> !vote yes
+[20:22:22]< zobel> okay, this time i would the script ready, but schultmc was too fast...
+[20:22:25]< Ganneff> thats all of us, so thanks.
+[20:22:39]< Ganneff> [item 9, AOB]
+[20:22:39]< Ganneff> Anyone anything?
+[20:22:40]< zobel> okay, that is all yes. 
+[20:22:56]< bdale> my apologies to all for being completely distracted at meeting time today
+[20:23:13]< Ganneff> bdale: makes a fast meeting, admit, that was what you wanted
+[20:23:25]< Solver> :)
+[20:23:27]< Ganneff> [item 10, Next board meeting]
+[20:23:27]< Ganneff> Next board meeting: September 11th, 2014, 20:00 UTC
+[20:23:27]< Ganneff> [item 10, Next board meeting]
+[20:23:27]< Ganneff> Next board meeting: September 11th, 2014, 20:00 UTC
+[20:23:27]< Ganneff> [item 10, Next board meeting]
+[20:23:27]< Ganneff> Next board meeting: September 11th, 2014, 20:00 UTC
+[20:23:35]< bdale> efficient meetings are good meetings
+[20:23:37]< Ganneff> err. one time only at that day, please
+[20:23:44]< bdale> glp: welcome, by the way!
+[20:23:45]< schultmc> I'll be at a conference then
+[20:24:11]< glp> bdale: thanx
+[20:24:12]< bdale> I'm likely to be out of the country that week, but that's no reason to not have the meeting then
+[20:24:16]< zobel> who of SPI will be at DC14?
+[20:24:24] * bdale will be at DC
+[20:24:27] * zobel 
+[20:24:30]< tbm> I'll be there
+[20:24:42]< bdale> we have a SPI BOF scheduled, please attend if you're at DC in person
+[20:25:10]< Ganneff> *GAVEL*
