@@ -1,0 +1,100 @@
+21:00 < Ganneff> *BANG*
+21:00 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+21:00 < Ganneff> The agenda can be found on the web at:  http://www.spi-inc.org/meetings/agendas/2014/2014-09-11/
+21:00 < Ganneff> [item 2, Roll Call]
+21:00 < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 < Ganneff> tbm: Bdale is away, any other regrets?
+21:00 < glp> Gregers Petersen
+21:00 < Ganneff> Joerg Jaspert
+21:00 < tbm> Martin Michlmayr
+21:00 < Solver> Robert Brockway
+21:00 < zobel> Martin Zobel-Helas
+21:00 < tbm> Ganneff: I receivedr regrets from schultmc and bdale
+21:00 < Noodles> Jonathan McDowell
+21:01 < Ganneff> linuxhiker: wake up
+21:01 < linuxhiker> Joshua Drake
+21:01 < Ganneff> that is all, good
+21:01 < linuxhiker> google compute ssd instances, 240MB random write/s
+21:02 < Ganneff> [item 3, President's Report]
+21:02 < Ganneff> Agenda looks like there is none, and Bdale is out partying
+21:02 < Ganneff> [item 4, Treasurer's Report]
+21:02 < Ganneff> That's for Michael, nothing in Agenda when I looked, he not here
+21:02 < Ganneff> [item 5, Secretary's report]
+21:02 < Ganneff> one for tbm
+21:02 < zobel> linuxhiker: ECHAN?
+21:02 < tbm> The web site and by-laws have been updated to reflect the current directors and officers.
+21:02 < tbm> zobel kindly prepared the minutes for the August 14 meeting.
+21:02 < tbm> I've received no resolutions for consideration.
+21:02 < tbm> I found a small inaccuracy in the July minutes at http://spi-inc.org/meetings/minutes/2014/2014-07-10/
+21:02 < tbm> In Appendix A: Current Board Membership, "Last elected" lists "July 2010" for several directors instead of "July 2013".
+21:02 < tbm> Does anyone object to me fixing this without a vote to re-approve the minutes?
+21:02 < Noodles> The election was after that meeting.
+21:03 < zobel> tbm: yes, i found that too.
+21:03 < Noodles> Oh, 2013, not 2014.
+21:03 < Noodles> Go for it.
+21:03 < tbm> ok, will do
+21:03 < tbm> nothing else from me
+21:03 < Ganneff> [item 6, Outstanding minutes]
+21:03 < Ganneff> And we have one set, prepared by zobel, from 14th August 2014
+21:04 < Ganneff> tbm: go go go :)
+21:04 < tbm> Voting started, 7 people (ganneff,tbm,solver,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 14th August 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:04 < Ganneff> !vote yes
+21:04 < zobel> !vote yes
+21:04 < tbm> !vote yes
+21:04 < glp> !vote yes
+21:04 < Solver> !vote yes
+21:04 < Noodles> !vote abstain
+21:04 < zobel> linuxhiker: ^
+21:04 < Ganneff> linuxhiker:
+21:04 < linuxhiker> !vote abstain
+21:04 < tbm> Current voting results for "Meeting minutes for Thursday 14th August 2014": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+21:04 < tbm> Voting for "Meeting minutes for Thursday 14th August 2014" closed.
+21:05 < Ganneff> thanks
+21:05 < Ganneff> [item 7, Items up for discussion]
+21:05 < Ganneff> Agenda says there is nothing
+21:05 < Ganneff> [item 8, AOB]
+21:05 < Ganneff> Anyone anything? You have -5 seconds to speak up or be silent forever. :)
+21:05 < Solver> yes one item
+21:05 < Ganneff> arrr. go
+21:05 < Solver> just the question I posed on list
+21:05  * zobel has one itme too.
+21:05 < Noodles> I did some fixing up of the members website back at the start of August such that what we have in git matches what we're actually running; would have mentioned it last month but I wasn't present.
+21:05 < Solver> can I proceed with joining SPI to the organisation I mentiond on list?
+21:06 < Solver> NPCCNY
+21:06 < Noodles> What does operating budget mean?
+21:06 < Ganneff> shouldnt that have a vote?
+21:06 < Noodles> Is ours effectively the PO BOX / the bookkeeper?
+21:07 < Noodles> (i.e. what annual dues are we committing to here)
+21:07 < glp> Solver I suggested that it would be good to attend some meetings before making the decision?
+21:07 < tbm> glp: I believe you're only allowed to attend if you're a member.
+21:07 < Noodles> In general I'm in favour but I'd want to know what the costs actually are and I think it needs a resolution.
+21:08 < linuxhiker> Noodles: do our bylaws state that operational decisions need a resolution?
+21:09 < Noodles> It's not an operational decision. It's a decision to join another organisation.
+21:09 < glp> tbm: sounds odd if they don't have some kind of 'introduction-deal'
+21:10 < Noodles> Can we just check how much it costs? If it falls under the $35/year category then I don't see why we shouldn't do it. I had done a little investigation into D&O insurance and found them myself at one point.
+21:10 < Ganneff> ok, so need a resolution (Solver: going to prepare one for next meeting?) and probably some more data
+21:10 < Solver> ok
+21:10 < Ganneff> zobel: now you
+21:11 < zobel> we have one project request to join spi
+21:11 < zobel> sonargnulinux.com
+21:11 < zobel> i didn't find much data on the internet about their structure, it seems to me a 1 man show
+21:11 < Noodles> Did you get extra info from them? I didn't see any followup to your mail.
+21:11 < zobel> if anyone has more input on that would help
+21:12 < zobel> nope.
+21:12 < Ganneff> so thats something for them to clear up before it goes on and gets to vote on
+21:12 < Ganneff> right, anyone else?
+21:12 < zobel> </done>
+21:12 < Noodles> There are multiple committers to their gitorious repo.
+21:12 < Noodles> But wait for them to provide the info IMO.
+21:12 < Ganneff> [item 10, Next board meeting]
+21:12 < Ganneff> Next board meeting: October 9th, 2014, 20:00 UTC
+21:12 < Ganneff> I may be able to make it, but not sure, so:
+21:12 < Ganneff> tbm: Tentative regrets from my side, maybe I'm away watching the second kid crawl out...
+21:13 < linuxhiker> o.k. as a side note, it appears that I don't receive any spi emails anymore (and I have no idea why)
+21:13 < linuxhiker> oh sorry
+21:13 < linuxhiker> I am good with that meeting time
+21:13 < Solver> They have a support mailing list which I just joined so I can see how busy it is
+21:13 < Ganneff> linuxhiker: out of meeting we can look
+21:13 -!- Ganneff changed the topic of #spi to: http://www.spi-inc.org/ | Next board meeting October 9th, 2014, 20:00 UTC (aka `date -d @@1412884800` or `date -r @1412884800`)
+21:13 < zobel> tbm: i might be on VAC during next meeting.
+21:13 < Ganneff> *GAVEL*
