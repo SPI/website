@@ -1,0 +1,162 @@
+21:00 < bdale> *GAVEL*
+21:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:00 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2014/2014-10-09/
+21:00 < bdale> [item 2, Roll Call]
+21:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:00 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 < schultmc> Michael Schultheiss
+21:00 < zobel> Martin Zobel-Helas
+21:00 < bdale> Bdale Garbee
+21:00 < Solver> Robert Brockway
+21:00 < linuxhiker> Joshua D. Drake
+21:01 < tbm> Martin Michlmayr
+21:01 < Noodles> Jonathan McDowell
+21:01 < bdale> quorum, which is good .. who's missing?
+21:01 < bdale> Ganneff?
+21:01 < zobel> Ganneff
+21:01 < tbm> I received regrets from Ganneff
+21:02 < bdale> and linuxpoet, right?
+21:02 < bdale> oh, no, different nick
+21:03 < tbm> glp is missing too
+21:03 < Noodles> I saw regrets from Gregers to the list.
+21:03 < schultmc> linuxhiker is fka linuxpoet
+21:03 < linuxhiker> bdale: linuxpoet has been dead some time
+21:03 < linuxhiker> bdale: long live linuxhiker
+21:03 < bdale> linuxhiker: gotcha
+21:03 < bdale> good thing we state names for the record, 'eh?  ;-)
+21:03 < tbm> ah yes, regrets from glp
+21:03 < bdale> ok, so that's everyone accounted for, and we're quorate!
+21:03 < tbm> so with regrets from Ganneff and glp, we're complete
+21:03 < bdale> [item 3, President's Report]
+21:03 < bdale> Two personal news items for those who haven't heard through other channels, which together have consumed most of my attention in recent weeks.
+21:03 < bdale> The first is that after 15+ months, our new house built to replace the one lost in the Black Forest Fire of 2013 is done, and we're "home" again!
+21:03 < bdale> The second is that I've been lured out of early retirement, and am now an HP Fellow in the Office of the CTO, focusing on open source strategy.
+21:04 < linuxhiker> bdale: Congratz!
+21:04 < Solver> congratulations on both counts
+21:04 < Noodles> \o/
+21:05 < bdale> [item 4, Treasurer's Report]
+21:05 < bdale> Michael?
+21:05 < schultmc> 3 past reports have been reissued and the 3 remaining reports needed to catch us up have all been submitted
+21:05  * schultmc attended FOSSETCON in Orlando last month and met with bkuhn
+21:05 < bdale> I saw the reissues but haven't read them yet.  what was the problem?
+21:05 < schultmc> he's wanting to meet with me and tbm to get us using ledger-cli
+21:06 < bdale> good plan?
+21:06 < schultmc> there were some arithmetic errors and some travel was accidently assigned to the wrong project
+21:06 < bdale> ok
+21:06 < bkuhn> Correct, I think tbm and I are both willing to help if SPI wants to use the accounting system Conservancy is using.  Which right now is a properly formatted Ledger-CLI file, long term, the new system we're working on.
+21:06 < schultmc> bdale: yes - using ledger-cli will make it much easier to manage our finances and will help us move to the new system that's being worked on
+21:07 < bdale> bkuhn: thanks for the fill .. that all makes sense to me, but I'm not in the treasurer's seat...
+21:07 < bdale> schultmc: cool
+21:07 < bdale> I use ledger-cli for one of my side businesses, shout if I can help
+21:07 < schultmc> will do
+21:07 < bkuhn> Yeah, I was just filling in what schultmc said. :)
+21:07 < bkuhn> (got my attention because my username was mentioned ;)
+21:07 < bdale> anything else here?
+21:07 < schultmc> not from me
+21:08 < bdale> anything pending on our filings calendar?
+21:08 < schultmc> we're good until 2015
+21:08 < bdale> ok, thanks
+21:08 < bdale> [item 5, Secretary's report]
+21:08 < bdale> Martin?
+21:08 < tbm> I have not received any new resolutions for consideration.
+21:09 < bdale> I'm working on one that I *hope* will be ready for next month
+21:09 < Solver> Same
+21:09 < tbm> And there's nothing else to report.  I added the Drizzle trademark to our web page, but nothing else I can think of.
+21:09 < bdale> tbm: ok, thanks
+21:09 < bdale> [item 6, Outstanding minutes]
+21:09 < bdale> Martin, I believe we have last month's to vote on today?
+21:09 < tbm> yes
+21:09 < Solver> I just noticed that Greger's irc nick is incorrect in the August and September minutes
+21:10 < Solver> it should be glp not gpl
+21:10 < tbm> thanks, I'll fix that
+21:10 < bdale> good point, though somehow I doubt he'll complain about that one... ;-)
+21:10 < tbm> minutes are at http://www.spi-inc.org/meetings/minutes/2014/2014-09-11/
+21:10 < Solver> ;)
+21:10 < tbm> Voting started, 7 people (bdale,tbm,schultmc,solver,linuxhiker,noodles,zobel) allowed to vote on Meeting minutes for Thursday 11th September 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:10 < bdale> !vote abstain
+21:11 < Solver> !vote yes
+21:11 < zobel> !vote yes
+21:11 < tbm> !vote yes
+21:11 < schultmc> !vote abstain
+21:11 < Noodles> !vote yes
+21:11 < linuxhiker> !vote yes (please note that I haven't been linuxpoet in a long time guys)
+21:11 < tbm> Current voting results for "Meeting minutes for Thursday 11th September 2014": Yes: 4, No: 0, Abstain: 2, Missing: 1 ( linuxhiker )
+21:11 < tbm> Voting for "Meeting minutes for Thursday 11th September 2014" closed.
+21:11 < linuxhiker> I voted?
+21:11 < Noodles> The script is basic.
+21:11 < tbm> yeah, strange
+21:11 < linuxhiker> oh
+21:11 < tbm> I'll make sure to count your vote
+21:11 < tbm> 5 yes, 2 abstain
+21:12 < bdale> ok, thanks
+21:12 < linuxhiker> Well the notes are wrong, I vote yes because everyone know that linuxhiker used to be linuxpoet, but you might want to correct that in the cuture
+21:12 < linuxhiker> future
+21:12 < tbm> I'll also change linuxhiker's nick.
+21:12 < bdale> thanks
+21:12 < bdale> [item 7, Items up for discussion]
+21:12 < bdale> None.
+21:12 < bdale> [item 8, Any other business]
+21:12 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:12 < Solver> Paypal
+21:12 < linuxhiker> I Do
+21:12 < bdale> Solver: go
+21:13 < Solver> As we know there have been extensive discussions on spi allowing payments via paypal directly
+21:14 < Solver> bgupta has put together this page: https://docs.google.com/document/d/1hp_dDV0uCZt3ylpEFQqmVP751dCLq9DEvi3H0_w92kY
+21:14 < linuxhiker> Solver: can't see it
+21:14 < Solver> ok I'll copy and email out
+21:14 < bgupta> let me move to whiteboard
+21:14 < Solver> what do we need to do at this stage to move forward with allowing for paypal donations?
+21:14 < Noodles> Didn't we need another bank account?
+21:14 < schultmc> as I understand it we need a new bank account setup
+21:15 < linuxhiker> Solver: I recommend a separate specific bank account for paypal
+21:15 < bgupta> http://whiteboard.debian.net/spipaypal.wb
+21:15 < linuxhiker> Solver: I also recommend that we never keep more than a couple of grand in paypal or the attached account
+21:15 < Noodles> AIUI the issue there is the mechanics of getting one.
+21:15 < schultmc> I can do that when I get back from vacation - there are 5+ banks close to me
+21:15 < Solver> and will we need a resolution to open a new bank a/c?
+21:15 < bgupta> (lost some formatting..
+21:15 < bdale> fwiw, I've learned how to set up a PayPal account to auto-sweep to the attached bank account daily .. it's not obvious at all, but it *is* possible
+21:16 < bdale> iow, the balance in PayPal for my business account stays near zero without intervention
+21:16 < Solver> bdale: excellent.  glad someone knows how :)
+21:16 < linuxhiker> CMD uses paypal for all its electronic payments, we push quite a bit through it (more than I like actually) every month and we always make sure the balance is down
+21:16 < Solver> so any objection from the board if we open the new account soon.  is it ok to have it at the same institution as other accounts?
+21:16 < bdale> ok
+21:17 < bdale> I don't think this requires board action, does it?
+21:17 < linuxhiker> I have no objection
+21:17 < Noodles> I think we've already said it was fine to open an account and proceed with Paypal?
+21:17 < Solver> ok schultmc, are you able to arrange for the opening of a new account?
+21:17 < Noodles> Didn't we have a related resolution ages ago?
+21:17 < bdale> I thought so, but I'd have to dig to find a reference
+21:17 < Noodles> 2013-12-12.mcs.1 covers a new bank account for Paypal already.
+21:18 < bdale> ok
+21:18 < schultmc> yes
+21:18 < bdale> good, then "carry on" and get it done
+21:18 < linuxhiker> woot! getting it done in less than a year ;)
+21:18 < bdale> linuxhiker: go
+21:18 < Solver> sounds good
+21:18 < linuxhiker> Just a quick heads up for those that didn't notice
+21:18 < linuxhiker> I ran a google hangouts on air for SPI on the fly a few weeks back
+21:18 < linuxhiker> it can be seen here: https://www.youtube.com/watch?v=IBQPNY652wk
+21:19 < Noodles> Where was the notice?
+21:19 < linuxhiker> I think it would be great if we could run one with a couple of board members present
+21:19 < linuxhiker> I didn't notify on SPI (it was a rather impromptu deal)
+21:19 < linuxhiker> but I did notify on the open source community, and hacker news, and postgresql (all on G+ respectively)
+21:19 < bdale> nothing wrong with improptu, per se, but you'll get more involvement with some notice, maybe on spi-general?
+21:19 < linuxhiker> oh definitely
+21:20 < linuxhiker> and when planned better, I will certainly do so
+21:20 < bdale> ok, cool.  anything else?
+21:20 < linuxhiker> nope, just wanted it to be reflected
+21:20 < bdale> [item 9, Next board meeting]
+21:20 < bdale> Our next regularly-scheduled monthly meeting would be 13 November 2014, 20:00 UTC.
+21:20 < bdale> Any strong objections?
+21:20 < Noodles> Adding it to the SPI calendar on Google perhaps would have been an easy first step.
+21:20 < Solver> no objections
+21:20 < bdale> Noodles: oh, good thought
+21:21 < Noodles> That's post DST for most of us, right? Fine by me though.
+21:21 < bdale> heck if I can remember
+21:21 < linuxhiker> I am good
+21:21 < bdale> shared calendars for the win...
+21:21 < Noodles> (Everyone on the board who has a Google account should have access to the calendar; poke me if not and I'll add you.)
+21:21 < schultmc> DST ends Sunday, November 2
+21:21 < bdale> Ok, thank you to everyone present for participating today.
+21:21 < bdale> *GAVEL*
