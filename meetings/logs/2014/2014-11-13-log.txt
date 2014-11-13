@@ -1,0 +1,167 @@
+20:00 < bdale> *GAVEL*
+20:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2014/2014-11-13/
+20:01 < bdale> [item 2, Roll Call]
+20:01 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:01 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+20:01 < schultmc> Michael Schultheiss
+20:01 < bdale> Bdale Garbee
+20:01 < glp> Gregers Petersen
+20:01 < Noodles> Jonathan McDowell
+20:01 < tbm> Martin Michlmayr
+20:01 < zobel> Martin Zobel-Helas
+20:01 < bdale> did I see regrets in-channel from Solver?
+20:01 < schultmc> yes
+20:01 < zobel> shall i sms-ping ganneff?
+20:02 < bdale> please
+20:02 < bdale> linuxhiker ?
+20:02 < linuxhiker> Joshua D. Drake
+20:02 < bdale> cool
+20:03 -!- saste [~saste___@dynamic-adsl-78-15-163-109.clienti.tiscali.it] has joined #spi
+20:03 < zobel> pinged Ganneff.
+20:03 < bdale> ok, let's proceed
+20:04 < zobel> but we made quorum
+20:04 < bdale> [item 3, President's Report]
+20:04 < bdale> two items this month
+20:04 < bdale> Congratulations to SFLC for passing their 10th anniversary, it was good to see several other SPI contributing members and others at their celebration
+20:04 < bdale> on 31 October at Columbia Law School!
+20:04 < bdale> I'm working with Keith Packard on an association resolution for x.org that I hope will be on next month's agenda.
+20:04 < bdale> [item 4, Treasurer's Report]
+20:04 < bdale> Michael?
+20:04 < Ganneff> Joerg Jaspert
+20:04 < schultmc> a corrected september report and october's report are in the agenda. Nothing of note
+20:05 < schultmc> I also opened the new bank accounts for Paypal
+20:05 < bdale> Ganneff: welcome!
+20:05 < bdale> schultmc: cool.  when will that "go live"?
+20:05 < schultmc> bdale: it shouldn't take much longer - I'll coordinate with bgupta since he's been spearheading it
+20:06 < tbm> what about the corrected report from April? Does that mean all reports since April have to be updated?
+20:06 < bdale> ok, great.  will look forward to an announcement.
+20:06 < schultmc> tbm: last month's agenda had all the corrected reports in it - noodles pointed out my emailed copy was stuck in moderation
+20:06  * schultmc resent it from the proper address
+20:06 < bdale> anything else?
+20:06 < schultmc> nothing from me
+20:07 < bgupta> schultmc: Feel free to propose a time to meet. generally my afternoons and evenings are freer than AMs.
+20:07 < tbm> ah, I see
+20:07 < bdale> [item 5, Secretary's report]
+20:07 < bdale> Martin?
+20:07 < tbm> Are your records/calculations stored somewhere where board members can access them?
+20:07 < tbm> it seems the bus factor is quite high
+20:07 < schultmc> tbm: not currently - bkuhn and I are planning on meeting with you to help rectify that
+20:07 < tbm> ok
+20:07 < tbm> anyway, regarding the secretary's report
+20:07 < tbm> I've not received any resolutions for consideration.
+20:08 < tbm> I have nothing else to report.
+20:08 < bdale> ok, thanks
+20:08 < bdale> [item 6, Outstanding minutes]
+20:08 < bdale> Martin, I believe we have last month's to vote on today?
+20:08 < tbm> yes
+20:08 < tbm> http://spi-inc.org/meetings/minutes/2014/2014-10-09/
+20:08 < tbm> I hope everyone had a chance to read it
+20:08 < bdale> looking now
+20:08 < tbm> Unfortunately, I only completed them today.
+20:09 < bdale> they look ok to me
+20:09 < linuxhiker> I as well
+20:09 < tbm> ok, let's start the vote
+20:09 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 9th October 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:09 < Ganneff> !vote abstain
+20:09 < bdale> yeah, a little more review time would be better...
+20:09 < bdale> !vote yes
+20:09 < linuxhiker> !vote yes
+20:09 < zobel> !vote yes
+20:09 < tbm> !vote yes
+20:09 < schultmc> !vote yes
+20:09 < glp> !vote yes
+20:09 < Noodles> !vote yes
+20:10 < tbm> Current voting results for "Meeting minutes for Thursday 9th October 2014": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:10 < tbm> Voting for "Meeting minutes for Thursday 9th October 2014" closed.
+20:10 < tbm> I'll make sure to post minutes earlier in the future
+20:10 < bdale> thanks
+20:10 < bdale> [item 7, Items up for discussion]
+20:10 < bdale> None.
+20:10 < bdale> [item 8, Any other business]
+20:10 < bdale> Do any board members present have items for discussion they would like to address briefly?
+20:10 < linuxhiker> I do
+20:10 < bdale> linuxhiker: go
+20:10  * zobel too.
+20:10 < bdale> zobel: noted
+20:11 < linuxhiker> I spoke at BLUG (Bellingham Linux User Group) last week. They are the user group that puts on Linux Fest NW which is a reasonably large regional conference. Although they knew what PostgreSQL, Debian and Libreoffice were. They had no idea who we were or what we do.
+20:11 -!- gio [~gio@host156-203-dynamic.46-79-r.retail.telecomitalia.it] has joined #spi
+20:11 < linuxhiker> Is that something we care about? I mean, I always talk about us at every talk I do but do we want to make a concerted advocacy effort?
+20:11 < linuxhiker> Membership effort?
+20:12 < bdale> we've never pushed for it particularly in the past, beyond things like routinely having a BOF session at Debconf the last few years
+20:12 < Noodles> I think it's a good idea for people to be aware of our existence.
+20:12 < glp> It is something I believe we should work towards
+20:12 < bdale> I see no problem with spreading the word, though
+20:12 < Noodles> I don't think we particularly need a membership drive.
+20:12  * schultmc briefly mentioned SPI at Ohio LinuxFest last month (Ken Starks from The HeliOS Project was the closing keynote)
+20:13 < bdale> I represented SPI on a panel at the SFLC thingy
+20:13 < linuxhiker> I was just surprised as most of the people there were not "newbies", these are old guys like a lot of us.. or I should say, mature :P
+20:13 < bdale> I'm ok with "old"
+20:13 < luca> i prefer wise
+20:14 < bdale> so, what would we do if we wanted to increase brand recognition?
+20:14 < bdale> luca: why, thank you!
+20:14 < bdale> for things like a regional conf, there's a bunch of work associated with doing something like a booth
+20:14 < linuxhiker> I think that is a longer discussion than what we want to do here. I mean I am fully prepared to do google hangouts and presentations when I have the ability but there are a lot of things that go along with advocacy (our website doesn't help)
+20:15 < bdale> fair enough
+20:15 < bdale> so let's take this to email, then?
+20:15 < glp> yes
+20:15 < Noodles> Patches always welcome for the website...
+20:15 < linuxhiker> Noodles: to be honest, I want to see us pay for a professional design, ala 66designs
+20:15 < linuxhiker> err 99designs
+20:16 < tbm> didn't someone volunteer to redesign the web site?
+20:16 < bdale> I'm open to suggestions.  I've never been unhappy that our reputation has grown to be one of quiet competence, but I'm equally fine with having our "brand" better known and appreciated
+20:16 < Noodles> We should talk to Valessio.
+20:16 < Noodles> And I'm wary of any commercial designer trying to redo the way we maintain the site.
+20:16 < bdale> ugh.  web site design.  ;-)
+20:16 < Noodles> But not against someone else changing its appearance within our ikiwiki structure.
+20:17 < bdale> yeah, it took us a lot of work to get to ikiwiki+git which we all know how to use at least to some extent .. don't want to change that, but more appealing content is ok
+20:17 < linuxhiker> bdale: I am right there with you, which is why I think it would be useful to spend some of our cash for a real and professional designer
+20:17 < zobel> i think we should move website redesign discussion to the public mailing list.
+20:17 < bdale> ok, let's take this to email, and if $ are involved we can put a resolution on a future meeting agenda, ok?
+20:17 < linuxhiker> if you guys look at 99designs, it is pretty awesome. We spend say 600 bucks and we get dozens of designs to chose from, from different designers
+20:17 < Noodles> I have an old mail from Valessio I don't think anyone ever replied to. I will reply this week and see if he's still interested?
+20:17 < tbm> Noodles: can Valessio work within our ikiwiki framework?
+20:17 < bdale> tbm: good question to ask
+20:18 < bdale> ok... zobel?
+20:18 < zobel> <begin>i was speaking with RichiH from Debian about trademarks. Debian wants advise on registering 'DebConf' as trademark. i advised him to communicate with Mishi directly but to keep board@ on Cc. You probably saw that mail.</end>
+20:18 < tbm> ok, I guess Noodles or I will follow up with Valessio
+20:18 < Ganneff> tbm: i think yes
+20:18 < Noodles> tbm: I will reply to the mail I have from him.
+20:18 < bdale> I saw that email, yes
+20:18 < luca> 3
+20:18 < zobel> after the Gnome trademark foo from 2d ago, even more important.
+20:19 < zobel> Gnome vs. Groupon
+20:19 < bdale> if Mishi doesn't respond shortly, I can poke if needed.  I had a great meeting with Eben and Mishi at the SFLC event, nothing new to report here but she reiterated her willingness to hear from me about priorities, etc
+20:19 < zobel> in case someone did not saw that.
+20:19 < zobel> okay.
+20:20 < bdale> anything else for this section of the agenda?
+20:20 < tbm> someone mentioned membership befre
+20:20 < tbm> which reminds me... didn't we want to ping inactive members or something?
+20:20 < Noodles> Yes.
+20:20 < linuxhiker> yes
+20:20 < tbm> Is anyone working on this?
+20:20 < bdale> not that I know of
+20:20 < Noodles> I have neglected to write the website code that would mean we could send out some mails.
+20:21 < Noodles> But I think that's what needs done; a link on the members website that would let someone claim they were still active.
+20:21 < Noodles> Then send out the mails, and after a month or two drop contributing members down to normal members if they haven't clicked the link.
+20:21 < bdale> want/need help, or do you have lots of spare time now that tbm is secretary?  ;-)
+20:21 < Noodles> The data on when someone last voted I added to the members DB a couple of years ago, so we can tell if people are active.
+20:22 < linuxhiker> Noodles: that sounds more like, we can tell if someone voted, not if they are active :P
+20:22 < Noodles> I'm not time rich at present thanks to trying to find somewhere to live and being back at university.
+20:22 < linuxhiker> Noodles: e.g; not everyone votes
+20:22 < Noodles> linuxhiker: We agreed some time ago it was a useful data point for who we should email.
+20:22 < bdale> voting is the only visible activity, ergo the email to allow them to poke an update my activity counter thing
+20:22 < Noodles> The link option is for those who are active but don't vote to be able to indicate that fact.
+20:22 < bdale> right
+20:23 < bdale> so we only email people who don't vote, giving them the option to indicate they're still "active" in some sense
+20:23 < Noodles> It's on my todo list, I won't be annoyed if someone else gets there first, I have made sure the members git repo is what we're actually running.
+20:23 < bdale> nice
+20:23 < bdale> ok
+20:23 < bdale> anything else here?
+20:23 < bdale> [item 9, Next board meeting]
+20:23 < bdale> Our next regularly-scheduled monthly meeting would be 11 December 2014, 20:00 UTC.
+20:23 < bdale> Any strong objections?
+20:23 < linuxhiker> nope
+20:23 < bdale> looks like it works for me
+20:24 < bdale> Ok, thank you to everyone present for participating today.
+20:24 < bdale> *GAVEL*
