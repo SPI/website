@@ -1,0 +1,173 @@
+20:01 < bdale> *GAVEL*
+20:01 < Solver> great  Very important we're qrorate to get Xorg wrapped up.
+20:01 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:01 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-01-08/
+20:01 < bdale> [item 2, Roll Call]
+20:01 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:01 < schultmc> Michael Schultheiss
+20:01 < glp> Gregers Petersen
+20:01 < zobel> Martin Zobel-Helas
+20:01 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+20:01 < Noodles> Jonathan McDowell
+20:01 < tbm> Martin Michlmayr
+20:01 < Solver> Robert Brockway
+20:01 < bdale> Bdale Garbee
+20:02 < zobel> Ganneff: ^
+20:02 < bdale> cool, quorate
+20:02 < zobel> shall i ping G over cell phone?
+20:02 < bdale> sure, though we've got quorum even without him
+20:03 < bdale> who else is missing?
+20:03 < Noodles> linuxhiker.
+20:03 < schultmc> linuxhiker
+20:03 < bdale> oh, right
+20:03 < bdale> ok, let's proceed .. perhaps they'll join us
+20:03 < zobel> ping Ganneff
+20:03 < zobel> pinged Ganneff
+20:03 < bdale> [item 3, President's Report]
+20:03 < bdale> I'm currently on my way to Linux Conf Australia, which will be held in Auckland, NZ, next week.  I hope to see SPI folk there and/or at FOSDEM at the end of the month!
+20:03 < bdale> [item 4, Treasurer's Report]
+20:03 < bdale> Michael?
+20:04 < schultmc> I'm finishing up the November and December treasurer's reports and hope to have them mailed out in the next day or two. Apologies for the delay.
+20:04 < bdale> ok
+20:04 < bdale> anything else / pending?
+20:04 < Ganneff> JOerg Jaspert
+20:04 < zobel> any tax filings open?
+20:04 < schultmc> finishing up some pending items for chakra
+20:05 < zobel> Ganneff: yay.
+20:05 < jberkus> bdale: I'd like some short-notice authorization to use an alternate payment method
+20:05 < schultmc> next tax filing is due in may (or august)
+20:05 < bdale> jberkus: for outbound payments?
+20:05 < jberkus> bdale: correct.
+20:05 < schultmc> yes, pre-meeting jberkus brought up the need for us to try additional services for outbound payments
+20:05 < Solver> jberkus, as a trial?
+20:05 < bdale> ok, sorry, was driving so haven't read backlog
+20:06 < jberkus> I'll explain when we get to it on the agenda
+20:06 < bdale> ok, noted
+20:06 < bdale> schultmc: anything else?
+20:06 < schultmc> not from me
+20:06 < bdale> [item 5, Secretary's report]
+20:06 < bdale> Martin?
+20:06 < tbm> We started a vote by email regarding 2014.12.11.bg.2 on December 11.
+20:06 < tbm> Votes by email require all board members to vote.
+20:06 < tbm> I was under the impression that we lacked one vote.
+20:06 < tbm> As it turns out, the vote was sent to me personally instead of the SPI Board list and I missed it
+20:06 < tbm> In order to avoid confusion and to give X.Org 90 days from today's date to accept, I suggest we do a quick vote on resolution 2014.12.11.bg.2
+20:07 < jberkus> bdale: I can take questions about the Tendenci/Stripe thing.  No vote is needed because this was authorized last year
+20:07 < tbm> Apart from this, we have to approve the minutes from 13th November and 11th December.
+20:07 < bdale> tbm: ok, that works for me
+20:07 < bdale> [item 6, Outstanding minutes]
+20:07 < tbm> http://spi-inc.org/meetings/minutes/2014/2014-11-13/
+20:07 < tbm> http://spi-inc.org/meetings/minutes/2014/2014-12-11/
+20:07 < bdale> go for it
+20:07 < tbm> We we need a few minutes to read them or should I start the vote?
+20:07 < bdale> I've read them and am ready to vote
+20:07 < tbm> Ok
+20:08  * Solver has read them
+20:08 < Noodles> I'm good to vote.
+20:08 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,solver,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 13th November 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < Noodles> !vote yes
+20:08 < schultmc> !vote yes
+20:08 < zobel> !vote yes
+20:08 < tbm> !vote yes
+20:08 < bdale> !vote yes
+20:08 < Solver> !vote abstain
+20:08 < Ganneff> !vote yes
+20:08 < glp> !vote yes
+20:08 < tbm> Current voting results for "Meeting minutes for Thursday 13th November 2014": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:08 < tbm> Voting for "Meeting minutes for Thursday 13th November 2014" closed.
+20:08 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,solver,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 11th December 2014. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < Noodles> !vote yes
+20:08 < glp> !vote yes
+20:08 < tbm> !vote yes
+20:08 < bdale> !vote yes
+20:08 < Solver> !vote yes
+20:08 < zobel> !vote abstain
+20:08 < schultmc> !vote abstain
+20:09 < Ganneff> !vote abstain
+20:09 < tbm> Current voting results for "Meeting minutes for Thursday 11th December 2014": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+20:09 < tbm> Voting for "Meeting minutes for Thursday 11th December 2014" closed.
+20:09 < bdale> thanks
+20:09 < bdale> [item 7, Items up for discussion]
+20:09 < bdale> [item 7.1, Resolution 2014.12.11.bg.2: X.Org as associated project]
+20:09 < bdale> Unless further discussion is needed, I'm ready to vote.
+20:09 < Noodles> Me too.
+20:09 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,solver,noodles,glp,zobel) allowed to vote on Approval of resolution 2014.12.11.bg.2. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:09 < Noodles> !vote yes
+20:09 < tbm> !vote yes
+20:09 < Ganneff> !vote yes
+20:09 < zobel> !vote yes
+20:09 < Solver> !vote yes
+20:09 < schultmc> !vote yes
+20:09 < glp> !vote yes
+20:10 < bdale> !vote yes
+20:10 < tbm> Current voting results for "Approval of resolution 2014.12.11.bg.2": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:10 < tbm> Voting for "Approval of resolution 2014.12.11.bg.2" closed.
+20:10 < tbm> I'll inform X.Org
+20:10 < bdale> awesome
+20:10 < Noodles> \o/
+20:10 < bdale> fyi, the reason they wanted 90 days is that they have to have a general vote now before they can accept
+20:10 < bdale> [item 8, Any other business]
+20:10 < bdale> Do any board members present have items for discussion they would like to address briefly?
+20:10 < bdale> jberkus?
+20:11 < jberkus> bdale: the payment method?  OK
+20:11 < bdale> might as well, as long as it doesn't run too long
+20:11 < jberkus> so, here's the situation: I've been trying to pay out to some of the GSOC participants for a month.  The problem participants are located in Brazil, China, and India
+20:11 < bdale> ah, ok
+20:11 < jberkus> Wire transfers to these countries work poorly
+20:12 < bdale> I've seen your thread on the foundations list about this
+20:12 < bdale> s/your/the/
+20:12 < jberkus> Payoneer.com was recommeded on the Foundations list, and by a brazillian OSS developer I know
+20:12 -!- badon is now known as Guest1183
+20:12 -!- badon [~badon@1DVAAD8CM.tor-irc.dnsbl.oftc.net] has joined #spi
+20:13 < jberkus> I would like to try siging up for it and at least compensate the Brazillian; we could then expand use if we find the service useful.
+20:13 < bdale> so I don't see any problem with trying an alternate payment mechanism .. is there some reason to believe this needs board action or my explicit authorization?
+20:13 < jberkus> bdale: I don't belive the treasurer has blanket authorization to sign up for new payment methods
+20:13 < bdale> ok
+20:14 < jberkus> I'm not sure that would be a good idea, frankly
+20:14 < bdale> fair enough
+20:14 < bdale> ok, so I'm willing to give my permission .. would a vote by the board seem in order?  if so, make a resolution.
+20:15 < bdale> s/make/propose/
+20:15 -!- thb [~me@port-31780.pppoe.wtnet.de] has joined #spi
+20:16 < jberkus> resolved: that the treasurer be authorized to sign up for payment services via payoneer.com
+20:16 < bdale> any further discussion?
+20:16 < bdale> tbm: please call the vote
+20:17 < tbm> Voting started, 9 people (bdale,ganneff,tbm,schultmc,solver,linuxhiker,noodles,glp,zobel) allowed to vote on that the treasurer be authorized to sign up for payment services via payoneer.com. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 < bdale> !vote yes
+20:17 < tbm> !vote yes
+20:17 < schultmc> !vote yes
+20:17 < Solver> !vote yes
+20:17 < Noodles> !vote yes
+20:17 < Ganneff> !vote yes
+20:17 < glp> !vote yes
+20:17 < tbm> zobel?
+20:18 < tbm> Current voting results for "that the treasurer be authorized to sign up for payment services via payoneer.com": Yes: 7, No: 0, Abstain: 0, Missing: 2 ( linuxhiker  zobel )
+20:18 < tbm> Voting for "that the treasurer be authorized to sign up for payment services via payoneer.com" closed.
+20:18 < tbm> Note that linuxhiker is no there, so only 8 people were allowed to vote.
+20:18 < bdale> ok, thanks all.  any other new business?
+20:19 < bdale> [item 9, Next board meeting]
+20:19 < bdale> Our next regularly-scheduled monthly meeting would be 12 February 2015, 20:00 UTC.
+20:19 < bdale> Any strong objections?
+20:19 < bdale> looks ok to me
+20:19 < jberkus> btw, I'll hang out here if anyone wants to discuss Tendency/Stripe.com
+20:19 < jberkus> that's authorized already though, so no vote required
+20:19 < bdale> right
+20:19  * Ganneff has trouble being on time for 20UTC
+20:20 -!- Guest1183 [~badon@1CIAAEPRQ.tor-irc.dnsbl.oftc.net] has quit [Ping timeout: 480 seconds]
+20:20 < jberkus> if we've got IT vols here, I'd like to ask some setup questions
+20:20 < bdale> jberkus: post-meeting, please
+20:20 < jberkus> yah
+20:20 < bdale> Ganneff: bad enough trouble to want to consider a time change?
+20:21 < Ganneff> half an hour later would be great for me. (thats for about ever).
+20:21 -!- badon [~badon@1DVAAD8CM.tor-irc.dnsbl.oftc.net] has quit [Ping timeout: 480 seconds]
+20:21 < Ganneff> bdale: not sure what it means for others. if its not too hard to change...
+20:21 < bdale> would that be bad for anyone else?
+20:21 < Solver> No issue here
+20:21 < schultmc> works for me
+20:21 < glp> not a problem for me
+20:21 < Noodles> 8:30 UTC works for me ok.
+20:21 < bdale> ok .. let's try 12 Feb 2015 20:30 then
+20:21 < tbm> ok
+20:22 < Ganneff> thanks
+20:22 < bdale> tbm: please update the calendar to reflect 20:30 as our routine start time until further notice
+20:22 < bdale> Ok, thank you to everyone present for participating today.
+20:22 < bdale> *GAVEL*
