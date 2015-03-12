@@ -1,0 +1,272 @@
+20:31 < bdale> *GAVEL*
+20:31 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:31 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-03-12/
+20:31 < bdale> [item 2, Roll Call]
+20:31 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+20:31 < schultmc> Michael Schultheiss
+20:31 < zobel> Martin Zobel-Helas
+20:31 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+20:32 < bdale> Bdale Garbee
+20:32 < Solver> Robert Brockway
+20:32 < linuxhiker> Joshua D. Drake
+20:32 < tbm> Martin Michlmayr
+20:32 < zobel> quorum
+20:32 < tbm> I received regrets from Noodles and potential regrets from Ganneff and glp.
+20:32 -!- schue [~ean@24.173.68.3] has joined #spi
+20:32 < zobel> so lets go on?
+20:32 < bdale> yes, we'll proceed .. if any others join us, that's great
+20:33 < bdale> [item 3, President's Report]
+20:33 < bdale> Nothing to report.
+20:33 < bdale> [item 4, Treasurer's Report]
+20:33 < bdale> Michael?
+20:33 < schultmc> January report was just sent out and is in the agenda. February report is still being worked on
+20:33 < bdale> I haven't had time to review Jan yet .. anything worthy of note?
+20:33 < schultmc> We (SPI general fund) received an anonymous donation of $10,000 from a customer of Vanguard - thank you to our anonymous benefactor
+20:34 < bdale> wow
+20:34 < schultmc> other than that, nothing of note
+20:34 < bdale> thanks
+20:34 < zobel> Swathanthra Malayan Comp Earmark is at -1210.49
+20:34 < schultmc> that's due to GSoC funds not yet received
+20:34 < schultmc> they were received in February
+20:34 < bdale> yep, that happens with smaller projects
+20:34 < zobel> okay.
+20:35 < bdale> as long as we know why, I think it's ok
+20:35 < zobel> .48 to be more correct.
+20:35 < bdale> ok, anything else here?
+20:35 < schultmc> no
+20:35 < jberkus> schultmc: can we chat about this after the meeting? I feel like the GSOC funds should be tracked differently.
+20:35 < schultmc> jberkus: sure
+20:35 -!- badon [~badon@7KUAABF4X.tor-irc.dnsbl.oftc.net] has quit [Quit: Leaving]
+20:35 < bdale> cool, you guys talk offline, let us know if there's anything the board needs to act on
+20:35 < bdale> [item 5, Secretary's report]
+20:35 < bdale> Martin?
+20:35 < tbm> Everything is up to date.
+20:36 < tbm> I updated the trademarks page recently.
+20:36 < tbm> X.Org had some questions regarding updates to their by-laws recently.  Michael Schultheiss and I sent them some comments.
+20:36 < bdale> anything else?
+20:36 < tbm> no
+20:36 < bdale> ok, thanks
+20:36 < bdale> [item 6, Outstanding minutes]
+20:36 < bdale> Martin, I believe we have last month's to vote on today?
+20:36 < tbm> We have to vote on the February minutes:
+20:36 < tbm> http://spi-inc.org/meetings/minutes/2015/2015-02-12/
+20:37 -!- badon [~badon@1IYAAAA58.tor-irc.dnsbl.oftc.net] has joined #spi
+20:37 < tbm> Voting started, 6 people (bdale,tbm,schultmc,solver,linuxhiker,zobel) allowed to vote on Meeting minutes for Thursday 12 February 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:37 < zobel> !vote yes
+20:37 < bdale> !vote yes
+20:37 < linuxhiker> !vote yes
+20:37 < tbm> !vote yes
+20:37 < Solver> !vote abstain
+20:37 < schultmc> !vote yes
+20:37 < tbm> Current voting results for "Meeting minutes for Thursday 12 February 2015": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:37 < tbm> Voting for "Meeting minutes for Thursday 12 February 2015" closed.
+20:38 < bdale> thanks
+20:38 < bdale> [item 7, Items up for discussion]
+20:38 < bdale> [item 7.1, Elementary OS situation and board member accountability]
+20:38 < bdale> I posted some thoughts via email earlier today.  who wants to start here?
+20:39 < zobel> maybe someone wants to give a short summary. not everyone here might be on the according mailing list.
+20:39 < tbm> I agree with Bdale's email.  It would have been nice to issue a public statement earlier.  Now I think it's important to focus on the future
+20:39 < tbm> I like David Graham's proposal
+20:39 < tbm> regarding board accountability
+20:39 < tbm> We should also improve the director onboarding information & process.
+20:40 < Solver> tbm: definitely
+20:40 < bdale> there was a suggestion that David's proposal be tweaked, perhaps we can work on that via email with an eye towards a resolution on a future agenda?
+20:41 < bdale> with respect to the request from jberkus that we open a formal investigation, I'd like input from other board members 
+20:41 < jberkus> I believe there are 3 parts to this: (1) whether any remedial action by the board of SPI towards ElementaryOS and/or other parties is required; (2) some kind of formal review of board member Drake's actions to clear him of wrongdoing; (3) a possible amendment to the bylaws ala Graham's proposal.
+20:42 < jberkus> the board might want to deal with the three parts separately
+20:42 < bdale> fair enough
+20:43 < bdale> with respect to 1), I don't see any action needed, but I'm more than willing to be convinced if others feel differently
+20:43 < bdale> with respect to 2), I just solicited input from other board members
+20:44 < bdale> and with respect to 3), review and tweaking of David's proposal leading to a board vote next month or beyond seems fine
+20:45 < bdale> really?  no inputs / discussion here?
+20:45 < Solver> Re (1) I tend to agree with Bdale.  Joshua Drake has acknowledged mistakes made during the conduct of his interaction with ElementaryOS and has made (in my opinion) a genuine apology.
+20:46 < jberkus> regarding (1) I feel that someone on the board should contact elementaryOS and find out how they feel about the apology.
+20:46 < schultmc> A colleague of mine reached out to me on google+ and pointed me to the discussion. I notified Bdale privately and am satisfied with the conversation he had with Joshua Drake, and Joshua's apology.
+20:47 < schue> I have a comment.
+20:47 < bdale> schue: feel free
+20:47 < cdlu> If I may ... (3) is (1). Passing a resolution or by-law amendment makes it clear for the record that the actions were not condoned by the Board, regardless of individual's opinions on what happened or what was said, and sends a message to ElementaryOS and the community that we accept something may have happened and will endeavour to prevent it from happening again.
+20:47 < bdale> cdlu: good point
+20:47 < zobel> i agree with bdale on (2). what might we actually learn through additional investigation?
+20:48 < schue> It seems to me that SPI directors are elected on the basis of a platform they present which is, effectively, a collection of opinions.
+20:48 < tbm> I am also not sure I see the point of an investigation at this point given that linuxhiker apologized.
+20:48 < Solver> zobel.  i tend to agree with you on (2) The facts of the matter, with the exception of the call which was not apparently recorded, are out in the open for all to see.  The contents of the call would not be available to any given investigator.
+20:48 < schue> it seems to me that they need to be able to express opinions about SPI operations publicly in the same way that US Congressional representatives express opinions about legislation.
+20:49 < schue> so I don't even see that expressing an opinion, as a representative, is wrong let alone worth investigating.
+20:49 < cdlu> schue, a congressional representative represents the views of his or constituents to the congress, not the views of the congress to the people (at least that's how it's intended) so it doesn't necessarily flow.
+20:50 < bdale> as I stated in my email, it bothers me when things are taken to public places like google+ without any investigation or fact-checking being done first.  I am aware of no contact initiated by Daniel or anyone else at Elmentary OS to me or anyone else on the SPI board following the incident, for example.  But I guess that's the modern way.
+20:50 < schue> once a congressional representative is elected they have no obligation to take a vote from the consituancy on matters they later vote on.
+20:50 < jberkus> so, the normal way that (2) would be dealt with in a us corporation is for there to be a subcommittee of the board to review and judge board member actions, and pass recommendations
+20:50 < schue> now, if they diverge they may not get reelected.
+20:51 < cdlu> bdale, it certainly proves the effectiveness of social first, ask questions later.
+20:51 < bdale> jberkus: your call was for someone impartial, which seemed like a hard thing to find, though
+20:51 < cdlu> social media rather
+20:51 < jberkus> bdale: to be fair to ElementaryOS, they had never heard of SPI before and did not necessarily have any idea how to contact us.
+20:52 < jberkus> bdale: also, if one made the assumption that SPI was a sham organization, as ElementaryOS staff seem to have done, then there would be no point in making contact.
+20:52 < bdale> we're not in the first few google hits on "spi", 'tis true
+20:52 < bdale> jberkus: ok.  I'm not as inclined to form lots of opinions about what might have happened on scant data, and will remain disappointed, but your point is good
+20:52 < linuxhiker> jberkus: bdale: Daniel new the full name of the organization. He could have found us, easily
+20:52 < cdlu> could I propose that you seek the always reasonable advice of gmp?
+20:53 < bdale> gmp?
+20:53 < cdlu> greg pomerantz, your legal advisor.
+20:53 < schultmc> former legal advisor
+20:53 < schultmc> he hasn't been our legal advisor for a long time
+20:53 < cdlu> still shows him as current on the corporate/board page
+20:54 < bdale> oh, we should fix that .. I like Greg but haven't talked to him literally in years.
+20:54 < tbm> I'll fix it
+20:54 < bdale> thanks
+20:54 < schue> Its also my opinion that David's corrective motion is too vauge.
+20:54 < cdlu> schue, it isn't intended to resolve the current issue, only to prevent future ones.
+20:54 < bdale> schue: I'd welcome your input on that on the lists
+20:55 < schue> and the communication policy should be specific about the kinds of statements that can be made. the proposed language is basically "no public mention of SPI directorship can be made in conjunction with any kind of opinion".
+20:55 < schue> for sure.
+20:56 < bdale> there's clearly a distinction between including participation on SPI's board in biographical references, I talk about it when introducing myself at the start of talks sometimes, for example, from asserting that you're acting on behalf of SPI in some official capacity
+20:56 < cdlu> yes, even my campaign flyers mention my past involvement with SPI
+20:58 < bdale> in my first chat with JD about this shortly after the incident, I got the impression that Daniel really just misunderstood what the point of the contact was and the two of them never got over that hurdle during the rest of the call.  it was *not* clear to me that JD had done anything wrong relative to how he presented himself.  But without a recording or something, we can never know .. ergo the need to focus on being explicit about behavioral boundaries for th
+20:58 < bdale> e future
+20:58 < bdale> so, where are we
+20:58 < bdale> I see no need for overt action on 1), cdlu's point about action on 3 having value there is good
+20:59 < bdale> I think we should work on the proposed text and see if we can get to something that makes sense to vote on next month
+20:59 < bdale> we can do that in email
+20:59 < jberkus> bdale: I would still like someone from the board to contact ElementaryOS and let them know that SPI is taking their concerns seriously.
+20:59 < Solver> do any board members endorse an investigation in (2)?
+20:59 < cdlu> bdale, the simplest solution is for SPI to issue a simple statement to Elementary OS stating, effectively, that SPI is aware of the controversy and would not condone actions as described in their Google+ post, and apologises for any misunderstanding that may have taken place. 
+21:00 < bdale> ok, we can do that
+21:00 < linuxhiker> I guess where I am confused is: Should board members who are not officers stop talking to projects. I have been talking to projects for years. I even promote SPI on Social Media and in all of my talks etc... The board knows this.
+21:00 -!- bkuhnIdle is now known as bkuhn
+21:00 < linuxhiker> cdlu: bdale: Although the statement is not a bad idea, they have been pretty clear about being over the issue and not wanting to deal with it anymore (at least Daniel has been).
+21:01 < bdale> I saw that this morning
+21:01 < Solver> linuxhiker: an excellent question, re approaching projects
+21:01 < bdale> linuxhiker: so, to be honest, I have *never* approached a project on behalf of SPI.  I've responded to many, many approaches to SPI by projects.
+21:01 < cdlu> linuxhiker, that's fair, but it's damage control for relations with other projects as well. I don't know what happened exactly, but the objective is to say we didn't want it to happen the way it has been portrayed and shan't do it again. 
+21:01 < linuxhiker> bdale: And I have approached many including larger ones like CentOS
+21:02 < zobel> linuxhiker: that is absurd. then none of the directors would be able to bring in new resolutions for new projects.
+21:02 < linuxhiker> cdlu: sure
+21:02 < jberkus> there is also a strong difference between letting a project know that SPI is available, and expressing criticism of how a project is run as an SPI representative.
+21:02 < linuxhiker> jberkus: ahhh! good point.
+21:03 < cdlu> linuxhiker, I think there is a difference between approaching a project as a board member of SPI who thinks the project might be interested, and approaching a project as an envoy of SPI. I don't think anyone has a problem with that; it is clear that such a person cannot commit SPI to an action, while the latter appears to come from the organisation as an entity, not an individual as an acttive member of its administration.
+21:03 -!- aba [aba@000105d2.user.oftc.net] has joined #spi
+21:03 < cdlu> I also think it's impolitic for SPI to be criticizing other projects in any capacity; it isn't our role.
+21:04 < bdale> I think the crux here is expressing criticism after being identified with SPI
+21:05 < bdale> any other board members want to inject thoughts?
+21:06 < Solver> I would like to see guidance on whether it is permissable for board members to make projects aware of SPI and what it does
+21:06 < Solver> I have on occassion mentioned SPI and its services to projects informally, eg in irc channels.
+21:07 < jberkus> Solver: I would think that would be not just permissable, but recommended.  Not just for board members, but for all members.
+21:07 < bdale> I've certainly done that in various ways, and see no reason others can't continue to do so.  We don't need to "solicit", per se, but I've certainly been on panel discussions at conferences representing SPI, spoken with lots of project representatives about what we do, etc
+21:07 < aba> Solver: well, in some circumstances it is IMHO even required. but depends much on the situation
+21:07 < Solver> jberkus: as would I
+21:08 < bdale> if anything was wrong here, it was approaching a project while wearing an SPI hat, and then criticizing them
+21:08 -!- schultmc_ [~schultmc_@sapphire.amellus.net] has joined #spi
+21:08 < cdlu> Solver, promote SPI, talk about its member projects, promote open source, but do not engage in negative opinions or attacks on non-affiliated organisations in the name of SPI, I think is reasonable. 
+21:08 < bdale> I think cdlu's point that it's just not our job to criticize projects is pretty good
+21:08 < Solver> cdlu: seems very reasonable
+21:08 < tbm> agreed.
+21:09 < bdale> so, I think we have consensus around a boundary there, and we can work that into the resolution text
+21:09 < schue> what if a project is doing something bad?
+21:09 < jberkus> bdale: (back to (1)) please see updates in the g+ thread by Fore'.  I do not get the impression that Daniel Fore' feels mollified; I think that some official contact on behalf of the whole board is called for.
+21:09 < cdlu> keep in mind nowhere in any of this has anyone expressed an opinion for or against what linuxhiker is alleged to have said; it was only on whose behalf he was claimed to have said it.
+21:09 < jberkus> schue: then criticize it as an individual.  or the entire board can vote to do so as a unit.
+21:09 < aba> schue: if it is so bad you need to criticize as spi, get board approval first.
+21:09 < bdale> jberkus: I understand that you feel that way.  I said above that a statement from SPI to Elementary OS is something we can do.
+21:09 < zobel> well, not as spi board member. as debian developer i hopefully may critize Debian
+21:10 < tbm> Our fiduciary duty is towards SPI; we should work with SPI members if they do something questionable in the context of SPI, but not criticize unrelated projects.
+21:10 < jberkus> bdale: ok, thanks.
+21:10 < aba> zobel: but don't use an spi-in mail address for that :)
+21:10 < bdale> zobel: we all wear many hats
+21:10 < cdlu> as individuals you can even oppose vaccinating children. The question is only who you are speaking on behalf of.
+21:11 < bdale> ok, so we (I) have an action item for 1), and we have a plan and some related consensus about boundaries for 3).  what about 2)?
+21:11 < schue> what about topics where the board is of more than one mind?
+21:11 < zobel> vote on that?
+21:11 < linuxhiker> zobel: bdale: However as the board at least according to the by-laws: to endeavor to monitor and improve the quality of currently existing publicly available software; that pretty much means we can or should criticize (obviously not in a cowboy style though)
+21:11 < Solver> do any board members endorse an investigation, re (2)?  Do we want to put it to a vote?
+21:11 < schue> ie. as a SPI director I don't think SPI should be providing services to projects like "such and such".
+21:11 < cdlu> linuxhiker, then do it by board resolution and envoy. 
+21:12 < linuxhiker> cdlu: right (thus the not cowboy style)
+21:12 < aba> Solver: IMHO (2) is reasonable addressed with bdales report by mail already
+21:13 < bdale> others?
+21:13 < Solver> one comment
+21:14 < schultmc> I'm fine with a statement being released but don't think a formal investigation is warranted
+21:14 < Solver> re (2) a demand was made to the board for an investigation.  I think we need to respond to that explicitely.  a vote would resolve that - but it may not be necessary.  I'll defer to the present on that
+21:14 < Solver> *president
+21:14 < bdale> jberkus: would you like the board to vote on whether to pursue an investigation, or has the conversation here satisfied your request?
+21:16 < jberkus> bdale: given the ongoing arguments between Josh Drake and Daniel Fore (see https://plus.google.com/102950131233007237051/posts) I would like to see the board vote on a formal review.  I think the board should at least consider forbidding further contact between Drake and Fore.
+21:17 < zobel> jcristau: the posts are not public?
+21:18 < jberkus> huh?  I was just looking at a post.
+21:18 < Solver> zobel: was that intended for jberkus ?
+21:18 < zobel> jberkus: the posts are not public.
+21:18 < zobel> Solver: yes.
+21:18 < linuxhiker> This is the link you guys need: https://plus.google.com/u/0/+DanielFor%C3%A9/posts/DSGwCqZFbtS
+21:18 < zobel> Daniel hasn't shared anything with you.
+21:18 < zobel> People are more likely to share with you if you add them to your circles.
+21:18 < jberkus> here, direct link: https://plus.google.com/u/0/+DanielFor%C3%A9/posts/DSGwCqZFbtS
+21:19 < linuxhiker> I would also note that there isn't an ongoing argument. 
+21:19 < bdale> last comments were on the 10th and both parties seem inclined to stop the conversation
+21:19 < bdale> whether that qualifies as "mollified" is obviously open for interpretation
+21:21 < jberkus> well, you'll find out when you contact them.
+21:22 < aba> It looks to me as if both already agreed to not make further public comments
+21:22 < bdale> ok .. so to wrap this up, should we vote on whether to pursue a formal investigation?
+21:23 < tbm> sounds like we should.
+21:23 < Solver> it would settle the matter.  and jberkus has again indicated his desire that we do
+21:23 < zobel> bdale: from what i read from jberkus, yes
+21:24 < bdale> ok.  then let's vote on "Should a formal investigation of the interactions between Joshua Drake and Daniel Fore referencing SPI be initiated."  Sound ok?
+21:24 < jberkus> fine with me
+21:24 < tbm> Voting started, 6 people (bdale,tbm,schultmc,solver,linuxhiker,zobel) allowed to vote on Should a formal investigation of the interactions between Joshua Drake and Daniel Fore referencing SPI be initiated?. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:24 < linuxhiker> !vote abstain
+21:24 < Solver> !vote no
+21:24 < schultmc> !vote no
+21:24 < bdale> !vote no
+21:24 < tbm> !vote no
+21:24 < zobel> !vote no
+21:25 < tbm> Current voting results for "Should a formal investigation of the interactions between Joshua Drake and Daniel Fore referencing SPI be initiated?": Yes: 0, No: 5, Abstain: 1, Missing: 0 ()
+21:25 < tbm> Voting for "Should a formal investigation of the interactions between Joshua Drake and Daniel Fore referencing SPI be initiated?" closed.
+21:25 < bdale> ok, thanks
+21:25 < cdlu> what about a vote on issuing a statement?
+21:25 < bdale> I don't think we need a vote, but we can have one 
+21:26 < Solver> I think the president has sufficient authority to make such a statement on his own
+21:26 < linuxhiker> Solver: that's my take
+21:26 < cdlu> that's ironic.
+21:26 < bdale> "Should SPI's President issue a formal statement regarding the recent incident involving Elementary OS?"
+21:26 < Solver> nothing wrong with the board endorsing it, if that helps, of course.
+21:27 < bdale> I think I have the authority to do so, too, but I'm happy for there to be such a vote
+21:28 < zobel> i think we do not need a vote on that. i just think that bdale will do the right thing.
+21:28 < bdale> ok, then unless someone wants to call a vote, I suggest we close this topic and move on?
+21:29 < Solver> let's close it
+21:29 < tbm> sounds good.
+21:29 < bdale> [item 7.2, Trademark renewal and record keeping]
+21:29 < bdale> who's item is this?
+21:29 < tbm> I'd like to ask how trademark renewals are handled.  SFLC pointed out that they won't send reminders regarding required trademark renewals.
+21:29 < tbm> Do we have a process in place to keep track of filing requirements?
+21:30 < Solver> tbm: I extended the info on the trademark page on the website with the intention that it hold authoritative information on dates of renewal, etc.
+21:30 < Solver> I see you've been following the same pattern.  excellent.
+21:30 < Solver> we have no notification process as far as I am aware
+21:31 < bdale> I don't think we've ever had any strong technology solution or anything like that.  
+21:31 < tbm> Ok, I can implement a script that will send out reminders.
+21:31 < zobel> that runs where?
+21:32 < tbm> I guess we could run it as a cronjob on the SPI server
+21:32 < zobel> please, yes.
+21:32 < tbm> ok
+21:32 < Solver> one of the spi servers?  we need to make sure this is not subject to bitrot.  if it runs infrequently it is at risk.  We'd probably want it to issue regular reports
+21:32 < tbm> agreed.
+21:32 < tbm> I'll look into it.
+21:32 < tbm> I also noticed that trademark registration certificates can be downloaded from the USPTO web site.
+21:33 < tbm> I'll add them to the public "board" repo so we have a copy just in case.
+21:33 < zobel> and now we need a cronjob that monitors the presence of those up2date public statements.
+21:33 < zobel> bdale: I have one AOB.
+21:34 < bdale> [item 8, Any other business]
+21:34 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:34 < bdale> zobel: go
+21:34 < zobel> contrary to my last month statement, i currently lack time to go on with godotengine.org
+21:34 < zobel> if any other board member could take over that would be helpful
+21:34 < zobel> communication has all been copied to the board.
+21:34 < zobel> </done>.
+21:35 < bdale> who wants to take that up?
+21:35 < tbm> I looked at the emails a while ago but didn't see any required action on our side.  Seems like we're waiting for them.
+21:35 < tbm> if that's incorrect, I can follow up.
+21:36 < bdale> tbm: if you're willing to take "ownership" of the relationship from zobel, that's great, and you guys can confer about it offline?
+21:36 < tbm> ok
+21:36 < bdale> great, thanks
+21:36 < bdale> anything else?
+21:36 < bdale> [item 9, Next board meeting]
+21:36 < bdale> Our next regularly-scheduled monthly meeting would be 9 April 2015, 20:30 UTC.
+21:36 < bdale> Any strong objections?
+21:37 < bdale> Ok, thank you to everyone present for participating today.
+21:37 < bdale> *GAVEL*
