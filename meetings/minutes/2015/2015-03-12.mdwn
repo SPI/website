@@ -1,0 +1,162 @@
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Michlmayr (tbm) (Secretary)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxhiker)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Jonathan McDowell (Noodles)
+* Gregers Petersen (glp)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Josh Berkus (jberkus)
+* Luca Filipozzi (luca)
+* David Graham (cdlu)
+* H W Tovetjärn (totte)
+
+
+These are the minutes for the March 12th, 2015 SPI Board Meeting,
+held at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2015/2015-03-12-log.txt).
+
+
+## President's Report
+
+Bdale Garbee had nothing to report.
+
+
+## Treasurer's report
+
+Michael Schultheiss has published the January treasurer's report and is
+working on the February report.
+
+The SPI general fund received an anonymous donation of $10,000.
+
+Martin Zobel-Helas asked why the earmark for Swathanthra Malayalam
+Computing was negative.  Michael explained that this is due to GSoC funds
+not yet received.  Josh Berkus felt that GSoC funds should be tracked
+differently and would talk to Michael about this later.
+
+
+## Secretary's report
+
+Martin Michlmayr expressed that the minutes and web site were up to date.
+He made some updates to the trademark pages.  X.Org had some questions
+regarding updates to their by-laws recently.  Michael Schultheiss and
+Martin Michlmayr sent them some comments.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 12th February 2015:
+
+<table><tbody>
+<tr><td>Robert Brockway</td><td>Abstain</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes</td></tr>
+<tr><td>Bdale Garbee</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 5 yes, 1 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Elementary OS situation and board member accountability
+
+Josh Berkus asked the Board to consider the following three issues:
+
+1. whether any remedial action by the board of SPI towards Elementary OS and/or other parties is required;
+2. some kind of formal review of board member Drake's actions to clear him of wrongdoing;
+3. a possible amendment to the bylaws a la David Graham's proposal.
+
+The Board observed that the discussion had settled and that no remedial action
+was required.  The Board debated voting on whether the SPI President should
+issue a formal statement but agreed to leave the decision to the President.
+(Bdale Garbee as President sent a statement to the Elementary OS council after
+the Board meeting.)
+
+The Board agreed to work on a resolution on board member accountability based
+on David Graham's proposal.
+
+The Board voted on the question: Should a formal investigation of the
+interactions between Joshua Drake and Daniel Foré referencing SPI be initiated?
+
+<table><tbody>
+<tr><td>Robert Brockway</td><td>No</td></tr>
+<tr><td>Joshua D. Drake</td><td>Abstain</td></tr>
+<tr><td>Bdale Garbee</td><td>No</td></tr>
+<tr><td>Martin Michlmayr</td><td>No</td></tr>
+<tr><td>Michael Schultheiss</td><td>No</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>No</td></tr>
+</tbody></table>
+
+Motion failed with a vote of 0 yes, 5 no, 1 abstain, 0 missing.
+
+### Trademark renewal and record keeping
+
+Martin Michlmayr asked what kind of process was in place to handle trademark
+renewals.  Robert Brockway explained that he had been adding information to the
+SPI trademark page with the intention that it hold authoritative information on
+dates of renewal, etc.
+
+Martin offered to write a script to remind the Board of filing deadlines.
+He'd also add trademark registration certificates, which can be downloaded
+from the USPTO web site, to a Git repo.
+
+
+## Any other business
+
+Martin Zobel-Helas asked for a volunteer from the Board to follow up with a
+prospective member project since he lacks the time.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, April 9th, 2015 at 20:30 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2013<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2013<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td></tr>
+<tr><td>July 2013<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2013<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2014<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2014<br /></td><td>Gregers Petersen</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2015 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
