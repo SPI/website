@@ -1,0 +1,145 @@
+21:31 < bdale> *GAVEL*
+21:31 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:31 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-05-14/
+21:31 < bdale> [item 2, Roll Call]
+21:31 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:31 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:31 < schultmc> Michael Schultheiss
+21:31 < bdale> Bdale Garbee
+21:31 < glp> Gregers Petersen
+21:31 < tbm> Martin Michlmayr
+21:32 < zobel> Martin Zobel-Helas
+21:32 < tbm> I received regrets from Solver
+21:32 < Noodles> Jonathan McDowell
+21:33 < bdale> so we're missing Ganneff and linuxhiker?
+21:33 < linuxhiker> Joshua D. Drake
+21:33 < bdale> cool
+21:33 < Ganneff> Joerg Jaspert
+21:33 < bdale> yay!
+21:33 < bdale> [item 3, President's Report]
+21:33 < bdale> When I served on the CELF board a few years ago, I was aware that key office and financial services were provided through a contract with a third-party management organization.
+21:33 < bdale> Curious to learn whether such an arrangement might make sense for SPI, I've opened several conversations in recent weeks searching for possibilities.  While I have nothing useful
+21:33 < bdale> to report yet, I at least wanted to make the rest of the board aware that I'm trying to work on this, and possibly trigger further discussion for AOB.
+21:34 < bdale> [item 4, Treasurer's Report]
+21:34 < bdale> Michael?
+21:34 < schultmc> Reports for March and April 2015 were sent out and are in the agenda. I'd like to publicly thank the Craigslist Foundation for their generous donation of $50,000 ($25,000 to SPI and $25,000 to PostgreSQL).
+21:34 < bdale> aha, I was going to ask where the big general fund contribution came from
+21:34 < schultmc> The Debian Project also received a $20,000 donation from a periodic donor. Nothing else of note
+21:35 < tbm> Did we apply for an automatic extension for the tax return?  afaik it's due May 15.
+21:35 < bdale> ok, great .. I made note to speak with Maulkin about the magnitude of the current holdings for Debian
+21:35 < schultmc> yes, the extension was applied for and our 990 will be filed by August 15
+21:36 < bdale> good
+21:36 < bdale> any other questions for Michael?
+21:36 < tbm> and is it possible to upload 990 from 2013 and 2014 to our web site?  I believe I asked about this before
+21:36 < tbm> sorry, 2013 only
+21:36 < tbm> obviously 2014 is not done
+21:36 < schultmc> one other think of note, bgupta and I are working on finalizing the ability for SPI and Debian to take donations via Paypal
+21:36 < schultmc> yes, I'll get the 2013 990 uploaded to our website
+21:37 < tbm> thanks!
+21:37 < bdale> [item 5, Secretary's report]
+21:37 < bdale> Martin?
+21:37 < tbm> I updated the trademark page.
+21:37 < tbm> I also finished all outstanding minutes (March 12 and April 9)
+21:37 < tbm> Nothing else to report.
+21:37 < bdale> ok, thanks
+21:38 < bdale> [item 6, Outstanding minutes]
+21:38 < bdale> Martin, I believe we have two sets to approve today?
+21:38 < tbm> yes, March 12 and April 9
+21:38 < bdale> I've read both
+21:38 < tbm> I sent a link to the March minutes so hopefully everyone had a look already.
+21:38 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 12 March 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:39 < schultmc> !vote yes
+21:39 < Noodles> !vote abtain
+21:39 < tbm> !vote yes
+21:39 < Ganneff> !vote abstain
+21:39 < linuxhiker> !vote yes
+21:39 < bdale> !vote yes
+21:39 < Ganneff> Noodles: +s
+21:39 < glp> !vote yes
+21:39 < zobel> !vote yes
+21:39 < tbm> Current voting results for "Meeting minutes for Thursday 12 March 2015": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( noodles )
+21:39 < tbm> Voting for "Meeting minutes for Thursday 12 March 2015" closed.
+21:39 < Noodles> Ooops.
+21:39 < tbm> I'll fix that in the minutes
+21:39 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 9 April 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:39 < Ganneff> !vote yes
+21:39 < Noodles> !vote yes
+21:39 < tbm> !vote yes
+21:39 < glp> !vote yes
+21:40 < linuxhiker> !vote yes
+21:40 < bdale> !vote abstain
+21:40 < schultmc> !vote yes
+21:40 < zobel> !vote abstain
+21:40 < tbm> Current voting results for "Meeting minutes for Thursday 9 April 2015": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:40 < tbm> Voting for "Meeting minutes for Thursday 9 April 2015" closed.
+21:40 < bdale> ok, thanks
+21:40 < bdale> [item 7, Items up for discussion]
+21:40 < bdale> [item 8, Any other business]
+21:40 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:40 < tbm> Did anyone (Bdale?) submit a talk/BOF at DebConf?
+21:40 < Noodles> We have elections coming up in just over a month.
+21:41 < bdale> I think I put in for a BOF
+21:41 < zobel> Debian has a new Project Leader, Maulkin.
+21:41 < Noodles> An ex-SPI secretary. :)
+21:42 < bdale> tbm: and I think you reported elsewhere that OSI has a new pres too?
+21:42 < tbm> Allison Randal was elected OSI president a few days ago
+21:42 < tbm> Noodles: thanks for the reminder.  I'll check the timeframe and post a call for nominations
+21:42 < tbm> Did we want to remove inactive members before the election?
+21:42 < Noodles> I am not intending to stand for re-election.
+21:43 < Noodles> I don't believe there's any particular need to remove inactive members beforehand; we've not had a problem meeting quota for board elections.
+21:43 < bdale> Noodles: thank you *very* much for your service
+21:43 < tbm> We should also encourage candidates from different projects.
+21:43 < bdale> yes, we should
+21:43 < zobel> tbm: yes!
+21:43 < bdale> who else's term ends this year?
+21:43 < linuxhiker> we should encourage from the entire member pool imo
+21:43 < Ganneff> umm, whos going out this round?
+21:44 < schultmc> July 2012
+21:44 < schultmc> Michael Schultheiss	Treasurer
+21:44 < schultmc> July 2012
+21:44 < schultmc> Jonathan McDowell
+21:44 < tbm> schultmc: are you planning to run again?
+21:44 < schultmc> yes
+21:45 < tbm> schultmc: can you document how the current bookkeeping process works?  (see my recent mail on this)
+21:45 < bdale> ok, tbm will put out a call for nominations and timeline .. how else do we want to publicize this?
+21:45 < zobel> bdale: are you submitting a BoF for DC15?
+21:46 < schultmc> yes, I'll send out a response shortly
+21:46 < bdale> zobel: I think I already did, but I'll have to confirm that
+21:46 < zobel> ok
+21:47 < bdale> any questions or comments about my reported activity looking at paid help alternatives?
+21:47 < tbm> sounds good to me, but I'd like to better understand how our current bookkeeping process works.
+21:48 < linuxhiker> bdale: well I have some experience with this
+21:48 < schultmc> I'm not opposed to having paid help if we can get results - I haven't been impressed with our current bookkeepers, although they recently assigned us a new bookkeeper
+21:48 < linuxhiker> bdale: but we don't have to talk about it here
+21:48 < linuxhiker> one thing I don't want is to cheap it, we should provide a good fee, for good work
+21:49 < bdale> the thing I'd like to avoid, frankly, is having to provide management oversight if we start paying individuals
+21:49 < linuxhiker> bdale: then we have to hire a vendor (for example, our bookkeepers)
+21:49 < linuxhiker> bdale: if we hire an individual, there is management. There is no way around it
+21:49 < bdale> right, which is why I'm looking at alternatives for that
+21:50 < bdale> the firm CELF used seemed expensive to me at the time, but the long lens of history has me thinking maybe it wasn't such a bad deal.  the investigation is only just begun, though, hopefully I'll more to report by next meeting.
+21:51 < glp> what is the estimated workload for the bookkeeping?
+21:51 < glp> number os hours?
+21:51 < glp> os/of/
+21:51 < bdale> well, it's not just book keeping
+21:51 < bdale> but, still, a great question I personally can't answer
+21:52 < schultmc> in order to draft a treasurer's report it takes me 2-5 hours per month
+21:53 < bdale> the bigger question in my mind is how we're going to handle things like gsoc in the future
+21:54 < bdale> so I think what we need is partly what I think of as book keeping and partly as administrative support
+21:54 < linuxhiker> bdale: a key word is "back office"
+21:54 < bdale> in any case, trying to talk about stuff like this spontaneously in an IRC meeting has never worked well
+21:55 < Noodles> For administrative support we'd need some more documentation about various things other than just the book keeping.
+21:55 < bdale> I'd be pleased to hear from anyone who has thoughts, and hopefully I will have learned enough to provide something more useful by way of a report next month
+21:55 < glp> this gives me some pointers for thinking
+21:55 < bdale> yes, process documentation is an issue, but I suspect that we won't ever address it until / unless we hit a need
+21:56 < Noodles> Yes, agreed.
+21:56 < bdale> trying to ramp someone up as paid help is a less traumatic kind of need than losing someone who currently does things, so I want to be as proactive as we can from here forward
+21:56 < Noodles> But I note that even when we have had a need there is still the problem of finding the extra time to provide the information.
+21:56 < bdale> true enough
+21:56 < bdale> ok.  any other topics for today?
+21:57 < bdale> [item 9, Next board meeting]
+21:57 < bdale> Our next regularly-scheduled monthly meeting would be 11 June 2015, 20:30 UTC.
+21:57 < bdale> Any strong objections?
+21:57 < Noodles> WFM.
+21:57 < bdale> Ok, thank you to everyone present for participating today.
+21:57  * zobel would like to suggest, we appoint someone before the next AGM to do some sort of book keeping audit
+21:57 < bdale> *GAVEL*
