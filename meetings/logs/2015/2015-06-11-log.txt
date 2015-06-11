@@ -1,0 +1,226 @@
+21:34 < tbm> *GAVEL*
+21:34 < tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:35 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2015/2015-06-11/
+21:35 < tbm> [item 2, Roll Call]
+21:35 < tbm> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:35 < schultmc> Michael Schultheiss
+21:35 < tbm> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:35 < Noodles> Jonathan McDowell
+21:35 < Solver> Robert Brockway
+21:35 < zobel> Martin Zobel-Helas
+21:35 < linuxhiker> Joshua D. Drake
+21:35 < tbm> Martin Michlmayr
+21:35 < Ganneff> Joerg Jaspert
+21:35 < tbm> I received regrets from Bdale.
+21:35 < Noodles> Sneaky Ganneff.
+21:35 < glp> Gregers Petersen
+21:36 < tbm> [item 3, President's Report]
+21:36 < tbm> none and Bdale is not here
+21:36 < tbm> [item 4, Treasurer's Report]
+21:36 < schultmc> Standard report was emailed out and is in the agenda. Nothing notable to report.
+21:36 < tbm> Any questions for Michael?
+21:37 < Noodles> Me.
+21:37 < Noodles> Is the fact "Fifth Third Business Elite Checking" turns up twice just an error?
+21:37 < schultmc> no
+21:37 < Noodles> 2 accounts with the same amount then?
+21:37 < schultmc> there are 2 accounts, one for spi's general paypal account, one for debian's paypal account
+21:37 < schultmc> they're both the same type of bank account
+21:37 < Noodles> Ah, right. Makes sense.
+21:37 < schultmc> I can update future reports to not use the account type to help prevent confusion
+21:38 < Noodles> Perhaps useful to just have (SPI) and (Debian) after them?
+21:38 < schultmc> sure
+21:38 < tbm> Anything else?
+21:39 < tbm> [item 5, Secretary's report]
+21:39 < tbm> The minutes are up to date.  Nothing else to report.
+21:39 < tbm> [item 6, Outstanding minutes]
+21:39 < tbm> We have to approve the May minutes:
+21:39 < tbm> http://spi-inc.org/meetings/minutes/2015/2015-05-14/
+21:40 < tbm> Voting started, 8 people (ganneff,tbm,schultmc,solver,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 14 May 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:40 < Ganneff> !vote yes
+21:40 < Solver> !vote abstain
+21:40 < linuxhiker> !vote yes
+21:40 < zobel> !vote yes
+21:40 < schultmc> !vote yes
+21:40 < Noodles> !vote yes
+21:40 < tbm> !vote yes
+21:40 -!- bkuhn is now known as bkuhnIdle
+21:40 < glp> !vote yes
+21:41 < tbm> Current voting results for "Meeting minutes for Thursday 14 May 2015": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:41 < tbm> Voting for "Meeting minutes for Thursday 14 May 2015" closed.
+21:41 < tbm> [item 7, Items up for discussion]
+21:41 < tbm> 1) Resolution 2015-06-11.jdd.1: Sponsorship of travel to PostgreSQL conference in Cuba
+21:41 < tbm> Any discussion?
+21:41 < tbm> I added linuxhiker's resolution to the agenda (with minor edits)
+21:41 < tbm> http://spi-inc.org/meetings/agendas/2015/2015-06-11/
+21:41 < Solver> Have we spoken to SFLC directly?
+21:41 < schultmc> the resolution doesn't seem as detailed as the legal advice, other than that I don't have any feedback
+21:42 < schultmc> I'd prefer "limitations set forth" explicitly listed in the resolution
+21:43 < tbm> linuxhiker, can you comment?
+21:43 < Solver> And was tbm's query about the difference between travel and the conference sorted out?
+21:43 < linuxhiker> I don't have a problem if we want to amend the resolution, that's why I asked for help
+21:43 < linuxhiker> Solver: yes it was
+21:43 < zobel> Solver: yyes.
+21:43 < Solver> ok thanks
+21:43 < linuxhiker> The thing about this resolution
+21:44 < linuxhiker> It bothers me. I want to support Cuba but the U.S. history surrounding it makes me feel sketchy. I will be abstaining on vote. This is why I asked for SPI approval as a two factor
+21:44 < linuxhiker> so if we need to amend the resolution to be more strict, please someone do so
+21:45 < Solver> I'd like to pass the exact wording of a resolution past SFLC.  I'm not American but I understand the Cuban trade embargo is not something to be triffled with.
+21:45 < tbm> Solver: my understanding is that Josh Berkus spoke to SLFC and linuxhiker forwarded the guidance Josh received from SFLC; but afaik the board did not speak to SFLC.
+21:45 < tbm> linuxhiker, is that correct?
+21:46 < linuxhiker> Solver: tbm: that is correct, I was also not privy to any discussion Berkus had until the request came across my desk
+21:46 < schultmc> http://www.postgresql.org/about/events/ lists the cuban event in october - hopefully we can amend the resolution by the next meeting without causing much of a delay
+21:46 < Solver> I recommend we defer a vote to allow time to consult with SFLC.  We can vote between meetings via email.
+21:46 < Solver> I believe there is some urgency on this.
+21:47 < glp> I support Solver on this
+21:47 < tbm> who takes the action item to speak with SFLC?
+21:47 < zobel> i would suggest, that schultmc should do that, as he will be the one doing the finacial transactions.
+21:47 < zobel> schultmc: sorry :)
+21:47 < schultmc> sure, I can do that
+21:47 < tbm> ok
+21:47 < schultmc> no problem
+21:48 < tbm> schultmc will discuss the resolution with SFLC and then we'll do a vote by email
+21:48 < linuxhiker> alright, I am fine with that
+21:48 < tbm> They need to know "by early July", so this should work
+21:48 < zobel> WFM
+21:48 < tbm> right linuxhiker?
+21:48 < tbm> ok
+21:48 < tbm> 2) Audit of SPI financials
+21:48 < tbm> zobel?
+21:48 < zobel> I mostly wrote down everything in <20150514220218.GA32542@ftbfs.de>, which went to board@ and spi-general@. I want to outline that this is not about not trusting Michael Schultheiss or our Book Keeper. The idea behind this is to have some sort of audit that both of them work correctly and we can trust them. In the ideal world an external person (not board member) would do such an audit, but i think if needed we can also do that internaly.
+21:48 < zobel> My general concern is that we have a lot of money nowadays (approx. 841k USD) and i would like to show that we work trustworthy with the money we hold in trust.
+21:49 < zobel> i am a bit concerned that we received very few feedback on this..
+21:49 < linuxhiker> zobel: I don't have a problem with having a CPA audit our books and I think if we are going to do it, it should be a CPA
+21:49 < schultmc> audits in the US are typically done by Certified Public Accountants
+21:49 < linuxhiker> zobel: but I also don't see a pressing need as we are very transparent and up to date with our books now
+21:49 < tbm> NYS also has rules when a formal audit is required and I believe it relates to the amount of money we have.  Is that something that impats us, schultmc?
+21:49 < schultmc> not currently
+21:50 < schultmc> it's based on how much of our funds are raised from NYS
+21:50 < tbm> oh, ok
+21:50 < schultmc> we haven't hit the required audit threshold yet
+21:50 < schultmc> it's certainly a good idea to have periodic audits though
+21:50 < zobel> in the past, we received several questions from projects about details on money transactions.
+21:50 < linuxhiker> I would note that an audit proper would probably cost upwards of 20k
+21:50 < tbm> but we keep track of funds from NYS vs from other locations?
+21:50 < schultmc> yes
+21:50 < Solver> yes it can't hurt if we commence audits before we're required to.
+21:51 < tbm> I think what zobel is looking for is more like a review rather than a formal audit.
+21:51 < zobel> i am not sure if we were able to give answers t those questions.
+21:51 < tbm> I also asked questions about how our accounting process works and didn't get any answers
+21:52 < zobel> tbm: you as Debian Auditor IIRC
+21:52 < tbm> I'm worried what would happen if schultmc got hit by a bus
+21:52 < tbm> zobel mentioned that schultmc mentions a spreadsheet. Is that accessible to board members?
+21:53 < schultmc> bkuhnIdle and I spoke at FOSSETCON last year - he's willing to help me get our data into ledger-cli
+21:53 < schultmc> I can make the spreadsheets available in the board repo - it'd be better to have ledger-cli though
+21:54 < tbm> it would be great if you could make the spreadsheets available, and maybe we can then figure out how to go from here to ledger-cli
+21:54 < schultmc> I can do that
+21:55 < zobel> schultmc: while i was able to 'audit' most of the outgoing transactions, i still try to understand the more interesting part, the incoming ones.
+21:56 < zobel> schultmc: from what i understood from the US financial system is, that SPI still receives a lot of paper checks.
+21:56 < schultmc> I've got scans of all incoming checks
+21:56 < schultmc> I'll make those available
+21:56 < Solver> We have the board-private repo for anything sensitive
+21:57 < schultmc> credit card donations have CSVs I can export
+21:57 < schultmc> I'm adding stuff to board-private
+21:57 < Solver> great thnx
+21:57 < tbm> great!
+21:57 < zobel> Solver: yes, i worked already on those.
+21:57 < zobel> for 2012 and 2013 IIRC
+21:57 < Solver> yeah I remember the hard work you put in.
+21:58 < tbm> once we have all that info in the board-private repo, I can take a look to see how we could migrate to ledger and send my comments to schultmc 
+21:58 < linuxhiker> also, the way that CMD avoids having to audit is that we work with the cpa every month
+21:58 < schultmc> sounds good - I should be able to get the data copied over in the next day or so
+21:58 < linuxhiker> yes, we spend a good 6-8k a year on the CPA but it makes us crispy clean
+21:58 < zobel> so should we appoint/assign someone to do the review rather before it comes to an official audit by authorities?
+21:59 < schultmc> we spend a decent amount on the bookkeeper without much benefit at the moment - I'll work with them to make sure we're getting periodic reports
+21:59 < tbm> what do the bookkeepers actually do?  do they prepare the spreadsheet?
+22:00 < linuxhiker> tbm: my guess is reconcilation?
+22:02 < schultmc> yes, reconciliation
+22:03 < tbm> ok, schultmc will add his materials to the git repo and then we can see how to go from there
+22:03 < tbm> Ok or anything else?
+22:04 < schultmc> nothing from me
+22:04  * schultmc needs to leave shortly but can follow up via email
+22:04 < tbm> [item 8, Any other business]
+22:04 < zobel> tbm: so no direct review/audit for now, right?
+22:04 < Noodles> I've got something.
+22:04  * Ganneff has something
+22:04 < tbm> zobel: first we need the data
+22:05 < zobel> tbm: ok
+22:05 < tbm> then we can decide what to do
+22:05 < tbm> anyway, while this is an important topic, I don't want to take up too much time today
+22:05 < tbm> so let's take this offline
+22:05 < tbm> Noodles, please go ahead
+22:05 < Noodles> I've been working on a rewrite of the creaking members site.
+22:05 < Ganneff> yay
+22:05 < Noodles> My hope is to get it done before the end of the month, so it can be used for the board election.
+22:06 < Solver> excellent
+22:06 < Noodles> And then to finally do the member cleanup after the election.
+22:06 < Noodles> It's in Python/Flask, uses the existing PostgreSQL backend and is targetting things from Debian 8 (jessie).
+22:06 < Noodles> So it will need an update of the current machine before it can be rolled out.
+22:06 < tbm> regarding the election, I'll send out the timeline soon
+22:07 < linuxhiker> Noodles: ty for not making me yell at your for not using PostgreSQL :P
+22:07 < Ganneff> Noodles: ack, on my list
+22:07 < tbm> sounds great, Noodles!
+22:07 < Noodles> But I've pretty much got all the functionality working excluding the vote stuff, which is actually a separate code base.
+22:07 < Noodles> linuxhiker: It's a real database. Why would I not use it? ;)
+22:07 < Noodles> (though I've been using sqlite a bit for local testing because it's much easier, but a PITA)
+22:07 < linuxhiker> Noodles: yes, sqlite is awesome for prototyping and specialty applications but a PostgreSQL it is not
+22:07 < Noodles> Ganneff: Thanks; I know you'd said it was doable but I am actually making reasonable progress so it should happen.
+22:08 < Ganneff> Noodles: it will. i try this weekend during noon sleep time of $kids, latest early next week.
+22:09 < tbm> Ganneff, you had another topic for discussion?
+22:09 < Ganneff> yep
+22:09 < Ganneff> we got a mail to officers@ which i want to paste the most important parts from here and have other people comment on.
+22:09 < Ganneff> Subject: SPI CA cross-signing DNS Root Key
+22:09 < Ganneff> Hi fellow SPI officers,
+22:09 < Ganneff> I was asked by KSK Rollover team to ask you, whether it would be
+22:09 < Ganneff> possible to get a (new) DNSKEY material for root zone (cross-) signed by
+22:09 < Ganneff> SPI CA (e.g. this material https://www.iana.org/dnssec/files)
+22:09 < Ganneff> This would be good to increase overall trust in the keying material.
+22:09 < Ganneff> ive got my own opinion, but would like to hear others first
+22:10 < Ganneff> (ups, erm. mails last sentence is "This would be good...")
+22:10 < linuxhiker> Ganneff: can you explain a bit further? Are they asking if we are interested in being a root zone cross signer?
+22:10 < Noodles> What are we using our own CA for at present?
+22:10 < Ganneff> Noodles: hand out certs for ourselfs and projects that ask for.
+22:10 < Noodles> I had been wondering if we should get a mafia cert for members, to increase accessbility to people.
+22:11 < Ganneff> we also used it to give debian an own "sub" ca (which allows them to do a LOAD with it in our name)
+22:11 < Ganneff> (though debian switches to mafia stuff a lot nowadays)
+22:11 < Solver> wildcard?
+22:11 < zobel> no.
+22:11 < Ganneff> Solver: no, they have an own ca, signed by us
+22:11 < zobel> one per service.
+22:11 < Ganneff> and debians mafia is one per service, gandi, sponsored
+22:11 < zobel> ah.
+22:12 < Solver> Could we approach Gandi too?
+22:12 < Ganneff> linuxhiker: the above is what i have. from that text, yes, they want us to cross sign them.
+22:12 < Ganneff> Solver: wrong topic
+22:12 < linuxhiker> Ganneff: I am embarrassed but are you saying we (SPI) are an actual CA? We are trusted? Meaning postgresql.org could have https:// via SPI and we wouldn't get strange browser issues?
+22:12 < Ganneff> Solver: mafia cert or not for us is something else.
+22:12 < Ganneff> linuxhiker: we are a CA. we are not in browsers by default. various distros have our cert in their stores
+22:14 < Ganneff> the CA is run by me. while i did a lot to not lose the key and bla, its not near the audits and crap (and backed by the money they want) you need to get into browser default stores.
+22:14 < linuxhiker> I guess I would want to hear if there are any downsides but with the information you have provided I don't have a problem with it
+22:15 < Ganneff> back to the topic. what they asked is that our CA cross signs DNSKEY material for root zones. while i feel honored to get asked this, i fear this may make it a way bigger target than what it is now
+22:15 -!- bkuhnIdle is now known as bkuhn
+22:15 < Noodles> Is someone going to sign our CA then?
+22:15 < zobel> Ganneff: how will requests be handled for that in future? only by you?
+22:15  * schultmc has to leave - I'll check the backlog later
+22:15 < Solver> Can we defer discussion for email.  I'd like to think about it a bit more.
+22:16 < Ganneff> zobel: thats the current way. not important to this, i think.
+22:16 < Ganneff> and yes, i can out it onto the -private list
+22:16  * bkuhn sees mention in backlog, and yes, I'm still willing to help SPI transition to Conservancy's ledger-cli based system.
+22:16 < Ganneff> tbm: go on
+22:17 < tbm> Anything else?
+22:17 < tbm> [item 9, Next board meeting]
+22:17 < zobel> Ganneff: well, i 'dislike' the idea that this is done in a 'one-man-show' (yes, that is over-the-top, but you get what i mean).
+22:17 < tbm> Our next monthly meeting would be 9 July 2015, 20:30 UTC.  This will be the Annual General meeting.
+22:17 < tbm> Are there any objections?
+22:17 < linuxhiker> wfm
+22:17 < zobel> 20:30?
+22:17 < Ganneff> zobel: thats how it is, but i think thats secondary to this discussion
+22:18 < zobel> can we move that back to 2000?
+22:18 < zobel> or was that bad for Solver?
+22:18 < tbm> we moved because of Ganneff 
+22:18 < Solver> that's back to 6am my time I think.  That's fine thanks.
+22:19 < Ganneff> half an hour earlier SHOULD be workable, though today i would have missed it, just made it out in time
+22:19 < Solver> I'm happy either way.
+22:19 < linuxhiker> gotta go, next meeting on either time works for me
+22:20 < tbm> Let's keep it at 20:30 UTC.  Ganneff and zobel can talk offline and let me know if we should change back to 20:00 UTC.
+22:21 < tbm> Ok, thanks everyone!
+22:21 < tbm> *GAVEL*
