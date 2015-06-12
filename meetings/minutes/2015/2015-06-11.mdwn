@@ -1,0 +1,192 @@
+__Board members present__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Michlmayr (tbm) (Secretary)
+* Robert Brockway (Solver)
+* Joshua D. Drake (linuxhiker)
+* Jonathan McDowell (Noodles)
+* Gregers Petersen (glp)
+* Martin Zobel-Helas (zobel)
+
+
+__Board partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Bdale Garbee (bdale) (President)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bill Allombert (yp17)
+
+
+These are the minutes for the June 11th, 2015 SPI Board Meeting,
+held at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2015/2015-06-11-log.txt).
+
+
+## President's Report
+
+Bdale Garbee was not present, so there is no report from the President.
+
+
+## Treasurer's report
+
+Michael Schultheiss has published the May treasurer's report.
+
+Jonathan McDowell asked whether the "Fifth Third Business Elite
+Checking" account showing up twice in the May treasurer's report was an
+error.  Michael confirmed that there were two such accounts, one for
+SPI's general PayPal account and one for Debian's PayPal account.  He
+will make this distinction clearer in the future.
+
+
+## Secretary's report
+
+Martin Michlmayr has completed the outstanding minutes.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 14th May 2015:
+
+<table><tbody>
+<tr><td>Robert Brockway</td><td>Abstain</td></tr>
+<tr><td>Joshua D. Drake</td><td>Yes<td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jonathan McDowell</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Gregers Petersen</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 1 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Resolution 2015-06-11.jdd.1: Sponsorship of travel to PostgreSQL conference in Cuba
+
+PostgreSQL would like to pay for some travel expenses for a conference
+in Cuba.  Josh Berkus from PostgreSQL obtained legal guidance from
+Software Freedom Law Center (SFLC) on paying travel expenses to Cuba and
+Joshua D. Drake proposed a resolution for the SPI board to vote on.
+
+Michael Schultheiss would prefer the "limitations set forth" explicitly
+listed in the resolution.  Robert Brockway would like to pass the exact
+wording of the resolution past SFLC and recommended the SPI board defer
+a vote to allow time to consult with SFLC.
+
+Michael agreed to consult SFLC and the board agreed to vote by email
+once the resolution has been ratified by SFLC.
+
+### Audit of SPI financials
+
+Martin Zobel-Helas recently proposed on the spi-general list to make
+SPI's bookkeeping process more transparent and asked whether it would
+make sense to perform an annual audit of SPI's financial records by
+someone who is not involved in SPI's financial process.
+
+Joshua D. Drake and Michael Schultheiss pointed out that audits in the
+US are typically done by Certified Public Accountants (CPA).  Martin
+Michlmayr noted that New York State has audit requirements for
+non-profits that meet certain requirements.  Michael explained that we
+haven't hit the required audit threshold yet.
+
+Martin Michlmayr observed that Martin Zobel-Helas is probably looking
+for an informal review rather than a formal audit.  He added that he had
+asked about how SPI's accounting process worked before and didn't get
+any answers.
+
+Michael said that he had had a conversation with Bradley M. Kuhn at
+FOSSETCON about migrating to ledger-cli.  Michael offered to add the
+bookkeeping spreadsheets and other source materials (such as scanned
+checks) to the board-private git repository, so other board members
+could take a look.
+
+
+## Any other business
+
+Jonathan McDowell has been working on a rewrite of the SPI members site.
+His hope is to get it done before the end of the month, so it can be
+used for the board election.  We can then finally do a member cleanup
+after the election.
+
+Joerg Jaspert has been asked if SPI's CA (certificate authority) is
+interested in cross-signing DNSKEY material for root zones.  Joerg is
+not sure about the request.  On the one hand, it would greatly increase
+the visibility of our CA, which may be a good thing.  At the same time,
+it would also greatly increase the gain for attackers should they get
+their hands on our CA key, suddenly making us a target.  Joerg will
+raise the question on spi-private.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, July 9th, 2015 at 20:30 UTC
+in #spi on irc.spi-inc.org.  This will serve as the Annual General
+Meeting.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2013<br /></td><td>Bdale Garbee</td><td>President</td></tr>
+<tr><td>July 2013<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>Secretary</td></tr>
+<tr><td>July 2012<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2012<br /></td><td>Jonathan McDowell</td></tr>
+<tr><td>July 2013<br /></td><td>Joshua D. Drake</td></tr>
+<tr><td>July 2013<br /></td><td>Martin Zobel-Helas</td></tr>
+<tr><td>July 2014<br /></td><td>Robert Brockway</td></tr>
+<tr><td>July 2014<br /></td><td>Gregers Petersen</td></tr>
+</tbody></table>
+
+
+## Appendix B: Resolutions
+
+### Resolution 2015-06-11.jdd.1: Sponsorship of travel to PostgreSQL conference in Cuba
+
+<pre>
+WHEREAS
+
+1. PostgreSQL.Org is an affiliated SPI project.
+
+2. PostgreSQL.Org wishes to financially sponsor travel to a PostgreSQL
+conference in Cuba.
+
+3. Josh Berkus of PostgreSQL Core has sought legal advice from Software
+Freedom Law Center in regards to this opportunity.
+
+4. Joshua Drake, Director with SPI and PostgreSQL.Org Liaison, has
+approved the request on the requirement that SPI also approve the
+request.
+
+THE SPI BOARD RESOLVES THAT
+
+1. It understands the legal requirements surrounding the sponsorship.
+
+2. It approves a financial sponsorship of the conference based on the
+limitations set forth.
+</pre>
+
+
+[[!meta copyright="Copyright © 2015 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
