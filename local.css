@@ -123,5 +123,7 @@ div.recentchanges {
 }
 
 .projectlogo {
-	text-align: center;
+	/* center image */
+	display: block;
+	margin: 0px auto;
 }
