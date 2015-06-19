@@ -20,7 +20,10 @@ __Total unique votes cast: 44, which is 8.4291187739464% of all possible votes._
 ### Voters
 
 <table>
-<th>Index</th><th>Name</th>
+<thead>
+<tr><th>Index</th><th>Name</th></tr>
+</thead>
+<tbody>
 <tr><td>0</td><td>Aaron Ucko</td></tr>
 <tr><td>1</td><td>Amaya Rodrigo Sastre</td></tr>
 <tr><td>2</td><td>Anibal Monsalve Salazar</td></tr>
@@ -65,12 +68,16 @@ __Total unique votes cast: 44, which is 8.4291187739464% of all possible votes._
 <tr><td>41</td><td>Steve McIntyre</td></tr>
 <tr><td>42</td><td>Thijs Kinkhorst</td></tr>
 <tr><td>43</td><td>Thomas Goirand</td></tr>
+</tbody>
 </table>
 
 ### Votes
 
 <table>
-<th>Index</th><th>Vote</th>
+<thead>
+<tr><th>Index</th><th>Vote</th></tr>
+</thead>
+<tbody>
 <tr><td>72b15f7e9e8803fae8ef24c01b1e0461</td><td>ADFEBC</td></tr>
 <tr><td>8ce9b6075d2ea1aaaf4782929d32392e</td><td>ADBEFC</td></tr>
 <tr><td>c3c624258d6c8fd0b2cbcec0f362f42e</td><td>AEDFCB</td></tr>
@@ -115,6 +122,7 @@ __Total unique votes cast: 44, which is 8.4291187739464% of all possible votes._
 <tr><td>7c6eff792db3653d7b8dc3673f9043da</td><td>DBAEFC</td></tr>
 <tr><td>fcace57ff40fdbb9e52f82fea91a5930</td><td>ADEFCB</td></tr>
 <tr><td>7ecd1d686e5bc8b596f14f60199a2638</td><td>DBACEF</td></tr>
+</tbody>
 </table>
 
 ### Beat matrix

@@ -43,7 +43,7 @@ candidates have nominated themselves for these roles.
 
 <table>
 <tbody>
-<tr><td>Role</td><td>Candidate(s)</td></tr>
+<tr><th>Role</th><th>Candidate(s)</th></tr>
 <tr><td>President</td><td>Bdale Garbee</td></tr>
 <tr><td>Vice President</td><td>Joerg Jaspert</td></tr>
 <tr><td>Secretary</td><td>Neil McGovern</td></tr>
@@ -63,88 +63,88 @@ Below is the record of attendance for sitting board members:
 <table border="1">
 <tbody>
 <tr>
-  <td>Initials </td>
-  <td>Name</td>
-  <td bgcolor="#99ff99"> <div align="center">Present</div> </td>
-  <td bgcolor="#66ccff"> <div align="center">Partial</div> </td>
-  <td bgcolor="#ffcc66"> <div align="center">Regrets</div> </td>
-  <td bgcolor="#ff9999"> <div align="center">Absent</div> </td>
-  <td> <div align="center">Possible</div> </td>
+  <th>Initials</th>
+  <th>Name</th>
+  <th align="center">Present</th>
+  <th align="center">Partial</th>
+  <th align="center">Regrets</th>
+  <th align="center">Absent</th>
+  <th align="center">Possible</th>
 </tr><tr>
-  <td> <div align="center">BG</div> </td>
+  <td align="center">BG</td>
   <td> Bdale Garbee </td>
-  <td align="center"> <div align="center">8<small>(+1)</small></div> </td>
-  <td> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">8<small>(+1)</small></td>
+  <td align="center">1</td>
+  <td align="center">1</td>
+  <td align="center">1</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">MS</div> </td>
+  <td align="center">MS</td>
   <td> Michael Schultheiss </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
-  <td> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">11<small>(+1)</small></td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">NM</div> </td>
+  <td align="center">NM</td>
   <td> Neil McGovern </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
-  <td> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">11<small>(+1)</small></td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">JB</div> </td>
+  <td align="center">JB</td>
   <td> Josh Berkus </td>
-  <td align="center"> <div align="center">7<small>(+1)</small></div> </td>
-  <td> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">3</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">7<small>(+1)</small></td>
+  <td align="center">1</td>
+  <td align="center">3</td>
+  <td align="center">0</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">BR</div> </td>
+  <td align="center">BR</td>
   <td> Branden Robinson </td>
-  <td align="center"> <div align="center">7<small>(+1)</small></div> </td>
-  <td> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">3</div> </td>
-  <td align="center"> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">7<small>(+1)</small></td>
+  <td align="center">0</td>
+  <td align="center">3</td>
+  <td align="center">1</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">JK</div> </td>
+  <td align="center">JK</td>
   <td> Jimmy Kaplowitz </td>
-  <td align="center"> <div align="center"><span>7</span><small>(+1)</small></div> </td>
-  <td> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">3</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center"><span>7</span><small>(+1)</small></td>
+  <td align="center">1</td>
+  <td align="center">3</td>
+  <td align="center">0</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">DG</div> </td>
+  <td align="center">DG</td>
   <td> David Graham </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
-  <td> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">11<small>(+1)</small></td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">0</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">IJ</div> </td>
+  <td align="center">IJ</td>
   <td> Ian Jackson </td>
-  <td align="center"> <div align="center">8<small>(+1)</small></div> </td>
-  <td> <div align="center">0</div> </td>
-  <td align="center"> <div align="center">1</div> </td>
-  <td align="center"> <div align="center">2</div> </td>
-  <td align="center"> <div align="center">11<small>(+1)</small></div> </td>
+  <td align="center">8<small>(+1)</small></td>
+  <td align="center">0</td>
+  <td align="center">1</td>
+  <td align="center">2</td>
+  <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td> <div align="center">MJS</div> </td>
+  <td align="center">MJS</td>
   <td> Martin "Joey" Schulze </td>
-  <td align="center"> <div align="center">3<small>(+1)</small></div> </td>
-  <td> <div align="center">2</div> </td>
-  <td align="center"> <div align="center">4</div> </td>
+  <td align="center">3<small>(+1)</small></td>
+  <td align="center">2</td>
+  <td align="center">4</td>
   <td align="center">2</td> <td align="center">11<small>(+1)</small></td>
 </tr><tr>
-  <td colspan="2"> <div align="right">Totals:</div> </td>
+  <td colspan="2" align="right">Totals:</td>
   <td align="center"> 73<small>(+9)</small></td>
-  <td> <div align="center">5</div> </td>
+  <td align="center">5</td>
   <td align="center">15</td>
   <td align="center">6</td>
   <td align="center"> 99<small>(+9)</small></td>
@@ -165,10 +165,10 @@ Not present for the lesser of 7 or <span>50% (<b>5.5</b>)</span> of meetings<spa
 <table border="1">
 <tbody>
 <tr>
-  <td style="text-align: center;" rowspan="2"> Date </td>
-  <td style="text-align: center;" rowspan="2"> Agenda </td>
-  <td style="text-align: center;" rowspan="2"> Minutes </td>
-  <td style="text-align: center;" colspan="10"> Attendance </td>
+  <th style="text-align: center;" rowspan="2"> Date </th>
+  <th style="text-align: center;" rowspan="2"> Agenda </th>
+  <th style="text-align: center;" rowspan="2"> Minutes </th>
+  <th style="text-align: center;" colspan="10"> Attendance </th>
 </tr><tr>
   <td style="text-align: center;"> MS </td>
   <td style="text-align: center;"> NM </td>

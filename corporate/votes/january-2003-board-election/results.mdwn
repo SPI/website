@@ -14,7 +14,9 @@
 ### Voters
 
 <table>
+<thead>
   <tr><th>Index</th> <th>Name</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td>Aaron Ucko</td></tr>
   <tr><td>2</td><td>Adam Conrad</td></tr>
@@ -185,7 +187,9 @@
 ### Votes
 
 <table>
+<thead>
   <tr><th>Index</th><th>Hash identifier</th><th>Vote cast</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td class="monowidth">00111df0cb986942fe23b80f40037674</td><td>GEBACDHF</td></tr>
 

@@ -10,7 +10,9 @@
 ### Voters
 
 <table>
+<thead>
   <tr><th>Index</th><th>Name</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td>Aaron Ucko</td></tr>
   <tr><td>2</td><td>Alexander R Perry</td></tr>
@@ -80,7 +82,9 @@
 ### Votes
 
 <table>
+<thead>
   <tr><th>Index</th><th>Hash identifier</th><th>Vote cast</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td class="monowidth">0d9a28c097a8dd28f411c8adc40dc69f</td><td>BCAD</td></tr>
   <tr><td>2</td><td class="monowidth">12ee821dd603137a1af1b843ff57fd8f</td><td>DACB</td></tr>

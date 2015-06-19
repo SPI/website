@@ -15,7 +15,9 @@ Quorum is not applicable, 85 votes were received
 ### Voters
 
 <table>
+<thead>
   <tr><th>Index</th><th>Name</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td>Aaron Ucko</td></tr>
   <tr><td>2</td><td>Adam Conrad</td></tr>
@@ -130,7 +132,9 @@ properly. After a vote is finished all results are anonymised and the
 hash is the only way to verify votes.
 
 <table>
+<thead>
   <tr><th>Index</th><th>Hash identifier</th><th>Vote cast</th></tr>
+</thead>
 <tbody>
   <tr><td>1</td><td class="monowidth">0148b74a55272b81f85abbc3a1386757 </td><td>ABC</td></tr>
 
