@@ -1,0 +1,191 @@
+21:30 < bdale> *GAVEL*
+21:30 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Annual General Meeting, which is now called to order.
+21:30 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-07-09/
+21:30 < bdale> [item 2, Roll Call]
+21:30 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:30 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:30 < Noodles> Jonathan McDowell
+21:30 < schultmc> Michael Schultheiss
+21:30 < Solver> Robert Brockway
+21:30 < bdale> Bdale Garbee
+21:31 < tbm> Martin Michlmayr
+21:31 < zobel> Martin Zobel-Helas
+21:31 < tbm> I received regrets from Ganneff
+21:31 < bdale> so it appears we have quorum .. who else is missing?
+21:31 < Noodles> linuxhiker was around earlier and said he had to pop out and might be late.
+21:31 < bdale> ok
+21:32 < Noodles> glp was around half an hour ago.
+21:32 < glp> I'm here
+21:33 < glp> Gregers Petersen
+21:33 < bdale> cool .. if linuxhiker might run late and Ganneff sent regrets, I guess we can move on
+21:33 < bdale> [item 3, President's Report]
+21:33 < bdale> I had some conversation in the last month with Jim Zemlin of the Linux Foundation about options for having them provide SPI with part-time staffing.
+21:33 < bdale> I hope to have a concrete proposal for the board to review before our next meeting.
+21:34 < bdale> [item 4, Treasurer's Report]
+21:34 < bdale> Michael?
+21:34 < schultmc> While preparing the annual treasurer's report I noticed a handful of errors requiring updated reports
+21:35 < schultmc> I needed to correct all of the reports from july 2014 through june 2013 to propogate the corrections through the balance sheets
+21:35 < schultmc> I'll email out the reports soon but they're currently in the agenda
+21:35 < zobel> 2013?
+21:35 < schultmc> i'll have the income statement for the annual report done soon
+21:35 < schultmc> 2015
+21:35 < linuxhiker> JOshua D. Drake
+21:35 < schultmc> sorry, typo
+21:35 < bdale> linuxhiker: welcome
+21:35 < schultmc> july 2014 through june 2015
+21:36 < bdale> schultmc: I have not had time to review them today .. any big surprises?
+21:37 < schultmc> no big surprises other than the corrections - the corrections do handle an outstanding request from SMC
+21:37 < bdale> ok
+21:37 < bdale> anything else?
+21:37 < schultmc> they were concerned their balance was lower than expected - i discovered the issue and corrected it
+21:37 < schultmc> nothing else
+21:37 < tbm> SMC?
+21:37 < zobel> schultmc: any help needed re GSOC?
+21:37 < tbm> oh never mind
+21:38 < tbm> Swathanthra Malayalam Computing
+21:38 < schultmc> Swathanthra Malayalam Computing
+21:38 < bdale> [item 5, Secretary's report]
+21:38 < bdale> Martin??
+21:38 < tbm> The minutes and web site are up-to-date.
+21:38 < tbm> I did a lot of work on the web site.  I updated several project pages, updated SPI liaisons and fixed many HTML syntax errors.
+21:38 < tbm> I put together the 2015 Annual Report which includes updates from 10 associated projects this year.
+21:38 < tbm> It's almost done -- Michael has to revise some figures in the treasurer report
+21:38 < tbm> I'll publish and announce it when the treasurer report is ready.
+21:38 < zobel> bdale: i still had questions to schultmc!
+21:38 < tbm> Thank you to the officers (Bdale and Michael) and committees (Noodles) for their updates,
+21:38 < tbm> and in particular to the associated projects that submitted updates!
+21:39 < bdale> zobel: sorry, he said he was done .. we'll return to that as soon as tbm is done
+21:39 < tbm> I'm done.
+21:39 < bdale> tbm: very good on the annual report, we've not been good about getting those done in recent years.  thanks!
+21:39 < bdale> zobel: go
+21:40 < schultmc> zobel: I've got it handled - i'll reach out if I need assistance
+21:40 < zobel> see above. we had mails from Projects, and i wanted to know if everything is handled now
+21:40 < schultmc> yes, it's handled now
+21:40 < zobel> okay.
+21:40 < zobel> done.
+21:40 < bdale> thanks
+21:40 < bdale> [item 6, Outstanding minutes]
+21:40 < bdale> Martin, I believe we have last month's to vote on today?
+21:40 < tbm> Yes: http://spi-inc.org/meetings/minutes/2015/2015-06-11/
+21:41 < tbm> Voting started, 8 people (bdale,tbm,schultmc,solver,linuxhiker,noodles,glp,zobel) allowed to vote on Meeting minutes for Thursday 11 June 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:41 < tbm> !vote yes
+21:41 < schultmc> !vote yes
+21:41 < zobel> !vote yes
+21:41 < linuxhiker> !vote yes
+21:41 < Solver> !vote yes
+21:41 < Noodles> !vote yes
+21:41 < bdale> !vote abstain
+21:41 < glp> !vote yes
+21:41 < tbm> Current voting results for "Meeting minutes for Thursday 11 June 2015": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:41 < tbm> Voting for "Meeting minutes for Thursday 11 June 2015" closed.
+21:41 < bdale> thank you
+21:41 < bdale> [item 7, Items up for discussion]
+21:41 < bdale> [item 7.1, Resolution 2015-06-02.mm.1: Board member accountability]
+21:41 < bdale> Martin?
+21:42 < tbm> I'd like to add that this resolution is a modified version of the
+21:42 < tbm> resolution originally proposed by David Graham as 2015-03-10.dbg.1 on the
+21:42 < tbm> spi-private mailing list on March 10 2015.
+21:42 < tbm> Voting started, 8 people (bdale,tbm,schultmc,solver,linuxhiker,noodles,glp,zobel) allowed to vote on Resolution 2015-06-02.mm.1 Board member accountability. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:42 < tbm> !vote yes
+21:42 < schultmc> !vote yes
+21:42 < glp> !vote yes
+21:42 < Noodles> !vote yes
+21:42 < bdale> !vote yes
+21:42 < Solver> !vote yes
+21:42 < linuxhiker> !vote yes
+21:42 < zobel> !vote yes
+21:42 < tbm> Current voting results for "Resolution 2015-06-02.mm.1 Board member accountability": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:42 < tbm> Voting for "Resolution 2015-06-02.mm.1 Board member accountability" closed.
+21:43 < bdale> thank you
+21:43 < bdale> [item 7.2, Resolution 2015-06-11.jdd.mcs.2: Sponsorship of travel to PostgreSQL conference in Cuba]
+21:43 < tbm> Voting started, 8 people (bdale,tbm,schultmc,solver,linuxhiker,noodles,glp,zobel) allowed to vote on Resolution 2015-06-11.jdd.mcs.2 Sponsorship of travel to PostgreSQL conference in Cuba. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:43 < tbm> !vote yes
+21:43 < bdale> !vote yes
+21:43 < schultmc> !vote yes
+21:43 < glp> !vote yes
+21:43 < linuxhiker> !vote yes
+21:43 < Noodles> !vote yes
+21:43 < zobel> !vote yes
+21:43 < Solver> !vote yes
+21:43 < tbm> Current voting results for "Resolution 2015-06-11.jdd.mcs.2 Sponsorship of travel to PostgreSQL conference in Cuba": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:43 < tbm> Voting for "Resolution 2015-06-11.jdd.mcs.2 Sponsorship of travel to PostgreSQL conference in Cuba" closed.
+21:44 < bdale> thank you
+21:44 < bdale> [item 8, Any other business]
+21:44 < bdale> Since this is our AGM, do any SPI members present have items for discussion they would like to address briefly?
+21:44 < bdale> tbm: want to provide an update on the nominations for the board?
+21:45 < tbm> So far I have received no nominations.  I sent out a reminder today.
+21:45 < bdale> so two open seats on the board, right?
+21:45 < tbm> Yes
+21:45 < tbm> Nominations are due on Monday
+21:45 < bdale> hrm.  do we need to cast the net wider somehow?
+21:45  * schultmc expressed interest in running again in a past board meeting - I'll send in an official nomination after this meeting
+21:46 < bdale> schultmc: cool
+21:46 < linuxhiker> remind me where nominations go?
+21:46 < bdale> I'd love to see at least one nomination from an associated project not currently represented
+21:46 < Noodles> linuxhiker: secretary@spi-inc.org
+21:46 < linuxhiker> thank you Noodles
+21:47 < bdale> Noodles: and, btw, thank you for your service on the board!
+21:47 < tbm> Here's the call for nominations:
+21:47 < tbm> http://lists.spi-inc.org/pipermail/spi-announce/2015/000356.html
+21:48 < bdale> anything else we should talk about today?
+21:48 < Noodles> No problem.
+21:48 < linuxhiker> bdale: curious how the linuxfoundation thing would work
+21:48 < Noodles> I have a new members site ready-ish to roll out.
+21:48 < linuxhiker> bdale: I think we should be responsible for ourselves considering our healthy financial status
+21:48 < Noodles> I sent a pointer to the git repo to -general but haven't received any feedback. Currently blocked on an upgrade of the box hosting it from squeeze to jessie.
+21:49 < bdale> linuxhiker: Zemlin hires a lot of people to meet the needs of their various LF labs projects.  I asked him if he'd be willing to provide managerial support for having one of his people work part time for us.
+21:49 < bdale> we would of course set up a contractual relationship and pay for the service
+21:49 < bdale> in effect, using the LF merely as an admin staffing outsourcing entity
+21:50 < bdale> I hope to turn the current "yeah, we could do that" from Jim into a concrete proposal in the next week or two
+21:50 < linuxhiker> bdale: got it and I can appreciate that, I would note that many CPAs offer a similar service
+21:51 < glp> bdale: but still ... I'm not sure if this is a good idea.
+21:51 < bdale> I had experience with a "management agency" providing services to the CELF before it folded into the LF a few years ago.  It was functional, but expensive.
+21:51 < tbm> I think it also depends on how we want to do our bookkeeping.  schultmc expressed interest in moving to ledger, and this would influence what kind of help we need
+21:51 < schultmc> I'm highly unimpressed with our current bookeeping service
+21:52 < bdale> glp: I'm more than open to alternative ideas.  the problem is that we all agree we could use paid help, but I don't see anyone on the SPI board including me wanting to engage in direct hiring and people management activities.  so the question is how best to obtain the services we need.
+21:52 < schultmc> they recently changed the staff working on our account so it's possible service could improve but I'm not holding my breath
+21:53 < bdale> I have personal experience with the LF staff on a number of other activities and think it's a reasonable place to try and get this service.  If others have other ideas, I'm completely open to alternative proposals.  Of the ideas I've come up with, this is the best one so far and I want to get it at least to the point where we can talk about costs and terms as a board.
+21:54 < linuxhiker> I know this won't be that popular but the fact that we are not using the industry standard is ridiculous
+21:54 < bdale> schultmc: I would expect you to have a significant role in helping us understand if what they can offer is what we actually want/need
+21:54 < Noodles> Industry standard what?
+21:54 < linuxhiker> bookeeeping
+21:54 < linuxhiker> eh
+21:54 < bdale> he means quickbooks, I presume
+21:54 < linuxhiker> book keeping
+21:54 < schultmc> our bookeepers do use quickbooks
+21:54 < schultmc> they've never provided me access to the quickbooks
+21:55 < linuxhiker> schultmc: Well I don't see why we can't buy a copy and just trade files back and forth (that is what CMD does)
+21:55 < schultmc> we could - we've paid to online access to the data file or something
+21:55 < linuxhiker> schultmc: Actually, I take that back that is waht CMD used to do
+21:55 < Noodles> I've never got the impression that our choice of software is why we aren't making good use of external help.
+21:55 < linuxhiker> schultmc: what we do now host quickbooks ourselves and use gotomypc (but there are other ways)
+21:56 < Noodles> bdale, I think the LF stuff is the most progress we've made on any general help option and I look forward to seeing something a bit more concrete.
+21:56 < linuxhiker> schultmc: and my other company (oxworksnw) uses Quickbooks Online quite successfully
+21:56 -!- pecg [~pecg@0001c1b1.user.oftc.net] has quit [Remote host closed the connection]
+21:56 < bdale> frankly, I think some things we could use help on are only partly book-keeping .. chasing the GSOC stuff is one good example
+21:57 < Noodles> Quite.
+21:57 < bdale> ok, well, we'll continue this on-list as soon as I make time to get to the next step with Jim
+21:57 < bdale> I was encouraged that he was inclined to be helpful
+21:57 < bdale> any other items anyone wants to discuss today?
+21:58 < bdale> [item 9, Next board meeting]
+21:58 < bdale> Our next regularly-scheduled monthly meeting would be 14 August 2015, 20:30 UTC.
+21:58 < bdale> Any strong objections?
+21:58 < Solver> sounds fine to me
+21:58 < bdale> I personally will be traveling with my son in Germany kinda-sorta on our way to Debconf at that time
+21:58 < linuxhiker> putting in regrets for September now, before I forget
+21:58 < linuxhiker> I am fine with 08/14
+21:59 < tbm> not ideal either for me due to DebConf travel but I might be able to make it
+21:59  * zobel will be at debcamp at that time
+21:59 < bdale> that's a Friday?
+21:59 < zobel> hopefully finished with wlan access.
+21:59 < Noodles> It doesn't matter to me. ;)
+21:59 < bdale> Noodles: pfft
+21:59 < linuxhiker> bdale: why not 08/13?
+21:59 < bdale> Noodles: will you be at debconf this year?
+21:59 < Noodles> Yes, I'll be at DebConf and will attend the SPI BOF.
+22:00 < tbm> sorry, that's a typo
+22:00 < tbm> should have been August 13
+22:00 < bdale> ok .. 13 August a 20:30 UTC
+22:00 < tbm> so I should be able to make it
+22:00 < bdale> Ok, thank you to everyone present for participating today.
+22:00 < bdale> *GAVEL*
