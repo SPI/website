@@ -1,0 +1,140 @@
+21:32 < bdale> *GAVEL*
+21:32 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:32 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-08-13/
+21:32 < bdale> [item 2, Roll Call]
+21:32 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:32 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:32  * zobel fetched Ganneff a drink and wasn't sure if i was on-time
+21:32 < zobel> Martin Zobel-Helas
+21:32 < schultmc> Michael Schultheiss
+21:32 < Ganneff> Joerg Jaspert
+21:32 < bdale> Bdale Garbee
+21:32 < Solver> Robert Brockway
+21:32 < tbm> Martin Michlmayr
+21:32 < xnox> Dimitri John Ledkov
+21:33 < glp> Gregers Petersen
+21:33 < bdale> so, only missing Joshua?
+21:34 < tbm> Correct.
+21:34 < bdale> let's proceed.  hopefully he'll show up before 7.1
+21:34 < bdale> [item 3, President's Report]
+21:34 < bdale> Since last month's meeting, I had one further exchange with Jim Zemlin about having the Linux Foundation provide manpower to us, and then at OSCON had a conversation with Karen Sandler
+21:34 < bdale> and Bradley Kuhn about the possibility of the SFC providing manpower to us.  What I've now realized is that to make further progress, I need help from Michael and others to characterize
+21:34 < bdale> the resources we need.  I hope to find time to draft an email during Debconf regarding next steps.
+21:34 < bdale> [item 4, Treasurer's Report]
+21:34 < bdale> Michael?
+21:35 < schultmc> I'm finishing up the July 2015 Treasurer's report and should have it released soon. I've spoken with the COO of our bookkeeping firm and she and a small team are taking over our account and should have more frequent reports released starting the end of August 2015.
+21:35 < bdale> ok
+21:35 < schultmc> Our 2014 990 will be filed in the next day or two
+21:35 < schultmc> </done>
+21:35 < bdale> good, thanks
+21:36 < bdale> [item 5, Secretary's report]
+21:36 < bdale> Martin?
+21:36 < tbm> The minutes are up to date.
+21:36 < tbm> I made some minor improvements to the web site.
+21:36 < tbm> I created some documentation on secretary duties, so this is documented for the future.
+21:36 < bdale> cool
+21:36 < tbm> I created a script that will remind us of trademark filing deadlines.  The next deadline is in 2018.
+21:37 < tbm> I reached out to Valessio Brito regarding a SPI web site refresh. He'll be at DebConf15.
+21:37 < zobel> thx tbm!
+21:37 < tbm> done
+21:37 < bdale> thanks
+21:37 < bdale> [item 6, Outstanding minutes]
+21:37 < bdale> Martin, I believe we have one set to approve today?
+21:38 < tbm> That's correct, the July 9 minutes
+21:38 < tbm> Voting started, 8 people (bdale,ganneff,tbm,schultmc,solver,glp,zobel,xnox) allowed to vote on Meeting minutes for Thursday 9 July 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:38 < zobel> !vote yes
+21:38 < bdale> !vote yes
+21:38 < glp> !vote yes
+21:38 < schultmc> !vote yes
+21:38 < Solver> !vote yes
+21:38 < tbm> !vote yes
+21:38 < Ganneff> !vote abstain
+21:38 < xnox> !vote abstain
+21:38 < zobel> tbm: why xnox?
+21:38 < tbm> Current voting results for "Meeting minutes for Thursday 9 July 2015": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:38 < tbm> Voting for "Meeting minutes for Thursday 9 July 2015" closed.
+21:39 < zobel> ah.
+21:39 < zobel> ignore me
+21:39 < tbm> zobel: xnox is our new board member
+21:39  * xnox feels welcomed :))))
+21:39 < bdale> xnox: welcome, by the way!
+21:39 < zobel> sorry, missed that.
+21:39 < xnox> bdale: tah :)
+21:39 < bdale> [item 7, Items up for discussion]
+21:39 < bdale> [item 7.1, Resolution 2015-08-05.jdd.1: Diversity Scholarships for FLOSS conferences]
+21:39 < bdale> I've read the resolution and related email thread on spi-private, but have not seen any details at all about what the plan is for actually implementing the actions implied by this resolution.
+21:39 < bdale> Have I missed something while traveling, or is a vote on this resoluton today premature?
+21:40 < bdale> I guess with Joshua not present, no answer may be forthcoming?
+21:40 < schultmc> I think it's premature for today - more discussion is needed IMO
+21:40 < tbm> as Secretary, I asked Joshua if it should be added to the agenda or if he wants to see more discussion first and he said it should be added to the agenda.
+21:40 < bdale> yes, I'm okay with the concept, but a commitment with no implementation plan bothers me
+21:40 < tbm> personally, I agree it's premature.
+21:40 < bdale> ok.  were we to vote on it today, I'd vote no.
+21:41 < bdale> were we to defer voting and a credible implementation plan shows up in the next month, I might be in favor
+21:41 < xnox> It looks interesting. I didn't read archives about it yet, hence wouldn't want to vote on it yet.
+21:41 < Solver> Seems like there is some concensus to defer then
+21:41 < bdale> ok.  with Joshua not present and no further details available, let's defer this until next month
+21:42 < Ganneff> the idea in general is ok, it also somewhat fits spis goal, though i think it would be nice(r) if supported by the projects
+21:42 < bdale> [item 8, Any other business]
+21:42 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:42  * zobel was traveling too the last 4 weeks, and i wasn't able to follow board@ and -private, so i would vote abstain too....
+21:42 < schultmc> bdale: there's a 7.2
+21:42 < tbm> bdale: there's another resolution
+21:42 < Ganneff> bdale: tghere have been 2 resolutions
+21:42 < bdale> I'll mention that there is an SPI BOF scheduled at Debconf on he 21st at 11
+21:42 < bdale> there wasn't when the meeting started
+21:42 < schultmc> yes there was
+21:42 < schultmc> I added it prior to 2030
+21:42 < Ganneff> yes there was
+21:42 < schultmc> and emailed it out last night
+21:43 < bdale> reloaded the page, and I see it now
+21:43 < Ganneff> (i loaded the page a minute before the meeting)
+21:43 < bdale> I have not, however, read it
+21:43  * xnox had to cancel my travel to debconf. So I will only participate remotely.
+21:43 < Ganneff> that thing is way too long
+21:43 < schultmc> we can always amend the policy
+21:43 < Ganneff> we may be required to have such a thing, but was it discussed how it actually needs to be/how it works for spi?
+21:44 < bdale> schultmc: has this been reviewed by counsel?
+21:44 < Solver> is there any urgency about passing it?
+21:44 < schultmc> tbm reached out to our counsel and she provided sample language
+21:44 < schultmc> it's possibly needed for our NYS filing which is due in a few days
+21:44 < bdale> ok, well, not having read it I'll at least abstain if we vote during this meeting
+21:44 < schultmc> tbm and I just learned about that change
+21:44 < Ganneff> its a load of legalise to read and its imo pretty short notice, so im either going to abstain or no on it this round
+21:44 < bdale> it's clearly too long for me to digest instantly
+21:44 < xnox> I had training on conflicts of interest & perceived conflicts of interest. The statements there seem to me more overarching than my other employee / shareholder commitments.
+21:45 < tbm> the problem is that this is a new legal requirement and we should have adopted it a year ago.
+21:45 < Ganneff> that is a problem, but its still a tack short here
+21:46 < glp> could we done an email vote in a week?
+21:46 < xnox> Tbm: however a more suicinic / minimalistic version may be adopted; than the proposed statement.
+21:46 < glp> /done/do
+21:47 < bdale> we aren't very successful at email voting
+21:47 < zobel> tbm: does the vote on 7.2 needs to be done this week, or can this be done either via email or next month?
+21:48 < schultmc> looks like the annual filing doesn't require a copy of our COI policy so we can postpone til next month
+21:48 < zobel> okay.
+21:48 < Solver> The policy requires each of us to sign and submit a document declaring no CoI.  If it passes that too may become urgent.  Heads up
+21:49 < bdale> I also think the confidential information section is pretty funny in the context of SPI
+21:49 < bdale> art 2 para 3
+21:49 < tbm> the NYS filing asks whether we have a COI policy and we don't, although we should have one.
+21:49 < tbm> I'm not sure what will happen if we don't tick the box.
+21:50 < schultmc> that may be for the 2015 filing
+21:50 < tbm> or maybe it's the 990 and not the NYS filing; in any case, one of the forms asks about it
+21:50 < schultmc> looking at the 2014 form I don't see them asking it
+21:50 < schultmc> the 990 doesn't have any penalties for not having a COI policy
+21:51 < bdale> ok, so, we need such a policy but the current text is long and problematic on first reading.  I don't want to vote to accept the policy as written today.
+21:51 < schultmc> let's work on a revised policy for the next meeting
+21:51 < tbm> I don't have the forms here right now but it sounds like we cannot pass it today anyway.
+21:51 < bdale> right
+21:51 < tbm> xnox, were you offerin to draft a shorter one?
+21:51 < bdale> ok, so the plan is we work on a revised text that's hopefully simpler for next time
+21:52 < bdale> anything else on this today?
+21:52 < bdale> if not, back to item 8 ..
+21:52 < schultmc> nope, I'm satisfied we can postpone
+21:52 < bdale> anyone else have an item?
+21:52 < xnox> Tbm: i can look into minimaly required one. Cause e.g. my other similar documents are much shorter.
+21:52 < bdale> [item 9, Next board meeting]
+21:52 < bdale> Our next regularly-scheduled monthly meeting would be 10 September 2015, 20:30 UTC.
+21:52 < bdale> Any strong objections?
+21:53 < zobel> wfm
+21:53 < bdale> Ok, thank you to everyone present for participating today.
+21:53 < bdale> *GAVEL*
