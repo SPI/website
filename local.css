@@ -1,13 +1,21 @@
 /* ikiwiki local style sheet */
 
+@font-face {
+  font-family: 'Cantarell';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cantarell Regular'), local('Cantarell-Regular'), url(cantarell.woff2) format('woff2'), url(cantarell.woff) format('woff');
+}
+
 /* Add local styling here, instead of modifying style.css. */
 
 a {
 	text-decoration: none;
-	color: #cd5a14;
+	color: #4dba33;
 }
 
 a:hover {
+	color: #0e49b6;
 	text-decoration: underline;
 }
 
@@ -23,24 +31,23 @@ code, pre {
 }
 
 pre {
-    padding: .5em;
+	max-width: 640px;
+	margin: 0 auto;
+	padding: .5em;
 }
 
 body {
+	font-size: 1.2em;
 	margin: 0;
 	padding: 0;
-	font-family: sans-serif;
+	font-family: 'Cantarell', sans-serif;
 	color: black;
-	background: white;
+	background: #FFF;
 }
 
 .pageheader {
 	margin: 0;
-	padding: 1em 2em 0 2em;
-	background: #1e6497 url(logo.png) no-repeat;
-	border-color: #999;
-	border-style: none none solid none;
-	border-width: 1px;
+	margin-top: 20px;
 }
 
 .header {
@@ -51,9 +58,10 @@ body {
 
 .title {
 	display: block;
-	margin-top: .2em;
-	font: 140% sans-serif;
-	text-transform: capitalize;
+	text-indent: -1000px;
+	width: 200px;
+	height: 95px;
+	background: url('logo.png');
 }
 
 .actions {
@@ -61,8 +69,22 @@ body {
 	padding: 0;
 }
 
-#content, #comments, #footer {
-  	margin: 1em 2em;
+#content {
+	color: #555;
+	line-height: 1.5em;
+	padding: 1em;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+#comments, #footer {
+	color: #999;
+  	padding: 1em;
+}
+
+.page {
+	max-width: 1400px;
+	margin: 0 auto;
 }
 
 #pageinfo {
@@ -108,7 +130,7 @@ h4, h5, h6 { font: small-caps 100% sans-serif }
 .actions ul li {
 	margin: 0;
 	padding: .1em .5em 0 .5em;
-	background: white;
+	background: #FFF;
 	border-color: #999;
 	border-style: solid solid none solid;
 	border-width: 1px;
@@ -116,6 +138,11 @@ h4, h5, h6 { font: small-caps 100% sans-serif }
 
 div.recentchanges {
 	border-style: none;
+}
+
+.parentlinks {
+	float: right;
+	font-size: 0.8em;
 }
 
 .pagecloud {
@@ -126,4 +153,77 @@ div.recentchanges {
 	/* center image */
 	display: block;
 	margin: 0px auto;
+}
+
+/* footer texts */
+
+.pagecopyright {
+	text-align: center;
+}
+
+.pagelicense {
+	float: left;
+}
+
+.pagedate {
+	float: right;
+}
+
+/* sidebar custom */
+
+.sidebar {
+	width: auto;
+	float: left;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	margin-left: 350px;
+	margin-right: 10px;
+	margin-top: -75px;
+}
+
+.sidebar ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sidebar ul li {
+	display: inline;
+	margin-left: 5px;
+	border-bottom: 1px solid #FFF;
+	transition: 0.5s;
+}
+
+.sidebar ul li:hover {
+	border-bottom: 1px solid #4dba33;
+	transition: 0.3s;
+}
+
+
+.sidebar a {
+	text-decoration: none;
+	color: #0e49b6;
+	padding: 0.5em;
+	line-height: 3em;
+	transition: 0.3s;
+}
+
+.sidebar a:hover {
+	color: #4dba33;
+	transition: 0.3s;
+}
+
+
+/* media-query for mobile */
+
+@media(max-width:640px) {
+
+   .header,
+   .sidebar {
+	margin: 0;
+	padding: 1em;
+	transition: 0.3s;
+   }
+
 }
