@@ -105,7 +105,7 @@ body {
 
 h1 { font: 120% sans-serif }
 h2 { font: bold 100% sans-serif }
-h3 { font: italic 100% sans-serif }
+h3 { font: italic 100% sans-serif; font-weight: bold; }
 h4, h5, h6 { font: small-caps 100% sans-serif }
 
 /* Smaller headings for inline pages */
@@ -143,6 +143,16 @@ div.recentchanges {
 .parentlinks {
 	float: right;
 	font-size: 0.8em;
+	color: #FFF;
+}
+
+.parentlinks a {
+	background: #EFE;
+	padding: 0.2em;
+}
+
+.parentlinks a:hover {
+	background: #CFE;
 }
 
 .pagecloud {
