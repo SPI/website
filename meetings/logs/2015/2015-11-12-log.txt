@@ -1,0 +1,339 @@
+21:30 < bdale> *GAVEL*
+21:30 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:30 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-11-12/
+21:30 < bdale> [item 2, Roll Call]
+21:30 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:30 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:30 < bdale> Bdale Garbee
+21:30 < schultmc> Michael Schultheiss
+21:30 < tbm> Martin Michlmayr
+21:30 < zobel> Martin Zobel-Helas
+21:30 < tbm> I received regrets from Gregers Petersen
+21:31 < bdale> who else is missing?  we're inquorate at this point
+21:32 < schultmc> ganneff, linuxhiker, xnox
+21:32 < linuxhiker> Joshua D. Drake
+21:32 < zobel> i can ping ganneff over cell phone.
+21:32 < bdale> please do
+21:32 < bdale> since we have actual agenda content today...
+21:32 < xnox> Dimitri John Ledkov
+21:32 < bdale> ok, cool, that's quorum
+21:33 < bdale> [item 3, President's Report]
+21:33 < bdale> Nothing to report today.
+21:33 < bdale> [item 4, Treasurer's Report]
+21:33 < bdale> Michael?
+21:33 < schultmc> I'm caught up on treasurer's reports - august-october are in the agenda and were sent out via email
+21:33 < schultmc> nothing of note
+21:33 < bdale> thanks.  I saw they were there but haven't made time to review them today.
+21:33 < bdale> anyone have questions?
+21:34 < xnox> they look ok to me.
+21:34 < Hydroxide> next year is also on the east coast - boston. maybe you can convince your company then.
+21:34 < Hydroxide> err wrong window, sorry
+21:34 < xnox> >_<
+21:34 < xnox> =)
+21:34 < bdale> [item 5, Secretary's report]
+21:34 < bdale> Martin?
+21:35 < tbm> I caught up on the outstanding minutes.
+21:35 < tbm> Nothing is outstanding now.
+21:35 < tbm> Nothing else to report.
+21:35 < bdale> ok
+21:35 < bdale> [item 6, Outstanding minutes]
+21:35 < bdale> Martin, am I correct that we have three sets to approve today?
+21:35 < Ganneff> Joerg Jaspert
+21:35 < tbm> Correct
+21:36 < Ganneff> damn time change.
+21:36 < bdale> Ganneff: welcome, and thanks
+21:36 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Thursday 13 August 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:37 < bdale> !vote yes
+21:37 < schultmc> !vote yes
+21:37 < zobel> !vote yes
+21:37 < tbm> !vote yes
+21:37 < linuxhiker> !vote abstain
+21:37 < xnox> !vote yes
+21:38 < tbm> Ganneff?
+21:38 < Ganneff> grrr, agenda doesnt load for me, so ive got no idea on the contents of the stuff.
+21:38 < Ganneff> !vote abstain
+21:38 < tbm> Current voting results for "Meeting minutes for Thursday 13 August 2015": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+21:38 < tbm> Voting for "Meeting minutes for Thursday 13 August 2015" closed.
+21:38 < bdale> the minutes were slow loading for me, too, fwiw
+21:38 < bdale> but did eventually render
+21:38  * schultmc has been having issues accessing some of our bytemark stuff recently
+21:38 < schultmc> fwiw
+21:39 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Thursday 10 September 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:39 < schultmc> !vote yes
+21:39 < tbm> !vote yes
+21:39 < bdale> !vote yes
+21:39 < linuxhiker> !vote abstain
+21:39 < zobel> !vote abstain
+21:39 < Ganneff> !vote abstain
+21:39 < xnox> !vote abstain
+21:39 < tbm> Current voting results for "Meeting minutes for Thursday 10 September 2015": Yes: 3, No: 0, Abstain: 4, Missing: 0 ()
+21:39 < tbm> Voting for "Meeting minutes for Thursday 10 September 2015" closed.
+21:40 < tbm> 3 yes and 4 abstain, can smoeone remember what the by-laws say about that?
+21:41 < Ganneff> now it loads, stupid thing
+21:41 < tbm> ok, I'll check later
+21:41 < Ganneff> i can change mine to vote yes now.
+21:41 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker,obel,xnox) allowed to vote on Meeting minutes for Thursday 8 October 2015. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:41 < bdale> Ganneff: computers .. sigh
+21:41 < bdale> !vote abstain
+21:41 < zobel> !vote abstain
+21:41 < tbm> !vote yes
+21:41 < Ganneff> !vote yes
+21:41 < linuxhiker> !vote abstain
+21:41 < schultmc> !vote yes
+21:42 < xnox> !vote abstain
+21:42 < tbm> Current voting results for "Meeting minutes for Thursday 8 October 2015": Yes: 3, No: 0, Abstain: 3, Missing: 1 ( obel )
+21:42 < tbm> Voting for "Meeting minutes for Thursday 8 October 2015" closed.
+21:42 < zobel> what?!
+21:42 < tbm> I mistyped zobel as obel
+21:42 < tbm> I will count your vote manually
+21:42 < zobel> i voted!
+21:43 < bdale> ok
+21:43 < bdale> thanks, tbm, glad we're caught up now
+21:43 < bdale> [item 7, Items up for discussion]
+21:43 < bdale> [item 7.4, LIR (Local Internet Registry) and SPI budget]
+21:43 < bdale> Since richih has to leave shortly, let's handle this first.
+21:43 < bdale> Who wants to take this?
+21:43 < xnox> i proposed it, no?!
+21:43 < bdale> ok, go
+21:43 < zobel> yes.
+21:43 < xnox> so debian member project requested to register spi as LIR.
+21:44 < xnox> i'm proposing to split the costs: joining and annual fees to be paid by SPI general fund.
+21:44 < xnox> yet, individual registration blocks fees to be paid by individual member projects.
+21:44 < xnox> and individual member projects to provide technical volunteers to help with administration and using those allocations.
+21:44 < Ganneff> if it can work this way, and we can then "offer" the services from that to individual projects
+21:44 < xnox> correct.
+21:45 < xnox> i was going to propose for spi to commit for initial registration and 2 years of annual fees for now.
+21:45 < xnox> and re-evaluate if we want to continue co-sponsor this service in the future.
+21:45 < zobel> so that means spi would register for /24 blocks on behalf of the projects, and we request more /24 as spi when projects need them and they then pay the costs for additional /24s?
+21:45 < Ganneff> or whichever other things
+21:45 < RichiH> just for clarification: spi can become a lir; debian can not. so for ipv4, spi can get a /22 and distribute that among the projects
+21:46 < xnox> charge structure is at https://www.ripe.net/publications/docs/ripe-620
+21:46 < linuxhiker> I think my question would be, "What is the problem we are trying to solve?"
+21:46 < zobel> ftr: RichiH is the technical advisor on that thing for DSA currently.
+21:46 < Ganneff> linuxhiker: a project wanting it
+21:46 < xnox> i'm proposing spi to pay sign-up (2 000 EUR) & annual fees (~ 1600 EUR per year, times two)
+21:47 < Ganneff> linuxhiker: and the project not able to do it on its own, needs a legal entity
+21:47 < xnox> then e.g. debian wants an allocation, they will pay 50 EUR for the assignment, and do what they want with it.
+21:47 < linuxhiker> how would this help any project outside of the requesting project?
+21:47 < Ganneff> ftr, debian asked this saying they pay fully, so its not debian asking spi for this sponsorship that xnox proposes
+21:47 < xnox> linuxhiker: we have a request for LIR service by member project, which needs a fiscal sponsor spi.
+21:47 < Ganneff> linuxhiker: others can easily jump on this later on. and get own /24 or so
+21:47 < linuxhiker> PostgreSQL's infrastructure is extremely diverse over many networks. I am unsure how this would help it. I can't speak for LibreOffice but I assume it is similar
+21:48 < xnox> linuxhiker: currently, debian wants to pay 2k+1.6k+50, but then it's their resource. If spi foots the bill for 2k+1.6k we can offer allocations to all member project for just 50 EUR a pop.
+21:48 < Ganneff> linuxhiker: debians infra is far flung too. they think it helps them
+21:48 < bdale> so, clearly to me, if Debian is willing to pay for this and just needs SPI to be the legal entity enabling the activity, that's fine.  I'm not enough up on the details to think about this much farther right now.
+21:48 < zobel> bdale: the thing is, SPI can only register once.
+21:48 < xnox> cool.
+21:48 < linuxhiker> bdale: yeah I have no care if Debian wants to foot the whole bill, but without more input from other projects, I don't think we (spi) should
+21:49 < Ganneff> i think it will come, no matter what. the question is just if we end up making it so that other projects can benefit too
+21:49 < bdale> xnox: to be clear, since Debian is an SPI associated project with no legal existence by itself, if Debian does this in the context of SPI, then it *is* an SPI resource
+21:49 < Ganneff> or if we make it a debian only thing
+21:49 < RichiH> also, ftr, debian.ch or some other debian TA could register instead of spi
+21:49 < xnox> bdale: ok.
+21:49 < RichiH> i don't really have an opinion, just to let you know
+21:49 < zobel> so we can not request for more projects, that is why xnox is proposing this.
+21:49 < bdale> that's not negative, just reality
+21:49 < bdale> so the idea is to have SPI do this at Debian's request, so that we can support others later if they want it?
+21:50 < linuxhiker> I would like a motion to table this for one month. I would like to talk to the PostgreSQL infrastructure team to see if this would be useful
+21:50 < xnox> bdale: and if we have more than 1 member project using this thing, we will then be able to e.g. split annual fees between their accounts, cause indeed both will be using the annual subscription. or some such.
+21:50 < zobel> bdale: correct.
+21:50 < Hydroxide> suggestion: allow debian to pay for it, but if other projects are broadly interested, move some money from general fund (or interested projects) to Debian as reimbursement. or wait for a month, sure.
+21:50 < bdale> xnox: makes sense
+21:50 < linuxhiker> if there is at least one more active project that can see benefit, then I would be more inclined to vote yes
+21:50 < Ganneff> bdale: yes. and if its a resource that Debian paid for, then debian controls the outcome of it (inside some basic rules). similar like we host their domains
+21:50 < xnox> linuxhiker: bdale: an action for me, to reach out to member projects to consult if they want to apply, makes sense then no?
+21:50 < xnox> and no vote on this matter today.
+21:51 < linuxhiker> xnox: I can reach out to PostgreSQL (as i am the liaison :P)
+21:51 < bdale> xnox: that makes sense to me, yes.  I would be happy to see this on the agenda next month with the results of a discussion with other associated projects
+21:51 < xnox> linuxhiker: delegated ;-)
+21:51 < xnox> bdale: cool. agreed.
+21:51 < bdale> ok, let's move on
+21:51 < bdale> [item 7.1, Status of our current treasurer process]
+21:51 < bdale> Who wants to take this?
+21:51  * zobel
+21:51 < tbm> zobel: proposed it
+21:51 < zobel> I am a bit worried about our current accounting/treasurer process. I looked into RT two days ago, and at that time we had 111 RT tickets in 'treasurer-incoming' queue, some of them unanswered since September 2015. 'treasurer' queue in RT had 32 open tickets. I would be interested if RT is the source of truth here, which would mean that we really have so many open and outstanding transactions. That would mean that the treasurer's report lists money which ...
+21:51 < zobel> ... the projects actualy do not have anymore as they might have several unbooked transactions.
+21:52 < zobel> As money and asset handling is one of the 'core' services we offer as SPI, I personaly think we should do much better here.
+21:52 < zobel> I therefore would like to suggest a few things here: 
+21:52 < zobel> a) we find a way of processing those transactions more quickly, or at least mark tickets in a way that it is easier to see what the current status is (i.e. set tickets to stalled as long as we wait for replies from requestors)
+21:52 < zobel> b) think about staffing the treasurer's position with more personnel.
+21:52 < zobel> c) do a treasurer hackathon (maybe even in real life) and work on getting down the amount of RT tickets we currently have. On such a hackathon we could maybe also find and define a workflow that works better for us as SPI.
+21:52 < zobel> </done>
+21:53 < zobel> i fear that this might need some discussion, though.
+21:53  * xnox ponders where this RT is.
+21:53 < zobel> rt.spi-inc.org
+21:53 < bdale> it's very tempting to me to want to push this to email, but that hasn't led to actual discussion of late, so I guess we should talk about it here.
+21:53 < bdale> schultmc: care to weigh in?
+21:53 < xnox> so i'm perfectaly comfortable operating a chart of accounts and bringing the books up to date myself, and validation what's up with everything.
+21:54 < xnox> 100 odd tickets doesn't sound like much of account work per-se.
+21:54 < bdale> on my part, the work on finding more help for us has been on hold due to other things in my life taking priority recently
+21:54 < schultmc> I just finished up a 6 month project at work which took up a large portion of my available time. I'm in the process of resolving outstanding tickets but agree that bookkeeping help would be a plus for SPI as well as better use of RT
+21:54 < xnox> can I get access to all current general ledger / journal / accounts and then I'll go through them over a boring weekend?
+21:54 < schultmc> also using accrual based accounting rather than cash based would give a better picture of finances wrt already committed funds
+21:55 < xnox> do we know what is used for book-keeping and do we have access to that?
+21:55 < tbm> Getting access to the data has been a problem.  schultmc promised to make everything available.
+21:55 < schultmc> tbm, bkuhn and I are working on setting up ledger-cli or similar software and can certainly include xnox on that
+21:55 < schultmc> now that my work schedule is much less hectic I should be more responsive
+21:55 < xnox> schultmc: well, cash accounting is nice for tax-reports. accrual is best for "budgeting". and both can be done at the same time, with good enough chart of accounts.
+21:56 < schultmc> I'm working on the outstanding reimbursements and data sharing - I hope to be caught up by the end of next week
+21:56 < zobel> schultmc: would staffing the treasurer position with more than one official person help?
+21:56 < xnox> (one needs to be diligent setting funds aside, and then finally book them when cash transacation happens)
+21:56  * linuxhiker prefers the, if it aint in the bank, it don't exist approach (cash)
+21:56 < xnox> linuxhiker: ;-) but I like to subtract credit card balance, from the bank balance, so to speak ;-)
+21:57 < schultmc> zobel: either than or having an assistant treasurer (or outsourcing bookkeeping to a more reliable firm)
+21:57 < bkuhn> (re: setting up software thing -- I very busy the next two weeks as it turns out but available thereafter if schultmc would like to get moving on it)
+21:57 < zobel> schultmc: eg. i would had just issued the PO we needed last week but refrained from it unless you would explicitly say so
+21:57 < Ganneff> schultmc: can you take on xnox as an assistant?
+21:57 < tbm> btw, I'm not sure if I mentioned it before but I'd be happy to volunteer as assistant treasurer, assuming I can get access.
+21:57 < xnox> schultmc: is ledger-cli our internal thing, or where current record are in?
+21:57 < Ganneff> and xnox goes kicking you over the next days until it starts off?
+21:57  * xnox is more interested in current records.
+21:57 < schultmc> Ganneff: sure if he's willing
+21:58 < zobel> real life meeting maybe?
+21:58 < Ganneff> schultmc: add him to rt, mail address, whatever, should i?
+21:58 < schultmc> xnox: ledger-cli is the future setup that bkuhn and tbm and I are working on
+21:58 < tbm> xnox: ledger-cli is a future idea.  I believe schultmc uses spreadsheets right now
+21:58 < Ganneff> xnox: you sounded willing to?
+21:58 < bdale> ok .. so .. it sure sounds to me like a "sprint" style meeting or something would help?
+21:58 < schultmc> Ganneff: yes
+21:58  * xnox can bring up fancy https://www.odoo.com instance too.... or gnucash with database backend.
+21:58 < xnox> schultmc: tbm: Ganneff: ledger-cli is something i can work with, yes.
+21:58 < Ganneff> xnox: talk about bringing up stuff later with me. dont run it on random boxes please. and we add you to stuff. outside this meeting
+21:58 < zobel> bdale: i think so, but that will definitifly need schultmc being there.
+21:59 < xnox> spreadsheets sounds odd... cause it's not double-entry enforced.
+21:59 < xnox> (and can be accidentally "borked-up")
+21:59 < bdale> so .. what I'd like is something concrete in the way of one or more action items out of this discussion.  what can we document for the minutes?
+21:59 < zobel> xnox: that is called ledger
+21:59  * xnox as assistant
+21:59 < Ganneff> if xnox says "yes" loud and clearly, i think the items are:
+22:00  * xnox to gain access to past transactions
+22:00 < Ganneff> - xnox  to be added to rt, mail, blah
+22:00  * xnox to help out setup and maintain and up to date ledger.
+22:00 < Ganneff> - xnox to be kicking schultmc until all needed data fell out of him
+22:00 < xnox> (with as much data as possible)
+22:00 < Ganneff> - xnox to be munging that and, in cooperation with schultmc/tbm/bkuhn/ get something nice up
+22:00 < xnox> bdale: s/kicking/enquiring/ for the minutes please.
+22:00 < bdale> ok
+22:00 < Ganneff> - next meeting we all have a party
+22:01 < bdale> that works for me.  I, too, am willing to help on some level.
+22:01 < zobel> i still think that a sprint is a good idea.
+22:01 < bdale> zobel: noted
+22:01 < bdale> anything else on this today?
+22:01 < zobel> and SPI has enough reserve to pay for that.
+22:01 < tbm> I agree.  We haven't made much progress online.
+22:01 < bdale> zobel: bring it up again next month if we aren't a lot farther along, please
+22:01 < zobel> bdale: i will
+22:01 < bdale> thanks
+22:02 < bdale> I think it would be more than worth the expenditure of some SPI general funds to make such a "sprint" happen
+22:02 < bdale> but only if the right people can converge calendards
+22:02 < bdale> ok, moving on
+22:02 < xnox> ....
+22:02 < bdale> [item 7.2, Conflict of interest policy]
+22:02 < bdale> Who wants to take this?
+22:03  * xnox o/
+22:03 < bdale> who put it on the agenda?
+22:03 < xnox> so. i've taken the software concervancy conflict of interest policy, which is NYC law complaint as far as I can tell.
+22:04 < xnox> i've munged it into something that reflects SPI structure.
+22:04 < xnox> but do have questions - are all of our official officers, in fact, must be board members?
+22:04 < xnox> if that is the case, a few things can be simplified.
+22:04 < bdale> I don't *think* that's a bylaws requirement, but I'd have to check.  It's certainly how we've done things in my entire tenure on the board, though.
+22:05 < tbm> I think it's a requirement
+22:05 < xnox> does president happy to take up on the role of keeping the declared conflicts paperwork?
+22:05 < tbm> The by-laws say:
+22:05 < tbm> The business of this organization shall be managed by a Board of Directors
+22:05 < tbm> consisting of eight to 12 members, four of whom shall be the officers of
+22:05 < tbm> this organization.
+22:05 < xnox> excellent.
+22:05 < bdale> ok
+22:05 < bdale> I stand corrected
+22:05 < xnox> or can the paperwork bits be deffered to e.g. secretary or some such?
+22:05 < xnox> and then i need to check if we have to do it annually, i'd rather do only if there is a change of circumstances to declare.
+22:06 < tbm> I think annually or every six months would be best
+22:06 < tbm> because people forget.
+22:06 < xnox> ok. current draft is 6 months i believe
+22:06 < bdale> yes, valuable to get folks to review.  a good time to do that might be immediately after board elections each year?
+22:06 < tbm> yes, it is
+22:06 < xnox> e.g. I work for company $foo, and that could be perceived conflict of interent. What that means that if SPI is to procure things from $foo, I shall exclude myself from voting, and make sure there are at least 2 other quotes to compare with.
+22:06 < tbm> I read the draft and I think it's good, except for some minur things (see the email I jus sent)
+22:07 < xnox> such that e.g. we avoid self-dealing.
+22:07 < xnox> (is the core of it)
+22:07 < bdale> ok, sounds like we clean this up and maybe have it ready to vote on next month?
+22:07 < xnox> yeap.
+22:07 < xnox> tbm: i shall reply to you.
+22:07 < bdale> ok, anything else on this for today?
+22:08 < Ganneff> .oO(good old "dont be a stupid git, silly bugger")
+22:08  * xnox ponders if that's too formal language. meh =)
+22:08 < tbm> It would be great if everyone could read the policy and send it comments.
+22:08 < bdale> noted
+22:08 < xnox> tbm: may i, or shall i email it to the public discussion forum?
+22:08 < xnox> spi-general mailing list (i hope i have the name correct)
+22:08 < tbm> sounds good
+22:08 < bdale> spi-general seems fine
+22:08  * xnox was not sure.
+22:08 < bdale> ok, let's move on
+22:08 < xnox> ok, cool.
+22:09 < bdale> [item 7.3, Resolution 2015-11-11.jrk.1: Acknowledging the election of David Graham to the Canadian House of Commons]
+22:09 < bdale> Who wants to lead this?
+22:09 < Hydroxide> to avoid any confusion based on the resolution date: it's the same resolution that showed up on spi-private dated 2015-10-24, but on 2015-11-11 (yesterday) I replied to tbm's request for a restated version with the amendments from my spi-private mail on october 30. I think this got usefully discussed on spi-private but I'm happy to answer any further concerns. this resolution is slightly more related to pol
+22:09 < Hydroxide> itics than SPI usually gets (which led ...
+22:09 < Hydroxide> ... an anonymous member to raise concerns with me), but with a nonpartisan and very SPI-appropriate purpose. the complaining member's concerns are completely valid and I'm glad they got considered, but most or all of those who spoke up still felt comfortable with the resolution, as now amended. while I'm certainly comfortable with it myself, I respect the board's judgment and will be fine with whatever outc
+22:09 < Hydroxide> ome you decide here. </done>
+22:09 < Hydroxide> (I proposed it, so there you go, but now I yield to the board.)
+22:09 < bdale> comments, anyone?
+22:10 < linuxhiker> I think we should stay out of it
+22:10  * xnox has no clue as to why we care about Canadian House of Commons.
+22:10 < Ganneff> there is too much (imo) useless chatter around a simple "well done" wish
+22:10 < linuxhiker> xnox: we don't care about that, we care about who got elected
+22:10 < Ganneff> xnox: we know cdlu for a damn long time, saying "good job", even to a politician, should be a simple thing
+22:10 < linuxhiker> Ganneff: if it was a simple well done wish, it wouldn't need to be a resolution
+22:11 < xnox> Ganneff: linuxhiker: Ganneff: we are a-polytical organisation, and i would be opposed to comment on both USA and non-USA politics.
+22:11 < Ganneff> and not take hours of blablabla, wasting loads of peoples time on entirely (imo) uninteresting  points
+22:11 < linuxhiker> Basically, I think the corporation should steer clear of it. If individual directors would like to offer their well done wishes, more power to them
+22:11 < Ganneff> xnox: we are not commenting on the politics. we tell a friend and former board member "good job"
+22:11 < xnox> and i don't see how that fosters free software, which is the main thing we act upon.
+22:11 < bdale> so the idea of recognizing and congratulating David is a good one, but I'm not personally inclined to support making it an official voted upon SPI resolution
+22:11 < xnox> Ganneff: oh.
+22:11 < xnox> Ganneff: he is former board member, I did not catch that.
+22:12 < Ganneff> xnox: long years
+22:12 < linuxhiker> bdale: right
+22:12 < xnox> before my time ;-)
+22:12 < Ganneff> xnox: over there, cdlu, he is still here
+22:12 < zobel> and cdlu is even in the channel atm.
+22:12 < schultmc> there are numerous political activities 501(c)(3) organizations are prohbited from engaging in
+22:12 < schultmc> https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/Published-Guidance-on-Political-Campaign-Activity-of-501(c)(3)-Organizations
+22:12  * cdlu only served 8 years on the board
+22:12 < bdale> he's far from the first long-time contributor to SPI or our associated projects, and likely to be far from the last, to gain public office
+22:13 < xnox> schultmc: .... for US ;-)
+22:13 < bdale> we're a US based corporation so we have to abide by US laws
+22:13 < linuxhiker> as cdlu is here, can we just say well done and drop the resolution?
+22:13 < Hydroxide> bdale: I don't see how this is in any way a violation of the 501(c)(3) rules, since it doesn't advocate for or against his election (those rules are interpreted very strictly). it is of course a separate decision whether SPI feels that it's an appropriate resolution for SPI.
+22:13 < bdale> cdlu: well done, by the way!  congrats!
+22:13  * xnox ponders how canadian things go into it.
+22:14 < bdale> Hydroxide: I am not in any way suggesting that the proposed resolution is a legal problem.  I just don't support the idea of congratulating him that way.
+22:14 < schultmc> cdlu: congratulations!
+22:14 < xnox> cdlu: congratulations!
+22:14 < zobel> cdlu: congratulations!
+22:14 < bdale> I would be happy, for example, for the minutes to reflect that we paused to congratulate David on his success.
+22:14 < cdlu> thank you! Appreciate it. And very touched by the discussion of this resolution. I should note that my involvement with SPI was prominently discussed on all of my campaign materials.
+22:14 < Hydroxide> bdale: yeah, as I said, I agree the perceptual concern is valid even though my view is different.
+22:14 < linuxhiker> cdlu: I think I speak for everyone when I say, as "Joshua D. Drake, JD, not as a Director for SPI (just in case)", congratulations
+22:15 < bdale> linuxhiker: ;-)
+22:15 < Hydroxide> bdale: documenting it in the minutes is good thing to ensure, yes.
+22:15 < xnox> bdale: meeting minutes that sevarl SPI board members, congratulate former SPI board member on recent elections is imho appropriate here =)
+22:15 < bdale> ok.  are we ok with stopping this item here?
+22:15 < zobel> can we proceed, i need to be up very early tomorrow
+22:15  * Hydroxide already congratulated cdlu elsewhere, but yes as someone who served for a long time with him, congratulations again, and no objection to moving on given the board consensus.
+22:16 < bdale> ok, thanks
+22:16 < bdale> [item 8, Any other business]
+22:16 < bdale> Do any board members present have items for discussion they would like to address briefly?
+22:16 < linuxhiker> Just got back from PgConf.eu
+22:16 < linuxhiker> awesome conference for PostgreSQL, it grows every year :D
+22:16 < zobel> half of our company was there too
+22:17 < bdale> glad it went well.  anything else?
+22:17 < bdale> [item 9, Next board meeting]
+22:17 < bdale> Our next regularly-scheduled monthly meeting would be 10 December 2015, 20:30 UTC.
+22:17 < bdale> Any strong objections?
+22:17  * xnox never was at PostgreSQL, but i'm an avid user at best =)
+22:17 < bdale> Ok, thank you to everyone present for participating today.
+22:17 < bdale> *GAVEL*
