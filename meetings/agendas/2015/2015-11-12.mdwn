@@ -16,7 +16,7 @@ November 12th, 2015, to be held at 20:30 UTC in #spi on irc.spi-inc.org.
    2. [Thursday, 8th October 2015](../../../minutes/2015/2015-10-08/)
       (Martin Michlmayr)
 7. Items up for discussion
-   1. Status of our current treasure process
+   1. Status of our current treasurer process
    2. Conflict of interest policy
    3. Resolution 2015-10-24.jrk.1: Acknowledging the election of David Graham to the Canadian House of Commons
    4. LIR (Local Internet Registry) and SPI budget
@@ -30,7 +30,206 @@ November 12th, 2015, to be held at 20:30 UTC in #spi on irc.spi-inc.org.
 ## Treasurer's report
 
 <pre>
-(pending)
+This report uses a cash-based method of accounting, recording donations
+when deposited (not when the check was written or received by us) and
+recording expenses when sent or scheduled for payment (not when
+incurred).
+
+Income Statement
+for the Period August 01, 2015 - August 31, 2015
+
+ Income
+   Ordinary Income
+        0 A.D.                              35.00
+        Arch Linux                         431.12
+        DebConf15                       11,350.00
+        Debian                           1,874.22
+        FFmpeg                             143.00
+        FFmpeg - OPW                         1.00
+        LibreOffice                        150.00
+        MinGW                               20.00
+        OpenWrt                             60.58
+        SPI General                        311.55
+        SPI 5%                             133.50
+        YafaRay                              5.00
+
+        Total Ordinary Income           14,514.97
+                                        ---------
+
+   Interest Income
+        Key Business Platinum MM Savings     2.76
+        Chase Bus Select High Yield Savings 17.41
+        Fifth Third Business MM 128          6.50
+
+        Total Interest Income               26.67
+                                            -----
+
+   Gross Income                         14,541.64
+                                        ---------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          Hosting                    83.43
+          Processing Fees             2.05
+          SPI 5%                      1.75
+
+          Total 0 A.D. Exp           87.90
+                                     -----
+
+        Arch Linux
+          Processing Fees            23.12
+          SPI 5%                     21.56
+
+          Total Arch Linux Exp       44.68
+                                     -----
+
+        Debian
+          Debit Card Fee              3.00
+          Processing Fees         5,453.04
+          SPI 5%                     93.71
+
+          Total Debian Exp        5,549.75
+                                  --------
+
+        FFmpeg
+          Processing Fees             7.65
+          SPI 5%                      7.15
+
+          Total FFmpeg Exp           14.80
+                                     -----
+
+        FFmpeg - OPW
+          Processing Fees             0.22
+          SPI 5%                      0.05
+
+          Total FFmpeg - OPW Exp      0.27
+                                      ----
+
+        Haskell
+          Hosting Fees               20.00
+
+          Total Haskell Exp          20.00
+                                     -----
+
+        LibreOffice 
+          Processing Fees             3.40
+          SPI 5%                      5.00
+
+          Total LibreOffice Exp       8.40
+                                      ----
+
+        MinGW
+          Processing Fees             1.15
+          SPI 5%                      1.00
+
+          Total MinGW Exp             2.15
+                                      ----
+
+        OpenWrt
+          Processing Fees             2.18
+          SPI 5%                      3.03
+
+          Total OpenWrt Exp           5.21
+                                      ----
+
+        SPI
+          Bookkeeping Fee           480.00
+          IRS Filing Fee             35.00
+          NYS Fee                   100.00
+          PaySimple Monthly Fee      37.95
+          Transaction Fees            1.18
+
+          Total SPI Exp             654.13
+                                    ------
+
+        YafaRay
+          Processing Fees             0.55
+          SPI 5%                      0.25
+
+          Total YafaRay Exp           0.80
+                                      ----
+
+        Total Expenses            6,388.09
+                                  --------
+
+        Net Income                8,153.55
+                                  ========
+
+
+Balance Sheet as of August 31, 2015
+
+   ASSETS
+     Current Assets
+        Chase Performance Business Checking               73,869.49
+        Chase Business Select High Yield Savings         205,711.59
+        Fifth Third Business Money Market 128            164,872.82
+        Fifth Third Business Elite Checking (SPI)             71.16
+        Fifth Third Business Elite Checking (Debian)          60.58
+        KeyBank Basic Business Checking                    8,928.08
+        Key Business Reward Checking                     236,022.33
+        Key Business Platinum Money Market Savings       162,873.00
+        Key Express Checking                               5,283.72
+        Ameriprise Cash Mgmt Acct                         13,406.15
+        Debian Debit Card                                    188.00
+
+     Total Current Assets                                871,286.92
+
+
+   TOTAL ASSETS                                          871,286.92
+
+
+   LIABILITIES AND EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D. Earmark                    34,468.92
+           ankur.org.in                       2,811.13
+           aptosid Earmark                      251.14
+           Arch Linux Earmark                22,186.09
+           Chakra                                45.22
+           Debian Earmark                   226,515.44
+           DebConf 14 Earmark                35,962.78
+           DebConf 15 Earmark                91,142.30
+           Drizzle                            6,333.99
+           FFmpeg                             8,575.00
+           FFmpeg (OPW)                          24.13
+           Fluxbox                              995.00
+           Freedesktop.org Earmark           16,059.88
+           FreedomBox Foundation Earmark     24,955.61
+           Gallery Earmark                    8,357.71
+           GNU TeXmacs Earmark                  381.99
+           Haskell Earmark                   32,900.72
+           Jenkins Earmark                   26,598.54
+           LibreOffice Earmark               49,364.03
+           madwifi-project.org Earmark        1,494.90
+           MinGW Earmark                      3,812.67
+           OpenVAS                               56.21
+           OpenWrt                            3,983.05
+           Open Bioinformatics Earmark       52,168.66
+           Open Embedded                        181.65
+           Open Voting Foundation Earmark         5.73
+           OSUNIX                                 2.92
+           Path64                                18.60
+           Plan 9 Earmark                     6,500.00
+           PostgreSQL Earmark                70,240.85
+           Privoxy Earmark                      163.99
+           Swathanthra Malayan Comp Earmark   2,483.62
+           The HeliOS Project Earmark           201.39
+           TideSDK Earmark                      353.99
+           Tux4Kids Earmark                  16,277.50
+           YafaRay Earmark                    5,395.12
+
+        Total held in trust                              751,270.47
+
+        General reserves                                 120,016.45
+
+     Total Equity                                        871,286.92
+
+   TOTAL LIABILITIES AND EQUITY                          871,286.92
 </pre>
 
 
