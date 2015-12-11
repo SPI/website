@@ -1,0 +1,217 @@
+21:30 < bdale> *GAVEL*
+21:30 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:30 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2015/2015-12-10/
+21:30 < bdale> [item 2, Roll Call]
+21:30 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:30 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:30 < schultmc> Michael Schultheiss
+21:30 < glp> Gregers Petersen
+21:30 < Solver> Robert Brockway
+21:30 < bdale> Bdale Garbee
+21:30 < tbm> Martin Michlmayr
+21:30 < zobel> Martin Zobel-Helas
+21:30 < linuxhiker> Joshua D. Drake
+21:30 < bdale> all but Ganneff?
+21:30 < bdale> oh, I can't count
+21:30 < schultmc> and xnox
+21:31 < xnox> Dimitri John Ledkov
+21:31 < schultmc> xnox was around earlier
+21:31 < linuxhiker> Well I am here by accident if that helps :P
+21:31 < zobel> xnox: ^
+21:31 < bdale> we've met quorum .. give a minute or so for Ganneff and/or xnox to sign in, then I'll proceed
+21:31 < xnox> Dimitri John Ledkov
+21:31  * xnox ponders if my messages are coming through....
+21:31 < bdale> Ganneff doesn't appear to be actively online
+21:31 < tbm> xnox: yes
+21:31 < bdale> xnox: yes
+21:32 < bdale> ok, let's proceed.  if someone wants to poke Ganneff, feel free
+21:32 < bdale> [item 3, President's Report]
+21:32 < bdale> Nothing to report today.
+21:32 < bdale> [item 4, Treasurer's Report]
+21:32 < bdale> Michael?
+21:32 < schultmc> November treasurer's report was sent out and is in the agenda
+21:33 < schultmc> nothing of note
+21:33 < bdale> ok.  anything else other than our 7.1 agenda item?
+21:33 < schultmc> I'm continuing to work through the backlog and should be caught up in the next few days
+21:33 < schultmc> nope
+21:33 < bdale> ok, thanks
+21:33 < bdale> [item 5, Secretary's report]
+21:33 < bdale> Martin?
+21:33 < tbm> Nothing to report.  Unfotunately I didn't finish the November minutes.
+21:33 < bdale> ok
+21:34 < bdale> [item 6, Outstanding minutes]
+21:34 < bdale> Defer until next month.
+21:34 < bdale> [item 7, Items up for discussion]
+21:34 < bdale> [item 7.1, Status of our current treasurer process]
+21:34 < bdale> Who wants to start this today?
+21:34  * zobel
+21:34 < zobel> I looked through the pending tickets, and didn't see much progress.
+21:34 < xnox> i had a bunch of actions to take, which i have not been doing this month. I was really busy this month: had a house move, quit one workplace, started at another. So everything has been hectic for me.
+21:34 < zobel> we have ~120 tickets
+21:35 < bdale> Michael Meeks reached out to me directly about reimbursements pending
+21:35 < xnox> i should have more time to do all of my assigned actions later, when i'm on holiday from 17th of december until next year.
+21:35 < linuxhiker> I also have pending PostgreSQL.org invoices to be paid
+21:35 < zobel> i still think (as suggested) that we do a sprint in Q1/2016
+21:35 < schultmc> I'm resolving tickets as they're completed - if people reply, it reopens the ticket
+21:35 < zobel> and get things sorted.
+21:35 < schultmc> a sprint would be very helpful IMO
+21:35 < xnox> FOSDEM/
+21:35 < xnox> FOSDEM?
+21:36 < tbm> everyone is busy during FOSDEM
+21:36 < bdale> FOSDEM is immediately before LCA this year (overlapping'ish) so I won't be there
+21:36 < xnox> before/after it
+21:36 < zobel> i would suggest to do that in US
+21:36 < bdale> we have sufficient funds in the general reserve to cover reasonable travel expenses for any participants that need it.  we should figure out where and when.
+21:36 < zobel> most of us currently seated in US.
+21:37 < tbm> who would we need at the sprint? Proably not everyone. I guess schultmc, xnox, tbm, bkuhn, zobel?
+21:37 < bdale> I'm willing to attend, but probably not needed
+21:37 < zobel> i think the money for that sprint can be taken from General reserve and is well invested money.
+21:37 < zobel> thoguths?
+21:37 < tbm> Agreed.
+21:37 < schultmc> agreed
+21:37 < linuxhiker> zobel: you are thinking an in person sprint?
+21:37 < glp> fine with me
+21:37 < bdale> I agree on use of general funds, we can vote that if necessary
+21:37 < linuxhiker> huh
+21:37 < bdale> yes, an in-person
+21:37 < zobel> linuxhiker: yes.
+21:38 < bdale> is bkuhn online?
+21:38 < xnox> linuxhiker, sprint is a carry-over discussion from last meeting.
+21:38 < tbm> he's on the phone right now
+21:38 < bkuhn> I'm here... but on a conf call.
+21:38 < zobel> idle 16h.
+21:38 < bkuhn> can read backlog in a few
+21:38 < linuxhiker> To play devil's advocate: What does this buy us that a good old fashion skype or google hangout doesn't? We are a remotely run organization but apparently people have to spend money on flights and a hotel to get work done suddenly?
+21:38 < bdale> bkuhn: please note availability for an SPI in-person finance sprint in Jan when able to
+21:38 < linuxhiker> xnox: I know, I just didn't realize it was in person
+21:39 < bkuhn> bdale: January is tough for Conservancy as our 990 is due 2016-01-15
+21:39 < tbm> linuxhiker: f2f, you get more done and people focus.  When we do skype, people will do other things on the side. imho
+21:39 < zobel> who would go there?
+21:39 < bdale> and, honestly, I think some old-fashioned relationship building between the folks involved would be a win here
+21:40 < linuxhiker> tbm: I think that if you can't get people to be professionals in a professional meeting, being in person isn't going to change that
+21:40 < zobel> there to be defined.
+21:40 < linuxhiker> bdale: that is probably true
+21:41 < zobel> so how do we proceed?
+21:41 < zobel> i suggest we try to find a place first and then look for available dates.
+21:41 < bdale> pick a time and place.  I need to be home on the 12th and 16th for family events, and will likely be in .de on business sometime during the month, but I don't think my presence is essential
+21:42 < zobel> i won't be able to do January.
+21:42 < bkuhn> But...
+21:42 < linuxhiker> zobel: I think most people would be coming from the East side of the states or Europe?
+21:42 < tbm> since linuxhiker doesn't see the need, it might sense to do a vote to see if we're all aligned
+21:42 < bkuhn> ... between 15th to FOSDEM should be time for Conservancy if you need help in a sprint.
+21:42 < tbm> if we agree, we can find a date/location offline
+21:43 < linuxhiker> tbm: To be honest, I think if we are going to do it, everyone should do it and we should make it a board meeting + Sprint
+21:43 < bdale> so I like the second half of Jan, I like using SPI general funds for essential participants who need travel sponsorship.
+21:43 < linuxhiker> tbm: it isn't just the treasurer that could stand to have a handshake and whiskey with the team
+21:43 < bdale> that's not a bad thought
+21:44 < zobel> linuxhiker: good catch.
+21:44 < tbm> linuxhiker: yeah, that's a good point, too
+21:44 < tbm> linuxhiker: I was going to reply to your lates email and suggest that it might make sense  to have a longer
+21:44 < tbm> conversation about our mission and what we're trying to do.
+21:44 < tbm> f2f would be helpful that for
+21:44 < linuxhiker> tbm: oh you talking about the djangogirls?
+21:44 < Solver> it's a long way for me and tbh I think I'd have trouble getting away.  no objection if others did though
+21:45 < bdale> maybe even review/work on a draft replacement set of bylaws?
+21:45 < tbm> linuxhiker: well, about using spi funds in general
+21:45 < linuxhiker> bdale: now were talking
+21:45 < linuxhiker> tbm: sure
+21:45 < Solver> bdale: I had previously done some work on that
+21:45 < glp> january is a no-go for me - and generally I would need more time for planning (with children, works etc.)
+21:45 < linuxhiker> I can do January as long as it is not during SCALE
+21:45 < bdale> Solver: I know.  It's been a long-time objective of mine, and since my time here will be limited, getting it done in 2016 seems like a fine plan.
+21:45  * linuxhiker notes that NYC is probably a good choice
+21:46 < Solver> I'd love to see it picked up again
+21:46 < bdale> is Feb (avoiding LCA) better?
+21:46 < linuxhiker> bdale: I have nothing in Feb, so that would work
+21:46 < tbm> I think Jan is too short notice for a board meeting
+21:46 < xnox> feb is good
+21:46 < tbm> Feb might be ok
+21:46 < tbm> maybe Marc
+21:46 < glp> the earliest I can plan for is April
+21:46 < bdale> ok.  tbm, want to do a poll for good dates in Feb?
+21:47 < bdale> glp: I really don't think we can wait that long
+21:47 < tbm> ok
+21:47 < bdale> glp: if that means we need to skype you in or something, we'll figure it out
+21:47  * linuxhiker notes that he is more than willing to help organize a board meeting onsite
+21:47 < glp> bdale: I'm just being specific on my part
+21:47 < tbm> how long? 2 days plus 1 day for those interested in treasurer, or 1+1?  Maybe 1 day board meeting, 1 day for followup (treasurer, by-laws)
+21:47 < bdale> glp: I understand.  no hard feelings.
+21:48 < tbm> linuxhiker: where is onsite?
+21:48 < linuxhiker> tbm: well that would be the question but from what I know of the board, NYC is probably our best bet
+21:48 < bdale> not cheap to stay there
+21:48 < linuxhiker> bdale: it isn't that bad honestly, especially in Feb
+21:49 < linuxhiker> bdale: It can be certainly, but I am there twice a year minimum and the rates are comparable to any other big city (seattle/sfo)
+21:49  * bdale shrugs
+21:49 < linuxhiker> bdale: plus, nyc has direct flights from just about anywhere and it is a short trip (reasonably) for our EU counterparts
+21:49 < bdale> good point
+21:50 < Ganneff> args. damn time changes. sorry.
+21:50 < bdale> schultmc: any preference?
+21:50 < Ganneff> Joerg Jaspert (very late)
+21:50 < schultmc> no specific preference
+21:50 < bdale> Ganneff: no worries.  discussing an in-person board meeting and treasurer sprint
+21:50 < schultmc> NYC is easy to get to from anywhere in the world
+21:50 < bdale> ok
+21:50 < zobel> bdale: would be meeting in ftc make sense?
+21:50 < bdale> anyone actually living in NYC that can host there?
+21:50 < linuxhiker> bdale: I have some contacts
+21:51  * Ganneff wont attend anything in the US, so not important here anyways.
+21:51 < tbm> bdale: We can ask Google
+21:51 < bdale> zobel: well, it would be easy to get facilities there and rooms are cheaper, but that means everyone getting to Denver and then an hour drive
+21:51 < xnox> Ganneff, meet half-way... Iceland?! =)
+21:51 < linuxhiker> bdale: zobel: also short for west coasters but hard on ourEU friends
+21:51 < linuxhiker> xnox: iceland, in February ....
+21:52 < linuxhiker> xnox: in August sure :P
+21:52 < zobel> first: who would attend?
+21:52 < Solver> northern lights
+21:52 < zobel> everyone?
+21:52 < xnox> linuxhiker, they have these glass domes as hotel rooms illuminated with northern lights.
+21:52 < tbm> zobel: if it's a board meeting, everyone
+21:52 < bdale> we have Ganneff saying no to US, glp no to before April.  that leaves 7 of us?
+21:52 < tbm> sounds like Solver won't be able to make it, and Ganneff won't come if it's in the US
+21:52 < tbm> and glp not before April
+21:52 < xnox> linuxhiker, http://news.momondo.com/wp-content/uploads/2014/11/northern-lights-hotels-05.jpg
+21:53 < tbm> Solver: or are you willing to travel if we work on bylaws?
+21:53 < zobel> xnox: not productive for the moment.
+21:53 < xnox> sorry
+21:53 < Solver> tbm: really problematic getting away.  I'd love to but not really feasible right now.
+21:54 < tbm> what about the duration? 1 day for a full board meeting, 1 day for focused sprints (by-laws, treasurer). Does that sound ok?
+21:54 < Solver> please please work on by-laws :)
+21:54 < zobel> this seems to get into an endless discussion?
+21:54 < Solver> let's take it out of the meeting
+21:54 < Ganneff> if its in the us, i can make myself available timewise and then use online meeting foo, if people think it helps
+21:55 < zobel> Ganneff: yes.
+21:55 < bdale> tbm: 2 days is ok, 3 would be ok with me too
+21:55 < bdale> depends on how much we want to tackle
+21:55 < tbm> ok, I'll pollo availabiliy offline
+21:55 < zobel> friday to sunday sounds usefull.
+21:56 < bdale> but, yes, I think we have agreement that it's a good idea.  let's take planning offline.
+21:56 < tbm> Ok, i'll take the lead on that.
+21:56 < zobel> bdale: we can do that after the meeting.
+21:56 < linuxhiker> xnox: interesting, but not really looking for a romantic getaway with a bunch of Free Software folks :P
+21:56 < tbm> zobel: anything else to discuss today?  next steps in the meantime?
+21:56 < linuxhiker> I might get kicked off, I will be right back
+21:56 < linuxhiker> tbm: yes
+21:56 < bdale> let's try to have details nailed before Jan board meeting
+21:56 < tbm> xnox: are yo going to follow up with schultmc?
+21:56 < xnox> tbm, yes.
+21:57 < zobel> bdale: i will work with tbm on that.
+21:57 < zobel> tbm: no
+21:57 < bdale> ok if I move on now?
+21:57 < tbm> ok
+21:57 < bdale> [item 8, Any other business]
+21:57 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:57 < linuxhiker> the IP thing
+21:58  * linuxhiker forgets what it is called
+21:58 < bdale> linuxhiker: ?
+21:58 < xnox> conflict of interest policy?
+21:58 < zobel> linuxhiker: ripe address thing from debian?
+21:59 < xnox> didn't vote last time, yet to gather feedback if we want it as a general service (again my not done action item.)
+22:00 < zobel> xnox: lets sit down after the meeting and draft it.
+22:00 < xnox> ok, it's mostly there, need to tweak more.
+22:00 < zobel> bdale: done?
+22:00 < bdale> [item 9, Next board meeting]
+22:00 < bdale> Our next regularly-scheduled monthly meeting would be 14 January 2016, 20:30 UTC.
+22:00 < bdale> Any strong objections?
+22:00 < zobel> wfm
+22:01 < bdale> Ok, thank you to everyone present for participating today.
+22:01 < bdale> *GAVEL*
