@@ -1,0 +1,129 @@
+22:00 < bdale> *GAVEL*
+22:00 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+22:00 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-02-12/
+22:00 < zobel> Martin Zobel-Helas
+22:00 < bdale> Bdale Garbee
+22:00 < linuxhiker2> Joshua D. Drake
+22:00 < bdale> [item 2, Roll Call]
+22:00 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+22:00 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+22:00 < schultmc> Michael Schultheiss
+22:00 < xnox> Dimitri John Ledkov
+22:00 < Ganneff> Joerg Jaspert
+22:00 < tbm> Martin Michlmayr
+22:01 < bdale> is Solver awake?
+22:02 < bdale> we have quorum, so let's proceed
+22:02 < bdale> [item 3, President's Report]
+22:02 < bdale> A subset of the board are currently meeting in the SFLC offices in New York City.  This is an extremely rare in-person SPI board meeting.
+22:02 < bdale> We are making rapid progress through our agenda, and will report actions taken to our contributing members.
+22:02 < bdale> Feel free to follow the etherpad at https://pad.riseup.net/p/spi-board-f2f we are using to keep notes during the meeting.
+22:03 < bdale> [item 4, Treasurer's Report]
+22:03 < bdale> Michael?
+22:03 < schultmc> Reports for December 2015 and January 2016 have been sent out
+22:03 < schultmc> main think of note is haskell.org has started its own 501c3 and has requested the transfer of a portion of its funds to that new organization.
+22:04 < zobel> do we need to have a resolution on this?
+22:04 < schultmc> they haven't decided to end their association so I would think no
+22:05 < zobel> ok
+22:05 < bdale> moving funds held in trust at the direction of the trustee does not require board action, and move to another 501(c)3 is legal
+22:05 < bdale> [item 5, Secretary's report]
+22:05 < bdale> Martin?
+22:05 < tbm> The minutes are up to date.
+22:05 < tbm> I've worked on the logistics for the face-to-face meeting in NYC which is taking place today and this weekend.
+22:05 < bdale> thanks very much for that!
+22:06 < bdale> [item 6, Outstanding minutes]
+22:06 < bdale> Martin, we have one set to vote on this month?
+22:06 < tbm> yes
+22:06 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Thursday 14 January 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:06 < linuxhiker2> !vote abstain
+22:06 < Ganneff> !vote yes
+22:06 < schultmc> !vote yes
+22:06 < tbm> !vote yes
+22:06 < zobel> !vote yes
+22:06 < bdale> !vote yes
+22:06 < xnox> !vote yes
+22:06 < tbm> Current voting results for "Meeting minutes for Thursday 14 January 2016": Yes: 6, No: 0, Abstain: 0, Missing: 1 ( linuxhiker )
+22:06 < tbm> Voting for "Meeting minutes for Thursday 14 January 2016" closed.
+22:07 < zobel> we fix that
+22:07 < Ganneff> need to manually count linuxhiker2 vote in
+22:07 < tbm> linuxhiker vs linuxhiker2
+22:07 < bdale> computers... sigh
+22:07 < bdale> [item 7, Items up for discussion]
+22:07 < bdale> [item 7.1, Resolution 2016-02-05.mm.1: X.Org as an associated project]
+22:07 < tbm> any discussion?
+22:07 < bdale> I'm ready to vote.  We'd still be pleased to have them.
+22:08 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker2,zobel,xnox) allowed to vote on Approval 2016-02-05.mm.1 X.Org as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:08 < schultmc> !vote yes
+22:08 < tbm> !vote yes
+22:08 < linuxhiker2> !vote yes
+22:08 < bdale> !vote yes
+22:08 < xnox> !vote yes
+22:08 < zobel> !vote yes
+22:08 < Ganneff> !vote yes
+22:09 < tbm> Current voting results for "Approval 2016-02-05.mm.1 X.Org as associated project": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+22:09 < tbm> Voting for "Approval 2016-02-05.mm.1 X.Org as associated project" closed.
+22:09 < bdale> thank you
+22:09 < bdale> [item 7.2, Resolution 2016-02-10.djl.1: Conflict of Interest Policy]
+22:10 < bdale> Mishi is reviewing the draft and expected back shortly, we should hold the vote until she returns
+22:10 < bdale> any discussion in the meantime?
+22:10 < Ganneff> is there quorum in the rl meeting?
+22:10 < Ganneff> without us here?
+22:10 < bdale> yes
+22:10 < Ganneff> great
+22:10 < bdale> 6 in person
+22:10 < bdale> in the meantime...
+22:11 < bdale> oh, here she comes
+22:11 < bdale> she has one addition
+22:12 < bdale> forwarding it to the board
+22:13 < tbm> Some discussion in the room right now
+22:14 < tbm> We'll post a summary soon
+22:14 < bdale> the issue is whether officers are also board members, guaranteed
+22:15 < Ganneff> how about we finish the meeting here? you have quorum, and i say "voite yes" and go for it.
+22:15 < bdale> give us 2 minutes and we can vote here and be done, ok?
+22:15 < xnox> replace "submit it to the Board" with "submit it to the Secretary to the Board."
+22:15 < Ganneff> i can also wait, but if you take longer, ...
+22:15 < Ganneff> sure
+22:15 < linuxhiker2> Ganneff: It has only been 15 minutes
+22:16 < tbm> almost done
+22:16 < bdale> xnox will paste the patch momentarily
+22:16 < Ganneff> is fine, just didnt want any pressure in that discussion, so offering to have it out. thats all.
+22:16 < Ganneff> fine
+22:16 < bdale> thanks, but it's really trivial change
+22:17 < schultmc_> switching nics due to issues with primary machine's network
+22:17 < bdale> sorry we didn't get her to review it earlier, but that's life
+22:18 < Ganneff> the etherpad looks like you got a load of other things through, its fine
+22:18 < bdale> yes, very productive meeting so far
+22:19 < zobel> Ganneff: i added one TODO item for you for Jan 1st, 2017
+22:19 < bdale> while we wait:
+22:19 < bdale> [item 8, Any other business]
+22:19 < bdale> Do any board members present have items for discussion they would like to address briefly?
+22:19 < xnox> http://paste.ubuntu.com/15029573/
+22:20 < tbm> looks good to me
+22:20 < bdale> ok, Mishi approves the diff
+22:20 < bdale> so, let's vote on the resolution as patched?
+22:20 < linuxhiker2> seconded on that
+22:20  * zobel is fine with that.
+22:20 < Ganneff> zobel: seen
+22:20 < tbm> Voting started, 7 people (bdale,ganneff,tbm,schultmc,linuxhiker2,zobel,xnox) allowed to vote on Approval 2016-02-10.djl.1 Conflict of Interest Policy. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:20 < tbm> !vote yes
+22:20 < bdale> !vote yes
+22:20 < linuxhiker2> !vote yes
+22:21 < schultmc> !vote yes
+22:21 < Ganneff> !vote yes
+22:21 < zobel> !vote yes
+22:21 < xnox> !vote yes
+22:21 < tbm> Current voting results for "Approval 2016-02-10.djl.1 Conflict of Interest Policy": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+22:21 < tbm> Voting for "Approval 2016-02-10.djl.1 Conflict of Interest Policy" closed.
+22:21 < Ganneff> zobel: i would have just let it run out (not so long anyway), but blergh
+22:21 < tbm> Great.  Please, everyone, submit your statements to me
+22:21 < tbm> signed with gnupg
+22:21 < bdale> waiting until 2018 scared some people
+22:22 < Ganneff> whyever. no real reason i can see that hurts much.
+22:22 < bdale> [item 8, Any other business]
+22:22 < bdale> Do any board members present have items for discussion they would like to address briefly?
+22:22 < bdale> [item 9, Next board meeting]
+22:22 < bdale> Our next regularly-scheduled monthly meeting will be 10 March 2016, 20:30 UTC.
+22:22 < bdale> Any strong objections?
+22:23 < Ganneff> ought to work, i may be minutes late for it
+22:23 < zobel> wfm
+22:23 < bdale> Ok, thank you to everyone present for participating today.
+22:23 < bdale> *GAVEL*
