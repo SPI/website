@@ -60,7 +60,8 @@ body {
 	display: block;
 	text-indent: -1000px;
 	width: 200px;
-	background: url('logo.svg');
+	height: 95px;
+	background: url('logo.png');
 }
 
 .actions {
