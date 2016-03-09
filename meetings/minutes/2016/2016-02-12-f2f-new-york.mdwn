@@ -3,8 +3,8 @@
 The SPI board met in New York in February 2016 to discuss a number of
 topics.  The meeting was held at Software Freedom Law Center (SFLC).
 Eben Moglen and Mishi Choudhary from SFLC were available to answer
-some legal questions.  Brian Gupta from Debian also attended some
-parts of the meeting.
+legal questions.  Brian Gupta from Debian also attended parts of the
+meeting.
 
 
 __Board members present__
@@ -75,7 +75,7 @@ __Guests present__
 
 * License of web site
     * Michlmayr noted that we don't use the latest Creative Commons license
-      on the web site.  One version of the 4.0 license is that they are
+      on the web site.  One advantage of the 4.0 licenses is that they are
       more global.  Garbee pointed out that copyright of the web site is
       held by SPI, so we can relicense easily if needed.  We'll add a note
       to the web site repository to make clear that contributions are
@@ -87,7 +87,7 @@ __Guests present__
       processes and procedures.  New directors are also not aware of the
       acceptance process of new associated projects.
     * Michlmayr documented secretary duties and activities recently.
-    * Board members should have read-only access to all git repositories.
+    * Board members should have read-only access to all Git repositories.
 
 * IT infrastructure
     * Board members can provide patches to puppet.git and help sysadmins
@@ -111,7 +111,7 @@ __Guests present__
     * We should get regular updates on new and pending members.
     * We should ping outstanding members soon.
 
-* D&amp;O insurance
+* D&O insurance
     * There have been efforts in the past to obtain directors and officers
       (D&O) liability insurance for SPI but they stalled.
     * It's unreasonable to expect volunteers to serve on the SPI board without
@@ -148,7 +148,7 @@ __Guests present__
       beancount) because the workflow is similar to FOSS development.
       Garbee noted that there have been more contributions to the web
       site since moving to ikiwiki.
-    * Schultheiss added various bank statements to a private git
+    * Schultheiss added various bank statements to a private Git
       repository.
     * A subset of the board started adding initial data to ledger.
 
