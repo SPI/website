@@ -1,0 +1,160 @@
+# Face-to-face Meeting in New York, February 12-14, 2016
+
+The SPI board met in New York in February 2016 to discuss a number of
+topics.  The meeting was held at Software Freedom Law Center (SFLC).
+Eben Moglen and Mishi Choudhary from SFLC were available to answer
+legal questions.  Brian Gupta from Debian also attended parts of the
+meeting.
+
+
+__Board members present__
+
+* Bdale Garbee (bdale) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Michlmayr (tbm) (Secretary)
+* Joshua D. Drake (linuxhiker)
+* Dimitri John Ledkov (xnox)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Joerg Jaspert (Ganneff) (Vice President)
+* Robert Brockway (Solver)
+* Gregers Petersen (glp)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Guests present__
+
+* Brian Gupta
+* Eben Moglen
+* Mishi Choudhary
+
+## Summary
+
+* Objectives of the meeting
+    * Discuss new by-laws
+    * Get to a solid understanding of what we want our financial system
+      to be like
+    * Agree on mission and roadmap
+
+* Defunct projects
+    * Projects should have a succession plan.  The boiler plate for new
+      projects should contain language that funds are transferred to the
+      general fund if the project becomes defunct.
+    * One idea would be to require a brief update for the annual report as
+      a way for SPI to see that projects are active.  If projects fail to
+      submit reports for several years, SPI can investigate whether the
+      project is still active.
+    * When a project becomes defunct, we can keep their domain name around
+      for 5 years just in case.
+    * The board reviewed existing projects and decided to reach out to some
+      to see if they are still active.
+
+* SPI logo
+    * SPI evaluated the current logo proposals and decided not to adopt any
+      of the proposed logos.  However, there is some agreement that new
+      branding would be beneficial.  There is also a need for a vector
+      version of the logo.  We can use the vectorized SVG provided by
+      Valessio Brito to make it look nice on high resolution screens.
+
+* License of web site
+    * Michlmayr noted that we don't use the latest Creative Commons license
+      on the web site.  One advantage of the 4.0 licenses is that they are
+      more global.  Garbee pointed out that copyright of the web site is
+      held by SPI, so we can relicense easily if needed.  We'll add a note
+      to the web site repository to make clear that contributions are
+      copyrighted by SPI.
+
+* Onboarding and procedures
+    * We should document procedures of the various teams.  There's currently
+      little understanding among the board of IT and memberships related
+      processes and procedures.  New directors are also not aware of the
+      acceptance process of new associated projects.
+    * Michlmayr documented secretary duties and activities recently.
+    * Board members should have read-only access to all Git repositories.
+
+* IT infrastructure
+    * Board members can provide patches to puppet.git and help sysadmins
+    * Sysadmins do not need to be part of the Board of Directors
+    * Jonathan McDowell implemented a new membership system based on modern
+      technology but is waiting for SPI to provide hosting for it.  During
+      the meeting, the Git repo was copied from Jonathan McDowell's
+      GitLab repo to git.spi-inc.org.
+
+* Deprecation of SPI CA
+    * We intend to deprecate the SPI CA as of December 31st 2016.  We'll
+      announce these plans on spi-announce so there will hopefully be no
+      users left at that point.
+    * Debian already removed the CA from the ca-certificates package.
+    * However, OFTC and to some extend Debian still use it as far as we know.
+
+* Members
+    * We can prune members with our current by-laws.  Before adopting new
+      by-laws, we have to remove inactive members because of quorum
+      requirements to change the by-laws.
+    * We should get regular updates on new and pending members.
+    * We should ping outstanding members soon.
+
+* D&O insurance
+    * There have been efforts in the past to obtain directors and officers
+      (D&O) liability insurance for SPI but they stalled.
+    * It's unreasonable to expect volunteers to serve on the SPI board without
+      D&O insurance.
+    * The board agrees that SPI should obtain D&O insurance.
+
+* SPI mailing lists
+    * Should generate unapproved emails stats, monthly to the board
+
+* By-laws
+    * The current by-laws are out-of-date and don't reflect SPI's
+      practices.
+    * Mishi Choudhary from SFLC presented a draft of new by-laws and
+      the board discussed the draft.
+
+* General fund
+    * Due to generous donations, SPI's general fund is higher than it
+      has been historically.
+    * The board agreed to use funds to improve SPI's operations.
+    * The board agreed to use funds to increase advocacy related to SPI.
+    * The board found the face-to-face meeting very beneficial and
+      decided to use general funds for more periodic meetings (possibly
+      once per year or every three years).
+    * The board agreed that, given the amount of money held by SPI, it
+      makes sense to perform an independent audit annually, even though
+      SPI is currently not required to do an audit.
+    * There was no consensus to use general funds to support activities
+      on an SPI level that could be done directly by associated projects.
+
+* Financial management
+    * The objective is to improve the process and to allow associated
+      projects get access to detailed financial records.
+    * The board discussed the current process.
+    * Bradley M. Kuhn from Software Freedom Conservancy presented their
+      system based on ledger-cli.
+    * The board agreed to adopt ledger-cli (or a related tool, such as
+      beancount) because the workflow is similar to FOSS development.
+      Garbee noted that there have been more contributions to the web
+      site since moving to ikiwiki.
+    * Schultheiss added various bank statements to a private Git
+      repository.
+    * A subset of the board started adding initial data to ledger.
+
+
+[[!meta copyright="Copyright © 2016 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]

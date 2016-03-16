@@ -1,0 +1,165 @@
+21:31 < bdale> *GAVEL*
+21:31 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:31 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-03-10/
+21:31 < bdale> [item 2, Roll Call]
+21:31 < bdale> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+21:31 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+21:31 < glp> Gregers Petersen
+21:31 < zobel> Martin Zobel-Helas
+21:31 < schultmc> Michael Schultheiss
+21:31 < linuxhiker> Joshua D. Drake
+21:32 < Solver> Robert Brockway
+21:32 < tbm> Martin Michlmayr
+21:32 < bdale> Bdale Garbee
+21:32 < zobel> Ganneff: wake up :)
+21:33 < xnox> Dimitri John Ledkov
+21:33 < bdale> that's everyone but Ganneff, right?
+21:33 < linuxhiker> bdale: yes
+21:33 < tbm> Yes
+21:33 < zobel> texted him
+21:34 < bdale> ok, let's proceed and hopefully he'll join us
+21:34  * xnox notes i am slow 3g typing on android.
+21:34 < bdale> [item 3, President's Report]
+21:34 < bdale> Nothing to report.
+21:34 < bdale> [item 4, Treasurer's Report]
+21:34 < bdale> Michael?
+21:35 < schultmc> We had a face to face meeting in NYC in mid-February and are transitioning SPI to ledger-cli. I'm in the process of generating this month's report using ledger-cli and should have it available in the next few days.
+21:35 < bdale> any significant snags with the transition?
+21:35 < xnox> Cool
+21:35 < schultmc> I'd like to publicly thank the Craigslist foundation for again donating $25,000 each to SPI's general fund and PostgreSQL
+21:35 < schultmc> no significant snags
+21:35 < zobel> wow
+21:36 < xnox> Craigslist rocks :)
+21:36 < bdale> awesome on the donations, and good news on the lack of snags.  anything else to report?
+21:36 < tbm> schultmc: can you please add all pst spreadsheets to the private git repo, so zobel and I can help on adding previous months to ledger
+21:36 < schultmc> I've contacted our bookkeepers and informed them we want to discontinue their service
+21:36 < schultmc> tbm: will do
+21:36 < schultmc> nothing else to report
+21:36 < Ganneff> Joerg Jaspert
+21:37 < bdale> Ganneff: welcome!
+21:37 < Ganneff> (sorry)
+21:37 < bdale> schultmc: ok, thanks
+21:37 < tbm> schultmc: also, any eta for reimbursemnts for the f2f?
+21:37 < zobel> wow, everyone on the meeting...
+21:37 < bdale> [item 5, Secretary's report]
+21:37 < bdale> Martin?
+21:37 < schultmc> tbm: working on them this week
+21:37 < tbm> All minutes, including the summary of the face-to-face meeting, are online.
+21:37 < tbm> The board adopted a Conflict of Interest policy in the February meeting.
+21:37 < tbm> Everyone who attended the face-to-face meeting in New York has completed
+21:37 < tbm> their conflict of interest declaration.
+21:37 < tbm> Unfortunately, despite several reminders, I haven't received all
+21:37 < tbm> declarations from the other directors.
+21:38 < tbm> One of the things we discussed at the face-to-face meeting was to do a
+21:38 < tbm> member ping.  I'm happy to report that Jonathan McDowell sent out a ping!
+21:38 < tbm> <done>
+21:38 < Ganneff> ill do mine later today, sorry for not yet having done so
+21:38 < xnox> Any held up w.r.t. submitting them? Some signed a copy, some did gpg signatures as far as i understand.
+21:39 < bdale> glp/Solver .. any issues?  We'd like to get this closed.
+21:39 < Solver> I'll complete mine and submit it this week also
+21:39 < bdale> thanks
+21:39 < glp> I just send mine to tbm
+21:39 < tbm> Ok, thanks
+21:39 < bdale> great, thanks all.  and thanks tbm for keeping after us on this.
+21:39 < bdale> and thanks Noodles for working on the member ping, etc
+21:40 < bdale> [item 6, Outstanding minutes]
+21:40 < bdale> Martin, we have two sets to vote on this month?
+21:40 < tbm> Correct, the February board meeting and the f2f meeting, also in February
+21:40 < tbm> Voting started, 9 people (bdale,ganneff,tbm,schultmc,solver,linuxhiker,glp,zobel,xnox) allowed to vote on Meeting minutes for Friday 12 February 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:40 < linuxhiker> !yes
+21:40 < tbm> !vote yes
+21:40 < Solver> !vote abstain
+21:40 < schultmc> !vote yes
+21:40 < Ganneff> !vote yes
+21:40 < bdale> !vote yes
+21:41 < zobel> !vote yes
+21:41 < Ganneff> linuxhiker: !vote in front
+21:41 < xnox> !vote yes
+21:41 < linuxhiker> !vote yes
+21:41 < linuxhiker> sorry
+21:41 < glp> !vote yes
+21:41 < tbm> Current voting results for "Meeting minutes for Friday 12 February 2016": Yes: 8, No: 0, Abstain: 1, Missing: 0 ()
+21:41 < tbm> Voting for "Meeting minutes for Friday 12 February 2016" closed.
+21:41 < tbm> Voting started, 9 people (bdale,ganneff,tbm,schultmc,solver,linuxhiker,glp,zobel,xnox) allowed to vote on Meeting minutes for Face-to-face meeting NYC February 12-4. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:41 < linuxhiker> !vote yes
+21:41 < bdale> !vote yes
+21:41 < Solver> !vote abstain
+21:41 < tbm> !vote yes
+21:42 < xnox> !vote yes
+21:42 < glp> !vote yes
+21:42 < schultmc> !vote yes
+21:42 < Ganneff> !vote abstrain
+21:42 < Ganneff> err
+21:42 < zobel> !vote yes
+21:42 < Ganneff> !vote abstain
+21:43 < tbm> Current voting results for "Meeting minutes for Face-to-face meeting NYC February 12-4": Yes: 7, No: 0, Abstain: 2, Missing: 0 ()
+21:43 < tbm> Voting for "Meeting minutes for Face-to-face meeting NYC February 12-4" closed.
+21:43 < bdale> thanks, Martin!
+21:43 < bdale> [item 7, Items up for discussion]
+21:43 < bdale> None.
+21:43 < bdale> [item 8, Any other business]
+21:43 < bdale> Do any board members present have items for discussion they would like to address briefly?
+21:43 < linuxhiker> I do
+21:43 < bdale> linuxhiker: go
+21:44 < linuxhiker> 1. I had a call with D&O agent (not the NYC one yet). I am a little behind but should have items by next meeting.
+21:44 < bdale> great, thanks for working on this
+21:44 < xnox> Insurance, right?!
+21:44 < bdale> yes
+21:44 < linuxhiker> 2. I haven't heard anything despite multiple requests about Language for Associated Project resolutions
+21:44 < linuxhiker> 3. We have several open projects that need full resolution and vote
+21:44 < xnox> I did add a draft in git, i thought.
+21:45 < linuxhiker> 4. I don't see anything on RT tickets and associated project applications
+21:45 < xnox> Let me find it when back at desktop. (2)
+21:45 < linuxhiker> 5. I asked for contact info for Valesio but I haven't seen it
+21:45 < tbm> linuxhiker: I'm pretty sure I sent it to you before.  valessio@gmail.com
+21:45 < linuxhiker> 6. I haven't seen the final draft bylaws
+21:45 < linuxhiker> tbm: thank you
+21:46 < tbm> 6) I pinged Mishi yesterday regarding the outstanding tasks she promised to do
+21:46 < xnox> (3) ack (4) i have no rt account yet, so no idea what happens there.
+21:46 < tbm> 4. There are no RT tickets yet.  They would have to be created.
+21:46 < xnox> Linuxhiker -> good points.
+21:47 < linuxhiker> The thing is folks, that is just my action item list
+21:47 < linuxhiker> I know there are others
+21:47 < linuxhiker> and there has been very little if any communication
+21:48 < zobel> schultmc: have you seen the mail from bgupta re the needed documents for Paypal?
+21:48 < bdale> ok, well, sounds like at least some of your questions/requests got handled here
+21:48 < schultmc> zobel: not yet - I'll take a look
+21:49 < linuxhiker> bdale: sort of... could we get some ETAs?
+21:49 < zobel> i have a question regarding the roll-up idea: we had the idea to show more presence during OSS conferences: shall i ask debconf-team wether they are okay with SPI having a roll-up somewhere on DC16?
+21:49 < linuxhiker> zobel: +1
+21:49 < zobel> they still may say
+21:49 < zobel> no.
+21:49 < zobel> but will ask
+21:49 < schultmc> zobel: i'll get those docs to paypal
+21:50 < bdale> linuxhiker: I haven't had anything new from Mishi about the bylaws revision yet, perhaps she'll comment in the reply to tbm's poke yesterday
+21:50 < zobel> linuxhiker: do you want to ask here about pgconf.us?
+21:51 < zobel> or others: see backlog and -general@
+21:51 < linuxhiker> zobel: sure, PgConf.US is having a community pavilion . I can't staff it because I am busy with the conference itself
+21:51 < linuxhiker> zobel: if someone here would be willing to run a booth, that is awesome
+21:51 < bdale> when/where?
+21:51 < xnox> When is PgConf.US and where is it?
+21:51 < zobel> 18th-20 April. NYC
+21:51 < xnox> :) snap
+21:51 < linuxhiker> bdale: NYC :D April 18-20th (booths are 19-20th)
+21:51 < bdale> I can't be there
+21:53 < xnox> I am provisionally available. But need to check cost / holidays first. If it's too expensive, it makes little sense.
+21:53 < linuxhiker> Oh and this is probably on me, but I still don't know how to get into the git repo, who should I talk to about that
+21:53 < linuxhiker> xnox: it will be a minimum of 300 a night
+21:53 < linuxhiker> xnox: not including travel
+21:53 < schultmc> linuxhiker: if you email an ssh key to admin@spi-inc.org Ganneff or I can get you access
+21:53 < linuxhiker> schultmc: awesome thank you
+21:54 < xnox> Try ssh gitolite@git.spi-inc.org or some such it should show you thinks and say welcome to gitolite
+21:54 < xnox> Otherwise your key is not in the config.
+21:54 < bdale> ok .. anything else?
+21:54 < xnox> Linuxhacker: pm me your ssh key. And i'll check it's all in the config by eod tomorrow.
+21:55 < bdale> [item 9, Next board meeting]
+21:55 < bdale> Our next regularly-scheduled monthly meeting will be 14 April 2016, 20:30 UTC.
+21:55 < bdale> Any strong objections?
+21:55 < xnox> Admin@ is better. I can only send a patch for the config. Not push config.
+21:55 < linuxhiker> xnox: done
+21:55 < bdale> I'll be in Huntsville that week helping with a NASA student program, so Ganneff, you should be ready to lead the meeting if I can't
+21:55 < linuxhiker> and key sent to admin as well
+21:55 < Ganneff> bdale: ok
+21:55 < bdale> I *should* be ok, though
+21:55 < bdale> Ok, thank you to everyone present for participating today.
+21:55 < bdale> *GAVEL*

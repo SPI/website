@@ -31,7 +31,6 @@ code, pre {
 }
 
 pre {
-	max-width: 640px;
 	margin: 0 auto;
 	padding: .5em;
 }
@@ -59,9 +58,10 @@ body {
 .title {
 	display: block;
 	text-indent: -1000px;
-	width: 200px;
+	width: 222px;
 	height: 95px;
-	background: url('logo.png');
+	background: url('logo.svg');
+	background-size: 222px 95px;
 }
 
 .actions {
