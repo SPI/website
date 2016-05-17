@@ -1,0 +1,210 @@
+22:32 < bdale> *GAVEL*
+22:32 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeti
+22:32 < bdale> ng, which is now called to order.
+22:32 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agend
+22:32 < bdale> as/2016/2016-05-12/
+22:32 < zobel> Martin Zobel-Helas
+22:32 < bdale> [item 2, Roll Call]
+22:32 < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+22:32 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+22:32 < zobel> Martin Zobel-Helas
+22:32 < bdale> Bdale Garbee
+22:32 < schultmc> Michael Schultheiss
+22:33 < Solver> Robert Brockway
+22:33 < zobel> again, i was too early.
+22:33 < linuxhiker> Joshua D. Drake
+22:33 < bdale> I think the quorum is still six, isn't it?
+22:33 < Solver> yep
+22:33 < zobel> i ping ganneff over phone. sec.
+22:33  * linuxhiker hopes
+22:33 < bdale> I saw regrets from tbm
+22:33 < Noodles> Do we msg tbm given he's not here?
+22:35 < zobel> texted Ganneff.
+22:35 < bdale> thanks
+22:36 < zobel> xnox: ^
+22:36 < zobel> we miss him as well.
+22:36 < linuxhiker> xnox: come on man... wake up :D
+22:36 < Ganneff> Joerg Jaspert
+22:36 < bdale> yay!
+22:36 < linuxhiker> yay!
+22:37 < bdale> [item 3, President's Report]
+22:37 < bdale> Nothing to report.
+22:37 < bdale> [item 4, Treasurer's Report]
+22:37 < bdale> Michael?
+22:37 -!- paolorotolo [~paoloroto@151.56.232.107] has joined #spi
+22:37 < zobel> Noodles: ping me.
+22:37 < schultmc> I'm working on finalizing the outstanding reports and hope to have them released in the next few days. Apologies for the delay. Nothing notable otherwise.
+22:37 < zobel> i would say?
+22:38 < schultmc> Our automatic 3-month extension to file our 2015 Form 990 has been applied for and granted
+22:38 < zobel> schultmc: great
+22:38 < bdale> thanks
+22:38 < bdale> anything else?
+22:39 < bdale> [item 5, Secretary's report]
+22:39 < bdale> Assuming nothing today since Martin couldn't attend.
+22:39 < bdale> [item 6, Outstanding minutes]
+22:39 < bdale> We have two sets.  zobel, can you run votes for us?
+22:40 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff,) allowed to vote on Outstanding minutes March 10th, 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:40 < Ganneff> !vote yes
+22:40 < schultmc> !vote yes
+22:40 < zobel> !vote yes
+22:40 < bdale> !vote yes
+22:40 < linuxhiker> shouldn't we know which outstanding minutes?
+22:40 < Solver> !vote yes
+22:40 < linuxhiker> if nothing else, for the record?
+22:40 < bdale> linuxhiker: says the 10th of March in call for votes?
+22:40 < Solver> it says so in the voting line
+22:40 < linuxhiker> got it
+22:41 < linuxhiker> sorry
+22:41 < linuxhiker> !vote yes
+22:41 < zobel> Current voting results for "Outstanding minutes March 10th, 2016": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:41 < zobel> Voting for "Outstanding minutes March 10th, 2016" closed.
+22:41 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff,) allowed to vote on Outstanding minutes April 14th, 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:42 < linuxhiker> !vote yes
+22:42 < zobel> !vote abstain
+22:42 < bdale> !vote abstain
+22:42 < schultmc> !vote yes
+22:42 < Ganneff> !vote abstain
+22:42 < Solver> !vote yes
+22:42 < zobel> Current voting results for "Outstanding minutes April 14th, 2016": Yes: 3, No: 0, Abstain: 3, Missing: 0 ()
+22:42 < zobel> Voting for "Outstanding minutes April 14th, 2016" closed.
+22:42 < bdale> zobel: thank you!
+22:42 < bdale> [item 7, Items up for discussion]
+22:42 < bdale> [item 7.1, Resolution 2016-03-17.jdd.1: OpenZFS as an associated project]
+22:42 < bdale> any discussion before we call a vote?
+22:43 < zobel> well, i still would prefer to have the item 6 added.
+22:43 < zobel> the "what to do with assets if projects disappear"
+22:43 < zobel> but there are different opinions on the board on that.
+22:43 < bdale> I'm pretty sure I was ok with your proposed text on that.  Did it get passed by counsel?
+22:44 < zobel> legal counsel you me?
+22:44 < zobel> no.
+22:44 < zobel> not yet.
+22:44 < linuxhiker> bdale: I am against it because it doesn't solve the problem. We need to run my resolution (or a resolution like it) against counsel
+22:45 < bdale> ok, then let's not try and modify resolutions on the fly today
+22:45 < linuxhiker> in short, the resolutions as written and presented to the agenda need to be voted on and then we can argue/collaborate/seek counsel on a resolution that fixes the issue (with feedback from projects) for the entire problem
+22:45 < zobel> my personal understanding is, that we need to do a disussion with each project and then vote on this project individually.
+22:45 < zobel> which would be ~37 votes.
+22:45 < zobel> okay.
+22:45 < bdale> so .. any other discussion on 7.1, or should we call a vote?
+22:46 < zobel> vote start?
+22:46 < bdale> please
+22:46 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff) allowed to vote on OpenZFS as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:46 < linuxhiker> !vote yes
+22:46 < Solver> !vote yes
+22:46 < Ganneff> !vote yes
+22:46 < bdale> !vote yes
+22:46 < schultmc> !vote yes
+22:46 < zobel> !vote yes
+22:46 < linuxhiker> Yes! Awesome
+22:46 < zobel> Current voting results for "OpenZFS as an associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:47 < zobel> Voting for "OpenZFS as an associated project" closed.
+22:47 < bdale> thank you
+22:47 < bdale> [item 7.2, Resolution 2016-04-01.jdd.1: Glucosio as an associated project]
+22:47 < bdale> any discussion?
+22:47 < bkerensa> Myself and our lead android dev are here if the board has any questions
+22:48 < zobel> no discussion it seems.
+22:48 < zobel> vote start?
+22:48 < bdale> please
+22:48 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff) allowed to vote on Glucosio as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:48 < linuxhiker> !vote yes
+22:48 < Solver> !vote yes
+22:48 < Ganneff> !vote yes
+22:48 < zobel> !vote yes
+22:48 < schultmc> !vote yes
+22:48 < bdale> !vote yes
+22:48 < zobel> Current voting results for "Glucosio as an associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:48 < zobel> Voting for "Glucosio as an associated project" closed.
+22:48 < bdale> thank you
+22:48 < bdale> [item 7.3, Resolution 2016-04-27.jdd.1: PgConf.Org as an affiliated project]
+22:48 < paolorotolo> awesome, thank you guys
+22:49 < bdale> discussion?
+22:50 < zobel> vote start?
+22:50 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff) allowed to vote on PgConf.Org as an affiliated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:50 < linuxhiker> yes?
+22:50 < linuxhiker> !vote yes
+22:50 < Solver> !vote yes
+22:50 < schultmc> !vote yes
+22:50 < zobel> !vote yes
+22:50 < Ganneff> !vote yes
+22:50 < bdale> !vote yes
+22:50 < zobel> Current voting results for "PgConf.Org as an affiliated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:51 < zobel> Voting for "PgConf.Org as an affiliated project" closed.
+22:51 < bdale> thank you
+22:51 < bdale> [item 7.4, Resolution 2016-05-01.bg.1: ArduPilot as associated project]
+22:51 < bdale> discussions?
+22:51 < tridge> hi everyone, I'm available for Qs if needed on ArduPIlot
+22:51 < zobel> bdale: i just wait 90s if noone responds to your discussion question, and then start_vote.
+22:51 < linuxhiker> ack...
+22:51 < bdale> tridge: welcome!
+22:51 < tridge> thanks!
+22:51 < bdale> zobel: works for me, thanks
+22:52 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff) allowed to vote on ArduPilot as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:52 < bdale> !vote yes
+22:52 < Ganneff> !vote yes
+22:52 < schultmc> !vote yes
+22:52 < zobel> !vote yes
+22:52 < linuxhiker> !vote yes
+22:52 < Solver> !vote yes
+22:52 < zobel> Current voting results for "ArduPilot as associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:52 < zobel> Voting for "ArduPilot as associated project" closed.
+22:52 < tridge> thanks!
+22:52 < bdale> thank you
+22:53 < bdale> [item 7.5, Resolution 2016-05-05.bg.1: NTPsec as associated project]
+22:53 < bdale> discussion?
+22:53 < Solver> bdale: we have a few representatives of these projects at the meeting here today.  They can accept the invitations right away can't they?
+22:53 < MarkAtwood> hi
+22:53 < MarkAtwood> im the rep and the PM for NTPsec
+22:53 < MarkAtwood> and can answer any questions about the project
+22:54 < bdale> Solver: yes.  normally, our secretary issues the ask... but since tbm isn't here, let's do a bulk query after the last vote
+22:54 < Solver> sounds good
+22:54 < bdale> MarkAtwood: howdy Mark
+22:54 < MarkAtwood> bdale: hi bdale
+22:54 < zobel> Voting started, 6 people (solver,zobel,linuxhiker,schultmc,bdale,ganneff) allowed to vote on NTPsec as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:54 < Ganneff> !vote yes
+22:54 < bdale> !vote yes
+22:54 < zobel> !vote yes
+22:54 < linuxhiker> !vote yes
+22:54 < Solver> !vote yes
+22:55 < schultmc> !vote yes
+22:55 < zobel> Current voting results for "NTPsec as associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:55 < zobel> Voting for "NTPsec as associated project" closed.
+22:55 < bdale> thank you!
+22:55 < MarkAtwood> thank you everyone!
+22:55 < linuxhiker> Board: I made a mistake on my PgConf vote. I need to abstain.
+22:55 < bdale> ok .. all projects voted on today that have the designated point of contact present .. consider the invitation to associate extended and feel free to accept now if you wish.  otherwise, we'll send email later.
+22:56 < bdale> linuxhiker: noted
+22:56 < zobel> linuxhiker: understandable.
+22:56 < bdale> since it doesn't change the output, no problem
+22:56 < tridge> ardupilot accepts, thanks
+22:56 < zobel> and noted. i will inform tbm to take care of that in the meeting minutes.
+22:56 < MarkAtwood> i accept for NTPsec
+22:57 < bdale> [item 8, Any other business]
+22:57 < bdale> Do any board members present have items for discussion they would like to address briefly?
+22:57 < bdale> [item 9, Next board meeting]
+22:57 < bdale> Our next regularly-scheduled monthly meeting will be June 9th, 2016, 20:30 UTC
+22:57 < bdale> Any strong objections?
+22:58 < linuxhiker> Should we discuss the upcoming election?
+22:58 < zobel> i would like to say that debian elected a new leader.
+22:58 < linuxhiker> zobel: you first sir
+22:58 < zobel> Mehdi Dogguy is new debian project leader
+22:58 < zobel> done.
+22:59 < bdale> indeed.  our congrats to him on his election, he is now the recognized decision maker for Debian in SPI relations
+22:59 < bdale> linuxhiker: sure .. but with tbm here there may be pragmatic limits to what we can conclude
+22:59 < bdale> s/here/not here/
+23:00 < linuxhiker> bdale: Just wondering when we should put out a call but without TBM, that's obviously an issue
+23:00 < zobel> bdale: sgtm
+23:00 < bdale> sgtm?
+23:00 < schultmc> sounds good to me
+23:00 < zobel> sounds good to me
+23:00 < bdale> oh, ok
+23:01 < zobel> ah.
+23:01 < zobel> one more question:
+23:01 < zobel> has anyone submitted a bof for DC16?
+23:01 < bdale> I did
+23:01 < zobel> great, thx
+23:01 < bdale> no reply to it yet that I have seen
+23:02 < bdale> linuxhiker: suggest you ask the election logistics question on the board list and hopefully tbm will pick up on it there
+23:02 < linuxhiker> bdale: understood
+23:02 < zobel> they extended the CfP, so they have too few talks i would say.
+23:02 < bdale> anything else?
+23:02 < bdale> Ok, thank you to everyone present for participating today.
+23:02 < bdale> *GAVEL*
