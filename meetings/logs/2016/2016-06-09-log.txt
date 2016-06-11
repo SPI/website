@@ -1,0 +1,229 @@
+22:30 < Ganneff> *BANG*
+22:30 < Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+22:30 < Ganneff> The agenda can be found on the web at:  http://www.spi-inc.org/meetings/agendas/2016/2016-06-09/
+22:30 < Ganneff> [item 2, Roll Call]
+22:30 < Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+22:30 < schultmc> Michael Schultheiss
+22:30 < xnox> dimitri john ledkov
+22:30 < tbm> Martin Michlmayr
+22:30 < Ganneff> Joerg Jaspert
+22:30 < tbm> I received regrets from Bdale
+22:30 < linuxhiker> Joshua D. Drake
+22:30 < Ganneff> zobel:
+22:31 < zobel> Martin Zobel-Helas
+22:31 < zobel> sorry, was too deep into ledger.
+22:31 < Ganneff> [item 3, President's Report]
+22:31 < Ganneff> Agenda looks like there is none, and Bdale is out partying.
+22:31 < Ganneff> [item 4, Treasurer's Report]
+22:31 < Ganneff> That's for Michael.
+22:32 < schultmc> I'm working with zobel and tbm to get data into ledger. regular reporting should resume soon. Apologies for the delay
+22:32 < zobel> i can give feedback here: i expect January to be in ledger very soon.
+22:33 < zobel> i hope that with that example data, schultmc then can resume faster.
+22:33 < zobel> and i am willing to also help for the other months
+22:33 < zobel> </done>
+22:33 < schultmc> yes, once the syntax is available I'll be able to knock out the rest quickly
+22:33 < Ganneff> so long before next meeting?
+22:33 < zobel> i have half of january now with the data schultmc provided today.
+22:34 < zobel> schultmc: if you have time after the meeting, lets chat a bit.
+22:34 < schultmc> Ganneff: yes, should be available before the next meeting
+22:34 < Ganneff> good good. done?
+22:34 < zobel> Ganneff: i will not make promises, but i very hope, yes.
+22:34 < schultmc> zobel: I need to leave after the meeting but can chat tomorrow
+22:35 < Ganneff> [item 5, Secretary's report]
+22:35 < Ganneff> One for tbm.
+22:35 < tbm> OpenZFS, Glucosio, ArduPilot and NTPsec accepted our invitation and are listed on the web site now.
+22:35 < tbm> I emailed all SPI associated projects to gather input for the 2015 annual report.
+22:35 < tbm> Robert Brockway and Gregers Petersen resigned from the board due to lack of time.
+22:35 < tbm> I'll post an overview of the election timeframe soon.
+22:35 < tbm> (nothing else)
+22:35 < Ganneff> [item 6, Outstanding minutes]
+22:35 < Ganneff> There is one set outstanding, from 12th May.
+22:36 < Ganneff> go for vote?!
+22:36 < tbm> Voting started, 6 people (ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Thursday 12 May 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:36 < Ganneff> !vote yes
+22:36 < schultmc> !vote yes
+22:36 < linuxhiker> !vote yes
+22:36 < tbm> !vote yes
+22:36 < zobel> !vote yes
+22:36 < xnox> !vote yes
+22:36 < tbm> Current voting results for "Meeting minutes for Thursday 12 May 2016": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+22:36 < tbm> Voting for "Meeting minutes for Thursday 12 May 2016" closed.
+22:36 < Ganneff> good good
+22:36 < Ganneff> [item 7, Items up for discussion]
+22:36 < Ganneff> Agenda says we have 3, Torch, Qubes and new by-laws.
+22:37 < tbm> Any discussion around Torch or Qubes?
+22:37  * Ganneff calls for a vote on torch
+22:37 < linuxhiker> Seconded
+22:37 < tbm> Voting started, 6 people (ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Torch as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:37 < linuxhiker> !vote yes
+22:37 < Ganneff> !vote yes
+22:37 < tbm> !vote abstain
+22:37 < schultmc> !vote yes
+22:37 < zobel> !vote yes
+22:37 < xnox> !vote yes
+22:37 < tbm> Current voting results for "Meeting minutes for Torch as an associated project": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+22:37 < tbm> Voting for "Meeting minutes for Torch as an associated project" closed.
+22:38  * Ganneff calls for a vote on Qubes
+22:38 < tbm> Voting started, 6 people (ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Qube as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:38 < linuxhiker> wait
+22:38 < linuxhiker> I think we should discuss qubes
+22:38 < tbm> Current voting results for "Meeting minutes for Qube as an associated project": Yes: 0, No: 0, Abstain: 0, Missing: 6 ( ganneff  zobel  linuxhiker  xnox  schultmc  tbm )
+22:38 < tbm> Voting for "Meeting minutes for Qube as an associated project" closed.
+22:38 < Ganneff> linuxhiker: go
+22:38 < linuxhiker> There was quite a bit back and forth on qubes, did anyone else read the thread?
+22:38 < zobel> yes
+22:39 < linuxhiker> especially my email sent 06/04
+22:39 < linuxhiker> anyone else besides zobel?
+22:39 < xnox> yes
+22:40 < tbm> I saw that message but unfortunately I did not have time to review the whole thread.
+22:40 < linuxhiker> I personally don't have a problem with what they are doing from a logistics perspective including paying contractors (I think we need to accept that we are now in a world where this is going to happen)
+22:40 < xnox> paying three developers to work on free software from the money they raise imho is fine.
+22:40 < tbm> right
+22:41 < xnox> are they based in USA or where they based in Poland (i lost track)
+22:41 < linuxhiker> that I don't know but if it is in poland that makes our life even easier
+22:41 < xnox> depending on where they are based it might be sole income, and even "high" income.
+22:41 < xnox> and hence have tax liability in the USA.
+22:42 < linuxhiker> yes
+22:42 < xnox> reading online i cannot find details as to what IRS, and speicifically our IRS office / NYC law finds as employment or not.
+22:42 < linuxhiker> and that is the issue, if we go down this road, there will need to be actual contracts in place, active officers to review and sign those contracts as well as be accountable for those contracts
+22:42 < xnox> and it might be all fine and dandy, and eventually they will say hangon these people should have paid tax and fine us.
+22:43 < Ganneff> so you advocate we pipe that through a lawyer first?
+22:43 < Ganneff> assessing the  risk for us? (or whoever is more knowledged)
+22:43 < xnox> imho, i'd rather these qubes people setup their own for-profit entity wherever they want, instead of collecting & pocketing tax-free money (to put it in crude terms) so, on these basis i'm minus-one.
+22:43 < linuxhiker> Ganneff: no,this is really standard fare
+22:43 < tbm> sounds like we should consult SFLC first
+22:44 < xnox> and i don't think i'll be able to learn employment laws for 501c3 with IRS/NYC to make any other educated vote.
+22:44 < xnox> Ganneff, having directors liability insurance in place would be handy before we do this qubes thing.
+22:44 < zobel> i would abstain from a vote today, if we not pass this to SFLC.
+22:44 < linuxhiker> Ganneff: tbm: no my concerns is not the paperwork, like I said... that is easy stuff and very standard business. The issue is: Does this board feel that our officers are active enough to maintain a level of service that Qubes may require (as well as others). In short, we very much may want to delay vote until the new board is in place
+22:44 < xnox> basic advice would be fine too.
+22:45 < xnox> if basic advice is ok, and we have liability insurance, i'll be happy to vote +1.
+22:45 < zobel> xnox: which we haven't
+22:45 < linuxhiker> xnox: we need limited liability & directors for this to be acceptable
+22:45 < xnox> imho we could reply to qubes to say.
+22:46 < xnox> in principal it looks fine. but "(a) we need new board (b) insurance (c) employment advice before we proceed"
+22:46 < linuxhiker> note: this is going to be a problem for a lot of projects soon, we really have no choice but to fix this problem *but*
+22:46 < zobel> afk for around 90s.
+22:46 < xnox> and e.g. they are welcome to join spi, without contracting payments at first, if they so wish.
+22:46 < xnox> cause e.g. they can start invoicing for infrastructure, hosting, domain names, etc.
+22:46 < Ganneff> soo. anyone calling for a vote on this today, or do we postpone and resolve issues first?
+22:47 < linuxhiker> Ganneff: I am fine voting today, I just wanted the board under full understanding
+22:47 < zobel> back.
+22:47 < linuxhiker> Ganneff: again, this is pretty standard stuff and not hard, we just aren't set up for it (yet)
+22:47 < tbm> Sounds to me we should postpone
+22:47 < zobel> tbm: ack.
+22:47 < zobel> postpone.
+22:47 < Ganneff> linuxhiker: then you can call for it. i wont, and i vote negative after the discussion just now.
+22:47 < Ganneff> linuxhiker: and i suspect most others too
+22:47 -!- mauritslamers [~anonymous@a82-161-135-189.adsl.xs4all.nl] has quit [Quit: mauritslamers]
+22:47 < linuxhiker> calling for vote on qubes
+22:48 < tbm> Voting started, 6 people (ganneff,tbm,schultmc,linuxhiker,zobel,xnox) allowed to vote on Meeting minutes for Qube as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:48 < tbm> !vote no
+22:48 -!- tetris4 [~quassel@53564E62.cm-6-7b.dynamic.ziggo.nl] has joined #spi
+22:48 < Ganneff> !vote no
+22:48 < linuxhiker> !vote abstain
+22:48 < schultmc> !vote abstain
+22:48 < xnox> !vote no
+22:48 < zobel> !vote abstain
+22:48 < tbm> Current voting results for "Meeting minutes for Qube as an associated project": Yes: 0, No: 3, Abstain: 3, Missing: 0 ()
+22:48 < tbm> Voting for "Meeting minutes for Qube as an associated project" closed.
+22:48 < Ganneff> right, resolve issues, come again.
+22:49 < linuxhiker> who wants to let them know?
+22:49 < xnox> yes
+22:49 < Ganneff> so next on topic is by-laws
+22:49 < zobel> I would like to discuss if we still have any open points on the drafted by-laws. If not, i would like to encourage president and/or secretary to bring the drafted by-laws into public discussion. i would really like to see a vote on the by-laws in this year.
+22:49 < xnox> linuxhiker, i can summarise....
+22:49 < linuxhiker> xnox: go for it and I will followup if needed
+22:49 < linuxhiker> zobel: seconded on that
+22:49 < xnox> ack.
+22:49  * Ganneff agrees
+22:50 < tbm> zobel: Bdale was heading this effort so I think he should do it.  He's busy this week but I can email him and ask him to do it next week.
+22:50 < tbm> In the meantime, did anyone have concerns about the latest draft?
+22:50 < zobel> i don't see any points which i think that needs discussion.
+22:50  * xnox is happy with bylaws i think
+22:50 < linuxhiker> tbm: with respect to our leader, he hasn't exactly been available....
+22:51 < linuxhiker> I think the secretary should dump them on private and let's have at it
+22:51 < zobel> leader? president.
+22:51 < tbm> linuxhiker: I can email Bdale.  He said the by-laws is something he wants to finish
+22:51 < linuxhiker> zobel: yes
+22:51 < zobel> tbm: so if we don't finish, he runs again? :)
+22:51 < Ganneff> ok. so lets have tbm mail bdale. worst case we can still just dump em on a list somewhere...
+22:51 < tbm> Ok, I can post the bylaws in 10 days if Bdale hasn't done it by then.
+22:52 < Ganneff> as it looks like no real issue for this, ...
+22:52 < Ganneff> [item 8, AOB]
+22:52 < Ganneff> Anyone anything? You have -5 seconds to speak up or be silent forever. :)
+22:52 < zobel> tbm: sounds great, yes.
+22:52 < tbm> yes
+22:52 < linuxhiker> yes
+22:52 < tbm> I want to talk about the elections
+22:52 < linuxhiker> tbm: seconded
+22:52 < Ganneff> tbm: go
+22:52 < tbm> We have 6 seats available this year but only 1 next year (and 2 in two years) which isn't ideal
+22:52 < tbm> typically we had 3 every year.
+22:52 < Ganneff> im up this year, right?
+22:53 < zobel> Ganneff: yes.
+22:53 < Ganneff> if so, i run for 1 or 2 years period only to get it back even (if i come back in)
+22:53 < tbm> Ganneff: yes, bdale, Ganneff, zobel and linuxhiker and the 2 directors who resigned
+22:54 < linuxhiker> tbm: I see a benefit to the current problem
+22:54 < Ganneff> i dont care 1 or 2, but we should try to get it 3 3 3 again.
+22:54 < xnox> tbm, staggering available seats to align us would be fine.
+22:54 < tbm> linuxhiker: yeah?
+22:54 < linuxhiker> tbm: we need some new blood, and then we need some people to sit still and get some stuff done, so having only 1 or 2 over a couple of years could potentially be good
+22:55 < xnox> e.g. top voter gets 3 years, next two get 2 years, and one gets 1 years. Or whatever the distribution is needed to make subsequent elections to be 3 v 3 v 3 again
+22:55 < tbm> xnox: if my count is correct, it would be: 3: 3 years, 2: 1 years; 1: 2 years
+22:56 < tbm> so top 3: 3 years, next 1: 2 years, last 2: 1 year
+22:56 < Ganneff> as said, im happy to take a 1 or 2 years run only, so we dont need to force someone else if they dont want to
+22:56 < linuxhiker> I do plan on running myself
+22:56 < tbm> Ganneff: ack
+22:56  * zobel will run.
+22:57 < linuxhiker> Ganneff: if the reason you are running is just to help with the 3 year issue, I would say... don't bother. Let's take the hit and move on. (If there are other reasons by all means please run)
+22:57 < Ganneff> ok, more on vote? and/or anyone else with a point?
+22:58 < Ganneff> linuxhiker: nah, i want to run anyways
+22:58 < tbm> It would be good to make a decision today because I'd like to announce the voting timeframe / process.
+22:58 < linuxhiker> tbm: I say let it ride
+22:59 < Ganneff> anyone else who volunteers for a shortened period? thats easiest to align things
+22:59  * zobel
+22:59 < xnox> to be honest we should just run election, get the new board, hopefully enough people.
+22:59 < Ganneff> (obviously needs them to get in and wont help if we dont)
+22:59 < xnox> and then we can voluntarily decide to shorten terms
+23:00 < xnox> and everyone for three years
+23:00 < linuxhiker> that is two of six to let it ride, anyone else?
+23:00 < schultmc> at least 3 of the remaining aren't running for election
+23:01 < tbm> linuxhiker: I think only Ganneff, zobel and you are running this year.  The other 3 are TBD
+23:01 < Ganneff> whatever, noone stops one from resigning just at the right time...
+23:01 < linuxhiker> Ganneff: true
+23:01 < Ganneff> so lets get the election started and it will sort out?!
+23:01 < linuxhiker> Ganneff: agreed
+23:01 < Ganneff> (i assume that board members are sensible. bad me, i know :) )
+23:01 < tbm> Ok, I'll post an overtime of the timeline in a few days
+23:02 < zobel> overview?
+23:02 < Ganneff> anyone else an aob? aeaaob?
+23:02 < tbm> zobel: overview, yes :)
+23:02 < Ganneff> [item 9, Next board meeting]
+23:02 < Ganneff> Next board meeting: July 14, 2016, 20:30 UTC
+23:02 -!- Ganneff changed the topic of #spi to: http://www.spi-inc.org/ | Next board meeting July 14, 2016, 20:30 UTC (aka `date -d @1468528200` or `date -r @1468528200`)
+23:02 < zobel> no
+23:03 < tbm> Oh,we forgot to discuss zobel's request to move th next boarding meeting
+23:03 < zobel> i suggested to mvoe that meeting once week, into the DC16 week.
+23:03 < Ganneff> do we have loads of DC16 attendees? or why?
+23:03 < zobel> a couple of us might be traveling afterwards.
+23:03 < tbm> as a reminder, the next board meeting is the Annual General Meeting
+23:04 < xnox> i will be at DC16
+23:04 < Ganneff> im fine with moving it. anyone here? or a short vote on it?
+23:04 < linuxhiker> doesn't matter to me
+23:04 < tbm> One concern about doing it during DC16 is that it will be quite late in the evening (yes, I know same time for some of you
+23:04 < schultmc> i'm fine moving it
+23:04 < zobel> i am fine with moving.
+23:05 < zobel> bdale will be at DC16, me will be, xnox will be.
+23:05 < tbm> I'd prefer to keep it but I don't mind moving it.
+23:05 < zobel> who else?
+23:05 < Ganneff> to which date?
+23:05 < tbm> zobel: I will be there
+23:05 < Ganneff> 7? or 21?
+23:05 < zobel> same day, just one week early.
+23:05 < Ganneff> so 7
+23:05 < zobel> yes.
+23:06 < Ganneff> [item 9, Next board meeting]
+23:06 < Ganneff> Next board meeting: July 07, 2016, 20:30 UTC
+23:06 -!- Ganneff changed the topic of #spi to: http://www.spi-inc.org/ | Next board meeting July 07, 2016, 20:30 UTC (aka `date -d @@1467923400` or `date -r @@1467923400`)
+23:06 < Ganneff> *GAVEL*
