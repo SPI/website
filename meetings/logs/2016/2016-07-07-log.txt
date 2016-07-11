@@ -1,0 +1,193 @@
+22:45 < bdale> *GAVEL*
+22:45 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Annual General Meeting, which is now called to order.
+22:45 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-07-07/
+22:45 < bdale> [item 2, Roll Call]
+22:45 < bdale> Board members, please state your name for the record.  As we have seven board members, quorum for today's meeting is six.
+22:45  * zobel is around now
+22:45 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+22:45 < linuxhiker> Joshua D. Drake
+22:45 < Ganneff> Joerg Jaspert
+22:45 < schultmc> Michael Schultheiss
+22:45 < zobel> Martin Zobel-Helas
+22:45 < bdale> Bdale Garbee
+22:45 < tbm> Martin Michlmayr
+22:46 < zobel> we have quorum
+22:46 < bdale> who's missing?
+22:46 < Noodles> xnox.
+22:46 < bdale> oh, ok
+22:46 < zobel> xnox, who should be around here at DC16 as well.
+22:47 < zobel> shall we proceed anyway?
+22:47 < bdale> perhaps he'll join at some point.  in any case, we can proceed
+22:47 < bdale> [item 3, President's Report]
+22:47 < bdale> As I have previously indicated, after 12+ years on the board and 10 as President, I have decided to not stand for re-election this year.
+22:47 < bdale> [item 4, Treasurer's Report]
+22:47 < bdale> Michael?
+22:47 < schultmc> A treasurer's report covering all of 2015 was added to the LaTeX file for the annual report this afternoon
+22:48  * luca is here
+22:48 < zobel> \o/
+22:48 < schultmc> zobel, tbm, and I are working on getting current financials into ledger-cli
+22:48 < schultmc> aiui, the january 2016 report is complete in ledger-cli
+22:48 < schultmc> february and march 2016 should be complete shortly
+22:48 < schultmc> we should be caught up on reports in the near future
+22:48 < zobel> as is february, but before i publish that
+22:49 < schultmc> ledger-cli will greatly streamline the report generation process
+22:49 < zobel> i want tbm to cross-check that i didn't do too many crazy stuff in ledger.
+22:49 < tbm> Yes, I will do that soon.
+22:49 < zobel> i am currently processing march, which i might finish before the week ends.
+22:49 < bdale> thanks very much for working on this, zobel
+22:50 < zobel> luca: query tbm saying you want to be recorded.
+22:50 < tbm> zobel: I've recorded luca filipozzi
+22:50 < zobel> also thank schultmc who provided all the raw data to me recently.
+22:50 < bdale> anything else relating to the treasurer's report?
+22:50 < zobel> yes
+22:50 < zobel> schultmc: did you do the IRS filing?
+22:51 < schultmc> zobel: it's due 2016-08-15 - it will be completed in the next few weeks
+22:51 < schultmc> the report for the annual report has the data needed for the IRS filing
+22:51 < zobel> okay. thought it was actually due on july 1st.
+22:51 < zobel> great.
+22:51 < bdale> anything else?
+22:51 < zobel> done
+22:51 < schultmc> done
+22:52 < bdale> ok, thanks you all for the recent level of activity...
+22:52 < bdale> [item 5, Secretary's report]
+22:52 < bdale> Martin?
+22:52 < tbm> I'm happy to report that all minutes are complete and that throughout this year minutes and other secretary tasks were up-do-date most of the time.
+22:52 < tbm> No trademark renewals or other updates are required at the moment.
+22:52 < tbm> Torch has accepted our invitation from the last meeting.
+22:52 < tbm> I have the 2015 annual report ready to present.
+22:52 < tbm> Thanks to a number of associated projects for submitting reports about their activities.
+22:52 < tbm> Thanks to Michael for submitting the treasurer report for 2015.
+22:52 < tbm> .
+22:53 < bdale> awesome, thanks!
+22:53 < bdale> [item 6, Outstanding minutes]
+22:53 < bdale> I believe we have one set to vote on this month?
+22:53 < tbm> correct
+22:54 < tbm> Voting started, 6 people (bdale,ganneff,tbm,schultmc,linuxhiker,zobel) allowed to vote on Meeting minutes for Thursday 9 June 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:54 < bdale> !vote abstain
+22:54 < Ganneff> !vote yes
+22:54 < tbm> !vote yes
+22:54 < schultmc> !vote yes
+22:54 < linuxhiker> !vote yes
+22:54 < zobel> !vote yes
+22:54 < tbm> Current voting results for "Meeting minutes for Thursday 9 June 2016": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+22:54 < tbm> Voting for "Meeting minutes for Thursday 9 June 2016" closed.
+22:54 < zobel> crappy network here in my room ATM.
+22:54 < bdale> yes, laggy
+22:55 < bdale> [item 7, Items up for discussion]
+22:55 < bdale> None.
+22:55 < bdale> [item 8, Any other business]
+22:55 < bdale> I note that there is an SPI BOF scheduled here at Debconf16 tomorrow.  All board members in Cape Town please plan to attend!
+22:55 < bdale> Do any contributing members present have items for discussion they would like to address briefly?
+22:55 < Maulkin> o/
+22:55 < bdale> Maulkin: go
+22:55 < Maulkin> Unless the AGM is separate :)
+22:55 < bdale> nope, one meeting to rule them all...
+22:56 < Maulkin> So, as Debian representative to the board in 2015/16, I sent a message to the board requesting consideration to hiring an enployee.
+22:56 < Maulkin> This was in response to exceptionally large times in processing reinbursements.
+22:56 < linuxhiker> Maulkin: when did that request come in?
+22:56 < Maulkin> I recognise completely that there has been great improvements in treasurer processes, and am hugely greatfulfor these. (thanks all!)
+22:57 < Maulkin> However, I still believe that SPI would be greater served by creating this role so its member projects can benefit from a regular and expected response times.
+22:58 < Maulkin> This request was sent Tue, 19 May 2015 20:49:19 +0100 - what progress has been made over the last year?
+22:58 < Maulkin> .
+22:58 < tbm> There was some conversation about that.  I believe we need to better understand the current process
+22:58 < bdale> we investigated a couple of different avenues for obtaining paid help
+22:58 < tbm> what causes the bottleneck, what takes up the time and where does it make sense to get help.
+22:59 < bdale> the general concensus was that we should transition to a process and toolset that would make it easier to get others involved before trying to apply paid staff to the problem
+22:59 < bdale> it seems likely that we can sub-contract transaction processing needs with the new system out to, eg, SFC as an alternative to actually hiring an employee ourselves if the new tools and processes aren't sufficient to solve the problem by themselves entirely using volunteer labor
+23:00 < bdale> so .. we haven't hired anyone, but took the input seriously and it among other similar concerns raised has driven much of our activity in this area in recent months
+23:02 < bdale> anything else anyone wants to say on this, and/or any other topics?
+23:02 < Maulkin> Thank you bdale. I would request that this is added as a recurring agenda item to the board meeting to ensure this is tracked. This item (which I receved a response saying it is being looked at a /year/ ago) is (I feel) being dragged along.
+23:02 < linuxhiker> For me, Nothing that will be productive
+23:02 < Maulkin> Would it be possible to ensure some sort of actionable item is added to ensure this is resolved month by month?
+23:03 < bdale> Maulkin: fair enough.  we haven't had a practice of reviewing ongoing/pending transitional activities in board meetings, adding that to our routine agenda (ala "old business") does seem like a good idea
+23:03 < Maulkin> Perhaps even a monthy email to -private or -project etc?
+23:03 < Maulkin> bdale: ack :)
+23:03 < Maulkin> I completely undertsand that as volunteers things can get lost
+23:03 < linuxhiker> Maulkin: Assuming I am reelected, this *is* my task. I am rather antagonized by it
+23:03 < bdale> I'll add it to my script for next month, which is likely to be the last meeting I chair
+23:03 < Maulkin> (and apologise to the board if I'm seeming too pushy over this, but I'm sure you can understand the frustration)
+23:03 < bdale> Maulkin: no worries
+23:04 < linuxhiker> Maulkin: I think you are being completely reasonable
+23:04  * Maulkin is done, thanks to all.
+23:04 < zobel> one more question i have. which is directed to tbm.
+23:04 < bdale> tbm: please make sure we add this to next month's meeting agenda, between sections 7 and 8 of this meeting's agenda, for example
+23:05 < bdale> zobel: go
+23:05 < Maulkin> bdale: thanks
+23:05 < zobel> tbm: i thought we have a spi liason mailing list or address, which i fail to find. did you mail our liasons about the current running self nomination period for the vote, or did you just mailed -announce@ ?
+23:06 < tbm> zobel: it's spi-projects and I emailed that list, yes.
+23:06 < tbm> I'm happy to report that there's a lot of interest in the election
+23:06 < tbm> I already received 5 platforms
+23:06 < zobel> \o/
+23:06 < bdale> I would love to see sufficient nominations to require an actual election this year!
+23:06 < zobel> done.
+23:06 < tbm> and I'm aware of several other people who expressed an interest
+23:06 < Ganneff> oi
+23:07  * Ganneff will send one in later too. elections coming!
+23:07 < bdale> ok, anything else on this topic, or any other topics?
+23:07 < zobel> Ganneff: http://lists.spi-inc.org/spi-projects -> 404
+23:08 < zobel> Ganneff: will you be around for another 5min after the meeting?
+23:08 < Ganneff> silly zobel
+23:08 < Ganneff> http://lists.spi-inc.org/listinfo/spi-projects
+23:08 < bkuhn> Sorry, I was working on my talk and lost track of time, on Maulkin's matter, there is actually some value to discussing the subcontracting potential to Conservancy that  bdale mentioned sooner due to Conservancy's budgeting cycle.  Is it possible we could have an in-person conversation with the SPI Directors at DebConf so I can explain further, with summary SPI Board thereafter?
+23:09 < bdale> bkuhn: sounds reasonable.  maybe after the SPI BOF?
+23:09 < bkuhn> bdale: I'll be there.  Thanks!
+23:09 < Maulkin> For info, I think that would be great
+23:09 < bdale> I forget exactly when that falls on the calendar, but an in-person discussion with those of us here sounds useful
+23:09 < bdale> anything else?
+23:09 < tbm> Tomorrow at 11:15 local time
+23:10 < Noodles> Has the board made any progress on their D&O insurance?
+23:10 < bdale> tbm: thanks.  I should tweak up my usual slide deck tonight, then
+23:10 < bdale> Noodles: some research was done, I think we're to the point where an officer needs to engage in getting actual, detailed quotes
+23:10 -!- mauritslamers [~anonymous@p5B3BF79D.dip0.t-ipconnect.de] has quit [Quit: mauritslamers]
+23:10 < bdale> linuxhiker: that's about right?
+23:11 -!- mauritslamers [~anonymous@p5B3BF79D.dip0.t-ipconnect.de] has joined #spi
+23:11 < linuxhiker> bdale: If we want more than one quote, yes else we just need to join that org and sign papers
+23:12 < bdale> ok.  right, forgot about the join the org blocker.  I see no problem with doing that in any case.
+23:12 < tbm> I'll look into it.
+23:12 < linuxhiker> bdale: the key being, only an officer can do it
+23:12 < zobel> tbm is an officer....
+23:13 < zobel> and he volunteered.
+23:13 < linuxhiker> zobel: I know, he just typed before I hit enter
+23:13 < bdale> right, I remember now.  if you and/or tbm need me personally to engage on this, point me in the right direction and I'll get it done.  otherwise, happy for someone else to work on it
+23:13 < bkuhn> Oh, SPI is NYS, right?  You all should look into NPCC discounted quote.
+23:13 < bdale> yes
+23:13 < bdale> and yes
+23:13 < tbm> Yes, we're considering NPCC
+23:13 < linuxhiker> bkuhn: yeah that is where we are lookign
+23:14 < bdale> so, ok, let's act on joining NPCC asap and go from there?
+23:14 < linuxhiker> bdale: yes... that is what we all discussed
+23:14 < bkuhn> bdale: if you want, (non-public) I can tell SPI what deal Conservancy got via NPCC to give you an idea...
+23:14 < bkuhn> .... if you want to save the cost of joining NPCC just to get a quote from their preferred vendor (Frank Crystal and Associaties)
+23:15  * bdale shrugs
+23:15 < bdale> knowing you think it's a decent deal is probably sufficient
+23:15 < linuxhiker> bkuhn: it was like 35.00 bucks (and there are other benefits)
+23:16 < bkuhn> Ah, I didn't realize SPI was under the $124,999 level
+23:16 < linuxhiker> (might have been 65.00)
+23:16 < linuxhiker> I would have to check the archive
+23:16 < bkuhn> no you're right https://www.npccny.org/membership/how-to-join/
+23:16 < bdale> not important for this discussion
+23:16 < bkuhn>  it's worth the $35 undoubtedly, join even if you don't need Frank Crystal discount. :)
+23:16 < bdale> right
+23:17 < bdale> linuxhiker was looking into it, got to where an officer needed to engage, and we stalled there
+23:17 < bdale> we can un-stall this week
+23:17 < Hydroxide> yeah that org seems 100% worth it for any cost even in the same order of magnitude you're discussing, or even one more.
+23:17 < bdale> ok, thanks
+23:17 < bdale> Hydroxide: and good to see you here!
+23:18 < bdale> ok, anything else on this topic, or any other topics?
+23:18 < bdale> [item 9, Next board meeting]
+23:18 < bdale> Our next regularly-scheduled monthly meeting will be August 11th, 2016, 20:30 UTC
+23:18 < bdale> Any strong objections?
+23:18 < Maulkin> Only a massive thanks to the board for the year, and a personal one for bdale.
+23:19 < bdale> Maulkin: thanks .. I'm quite happy to have been able to contribute here over the years, and I'm not "down" on SPI in any way, I just think I've been in this seat long enough and it's time to pass the baton
+23:19 < Ganneff> i may not be able to attend there. vacation times
+23:19 < Maulkin> Perhaps, if permitted, a board resolution thanking bdale for his service in many years to free software and the years he has contributed?
+23:19 < bdale> next month would work
+23:20 < Maulkin> To be recorded in the minutes?
+23:20 < bdale> I expect to chair that meeting unless some $dayjob thing comes up to conflict
+23:20 < bdale> anything else today?
+23:21 < Ganneff> tbm: ^^ possible regrets for me for next meeting. i try to, but unsure im around
+23:21 < tbm> Ganneff: ok
+23:21 < zobel> bdale: fine
+23:21 < zobel> and i hope we see a lot of new board members by that meeting!
+23:21 < bdale> Ok, thank you to everyone present for participating today.
+23:21 < bdale> *GAVEL*
