@@ -1,0 +1,18 @@
+digraph Results {
+    ranksep=0.25;
+    "Bdale Garbee" [ style="filled", fontname="Helvetica", fontsize=10, color="#99ff99" ];
+    "Bdale Garbee" -> "Joerg Jaspert" [ label="38" ];
+    "Bdale Garbee" -> "Martin Zobel-Helas" [ label="39" ];
+    "Bdale Garbee" -> "Joshua D. Drake" [ label="37" ];
+    "Bdale Garbee" -> "Gregers Petersen" [ label="33" ];
+    "Joerg Jaspert" [ style="filled", fontname="Helvetica", fontsize=10, color="#99ff99" ];
+    "Joerg Jaspert" -> "Martin Zobel-Helas" [ label="7" ];
+    "Joerg Jaspert" -> "Joshua D. Drake" [ label="15" ];
+    "Joerg Jaspert" -> "Gregers Petersen" [ label="16" ];
+    "Martin Zobel-Helas" [ style="filled", fontname="Helvetica", fontsize=10, color="#99ff99" ];
+    "Martin Zobel-Helas" -> "Joshua D. Drake" [ label="10" ];
+    "Martin Zobel-Helas" -> "Gregers Petersen" [ label="17" ];
+    "Joshua D. Drake" [ style="filled", fontname="Helvetica", fontsize=10, color="#99ff99" ];
+    "Joshua D. Drake" -> "Gregers Petersen" [ label="11" ];
+    "Gregers Petersen" [ style="filled", fontname="Helvetica", fontsize=10, color="#ff9999" ];
+}
