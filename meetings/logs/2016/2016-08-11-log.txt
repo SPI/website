@@ -1,0 +1,324 @@
+22:30 < bdale> *GAVEL*
+22:30 < bdale> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+22:30 < bdale> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-08-11/
+22:31 < bdale> [item 2, Roll Call]
+22:31 < bdale> Board members, please state your name for the record.  As we have eight board members, quorum for today's meeting is six.
+22:31 < bdale> Guests (including board advisors), please /msg your names to tbm if you wish your attendance to be recorded in the minutes of this meeting.
+22:31 < Ganneff> Joerg Jaspert
+22:31 < schultmc> Michael Schultheiss
+22:31 < zobel> Martin Zobel-Helas
+22:31 < luca> Luca Filipozzi
+22:31 < tbm> Martin Michlmayr
+22:31 < Hydroxide> Jimmy Kaplowitz
+22:31 < tridge> Andrew Tridgell
+22:31 < xnox> Dimitri John Ledkov
+22:31 < spectranaut> Valerie Young
+22:31 < bdale> Bdale Garbee (outgoing President, not to be counted for quorum today)
+22:31 < bdale> looks like that's everyone?
+22:31 < tbm> yes
+22:31 < zobel> all new board members present.
+22:32 < bdale> awesome!
+22:32 < bdale> [item 3, President's Report]
+22:32 < bdale> Congratulations and welcome to the newly-elected and re-elected board members!
+22:32 < bdale> It has been an honor and a privilege to serve the last 10 years as President, and several more as a member of or advisor to the SPI board.  I am very
+22:32 < bdale> pleased to leave the organization in such good hands, and in so much better shape than when I took over so long ago...
+22:32 < bdale> [item 4, Treasurer's Report]
+22:32 < bdale> Michael?
+22:33  * bdale notes he's sitting in a store in southern Illinois in the middle of a family road-trip using his phone for Internet access, apologies for the lagginess...
+22:33 < schultmc> zobel and I are working on getting our financial data in ledger-cli. February and March 2016 reports should be ready to send out. We're working on getting the remaining reports entered ASAP.
+22:33 < schultmc> zobel has volunteered to serve as assistant treasurer.
+22:34 < schultmc> I'm working on finalizing our IRS and NYS filings which are due on 2016-08-15
+22:35 < bdale> anything else?
+22:35 < schultmc> not at this time
+22:35 < bdale> [item 5, Secretary's report]
+22:35 < bdale> Martin?
+22:36 < tbm> The new directors have been added to the board list.
+22:36 < tbm> I'm hoping to create some onboarding information but haven't found time yet.
+22:36 < tbm> .
+22:36 < bdale> anything else?
+22:36 < tbm> I cannot think of anything right now.
+22:36 < tbm> Oh
+22:37 < tbm> All new directors submitted their conflict of inerest declarations which is a requirement before they are appointment
+22:37 < tbm> I also asked all other directors to submit new declarations so we can rewnew them at the same time for everyone
+22:37 < tbm> I'm happy to report that everyone submitted their declarations.
+22:37 < tbm> thank you!
+22:38 < bdale> awesome!
+22:38 < bdale> [item 6, Outstanding minutes]
+22:38 < bdale> Do we have any?
+22:38 < tbm> Yes
+22:38 < zobel> according to the agenda: yes
+22:38 < tbm> The 7 July meeting notes
+22:39 < bdale> right, I see them
+22:39 < Hydroxide> nice, I was watching over the shoulder of a registered guest and so can actually not abstain on these.
+22:39 < tbm> Are we ready to vote on them or do people need a few minutes?
+22:39 < bdale> I can vote
+22:39 < tridge> i've read them
+22:40 < tbm> Ok, let's vote.
+22:40 < spectranaut> voting on the minutes merely means approving them?
+22:40 < bdale> it has been our habit that those who attended the meeting vote yes or no, and those who did not attend abstain
+22:40 < spectranaut> oh I see
+22:40 < tbm> I wasn't going to include bdale though. Is that incorrect?
+22:40 -!- taral [sid19346@id-19346.tooting.irccloud.com] has joined #spi
+22:40 < Hydroxide> spectranaut: but yes, the point of that vote is to confirm the accuracy of what happened, not to say whether you liked the results or not.
+22:40 < bdale> I'm no longer a board member, but I did attend the meeting and can attest to the minutes being fien
+22:40 < bdale> fine, even
+22:41 < tbm> Voting started, 9 people (hydroxide,luca,ganneff,tbm,schultmc,spectranaut,tridge,zobel,xnox) allowed to vote on Meeting minutes for Thursday 7 July 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+22:41 < schultmc> !vote yes
+22:41 < zobel> !vote yes
+22:41 < luca> !vote yes
+22:41 < tridge> !vote yes
+22:41 < Hydroxide> !vote yes
+22:41 < xnox> !vote yes
+22:41 < tbm> !vote yes
+22:41 < Ganneff> !vote yes
+22:42 < spectranaut> !vote abstain
+22:42 < zobel> oh, we will need to teach spectranaut the vote script... :) that will be fun....
+22:42 < tbm> Current voting results for "Meeting minutes for Thursday 7 July 2016": Yes: 8, No: 0, Abstain: 1, Missing: 0 ()
+22:42 < tbm> Voting for "Meeting minutes for Thursday 7 July 2016" closed.
+22:42 < bdale> thanks
+22:42 < bdale> [item 7, Outstanding actions]
+22:42 < bdale> What's this for?
+22:42 < tbm> This is a new entry we added last time to track outstanding action items
+22:43 < bdale> anything to track today?
+22:43 < tbm> It was for the D&O insurance which is under the agenda under new business as well.
+22:43 < bdale> ok
+22:43 < bdale> move on?
+22:43 < tbm> Ok
+22:43 < Hydroxide> wait
+22:43 < Hydroxide> it was also for something related to employees, if I remember right, yes?
+22:43 < bdale> fwiw, I'd be tempted to put any outstanding actions under items up for discussion so there's an explicitly visible list
+22:44 < Hydroxide> checking the last meeting minutes
+22:44 < Hydroxide> not reflected in those minutes, i may have misremembered.
+22:44 < bdale> Neil asked about hiring an employee, I don't see a correlation to this item on the agenda
+22:44 < Hydroxide> proceed, never mind
+22:44 < bdale> [item 8, Items up for discussion]
+22:44 < bdale> [item 8.1, Directors and officers liability insurance]
+22:45 < bdale> JD made progress on this, it now needs an officer to engage
+22:45 < tbm> The current thinking is to sign up for NPCC and get a discounted quote through them.
+22:45 < bdale> yes
+22:45 < tbm> I spoke to Conservancy and they also use NPCC
+22:45 < bdale> a good action item for the next president?
+22:45 < Hydroxide> fwiw when i saw people mention NPCC my gut reaction was "oh yeah I had seen their web page before and they seemed sane"
+22:45 < tbm> Unfortunately, I haven't had time to put together a proposal but I'm happy to do it for the next meeting.
+22:46 < bdale> ok, sounds good
+22:46 < Hydroxide> it would be lovely to have established contact with them and maybe even sign up before the next meeting
+22:46 < Hydroxide> yay tbm
+22:46 < schultmc> are we eligible for NPCC? iirc they require a greater NYC presence
+22:46 < bdale> [item 8.2, SPI business contacts (PO box vs real address; virtual PBX)]
+22:46 < bdale> schultmc: investigation to date says yes
+22:46 < schultmc> cool
+22:46 < tbm> schultmc: what do you mean by greater NYC presence?
+22:46 < bdale> we'll find out when we apply, I guess
+22:46 < Hydroxide> schultmc: they can tell us :) I'll also conveniently be living in NYC again from early September until some time in the first half of 2017
+22:46 < Hydroxide> schultmc: so it's possible that will help when tbm talks to them, though it's not permanent/multi-year
+22:47 < bdale> who wants to talk about the contacts item?
+22:47 < schultmc> The Nonprofit Coordinating Committee of New York gives your nonprofit a voice. With a membership of over 1,400 organizations throughout New York City, Long Island and Westchester
+22:47 < luca> i'm happy to speak to the contacts item
+22:47 < bdale> go
+22:47 < luca> we had an email thread between Debian and SPI regarding the need for physical presense
+22:47 < luca> at leastto the extent that it isn't a PO BOX
+22:48 < bdale> oh, right
+22:48 < luca> and that perhaps we don't want an individual's phone number for our contact address
+22:48 < luca> we needed this to get an EV cert for SecureBoot stuff
+22:48 < xnox> like a virtual office mail-drop address? (something that sounds like a street & house, rather than a PO BOX?)
+22:48 < luca> but there were a number of ideas expressed
+22:48 < schultmc> FWIW we do have a street address version of our PO Box although I'm not opposed to a virtual office
+22:48 < luca> xnox: correct
+22:48 < luca> but we can also get mail opening/scanning if we want
+22:48 < bdale> who wants to take an action item to turn this into a concrete proposal?
+22:48 < luca> and we can get cheque deposit if we want
+22:49 < bdale> perhaps the next secretary?
+22:49 < luca> i'm happy to do that at the next President's pleasure
+22:49 < luca> or the next Secretary
+22:49 < xnox> Ideally with a matching PBX number with the right sort of prefix/city code as the address?!
+22:49 < luca> either way; but it'd be good to Establish Ourselves
+22:49 < bdale> ok, cool, if luca will lead and make sure this happens, I'm sure the right folks can engage
+22:49 < luca> arguably in NYC
+22:49 < Hydroxide> maybe doing that virtual office in NYC would help make NPCC happy, yes :)
+22:49 < bdale> Hydroxide: good point
+22:49 < bdale> anything else on this?
+22:50 < luca> nope
+22:50 < bdale> [item 8.3, Voting algorithm review]
+22:50 < Hydroxide> they also might be satisfied by changing our official NY office county from Albany to the corresponding NY county
+22:50 < luca> i asked tbm to add this; we don't need to act now; but we should delierate whether a change is needed, etc.
+22:50 < bdale> ok
+22:50 < luca> we have a year to make the change IF we believe a change is necessary
+22:50 < luca> but i don't want to see that email thread's ideas simply ignored
+22:51 < bdale> I suggest this be kept on the agenda for next month, and anyone interested try working this into a concrete proposal for inclusion in the proposed new bylaws
+22:51 < Hydroxide> I think it's fine if someone who views that as an urgent priority rather than merely something legitimately broken wants to spearhead a discussion and bring a proposal back to the rest of us
+22:51 < luca> i'd like them acknowledge and acted on or dismissed after a debate
+22:51 < Hydroxide> I'm open to considering a concrete proposal after the differing voices have been coalesced into one proposal (or two)
+22:51 < bdale> luca: I get it.  my gentle suggestion is keep it on items up for discussion until it gets closed
+22:51 < luca> it's not urgent, since we have a year; but it's appropriate for some self reflection
+22:51 < zobel> are we on 8.2 or 8.3 now? :)
+22:51 < luca> bdale: works for me
+22:52 < bdale> Hydroxide: are you up for ring-leading?
+22:52 < bdale> stuff always gets done better when there'
+22:52 < bdale> s a name attached...
+22:53 < bdale> hush or lag?  ;-)
+22:53  * xnox thinks our voting algorithm as good/as bad as any other, and is good enough to do the job.
+22:53 < Hydroxide> bdale: regarding the voting propopsal thing, no, i don't feel it's as urgent compared to our other problems
+22:53 < bdale> ok
+22:53 < bdale> so leave it on the agenda for next month and move on?
+22:53 < Hydroxide> bdale: if luca or someone else does, they're welcome to. I care more about getting our bylaws overhauled :)
+22:53 < luca> again, it's not a question of urgency; it's a question of transparency
+22:53 < bdale> Hydroxide: ok.  if you want to take over championing the new bylaws, I'll be happy to continue to help.  there are a number of inputs to review and incorporate
+22:54 < bdale> ok
+22:54 < bdale> moving on
+22:54 < bdale> [item 8.4, Enumeration of open issues]
+22:54 < bdale> ?
+22:54 < tbm> I agree with luca that it woul be good to formally acknowledge the discussion
+22:54 < tbm> luca asked for that agenda item
+22:54 < luca> i asked this to be added; as a new director, i wanted a sense of what's "on our table"
+22:54 < bdale> how is this different from item 7, or from the list of sub-items on 8?
+22:54 < luca> if that's captured by these minutes, that works for me
+22:54 < bdale> ok
+22:54 < bdale> I think so
+22:55 < luca> but i don't see the various projects seeking membership listed, for example
+22:55 < bdale> the only thing not listed has already been mentioned, which is the proposed new bylaws which need work to get to a v2
+22:55 < bdale> [item 8.5, New directors' orientation]
+22:55 < bdale> tbm says not done yet?  anything else?
+22:55 < luca> so, short of trolling the mailing list archive, how do i know what's an open thing
+22:55 < luca> trawling, maybe; not trolling
+22:55 < bdale> luca: meeting minutes + email archive
+22:55 < tbm> I am not sure we're done with 8.4 yet
+22:55 < tridge> i've volunteered to put together some orientation info based on what I learn as a new director
+22:56 < tbm> The big items are moving to a ledger based accounting system
+22:56 < tridge> and I've started asking Qs on the board list so I can gather info for that
+22:56 < tbm> getting the new bylaws ready for a vote
+22:56 < luca> anyway, i'd live to see a complete list of open items
+22:56 < tbm> anyway, I'm fine with taking this to the board list.  I'll try to follow up on some outstanding tasks so you see what's been going on
+22:56 < bdale> tridge: awesome.  suggest you be prepared to report on progress at next board meeting?
+22:57 < tridge> sure
+22:57 < tbm> regarding 8.5: new directors can ask on the board list.
+22:57 < bdale> luca: we've never had one, so that just requires making one from the minutes of this meeting + perhaps discussion on board list?
+22:57 < tbm> I am still hoping to document a few more things
+22:57 < tbm> happy to work with tridge on this.
+22:57 < bdale> cool
+22:57 < luca> bdale: a job for a Secretary, maybe :)
+22:57 < bdale> could be
+22:57 < luca> where are we on the agenda?
+22:57 < bdale> done with 8.4 and 8.5?
+22:57 < xnox> there are two in progress member project applidations that I've been replying to "O...I" and "Q....s". I don't think we are at the stage to draft resolution for either of them.
+22:58 < tbm> Ganneff: how can new directors get access to mailing list archives?
+22:58  * xnox ponders if we need a "tasks" git repo
+22:58 < bdale> everyone I was talking to has either been voted in or handed off to others, fyi
+22:58 < luca> tridge: "as a director, you need to do these three things; get access to this git repo; be on this mailing list; etc."
+22:58 < Ganneff> tbm: mailman webinterface
+22:58 < bdale> xnox: maybe a file in the board repo would suffice?
+22:58 < tbm> Ganneff: ok, great
+22:59 < xnox> yeah.
+22:59 < luca> xnox: or an RT queue
+22:59 < bdale> [item 8.6, SPI in Canada]
+22:59 < Ganneff> for role addresses, mboxes exist too.
+22:59  * xnox has no access to RT last time I tried
+22:59 < tridge> RT queue I think
+22:59 < luca> xnox: the discussion doesn't need to be there, just the tracking
+22:59 < tridge> I also don't have RT access yet
+22:59 < xnox> luca, yeah, but helps with creating a "mini mailing list" and closing when done.
+22:59 < Ganneff> rt access must be handed out for new people (and those of old who didnt ever asked/got one before)
+22:59 < luca> xnox: indeed
+23:00 < luca> i asked for 8.6
+23:00 < zobel> running low on battery...
+23:00 < luca> there are two motivations
+23:00 < luca> (1) Debian has a lot of equipment at UBC
+23:00 < luca> but we don't have a TO in Canada
+23:01 < luca> SPI (USA) has sufficed, for the most part; but it might be useful to have SPI (Canada)
+23:01 < luca> (2) DebConf17 needs an organization to marshal Canadian funds
+23:01 < bdale> my guess is you won't get much objection, but you also won't get a lot of interest until/unless this is a specific proposal
+23:01 < Hydroxide> I have investigated case #2 and can offer a specific proposal
+23:01 < Hydroxide> it would handle both cases
+23:01 < xnox> luca, I've been thinking a bout "SPI Anglais" based in the UK as well to catch/offer SPI-like services in the UK / EU (tax-efficient donations)
+23:02 < bdale> can this move to a list?
+23:02 < bdale> not clearly board meeting content
+23:02 < luca> agree that discussion required
+23:02 < xnox> luca, I think based on charter and laws everywhere, we'd have to keep the entities independent. And like probably license the logo use, or some such.
+23:02 < Hydroxide> I'm fine with a mail, sure.
+23:02 < bdale> until/unless some explicit relationship between such a hypothetical organization and SPI were proposed
+23:02 < luca> just wanted a sense of the board ... useful / not useful?
+23:02 < luca> if useful, we can discuss further
+23:02 < Hydroxide> my proposal is not to make a separate organization for Canada, just use SPI
+23:02 < Hydroxide> for the UK the details might be different
+23:03 < Hydroxide> but yes I can explain more on the list
+23:03 < bdale> anything else on 8.6 now?
+23:03 < Hydroxide> there are specific reasons why the tradeoffs of hassle work that way for Canada which I haven't investigated for the UK. </done>
+23:03 < xnox> luca, needs a survey if there is demand for such a thing across our project, and what sort of set of services one wants to provide.
+23:03 < luca> no; i'm hearing 'useful'
+23:03 < bdale> I agree, useful to at least explore the options
+23:03 < bdale> moving on
+23:04 < bdale> [item 9, Appointment of board officers]
+23:04 < tbm> I received the following nominations:
+23:04 < tbm> * President: Martin Michlmayr
+23:04 < tbm> * Vice-President: Joerg Jaspert
+23:04 < tbm> * Treasurer: Michael Schultheiss
+23:04 < tbm> * Secretary: Valerie Young
+23:04 < bdale> it appears to me that we have one nomination in hand for each of the 4 roles.  any other nominations?  if not, we could vote to approve in one vote?
+23:04 < zobel> *cough*
+23:04 < bdale> zobel: yes?
+23:06 < Hydroxide> one vote seems great to me, as does the slate of officers. thanks to tbm and spectranaut for volunteering for those new roles and to Ganneff and schultmc for continuing!
+23:06 < luca> directors are elected every year?
+23:06 < luca> since there's a new board every year?
+23:06 < bdale> yes
+23:06 < luca> okay
+23:06 < zobel> luca: yes
+23:06 < luca> i'm good with this
+23:06 < schultmc> zobel and I are preparing for the eventuality of me no longer being Treasurer - ideally next term or sooner he'll be able to step into the Treasurer role. For now I've agreed to remain Treasurer
+23:07 < luca> thanks everyone for your service to date and for volunteering for another year
+23:07 < Hydroxide> luca: assuming you meant 'officers'
+23:07 < bdale> schultmc: ok, I like orderly hand-overs.  thanks for working with zobel on this
+23:07 < luca> Hydroxide: aye
+23:07 < bdale> ok.  I move that we vote to approve the nominations.
+23:07 < tbm> Voting started, 9 people (hydroxide,luca,ganneff,tbm,schultmc,spectranaut,tridge,zobel,xnox) allowed to vote on Appoint officers as propoed. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+23:07 < schultmc> !vote yes
+23:07 < xnox> !vote yes
+23:07 < spectranaut> !vote yes
+23:07 < Hydroxide> !vote yes
+23:07 < tbm> !vote yes
+23:07 < tridge> !vote yes
+23:07 < Ganneff> !vote yes
+23:07 < zobel> !vote yes
+23:08 < tbm> luca?
+23:08 < luca> !vote yes
+23:09 < tbm> Current voting results for "Appoint officers as propoed": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+23:09 < tbm> Voting for "Appoint officers as propoed" closed.
+23:09 < tbm> I'd like to thank Bdale for serving as President for so many years!
+23:09 < bdale> tbm: congrats!  would you like to take over, or should I host this meeting to conclusion and let you start next month?
+23:09 < tbm> bdale: please continue :)
+23:09 < bdale> [item 10, Any other business]
+23:09 < bdale> Do any board members present have items for discussion they would like to address briefly?
+23:09 < tbm> There has been some discussion about having another face-to-face meeting
+23:09 < zobel> bdale: thanks for serving as President for the last 3 terms i was board member.
+23:09 < tbm> or a video conference or something
+23:10 < tbm> but no firm conclusion / decision
+23:10 < schultmc> the NYC F2F was very productive
+23:10 < bdale> an in-person meeting would be great, but I suspect doing one in 2016 will be a scheduling problem
+23:10 < schultmc> 1-2 F2F a year would be very beneficial
+23:10 < Ganneff> i have one short: im on vac and wont be online from later this evening til next sunday (no it at all with me), so response ewspecially to admin changing things will be delayed.
+23:11 < Hydroxide> I hope to know within the next 1 to 2 weeks whether I'll have to go to Africa again this year, after which I can probably commit to a specific F2F 2016 session or say that I can't make it this year.
+23:11 < bdale> [item 11, Next board meeting]
+23:11 < zobel> Ganneff: can you make me treasurer in RT before you leave, please? if not done already.
+23:11 < bdale> Our next regularly-scheduled monthly meeting will be September 8th, 2016, 20:30 UTC
+23:11 < bdale> Any strong objections?
+23:11 < Ganneff> zobel: i plan to.
+23:11 < zobel> Ganneff: thx
+23:11 < tbm> I'm not sure I can make September 8
+23:11 < bdale> tbm: follow up in email?
+23:12 < zobel> tbm: tell spectranaut
+23:12 < zobel> she is secretary now
+23:12 < bdale> ;-)
+23:12 < tbm> Ok
+23:12 < tbm> I'll try to make it.
+23:12 < spectranaut> it's in my power to move meeting days? :)
+23:13 < tbm> spectranaut: regrets are sent to you
+23:13 < bdale> yes.  usually with support/approval from the board, which is why we have this item on the agenda each month
+23:13 < zobel> schultmc: btw, i spoke to bkuhn during DC16 and he looked at the structure of our bookings. while he said some of my bookings methods are a bit overly complicated, in general we are doing good.
+23:13 < bdale> we've been known to push or pull a week to avoid mega-conflicts
+23:13 < Hydroxide> I'm not sure whether I can do september 8 either, though very possibly. the 16th would be easier for me.
+23:13 < Hydroxide> err 15th
+23:13 < schultmc> zobel: good to hear
+23:14 < bdale> "not sure" isn't compelling today
+23:14  * zobel hands bdale the golden GAVEL for the last time!
+23:14 < Hydroxide> (sticking with thursdays, didn't meant to propose a friday)
+23:14 < bdale> I suggest the meeting time be kept as-is
+23:14 < bdale> Ok, thank you to everyone present for participating today.  And thanks everyone for the strong support I've had over the last decade as SPI President!
+23:14 < bdale> *GAVEL*
