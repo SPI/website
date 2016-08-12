@@ -1,0 +1,150 @@
+# New board member information for SPI
+
+## Director responsibilities
+
+As a director, you have a fiduciary duty to the organization. Please read
+about the [responsibilities of
+directors](http://www.charitiesnys.com/pdfs/Right%20From%20the%20Start%20Final.pdf).
+
+SPI is incorporated in the state of New York (NYS) and has to abide by New
+York Not-For-Profit Corporation Law. SPI's operations are governed by [SPI
+by-laws](../../by-laws/).
+
+SPI has a [Conflict of Interest
+policy](../../resolutions/2016/2016-02-10.djl.1/).  Please read the policy
+carefully and think about any potential conflicts you have.  All directors
+have to fill out a Conflict of Interest declaration before appointment and
+annually thereafter.  When you act as a director of SPI, you have to make
+decisions with SPI's best interest in mind rather than the interest of
+another organization or project you're affiliated with.
+
+SPI conducts monthly meetings on IRC that you're expected to attend as a
+director.  You can find [details on the meeting page](/meetings/),
+including the usual meeting times, minutes, agendas and an ICS calendar
+file.
+
+SPI does not have Director and Officer (D&O) liability insurance currently,
+but we're hoping to sign up for an insurance policy soon.
+
+
+## Access to services
+
+When you become a board member you should ask for access to a number of
+services. You can send a request to the SPI sys admin team by email to an
+RT queue hosted at `rt.spi-inc.org`. Please email `sysadmin` at this domain
+with your requests.
+
+Key services to request access to are:
+
+ * Email alias: you can request an spi-inc.org email alias to use for SPI communication.
+ * Request Tracker (RT) web access: we use RT to track outstanding items.  There are several RT queues.
+ * SSH access for read/write access to git repositories: see below for more details.
+
+For SSH access you should send a public SSH key to the `sysadmin` alias.
+For RT access just send an email requesting access from your normal email
+address.  The sys admin team will also add you to the `spi-board` mailing
+list which is used for internal communication of the board of directors.
+This list is run by Mailman and you can [read the
+archives](http://lists.spi-inc.org/private/spi-board/) to get a better
+understanding of recent activities.  You will receive a password for the
+archives when you are added to the list.
+
+
+## Git repositories
+
+SPI has a number of public and private Git repositories.  You can see list
+of repositories you have access to by making an SSH connection to
+git@git.spi-inc.org.  The public Git repositories can also be found in
+[Gitweb](http://git.spi-inc.org/gitweb/).
+
+The URL form for these repos with SSH access is
+`git@git.spi-inc.org:REPO.git`, so once your SSH public key has been added
+you can clone the board git repo like this:
+
+    git clone git@git.spi-inc.org:board.git
+
+As a board member you will have write access to the following repositories:
+
+ * board
+ * board-private
+
+The `board` repository is public whereas `board-private` is private (as the
+name suggests).  It's generally preferred to add details to the web site or
+the public `board` repository for transparency but private details should
+be stored in `board-private`.
+
+When you become a director, please add your address and phone number to
+`Director_Contact_Details` in the private board repository so we have your
+contact details in case we cannot get hold of you via email.
+
+The [public board repository](http://git.spi-inc.org/gitweb/?p=board.git)
+contains some interesting material, so please make yourself familiar with
+it.  Please also check out the [other onboarding information](../) to get
+more familiar with the operation of SPI.
+
+Please be careful when making changes to the git repositories.  Do not do
+any forced pushes.
+
+
+## Email aliases
+
+You can see a [current list of SPI email aliases](http://git.spi-inc.org/gitweb/?p=puppet.git;a=blob;f=modules/postfix/files/virtual-spi-inc.org)
+
+When you become a board member you may request an email alias to be added
+to that list.  Please email the `sysadmin` alias.
+
+
+## Calendar link
+
+For people using google calendar there is a calendar maintained which is
+updated with the dates of board meetings.  Add [this
+URL](https://www.google.com/calendar/ical/d15uhtjihbkq1rf4fc4gf3kgjo@group.calendar.google.com/public/basic.ics)
+to Google Calendar using "Add by URL" in "Other calendars" in the Google
+Calendar web interface.  This is an ICS file so you can also use it
+with other calendar tools.
+
+
+## Etherpad
+
+When collaborating on a document with other SPI members you may find
+Etherpad useful.  SPI does not host its own Etherpad server but the
+[Etherpad instance at Riseup](http://pad.riseup.net/) can be used for
+non-confidential material.  Note that anyone with the URL of an Etherpad on
+that server can edit it, and if a pad is inactive for 30 days then it is
+automatically deleted.  Material should be moved into git soon after the
+initial collaboration.
+
+
+## Mailing lists
+
+You should be on the following mailing lists
+
+ * spi-announce
+ * spi-general
+ * spi-private
+ * spi-board
+
+In addition, the `spi-projects` mailing list can be used to reach all SPI
+liaisons from associated projects.  It is a moderated list so you can post
+without being a member of the list.  You can also request to be added as a
+board member if you are not already on the list.
+
+Some lists, in particular `spi-announce`, are moderated.
+
+
+## Committees
+
+The board can create committees for specific tasks.  These committees are
+listed here [on the website](../..//committees/).  At time of writing there
+is only one committee, the membership committee, which is made up of the same
+members as the board.
+
+
+## Legal services
+
+The Software Freedom Law Center (SFLC) provides pro-bono legal advice to
+SPI.  They provide advice and file trademark applications for SPI projects.
+
+
+[[!meta copyright="Copyright © 2016 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
