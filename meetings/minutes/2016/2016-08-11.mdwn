@@ -1,0 +1,201 @@
+﻿# Board Meeting, August 11th, 2016
+
+These minutes are a draft and still require review and approval by the board.
+
+
+__Board members present__
+
+* Bdale Garbee (bdale) (Outgoing president)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Martin Michlmayr (tbm) (Secretary)
+* Luca Filipozzi (luca)
+* Jimmy Kaplowitz (Hydroxide)
+* Dimitri John Ledkov (xnox)
+* Andrew Tridgell (tridge)
+* Valerie Young (spectranaut)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Mark Atwood (MarkAtwood)
+* Peter Eisentraut (petere)
+* Jonathan McDowell (Noodles)
+* H W Tovetjärn (totte)
+
+
+These are the minutes for the August 11th, 2016 SPI Board Meeting,
+held at 20:30 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2016/2016-08-11-log.txt).
+
+
+## President's Report
+
+As previously indicated, Bdale Garbee decided not to stand for re-election
+this year after 12+ years on the board and 10 as President.
+
+
+## Treasurer's report
+
+Martin Zobel-Helas volunteers to continue to serve as assistant treasurer. Michael Schultheiss and Zobel-Helas continue to work on getting financial data into ledger-cli. Presently the February and March 2016 reports have been completed and work for later months is ongoing.
+
+The IRS tax filing is due on August 15 and Schultheiss states he is presently finalizing them.
+
+
+## Secretary's report
+
+Martin Michlmayr states all new directors have been added to the board list and all directors have submitted their conflict of interest declarations.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 7th July 2016:
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 1 abstain, 0 missing.
+
+
+## Outstanding actions
+
+No outstanding actions of note.
+
+
+## Items up for discussion
+
+### Directors and officers liability insurance
+
+Martin Michlmayr remarks on the previous general consensus to seek discounted liability insurance through membership with the Nonprofit Coordinating Committee of New York (NPCC). Michlmayr volunteers to make a concrete proposal on this issue.
+
+Michael Schultheiss points out the NPCC supports only non-profits in the NYC metropolitian area. Kaplowitz recomments SPI change the official NY office county from Albany to a NYC as NPCC.
+
+
+### SPI business contacts (PO box vs real address; virtual PBX)
+
+Luca Filipozzi describes an email thread between Debian and SPI regarding the need for physical address that is not a PO Box and a phone number that is not a individual's private phone number. The address at least is required to get an EV cert for Secure Boot.
+
+The physical address might take the form of a virtual office mail-drop address, potentially with opening/scanning and check deposit features. Filipozzi will make a concrete proposal.
+
+Jimmy Kaplowitz notes this address should be in NYC for the benefit of NPCC.
+
+
+### Voting algorithm review
+
+Luca Filipozzi would like the board to discuss and publicly acknowledge the email thread regarding the voting algorithms. Discussion of the email thread is postponed to the next board meeting due to lack of urgency.
+
+
+### Enumeration of open issues
+
+Luca Filipozzi asks for an overview of all ongoing work of the board. Martin Michlmayr supplies the two biggest on going projects:
+
+* Finalizing newly proposed bylaws
+* Moving accounting to ledger based accounting system
+
+Michlmayr also offer to follow up with other outstanding tasks in an email to the board list.
+
+
+### New directors' orientation
+
+Andrew Tridgell and Martin Michlmayr will work together to create new director orientation documentation. Tridgell will report on the progress of this work next board meeting.
+
+
+### SPI in Canada
+
+Luca Filipozzi states there are two motivations for having an SPI organization/branch in Canada:
+
+* Debian has a lot of equipment at the University of British Columbia.
+* DebConf17 needs an organization to marshal Canadian funds.
+
+The general consensus is to move this discussion to the board email list.
+
+The discussion continues briefly: Jimmy Kaplowitz states his belief that an additional Canadian SPI organization is unnecessary and will follow up with more details in an email. Dimitri John Ledkov notes a UK version of SPI might be useful in the UK / EU for tax-efficient donations.
+
+## Appointment of board officers
+
+Martin Michlmayr received the following nominations for SPI officers:
+
+<table><tbody>
+<tr><td>Name</td><td>Role</td></tr>
+<tr><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+</tbody></table>
+
+Vote to appoint officers as proposed:
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 9 yes, 0 no, 0 abstain, 0 missing.
+
+
+## Any other business
+
+Martin Michlmayr remarks there has been some discussion of having a second face-to-face board meeting in 2016, or a video conference, but no conclusion has been reached.
+
+
+## Adjournment
+
+The meeting was adjourned until Thursday, September 8th, 2016 at 20:30 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2015<br /></td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2016<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2016 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
