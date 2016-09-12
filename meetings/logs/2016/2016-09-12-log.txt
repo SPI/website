@@ -1,0 +1,243 @@
+[15:57:37] <tbm> *GAVEL*
+[15:57:40] <tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[15:57:49] <tbm> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-09-12/
+[15:57:52] <xnox> Hydroxide, in practice we will keep CAD balances low, and most of our expenses (apart from upcoming debconf) are not in CAD. So it might not be as long lived, as one would think.
+[15:57:52] <tbm> [item 2, Roll Call]
+[15:57:57] -*- xnox shuts up.
+[15:57:57] <Ganneff> Joerg Jaspert
+[15:58:00] <schultmc> Michael Schultheiss
+[15:58:02] <xnox> Dimitri John Ledkov
+[15:58:03] <zobel> Martin Zobel-Helas
+[15:58:14] <tbm> Martin Michlmayr
+[15:58:16] <Hydroxide> Jimmy Kaplowitz
+[15:58:17] <spectranaut> Valerie Young
+[15:58:30] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[15:58:50] <tridge> Andrew Tridgell
+[15:58:54] <zobel> whom are we missing? luca? tridge?
+[15:59:03] <luca> Luca Filipozzi
+[15:59:24] <zobel> thats all.
+[15:59:25] <tbm> Ok
+[15:59:34] <tbm> Great to have everyone!
+[15:59:36] <tbm> [item 3, President's Report]
+[16:00:01] <tbm> We've created some onboarding information to make it easier for new directors to get started.
+[16:00:21] <tbm> There has been some progress on various activities.
+[16:00:23] <tbm> [item 4, Treasurer's Report]
+[16:00:50] <zobel> ftr: the report status is currently blocking on my side.
+[16:01:03] <zobel> sucked in at work, but this should get better in two weeks.
+[16:01:05] <schultmc> I'm working with zobel on getting caught up on outstanding reports. I hope to be caught up before the next meeting.
+[16:01:18] <Hydroxide> \o/
+[16:01:23] <zobel> i have a script mostly ready to import c&p into ledger.
+[16:01:41] <zobel> that should speed up things
+[16:01:57] <Hydroxide> schultmc: did the tax filing for August 15 happen timely?
+[16:02:05] <schultmc> Hydroxide: yes
+[16:02:13] <Hydroxide> great. just noticed that was pending in the August 11 minutes :)
+[16:02:21] <Hydroxide> thanks.
+[16:02:28] <schultmc> both the federal and NYS filings were filed and accepted before the deadline
+[16:02:42] <Hydroxide> good good.
+[16:02:51] <schultmc> </done>
+[16:03:24] <tbm> [item 5, Secretary's report]
+[16:03:38] <spectranaut> nothing to report!
+[16:04:25] <tbm> [item 6, Outstanding minutes]
+[16:04:28] <tbm> We have to approve the minutes for 11th August 2016.
+[16:04:37] <tbm> I believe spectranaut cannot use the voting script so I can run it this meeting if you want.
+[16:04:56] <spectranaut> I can -- I'm also connected using irssi
+[16:05:09] <spectranaut_> Voting started, 9 people (ganneff,tbm,schultmc,zobel,luca,hydroxide,tridge,xnox,spectranaut) allowed to vote on Meeting minutes for Thursday 11 August 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:05:12] <tbm> wow, great!
+[16:05:18] <Ganneff> !vote yes
+[16:05:22] <tbm> !vote yes
+[16:05:24] <xnox> !vote yes
+[16:05:24] <Hydroxide> !vote yes
+[16:05:24] <schultmc> !vote yes
+[16:05:27] <tridge> !vote yes
+[16:05:30] <luca> !vote yes
+[16:05:40] <spectranaut> !vote yes
+[16:05:59] --> gio (~gio@host136-22-dynamic.17-79-r.retail.telecomitalia.it) has joined #spi
+[16:06:01] <zobel> !vote yes
+[16:06:21] <spectranaut_> Current voting results for "Meeting minutes for Thursday 11 August 2016": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+[16:06:24] <spectranaut_> Voting for "Meeting minutes for Thursday 11 August 2016" closed.
+[16:06:33] <tbm> Great!
+[16:06:44] <tbm> Thanks for producing the minutes, spectranaut
+[16:06:50] <tbm> and for doing the vote, spectranaut_ ;-)
+[16:06:53] <tbm> [item 7, Items up for discussion]
+[16:06:57] <tbm> [item 7.1, Directors and officers liablity insurance update]
+[16:07:22] <tbm> I sent an email recently to clarify the requierment to be specific NYS counties but I haven't heard back.
+[16:07:29] <tbm> I hope to have clarify no this by the next meeting.
+[16:08:12] <tbm> [item 7.2, Review of voting algorithm]
+[16:08:13] <Hydroxide> if it would help for a phone call or in-person visit, I'm now in NYC and will have more time between now and the October meeting
+[16:08:36] <Hydroxide> but it would be good if they're responsive by email.
+[16:09:48] <tbm> Any updates on the voting algorithm?  I think this is on the agenda from last time but I don't think there has been any progress
+[16:09:51] <tbm> since this is not urgent.
+[16:10:09] <tbm> I think we should revisit this in a few months.
+[16:10:18] <tbm> It would be a good topic for a f2f if we manage to hold one.
+[16:11:07] <Hydroxide> yes, we can probably make a f2f happen at least once between now and february/march
+[16:11:25] <xnox> or have one after next election
+[16:11:52] <tbm> Let's talk about the f2f in other business
+[16:11:52] <xnox> december is fully booked for me, there is still some space in october & november
+[16:11:56] <xnox> ack
+[16:11:59] <tbm> [item 7.3, Onboarding material update]
+[16:12:10] <luca> important to determine HOW we change the voting algorithm
+[16:12:14] <tbm> Tridge and I created some documentation.  I think we have good info for directors and the secretary
+[16:12:18] <luca> meaning: referendum; board-only decision; etc.
+[16:12:27] <tbm> We'd like to create more information for SPI project liaisons
+[16:12:35] <luca> just as important as what algorithm we're changing to
+[16:12:39] <tridge> http://www.spi-inc.org/corporate/onboarding/
+[16:12:39] <tbm> tridge: any additional comments?
+[16:13:02] <tridge> tbm: the directos info is good, I think we can expand the liason info
+[16:13:25] <tridge> I hope to add some info on paypal, Brian is going to give me a paypal intro soon and I'll use that for more liason info
+[16:13:41] <tridge> plus generally on the donation process
+[16:13:59] <tbm> yep, sounds great
+[16:14:32] <tridge> thats all from me
+[16:14:49] <tbm> luca, spectranaut, did you have any questions not answered in the docs yet?
+[16:15:27] <spectranaut> nope
+[16:15:39] <spectranaut> not that I can think of now
+[16:16:17] <luca> nope
+[16:16:19] <tbm> well, you know where to ask :)
+[16:16:23] <tbm> [item 7.4, Assignment of a new sponsor for the Open Fashion Foundation]
+[16:16:37] <tbm> Susan asked about this.  I'm happy to review the previous conversations and follow up.
+[16:16:48] <tbm> I had a deadline last week but I'm more responsive now, so I can take this on.
+[16:17:22] <tbm> [item 7.5, Resolution 2016-09-12.jrk.1: Canadian bank account for SPI]
+[16:17:25] <tbm> Hydroxide?
+[16:18:12] <zobel> Hydroxide: first of all: my name is wrong!
+[16:18:22] <Hydroxide> the short version is that a Canadian bank account could be useful to DebConf17, with lower urgency also to other Debian purposes in Canada, and would be a useful offering for other SPI projects too.
+[16:18:35] <Hydroxide> zobel: oops! I am open to fixing that, of course :)
+[16:19:19] <zobel> Hydroxide: does that mean, we need to do .CA tax filing then?
+[16:19:31] <Hydroxide> the main reason for a resolution is to allow spending a bit of money to ensure we don't create unforeseen compliance or similar hassles for SPI, and to give the board a chance to decide whether my plan is sane without having to go back to the board for approval at each stage
+[16:19:35] <xnox> one question i have about it if donations to a US 501c3 owned CAD account are tax deductable / charitable donation for canadian individuals/companie. Or if a separate entity is needed there.
+[16:19:50] <zobel> yes, it means that.
+[16:19:53] <Hydroxide> xnox: preliminary explorations show that a similar organization in Canada wouldn't qualify for the tax deduction status
+[16:20:01] <Hydroxide> xnox: different rules there
+[16:20:06] <xnox> i hope it is tax deductible, and then we can keep the balances there low and continuously transfer to USD.
+[16:20:22] <Hydroxide> xnox: that said, we _can_ avoid having to pay Canadian income tax based on the US-Canada tax treaty
+[16:20:25] <xnox> Hydroxide, fair enough. no tax gain, but at least easier to transfer things, hopefully.
+[16:20:28] <Hydroxide> we might have filings
+[16:20:28] <tbm> How urgent is this?  I'd prefer Mishi to review this resolution
+[16:20:46] <Hydroxide> tbm: the first step in my resolution is to consult with professional advisors to gather the necessary info
+[16:20:50] <Hydroxide> tbm: I don't plan to skip that consultation
+[16:21:10] <Hydroxide> tbm: it's urgent in that board meetings are monthly and I don't want to wait until mid-October to start this
+[16:21:14] <Hydroxide> because DebConf is in less than a year
+[16:21:31] <Hydroxide> it's certainly not too urgent to consult with Mishi before going beyond any exploratory stage. that's why my plan starts with consultation
+[16:22:06] <Hydroxide> the resolution doesn't even authorize opening an account until me, luca, and the treasurer are okay with the plan
+[16:22:20] <Hydroxide> but it avoids the need to keep wasting board meeting time at each step
+[16:22:20] <zobel> Hydroxide, tbm: then please go ahead and contact mishi.?
+[16:22:21] <schultmc> I definitely would like legal advice as well as .ca expertise - quick searching brings up additional paperwork that SPI and any signatories must file annually: https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar
+[16:23:03] <Hydroxide> schultmc: yup. it adds some compliance burden, which is why your approval of the specifics is a prereq. and the fact that we need legal and .ca expertise is why it allows spending up to $2000 for professional advice
+[16:23:16] <Hydroxide> my guess is that it is a manageable level of hassle
+[16:23:29] <schultmc> too bad bmo harris and BMO are separate - that would've been very convenient
+[16:23:56] <Hydroxide> without the resolution I probably can't get a useful amount of advice from professional advisors, because I won't have an authorized way to pay their fees
+[16:24:01] <Ganneff> lets vote on it
+[16:24:19] <Hydroxide> thanks Ganneff. I certainly don't plan to circumvent the concerns raised here. that's the reason it's structured as it is.
+[16:24:25] <xnox> is the advice, and using CAD bank account it - worth it? we have previously paid things & expenses to canada from our USD accounts.
+[16:24:39] <luca> this might be as simple as a CAD currency bank account with a US institution
+[16:24:44] <schultmc> we do have foreign exchange capabilities
+[16:24:46] <luca> it could be as complicated as setting up a legal entity
+[16:24:58] <Hydroxide> xnox: it also allows us to receive donations via Interac within Canada, and is a good preparatory step for other international expansions like the thing you wanted in the UK.
+[16:25:00] <luca> lots of choices that need investigating
+[16:25:41] <Hydroxide> schultmc: for DebConf itself the important thing is to have a local bank account easily accessible.
+[16:25:54] <xnox> setting up legal entity, imho should be up to Debconf 2017 organising team. Imho it doesn't need to be / have to be SPI itself. Long term benefits of Canada presence without any tax advantages are dubious to me. Sure transfering money to canadian routing numbers is a chore, but oh well, doesn't happen too often.
+[16:26:29] <Hydroxide> xnox: we already accept Canadian donations directly in paper check form. this would be easier for our Canadian donors
+[16:26:46] <Hydroxide> unless it's changed since I last looked at our donations page, anyway
+[16:27:13] <Hydroxide> anyway, I think Ganneff wanted a vote
+[16:27:27] <schultmc> it's still possible to accept CAD cheques
+[16:27:47] <spectranaut> okay -- coting
+[16:27:49] <Hydroxide> schultmc: good to know. still a slow hassle especially when Canadian donors are used to easy and quick Interac transfers.
+[16:27:50] <Ganneff> Hydroxide: ... waiting for a second board member to call, so we can go on
+[16:27:59] <Hydroxide> Ganneff: fine, I second :)
+[16:28:08] <Ganneff> na endlich
+[16:28:12] <Hydroxide> we don't usually do that level of formality but okay
+[16:28:19] <spectranaut_> Voting started, 1 people ( canadian bank account for spi 2016) allowed to vote on resolution 2016-09-12.jrk.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:28:23] <Hydroxide> !vote yes
+[16:28:30] <tridge> !vote yes
+[16:28:36] <spectranaut> oops!
+[16:28:36] <Ganneff> !vote yes
+[16:28:41] <luca> 1 person can vote only
+[16:28:47] <spectranaut_> Current voting results for "resolution 2016-09-12.jrk.1": Yes: 0, No: 0, Abstain: 0, Missing: 1 (  canadian bank account for spi 2016 )
+[16:28:50] <spectranaut_> Voting for "resolution 2016-09-12.jrk.1" closed.
+[16:28:52] <Ganneff> yah, need a nick change here
+[16:29:02] -*- Hydroxide grins
+[16:29:06] <spectranaut_> Voting started, 9 people (ganneff,tbm,schultmc,zobel,luca,hydroxide,tridge,xnox,spectranaut) allowed to vote on resolution 2016-09-12.jrk.1 Canadian bank account for SPI 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:29:10] <Ganneff> !vote yes
+[16:29:10] <Hydroxide> !vote yes
+[16:29:13] <xnox> !vote abstain
+[16:29:15] <luca> !vote yes
+[16:29:17] <tridge> !vote yes
+[16:29:18] <spectranaut> !vote yes
+[16:29:20] <schultmc> !vote yes
+[16:29:22] <tbm> !vote abstain
+[16:29:34] <zobel> !vote yes
+[16:29:51] <spectranaut_> Current voting results for "resolution 2016-09-12.jrk.1 Canadian bank account for SPI 2016": Yes: 7, No: 0, Abstain: 2, Missing: 0 ()
+[16:29:54] <spectranaut_> Voting for "resolution 2016-09-12.jrk.1 Canadian bank account for SPI 2016" closed.
+[16:29:55] <Hydroxide> thanks. xnox I recognize that your concern is valid. if it turns out to be too much hassle, I expect either I'll object to proceeding or luca or schultmc will.
+[16:30:06] <tbm> [item 8, Any other business]
+[16:30:11] <tbm> I believe zobel had something
+[16:30:35] <zobel> yes
+[16:30:58] <zobel> what is the current status of the new bylasws?
+[16:31:16] <zobel> what are we currently waiting on?
+[16:31:26] <xnox> the discussion died... somebody has to collect/revise a new edition.
+[16:31:39] <tbm> Hydroxide was going to
+[16:31:43] <tbm> Hydroxide: do you have more time now?
+[16:31:51] <zobel> and a second thing goes to xnox: did you see my remarks re asset handling for open MPI?
+[16:31:51] <xnox> there are some good points in the mailing list threat but also a few thing that are too-much-information/detail imho
+[16:31:54] <Hydroxide> I'm still planning to follow up on this. I expect to have more time over the next 1-2 months than over the last few.
+[16:32:26] <xnox> zobel, yes, i wanted to chat about that too. I recall proposing wording, and I recall that it was put on hold "to be discussed" and I'm not sure what resulted out of that.
+[16:32:30] <Hydroxide> I'll mostly stick with bdale's draft but I am more receptive to giving the members some form of continued vote on subsequent amendments
+[16:32:56] <xnox> zobel, imho something like if OpenMPI committee disolves and there is no liason for two consequentive years, the assets are transfered to the general fund, until further notice.
+[16:32:59] <xnox> or some such.
+[16:33:17] <Hydroxide> there are many middle grounds between "solely at the discretion of a board majority" and the current unreasonable vote threshold
+[16:33:25] <luca> revised bylaws are another way of introducing voting algorithm (and protocol for changing algorithm)
+[16:33:38] <zobel> luca: ack.
+[16:34:10] <Hydroxide> luca: or they could be silent on that matter. depends on if we want to couple the issues - my guess is it's more productive to separate them
+[16:34:13] <zobel> anyway, hading to bed now. need to be up in 5h again. i am fine with oct. 10th.
+[16:34:15] <xnox> Hydroxide, yeah, i think the vote on ammendments is good one. Or e.g. right to suspend the board / re-elect the board is a good right (e.g. to my surprise there is no provisions for general public to call general election in the UK; in latvia citizens can have referendum of no confidence and trigger an election)
+[16:34:43] <Hydroxide> luca: of course I think it's fine to do some form of voting algorithm reform. it can just be handled separately / in parallel
+[16:36:42] <tbm> ok, Hydroxide maybe you can take a look before the next meeting
+[16:36:57] <Hydroxide> should be able to do that, yes
+[16:37:25] <tbm> I also wanted to bring up a potential f2f again.  Should I set up a Doodle for e.g. November?
+[16:37:48] <xnox> doodle would be good.
+[16:38:04] <zobel> tbm: IMHO november is too close
+[16:38:38] <xnox> december & january i am fully booked. There is thanksgiving in november too (i guess people are busy)
+[16:38:53] <luca> thanksgiving is in october
+[16:38:56] <Hydroxide> I might be free in october and december. certainly free in january and february
+[16:39:03] <Hydroxide> luca: in canada it is. not in the US
+[16:39:13] <luca> Hydroxide: point being there's a difference
+[16:39:18] <Hydroxide> for my fellow americans: we call canadian thanksgiving "columbus day" :P
+[16:39:21] <Hydroxide> luca: yep
+[16:39:23] -*- xnox has to drop out soon, sorry.
+[16:39:25] <luca> you US-centric peoples
+[16:39:31] <tbm> Ok, let's take this offline.  I think it will be hard to find a time for everyone
+[16:39:34] <tbm> Any other business?
+[16:39:36] <luca> will need a doodle to figure this out
+[16:39:47] <tbm> I'll talk to spectranaut_ about setting something up
+[16:40:03] <Ganneff> need a doodle for location too
+[16:40:08] <Hydroxide> february worked for the previous f2f, we could just do that again
+[16:40:12] <luca> tbm: please add physical mail address / reall phone number to next board meeting so that I have something to present
+[16:40:15] <Hydroxide> but yeah,
+[16:40:24] <Hydroxide> </done> (didn't mean a comma there)
+[16:40:26] <luca> tbm: i'll discuss on mailnig lists prior but would like decision next meeting
+[16:40:44] <spectranaut> luca I will add it to the agenda :)
+[16:40:44] <tbm> [item 9, Next board meeting]
+[16:40:59] <tbm> so it seems we've decided that future meetings will be on Monday at 20:00 UTC
+[16:41:12] <tbm> shall we stay with the 2nd of the month?  This would be October 10
+[16:41:18] <Hydroxide> October 10 _is_ Canadian Thanksgiving / US Columbus Day
+[16:41:28] <Hydroxide> I can probably make it but realize it's probably bad for luca.
+[16:41:36] <spectranaut> oops
+[16:41:57] <tbm> October 5?
+[16:42:49] <luca> oh, i can make it
+[16:43:03] <luca> Thanksgiving isn't so big a deal for me
+[16:43:21] <Hydroxide> works for me. we may want to reconsider Mondays due to various holiday clashes, but honestly most of them don't fall on the second Monday so it may be fine.
+[16:43:42] <Hydroxide> either the 5th or 10th is fine. now I'll shut up and stop dominating. (yeah right)
+[16:44:14] <tbm> Let's go with October 5 and normally the 2nd Monday of the month
+[16:44:26] <tbm> Ok, thanks for joining
+[16:44:27] <tbm> *GAVEL*
+[16:45:16] <Ganneff> oct 5 being a switch to wednesday?
+[16:45:37] <tbm> Oh, I meant October 3
+[16:45:46] <tbm> damn it
+[16:46:07] <tbm> I'll let spectranaut sort it out ;-)
+[16:46:19] <Hydroxide> haha, spoken like a true delegator
+[16:46:29] <tbm> is Columbus Day a US federal holiday?
+[16:46:34] <Hydroxide> I'm also fine with the 3rd, but we should hear from others.
+[16:46:34] <spectranaut> hmmm there were no objections to Oct 10th -- but I'll email
+[16:46:52] <Hydroxide> tbm: yes, but it's more rigorously observed in the public and nonprofit sectors than the private sector
+[16:47:10] <Hydroxide> tbm: and often people just treat it like an extra day off without specific conflicting observances
+[16:47:14] <spectranaut> I don't know anyone with a columbus day tradition
+[16:47:31] <spectranaut> expect mine -- which is simply to remind people how terrible columbus was :)
+[16:47:31] <tbm> ok, then let's stay with Oct 10
