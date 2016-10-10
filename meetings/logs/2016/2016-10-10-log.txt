@@ -1,0 +1,191 @@
+[15:56:10] <tbm> *GAVEL*
+[15:56:13] <tbm> [item 1, Opening]
+[15:56:16] <tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[15:56:19] <tbm> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-10-10/
+[15:56:42] <tbm> [item 2, Roll Call]
+[15:56:47] <tbm> Directors, please state your name
+[15:56:50] <Hydroxide> Jimmy Kaplowitz
+[15:56:50] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[15:56:51] <Ganneff> Joerg Jaspert
+[15:56:52] <schultmc> Michael Schultheiss
+[15:56:54] <Ganneff> tbms paste is slow
+[15:56:56] <spectranaut> Valerie Young
+[15:57:01] <tbm> Martin Michlmay
+[15:57:08] <tbm> I just received regrets from Luca
+[15:58:08] <tbm> So who'
+[15:58:14] <tridge> Andrew Tridgell
+[15:58:15] <tbm> So who's missing.  xnox?
+[15:58:21] <schultmc> xnox, Hydroxide
+[15:58:26] <Hydroxide> I'm here
+[15:58:31] <Hydroxide> I answered in the roll call
+[15:58:44] <schultmc> ah
+[15:59:42] <schultmc> xnox and zobel
+[15:59:58] <tbm> spectranaut: did you receive any regrets?
+[16:00:05] <spectranaut> nope
+[16:00:09] <Ganneff> we have enough to continue
+[16:00:48] <tbm> Yes, let's move on
+[16:00:49] <tbm> [item 3, President's Report]
+[16:01:23] <tbm> I just added my report to http://spi-inc.org/meetings/agendas/2016/2016-10-10/
+[16:01:30] <tbm> Please take a few minutes to read it.
+[16:02:06] <xnox> Dimitri John Ledkov
+[16:02:08] <zobel> upps
+[16:02:11] <xnox> we were on hangout =)
+[16:02:12] <zobel> Martin Zobel-Helas
+[16:02:13] <xnox> zobel and I
+[16:02:34] <tbm> happy to hear you were working on SPI activities :)
+[16:02:38] <tbm> Any questions regarding the report?
+[16:02:44] <zobel> give us 5min, then we can publish a combined jan+feb report.
+[16:02:52] <xnox> tbm, i just pulled the website and i odn't see the agenda =/
+[16:03:03] <xnox> 2016-10-10
+[16:03:07] <Hydroxide> http://www.spi-inc.org/meetings/agendas/2016/2016-10-10/
+[16:03:08] <tbm> http://spi-inc.org/meetings/agendas/2016/2016-10-10/
+[16:03:12] <tbm> I can see it
+[16:03:37] <tbm> [item 4, Treasurer's Report]
+[16:03:47] <zobel> give us 5min, then we can publish a combined jan+feb report.
+[16:04:00] <Ganneff> that cant go into the next?
+[16:04:19] <Hydroxide> let's proceed with the next item and come back to this later in the meeting if it's ready in time
+[16:04:35] <Hydroxide> 5 minutes is not very long :)
+[16:04:54] <tbm> I suggest you give a general overview now and publish the report after the meeting
+[16:05:00] <tbm> You don't want to rush the report.
+[16:05:03] <Ganneff> plus minutes for people to read, ..... its nice to have reports, but not right inside the meeting
+[16:05:05] <tbm> schultmc: any updates from you?
+[16:05:27] <schultmc> zobel, xnox and I have been working on the reporting. we're getting scripts together to make the report generating easier
+[16:05:34] <tbm> But I'm very happy to see we'll have our first report based on ledger soon
+[16:05:39] <Hydroxide> yes, maybe the full report could end up in today's meeting minutes as a retroactive addition, to be approved next month
+[16:05:44] <schultmc> many thanks to zobel and xnox for their assistance
+[16:05:53] <tbm> Great work, everyone!
+[16:06:12] <tbm> Anything else?
+[16:06:20] <schultmc> nothing else at the moment
+[16:06:30] <xnox> we are done with feb report. fighting with ikiwiki at the moment to publish it =)
+[16:06:30] <tbm> [item 5, Secretary's report]
+[16:07:12] <spectranaut> So we need to decide on f2f meeting, the most popular dates from the poll are:
+[16:07:22] <xnox> (however our january balances do not yet match Michael's report, therefore we are writting comments about that - as there are transactions we account in a different months, that happened at the end of month)
+[16:07:38] <spectranaut> weekend of Feb 25th -- only Ganneff cannot attend
+[16:07:55] <spectranaut> weekend of March 18th or 25th -- only Zobel cannot attend
+[16:08:37] <spectranaut> how should we decide between these dates?
+[16:08:43] <tbm> I think earlier is better than later so I'm for February (sorry Ganneff)
+[16:08:58] <Ganneff> is ok, the second i miss.
+[16:09:04] <tbm> Of course, February and March are still far away, so I'm wondering how firm people's schedule are
+[16:09:20] <tbm> On the other hand, I hope this will allow people to reserve that time.
+[16:09:36] <Hydroxide> I would prefer to decide the date now, or soon if we can't decide today, exactly to allow long-term planning and cheaper airfares
+[16:09:38] <Ganneff> may be able to be online then, but its short after chinese new year, so pretty sure im not able to travel anywhere else than to wifes country...
+[16:10:15] <tbm> I fear we won't be able to host the meeting in Taiwan :)
+[16:10:23] <Ganneff> pah, its a nice place.
+[16:10:28] <tbm> I'd say Canada or the US and with Ganneff not attending we may just as well go with the US
+[16:10:35] <tbm> Maybe SFLC could host us again
+[16:10:58] <tbm> Any objections to February 25?
+[16:11:04] <tbm> I suggest a full day on Friday and Saturday
+[16:11:06] <Ganneff> nope
+[16:11:07] <schultmc> no objections from me
+[16:11:10] <tbm> so arrival on Thursday, departure on Sunday
+[16:11:12] <tbm> Does that sound ok?
+[16:11:22] <tbm> That should keep airfare down
+[16:11:28] <Hydroxide> great. when should we be picking the location? (at least city, no need to decide precise venue yet)
+[16:11:45] <Ganneff> maybe at some point in the future i get to attend. :)
+[16:11:49] <schultmc> NYC worked well last time
+[16:11:49] <tbm> I can work with spectranaut on this offline
+[16:11:53] <tbm> Ganneff: hopefully
+[16:11:57] <Hydroxide> ok
+[16:12:04] <schultmc> good air connections to .us and .eu
+[16:12:07] <Ganneff> (put it in .de, makes it way easier. or .eu)
+[16:12:07] <tbm> if hotel rates are reasonable in NYC in February, I can ask SFLC again
+[16:12:28] <schultmc> january and february rates for NYC hotels are quite reasonable
+[16:12:31] <Hydroxide> tbm: that should be as cheap of a time of year as NYC ever gets
+[16:12:35] <zobel> do we need to discuss that now?
+[16:12:42] <Ganneff> no
+[16:12:43] <tbm> Nope, let's move that offline
+[16:12:46] <spectranaut> ok, since there are no objectiongs, I'll report Feb 25 in the meetings
+[16:12:46] <Hydroxide> oko
+[16:13:00] <tbm> spectranaut: anything else from you?
+[16:13:09] <spectranaut> nothing else from me
+[16:13:16] <tbm> [item 6, Outstanding minutes]
+[16:13:27] <tbm> I believe we have minutes for September 12 to approve
+[16:13:28] <Hydroxide> tbm: if you decide on NYC and SFLC can't host for whatever reason, I can help look for alternate venues, since I'm now local. but SFLC would be great.
+[16:13:32] <tbm> http://spi-inc.org/meetings/minutes/2016/2016-09-12/
+[16:14:20] <Ganneff> go go go vote.
+[16:14:25] <spectranaut_> Voting started, 8 people (ganneff,tbm,schultmc,zobel,hydroxide,tridge,xnox,spectranaut) allowed to vote on Meeting minutes for Monday 12 September 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:14:31] <Ganneff> !vote yes
+[16:14:34] <Hydroxide> !vote yes
+[16:14:35] <spectranaut> !vote yes
+[16:14:36] <tridge> !vote yes
+[16:14:37] <zobel> !vote yes
+[16:14:42] <xnox> !vote yes
+[16:14:56] <tbm> !vote yes
+[16:15:27] <spectranaut_> Current voting results for "Meeting minutes for Monday 12 September 2016": Yes: 7, No: 0, Abstain: 0, Missing: 1 ( schultmc )
+[16:15:30] <spectranaut_> Voting for "Meeting minutes for Monday 12 September 2016" closed.
+[16:15:31] <schultmc> !vote yes
+[16:15:34] <spectranaut> oops sorry!
+[16:15:34] <schultmc> sorry
+[16:15:40] <spectranaut> I miscounted
+[16:16:05] <tbm> It's fine, you can just count schultmc's vote manually
+[16:16:09] <tbm> [item 7, Items up for discussion]
+[16:16:12] <tbm> [item 7.1, Directors and officers liability insurance update]
+[16:16:20] <zobel> spectranaut: just get the right number into the report.
+[16:16:40] <tbm> We were planning to go with the discounted quote via NPCC.
+[16:16:43] <tbm> schultmc pointed out that NPCC membership is only open for organizations in New York metropolitan area
+[16:16:59] <tbm> I reported last time that I contacted NPCC by email but heard not back yet
+[16:16:59] <Ganneff> spectranaut: for the future, a /vote_result will just count, not directly close, as /vote_stop
+[16:17:19] <tbm> As it turns out, my mail was not sent due to a configuration error. I apologize.  I sent an email today and will report next time (or by email)
+[16:17:45] <tbm> (done)
+[16:18:07] <schultmc> if we fix 7.3 with a NYC address we could possibly qualify for NPCC membership
+[16:18:43] <tbm> They also have an "affiliate" status which might be enough.
+[16:18:49] <tbm> Hopefully I'll know more next time
+[16:19:01] <tbm> [item 7.2, Bylaws draft update]
+[16:19:07] <tbm> Hydroxide?
+[16:19:12] <Hydroxide> Unfortunately the end of a job coincided with a close family member's surgery (they're fine), so I'm a bit behind on this. I aim to jumpstart the email discussion this week on spi-general. My tentative plan is to use Bdale's draft as a template, but make amendments require a member vote quorum of 10% of the voting membership and a 50%+1 majority vote approval. the board would be able to vote normally to tri
+[16:19:18] <Hydroxide> gger a member vote - 30 days advance ...
+[16:19:21] <Hydroxide> ... notice, 1 week to vote. if the bylaw needs to be in effect provisionally until the members decide, we'd need unanimous board approval as an extra safeguard. 10 non-director members (threshold TBD) could propose an amendment in the same way as the board.
+[16:19:48] <tbm> Hydroxide: thank you. Would be good to see progress on this soon.
+[16:20:04] <Hydroxide> I don't want a hard approval threshold, but I respect the members' desire to have some oversight besides periodic board elections.
+[16:20:05] --> maninvan (~bonney@S0106907240030a21.vc.shawcable.net) has joined #spi
+[16:20:29] <Hydroxide> agreed, we should get this done soon and I'm happy to see it through.
+[16:21:08] <tbm> Thanks
+[16:21:11] <tbm> Any questions?
+[16:21:35] <zobel> nope
+[16:21:39] <Hydroxide> (done)
+[16:21:53] <tbm> [item 7.3, Physical mailing address update]
+[16:22:06] <tbm> Since Luca is not around, should we skip this or can someone else give an update?
+[16:22:56] <tbm> Okay, let's add it to the November agenda
+[16:23:01] <tbm> [item 7.4, Status of deprecation of SPI CA]
+[16:23:03] <tbm> At the face-to-face meeting in February, we decided to deprecate the
+[16:23:05] <tbm> SPI CA by the end of this year.
+[16:23:07] <tbm> What is still needed to do this?
+[16:23:12] <tbm> Are we on track?
+[16:23:25] <Ganneff> not really done anything on it, but i gives out nothing new anymore.
+[16:23:30] <Ganneff> its removed from debian (and others)
+[16:23:50] <Ganneff> our own stuff that still has i switch soon, hopefully before next meeting.
+[16:23:51] <tbm> Are there any users left?  I believe zobel found some back in February
+[16:24:27] <zobel> oftc was
+[16:24:36] <tbm> zobel: but not anymore?
+[16:24:42] <zobel> not sure.
+[16:24:44] <Ganneff> no
+[16:24:49] <Ganneff> letsencryptified it is
+[16:25:00] <zobel> db.oftc.net might be still using it.
+[16:25:27] <Ganneff> ill be talking to people i see certs for.
+[16:25:31] <Ganneff> brb, kid crying
+[16:25:36] <tbm> Okay, thanks Ganneff
+[16:25:44] <tbm> Maybe you can give an update in the November meeting
+[16:25:48] <tridge> rt.spi-inc.org seems to use it?
+[16:26:03] <tbm> tridge: yeah, spi still uses it, as Ganneff mentioned
+[16:26:21] <tbm> [item 8, Any other business]
+[16:26:25] <tbm> Anything else?
+[16:26:34] <xnox> shall i post urls to the reports?
+[16:26:47] -*- xnox pushed them out to my private server, until i fight with ikiwiki & html conversion? =)
+[16:26:58] <zobel> yes?
+[16:27:25] <zobel> tbm: ^
+[16:27:54] <tbm> I suggest you take your time and get it right but maybe can a link to the board list for preview?
+[16:28:02] <xnox> ok
+[16:28:03] <tbm> Whatever you prefer
+[16:28:09] <tbm> Anything else?
+[16:28:13] <xnox> i'll send it to the board.
+[16:28:16] <tbm> Sounds like there's no other business
+[16:28:37] <tbm> I'll be away for 2 weeks starting on Thursday.
+[16:28:39] <tbm> I'll be checking email but I'll be less active.
+[16:28:41] <tbm> Just as FYI.
+[16:28:44] <tbm> [item 9, Next board meeting]
+[16:28:47] <tbm> The next board meeting is scheduled for November 14, 2016
+[16:28:49] <tbm> Any objections?
+[16:28:55] <zobel> wfm
+[16:28:55] <Hydroxide> works for me
+[16:29:15] <tbm> Okay, thanks everyone!
+[16:29:18] <tbm> *GAVEL*
