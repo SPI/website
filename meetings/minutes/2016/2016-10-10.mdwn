@@ -1,0 +1,159 @@
+﻿# Board Meeting, October 10th, 2016
+
+These minutes are a draft and require review and approval by the board.
+
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* Jimmy Kaplowitz (Hydroxide)
+* Dimitri John Ledkov (xnox)
+* Andrew Tridgell (tridge)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Luca Filipozzi (luca)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Jonathan McDowell (Noodles)
+* MJ Ray (slef)
+* Bill Allombert (yp17)
+
+These are the minutes for the October 10th, 2016 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2016/2016-10-10-log.txt).
+
+
+## President's Report
+
+President's report, as added to the agenda:
+
+Over the last weeks, I looked at recent email archives of the board list
+to get a better overview of outstanding tasks.  I believe I have a good
+picture now and I responded to a number of outstanding requests already.
+There continues to be a fair bit of interest from projects in SPI.
+
+Some of the outstanding tasks required a bit of investigation and I
+ended up reading minutes from 2006 board meetings.  I discovered that a
+handful of accepted resolutions were never published on our web site.  I
+added some of them and hope to add the rest soon.  There has been some
+discussion recently about the web site, in particular whether a CMS
+would attract more contributions.  I believe our current system works
+very well and I'd like to thank Jonathan McDowell for his substantive
+efforts several years ago in moving the web site from Plone to the
+current system.  Of course, contributors are welcome!
+
+I would like to thank Valerie Young for setting up a poll regarding a
+potential face-to-face board meeting.  Unfortunately, it looks like we
+won't be able to meet in person this year.  I believe a face-to-face
+meeting will allow us to have good conversations about the mission and
+future of SPI, define next steps and productively work on a number of
+outstanding items.
+
+I would like to thank Michael Schultheiss for his continued work as as
+SPI Treasurer and to Martin Zobel-Helas who is making good progress
+getting SPI's financial data into ledger (with the recent help of
+Dimitri John Ledkov).
+
+
+## Treasurer's report
+
+Michael Schultheiss, Martin Zobel-Helas and Dimitri John Ledkov are working to script the reporting process. The first reports compiled from ledger are finished will be published after the meeting (a combined report for January and February). 
+
+
+## Secretary's report
+
+The next SPI board face-to-face meeting has been decided: February 24-25th, 2017. Location and more details to come. Joerg Jaspert will not be able to attend.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 12th September 2016:
+
+<table><tbody>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Directors and officers liability insurance update
+
+Martin Michlmayr has not yet successfully contacted Nonprofit Coordinating Committee of New York (NPCC) to clarify whether member non-profits must be located in specific counties of New York State. He will try again and report back.
+
+
+### Bylaws draft update
+
+Jimmy Kaplowitz will send a revised version of the bylaws to spi-general for review. He intends to make the following amendments to Bdale's original draft regarding the approval process for future changes to bylaws: (1) approval will require a member vote quorum of 10% of the voting membership and a 50%+1 majority vote approval for changes in bylaws, (2) the board will vote normally to trigger a member vote with 30 days advance notice, then allow 1 week to vote, (3) if the bylaw needs to be in effect provisionally until the members decide, unanimous board approval will be required, and (4) 10 non-director members (threshold TBD) could propose an amendment in the same way as the board.
+
+
+### Physical mailing address update
+
+No update, as Luca is not in attendance. The topic will be moved to the November agenda.
+
+
+### Status of deprecation of SPI CA
+
+Joerg Jaspert has stopped giving out certificates and removed the SPI CA from Debian. He will switch SPI off of the SPI CA before the next meeting.
+
+
+## Any other business
+
+No other business.
+
+
+## Adjournment
+
+The meeting was adjourned until Monday, November 14th, 2016 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2015<br /></td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2016<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2016 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
