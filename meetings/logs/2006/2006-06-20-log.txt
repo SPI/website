@@ -1,0 +1,611 @@
+21:00 <CosmicRay> *GAVEL*
+21:00 <CosmicRay> [item 1, opening] This meeting of the Board of Software in the Public Interest, Inc., is called to order.
+21:00 <CosmicRay> PLEASE NOTE: Our agenda for today, AND all the resolutions and minutes we will be voting on, are online at:
+21:00 <CosmicRay> http://www.spi-inc.org/secretary/agenda/
+21:00 <CosmicRay> [item 2, roll call] Board members, please state your name for the record.  Others present may /msg cdlu with your full name if you wish to be listed in the records.
+21:00 <IanJackson> (While we wait: Open Source voting software may be better but _projects_ for Open Source voting software are (a) a dangerous distraction and (b) muddy the message that we should have processes that don't depend on the computers' integrity in which case the Open Sourceness of any software is much less relevant.)
+21:00  * cdlu ribs CosmicRay
+21:00 <CosmicRay> We have 9 board members, so quorum for today is 6.
+21:00 <CosmicRay> We have regrets from Branden.
+21:00  * Hydroxide notes BrucePerens's ident information and ircname
+21:00 <cdlu> David Graham
+21:00 <CosmicRay> John Goerzen
+21:00 <bdale> Bdale Garbee
+21:00 <Hydroxide> Jimmy Kaplowitz
+21:00 <IanJackson> Ian Jackson
+21:00 <CosmicRay> that's 5....
+21:00 <cdlu> BrucePerens: ping?
+21:00 <BrucePerens> Bruce Perens
+21:00 <cdlu> quorum
+21:01 <CosmicRay> [item 3, president's update]
+21:01 <CosmicRay> Please see the call for contributions for the annual report that was
+21:01 <CosmicRay> sent to spi-general.
+21:01 <CosmicRay> [item 4, treasurer's report]  Jimmy/Branden, you have the floor.
+21:01 <CosmicRay> ahem.
+21:01 <Hydroxide> Unfortunately, I haven't had the time to prepare the treasurer's reports. (Hence me stepping down in July.) I will, however, get John the info he needs for the annual reports by his deadline of the 26th, and get caught up on Treasurer's reports before the new officers take office on July 29.
+21:02  * cdlu pings joey and mako
+21:02 <CosmicRay> any discussion?
+21:02 <jberkus> Hydroxide: do we need to discuss the registration?
+21:02 <cdlu> CosmicRay, I expect to give you something about/from OFTC, but it won't be much. Wrt president's report.
+21:02 <CosmicRay> cdlu: excellent, thanks.
+21:02 <Hydroxide> jberkus: there's an item for that later
+21:03  * Hydroxide moves to proceed
+21:03 <Hydroxide> (to the minutes)
+21:03 <CosmicRay> any other discussion on financial issues?
+21:03  * bdale registers his disappointement at the lack of a report
+21:03  * CosmicRay seconds that
+21:03 <Hydroxide> bdale: Understood.
+21:03 <CosmicRay> ok, let's move on.
+21:03 <CosmicRay> [item 5, outstanding minutes] 12 minutes to review.  cdlu, you have
+21:03 <CosmicRay> the floor.
+21:04 <cdlu> umm, ok. I'll take it
+21:04 <CosmicRay> oh, slef wanted to say something?
+21:04 <cdlu> there are six minutes completed and posted.
+21:04 <cdlu> ?
+21:04 <CosmicRay> I guess not
+21:04 <slef> has the board noticed the SPI partners / debian donations discussion on debian-project/debian-vote?
+21:04 <slef> sorry, eating
+21:04  * cdlu has not
+21:04 <Hydroxide> I haven't been reading -project or -vote
+21:05 <Hydroxide> hopefully when Debian wants to talk to the board, someone will email board@
+21:05 <IanJackson> slef: I'm aware of that but I'll summarise for the minutes.  Give me a mo.
+21:05 <slef> ok that's all from me
+21:05 <IanJackson> Re minutes: 6 done ?
+21:05 <Hydroxide> IanJackson: yes. the ones that don't say (log only)
+21:05  * Hydroxide reviewed them before the meeting and is ready to approve them
+21:05 <IanJackson> Hydroxide.  Oh, right.
+21:05 (!) Joey [joey@luonnotar.infodrom.org] has joined #spi
+21:05 (!) Joey is Joey Schulze on #spi #debian-devel #debian.de at server neutron.oftc.net
+21:06 <cdlu> Minutes for July 1st and 26th, 2005, January 17th, February 21st, April 18th, and May 16th, 2006 are all available for voting. We can vote on them individually
+21:06 <cdlu> or as a group.
+21:06 <CosmicRay> is there a motion to approve these minutes?
+21:06 <IanJackson> I think these things should be sent out by email if they're ready before the meeting so that we can review them.
+21:06 <cdlu> I posted a couple of reminders to the lists so I expect everyone has read them. They've been up for over a week.
+21:06 <IanJackson> I don't want to approve them before reading them.
+21:06 <bdale> I wasn't present for all the meetings, so will abstain if they're voted as a group
+21:06 <cdlu> Ian, if you don't read the messages to the list, that's your problem.
+21:06 <IanJackson> cdlu: Just a mo, looking for it.
+21:07 <cdlu> I sent one on the thirteenth, and one earlier today.
+21:07 <jberkus> IanJackson: out of curiosity, did you receive my reply to your proposal this morning?
+21:07 <cdlu> CosmicRay, I propose that we do an abbreviated, but separate vote. If you'll oblige.
+21:07 <IanJackson> cdlu: To where ?  board@ ?  What was the subject line ?
+21:07 <IanJackson> jberkus: Yes, but I haven't had time to read it properly, or to reply.
+21:08 <cdlu> 1: y/n/a, 2: y/n/a, 3: y/n/a, 4: y/n/a, 5: y/n/a, 6: y/n/a. for them in chronological order.
+21:08 <jberkus> ok, just checking, because it seems that you didn't get an earlier e-mail I sent to board@
+21:08 <IanJackson> Point of order!
+21:08 <cdlu>     6387 Jun 13 To: board@spi-inc.org                          (2696) Meeting reminder - june 20th - and agenda
+21:08 <cdlu> maybe I'm a victim of your sauce.
+21:08 <IanJackson> cdlu: I got that mail.  It doesn't say anything about minutes to be approved.
+21:08 <CosmicRay> ok, I believe we should either have a motion to vote or to proceed.
+21:08 <IanJackson> It just contains a URL of a web page.
+21:09 <cdlu> Ian, the agenda, oddly enough.
+21:09 <cdlu> do you ever read the agenda?
+21:09 <CosmicRay> the agenda is too full to dither about what was in email.
+21:09  * Hydroxide suggests that the disagreement happen outside the meeting
+21:09 <IanJackson> Well, I'm not ready to vote on these minutes.
+21:09 <cdlu> I don't post URLs to the list to hear the sound of my own voice, really. :)
+21:09 <IanJackson> outside the meeting> fine by me.
+21:09 <BrucePerens> So abstain.
+21:09  * Hydroxide moves to vote since I think most of us are ready to vote
+21:09  * cdlu seconds
+21:09 <CosmicRay> Hydroxide: to vote on them all as a group?
+21:09 <Hydroxide> yes
+21:10 <Hydroxide> in the interest of time
+21:10 <cdlu> CosmicRay, would you accept voting on them individually, as a group, as I suggested above?
+21:10 <Hydroxide> cdlu: I'd accept that
+21:10 <cdlu> there is noone here who was at all 6.
+21:10 <CosmicRay> cdlu: I didn't parse that sentence
+21:10 <cdlu> Tue Jun 20 15:07:49 2006 | <cdlu:#spi> CosmicRay, I propose that we do an abbreviated, but separate vote. If you'll oblige.
+21:10 <cdlu> Tue Jun 20 15:08:08 2006 | <cdlu:#spi> 1: y/n/a, 2: y/n/a, 3: y/n/a, 4: y/n/a, 5: y/n/a, 6: y/n/a. for them in chronological order.
+21:11 <CosmicRay> cdlu: if you think you can count it, sure.
+21:11 <CosmicRay> is there any further discussion before we vote?
+21:11 <cdlu> I can count it as long as everyone does it :)
+21:11 <CosmicRay> seeing none, let's vote
+21:11 <CosmicRay> !vote start
+21:11 <CosmicRay> 1: a, 2: a, 3: a, 4:a, 5: a, 6: a
+21:11 <cdlu> !vote 1: y, 2: y, 3: y, 4, y: 5, y, 6: y.
+21:11 <Hydroxide> 1: y, 2: y, 3: a, 4: y, 5: a, 6: y
+21:11 <IanJackson> I would like the minutes to note that I don't consider David Graham's message with the agenda URL adequate notice.
+21:11 <IanJackson> I vote no in each case.
+21:11 <CosmicRay> sorry but I haven't had time to read them yet
+21:11 <BrucePerens> !vote 1: y 2: y 3: y 4: y 5: y 6: y
+21:11 <IanJackson> CR: So vote no.
+21:11 <bdale> !vote 1: a, 2: a, 3: a, 4: y, 5: y, 6: y
+21:12 <cdlu> Ian, it'll be noted in the log.
+21:12 <IanJackson> cdlu: I want it noted in the minutes too.
+21:12 <CosmicRay> IanJackson: it is not cdlu's fault that I haven't had time to read them.
+21:12 <cdlu> I don't care
+21:12 <CosmicRay> nor the fault of the minutes.
+21:12 <IanJackson> CR: We don't know whether the minutes are faulty.
+21:12 <cdlu> Ian, so read them when I post them a week ahead of the meeting.
+21:12 <BrucePerens> There is nothing wrong with abstaining if you don't feel it's OK to say Yes.
+21:12 <CosmicRay> IanJackson: which is why I'm not expressing an opinion either way.
+21:12 <IanJackson> cdlu: You did not post the minutes.  You posted an agenda URL.
+21:12  * Hydroxide thinks its well established that minutes are posted as part of the agenda
+21:13 <Joey> 1/a, 2y, 3a, 4a, 5a, 6a, 7a, 8a, 9a, 10a, 11y, 12a
+21:13 <bdale> I read them all.  I think the ones for the meetings I attended were ok.  I'm abstaining for the ones I was not present for.
+21:13 <CosmicRay> IanJackson: which linked to the minutes....
+21:13 <cdlu> then there's joey...
+21:13 <BrucePerens> Why wasn'
+21:13 <CosmicRay> cdlu: has everyone voted?
+21:13 <IanJackson> It is well established that the agenda URL points to a page which contains no useful information and certainly no written-up minutes !
+21:13 <BrucePerens> t I informed of all those extra meetings, Joey? :-)
+21:13 <cdlu> cosmicray, cdlu, hydroxide, bdale, bruceperens, joey have voted. that's everyone.
+21:13 <Hydroxide> BrucePerens: he was including the (log only) ones
+21:13 <Hydroxide> cdlu: and Ian, of course
+21:13 <IanJackson> The agenda page contents has been constantly edited right up to and during the meeting.
+21:14 <bdale> IanJackson: stop it.  the agenda URL sometimes has been useful, and this time was particularly so.  you should have read your email and looked, showing up for the meeting with no advance prep is bad form
+21:14 <cdlu> no, ian hasn't voted has he?
+21:14 <Hydroxide> cdlu: do you have any vote totals?
+21:14 <IanJackson> cdlu: I have voted no in all cases.
+21:14 <Hydroxide> cdlu: He said he votes no in each case
+21:14 <Hydroxide> he didn't do your vote format
+21:14 <BrucePerens> Yawn.
+21:14 <cdlu> oh that'll be fun. 5 people voted right. can I only count them?
+21:14 <Joey> I'm not going to reorder or renumber an arbitrary number of 11 meetings, sorry.
+21:15 <CosmicRay> cdlu: can we proceed now and you can announce the result later?
+21:15 <Joey> (that's too error-prone)
+21:15 <Hydroxide> here's joey's vote correctly: 1:a 2:y 3:a 4:a 5:y 6:a
+21:15 <Joey> cdlu has the log, fortunately.
+21:15 <Hydroxide> that's what Joey voted
+21:15 <cdlu> CR, that's fine with me.
+21:15 <CosmicRay> ok.  moving on.
+21:15 <CosmicRay> [item 6, election voting software] is there discussion on this?
+21:15 <cdlu> yes. I have found the old voting software on chic
+21:16 <cdlu> but have neither the permissions nor a clue how to use it.
+21:16 <CosmicRay> have you contacted wiggy?
+21:16 <Joey> cdlu: weasel should know it, iirc.
+21:16 <Joey> (or maybe I'm mixing up things)
+21:16 <cdlu> Joey, weasel has disavowed any connection to it, even though he wrote it
+21:16 <cdlu> cosmicray, not yet.
+21:16 <bdale> are we stuck not using Manoj's code because of the difference in SPI vs Debian vote counting rules?
+21:16 <Joey> cdlu: Err...
+21:17 <Hydroxide> bdale: and because we use web-based voting and not email+gpg
+21:17 <CosmicRay> bdale: yes, I believe that is part of it.
+21:17 <bdale> hrm.  I'd forgotten that.  shame to not use something that exists and is well oiled within a member project.
+21:17 <Hydroxide> bdale: (not all non-DD SPI members have GPG keys)
+21:17 <bdale> Hydroxide: that seems pretty lame, but I won't argue it
+21:17 <Hydroxide> bdale: I think that when Manoj rewrites devotee as he is planning to do, it might be more suitable then
+21:17 <cdlu> CosmicRay, so yes, there is discussion. :)
+21:18 <Maulkin> When's the vote?
+21:18  * Maulkin could look / make it work again if wanted
+21:18 <luk> Maulkin: I wanted to ask the same thing :-)
+21:18  * luk could help
+21:18 <cdlu> Maulkin, July 1st-29th
+21:18 <Hydroxide> Jul 15 - Jul 28
+21:18 <Hydroxide> cdlu: no, that's the whole election
+21:18 <cdlu> the software has to be ready for the first so I can put the campaign stuff up
+21:18 <Maulkin> Enough time then.
+21:18  * Maulkin + Luk can do it if wanted
+21:18 <cdlu> though strictly speaking it needs to be usable by the 15th.
+21:19 <cdlu> I can always post the campaign statements under secretary :)
+21:19 <IanJackson> I would offer to help with the software but I'll be a candidate AIUI.
+21:19 <Maulkin> cdlu: Campaign stuff seems to have come under secreatry before...
+21:19 <Hydroxide> IanJackson: from what cdlu has said most recently, that's not true
+21:19 <cdlu> Maulkin, it's possible. I'm not sure how it all works.
+21:20 <Hydroxide> cdlu: Maulkin is right
+21:20 <IanJackson> cdlu: For the record can you tell us which board members are up for reelection ?
+21:20 <Maulkin> cdlu: Well, if we move to the new website... But that's later in the agenda
+21:20 <jberkus> if it's all broken, I can probably get someone to do it from scratch
+21:20 <jberkus> but no promises
+21:20 <cdlu> Ian, Bruce, Mako, and Cosmicray's seats are up
+21:20 <cdlu> s/Ian,//
+21:20 <Hydroxide> yeah, not Ian
+21:21 <IanJackson> cdlu: OK then.  In that case I volunteer to do the tallying etc. if no other better solution occurs before the task needs doing.
+21:21 <cdlu> Ian, noted.
+21:22 <cdlu> CosmicRay, I think we're done with this for now.
+21:22 <IanJackson> I don't promise to write any useable software but I will of course make what I do verifiable so people can spot any mistakes I make.
+21:22 <cdlu> I can work with Maulkin, et al., outside of meeting.
+21:22 <CosmicRay> excellent...  let's move on to:
+21:22 <CosmicRay> [item 6, call for nominations]
+21:22 <CosmicRay> cdlu, I guess this is yours as well
+21:22 <cdlu> ok
+21:22 <cdlu> starting at 0000 on the 1st I will accept nominations
+21:22 <cdlu> and post them
+21:22 <cdlu> nominations are self-nominations. Just a position statement.
+21:23 <Maulkin> 00:00 timezone?
+21:23 <CosmicRay> cdlu: deadline is?
+21:23 <cdlu> zulu
+21:23 <cdlu> deadline is midnight the 13th
+21:23 <cdlu> I highly recommend they're in before then
+21:23 <jberkus> can I send you my nomination ahead of time to hold until the 1st?
+21:23 <cdlu> 23:59:59 the 13th
+21:23 <jberkus> I'll be running a confernece July 1-13
+21:23 <cdlu> jberkus, I'd rather not. I'm not prepared for them yet.
+21:23 <cdlu> jberkus, understood. send it to me before the conference, I'll do what I can.
+21:23 <luk> jberkus: cronjob :-)
+21:24 <cdlu> CosmicRay: .
+21:24 <luk> jberkus: or at even
+21:24 <slef> <Maulkin> 00:00 timezone?
+21:24 <CosmicRay> cdlu: can you post all this to -announce?
+21:24 <jberkus> taking offline
+21:24 <Maulkin> slef: < cdlu> zulu
+21:24 <Maulkin> slef: AKA UTC
+21:24 <slef> wtf is zulu?  .za?
+21:24 <slef> oic
+21:24 <BrucePerens> UTC
+21:25 <CosmicRay> heh
+21:25 <cdlu> CosmicRay, I posted something to -annouce and -general a few days ago. I think the announce is held up in queue, I'll need to fix that.
+21:25 <CosmicRay> ok.
+21:25 <CosmicRay> are we ready to move on then?
+21:25 <cdlu> yep.
+21:25  * Hydroxide is
+21:25 <CosmicRay> [item 6, 3 candidates this year]
+21:25 <CosmicRay> I think we covered this already
+21:25 <IanJackson> Why can't we open nominations immediately ?
+21:25 <CosmicRay> so now back one item to....
+21:25 <CosmicRay> [item 6, officer roles]
+21:25 <cdlu> Ian, read the resolution.
+21:25 <cdlu> CosmicRay, to be discussed following the election.
+21:25 <schultmc> two item 6's?
+21:26 <CosmicRay> schultmc: more than that ;-)
+21:26 <CosmicRay> see the agenda
+21:26 <cdlu> they're all <ul> items on item 6 :)
+21:26 <CosmicRay> ok then.  on to:
+21:26 <schultmc> ah
+21:26 <CosmicRay> [item 6, OVF membership]
+21:26 <CosmicRay> the discussion we've all been waiting for.
+21:26  * Hydroxide moves to vote given that there's been a lot of discussion on-list and then before the meeting
+21:26 <cdlu> CosmicRay if there is no objection, I move we go straight to voting on Ian's amendment to the resolution.
+21:26 <Hydroxide> (specifically, on Ian's amendment then the resolution)
+21:26  * Hydroxide seconds
+21:26 <agliodbs> switching IDs in order to switch machines, sorry <-- Josh Berkus
+21:26 <CosmicRay> cdlu: is that in the agenda?
+21:26 <cdlu> CosmicRay, it is.
+21:27 <cdlu> it's right below the resolution under the resolutions appendix
+21:27 <CosmicRay> yes.
+21:27 <CosmicRay> OK, we have a motion and a second to vote on Amendment 2006-06-20.iwj.1.
+21:27 <CosmicRay> any discussion before we vote?
+21:27 <cdlu> none here
+21:27 <CosmicRay> hearing none, let's vote:
+21:27 <CosmicRay> !vote start
+21:27 <Hydroxide> !vote no
+21:27 <CosmicRay> !vote no
+21:27 <cdlu> !vote no
+21:27 <BrucePerens> !vote no
+21:28 <bdale> !vote no
+21:28 <cdlu> Ian, Joey?
+21:28  * cdlu rolls eyes
+21:28 <BrucePerens> There's so much blather that it's tempting to look at another window, and then you miss the vote.
+21:28 <Joey> !vote no
+21:29 <CosmicRay> BrucePerens: ahh, the blue sky of death
+21:29 <Hydroxide> IanJackson: time to vote for your amendment
+21:29 <cdlu> CosmicRay, the result can obviously no longer be changed. shall we move on to the resolution?
+21:29 <CosmicRay> cdlu: yes
+21:29 <CosmicRay> !vote stop
+21:29 <IanJackson> Sorry, I've been absent for a bit.
+21:29 <IanJackson> My network died here briefly.
+21:29 <BrucePerens> It didn't matter.
+21:29  * IanJackson reads scrool.
+21:29 <Hydroxide> IanJackson: can we presume you voted yes on your amendment?
+21:29 <IanJackson> Hy: Yes.
+21:29 <Hydroxide> cdlu: note that in the vote totals then
+21:29 <cdlu> and you wonder why it takes so long for me to do minutes.
+21:29 <Hydroxide> IanJackson: all other directors present voted no
+21:29 <CosmicRay> let the record show that 2006-06-20.iwj.1 did not pass.
+21:30 <CosmicRay> is there a motion to vote on 2006-06-06.dbg.1?
+21:30 <cdlu> so moved
+21:30  * Hydroxide so moves
+21:30 <bdale> seconded
+21:30 <CosmicRay> any discussion?
+21:30 <IanJackson> Yes, let's vote on it.
+21:30 <CosmicRay> ok.
+21:30 <cdlu> CosmicRay, tons, but it's already taken place.
+21:30 <CosmicRay> !vote start
+21:30 <Hydroxide> !vote no
+21:30 <cdlu> !vote yes
+21:30 <BrucePerens> !vote yes
+21:30 <bdale> !vote yes
+21:30 <IanJackson> For clarity for the record, please record my vote as yes on my amendment.
+21:30 <IanJackson> !vote no
+21:31 <CosmicRay> !vote yes
+21:31 <Joey> !vote yes
+21:31 <cdlu> Yes: 5, No: 2, Abstain: 0
+21:31 <IanJackson> Right.
+21:31 <CosmicRay> !vote stop
+21:32 <CosmicRay> 2006-06-06.dbg.1 has passed.
+21:32 <slef> shame!
+21:32 <CosmicRay> I believe that fully resolves this item, correct?
+21:32 <IanJackson> slef: Not exactly helpful.
+21:32 <IanJackson> CosmicRay: I think so, yes.
+21:32 <CosmicRay> ok.
+21:32 <BrucePerens> Slef, you're not stuck with the machines from the bad guys.
+21:32  * cdlu hands slef a piece of cardboard, a marker, and a stick
+21:32 <CosmicRay> [item 6, Spain trademark]
+21:32 <CosmicRay> who is working on this item?
+21:33 <bdale> IanJackson: I'm sympathetic with your points, but don't believe SPI should take a stand on that in preference to supporting OVF as a project that falls within our guidelines
+21:33 <IanJackson> BrucePerens: it _doesn't matter_ if the machines are from the bad guys if your election arrangements are at all competent.  If your arrangements are _not_ competent then you're sunk even with Free software.  As I pointed out.
+21:33  * Hydroxide politely requests the OVF-related discussion to be delayed, now that the vote is over, until after the meeting
+21:33 <IanJackson> bdale: That's a reasonable position.
+21:33 <CosmicRay> *rap rap*   this election discussion is out of order.
+21:33 <BrucePerens> Ian, I hear you. Cant
+21:34 <BrucePerens> no
+21:34 <BrucePerens> no
+21:34 <CosmicRay> Is there any discussion on the spain trademark?
+21:34 <BrucePerens> Oops. Sorry.
+21:34 <CosmicRay> cdlu: do you know whose item this was?
+21:34  * Hydroxide thinks someone should be dealing with the trademark issue
+21:34 <CosmicRay> cdlu: it seems this has been on our agenda for a few months
+21:34 <Hydroxide> it needs to get dealt with
+21:34 <CosmicRay> and we haven't done anything about it
+21:34 <CosmicRay> Hydroxide: agreed
+21:34 <Hydroxide> but I don't know who is doing it
+21:34 <wnoronha> Regarding the spanish trademark issue, i think i can ask some friends of mine who work   can prolly help out. the organization is hipatia and ourproject.org
+21:34 <IanJackson> Last month we asked a bunch of questions and we still don't seem to have the answers.
+21:34 (!) wnoronha is now known as wnorrix
+21:34 <cdlu> CosmicRay, it's something noone's exactly wanted to take ownership of, to be frank.
+21:34 <BrucePerens> As I was saying before ircII did something strange, Ian, I hear you. Can't say I agree. Best to table the discussion, given the vote.
+21:35 <slef> 29:03 <slef> <mako> slef: i can get greg's advice
+21:35 <CosmicRay> IanJackson: did someone actually send the questions to the appropriate party?
+21:35 <IanJackson> BrucePerens: Yes, we should agree to disagree.
+21:35 <IanJackson> CosmicRay: I don't know.
+21:35 <Joey> could we... er... continue with the trademark in Spain?
+21:35 <IanJackson> I think so.
+21:35 <CosmicRay> we need someone to champion this issue.
+21:35 <cdlu> as of last meeting we were still waiting for mako to hear back from greg.
+21:35 <slef> (from last month, from the month before, currently scanning)
+21:35 <CosmicRay> cdlu: sounds like mako needs to send a ping to greg.
+21:35 <Maulkin> wnoronha has offered assistance BTW
+21:36 <slef> 33:47 <Overfiend> let's get Greg's advice and handle it via email resolution
+21:36 <Maulkin> In case it was missed
+21:36 <slef> 34:20 <mako> i left a message
+21:36 <bdale> cdlu: I'm not prepared to vote on this until we have an answer from Greg
+21:36 <IanJackson> There were big mail chains and I think Javier was CC'd on many of them.
+21:36 <slef> end of log section
+21:36 <Hydroxide> Maulkin: the main assistance we need right now is email advice from our lawyer. we already have a spanish lawyer willing to sue pro bono
+21:36 <Maulkin> Hydroxide: Ahh, ok :)
+21:36 <wnorrix> Maulkin: yes. I dont mind helping out. I know people there who will be glad to help out.
+21:37 <CosmicRay> Hydroxide: would you be willing to ping mako and/or greg?
+21:37 <CosmicRay> or wnorrix, you could too.
+21:37 <Hydroxide> CosmicRay: sure. I'm actually in NYC and have greg's phone number
+21:37 <Hydroxide> CosmicRay: so I'm probably the right one to ping him
+21:37 <cdlu> Hydroxide, perfect
+21:37 <CosmicRay> Hydroxide: super.
+21:37 <Hydroxide> (more so than mako even, as of now)
+21:37 <Joey> Hydroxide: That'd be good.
+21:37 <Joey> We should shelve the issue then.
+21:37 <CosmicRay> agreed.
+21:38 <CosmicRay> let's move on then...
+21:38 <CosmicRay> [item 6, VP responsibilities]
+21:38 <Joey> However, we should be prepared to mail-vote on this issue, since not too much time should pass without any reaction on our end if we should want to sue that guy.
+21:38  * cdlu notes the discussion -board about his agenda posting practices and is thankful he won't be secretary after next meeting.
+21:38 <bdale> Joey: I thought we all agreed to do that last time and are just hung waiting for a reply from Greg
+21:39 <CosmicRay> cdlu: are we doing the VP responsibilities thing today?
+21:39 <Joey> bdale: if we all agreed on it, then there's no need to vote but only to make it happen.
+21:39 <cdlu> CosmicRay, I'd like to. Is this other discussion again deferred?
+21:39 <slef> Joey: months are drifting by already.
+21:39 <bdale> Joey: s/agreed to do that/agreed to vote by email/
+21:39 <Joey> slef: that's what I meant.
+21:39 <CosmicRay> cdlu: it sounds like it.
+21:39 <Joey> bdale: Oh, that... :)
+21:40 <cdlu> CosmicRay, yeah..
+21:40 <CosmicRay> unless someone has a motion to make?
+21:40 <cdlu> Has everyone had a chance to read my resolution on Vice President responsibilities?
+21:40 <bdale> cdlu: when you say 'admin' you mean computer system admin stuff, right?
+21:40 <cdlu> it was posted to -board a few days ago and is attached to the agenda.
+21:40  * CosmicRay actually has ;-)
+21:40 <cdlu> bdale, yes
+21:41  * Joey wonders if we actually need a resolution like 2006-06-16.dbg.1
+21:41 <Maulkin> I think admin == admin@spi-inc.org recepients
+21:41 <bdale> I'm ok with the notion that the VP does this, but it's not clear to me that making it part of a role like VP is better than having it be an explicit board delegation to an interested individual?
+21:41 <cdlu> Joey, I think it will be helpful to have someone on board who can at least keep tabs on what's going on.
+21:41 <Joey> the VP needs to be able to step in as P when P is unavailable.
+21:41 <BrucePerens> OK with the resolution here.
+21:41 <cdlu> bdale, because the VP has no role other than to exist at the moment, so it's highly sought after. Instead of making an additional position, might as well make it this one.
+21:41 <IanJackson> I think having someone on board take responsibility for it is a plus, even if there is an actual volunteer who is doing the actual admin.
+21:41 <cdlu> That's my thinking there. :)
+21:42 <bdale> ok, I understand
+21:42 <bdale> having the VP be the responsible individual whether doing the work or not makes sense to me
+21:42 <cdlu> Joey, one does not preclude the other
+21:42 <CosmicRay> bdale: exactly.
+21:43 <bdale> still not clearly the best solution, but I'm ok with it
+21:43  * cdlu moves to vote
+21:43  * Hydroxide pre-typed his tax filing update to save us time
+21:43 <Joey> this work should "somehow" be shared among P and VP imho.
+21:43 <cdlu> bdale, resolutions can always be amended or changed in the future
+21:43  * Hydroxide seconds cdlu's motion
+21:43 <IanJackson> Hydroxide: yay!  Email it to us and we can read it while we wait ?
+21:43 <CosmicRay> ok, Resolution 2006-06-16.dbg.1 has been moved and seconded.
+21:43 <IanJackson> Yes, let's vote on this now and we can change it later if we feel like it.
+21:43 <Hydroxide> IanJackson: it's next, so if we're voting now, there's no need
+21:43 <CosmicRay> is there any additional discussion?
+21:43 <CosmicRay> seeing none....
+21:43 <CosmicRay> !vote start
+21:43 <Joey> !vote abstain
+21:43 <cdlu> !vote yes
+21:43 <IanJackson> !vote ye
+21:43 <Hydroxide> !vote yes
+21:44 <CosmicRay> !vote yes
+21:44 <IanJackson> !vote yes
+21:44 <BrucePerens> !vote yes
+21:44 <bdale> !vote abstain
+21:44 <IanJackson> Sorry to be confusing.  Vote early, vote often.
+21:44 <CosmicRay> !vote stop
+21:44 <cdlu> Yes: 5, No: 0, Abstain: 2
+21:44 <CosmicRay> 2006-06-16.dbg.1 has passed.
+21:44 <CosmicRay> [item 6, bookkeeping status]
+21:44 <cdlu> Ian, I almost counted you for 1.66 :)
+21:44 <Hydroxide> Quick update: The next step with taxes is to register with NYS. I will email them and ask to talk with them about dealing with our filing delinquencies in previous years and getting squared up with them - that seems easier to do than getting
+21:44 <CosmicRay> how are our taxes for this year?
+21:44 <Hydroxide> them on the line, which is hard. To fill out the form, I'll need some address information about SPI's affiliates like ffis, but I'll email spi-private about that. Regarding the actual filing of the 990/990EZ information return, I need to
+21:44 <Hydroxide> get information from Branden about the current state of his communication with the bookkeepers, but he's been even busier than I've been. I've barely been able to exchange emails with
+21:44 (!) pkern [~pkern@pD9E3A876.dip.t-dialin.net] has quit [Quit: Lost terminal]
+21:44 <Hydroxide> him, let alone discuss the situation. I will keep pestering him in an attempt to get this resolved before deadlines pass.
+21:45 <Hydroxide> [end]
+21:45 <CosmicRay> thanks.
+21:45 <CosmicRay> discussion?
+21:45 <Joey> Hydroxide: http://www.ffis.de/impressum.html
+21:45 <agliodbs> fyi, Hydroxide has asked for my  help with this but this is probably the worst possible time
+21:45 <bdale> carry on, and meet the deadlines please
+21:45 <agliodbs> for me
+21:45 <IanJackson> In what sense is FFIS an affiliate ?
+21:45 <Hydroxide> Joey: I'll look at that, thanks
+21:45 <cdlu> Hydroxide, are you planning to remain treasurer following this election?
+21:45 <Joey> Hydroxide: vorstand@ffis.de is its board.
+21:45 <Hydroxide> cdlu: I'm not planning to take a third term as treasurer
+21:45 <cdlu> Hydroxide, if not, are you in a position to hand all your files over quickly and easily to a new treasurer?
+21:46 <Hydroxide> cdlu: yes
+21:46 <cdlu> ok
+21:46 <bdale> good answer
+21:46 <Hydroxide> cdlu: I'll definitely assist with the transition to get files and account ownership moved over
+21:46 <BrucePerens> Geez. We're losing one of the treasurer job-shares, and Branden is busy. I'm glad we have an accountant.
+21:46 <agliodbs> we don't, really
+21:46 <BrucePerens> Oh?
+21:46 <Hydroxide> BrucePerens: agliodbs is willing to take over as treasurer and he does have more time (aside from during July)
+21:46 <agliodbs> that's going to be the first thing I address if I'm treasurer
+21:46 <Hydroxide> BrucePerens: and expertise (which he calls "common sense")
+21:46 <agliodbs> we have a bookkeeper
+21:46 <schultmc> we have a book keeper, not an accountant
+21:46 <BrucePerens> What happened with Mark's book-keeping?
+21:47 <Hydroxide> BrucePerens: they're not an accountant, they're a bookkeeper
+21:47 <BrucePerens> Sorry. Good enough.
+21:47 <agliodbs> the difference is that a bookkeeper, unlike a CPA, cannot file stuff for us
+21:47 <agliodbs> which contributes to delinquent filing
+21:47 <BrucePerens> Maybe if we get bigger Mark can recommend a CPA.
+21:47 <bdale> the trick is to not end up paying CPA rates for book keeping
+21:47 <Hydroxide> BrucePerens: he has a bunch he recommends
+21:47 <BrucePerens> Good. Cost?
+21:47  * Hydroxide would like to continue this discussion outside the meeting
+21:47 <cdlu> please.
+21:47 <bdale> agreed
+21:48 <BrucePerens> OK.
+21:48 <agliodbs> I would be happy to discuss this after the meeting
+21:48 (!) bendy24 [~scott@bendy.netop.oftc.net] has left #spi []
+21:48 <Hydroxide> BrucePerens: see -board archives, it was emailed there when we started
+21:48 <Hydroxide> I won't have time after the meeting, but via email or similar is ok
+21:48 <agliodbs> yes, I have a hard stop at 12
+21:48 <agliodbs> er, 20:00 UTC
+21:48 <Hydroxide> but CPA references were emailed out when we started with MBS
+21:48 <Hydroxide> let's move on to agliodbs's item
+21:48 <slef> Is ASL (brazil) a SPI partner like ffis?  Since debconf4?
+21:48 <IanJackson> Can someone answer my question about FFIS please ?
+21:49 <IanJackson> What is the relationship between SPI and FFIS ?
+21:49 <Hydroxide> IanJackson: FFIS holds money donated to it on behalf of SPI member projects
+21:49 <IanJackson> AIUI they're separate organisations which happen to fund some of the same projects.
+21:49 <CosmicRay> I was not aware of any relationship between SPI and FFIS
+21:49 <Hydroxide> IanJackson: not specifically Debian, but any SPI member project directly due to the membership in SPI
+21:49 <IanJackson> Hydroxide: Right.  So FFIS is like SPI but not related to SPI.
+21:49 <bdale> IanJackson: I agree with that assessment.
+21:49 <IanJackson> Oh, I see, they've delegated the associate status thing to our decisionmaking.
+21:49 <IanJackson> Fair enough.
+21:49 <Hydroxide> IanJackson: it is related to SPI, because membership in SPI grants eligibility to receive funds through FFIS
+21:49 <Joey> Hydroxide: ffis has partner projects with which it cooperates which is legally totally different from SPI.
+21:49 <slef> CosmicRay: www.spi-inc.org then follow the link to Donations.
+21:50 <Hydroxide> Joey: am I summarising it correctly?
+21:50 <Joey> Hydroxide: http://www.ffis.de/Verein/Assoc/
+21:50 <IanJackson> So I don't see why our accounts should have anything to do with FFIS.
+21:50 <Joey> IanJackson: ack
+21:50 <Hydroxide> IanJackson: NY is asking about our affiliates, not just us
+21:50 <agliodbs> PGDG is also "related"
+21:50 <CosmicRay> ok, this is a good discussion but probably not useful right here, right now
+21:50 <agliodbs> no
+21:50 <CosmicRay> would it be possible to move on?
+21:50 <Hydroxide> let's move on
+21:50 <bdale> FFIS shouldn't need to be part of our tax filings, I wouldn't think.  No money is exchanging hands across the boundary, is it?
+21:50 <Joey> <Hydroxide> IanJackson: it is related to SPI, because membership in SPI grants eligibility to receive funds through FFIS
+21:50 <Hydroxide> bdale: no
+21:50 <IanJackson> But FFIS is not our `affiliate'.
+21:50 <Joey> legally no, technically yes
+21:50 <Hydroxide> ok, we don't need to list them, I guess
+21:50 <Hydroxide> let's move on
+21:51 <IanJackson> Affiliate would mean we have a legal relationship with them, money changing hands, that kind of thing.
+21:51 <CosmicRay> we have a deadline coming up for a person interested in the next item
+21:51 <Hydroxide> sure, ok
+21:51 <CosmicRay> [item 6, postgresql charter]
+21:51 <bdale> Hydroxide: I'm not sure we need to list *any* affiliates, which is why I'm typing about this at all.
+21:51 <Hydroxide> bdale: ok
+21:51 <Joey> Otherwise ffis eV would lose its charitable status and all associated projects were doomed
+21:51 <IanJackson> Oh, I see our website calls them a `partner'.
+21:51 <IanJackson> That's quite irregular.
+21:51 <bdale> CosmicRay: carry on
+21:51 <CosmicRay> ok.  the charter is attached to the minutes.
+21:51 <CosmicRay> does this require board action?
+21:51  * Hydroxide says no
+21:51 <bdale> I don't think so
+21:51 <CosmicRay> s/minutes/agenda/
+21:52 <bdale> I think we thank them for informing us and file this away.
+21:52 <agliodbs> ok
+21:52 <CosmicRay> cdlu, is that your sense as well?
+21:52 <cdlu> I agree with bdale.
+21:52 <CosmicRay> excellent.
+21:52 <bdale> we refer to it if/when there's some issue in the future
+21:52 <Hydroxide> let's move on then. thank you agliodbs.
+21:52 <CosmicRay> in that case, agliodbs, thank you very much, and sorry to have kept you so long.
+21:52 <Hydroxide> (no vote needed, please)
+21:52 <agliodbs> great.   elections for a new liason will take place roughly concurrent with the board elections
+21:52 <cdlu> <SPI> thanks PostgreSQL
+21:52 <Hydroxide> hehe
+21:52 <bdale> agliodbs: great, we'll look forward to the results
+21:53 <CosmicRay> ok.  ready to move on then, it looks like...
+21:53 <CosmicRay> [item 6, website rebuild]
+21:53 <Maulkin> Ok. All English content is now in sync with the old site. Translations aren't yet, and they're probably out of date.
+21:53 <cdlu> what's holding up the website rebuild?
+21:53 <Maulkin> But I haven't confirmed this yet
+21:53 <Maulkin> Wiggy had some concerns over the amount of ram in Chic
+21:54 <Maulkin> Johnathan McDowell from Blackcat has offered a larger machibe to support this
+21:54 <slef> Maulkin: are you spi-www-admin now?
+21:54 <cdlu> ah, that's right. I wanted to propose that the admin director (vp) be allocated a small discretionary budget for admin-related expenses, such as RAM. To be discussed after the election, I think.
+21:54 <Maulkin> Some discussion is occuring within admin@, but I expect this to be resolved shortly
+21:54 <IanJackson> Oh, while we wait: Hydroxide, do you know if Honeywell ever got that refund ?
+21:55 <Hydroxide> IanJackson: I think I had our bank send it to them, yes
+21:55 <IanJackson> Oh, goodk.
+21:55 <Maulkin> I would like all board member, and/or those who want to edit the content to register at the site at http://www.spi-inc.org/zope/
+21:55 <IanJackson> Bah, my typing has gone to pot.
+21:55 <Maulkin> Then mail me (neilm@debian.org) so I can grant write access.
+21:56 <cdlu> ok, anything else about the website?
+21:56 <Joey> Maulkin: Oh no.  Is this the end of off-line work and convenient translations?
+21:56 <Maulkin> However, barring some minor look and feel issues, the site is ready for deployment
+21:56 <IanJackson> Maulkin: Can you write this up in an email along with any do's and dont's ?  That way we can have it for reference.
+21:56 <cdlu> Maulkin, when you decide whether or not you need ram, will you let us know? :)
+21:56 <IanJackson> Eg, for new board members, etc.
+21:56 <Maulkin> cdlu: Sure
+21:56 <Maulkin> IanJackson: sure
+21:57 <IanJackson> Thanks a lot.
+21:57 <Maulkin> Joey: No, you can also use vim to edit the site for example
+21:57 <cdlu> Maulkin, btw, thanks for taking care of the website.
+21:57  * CosmicRay seconds that
+21:57 <CosmicRay> are we ready to proceed?
+21:57  * cdlu nods
+21:57 <Maulkin> Now, as far as I am concerned, the site is ready for deployment, and I'd like to get it released in a week
+21:57 <CosmicRay> [item 7, next meetings] The next meeting is the SPI ANNUAL MEETING on
+21:57 <CosmicRay> SATURDAY, July 1, 2006.  Shall we call it for 19:00 UTC as well?
+21:57 <Maulkin> Any objections?
+21:57 <Maulkin> Oh, sorry. moved on.
+21:57 <cdlu> Maulkin, keep a backup of the old one. If it all goes to hell, we have it. If not, no harm done. :)
+21:57 <Maulkin> cdlu: I've got one :)
+21:57 <yp17> IMHO, July is not a very good time to conduct an election, too many people in holydays.
+21:58 <Hydroxide> Maulkin: go ahead and do that
+21:58 <cdlu> Maulkin, then go nuts. :)
+21:58 <Hydroxide> yp17: it's in our bylaws
+21:58  * Maulkin thanks the board
+21:58 <cdlu> CosmicRay, 1900 sounds good to me.
+21:58 <Hydroxide> CosmicRay: yes. would the monthly board meeting still be the 3rd tuesday?
+21:58 <Hydroxide> (meaning that board business wouldn't happen on july 1)
+21:58 <CosmicRay> I would assume so, unless the board elects to change that.
+21:59 <cdlu> just to note, the annual meeting is, technically, a board meeting. it's called the annual board meeting in our by-laws.
+21:59 <cdlu> so whether we have one in end of july is totally up to us.
+21:59 <CosmicRay> thanks cdlu.
+21:59 <Hydroxide> cdlu: I think the bylaws are inconsistent about that. last couple of years we had two back-to-back. but I don't care.
+21:59 <cdlu> it would end up July 18th
+21:59 <IanJackson> Let's decide on the 1st.
+21:59 <Hydroxide> should we decide that now or on the 1st? (I'd say now)
+21:59 <cdlu> we can decide whether we need to meet again on the 1st
+21:59 <IanJackson> *laugh*
+21:59 <Hydroxide> ok then
+22:00  * Maulkin suggests it's decided on the 1st...
+22:00 <Maulkin> heh
+22:00 <Hydroxide> we'll decide on the 1st
+22:00 <cdlu> hehe
+22:00 <cdlu> damn, we just passed the one hour mark
+22:00 <Hydroxide> see? decision without voting! :)
+22:00 <cdlu> CosmicRay, bring down that hammer :)
+22:00 <Hydroxide> it's 20:00 now
+22:00 <Hydroxide> close it
+22:00 <Hydroxide> close it
+22:00 <CosmicRay> ok, any more discussion?
+22:00 <Hydroxide> no
+22:00 <IanJackson> No.
+22:00 <CosmicRay> [closing] We are adjourned until July 1 at 19:00 UTC.
+22:00 <CosmicRay> *GAVEL*
+22:01 <cdlu> Tue Jun 20 15:00:21 2006 | <CosmicRay:#spi> *GAVEL*
+22:01 <cdlu> Tue Jun 20 16:00:53 2006 | <CosmicRay:#spi> *GAVEL*
