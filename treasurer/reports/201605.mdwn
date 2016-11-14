@@ -21,11 +21,11 @@
     172.35 USD              0     172.35 USD    CPFee
     991.75 USD              0     991.75 USD    F2F
      10.00 USD              0      10.00 USD    Fee
-     48.60 USD              0      48.60 USD    Hosting
-     34.95 USD              0      34.95 USD    Services
-     75.55 USD              0      75.55 USD    Travel
-   4599.86 USD     180.00 USD    4419.86 USD    Unlabeled
-    180.00 USD              0     180.00 USD    Website
+    203.27 USD              0     203.27 USD    Hosting
+     37.95 USD              0      37.95 USD    Services
+   4354.39 USD              0    4354.39 USD    Travel
+    180.00 USD     180.00 USD              0    Website
+    163.35 USD              0     163.35 USD    meetup
      90.94 USD    2146.42 USD   -2055.48 USD  Income
      90.94 USD    2117.41 USD   -2026.47 USD    Donations
              0      29.01 USD     -29.01 USD    Interest
@@ -62,20 +62,20 @@
    2527.28 USD              0    2527.28 USD      Travel
     109.90 USD              0     109.90 USD    Fee
    4519.78 USD              0    4519.78 USD    Hardware
-    731.23 USD              0     731.23 USD    Hosting
+    885.90 USD              0     885.90 USD    Hosting
   11028.48 USD              0   11028.48 USD    Other
     102.00 USD              0     102.00 USD    Postal
-   1206.75 USD              0    1206.75 USD    Services
+   1209.75 USD              0    1209.75 USD    Services
     225.00 USD              0     225.00 USD    Trademarks
-  17210.59 USD              0   17210.59 USD    Travel
-   4599.86 USD     180.00 USD    4419.86 USD    Unlabeled
-    180.00 USD              0     180.00 USD    Website
-   2996.53 USD  134010.65 USD -131014.12 USD  Income
-   2996.53 USD  133868.38 USD -130871.85 USD    Donations
+  21489.43 USD              0   21489.43 USD    Travel
+    180.00 USD     180.00 USD              0    Website
+    163.35 USD              0     163.35 USD    meetup
+   2995.78 USD  134009.90 USD -131014.12 USD  Income
+   2995.78 USD  133867.63 USD -130871.85 USD    Donations
              0     142.27 USD    -142.27 USD    Interest
    1408.97 USD    1464.95 USD     -55.98 USD  Liabilities:CPFee
 --------------------------------------------
-1930778.12 USD 1930778.12 USD              0
+1930777.37 USD 1930777.37 USD              0
 </pre>
 
 ## Per project summaries
@@ -104,10 +104,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      3.53 USD              0      -3.53 USD  Expenses:CPFee
+     90.93 USD              0     -90.93 USD  Expenses
+      3.53 USD              0      -3.53 USD    CPFee
+     87.40 USD              0     -87.40 USD    Hosting
       3.10 USD      62.00 USD      58.90 USD  Income:Donations
 --------------------------------------------
-      6.63 USD      62.00 USD      55.37 USD
+     94.03 USD      62.00 USD     -32.03 USD
 
 </pre>
 
@@ -123,17 +125,27 @@ shown as a possitive amount.
 
 </pre>
 
+#### debconf15
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    304.57 USD              0    -304.57 USD  Expenses:Travel
+
+</pre>
+
 #### debian
 
 <pre>
          debit         credit          total
 --------------------------------------------
-     15.07 USD              0     -15.07 USD  Expenses
+    442.67 USD              0    -442.67 USD  Expenses
      12.07 USD              0     -12.07 USD    CPFee
       3.00 USD              0      -3.00 USD    Fee
+    427.60 USD              0    -427.60 USD    Travel
      12.03 USD     240.53 USD     228.50 USD  Income:Donations
 --------------------------------------------
-     27.10 USD     240.53 USD     213.43 USD
+    454.70 USD     240.53 USD    -214.17 USD
 
 </pre>
 
@@ -168,12 +180,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-     73.30 USD              0     -73.30 USD  Expenses
+    140.57 USD              0    -140.57 USD  Expenses
      24.70 USD              0     -24.70 USD    CPFee
-     48.60 USD              0     -48.60 USD    Hosting
+    115.87 USD              0    -115.87 USD    Hosting
      30.00 USD     600.00 USD     570.00 USD  Income:Donations
 --------------------------------------------
-    103.30 USD     600.00 USD     496.70 USD
+    170.57 USD     600.00 USD     429.43 USD
 
 </pre>
 
@@ -194,10 +206,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      2.37 USD              0      -2.37 USD  Expenses:CPFee
+   3549.04 USD              0   -3549.04 USD  Expenses
+      2.37 USD              0      -2.37 USD    CPFee
+   3546.67 USD              0   -3546.67 USD    Travel
       1.65 USD      33.00 USD      31.35 USD  Income:Donations
 --------------------------------------------
-      4.02 USD      33.00 USD      28.98 USD
+   3550.69 USD      33.00 USD   -3517.69 USD
 
 </pre>
 
@@ -206,13 +220,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    186.05 USD     180.00 USD      -6.05 USD  Expenses
+    349.40 USD     180.00 USD    -169.40 USD  Expenses
       6.05 USD              0      -6.05 USD    CPFee
-             0     180.00 USD     180.00 USD    Unlabeled
-    180.00 USD              0    -180.00 USD    Website
+    180.00 USD     180.00 USD              0    Website
+    163.35 USD              0    -163.35 USD    meetup
       6.25 USD     125.00 USD     118.75 USD  Income:Donations
 --------------------------------------------
-    192.30 USD     305.00 USD     112.70 USD
+    355.65 USD     305.00 USD     -50.65 USD
 
 </pre>
 
@@ -221,16 +235,16 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1117.55 USD              0   -1117.55 USD  Expenses
+   1120.55 USD              0   -1120.55 USD  Expenses
      83.85 USD              0     -83.85 USD    CPFee
     991.75 USD              0    -991.75 USD    F2F
       7.00 USD              0      -7.00 USD    Fee
-     34.95 USD              0     -34.95 USD    Services
+     37.95 USD              0     -37.95 USD    Services
              0     325.11 USD     325.11 USD  Income
              0     296.10 USD     296.10 USD    Donations
              0      29.01 USD      29.01 USD    Interest
 --------------------------------------------
-   1117.55 USD     325.11 USD    -792.44 USD
+   1120.55 USD     325.11 USD    -795.44 USD
 
 </pre>
 
@@ -239,10 +253,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   4599.86 USD              0   -4599.86 USD  Expenses:Unlabeled
              0       2.53 USD       2.53 USD  Income:Donations
---------------------------------------------
-   4599.86 USD       2.53 USD   -4597.33 USD
 </pre>
 
 ### Year to date, ending 2016/06/01
@@ -254,14 +265,14 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0   35216.03 USD   35216.03 USD  Equity:Opening Balance
-   5979.78 USD              0   -5979.78 USD  Expenses
+   6067.18 USD              0   -6067.18 USD  Expenses
      23.88 USD              0     -23.88 USD    CPFee
       2.25 USD              0      -2.25 USD    Fee
-    342.55 USD              0    -342.55 USD    Hosting
+    429.95 USD              0    -429.95 USD    Hosting
    5611.10 USD              0   -5611.10 USD    Other
      32.83 USD     656.42 USD     623.59 USD  Income:Donations
 --------------------------------------------
-   6012.61 USD   35872.45 USD   29859.84 USD
+   6100.01 USD   35872.45 USD   29772.44 USD
 
 </pre>
 
@@ -324,9 +335,9 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0   74365.43 USD   74365.43 USD  Equity:Opening Balance
-   2777.06 USD              0   -2777.06 USD  Expenses:Travel
+   3081.63 USD              0   -3081.63 USD  Expenses:Travel
 --------------------------------------------
-   2777.06 USD   74365.43 USD   71588.37 USD
+   3081.63 USD   74365.43 USD   71283.80 USD
 
 </pre>
 
@@ -351,16 +362,16 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0  228390.17 USD  228390.17 USD  Equity:Opening Balance
-   7390.12 USD              0   -7390.12 USD  Expenses
+   7817.72 USD              0   -7817.72 USD  Expenses
     194.63 USD              0    -194.63 USD    CPFee
      90.43 USD              0     -90.43 USD    Domains
      24.00 USD              0     -24.00 USD    Fee
    4519.78 USD              0   -4519.78 USD    Hardware
     225.00 USD              0    -225.00 USD    Trademarks
-   2336.28 USD              0   -2336.28 USD    Travel
+   2763.88 USD              0   -2763.88 USD    Travel
     255.96 USD    6119.11 USD    5863.15 USD  Income:Donations
 --------------------------------------------
-   7646.08 USD  234509.28 USD  226863.20 USD
+   8073.68 USD  234509.28 USD  226435.60 USD
 
 </pre>
 
@@ -454,12 +465,12 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0    3282.34 USD    3282.34 USD  Equity:Opening Balance
-    327.83 USD              0    -327.83 USD  Expenses
+    395.10 USD              0    -395.10 USD  Expenses
      59.15 USD              0     -59.15 USD    CPFee
-    268.68 USD              0    -268.68 USD    Hosting
+    335.95 USD              0    -335.95 USD    Hosting
      81.50 USD   11238.40 USD   11156.90 USD  Income:Donations
 --------------------------------------------
-    409.33 USD   14520.74 USD   14111.41 USD
+    476.60 USD   14520.74 USD   14044.14 USD
 
 </pre>
 
@@ -497,12 +508,12 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0   43747.52 USD   43747.52 USD  Equity:Opening Balance
-   5939.15 USD              0   -5939.15 USD  Expenses
+   9485.82 USD              0   -9485.82 USD  Expenses
      53.96 USD              0     -53.96 USD    CPFee
-   5885.19 USD              0   -5885.19 USD    Travel
+   9431.86 USD              0   -9431.86 USD    Travel
      78.21 USD   11564.20 USD   11485.99 USD  Income:Donations
 --------------------------------------------
-   6017.36 USD   55311.72 USD   49294.36 USD
+   9564.03 USD   55311.72 USD   45747.69 USD
 
 </pre>
 
@@ -632,14 +643,14 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0   69483.98 USD   69483.98 USD  Equity:Opening Balance
-   1423.34 USD     180.00 USD   -1243.34 USD  Expenses
+   1586.69 USD     180.00 USD   -1406.69 USD  Expenses
      20.12 USD              0     -20.12 USD    CPFee
    1223.22 USD              0   -1223.22 USD    Travel
-             0     180.00 USD     180.00 USD    Unlabeled
-    180.00 USD              0    -180.00 USD    Website
+    180.00 USD     180.00 USD              0    Website
+    163.35 USD              0    -163.35 USD    meetup
    1271.75 USD   25435.00 USD   24163.25 USD  Income:Donations
 --------------------------------------------
-   2695.09 USD   95098.98 USD   92403.89 USD
+   2858.44 USD   95098.98 USD   92240.54 USD
 
 </pre>
 
@@ -671,19 +682,19 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
              0  124032.55 USD  124032.55 USD  Equity:Opening Balance
-   7509.69 USD              0   -7509.69 USD  Expenses
+   7512.69 USD              0   -7512.69 USD  Expenses
     801.95 USD              0    -801.95 USD    CPFee
    5315.34 USD              0   -5315.34 USD    F2F
     312.43 USD              0    -312.43 USD      Dining
    2527.28 USD              0   -2527.28 USD      Travel
      83.65 USD              0     -83.65 USD    Fee
     102.00 USD              0    -102.00 USD    Postal
-   1206.75 USD              0   -1206.75 USD    Services
-             0   33486.26 USD   33486.26 USD  Income
-             0   33343.99 USD   33343.99 USD    Donations
+   1209.75 USD              0   -1209.75 USD    Services
+             0   33500.51 USD   33500.51 USD  Income
+             0   33358.24 USD   33358.24 USD    Donations
              0     142.27 USD     142.27 USD    Interest
 --------------------------------------------
-   7509.69 USD  157518.81 USD  150009.12 USD
+   7512.69 USD  157533.06 USD  150020.37 USD
 
 </pre>
 
@@ -723,19 +734,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   4599.86 USD              0   -4599.86 USD  Expenses:Unlabeled
              0       2.53 USD       2.53 USD  Income:Donations
---------------------------------------------
-   4599.86 USD       2.53 USD   -4597.33 USD
-
-</pre>
-
-#### undefined
-
-<pre>
-         debit         credit          total
---------------------------------------------
-      0.75 USD      15.00 USD      14.25 USD  Income:Donations
 
 </pre>
 
