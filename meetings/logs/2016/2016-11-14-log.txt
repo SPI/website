@@ -1,0 +1,199 @@
+[15:00:37] <tbm> *GAVEL*
+[15:00:47] <tbm> [item 1, Opening]
+[15:00:49] <tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[15:00:52] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2016/2016-11-14/
+[15:00:55] <tbm> [item 2, Roll Call]
+[15:00:57] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[15:01:00] <Ganneff> Joerg Jaspert
+[15:01:00] <tbm> Directors, please state your name
+[15:01:01] <schultmc> Michael Schultheiss
+[15:01:02] <Hydroxide> Jimmy Kaplowitz
+[15:01:07] <tbm> Martin Michlmayr
+[15:01:07] <zobel> Martin Zobel-Helas
+[15:01:21] <spectranaut> Valerie Young
+[15:01:25] <zobel> so we miss? luca?
+[15:01:32] <schultmc> tridge: ping
+[15:01:50] <zobel> luca: ping
+[15:02:11] <zobel> we have quorum, do we?
+[15:02:12] <Hydroxide> we have quorum, unless I'm counting wrong - 6 out of 9.
+[15:03:05] <tbm> I saw regrets from xnox
+[15:03:20] <tbm> [item 3, President's Report]
+[15:03:22] <zobel> i saw tridge and luca online about 30min ago.
+[15:03:28] <tbm> I just added a report to: http://spi-inc.org/meetings/agendas/2016/2016-11-14/
+[15:04:21] <tbm> any questions?
+[15:04:30] <zobel> tbm: yay to D&O!
+[15:04:42] <Hydroxide> definite yay to that
+[15:04:46] --> spectranaut_ (~spectrana@c-76-24-26-197.hsd1.ma.comcast.net) has joined #spi
+[15:05:05] <tbm> if there are no objections, I'll submit NPCC's application form
+[15:05:09] <Hydroxide> tbm: president's report typo: s/should NPCC/should join NPCC/
+[15:05:19] <tbm> and once that's been accepted, ask for a quote
+[15:05:20] <tbm> ok?
+[15:05:38] <zobel> do we need to vote on thatß
+[15:05:40] <zobel> +?
+[15:05:57] <tbm> I don't think so
+[15:06:09] <Hydroxide> thumbs up for proceeding as far as I'm concerned. unless there are significant obligations incurred by joining, I don't see a need to vote, tbm is president and we underuse officer authority to act for the organization. this isn't controversial.
+[15:06:30] <zobel> ack
+[15:06:40] <Hydroxide> and I don't think small annual dues that we can opt out of at any time by canceling our membership count as significant obligations.
+[15:06:49] <tbm> Agreed
+[15:07:06] <tbm> [item 4, Treasurer's Report]
+[15:07:24] <tridge> here now
+[15:07:28] <schultmc> Thanks to zobel and xnox for working to get our financial data into ledger.
+[15:07:35] <zobel> tridge: say your name.
+[15:07:40] <tridge> Andrew Tridgell
+[15:07:51] <tridge> (calender shows mtg in 50 mins?)
+[15:07:53] <schultmc> reports for january-august 2016 are in the agenda and we're working on finishing up the remaining outstanding reports
+[15:08:24] <zobel> i re-published the january report
+[15:08:31] <spectranaut> I think the calendar didn't adjust to daylights saving time in the united states - sorry everyone
+[15:08:40] <luca> i'm here
+[15:08:48] <luca> 19:58  * luca here
+[15:09:04] <zobel> "Some of the amounts for the January/February are different from the previously published reports. This is due to disrepancy in accounting for the donations near end of month, which in these reports are accounted in the subsequent month as that is when money arrives in the SPI bank accounts and is available for spending.
+[15:09:09] <zobel> "
+[15:09:10] <zobel> from the reports
+[15:09:15] -*- zobel done
+[15:09:42] <zobel> any questions?
+[15:09:45] <Hydroxide> spectranaut: for future months, google calendar does support specifying a time zone, so maybe pick UTC to avoid this confusion. but your official notice emails and channel /topic were correct, so well done there.
+[15:10:35] <tridge> spectranaut: use iceland to get GMT
+[15:10:36] <zobel> seems there are no questions.
+[15:11:03] <tbm> [item 5, Secretary's report]
+[15:11:10] <spectranaut> nothing to report
+[15:11:21] <tbm> should we talk about the f2f now or in other business?
+[15:11:41] <spectranaut> we can talk now
+[15:11:56] <tbm> I spoke to SFLC and they confirmed they can host the meeting
+[15:12:11] <tbm> from my POV, people can go ahead and book flights and hotels.
+[15:12:18] <tbm> I can work with spectranaut to send out some more details
+[15:12:29] <Hydroxide> great. at the Debian cloud sprint zobel asked me to take care of a group hotel booking. do we want to do that or do we want to book separately? any answer is fine with me.
+[15:12:32] <tbm> we're planning to meet Friday and Saturday, so plan to arrive on Thursday
+[15:12:37] <zobel> tbm: i spoke with Hydroxide and asked him, if he can organize a group hotel booking
+[15:13:16] <tbm> zobel suggested that schultmc, zobel and I should maybe arrive a day early to get zobel added to the bank account
+[15:13:22] <tbm> we can discuss that offline though
+[15:13:35] <zobel> i was about to type that.
+[15:13:44] <Hydroxide> yes, non-meeting seems fine for this type of personal logistics topic.
+[15:13:50] <tbm> Hydroxide: you can certainly offer that
+[15:13:58] <Hydroxide> ok
+[15:14:00] <tbm> Ok, so let's move the logistics off-line
+[15:14:07] <tbm> In any case, venue is confirmed
+[15:14:12] <tbm> [item 6, Outstanding minutes]
+[15:14:22] <tbm> I believe we have minutes for 10th October 2016
+[15:14:32] <spectranaut_> Voting started, 7 people (ganneff,tbm,schultmc,zobel,hydroxide,xnox,spectranaut) allowed to vote on Meeting minutes for Monday 10 October 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[15:14:37] <zobel> !vote yes
+[15:14:42] <spectranaut> !vote yes
+[15:14:47] <schultmc> !vote yes
+[15:14:48] <tridge> !vote yes
+[15:14:50] <tbm> hold on, the vote is wrong (xnox)
+[15:14:52] <Hydroxide> !vote yes
+[15:14:55] <luca> !vote yes
+[15:14:56] <Ganneff> !vote yes
+[15:14:57] <tbm> !vote yes
+[15:15:05] <zobel> (low on battary, fetching my power cord, be AFK for 1min)
+[15:15:05] <Hydroxide> tbm: not a big deal, he just won't vote in his own absence
+[15:15:06] <tbm> spectranaut, you'll have to count manually
+[15:15:08] <Ganneff> tbm: spectranaut can ignore that and fixup the minutes
+[15:15:17] <Ganneff> or just forcevote him
+[15:15:38] <spectranaut_> Current voting results for "Meeting minutes for Monday 10 October 2016": Yes: 6, No: 0, Abstain: 0, Missing: 1 ( xnox )
+[15:15:39] <tbm> so 8 yes votes, no abstain/no
+[15:15:41] <spectranaut_> Voting for "Meeting minutes for Monday 10 October 2016" closed.
+[15:15:57] <Hydroxide> tbm: 6, not 8... but right
+[15:16:01] <tbm> 8
+[15:16:05] <spectranaut> will fix XD sorry
+[15:16:07] <tbm> tridge and luca weren't counted
+[15:16:12] <Hydroxide> oh... 8. right. I see what you mean
+[15:16:12] <tridge> spectranaut: do you know why I wasn't in the allowed vote list?
+[15:17:04] <spectranaut> I had a list of who was attending from the beginning, then added xnox back instead of you
+[15:17:10] <tbm> [item 7, Items up for discussion]
+[15:17:12] <tbm> [item 7.1, Resolution 2016-10-04.mm.1: Performance Co-Pilot as associated project]
+[15:17:14] <tridge> no worries
+[15:17:31] <zobel> tbm: before we vote on that.
+[15:17:45] <zobel> i had a comment sent to the board list to you and xnox with no repsonse.
+[15:18:17] <tbm> yes, sorry about that.  You suggested that paragraph 3 should be the same in both resolutions
+[15:18:34] <zobel> ack.
+[15:18:58] <tbm> I'm fine with using the paragraph from the Open MPI Project resolution if you want
+[15:19:20] <zobel> will that delay the voting one more month?
+[15:19:46] <Hydroxide> we can just approve it with that alteration now
+[15:19:48] <tbm> no, we can do it right now.  sec
+[15:19:52] <zobel> or is any on the board okay with that change now during the board meeting?
+[15:20:01] <schultmc> I'm fine with that change
+[15:20:02] <Hydroxide> "swap in paragraph X from the other resolution to replace the corresponding paragraph"
+[15:20:41] <Hydroxide> maybe someone can type the precise replacement paragraph here?
+[15:21:13] <tbm> I just added 2016-10-04.mm.2 to http://spi-inc.org/meetings/agendas/2016/2016-11-14/
+[15:21:19] <tbm> 3. If the last known SPI liaison for Performance Co-Pilot Project is
+[15:21:19] <tbm> missing in action, and no new SPI liaison is appointed for two
+[15:21:19] <tbm> consecutive years the associated project is deemed defunct. Defunct
+[15:21:19] <tbm> project's assets may be transferred to a nominated US 501(c)(3) charity or
+[15:21:19] <tbm> to the SPI general fund.
+[15:21:53] <spectranaut_> Voting started, 8 people (ganneff,tbm,schultmc,zobel,hydroxide,spectranaut,luca,tridge) allowed to vote on Resolution 2016-10-04.mm.2 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[15:22:03] <tbm> !vote yes
+[15:22:06] <tridge> !vote yes
+[15:22:08] <schultmc> !vote yes
+[15:22:09] <spectranaut> !vote yes
+[15:22:14] <zobel> !vote yes
+[15:22:15] <Hydroxide> !vote yes
+[15:22:47] <Ganneff> !vote
+[15:22:52] <Ganneff> !vote yes
+[15:23:08] <zobel> luca: ^
+[15:25:00] <tbm> let's just continue
+[15:25:20] <luca> !vote yes
+[15:25:27] <spectranaut_> Current voting results for "Resolution 2016-10-04.mm.2 2016": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+[15:25:30] <spectranaut_> Voting for "Resolution 2016-10-04.mm.2 2016" closed.
+[15:25:34] <tbm> [item 7.2, Resolution 2016-10-09.djl.1: The Open MPI Project as an associated project]
+[15:25:39] <tbm> Any comments before we vote?
+[15:26:00] <luca> nyet
+[15:26:58] <spectranaut> sounds like we should vote?
+[15:27:01] <tbm> yes
+[15:27:16] <spectranaut_>  /vote_start  Resolution 2016-10-09.djl.1:Ganneff,tbm,schultmc,zobel,Hydroxide,spectranaut,luca,tridge
+[15:27:19] <luca> !vote yes
+[15:27:27] <zobel> what?
+[15:27:34] <zobel> spectranaut_: that was wrong.
+[15:27:40] <schultmc> extra space before /vote_start
+[15:27:46] <spectranaut> oh not again haha
+[15:27:50] <spectranaut> trying one more time
+[15:28:04] <spectranaut_> Voting started, 8 people (ganneff,tbm,schultmc,zobel,hydroxide,spectranaut,luca,tridge) allowed to vote on  Resolution 2016-10-09.djl.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[15:28:09] <zobel> !vote yes
+[15:28:09] <schultmc> !vote yes
+[15:28:13] <tridge> !vote yes
+[15:28:14] <tbm> !vote yes
+[15:28:15] <spectranaut> !vote yes
+[15:28:15] <Hydroxide> !vote yes
+[15:28:41] <Ganneff> !vote yes
+[15:28:59] <zobel> luca: you need to re-vote.
+[15:29:03] <luca> !vote yes
+[15:29:08] <spectranaut_> Current voting results for " Resolution 2016-10-09.djl.1": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+[15:29:10] <luca> so complicated this vote thingy
+[15:29:11] <spectranaut_> Voting for " Resolution 2016-10-09.djl.1" closed.
+[15:29:36] <tbm> [item 7.3, Directors and officers liability insurance update (Martin Michlmayr)]
+[15:29:45] <tbm> I think we covered this already
+[15:29:47] <tbm> [item 7.4, Bylaws draft update (Jimmy Kaplowitz)]
+[15:29:53] <Hydroxide> I sent a revised version of Bdale's draft bylaws replacement to spi-general, addressing the previous feedback from on-list and the changes I thought were worth making. My mail summarized everything I had changed.
+[15:29:57] <Hydroxide> Unfortunately the only discussion so far has been about document formatting and comparison topics. While those are reasonable things to discuss, I need enough member buy-in on the substance for us to be able to meet our current amendment threshold.
+[15:30:01] <Hydroxide> I will separately contact those who had expressed opinions in the previous discussion and ask them to review the new draft for their concerns. Other feedback is of course welcome.
+[15:30:04] <Hydroxide> Next steps: Iterate to the point of seeming consensus among membership; go through legal review with Mishi; propose for a vote at a future meeting.
+[15:30:07] <Hydroxide> </done>
+[15:30:30] <Hydroxide> any questions?
+[15:30:50] <tbm> Sounds good to me. Thanks for doing this!
+[15:31:09] <tbm> I haven't had a chance to look at the changes myself yet
+[15:31:12] <Hydroxide> link to the start of the new spi-general thread: http://lists.spi-inc.org/pipermail/spi-general/2016-November/003583.html
+[15:31:19] <Hydroxide> the new draft is attached as a PDF.
+[15:31:44] <Hydroxide> I can also share the odt as desired.
+[15:33:05] <tbm> I encourage everyone to look at the new draft and point out problems
+[15:33:09] <tbm> [item 7.5, Physical mailing address update (Luca Filipozzi)]
+[15:33:24] <tbm> luca: this was on the agenda last time when you couldn't attend
+[15:33:43] <luca> and i haven't done anything with it what with work changes
+[15:33:45] --> tpot (~tpot@ppp121-45-205-50.lns20.cbr1.internode.on.net) has joined #spi
+[15:33:56] <tbm> Ok
+[15:34:02] <luca> but i'll start the discussion on the mailing list and we can try to make some decision for before the f2f
+[15:34:03] <tbm> [item 7.6, Status of deprecation of SPI CA (Joerg Jaspert)]
+[15:34:15] <luca> since, if we're in NY, we can execute on those any decision we make
+[15:34:26] <Ganneff> sorry, not gotten to it. will do soon. :/
+[15:34:35] <tbm> Ok
+[15:34:48] <tbm> [item 8, Any other business]
+[15:35:00] <tbm> There was something about the OFTC Election Report
+[15:35:04] <tbm> Ganneff?
+[15:35:21] <Ganneff> oh. yeah. well. oftc had an election
+[15:35:23] <Ganneff> nothing changed
+[15:35:45] <Ganneff> so Myon is still chair, oftc still likes SPI, all fine, all same
+[15:35:55] <tbm> Ok, great
+[15:36:00] <tbm> Any other business?
+[15:36:41] <tbm> [item 9, Next board meeting]
+[15:36:44] <tbm> The next board meeting is scheduled for December 12, 2016
+[15:36:47] <tbm> Any objections?
+[15:37:23] <tbm> Ok then
+[15:37:25] <tbm> *GAVEL*
