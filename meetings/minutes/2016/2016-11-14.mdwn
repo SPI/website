@@ -1,0 +1,258 @@
+# Board Meeting, November 14th, 2016
+
+These minutes are a draft and require review and approval by the board.
+
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* Luca Filipozzi (luca)
+* Jimmy Kaplowitz (Hydroxide)
+* Andrew Tridgell (tridge)
+
+
+__Board members partially present__
+
+* Martin Zobel-Helas (zobel)
+
+
+__Board members absent with regrets__
+
+* Dimitri John Ledkov (xnox)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Philip Balister (Crofton|work)
+
+
+These are the minutes for the November 14th, 2016 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2016/2016-11-14-log.txt).
+
+
+## President's Report
+
+President's report, as added to the agenda:
+
+I would like to thank Martin Zobel-Helas and Dimitri John Ledkov for their
+outstanding work on getting SPI's financial data into ledger.  I'm happy to
+see reports using the new system in the agenda.  I'd also like to thank
+Andrew Tridgell for work on PayPal and of course Michael Schultheiss for
+his continued work as as SPI Treasurer.
+
+Speaking of ledger, I attended a ledger hackathon this weekend.  John
+Wiegley, the maintainer of ledger, looked at [an issue SPI
+found](http://bugs.ledger-cli.org/show_bug.cgi?id=1194) but hasn't been
+able to resolve it yet.
+
+SFLC confirmed that they can host our face-to-face meeting in February.
+I'm looking forward to a productive meeting!
+
+I confirmed that SPI is eligible to join NPCC.  I suggest we join NPCC
+and obtain a D&O liability insurance quote through their provider.
+
+Finally, I'm very happy to see a new draft for the by-laws.  Thanks to
+Jimmy Kaplowitz.
+
+Discussion following the president's report:
+
+The board agreed Martin Michlmayr should submit the NPCC application and, once accepted, ask for a quote for liability insurance.
+
+## Treasurer's report
+
+Reports for January-August 2016 have been published:
+
+1. [Treasurer's report as of 2016-01](../../../../treasurer/reports/201601/)
+2. [Treasurer's report as of 2016-02](../../../../treasurer/reports/201602/)
+3. [Treasurer's report as of 2016-03](../../../../treasurer/reports/201603/)
+4. [Treasurer's report as of 2016-04](../../../../treasurer/reports/201604/)
+5. [Treasurer's report as of 2016-05](../../../../treasurer/reports/201605/)
+6. [Treasurer's report as of 2016-06](../../../../treasurer/reports/201606/)
+7. [Treasurer's report as of 2016-07](../../../../treasurer/reports/201607/)
+8. [Treasurer's report as of 2016-08](../../../../treasurer/reports/201608/)
+
+
+## Secretary's report
+
+Martin Michlmayr contacted the Software Freedom Law Center about hosting the SPI face-to-face meeting on February 24-25th, 2017. They confirmed they can host.
+
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 10th October 2016:
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Resolution 2016-10-04.mm.2: Performance Co-Pilot as associated project
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain, 0 missing.
+
+
+### Resolution 2016-10-09.djl.1: The Open MPI Project as an associated project
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain, 0 missing.
+
+### Bylaws draft update
+
+Jimmy Kaplowitz sent a revised version of the bylaws to spi-general for review and received little feedback. He will request feedback individually from members who expressed opinions on previous drafts. Once there is general consensus on the draft he will request legal review by Misha and propose a vote in a future meeting.
+
+
+### Physical mailing address update
+
+No update.
+
+
+### Status of deprecation of SPI CA
+
+Joerg Jaspert has not yet switched SPI off of the SPI CA.
+
+
+## Any other business
+
+### OFTC Election
+
+OFTC reported to SPI they had an election. Results of vote: Christoph Berg (Myon) is still the chair, OFTC will remain a member project of SPI.
+
+
+## Adjournment
+
+The meeting was adjourned until Monday, December 12th, 2016 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2015<br /></td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2016<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+## Appendix B: Resolutions
+
+### Resolution 2016-10-04.mm.2: Performance Co-Pilot as associated project
+
+<pre>
+WHEREAS
+
+1. Performance Co-Pilot (PCP) is a substantial and significant Free
+Software project.
+
+2. Performance Co-Pilot developers would like SPI's support and
+assistance, including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+1. Performance Co-Pilot is formally invited to become an SPI Associated
+Project, according to the SPI Framework for Associated Projects, SPI
+Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which
+can be found at
+http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+2. Nathan Scott and Ken McDonell are recognized by SPI as the
+authoritative decision makers and SPI liaisons for Performance Co-Pilot.
+Successors will be appointed by the Performance Co-Pilot core team.
+
+3. If the last known SPI liaison for Performance Co-Pilot Project is
+missing in action, and no new SPI liaison is appointed for two
+consecutive years the associated project is deemed defunct. Defunct
+project's assets may be transferred to a nominated US 501(c)(3) charity or
+to the SPI general fund.
+
+4. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+</pre>
+
+### Resolution 2016-10-09.djl.1: The Open MPI Project as an associated project
+
+<pre>
+WHEREAS
+
+1. The Open MPI Project is a substantial and significant Free Software
+project.
+
+2. The Open MPI Project developers would like SPI's support and
+assistance, including taking donations.
+
+THE SPI BOARD RESOLVES THAT
+
+1. The Open MPI Project is formally invited to become an SPI
+Associated Project, according to the SPI Framework for Associated
+Projects, SPI Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a
+copy of which can be found at
+http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+2. Ralph Castain &lt;rhc@open-mpi.org&gt; is recognised by SPI as the
+authoritative decision maker and SPI liaison for The Open MPI Project.
+Successors will be appointed or elected by full members of the The
+Open MPI Project &lt;https://www.open-mpi.org/about/members/&gt;.
+
+3. If the last known SPI liaison for The Open MPI Project is missing
+in action, and no new SPI liaison is appointed for two consecutive
+years the associated project is deemed defunct. Defunct project's
+assets may be transferred to a nominated US 501(c)(3) charity or to
+the SPI general fund.
+
+4. This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board.
+</pre>
+
+[[!meta copyright="Copyright © 2016 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
