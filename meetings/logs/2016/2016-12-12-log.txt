@@ -1,0 +1,163 @@
+[15:09:18] <Ganneff> *BANG*
+[15:09:18] <Ganneff> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+[15:09:18] <Ganneff> The agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-12-12/
+[15:09:18] <Ganneff> [item 2, Roll Call]
+[15:09:18] <Ganneff> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[15:09:23] <Ganneff> Joerg Jaspert
+[15:09:32] <spectranaut> Valerie Young
+[15:09:37] <zobel> Martin Zobel-Helas
+[15:09:39] <xnox> Dimitri John Ledkov
+[15:09:42] <tridge> Andrew Tridgell
+[15:09:45] <luca> Luca Filipozzi
+[15:10:13] <Ganneff> so quorum
+[15:10:37] <Ganneff> [item 3, President's Report]
+[15:10:37] <Ganneff> Agenda looks like there is none, and tbm is out partying.
+[15:10:37] <Ganneff> [item 4, Treasurer's Report]
+[15:10:37] <Ganneff> That's for Michael, or is anyone else able to speak up on this?
+[15:10:41] <xnox> and Hydroxide will introduce when back.
+[15:10:54] <xnox> maybe zobel can.
+[15:10:57] <Ganneff> there are three corrected reports in agenda at least
+[15:10:59] <zobel> I have been terribly busy in November, sorry for that. I published corrected reports for June to August, which fixes a miss-booking on each paypal booking.
+[15:11:02] <zobel> Regarding bookings for September to November: I am mostly done, but currently wait for Michael to identify several booking of September and October. Hope to publish before 24th.
+[15:11:14] <xnox> i have oustanding item to re-verify how paypal donations and payments are booked.
+[15:11:35] <xnox> unless zobel already did it.
+[15:11:48] <zobel> i am also able to access debian's paypal account since a week. need to do the booking in ledger which is mostly automated.
+[15:11:52] <zobel> </done>
+[15:11:56] <Ganneff> [item 5, Secretary's report]
+[15:11:57] <Ganneff> One for spectranaut.
+[15:12:05] <spectranaut> nothing to report
+[15:12:19] <Ganneff> [item 6, Outstanding minutes]
+[15:12:19] <Ganneff> There is one set outstanding, from 14th November.
+[15:12:33] <zobel> spectranaut: please respond to the legal question (which was on-list today)
+[15:12:44] -*- Hydroxide back - Jimmy Kaplowitz
+[15:13:00] <Ganneff> can we vote on the minutes?
+[15:13:10] <zobel> 2 days ago actually. read it today.
+[15:13:17] <zobel> yes.
+[15:13:26] <spectranaut> ok voting on minutes -- will look into though!
+[15:14:30] <spectranaut> sorry -- technical error. Please vote with out the script:
+[15:14:33] <spectranaut> Meeting minutes for Monday 14 November 2016
+[15:14:45] <spectranaut> Ganneff,zobel,luca,Hydroxide,tridge,xnox,spectranaut
+[15:14:45] <Ganneff> !vote yes
+[15:14:47] <Hydroxide> !vote yes
+[15:14:48] <zobel> !vote yes
+[15:14:51] <tridge> !vote yes
+[15:14:52] <xnox> !vote yes
+[15:14:54] <spectranaut> !vote yes
+[15:15:11] <xnox> luca, ?
+[15:15:13] <zobel> luca: ?
+[15:15:30] <luca> !vote yes
+[15:15:37] <Hydroxide> 7 yes, 0 missing, 0 no, 0 abstain
+[15:15:38] <Ganneff> right, 6 yes.
+[15:15:45] <Ganneff> 7? whatever. all yes
+[15:15:54] <Ganneff> [item 7, Items up for discussion]
+[15:15:54] <Ganneff> Agenda says we have 3, Bylaws, Physical mailing address and SPI CA
+[15:15:54] <Ganneff> I need a little break of about 5 minutes, getting older son into bed.
+[15:15:54] <Ganneff> Feel free to discuss, you dont need me for that, Ill catch up.
+[15:16:36] <zobel> Hydroxide: any update on the bylawas, or are we ready to vote?
+[15:16:40] <Hydroxide> Not much on the bylaws since last time - discussion continued on spi-general for a few days, a mixture of on-topic and off-topic. I still have yet to nudge the people who originally commented in the summer on Bdale's draft.
+[15:17:23] <zobel> is that needed? we updated an updated draft, people are on-list, so read it.
+[15:17:25] <Hydroxide> the members did mention one minor thing to fix, i.e. putting a requirement for an attendance policy into the bylaws. not specifying the specifics, just requiring us to have one and requiring it to enable removing for cause based on attendance
+[15:17:34] <Hydroxide> but they didn't really comment much at all on the substance
+[15:17:43] <zobel> imho if the have problems with the new draft they should have spoken up by now
+[15:17:44] <Hydroxide> honestly, if we put it to a vote now, we wouldn't get enough turnout
+[15:17:45] -*- xnox ponders if we can later discuss queries from mailing lists too: e.g. donation to osi (i'm against, but want to hear what others think); and expenses/payments processing timelines (imho anything between 30-120 days is actually reasonable)
+[15:18:00] <Hydroxide> the problem we're in is that we have to get 2/3 of the entire contributing membership to vote yes, if we want to amend the bylaws by their own terms
+[15:18:01] <zobel> xnox: AOB
+[15:18:14] <Hydroxide> so we can't just accept apathy and proceed to the vote
+[15:18:59] <Hydroxide> the only alternative to somehow getting the membership to care about and support the overhaul in large numbers is to circumvent the bylaw amendment procedure entirely by amending the certificate incorporation (which takes precedence) to provide a different way to amend the bylaws. but that feels so icky that the membership would rightly object on procedural grounds.
+[15:19:00] <zobel> Hydroxide: at one point we need to schedule a vote. this should IMHO be done before next voting term starts.
+[15:19:22] <spectranaut> how many contributing members do we have?
+[15:19:55] -*- xnox ponders if we want simultanious election & byelaws vote, or at least close by each other (byelaws first, then election)
+[15:19:57] <Hydroxide> spectranaut: total votes in the annual board election this summer was 133, which was 55.42% of all possible votes
+[15:20:00] <zobel> spectranaut: look at the last vote on the board.
+[15:20:09] <zobel> it had numbers.
+[15:20:30] <Hydroxide> and guess what? even though that was the highest turnout we've had in a long time, maybe ever, it doesn't count as enough to amend our bylaws. the current threshold is infeasibly inflexible, which ironically enough is the biggest reason we need to amend them.
+[15:20:30] -*- xnox thinks we need ads on lwn.net & planets. For new people to join, to crowd membership and/or existing members to vote.
+[15:20:52] <Ganneff> back.
+[15:21:01] <zobel> xnox: feel free to reach out to lwn? :)
+[15:21:24] <zobel> Ganneff: we are still at 7.1
+[15:21:41] <Ganneff> fine, as expected
+[15:22:12] <Hydroxide> zobel: but, to your point, I definitely hope to have a draft ready for us to send to a vote no later than our f2f, maybe sooner. still, I don't see the point in holding the vote if we think the odds of enough turnout are low, because it will only fatigue the membership on this topic and make them care less about the third round of discussion in 1-2 years.
+[15:22:23] <Hydroxide> or maybe 4th round, depending on how you count
+[15:22:43] <zobel> okay, can we then move on to 7.2?
+[15:22:45] <Hydroxide> zobel: so we need to figure out how to make a sufficient turnout sufficiently lilkely
+[15:22:51] <Hydroxide> fine moving on to 7.2, yes
+[15:23:00] <zobel> need to get up by 4.30am.
+[15:23:03] <zobel> local time.
+[15:23:20] <Ganneff> thats for luca
+[15:23:37] --> nathans (~nathans@CPE-121-219-249-105.lnse1.win.bigpond.net.au) has joined #spi
+[15:24:21] <zobel> nothing from luca it seems.
+[15:24:25] <luca> if 7.2 is "mail / address", i'll start a thread after xmas for discussion and vote f2f
+[15:24:26] <Ganneff> as long as he doesnt say anything: 7.3 is started, i got git.spi-inc.org set on Letsencrypt, other parts will follow. when all is switched, world is fine.
+[15:24:36] <Ganneff> luca: yeah, thats it
+[15:24:47] <Ganneff> (and for record, 7.3 is spi ca)
+[15:24:50] <zobel> luca: great.
+[15:24:51] <luca> if we're in NY anyway, once we decide to proceed, we can make the arrangement on site
+[15:24:57] <luca> if we decide not to proceed, we skip
+[15:25:35] <zobel> okay.
+[15:25:35] <xnox> i thought we needed two people to be early in nyc to setup address and/or register more signatories for the bank accounts or some such
+[15:25:41] <zobel> 7.3 done?
+[15:25:53] <xnox> (or otherwise stay later, unless you are about spi ca cert....)
+[15:26:11] <zobel> xnox: the bank account stuff is on my radar.
+[15:26:15] <luca> xnox: we do, for bank accounts; so this would dove tail nicely
+[15:26:15] <Ganneff> hrm, if we vote at f2f, it would be stay later.
+[15:26:18] <Hydroxide> by the way, I'm currently likely to live in NYC through early 2018 for job reasons. but probably not beyond that, so we should have a human-independent address.
+[15:26:34] <Hydroxide> however I can help with in-person setup logistics.
+[15:26:35] <luca> we vote before the f2f on 7.2, obv :)
+[15:26:43] <xnox> right =)
+[15:26:50] <xnox> that would be easier logistically =)
+[15:26:54] <Ganneff> in .de there are some nice setups where companies provide you a real address, scan it all and send it to you / organize it usefully if you want.
+[15:27:06] <luca> that's available in .us also
+[15:27:14] <Ganneff> (nice for some values that another company is getting all your letters, but if you need it...)
+[15:27:15] <luca> they can also do bank deposits
+[15:27:38] <luca> US Postal Service is scanning all your documents for the NSA anyway
+[15:27:47] <luca> they have better steam equipment
+[15:27:49] <zobel> okay. moving to 8?
+[15:27:55] <luca> fine
+[15:28:01] <Ganneff> zobel: why am i here if you want to run the meeting?
+[15:28:05] <Hydroxide> luca: they're doing that indeed, but just the outsides :)
+[15:28:13] <Ganneff> now, aob, zobel, the impatient, had a point, so run run run for it
+[15:28:27] -*- Hydroxide also has an AOB thing, but after zobel's
+[15:28:28] <zobel> i have the f2f for AOB
+[15:28:39] <Ganneff> [item 8, AOB]
+[15:28:39] <Ganneff> Anyone anything? You have -5 seconds to speak up or be silent forever. :)
+[15:28:41] <Ganneff> (for the logs)
+[15:28:44] <zobel> i would like to ask spectranaut to collect agenda itmes
+[15:29:00] <zobel> and i would like to ask if we still plan to do a collective hotel booking.
+[15:29:03] <spectranaut> zobel: agenda items for aob?
+[15:29:07] <zobel> if yes, we should start hat now
+[15:29:16] <zobel> spectranaut: no, for the f2f meeting
+[15:29:46] <spectranaut> okay -- yes sure
+[15:29:52] <zobel> Hydroxide: are you still willing to organize the hotel booking?
+[15:30:06] <zobel> as you are on-site...
+[15:30:08] <spectranaut> I'll email a request for agenda items
+[15:30:18] <Hydroxide> my AOB item - luca, I've been rightly nagged by lavamind_ about the Canadian bank account thing. I need to unblock that by getting Mishi to reply, and by trying to arrange a conversation with the Canadian lawyer she mentioned. I have time to work on that this week. do you have time to work with me to give some two-person velocity?
+[15:30:24] <Hydroxide> zobel: yes I can help with that
+[15:30:57] <zobel> Hydroxide: then do that before Dec 25th  please.
+[15:31:00] <luca> Hydroxide: sure
+[15:31:03] <Hydroxide> luca, lavamind_: I'm hoping to get that account opened in January if there is no reason it makes sense to abort the plan.
+[15:31:07] <Hydroxide> zobel: will do.
+[15:31:08] <Ganneff> ok, anyone else?
+[15:31:16] <zobel> if you need CC data for the booking, please say so.
+[15:31:22] <Ganneff> [item 9, Next board meeting]
+[15:31:22] <Ganneff> Next board meeting: January 9, 2017, 20:00 UTC
+[15:31:37] <xnox> can we go back to AOB for a little?
+[15:31:42] <Ganneff> xnox: speak up
+[15:31:47] <zobel> i will be most likely not around at 9th, but okay.
+[15:31:59] <xnox> mailing list request to consider donating money from spi to osi
+[15:32:05] <Hydroxide> Next meeting time is probably fine with me, but I'll have a new job, so I might learn that I'm not able to multitask at that moment. we'll see.
+[15:32:12] <xnox> what is the general feeling among present directors: yeaya or nay?
+[15:32:13] <Ganneff> we had some good replies in "NO WAY"
+[15:32:16] <Ganneff> NO WAY
+[15:32:25] <Ganneff> if people want their money there, they donate there
+[15:32:26] <Ganneff> not to us
+[15:32:32] <xnox> ack.
+[15:32:32] <tridge> I don't think it has been justified sufficiently
+[15:32:43] <zobel> ACK to what Ganneff said.
+[15:32:46] <Hydroxide> I don't oppose the idea of a targeted grant for a specific purpose, but we're not a generally grant-making organization
+[15:32:53] <xnox> ok cool.
+[15:32:53] <Ganneff> just because random org runs a funder for whatever doesnt mean we should spend money people gave us to do whatever spi does
+[15:32:54] <xnox> moving on.
+[15:33:05] <Ganneff> if we get something out, fine. but not just randomness
+[15:33:07] * Ganneff has changed topic for #spi to: "http://www.spi-inc.org/ | Next board meeting January 9, 2017, 20:00 UTC (aka `date -d @1483992000`)"
+[15:33:07] <Ganneff> *GAVEL*
