@@ -61,7 +61,7 @@ __Registered guests present__
             * What services does SPI provide the Associated Project?
             * What risks does an Associated Project bring to SPI?
             * How is the relationship documented?
-    * **DECISION:** The Board agrees with SLFC's advice and undertakes to work through governance improvements.
+    * **DECISION:** The Board agrees with SFLC's advice and undertakes to work through governance improvements.
     * ACTION ITEM: Jimmy Kaplowitz to draft documentation of the legal relationship between SPI and Associated Projects, including the service we can offer them, what legal advice the can expect from us and how to handle defunct projects.
     * OBSERVATION: SPI should have a Privacy and Data Retention Policy.
 
@@ -133,7 +133,7 @@ __Registered guests present__
                 * obtaining a NYC physical mail address
                 * scanning to email of any physical mail that is received
                 * forwarding to bank of any checks to be deposited
-            * use USPS Premium Forwarding Service to forward PO BOX mail to TravelingMail (first year only)
+            * use USPS Premium Forwarding Service to forward PO BOX mail to TravelingMailbox (first year only)
             * use Google Voice for a telephone number
         * It is anticipated that the costs are on the order of:
             * TravelingMailbox: (12mo * ($25/mo + $5/mo (NYC surcharge)) + ($5/cheque * 240 cheques/yr) = $1560/yr
@@ -148,7 +148,7 @@ __Registered guests present__
         * Software in the Public Interest, Inc.
         * 1732 1st Ave #20327
         * New York, NY 10128
-    * ACTION ITEM: Michael to sign SPI with USPS for Premium Forwarding Service® to redirect mail from PO BOX to TravelingMailbox
+    * ACTION ITEM: Michael to sign SPI with USPS for Premium Forwarding Service to redirect mail from PO BOX to TravelingMailbox
     * ACTION ITEM: Michael to sign SPI with Google Voice
 
 * Responding to Inquiries
@@ -163,12 +163,12 @@ __Registered guests present__
         * 3: use a form and RT queues/workflow
         * 4: wait for Software Conservancy's /reimbursorator/, to which we've already contributed USD 10000
     * **DECISION:** It is decided to proceed with option 3 subject to infrastructure concerns (see OBSERVATIONS, below) and evaluate switching to option 4 when it's available.  While option 1 is appealing, the Board felt that it does not match SPI's principles.  Option 2 is of interest but requires more investigation and a longer implementation timeline (likely).
-    * ACTION ITEM: Valerie Young (VY), Michael Schultheiss (MS), Luca Filipozzi (LF), Dimitri Ledkov (DL), and Martin Zobel-Helaz (MZ) to design, develop, deploy and operate a new reimbursement mechanism:
+    * ACTION ITEM: Valerie Young (VY), Michael Schultheiss (MS), Luca Filipozzi (LF), Dimitri Ledkov (DL), and Martin Zobel-Helas (MZ) to design, develop, deploy and operate a new reimbursement mechanism:
         * process aspects
             * MS/DL/MZ (with input from the accountancy consultant engaged by Martin Michlmayr) to develop an accounting structure (chartfields)
             * MS/DL/MZ to define reimbursement process (data requirements, workflow requirements, approval steps and authorities, etc.)
         * technical aspects
-            * MZ/LF (with input from Joerg Jaspert) to deploy an SPI-specific two-node ganetic cluster at UBC for SPI to house a new instance of RT
+            * MZ/LF (with input from Joerg Jaspert) to deploy an SPI-specific two-node Ganeti cluster at UBC for SPI to house a new instance of RT
             * DL/VY to develop a web from that injects form data into RT tickets
             * MZ/LF to develop the RT queues, custom fields, etc. to receive injected tickets and implement
         * timeline:
@@ -194,7 +194,7 @@ __Registered guests present__
 
 * Resources
     * DISCUSSION: The Board agrees that SPI requires a more efficient reimbursement process. While the above re-imagined process (including technical implementation) will address a number of pain points (inadequate initial data, no tie-in between PDF forms and action steps), the Board feels that additional resources are required. Options include:
-        * 1: issue a contract for services to one or more former colleague of Luca Filpozzi's from UBC ECE (who are all familiar with reimbursement processing and with RT)
+        * 1: issue a contract for services to one or more former colleague of Luca Filipozzi's from UBC ECE (who are all familiar with reimbursement processing and with RT)
         * 2: contract with SFC to use their resources
         * 3: pay the Treasurer for services rendered
     * **DECISION:** It is decided to proceed with option 1 subject subject to legal considerations (see OBSERVATIONS, below).
