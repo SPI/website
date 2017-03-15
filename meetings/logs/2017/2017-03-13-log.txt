@@ -1,0 +1,193 @@
+21:00 < tbm> *GAVEL*
+21:01 < tbm> [item 1, Opening]
+21:01 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:01 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2017/2017-03-13/
+21:01 < tbm> [item 2, Roll Call]
+21:01 < tbm> Directors, please state your name
+21:01 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+21:01 < schultmc> Michael Schultheiss
+21:01 < tbm> Martin Michlmayr
+21:01 < xnox> Dimitri John Ledkov
+21:01 < zobel> Martin Zobel-Helas
+21:01 < spectranaut> Valerie Young
+21:02  * xnox wonders if people are confused about daylight change in the US, but not Europe
+21:02 < zobel> before we start
+21:02 -!- spectran1ut [~spectrana@c-71-204-162-20.hsd1.ca.comcast.net] has joined #spi
+21:02 < luca> Luca Filipozzi
+21:02 < luca> there is only one timezone: Zulu
+21:02 < zobel> spectran1ut: why is 2017-03-13.vy.1 for vote for this meeting?
+21:02 < tbm> zobel: let's talk about it when we come to that point
+21:03 < tbm> several people missing.  I can't remember if there were any regrets. spectran1ut?
+21:03 < zobel> tbm: well, the agenda says vote. i would like to know if we can fix the agenda first.
+21:03 < spectranaut> no regrets that I got
+21:03 < zobel> shall i ping Ganneff by txt message?
+21:03 < xnox> zobel, we don't have to vote, if we don't want to.
+21:03 < xnox> or we can vote to post-pone till next meeting.
+21:03 < tbm> So who's missing? tridge, Ganneff, Hydroxide
+21:04 < tbm> zobel: yes please
+21:04  * schultmc can sms hydroxide
+21:04  * xnox goes to put the kettle on
+21:04 < zobel> we do have quorum, right?
+21:04 < tbm> yes
+21:05 < zobel> texted Ganneff
+21:05 < schultmc> sms'd Hydroxide
+21:05 < zobel> lets wait 4min, then lets proceed?
+21:06 < Ganneff> Joerg Jaspert
+21:06 < zobel> \o/
+21:06 < tbm> let's proceed.  they can join later
+21:06 < tbm> [item 3, President's Report]
+21:06 < tbm> We had a productive face-to-face meeting in New York a few weeks ago.
+21:06 < tbm> I'd like to thank everyone who attended for taking the time to attend
+21:06 < tbm> and participate.
+21:06 < tbm> We made a lot of progress in defining priorities and next steps.  I hope
+21:06 < tbm> we can keep the momentum going to implment what we discussed.
+21:07 < tbm> [item 4, Treasurer's Report]
+21:07 < zobel> the new reports for the full year are linked from the agenda.
+21:07 < schultmc> I'd like to thank zobel and xnox for their tremendous effort in streamlining the treasurer processes.
+21:07 < xnox> updated reports for 2016 have been published; currently working on closing the 2016 books and tieing up loose ends.
+21:08 < zobel> the only thing missing for last year, is closing the books, i hope xnox can help with that.
+21:08 < schultmc> we've signed up for a new NYC based address and phone number and I'm in the process of updating all of our accounts to reflect the new address
+21:08  * xnox two borks in favor
+21:09 < luca> have we received any mail, yet?
+21:09 < tbm> I'm happy to see the progress with the reports but I'm wondering if we should mark them as "draft" until we're sure they are final
+21:09 < luca> can we send ourselves a couple of pieces of mail (one non-cheque; one cheque)?
+21:09 < schultmc> not that I've seen - I still need to setup the forward from our Indianapolis PO box to the NYC mail server
+21:09 < tbm> they have been updated several times already which imho doesn't give a good impression to people not aware of the work behind the scenes.
+21:09 < schultmc> I can send some test mail before setting up the forward
+21:09 < luca> re mail: great
+21:10 < zobel> all i want to do now from my side is to open a ticket for Ganneff to set up a webserver with htbasic auth for the project to see the list of transactions (register) per moth per project.
+21:10 < luca> re reports: agree mark as draft
+21:10 < xnox> they are draft, as they are not year end accounts. I was hoping to publish closing balances summary & opening balances summary, when we close the year off.
+21:10 < tbm> xnox: I don't think that's obvious to people outside the board.
+21:10 < xnox> plus i guess it will only be really closed, once we do the form filing?!
+21:10 < xnox> ack.
+21:11 < zobel> can we proceed?
+21:12 < tbm> [item 5, Secretary's report]
+21:12 < spectranaut> nothing to report
+21:12 < tbm> [item 6, Outstanding minutes]
+21:12 < luca> !vote
+21:12 < xnox> haha
+21:12 < tbm> It says Monday, 12th December 2016
+21:12 < tbm> any questions?
+21:13 < tbm> I'm fine with voting
+21:13 < spectranaut> I'll start vote
+21:13 < spectran1ut> Voting started, 7 people (tbm,schultmc,zobel,luca,xnox,spectranaut,ganneff) allowed to vote on Meeting minutes for December 12 December 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:13 < Ganneff> !vote yes
+21:13 < tbm> !vote yes
+21:13 < luca> !vote yes
+21:13 < zobel> !vote yes
+21:13 < schultmc> !vote abstain
+21:13 < spectranaut> !vote yes
+21:14 < xnox> !vote yes
+21:14 < spectran1ut> Current voting results for "Meeting minutes for December 12 December 2016": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:14 < spectran1ut> Voting for "Meeting minutes for December 12 December 2016" closed.
+21:14 < tbm> [item 7, Items up for discussion]
+21:14 < tbm> [item 7.1 Review detailed plan for reimbursement streaming]
+21:15 < tbm> Whose item is this?
+21:15 < luca> re 7.1, i agree the action item is mine
+21:15 < luca> (thanks for the prodding, Valerie)
+21:15 < luca> i don't have it ready to discuss
+21:15 < luca> i need clarification on two questions
+21:15  * xnox recalls to have signed up to do stuff w.r.t. reimbursement too
+21:15 < luca> (a) a response from Ganneff to the email to board re Assistant System Administrators
+21:16 < luca> (you can reply to the list)
+21:16 < luca> (b) a response from members present whether we are proceeding with the RT approach or the BonitaSoft approach (since at least zobel tried it)
+21:16 < luca> i can proceed with the high level plan without an answer to (a), at this point; but would like a response to (b)
+21:16 < luca> .
+21:17 < schultmc> aiui we were going with the RT approach due to familiarity
+21:17 < Ganneff> a) will happen soonish, next few days, ive not yet managed to write it without cursing.
+21:17  * xnox has no opinion on (a); have not yet tried BonitaSoft I would be happy with either - as i'm sure work needs to be done to make the process nice irrespective of the tech in use.
+21:19 < spectranaut> I second xnox -- happy to help and don't have preference
+21:19 < luca> hearing no strong voices for BonitaSoft, I'll go with what we said at the meeting: RT
+21:19 < spectranaut> when did zobel try bonita soft?  was this discuss at f2f or in email?
+21:19 < zobel> i played a bit with bonitasoft while sitting at the airport. looks nice, but in general, someone who can work with a bit of bootstrap.js can do most of that too without the high-level software stack behind bonita.
+21:19 < luca> thanks; looking forward to Ganneff's reply for (a)
+21:19 < zobel> spectranaut: at the airport on sunday
+21:19 < luca> i'm done with 7.1 and commit to having a draft ready within 7d
+21:19 < zobel> and i chatted with luca on this channel while doing
+21:20 < luca> .
+21:20 < tbm> any other comments?  sounds like we can move on
+21:20 < luca> spectranaut: i'd like it minuted that a previous agenda item about my proposing mail forwarding services, etc. was addressed and implemented at the f2f meeting
+21:20 < tbm> please send further feedback (if any) to the board list
+21:21 < tbm> [item 7.2 Review plan for seeking external advice for 2017 financial audit]
+21:21 < tbm> I believe that one's mine
+21:21 < tbm> I have not had time since the face-to-face but I expect to have time soon.
+21:21 < luca> zobel has reminded me that I was to poke some former UBC ECE colleagues about their RT interest
+21:21 < tbm> My current thinking is that before we seek external advice we should go
+21:21 < tbm> ahead and docment our current workflow and policies properly.  I'll do
+21:21 < tbm> some research on policies we should create.  Once this is formalized a
+21:21 < tbm> bit, we can get external advice.
+21:21 < luca> now that I have (b) answerd, I'll do that this week
+21:21 < tbm> I'll put together a plan with some more details and next steps.
+21:21 < zobel> tbm: great.
+21:22 < tbm> [item 7.3 Resolution 2017-03-13.vy.1: Adopt Scottish STV for Board Elections]
+21:22 < tbm> as zobel said, I don't think we're ready to vote on this
+21:22 < tbm> but we should talk about it
+21:22 < spectranaut> I added this to the agenda because the draft looked good and was heavily discussed
+21:22 < luca> i'd like to thank Ian for his thoughtful work on this topic
+21:23 < spectranaut> we can hold off voting if we think it should be discussed more?
+21:23 < luca> per the f2f, it's to be formally presented in MAR and voted on in APR
+21:23 < xnox> original timescale was for ian to have first draft ready by about now; and for people to debate and incorporate feedback until april.
+21:23 < spectranaut> oh sorry -- I forgot
+21:23 < xnox> however, ian was very quick on producing the draft; and the motion was expensively debated back last summer; and now.
+21:23 < luca> i expect that there's been enough mailing list exchange for us to vote now but i'd like to follow what we said we'd do
+21:24 < xnox> and most active participants have voiced their concerns and their feedback has been incorporated.
+21:24 < Ganneff> it wont hurt to wait
+21:24 < Ganneff> there isnt a vote immediately coming up
+21:24 < xnox> indeed, sticking to the original schedule may look nicer.
+21:24 < xnox> thus I'd like to call to postpone this vote until next meeting.
+21:24 < spectranaut> ok -- will move to next meeting agenda
+21:24 < tbm> are we happy with the current resolution or do we want to request any changes?
+21:25 < xnox> i am happy with it, and have no outstanding request for any changes.
+21:25 < zobel> Ganneff: yes, but we still need to get the voting algorith implemented into the voting system before the next board election.
+21:25 < zobel> i read that is a no-op, but still
+21:27 < luca> what xnox said
+21:27 < Ganneff> it sounds good to me. next please?
+21:27 < zobel> proceed?
+21:27 < tbm> [item 8, Any other business]
+21:27 < tbm> I'd like to discuss pending domain transfers
+21:27 < tbm> Ganneff: can you tell us what the process is to follow to get domains transferred?
+21:28 < zobel> i would like to ask, if someone sent the pending questions to mishi?
+21:28 < Ganneff> it depends a little on the tld, but in general its
+21:29 < Ganneff> "get an authcode / unlock the domain / make it possible to transfer it". "have it valid for more than a month at time of transfer" "give hostmaster@spi the data". and then its us asking our main registrar if they like to sponsor it (most are sponsored right now). if not, or if the project wants to spend money, we go to the other and put it in
+21:30 < tbm> ok, so in the case of Open MPI, it sounds like they should renew it first
+21:30 < tbm> and then initiate the transfer
+21:30 < Ganneff> also, if the project uses dnssec or wants a split between us holding the domain and them admins doing the day-to-day dns admin (zone level), then its also the other registrar
+21:30 < tbm> are we ready to accept it if they do that soon?
+21:30 < Ganneff> we dont have so much on it. one mail to the one registrar or them saying they have project budget, and off it goes
+21:30 < Ganneff> so yes
+21:31 < tbm> I believe Open-ZFS were also waiting for us
+21:31 < Ganneff> we could think of always using the spi 5% money and generally pay for the domains, most are way cheap
+21:31 < tbm> is that still pending?
+21:31 < Ganneff> then that step is a little shorter. (also, the main registrar would like some website linking from our side over to them with some "thanks" note)
+21:32 < tbm> yeah, we should create a thank you page
+21:32 < Ganneff> ive got to look again whats open, i havent had more than an hour or two (non-work) pc time in the last week due to some deadlines
+21:33 < tbm> ok
+21:33 < tbm> as to zobel's question, I think I took that action item.  I intend to do it this week, hopefully tomorrow.
+21:33 < spectranaut> was a thank you page brought up in a previous meeting or discussion? I have a vague memory..
+21:33 < Ganneff> yes
+21:33 < zobel> tbm: thx
+21:33 < Ganneff> board list, meeting
+21:33 < Ganneff> (old board, btw, with bdale still on)
+21:34 < tbm> anything else?
+21:34 < Ganneff> ah, one more thing to the ns:
+21:34  * bdale waves
+21:34 < luca> i'd like us to take the f2f action items track them somehow
+21:34 < Ganneff> most projects run their own ns, which is simple - some are with us, in that case of course we need their zone data
+21:34 < luca> either via RT tickets or as "ongoing items" in board meetings
+21:35 < tbm> luca: agreed. maybe spectranaut can email the list and then we can include it in our regular meetings in the future
+21:35 < spectranaut> I'd be happy to
+21:35 < Ganneff> we can give porojects commit rights to adjust their zones without needing to pipe it through us admins
+21:35 < Ganneff> have it with some.
+21:35 < tbm> Ganneff: ok, thank's good to know
+21:36 < tbm> can we get this documented? :)
+21:36 < luca> tbm: that's how DSA handles things for Debain; SPI owns the Domain at gandi and DSA are admins on the domain
+21:36 < Ganneff> sorry, the last line got garbled. some interference. cable problems i guess
+21:36 < Ganneff> :)
+21:36 < tbm> ok, sounds like nothing else
+21:37 < tbm> [item 9, Next board meeting]
+21:37 < tbm> The next board meeting is scheduled for: April 10, 2017, 20:00 UTC
+21:37 < Ganneff> the important point for spi has always be the seperation that spi keeps the domain. rest is up to the project
+21:37 < tbm> Any objections?
+21:37 < tbm> *GAVEL*
+21:37 < Ganneff> (which is one thing to look out for in role overlaps in future)
