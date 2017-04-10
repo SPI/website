@@ -1,0 +1,231 @@
+[16:10:57] <spectranaut_> *BANG*
+[16:10:57] <spectranaut_> [item 1, Opening] Welcome to today's Software in the Public Interest board of directors meeting, which is now called to order.
+[16:11:00] <spectranaut_> The agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2016/2016-12-12/
+[16:11:03] <spectranaut_> [item 2, Roll Call]
+[16:11:05] <spectranaut_> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six. Guests (including board advisors), please /msg your names to spectranaut if you wish your
+[16:11:09] <spectranaut_> attendance to be recorded in the minutes of this meeting.
+[16:11:12] <Hydroxide> Jimmy Kaplowitz
+[16:11:12] <zobel> Martin Zobel-Helas
+[16:11:13] <xnox> Dimitri John Ledkov
+[16:11:17] <spectranaut_> Valerie Young
+[16:11:17] <tridge> Andrew Tridgell
+[16:11:35] <zobel> luca:  ^
+[16:12:00] <luca> Luca Filipozzi
+[16:12:24] <zobel> spectranaut_: agenda URL is wrong
+[16:12:32] <zobel> it is: http://www.spi-inc.org/meetings/agendas/2017/2017-04-10/
+[16:12:42] <zobel> jftr
+[16:12:43] <spectranaut_> oops sorry! thanks -- forgot to edit that in my emergency file
+[16:12:55] <spectranaut_> [item 3, President's Report]
+[16:13:01] <spectranaut_> there is no president's report
+[16:13:07] <spectranaut_> [item 4, Treasurer's Report]
+[16:13:11] <zobel> I mostly finished Jan and Feb incoming transactions. But before i can commit data into git, i was waiting for Dimitri to close the books for 2016. He pushed that into git within the last 90min, so i can proceed with incoming data now.
+[16:13:42] <spectranaut_> cool, thanks
+[16:13:44] <Hydroxide> Jimmy Kaplowitz\o/
+[16:13:47] <Hydroxide> err... \o/
+[16:13:57] <spectranaut_> [item 5, Secretary's report]
+[16:14:02] <zobel> wait?
+[16:14:16] <spectranaut_> oh sorry? more for the treasuerer's report?
+[16:14:19] <xnox> zobel, ;-)
+[16:14:31] <zobel> for detailed reports to the projects i am waiting for our admin to work on the two tickets that i opened a month ago. no action seen here since last meeting.
+[16:14:42] -*- zobel done now
+[16:14:56] <spectranaut_> ok thanks again :)
+[16:15:03] <spectranaut_> I have nothing to report as secretary
+[16:15:11] <spectranaut_> [item 6, Outstanding minutes]
+[16:15:22] <spectranaut_> Voting started, 9 people (ganneff,tbm,schultmc,zobel,luca,hydroxide,tridge,xnox,spectranaut) allowed to vote on Meeting minutes for Monday 14 November 2016. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:15:30] <zobel> are not linked in the agenda?!
+[16:15:35] <spectranaut_> oh no -- sorry wrong link again!
+[16:15:36] -*- xnox has been travelling without wifi; then got ill; then got hospitalised and diagnosed with hepatitis A; then got discharged; now there massive layoffs and change of direction at canonical; and working on pushing out 17.04 release; so in real life I have been a bit busy this month
+[16:15:44] <spectranaut_> http://spi-inc.org/meetings/minutes/2017/2017-03-13/
+[16:16:03] <Hydroxide> eek, good luck with personal recovery, then career, then SPI only after that!
+[16:16:21] <Hydroxide> !vote abstain
+[16:16:22] <zobel> xnox: ouch. get better soon
+[16:16:26] <luca> !vote yes
+[16:16:37] <Hydroxide> (I missed the March meeting, hence abstain)
+[16:16:38] <zobel> !vote yes
+[16:16:54] <tridge> I missed it too, so also abstain
+[16:17:07] <Hydroxide> tridge: still do !vote abstain to help the vote bot
+[16:17:16] <tridge> !vote abstain
+[16:17:25] <xnox> !vote yes
+[16:17:42] <zobel> spectranaut_: you need to vote too.
+[16:17:54] <spectranaut_> oh wow -- I also didn't write the correct nick for myself. i'm going to have to hand count. We don't have a majority
+[16:17:57] <spectranaut_> Current voting results for "Meeting minutes for Monday 14 November 2016": Yes: 3, No: 0, Abstain: 2, Missing: 4 ( tbm  spectranaut  schultmc  ganneff )
+[16:18:00] <spectranaut_> Voting for "Meeting minutes for Monday 14 November 2016" closed.
+[16:18:22] <zobel> huh?
+[16:18:48] <Hydroxide> spectranaut_: we had quorum, and then a majority of those present voted yes
+[16:18:49] <zobel> a) we currently vote on November minutes?
+[16:18:51] <Hydroxide> I think that counts, yes?
+[16:18:59] <zobel> b) we have too many voters?
+[16:19:10] <zobel> c) spectranaut_ is missing in the votes
+[16:19:17] <zobel> shall we vote again?
+[16:19:19] <spectranaut_> ok -- let me try again -- I coped the wronge line from my "helpful file"
+[16:19:49] <spectranaut_> Voting started, 6 people (zobel,luca,hydroxide,tridge,xnox,spectranaut_) allowed to vote on Meeting minutes for 13 March 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:20:00] <zobel> !vote yes
+[16:20:00] <xnox> !vote yes
+[16:20:04] <spectranaut_> !vote yes
+[16:20:05] <tridge> !vote abstain
+[16:20:36] <zobel> Hydroxide: ^
+[16:20:38] <zobel> luca: ^
+[16:20:46] <luca> !vote yes
+[16:21:56] <Hydroxide> !vote yes
+[16:21:58] <Hydroxide> !vote abstain
+[16:21:59] <Hydroxide> gah
+[16:22:00] <spectranaut_> Current voting results for "Meeting minutes for 13 March 2017": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+[16:22:03] <spectranaut_> Voting for "Meeting minutes for 13 March 2017" closed.
+[16:22:13] <Hydroxide> whee, my vote change worked.
+[16:22:33] <spectranaut_> [item 7, Items up for discussion]
+[16:22:40] <spectranaut_> [item 7.1 Resolution 2017-04-10.vy.1: Adopt Scottish STV for Board Elections]
+[16:22:46] <spectranaut_> ready to try voting again?
+[16:22:50] <xnox> yes.
+[16:22:52] <zobel> yes
+[16:22:53] <spectranaut_> do we have more to discuss on this resolution?
+[16:23:01] <xnox> no further comments
+[16:23:06] <zobel> not from my PoV
+[16:23:11] <luca> nyet
+[16:23:21] -*- xnox that ^
+[16:23:26] <-- tpot (~tpot@ppp121-45-212-121.bras1.cbr2.internode.on.net) has quit (Ping timeout: 480 seconds)
+[16:23:39] -*- xnox ponders if we can stop pretending and just have all meetings in russian translit
+[16:23:55] <Hydroxide> da
+[16:24:13] <spectranaut_> ok we are voting on the resolution!
+[16:24:19] <spectranaut_> Voting started, 6 people (zobel,luca,hydroxide,tridge,xnox,spectranaut_) allowed to vote on resolution 2017-04-11.vy.1 Adopt Scottish STV for Board Elections. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:24:32] <Hydroxide> !vote yes
+[16:24:35] <xnox> !vote yes
+[16:24:40] <tridge> !vote yes
+[16:24:41] <spectranaut_> !vote yes
+[16:24:43] <luca> !vote da
+[16:24:46] <zobel> !vote yes
+[16:24:47] <luca> !vote yes
+[16:24:58] <spectranaut_> Current voting results for "resolution 2017-04-11.vy.1 Adopt Scottish STV for Board Elections": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+[16:25:01] <spectranaut_> Voting for "resolution 2017-04-11.vy.1 Adopt Scottish STV for Board Elections" closed.
+[16:25:09] <spectranaut_> [item 7.2 Review progress of reimbursement streamlining]
+[16:25:17] <luca> spectranaut_: please thank Ian for his work on the resolution
+[16:25:30] <spectranaut_> luca: noted, thanks
+[16:25:44] <spectranaut_> luca would you like to take this topic?
+[16:25:47] <luca> i have begun documenting the proposal at https://pad.riseup.net/p/reimbursement-tech-plan
+[16:26:06] <luca> i will complete it today and request feedback/updates over the next week or so
+[16:26:21] <luca> i have two other actions
+[16:26:41] <luca> (1) seek someone from UBC ECE to be SPI's 'business administrator'
+[16:27:11] <luca> (2) seek permission from Debian to use their surplus blades for SPI
+[16:27:29] <luca> i've started (1) with the ECE manager but she's not yet extended the invitation to her staff; i'll follow up today
+[16:27:49] <luca> DSA has agreed to (2); we'll notify DPL of our intentions
+[16:28:07] <luca> i'll swing by UBC ECE to check on the SSD capacity so that we can decide if that's sufficient
+[16:28:25] <luca> the idea, here, is that RT might be moved to UBC UDC (university data centre)
+[16:28:45] <Hydroxide> I think we've implicitly jumped ahead to the f2f action item review...
+[16:28:54] <spectranaut_> it's still on topic
+[16:29:21] <Hydroxide> ok
+[16:29:23] <luca> so, that's where i'm at with the reimbursement process
+[16:29:39] <spectranaut_> thanks luca. any other comments?
+[16:29:40] <luca> i will especially require assistance with the front-end form; i'm comfortable with the RT aspects
+[16:29:52] <luca> also, i'm proposing to be _blunt_
+[16:30:02] <luca> meaning, no more reimbursements in native currencies
+[16:30:14] <luca> submit the request in USD (with proof of exchange)
+[16:30:25] <luca> payment will be in USD (plus some small % to cover the exchange)
+[16:30:39] <xnox> we really have no ways of sending USD outside of US
+[16:30:44] <luca> we have to find every opportunity to move work to the Submitter / Liaison
+[16:30:48] <luca> otherwise we don't gain anything
+[16:31:34] <tridge> will we have a standard reference for exchange rates?
+[16:31:36] <xnox> because most people can receive SWIFT payments in USD, but we don't have a way to send international SWIFT as far as I understand. And on the receipient side the small % is not usually small
+[16:31:36] <luca> when you use TransferWise, do you submit the amount in source or target currency
+[16:31:36] <Hydroxide> I'm guessing that will be difficult to do at affordable rates for people in many countries, although not all.
+[16:31:42] <tridge> ie. some specific bank rate?
+[16:31:51] <luca> tridge: xe or some such, would be my suggestion
+[16:31:55] <xnox> but sometimes like 10% markup in exchange +$50 fee which is a lot.
+[16:31:57] <luca> tridge: but, yes, would need to be consistent
+[16:32:00] --> tpot (~tpot@ppp121-45-212-121.bras1.cbr2.internode.on.net) has joined #spi
+[16:32:04] <tridge> and is that rate available for past dates? 
+[16:32:31] <luca> yes, those tools allow look-up for specific dates
+[16:32:32] <xnox> luca, with transferwise you can submit amount in anyway; you can say that you want to send X amount of USD; or you can say I want the receipient to receive Y amount of XDR
+[16:32:43] <tridge> if we had a link to a reference website for exchange rates that would work
+[16:32:57] <Hydroxide> tridge: there are many reference websites for exchange rates, including historical.
+[16:32:57] <luca> indeed
+[16:33:11] <luca> xnox: i'm happy to be swayed by submission of content in the aforementioned riseup
+[16:33:13] <Hydroxide> tridge: it doesn't inherently make it feasible for arbitrary recipients to receive anything close to those published rates, though
+[16:33:13] <tridge> ok, we just need to pick one to use then
+[16:33:25] <luca> but the principle of moving workload to Submitter / Liaison is the key
+[16:33:33] <xnox> luca, we can force people to invoice/claim in USD; and we can initiate payments for that USD amount; with end user receiving native amount of money (and we don't care what exchange rate e.g. transferwise/xe/etc use to derive that)
+[16:33:35] <tridge> yes, I completely agree with the principle
+[16:33:53] <xnox> that should work; yes.
+[16:33:58] <luca> okay, so that's the direction i'm currently heading in
+[16:34:25] <xnox> i think xe.com offers api / calculators for people to do currency conversion (ideally for the historical dates when the expense was incurred)
+[16:34:44] <spectranaut_> great. any other comments? or move the rest of the discussion to email when luca is finished with proposal?
+[16:34:44] <Hydroxide> I'm okay enough with what xnox suggested
+[16:35:37] <spectranaut_> moving on
+[16:35:38] <spectranaut_> [item 7.3 External advice for 2017 finacial audit]
+[16:35:48] <spectranaut_> As tbm is out and busy at this time
+[16:36:13] <spectranaut_> I think we should punt this dicussion to the next meeting -- unless anyone else has taken over this work for tbm?
+[16:36:35] <Hydroxide> agreed, let's defer
+[16:37:23] <spectranaut_> ok
+[16:37:26] <spectranaut_> [item 7.4 Review of F2F action items]
+[16:37:41] <zobel> no progress on my side.
+[16:37:56] <spectranaut_> I added the action items to the agenda right before the meeting -- but unfortunately not with enough time to correct markdown formating
+[16:38:22] <spectranaut_> but you have all the action items in your email and in the website git in more readable format :)
+[16:39:08] <spectranaut_> this was requested last meeting -- but I'm not sure the best format. Should we go through an update from each present board member listed?
+[16:39:19] <Hydroxide> <start of update> my items are both things to ask Mishi about. I'm still waiting for her thoughts on the bylaws, despite two pings in the last six weeks or so. I'll ping her again soon, but I'll wait for the other task until she finishes the first - we already have a lot of tasks waiting on a single lawyer. </end of update>
+[16:39:26] <Hydroxide> ^^ that's mine
+[16:41:12] <zobel> Hydroxide: monday is not yet over in some regions of the world.
+[16:41:18] <luca> in addition to previous comments: have worked with Valerie to prepare notes for f2f; am unlikely to ask tax lawyer re impact of contracting since am now satisfied with SFLC's answer
+[16:42:08] -*- xnox did yearend; but need to second comments about it and for zobel to review that work
+[16:42:16] <xnox> s/second/send/
+[16:42:43] <xnox> did not mark reports as drafts; but then again there were no changes to them, apart from one SPI adjustment. Thus in practice they are final for 2016.
+[16:43:23] <spectranaut_> my update: I have an item to write a resolution about membership -- unfortunately the discussion during the F2F was a little to vague and i'm not positive what I should include in the resolution on a few points. I can start an email thread about it.
+[16:43:39] <spectranaut_> xnox: sounds ok -- about the drafts
+[16:43:55] <Hydroxide> zobel: including where I am now, even. unsure what brought that up, but anyway, agreed. :)
+[16:44:21] <spectranaut_> ok everyone has reported who is present :)
+[16:44:39] <spectranaut_> any other comments?
+[16:44:58] <spectranaut_> [item 8, AOB]
+[16:45:08] <spectranaut_> any other business?
+[16:45:51] <luca> we should begin discussion with DebConf
+[16:45:58] <luca> regarding the DC17 reimbursement process
+[16:46:15] <zobel> luca: can we do that in a small team first?
+[16:46:27] <Hydroxide> luca: *nod* agreed. I can confirm that there have been emails between me + them + tbm in connection with signing French-language contracts, but that wasn't about reimbursement at all.
+[16:46:30] <zobel> and bring up a draft how to do that by next meeting?
+[16:46:31] <luca> zobel: the prototype should be tested, sure
+[16:46:43] <luca> what i mean is that we should open discussions with them
+[16:46:51] <luca> so that they don't go off assuming something
+[16:46:55] <zobel> ah, sure.
+[16:47:14] <spectranaut_> is this discussion to start after your draft is finished luca?
+[16:47:35] <luca> spectranaut_: i would suggest that Hydroxide and/or tbm make them aware that we are working on a new process
+[16:47:35] <spectranaut_> I don't understand what you mean by "do that in a small team first" zobel ?
+[16:47:54] <luca> spectranaut_: and that it would see DebConf Liaison working with RT to approve reimbursement requests
+[16:48:09] <spectranaut_> I see
+[16:48:15] <luca> spectranaut_: and that it would see DebConf Attendees using the Form xnox and you create
+[16:48:23] <luca> spectranaut_: and get their reaction to the idea
+[16:48:25] <xnox> ha, yes.
+[16:48:28] <zobel> spectranaut_: i missread luca 
+[16:48:31] <luca> spectranaut_: even point them at the riseup pad
+[16:48:37] <zobel> or miss-understood.
+[16:49:02] <-- Guest1023 (~markw@c-67-177-223-106.hsd1.co.comcast.net) has quit (Quit: Ex-Chat)
+[16:49:22] <Hydroxide> luca: I don't think we're going to have many more frequent interactions with them in this context - the contracts are signed. (none were beyond my French-language reading ability and none warranted legal or board advice)
+[16:49:28] <Hydroxide> (mostly straightforward, in other words)
+[16:49:28] <luca> spectranaut_: AOB2 - formally inform our voting software maintainer to integrate new algorithm
+[16:49:47] <spectranaut_> is that Noodles?
+[16:49:50] <luca> Hydroxide: AOB1 - open a new thread with them, please; feel free to add me
+[16:49:53] <luca> spectranaut_: aye
+[16:50:06] <Hydroxide> luca: ok, sounds good, I'll do an email hand-off to you.
+[16:50:54] <zobel> can we close the meeting soonish? need to be up early tomorrow.
+[16:50:58] <spectranaut_> I'm happy to talk to Noodles about implementing the voting algorithm
+[16:51:05] <spectranaut_> sounds like the end of AOB ?
+[16:51:14] <spectranaut_> [item 9, Next board meeting]
+[16:51:15] <spectranaut_> Next board meeting: 20:00 UTC May 8th 2017
+[16:51:17] <luca> spectranaut_: gently ask tbm to get the insurance thing finished?
+[16:51:42] <zobel> spectranaut_: wfm
+[16:51:50] <luca> spectranaut_: dnwfm
+[16:51:57] <luca> an hour ealrier wwfm
+[16:51:59] <spectranaut_> we should see if tbm feels like it should move from his plate to someone else
+[16:52:17] <luca> s//earlier/
+[16:52:24] <luca> 19:00 UTC available?
+[16:52:26] <Hydroxide> the time as scheduled works for me; I cannot do an hour earlier due to a weekly recurring meeting I just got added to starting this week.
+[16:52:30] <spectranaut_> that would probably not work for tridge 
+[16:52:42] <Hydroxide> (that conflict is a $dayjob work meeting)
+[16:53:15] <tridge> an hour earlier would be 5am for me
+[16:53:28] <luca> (also have a $dayjob meeting)
+[16:53:40] <luca> TUE MAY 9th at 20:00 works for me
+[16:53:40] <spectranaut_> luca -- is it reoccuring?
+[16:53:48] <luca> spectranaut_: no, it's not recurring
+[16:54:11] <luca> indeed, any 20:00 that week wfm except MON
+[16:54:29] <luca> spectranaut_: if i'm the only one, so be it
+[16:54:32] <spectranaut_> i'm not sure the tradition for moving meetings if one board member can't make it -- and three aren't here
+[16:54:51] <luca> spectranaut_: indeed, too hard to coordinate with three missing
+[16:54:51] <spectranaut_> right so we'll keep it
+[16:54:52] <Hydroxide> spectranaut_: it hasn't typically happened for a single non-recurring conflict.
+[16:55:10] <spectranaut_> great we are done
+[16:55:12] <spectranaut_> *GAVEL*
