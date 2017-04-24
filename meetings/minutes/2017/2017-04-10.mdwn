@@ -1,0 +1,145 @@
+# Board Meeting, April 10, 2017
+
+These minutes are a draft and require review and approval by the board.
+
+__Board members present__
+
+* Valerie Young (spectranaut) (Secretary)
+* Luca Filipozzi (luca)
+* Dimitri John Ledkov (xnox)
+* Martin Zobel-Helas (zobel)
+* Andrew Tridgell (tridge)
+* Jimmy Kaplowitz (Hydroxide)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Michlmayr (tbm) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Bdale Garbeel (Bdale Garbeel)
+
+
+These are the minutes for the April 10th, 2017 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2017/2017-04-10-log.txt).
+
+
+## President's Report
+
+(none)
+
+## Treasurer's report
+
+Dimitri John Ledkov has closed the books for 2017; all financial reports for 2017 are final. Martin Zobel-Helas has prepared January and February report data and will commit soon. Zobel-Helas is waiting on Joerg Jaspert to complete two open RT tickets before publishing detailed project reports.
+
+## Secretary's report
+
+(none)
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 13th March 2017:
+
+<table><tbody>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Andrew Tridgell</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</table></tbody>
+
+Motion passed with a vote of 4 yes, 0 no, 2 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Resolution 2017-04-11.vy.1 Adopt Scottish STV for Board Elections
+
+Valerie Young presented resolution 2017-04-11.vy.1 to adopt the Scottish STV voting algorithm in yearly board elections. The resolution was authored by Ian Jackson. The board thanks Ian for his work researching and preparing the resolution.
+
+<table><tbody>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</table></tbody>
+
+Motion passed with a vote of 6 yes, 0 no, 0 abstain, 0 missing.
+
+### Review progress of reimbursement streamlining
+
+Luca Filipozzi has begun work to document a technical proposal to streamline the reimbursement processes as discussed at the February face-to-face meeting. He will request feedback in the next few weeks. Additionally, Filipozzi is in discussion with University British Columbia colleagues to source a potential SPI business administrator employee who is familiar with RT systems. He has also contacted the Debian System Administrators about SPI's future use of Debian's surplus blades. He will also check in with UBC's University Data Center about their potential to host SPI's RT software in the future.
+
+Filipozzi remarked he will need help creating the front end forms for the new reimbursement process although he will be able to implement RT configurations the board discussed at the face-to-face meeting. Filipozzi suggested we pay reimbursements only in USD to alleviate some of the work of the reimbursement process. This would require the submitter to submit requests in USD and proof of exchange rate for the original foreign currency using a board pre-approved standard reference for the exchange rate. The board discussed whether or not this would help, as TransferWise can handle transfer request in the source or target currency. The discussion was inconclusive and the proposal will be considered further in the future.
+
+### External advice for 2017 financial audit
+
+Topic deferred to May meeting, as Martin Michlmayr was not in attendance.
+
+### Review of F2F action items
+
+Jimmy Kaplowitz: The bylaws are presently waiting a final review from Misha. After the review is completed, he will work with Misha on concertizing SPI relationship with SPI's member projects as discussed at the face-to-face.
+
+Luca Filipozzi: Completed face-to-face notes. Began work on technical proposal for reimbursement streamlining. Will not be checking with tax lawyer about hiring a part time business administrator in Canada as he is satisfied with SFLC's answer.
+
+Dimitri Ledkov: Completed year end financial reports and will send for comments soon. He requests review from Martin Zobel-Helas.
+
+Valerie Young: Completed face-to-face notes. Will email SPI board for clarification about the SPI membership resolution.
+
+## Any other business
+
+### DebConf 2017
+
+Luca Filipozzi remarks discussion should be opened with DebConf organizers about the new reimbursement process. Jimmy Kaplowitz will open a conversation between Filipozzi and the DebConf organizers about the coming reimbursement changes.
+
+### Resolution 2017-04-11.vy.1
+
+Valerie Young will inform our voting software maintainer Jonathan McDowell that SPI resolved to integrate the newly selecting voting algorithm before the 2017 election cycle.
+
+## Adjournment
+
+The meeting was adjourned until Monday, May 8th, 2017 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2015<br /></td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2016<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2017 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
