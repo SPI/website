@@ -1,0 +1,218 @@
+[16:00:18] <tbm> *GAVEL*
+[16:00:26] <tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[16:00:30] <tbm> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2017/2017-05-08/
+[16:00:33] <tbm> [item 2, Roll Call]
+[16:00:36] <tbm> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+[16:00:39] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:00:43] <tbm> Martin Michlmayr
+[16:00:44] <schultmc> Michael Schultheiss
+[16:00:51] <spectranaut> Valerie Young
+[16:02:10] <tbm> xnox: wake up
+[16:02:17] <luca> Luca Filipozzi
+[16:02:36] <tbm> zobel, Ganneff...
+[16:02:42] <tbm> spectranaut: I haven't seen any regrets. Have you?
+[16:02:46] <spectranaut> no I haven't
+[16:04:19] <schultmc> Hydroxide: ping
+[16:05:11] <tbm> 5 past...
+[16:05:18] <tbm> looks like we won't have quorum
+[16:05:18] <xnox> Dimitri John Ledkov
+[16:05:19] <schultmc> just sms'd Hydroxide 
+[16:05:21] <xnox> lol
+[16:05:39] <spectranaut> just one more..
+[16:05:39] <tbm> Ok, we need one more
+[16:06:04] <schultmc> Hydroxide says he's on his way
+[16:08:31] <tbm> ok, let's wait until 20:10 UTC
+[16:10:09] <Hydroxide> here now
+[16:10:19] <Hydroxide> Jimmy Kaplowitz
+[16:10:25] <tbm> I was just about to end the meeting ;)
+[16:10:29] <tbm> Ok, thanks for coming
+[16:10:32] <tbm> [item 3, President's Report]
+[16:10:37] <tbm> I signed some contracts related to DebConf over the last months.  Thanks 
+[16:10:39] <tbm> to the DebConf organizers for working with the venue and other companies.
+[16:10:41] <Hydroxide> sorry folks, expected to be prompt but then my manager wanted an impromptu chat which ran over.
+[16:10:44] <tbm> We also have a quote for D&O liability insurance which we have to review. 
+[16:10:53] <tbm> I've been away due to personal reasons but should have more time from
+[16:10:57] <tbm> now on.
+[16:11:03] <tbm> [item 4, Treasurer's Report]
+[16:11:56] <schultmc> I've been working with xnox and zobel on closing out 2016 and getting 2017 data ready for import.
+[16:12:15] <tbm> schultmc: great!
+[16:12:16] <schultmc> I've requested an automatic 6 month extension to our 2016 990 (federal tax filing)
+[16:12:30] <schultmc> that has been granted - our 990 is now due 2017-11-15
+[16:12:32] <tbm> schultmc: are you and xnox going to work on the 990 or is that done by an outside firm?
+[16:13:07] <schultmc> we can work on it in house or have an outside firm work on it
+[16:13:21] <schultmc> the eventual goal is to have outside accountants do tax filings and audits
+[16:14:07] <schultmc> i've been testing out our new NY mail service - it seems to be working well and I plan on setting up the forward from our indianapolis PO box to the NY service this month
+[16:14:09] <tbm> Right but we're probably not quite there yet for that. We probably need to export our data to a spreadsheet.
+[16:14:46] <tbm> We typically include the treasurer's report in the SPI Annual Report. schultmc or xnox, can you do that? Are we ready for that?
+[16:15:06] <tbm> imho the 2016 annual report is ready for publication once the treasurer's report is added.
+[16:15:11] <tbm> I can send out the draft for review
+[16:16:42] <schultmc> I'll work with xnox to get an annual report for the report
+[16:16:51] <tbm> thanks!
+[16:16:59] <tbm> [item 5, Secretary's report]
+[16:17:09] <spectranaut> I attended the TDF Advisory meeting on 2017-04-20
+[16:17:19] <spectranaut> they are doing well, no specific questions for us 
+[16:17:27] <tbm> Ok
+[16:17:28] <spectranaut> that is all I have to report!
+[16:17:35] <tbm> [item 6, Outstanding minutes]
+[16:17:38] <tbm> We have to approve the minutes for 10th April 2017: http://spi-inc.org/meetings/minutes/2017/2017-04-10
+[16:17:54] <spectranaut_> Voting started, 6 people (tbm,schultmc,luca,xnox,spectranaut,hydroxide) allowed to vote on Meeting minutes for 10 April 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:18:00] <luca> !vote yes
+[16:18:05] <Hydroxide> !vote yes
+[16:18:11] <spectranaut> !vote yes
+[16:18:16] <tbm> !vote yes
+[16:19:37] <tbm> schultmc, xnox...
+[16:19:44] <schultmc> !vote yes
+[16:20:07] <tbm> I wonder if we lost xnox
+[16:20:45] <spectranaut_> I'll stop the vote -- he can get back to us later on if he returns
+[16:20:48] <spectranaut_> Current voting results for "Meeting minutes for 10 April 2017": Yes: 5, No: 0, Abstain: 0, Missing: 1 ( xnox )
+[16:20:51] <spectranaut_> Voting for "Meeting minutes for 10 April 2017" closed.
+[16:20:54] <tbm> [item 7, Items up for discussion]
+[16:20:56] <tbm> [item 7.1, Review progress of reimbursement streamlining]
+[16:20:58] <tbm> luca?
+[16:21:24] <luca> i've updated the pad
+[16:21:31] <luca> https://pad.riseup.net/p/reimbursement-tech-plan
+[16:21:53] <luca> i need board to confirm they like what they see in the Business and Application sections
+[16:22:07] <luca> i need board to provide guidance on the Data and Technology sections
+[16:22:35] <luca> i have identified possible action items per the f2f meeting
+[16:22:51] <luca> i call them 'possible' because there was some concern expressed by email when the f2f action items were issued
+[16:23:02] <luca> however, despite solicitation, i have not received a response
+[16:23:20] <luca> so, looking for a Go / No-Go based on what's written there
+[16:23:35] <luca> and for individuals to add/del their initials to the various action items
+[16:23:57] <luca> i incorporated tbm's feedback about USD
+[16:24:01] <luca> that is all.
+[16:24:12] <luca> oh, wait... more
+[16:24:21] <schultmc> i disagree with the USD only
+[16:24:34] <luca> Hydroxide sent the introduction to DC17 folks; i replied today
+[16:24:43] <schultmc> it's easy for us to do reimbursements in native currency assuming transferwise/xetrade support that currency
+[16:24:51] <schultmc> it's more difficult to only deal in USD
+[16:24:54] <xnox> bah
+[16:24:57] -*- xnox is here.
+[16:24:57] <luca> Sabrina from UBC ECE has expressed interest in processing reimbursements for us
+[16:25:04] <tbm> I think it was schultmc's feedback, wasn't it
+[16:25:10] <luca> am meeting her f2f this week
+[16:25:17] <luca> now done.
+[16:25:17] <xnox> schultmc, ack.
+[16:25:24] <luca> schultmc: USD is no longer there
+[16:25:39] <luca> schultmc: replaced by "one reimbursement request per currency"
+[16:25:47] <luca> so that we don't have to do any math
+[16:25:56] <schultmc> luca: sounds good to me
+[16:26:11] <luca> s/tbm/schultmc/ as appropriate :)
+[16:26:25] <schultmc> the whole plan looks good to me - I do know Ganneff was upset with the technology plans but I haven't heard any specfics as to his objections
+[16:26:48] <luca> we have solicited his feedback, very politely, three times
+[16:27:02] <luca> hence the request for a clear Go / No-Go
+[16:27:19] <xnox> schultmc, my understanding was that we will file expenses in USD, store USD in the accounting, take USD amount and ask transferwise to send 1000 USD -> EUR bank account, using transferwise exchange rate and therefore deliver Y EUR to the end user, which is equivalent of 1000 USD.
+[16:27:36] <luca> xnox: i've changed it based on schultmc's feedback
+[16:27:44] <schultmc> xnox: yes, tracked that way in our accounting
+[16:27:59] <luca> submitter submits in XXX since all paperwork is in XXX anyway
+[16:28:03] <luca> total is in XXX
+[16:28:12] <Hydroxide> regarding my tasks with Mishi: no update from her, and I've been too busy with major changes at work to nag aggressively. I'll try to find time before the june meeting to nag at least once and ideally 2-3x.
+[16:28:12] <schultmc> but requestor asks for XYZ EUR and we input YYY usd in our accounting
+[16:28:13] <luca> schultmc can specify XXX in TransferWise
+[16:28:36] <luca> with only the final USD from TransferWise needing to be recorded in ticket
+[16:28:37] <xnox> schultmc, we will keep executing the transfers "USD -> Native" when initiating the payment. But people should not be requesting Native amount of money.
+[16:28:58] <luca> xnox: that's contrary to schultmc's feedback
+[16:29:02] <xnox> i see.
+[16:29:02] <schultmc> why not? they're spending native currency
+[16:29:09] <xnox> ok. then i am confused.
+[16:29:13] <schultmc> they shouldn't need to worry about exchange rates nor should we
+[16:29:13] <luca> xnox: the advantage of local is that the paperwork they use to substantiate will be in locla
+[16:29:19] <luca> xnox: read the pad
+[16:29:24] <xnox> "<luca> i incorporated tbm's feedback about USD" and then "<schultmc> i disagree with the USD only"
+[16:29:36] <schultmc> if luca spends 500 CAD, we reimburse 500 CAD via transferwise
+[16:29:36] <xnox> so did luca and schultmc agree on things, or did you not ? =)
+[16:29:57] <tbm> xnox: the USD only has been removed so there's agreement now
+[16:29:59] <luca> we agree, now
+[16:29:59] <schultmc> we input XXX USD in our accounting based on transferwise's conversion
+[16:30:06] <xnox> ack.
+[16:30:22] <tbm> you request 500 GBP
+[16:30:24] <xnox> tbm, gotcha.
+[16:30:34] <tbm> schultmc does transfer of 500 GBP
+[16:30:40] <tbm> and enters whatever USD value that 500 GBP is into ledger
+[16:30:45] <schultmc> yes
+[16:31:11] <xnox> i think we can move on, and sorry for confusion.
+[16:31:17] <tbm> so I believe we're in agreement
+[16:31:28] <tbm> any other comments on luca's proposal?
+[16:32:12] <tbm> the Technology section looks sane to me but we'll need to work on agreement with the admins offline
+[16:32:53] <luca> tbm: tbf, i'm done writing emails on that topic
+[16:33:06] <tbm> yeah, I understand
+[16:33:13] <luca> tbm: hence the Go / No-Go request
+[16:33:47] <tbm> I'm fine with Go. What do others think?
+[16:33:56] <schultmc> I'm fine with Go
+[16:34:01] <-- spectranaut_ (~spectrana@c-50-169-124-202.hsd1.ma.comcast.net) has quit (Ping timeout: 480 seconds)
+[16:35:01] <tbm> xnox?
+[16:35:12] <tbm> shame zobel isn't here
+[16:36:41] <luca> spectranaut, Hydroxide, xnox?
+[16:36:46] <spectranaut> sounds good to me
+[16:36:51] <tbm> luca: can you email xnox and zobel offlist and give them 48 hours to object. otherwise I say Go
+[16:37:06] <luca> isn't xnox in the channel?
+[16:37:14] --> spectranaut_ (~spectrana@c-50-169-124-202.hsd1.ma.comcast.net) has joined #spi
+[16:37:17] <Hydroxide> I don't feel a need to object to this
+[16:37:27] <Hydroxide> (I have no real strong feeling but I'm fine leaving this to the people doing the work)
+[16:37:34] <tbm> luca: yeah but I think he has bad lag or is distracted
+[16:37:51] <luca> tbm: ok; perhaps a comment in the minutes and an email to board@ from me
+[16:38:05] <tbm> ok
+[16:38:13] <tbm> thanks for working on this!  Looks good to me
+[16:38:15] <spectranaut> luca: a comment in the minutes about what specifically?
+[16:38:59] <luca> spectranaut: that the new reimbursement process is fleshed out to the point of getting a Go/No-Go decision by the board members present; requesting those absent to review and comment within 48h
+[16:39:08] <tbm> [item 7.2, External advice for 2017 finacial audit]
+[16:39:18] <luca> in fact, i don't feel i need to email; i'll leave it as a comment in minutes
+[16:39:20] <tbm> Unfortunately I haven't been able to work on this
+[16:39:28] <tbm> I should be able to present something next meeting
+[16:39:52] <tbm> If someone else wants to own this action item, that's fine with me too
+[16:39:58] <tbm> [item 7.3, Review of F2F action items]
+[16:40:19] <luca> i'll go
+[16:40:29] <luca> most have had action per above
+[16:40:33] <luca> additionally, i've started https://pad.riseup.net/p/SPI_Roles_and_Responsibilities
+[16:40:54] <luca> but i need help filling in the assets: I don't know what I don't know
+[16:41:12] <luca> i'll go back to the "SPI Directors Intro" emails to help out but that's probably not enough
+[16:42:37] <luca> that's all from me.
+[16:42:41] <xnox> schultmc, zobel, and I, should finish 2016 accounts and prepare the relevant filings. I did close out the accounts but nothing has been done to prepare the filing, i don't think.
+[16:42:57] <tbm> I sent the legal questions to Mishi, and I documented the banking procedures. The 3rd item is still on my list.
+[16:43:06] <xnox> there are outstanding tickets / treasury requests that I wanted to discuss too, but i guess i can just email that to schultmc & zobel
+[16:43:16] <Hydroxide> sorry I jumped the gun on sharing my update earlier. repasting:
+[16:43:21] <Hydroxide> regarding my tasks with Mishi: no update from her, and I've been too busy with major changes at work to nag aggressively. I'll try to find time before the june meeting to nag at least once and ideally 2-3x.
+[16:43:43] <xnox> there is some progress, on the Khronos test-suite, it's back to me to respond.
+[16:44:18] <spectranaut> my update: I'm about to send email clarifying some questions about membership committee -- please read and answer when it comes :)
+[16:44:41] <schultmc> [16:14] <    schultmc> | i've been testing out our new NY mail service - it  seems to be working well and I plan on setting up the forward from  our indianapolis PO box to the NY service this month
+[16:45:29] <spectranaut> that's everyone, I believe
+[16:45:41] <tbm> [item 8, Any other business]
+[16:46:08] <xnox> schultmc, zobel: there is request from debconf team to use online payment in the debconf portal. Paypal may be suitable, can we grant them access to integrate with paypal?
+[16:46:40] <xnox> schultmc, zobel: do we need/want to open stripe account (that was original debconf request, but i guess paypal should do too)
+[16:46:43] <schultmc> we can grant them access to debian's paypal if the debian auditor team doesn't mind or we can setup stripe
+[16:46:46] <luca> xnox: i missed that; what do they want to do?
+[16:47:00] <schultmc> i use stripe for other organizations - it works well and is easy to integrate
+[16:47:02] <luca> xnox: accept payments from attendees?
+[16:47:08] <xnox> luca, on the debconf 17 registration website have a button to pay for the profession fee / etc.
+[16:47:11] <xnox> luca, yes.
+[16:47:14] <luca> xnox: thanks
+[16:47:15] <schultmc> yes, accept payments from attendees
+[16:47:35] <xnox> also, we can take payments on the spot  using the PayPal web terminal, if people want to pay with cards.
+[16:47:59] <schultmc> we can also get a paypal card reader gratis afaik
+[16:48:58] <tbm> Ok, can someone respond to them?
+[16:49:01] <tbm> Any other business?
+[16:49:11] <spectranaut> xnox: if you want to vote on the meeting minutes above
+[16:49:17] <xnox> schultmc, zobel: i think the idea to lock away 250k for 5yrs term deposit was well received. Given that we will start earning better interest after a year, and can withdraw anytime after that (because of a 1year interest penalty on the 5yrs term). Have you looked into what rates Chase offers to open such an account?
+[16:49:21] <xnox> !vote
+[16:49:26] <xnox> !vote yes
+[16:49:30] <spectranaut> haha thanks :)
+[16:49:50] <schultmc> xnox: not chase specifically but I did research other bank's CD's
+[16:50:04] -*- luca has do leave
+[16:50:11] <luca> s/do/to; ciao
+[16:50:20] <xnox> schultmc, ack.... and did you find anything that is better than our yield for USD, and still protected CD's?
+[16:50:28] <schultmc> yes
+[16:50:38] <schultmc> our current yield is effectively 0%
+[16:50:55] <schultmc> the ones I found were better interest rates than our current interest bearing accounts
+[16:51:17] <schultmc> I also need to leave - i'll follow up on CD's via email
+[16:51:23] <xnox> ack.
+[16:51:31] <tbm> ok, thanks schultmc and luca 
+[16:51:37] <tbm> [item 9, Next board meeting]
+[16:51:40] <tbm> The next board meeting is scheduled for June 12, 2017 unless there are objections.
+[16:51:41] <tbm> The next board meeting is scheduled for June 12, 2017 unless there are objections.
+[16:51:48] <xnox> are we going to have elections by then?
+[16:51:50] <schultmc> works for me
+[16:51:51] <xnox> or when are those due?
+[16:52:14] <Hydroxide> works for me. elections are in July I think
+[16:52:59] <tbm> yeah, July
+[16:53:18] <tbm> AGM is also July
+[16:53:38] <tbm> thanks everyone!
+[16:53:39] <tbm> *GAVEL*
