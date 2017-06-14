@@ -1,0 +1,212 @@
+[16:00:24] <tbm> *GAVEL*
+[16:00:27] <tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[16:00:30] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2017/2017-06-12/
+[16:00:33] <tbm> [item 2, Roll Call]
+[16:00:35] <tbm> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+[16:00:39] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:00:42] <tbm> Martin Michlmayr
+[16:00:42] <schultmc> Michael Schultheiss
+[16:00:48] <tridge> Andrew Tridgell
+[16:00:48] <spectranaut> Valerie YOung
+[16:00:59] <tbm> I saw regrets from Martin Zobel-Helas
+[16:01:07] <luca> Luca Filipozzi
+[16:01:27] <Ganneff> Joerg Jaspert
+[16:01:48] <schultmc> SMS'd Hydroxide 
+[16:01:55] <tbm> xnox?
+[16:02:32] <Hydroxide> Jimmy Kaplowitz
+[16:02:34] <tbm> Ok, let's go ahead since we have quorum.  They can join later
+[16:02:39] <tbm> [item 3, President's Report]
+[16:02:42] <Hydroxide> seen without the SMS :)
+[16:02:52] <tbm> I added my report to the agenda.  In short, I'm concerned about the low activity recently
+[16:02:59] <tbm> and hope we can find new momentum again.
+[16:03:20] <tbm> [item 4, Treasurer's Report]
+[16:03:57] <schultmc> we've received an automatic 6 month extension to our deadline for filing our Form 990 (IRS federal tax filing). New due date is November 15, 2017
+[16:04:28] <schultmc> xnox, zobel and I are finalizing the 2016 books and getting the 2017 books in order.
+[16:04:59] <schultmc> Travelling Mailbox is working very well - we're ready to forward mail from our Indianapolis PO box to the NYC address IMO
+[16:05:08] <tbm> What's the status of getting monthly reports sent out again?  Someone asked about this on spi-general recently
+[16:05:27] <luca> i'm pleased that Travelling Mailbox is working well
+[16:05:34] <schultmc> once we get 2016 finalized we can get 2017 opened and resume monthly reporting
+[16:05:57] <schultmc> I'll see what can be done to finalize 2016 given xnox's reduced availability
+[16:05:57] <tbm> What's the ETA and what's missing? I thought you or xnox said in the last meeting that 2016 is closed
+[16:06:22] <schultmc> aiui 2016 is closed or close to being closed - we need 2017 opened.
+[16:06:36] <schultmc> zobel or I should be able to handle that without xnox
+[16:06:52] <tbm> ah, right. I think that matches with what xnox said last time
+[16:07:01] <tbm> schultmc: can you respond to Peter Cock on spi-general?
+[16:07:06] <schultmc> yes
+[16:07:12] <tbm> thank you
+[16:07:27] <tbm> regarding Travelling Mailbox, are you queuing checks and then directing them to get deposited?
+[16:07:31] <tbm> Is that easy to manage?
+[16:08:11] <schultmc> yes, it's quite easy to manage. I'm bundling check deposits into ~1 deposit per month due to the semi-high cost of deposits
+[16:08:50] <tbm> ok, great to hear
+[16:08:51] <schultmc> I'd like to publicly thank the Thiel Foundation for their extremely generous donation in support of the NTPsec project. As I understand it, it's our largest single donation ever.
+[16:08:52] <tbm> thanks for doing this!
+[16:09:19] <tbm> nice!
+[16:09:37] <tbm> any other questions for Michael?
+[16:10:26] <tbm> [item 5, Secretary's report]
+[16:10:33] <spectranaut> Nothing to report.
+[16:10:38] <tbm> [item 6, Outstanding minutes]
+[16:10:40] <tbm> We have to approve the minutes for 8th May 2017: http://spi-inc.org/meetings/minutes/2017/2017-05-08
+[16:10:55] <spectranaut_> Voting started, 7 people (tbm,schultmc,luca,spectranaut,ganneff,tridge,hydroxide) allowed to vote on Meeting minutes for 8 May 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:11:01] <schultmc> !vote yes
+[16:11:06] <tridge> !vote abstain
+[16:11:06] <luca> !vote yes
+[16:11:07] <spectranaut> !vote yes
+[16:11:07] <Ganneff> !vote abstain
+[16:11:28] <Hydroxide> !vote yes
+[16:11:40] <tbm> I don't think we should link to riseup.net since that link will go away.  Either remove the link or copy the proposal to the spi web site
+[16:11:43] <tbm> otherwise:
+[16:11:46] <tbm> !vote yes
+[16:11:57] <spectranaut_> Current voting results for "Meeting minutes for 8 May 2017": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+[16:12:00] <spectranaut_> Voting for "Meeting minutes for 8 May 2017" closed.
+[16:12:20] <spectranaut> ok I will remove the link
+[16:12:34] <tbm> [item 7, Items up for discussion]
+[16:12:36] <tbm> [item 7.1, Review progress of reimbursement streamlining]
+[16:12:38] <tbm> luca
+[16:13:28] <luca> am waiting for zobel spectranaut xnox schultmc to work on the master data management and front end form
+[16:13:35] <luca> have not moved the two blades
+[16:13:52] <luca> have spoken with Sabrina of UBC ECE and she's interested in working for SPI under contract
+[16:14:03] <tbm> ok, good
+[16:14:16] <luca> she's the finance clerk at UBC ECE, understands well how to apply policy to reinbursements, and uses RT daily
+[16:14:26] <luca> this is the plan: https://pad.riseup.net/p/reimbursement-tech-plan
+[16:14:48] <luca> Policy, Master Data, Form
+[16:15:06] <spectranaut> should we have some kind of irc meeting between the people you mentioned, luca, to discuss data management/forms/distribution of work?
+[16:15:19] <luca> happy to have such a meeting, sure
+[16:15:33] <spectranaut> xnox I suppose will no longer contribute -- but maybe he'd have ideas at least
+[16:15:56] <luca> we could have such a meeting at this time in 1w, perhaps
+[16:16:03] <luca> as this timeslot seems to work for people
+[16:16:15] <schultmc> works for me
+[16:16:17] <spectranaut> works for me 
+[16:16:41] <tridge> I can join in, though I'd prefer an hour later :-)
+[16:16:42] <tbm> ok, great!  spectranaut, can you send an email to everyone luca needs for the meeting
+[16:16:55] <spectranaut> I will
+[16:17:04] <tbm> luca: anything else?
+[16:17:22] <luca> not for that
+[16:17:30] <tbm> [item 7.2, External advice for 2017 finacial audit]
+[16:17:40] <tbm> I was asked to come up with next steps.  imho we should:
+[16:17:41] <luca> for Roles / Responsibilities: am waiting for people to add Assets that are controlled
+[16:17:47] <luca> (not money; but systems, accounts, things)
+[16:17:56] <luca> https://pad.riseup.net/p/SPI_Roles_and_Responsibilities
+[16:17:57] <tbm> oh, sorry, I misunderstood luca.  go on
+[16:18:01] <luca> that's the URL for that
+[16:18:20] <luca> now i'm done
+[16:18:47] <tbm> [item 7.2, External advice for 2017 finacial audit]
+[16:18:52] <tbm> I was asked to come up with next steps.  imho we should:
+[16:18:54] <tbm> * Identify policies and processes that have to be created and established
+[16:18:56] <tbm>     * Expense policy
+[16:18:58] <tbm>     * Fiscal controls policies, such as approval process, oversight, etc
+[16:19:00] <tbm>     * Data retention (receipts, etc)
+[16:19:02] <tbm>     * ???
+[16:19:05] <tbm> * Get someone external to review and provide feedback on:
+[16:19:07] <tbm>     * Policies
+[16:19:10] <tbm>     * Processes
+[16:19:12] <tbm>     * Audit next year
+[16:19:18] <tbm> We need volunteers to work on the different items.
+[16:19:36] <tbm> Unfortunately I haven't had much time lately and that probably won't change in the near future but I'll try to help out
+[16:20:11] <tbm> I think writing down some policies is crucial.  We have some policies but I don't think they are written down clearly - or all over the place
+[16:20:59] <luca> Reimbursement Policy == Expense Policy?
+[16:21:36] <Hydroxide> I suspect an expense policy would be a superset of a reimbursement policy, also covering things that are paid directly by SPI
+[16:22:06] <tbm> or maybe both.  we definitely need a Reimbursement Policy. We could also do with an Expense Policy for SPI
+[16:22:16] <tbm> but yeah, good question
+[16:22:42] <schultmc> Expense policy could include allowed expenses for F2F meetings. e.g. hotel < $300/night
+[16:23:13] <tbm> Any other questions?
+[16:23:24] <luca> I'm happy to see them a separate items: the policy that SPI applies to Associated Projects; the policy that SPI applies to itself; hopefully not too divergent on personal expenditures
+[16:23:47] <luca> esp since maybe some Associated Projects want their own additional restrictions
+[16:23:54] <tridge> should all associated projects necessarily have the same policies?
+[16:24:03] <tbm> I don't think so
+[16:24:06] <luca> no, hence the second statement
+[16:24:09] <tridge> or should associated projects be able to set their own policies?
+[16:24:15] <Ganneff> no, we shoukd provide minimal ones
+[16:24:22] <luca> i think that SPI must have a base set
+[16:24:34] <Ganneff> on which they can add whatever they need for themself. ours is just what we must have to follow the laws around spi
+[16:24:43] <luca> that apply to the projects that can't be bothered to revise
+[16:24:52] <tridge> there are also payments which don't really fit "expense" or "reimbursement"
+[16:24:53] <luca> what Ganneff said
+[16:25:08] <tridge> eg. we have monthly prizes in ArduPilot
+[16:25:32] <Ganneff> thats an additional policy on top.
+[16:25:38] <Hydroxide> sure. and we need to have policies around that to ensure it doesn't cause us tax problems, but we can otherwise let ArduPilot decide policy on those
+[16:25:59] <Ganneff> spi has to ensure it fits with our bylaws. if you givre it out for travel foo to a conference or a price for a good contribution is then up to project
+[16:26:07] <tridge> yep. A link to relevent legal standard may be useful?
+[16:26:28] <tridge> i'm not exactly sure what the legal boundary is for what is acceptable 
+[16:26:32] <tbm> Agreed.
+[16:26:43] <tbm> tridge: that's why we need some documentation :)
+[16:26:44] <Hydroxide> Ganneff: we'd also probably want some policies to ensure that it's credible. like, "no, we'll not spend $10,000 for a flight from NYC to Toronto even for a conference"
+[16:26:54] <luca> tridge: we can use public sector policies
+[16:26:57] <Ganneff> Hydroxide: sure
+[16:27:00] <tridge> though in case of doubt checking with mishi is probably safest
+[16:27:08] <Hydroxide> Ganneff: that's the sort of thing where SPI should be suspicious of the request even if it's approved by the project.
+[16:27:12] <luca> tridge: for example, at my UNI, we can't travel on business/first class
+[16:27:20] <luca> unless there's a medical justification
+[16:27:41] <Ganneff> how to medically justify first class?
+[16:27:42] <luca> we don't have to reproduce these; we'll borrow from UBC or other uni and rightsize for SPI
+[16:27:51] <Hydroxide> tridge: yeah. there are also cases where something is legal but has other compliance burdens. for example, even in cases where SPI might be allowed to award prizes, there might be forms to file with tax authorities or recipients.
+[16:27:53] <luca> Ganneff: too tall; legs don't bend
+[16:27:56] <Hydroxide> or forms required from recipients.
+[16:28:11] <Hydroxide> (details vary, but that's definitely true in some scenarios)
+[16:28:30] <tridge> hydroxide, do you know where I'd find more info on that?
+[16:28:41] <tridge> we've been doing top contribution prizes for a while now
+[16:29:02] <luca> https://www.irs.gov/pub/irs-tege/notice_1340.pdf
+[16:29:04] <tridge> I hope it hasn't created an extra obligation
+[16:29:09] <Hydroxide> tridge: let's talk separately since it's a tangent from the meeting topic. maybe via /msg or email. but I won't pretend to speak authoritatively as SPI's lawyer, that's mishi.
+[16:29:16] <luca> the IRS has an opinion on everything
+[16:29:30] <tridge> ok, thanks
+[16:29:48] <Hydroxide> luca: mostly determined by the statutes they have to regulate and enforce, but yes :)
+[16:29:56] <tbm> Ok, it sounds like we're in agreement that we need some written policies and that we don't want to dictate too much to projects unless necessary
+[16:30:11] <tbm> anything else?
+[16:30:18] <luca> right. Sabrina needs something written to back her decisions
+[16:30:21] <totte> Who will author said policies?
+[16:30:25] <luca> she can't make it up on the fly
+[16:30:41] <luca> totte: some will come out of the Reimbursement Project
+[16:30:45] <luca> totte: but not all of them
+[16:31:25] <tbm> luca: can you ask Mishi to draft a contract?
+[16:31:57] <luca> tbm: we can work through a SoW in the team and pass that to her for contractifying
+[16:32:56] <tbm> luca: ok
+[16:33:01] <tbm> [item 7.3, Review of F2F action items]
+[16:34:35] <luca> luca: i have provided an update via above comments
+[16:35:55] <tbm> spectranaut: do you want updates here or by email or...?
+[16:35:56] <spectranaut> my update: I'm working on figuring out what we need from the membership resolution, sounds like theres is some parallel work in the bylaws, re: Hydroxide email with questions what ways a membership can change
+[16:36:11] <spectranaut> before each person just gave an update on there list!
+[16:36:26] <spectranaut> if they hadn't earlier in the meeting
+[16:36:34] <Hydroxide> yeah I'd like people's thoughts on the questions in my email - reply there is fine
+[16:36:42] <Hydroxide> it will help me iterate faster with Mishi to get acceptable bylaws
+[16:36:51] <Hydroxide> I'll otherwise use my judgment based on my understanding of actual current practice
+[16:37:44] <spectranaut> if no one has any other updates on their action item list -- I suppose we can move on?
+[16:37:53] <tbm> [item 7.4, AGM and 2016 annual report]
+[16:38:03] <tbm> Our Annual General Meeting is usually held in July
+[16:38:23] <tbm> our next meeting is scheduled for July 10
+[16:38:33] <tbm> I think that'll work for the AGM.  Any objections?
+[16:38:52] <tbm> I'd like to publish the 2016 annual report some time before the AGM
+[16:39:04] <tbm> the only thing missing is the treasurer report
+[16:39:16] <tbm> I'm not sure if xnox will have time... maybe schultmc can add it?
+[16:39:26] <Ganneff> ill be on vac then
+[16:39:34] <Ganneff> may have internet, not known yet
+[16:39:39] <schultmc> I'll add it
+[16:39:44] <luca> July 10 works for me
+[16:40:00] <tbm> schultmc: thanks
+[16:40:11] <spectranaut> should I announcement that meeting earlier than usual?
+[16:40:30] <tbm> spectranaut: that might be a good idea.  and mention it's the AGM
+[16:40:48] <spectranaut> ok
+[16:40:51] <tbm> [item 7.5, Upcoming election]
+[16:40:59] <tbm> Our election is in July
+[16:41:14] <tbm> 1) spectranaut can you post a timline to the announcement list soon (see the one I posted last year)
+[16:41:26] <tbm> 2) Noodles has worked on the STV algorithm. Thank you!
+[16:41:29] <spectranaut> yes I'll send tmorrow
+[16:41:48] <tbm> 3) Some board members were going to resign to fix the staggered term times
+[16:42:07] <tbm> I haven't read all the emails yet but it sounds like we'll be fine, right?
+[16:42:24] <tbm> In the election announcement, we have to communicate that not all seats are for the same duration
+[16:42:50] <luca> tridge and xnox have both reconfirmed; tbm has no choice
+[16:42:56] <luca> so we're fine for the 2017 election
+[16:43:03] <tbm> Anything I forgot?
+[16:43:31] -*- cdlu once resigned to fix the staggering... nice to know it lasted :)
+[16:43:50] <Hydroxide> this might get fixed in revised bylaws ahead of the 2018 election, but if not, I can be one of the people who resigns then (with or without running for a new term, still TBD)
+[16:43:53] -*- Hydroxide grins and waves at cdlu 
+[16:43:55] <tbm> cdlu: we want to fix it for good in the new bylaws
+[16:44:01] -*- luca thinks cdlu's party should keep their electoral reform promise *cough*
+[16:44:06] <Hydroxide> yes, the new bylaws will have staggered terms
+[16:44:15] <tbm> ok
+[16:44:28] <tbm> spectranaut, if there are any questions, we can talk offline
+[16:44:31] <tbm> [item 8, Any other business]
+[16:44:35] <tbm> anything else?
+[16:45:52] <tbm> 3... 2...
+[16:46:04] <tbm> [item 9, Next board meeting]
+[16:46:11] <tbm> The AGM is scheduled for July 10, 2017.
+[16:46:17] <tbm> *GAVEL*
