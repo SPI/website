@@ -1,0 +1,161 @@
+# Board Meeting, June 12th, 2017
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Joerg Jaspert (Ganneff) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* Luca Filipozzi (luca)
+* Jimmy Kaplowitz (Hydroxide)
+* Andrew Tridgell (tridge)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Dimitri John Ledkov (xnox)
+
+
+__Board members absent__
+
+* Martin Zobel-Helas (zobel)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Jonathan McDowell (Noodles)
+* Hans Tovetjärn (totte)
+
+These are the minutes for the June 12th, 2017 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2017/2017-06-12-log.txt).
+
+
+## President's Report
+
+President's report, as added to the agenda:
+
+We have an election coming up in July.  I'd like to thank Jonathan
+McDowell for his work on adding support for the single transferable vote
+(STV) algorithm to our membership system.
+
+We will also hold our Annual General Meeting (AGM) in July.  To that
+end, I've been working on the 2016 annual report which is almost ready.
+
+I am concerned about the low activity in the organization in the last
+few weeks.  Dimitri John Ledkov, who has been working on the migration
+to ledger-cli (with Michael Schultheiss and Martin Zobel-Helas), has
+indicated that he'd step down from the board with the upcoming election
+due to increased time commitment at work.  I've not devoted as much time
+as I'd like to SPI recently and I feel the same applies to some other
+board members.  I hope we can get the momentum going again.
+
+## Treasurer's report
+
+SPI has received an automatic 6 month extension to our deadline for filing our Form 990 (IRS federal tax filing). The new due date is November 15, 2017. Dimitri John Ledkov, Martin Zobel-Helas and Michael Schultheiss are finalizing the 2016 books and getting the 2017 books in order. Work on the 2016 books has been slowed due to Ledkovs reduced availability. Schultheiss believes the 2016 books are near to completion and Schultheiss and Zobel will be able to quickly finish the work.
+
+The Traveling Mailbox service is working well and has been easy to manage. Checks delivered to the new address are easily deposited remotely once a month. SPI can now set up forwarding of mail from the Indianapolis PO box to the NYC address. 
+
+Schultheiss would like to publicly thank the Thiel Foundation for their extremely generous donation in support of the NTPsec project. It's our largest single donation ever.
+
+## Secretary's report
+
+Valerie Young had nothing to report.
+
+## Outstanding minutes
+
+Vote on Meeting Minutes for 8th May 2017:
+
+<table><tbody>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Andrew Tridgell</td><td>Abstain</td></tr>
+</table></tbody>
+
+Motion passed with a vote of 5 yes, 0 no, 2 abstain, 0 missing.
+
+
+## Items up for discussion
+
+### Review progress of reimbursement streamlining
+
+Luca Filipozzi is waiting for the input of Martin Zobel-Helas, Valerie Young, Michael Schultheiss and Dimitri John Ledkov to work on the master data design and management for the reimbursement project. Young recommends we have an IRC meeting to discuss the work and agrees to email to set a time.
+
+Filipozzi has spoken with Sabrina, a colleague of his at UBC ECE, and she is interested in working for SPI under contract. Sabrina is a finance clerk for UBC ECE and uses RT daily. Filipozzi, with other involved board members, will draft as statement of work for Sabrina and request Mishi's help in formalizing a contract.
+
+### External advice for 2017 financial audit
+
+Martin Michlmayr outlined the next steps for achieving a 2017 financial audit:
+
+* Identify policies and processes that have to be created and established
+    * Expense policy
+    * Fiscal controls policies, such as approval process, oversight, etc
+    * Data retention (receipts, etc)
+    * ???
+* Get someone external to review and provide feedback on:
+    * Policies
+    * Processes
+    * Audit next year
+
+Michlmayr reports the first step is to write down SPI's internal policies, and requests volunteers. 
+
+The board discussed the details of an Expense Policy. The board concluded such a policy would cover all scenarios under which services, goods, or reimbursements are paid for directly by SPI. This includes a Reimbursement Policy, which should be written soon as part of the ongoing work to streamline the reimbursement process, and a policy for costs on face-to-face meetings. The Reimbursement Policy should include a minimal expense policy to insure projects use SPI services in ways aligned with SPI's mission, bylaws and non-profit status. Public sector policies, such as universities, will be consulted as guidance for the creation of SPI's policies. Member projects would be welcome to expand on such a policy as appropriate.
+
+The board acknowledges Sabrina from UBC ECE will need such a Reimbursement Policy to work for SPI. 
+
+### Review of F2F action items
+
+Valerie Young: Young emailed to discuss what SPI needs from the membership resolution. Work is in parallel with the membership definition in the bylaws.
+
+Jimmy Kaplowitz: Kaplowitz emailed to discuss Misha's edits to the bylaws with the board. He requested input on specific questions. If there are no further comments he will use his best judgment to keep the bylaws aligned with SPI present practices.
+
+### AGM and 2016 annual report
+
+SPI's Annual General Meeting will take place on July 10th, 2017. The 2016 Annual Report is complete except for the treasurer report, which Michael Schultheiss will add.
+
+### Upcoming Election
+
+Martin Michlmayr request Valerie Young sending an email announce the timeline for the coming election and thanks Jonathan McDowell for his work incorporating a Scottish STV algorithm into SPI's voting software. 
+
+## Any other business
+
+None.
+
+## Adjournment
+
+The meeting was adjourned until Monday, July 10th, 2017 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2014<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2015<br /></td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2016<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+
+[[!meta copyright="Copyright © 2017 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
