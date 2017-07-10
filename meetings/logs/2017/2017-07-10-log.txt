@@ -1,0 +1,95 @@
+[16:00:50] <tbm> *GAVEL*
+[16:00:53] <tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Annual General Meeting (AGM), which is now called to order.
+[16:00:56] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/minutes/2017/2017-06-12/
+[16:00:59] <tbm> [item 2, Roll Call]
+[16:01:05] <tbm> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+[16:01:08] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:01:09] <schultmc> Michael Schultheiss
+[16:01:13] <tbm> Martin Michlmayr
+[16:01:14] <tridge> Andrew Tridgell
+[16:01:14] <spectranaut> Valerie Young
+[16:01:47] <luca> Luca Filipozzi
+[16:02:37] <tbm> I don't think I saw any regrets
+[16:02:52] <spectranaut> I didn't recieve any regrets
+[16:02:54] <schultmc> sent SMS to Hydroxide 
+[16:03:07] <tbm> Ganneff, zobel, Hydroxide, xnox 
+[16:03:27] <Hydroxide> Jimmy Kaplowitz
+[16:03:51] <Hydroxide> I have a meeting every week now that ends at our meeting time, so timing is always tricky... anyway hi
+[16:04:16] <tbm> Hydroxide: I think we should revisit the meeting time after the election anyway.
+[16:04:18] <tbm> [item 3, President's Report]
+[16:04:21] <tbm> 2016 was a productive year for SPI.  We held a face-to-face meeting in
+[16:04:21] <tbm> New York where we discussed outstanding items as well as the roadmap
+[16:04:21] <tbm> for the organization.
+[16:04:23] <tbm>  
+[16:04:26] <tbm> We've made good progress during 2016 to move to an accounting system
+[16:04:28] <tbm> based on ledger-cli.
+[16:04:31] <tbm>  
+[16:04:33] <tbm> We've seen a lot of interest in SPI and we accepted several projects
+[16:04:36] <tbm> as SPI associated projects.  See the 2016 Annual Report for updates
+[16:04:38] <tbm> from new and existing associated projects.
+[16:04:41] <tbm>  
+[16:04:43] <tbm> I'd like to thank everyone who contributed to SPI and the FOSS
+[16:04:46] <tbm> community!
+[16:04:48] <tbm>  
+[16:04:51] <tbm> The 2016 Annual Report can be found here:
+[16:04:53] <tbm> http://spi-inc.org/corporate/annual-reports/2016.pdf
+[16:04:56] <tbm> <end
+[16:05:25] <tbm> [item 4, Treasurer's Report]
+[16:06:17] <schultmc> The 2016 Treasurer's report is in the agenda. We received donations of USD 427,744.01 and had expenses of USD 203,832.04 for a net income of USD 224,254.72
+[16:06:46] <schultmc> current assets as of 2016-12-31 are USD 1,060,871.56, pushing us over $1M in assets for the first time ever.
+[16:07:11] <schultmc> I would like to thank zobel and xnox for their tremendous assistance in helping get us moved to ledger-cli
+[16:07:29] <schultmc> also thank you to tridge for his assistance with Paypal tracking
+[16:07:47] <schultmc> </done>
+[16:07:48] <tbm> We should talk offline about how to proceed now that xnox is leaving the board
+[16:07:56] <schultmc> agreed
+[16:08:13] <tbm> any questions for Michael?
+[16:08:56] <tbm> [item 5, Secretary's report]
+[16:09:03] <spectranaut> Nothing to report
+[16:09:26] <tbm> [item 6, Outstanding minutes]
+[16:09:28] <tbm> We have to approve the minutes for 12th June 2017: http://spi-inc.org/meetings/minutes/2017/2017-06-12/
+[16:09:47] <spectranaut_> Voting started, 6 people (tbm,schultmc,hydroxide,tridge,xnox,spectranaut) allowed to vote on Meeting minutes for 12 June 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:10:06] <spectranaut_> Current voting results for "Meeting minutes for 12 June 2017": Yes: 0, No: 0, Abstain: 0, Missing: 6 ( schultmc  xnox  spectranaut  tbm  tridge  hydroxide )
+[16:10:09] <spectranaut_> Voting for "Meeting minutes for 12 June 2017" closed.
+[16:10:10] <Hydroxide> !vote yes
+[16:10:12] <spectranaut_> sorry I include the wronge person
+[16:10:15] <spectranaut_> one more time!
+[16:10:39] <spectranaut_> Voting started, 6 people (tbm,schultmc,luca,hydroxide,tridge,spectranaut) allowed to vote on Meeting minutes for 12 June 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:10:44] <schultmc> !vote yes
+[16:10:45] <spectranaut> !vote yes
+[16:10:46] <tbm> !vote yes
+[16:10:50] <tridge> !vote yes
+[16:10:53] <luca> !vote yes
+[16:11:01] <spectranaut> Hydroxide: one more time? :)
+[16:11:05] <Hydroxide> !vote yes
+[16:11:19] <spectranaut_> Current voting results for "Meeting minutes for 12 June 2017": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+[16:11:22] <spectranaut_> Voting for "Meeting minutes for 12 June 2017" closed.
+[16:11:41] <tbm> [item 7, Items up for discussion]
+[16:11:58] <tbm> There's nothing on the agenda, so let's move to other business
+[16:11:59] <tbm> [item 8, Any other business]
+[16:12:01] <tbm> Anything?
+[16:12:07] <tbm> Any guests would like to ask questions?
+[16:12:35] <spectranaut> luca: did you end up talking to Brett at SFC?
+[16:12:47] <luca> spectranaut: negative
+[16:13:39] <spectranaut> do you plan to? I'm happy to start an email thread -- this is about their reimbursement software
+[16:13:52] <luca> yes, please do
+[16:14:11] <tbm> The AGM is usually not very active. The 2016 annual report contains a lot of material so I hope people appreciate that
+[16:14:31] <tbm> also, an SPI BOF got accepted at DebConf and that usually attracts quite a few people.
+[16:15:19] <tbm> anything else?
+[16:15:27] <Noodles> Who will be present at the SPI BOF OOI? (I'll be at DebConf.)
+[16:16:01] <tbm> I'll be there.  I believe luca and zobel.  I assume Hydroxide
+[16:16:05] <spectranaut> I will bet there
+[16:16:12] <Hydroxide> I'll be there too
+[16:17:16] <tbm> [item 9, Next board meeting]
+[16:17:18] <tbm> The next board meeting is currently scheduled for August 14, 2017.  
+[16:17:20] <tbm> However, I wonder if we should push this back by one week since this is right after DebConf17.
+[16:18:04] <spectranaut> makes no difference to me -- do you think people will be travelling?
+[16:18:16] <tbm> (or a week earlier)
+[16:18:27] -*- luca would prefer to push the meeting up one week
+[16:18:36] <luca> to be closer to the announcement of election results
+[16:18:50] <luca> even if that means that the meeting happens during debconf
+[16:19:16] <Hydroxide> one week earlier would be during debconf, and we don't know what session(s) will be happening then. I view that as a mild downside but I don't object strongly.
+[16:19:56] <Hydroxide> I can probably attend August 14 but due to a routine dental appointment earlier that day have a chance of missing it. no known conflict for August 21.
+[16:20:21] <Hydroxide> I'll aim to attend any of those.
+[16:21:15] --> jg (~jg@static-173-76-34-203.bstnma.fios.verizon.net) has joined #spi
+[16:21:37] <tbm> Ok, maybe we should just stay with August 14.  Let's see what the people missing today say.
+[16:22:09] <tbm> *GAVEL*
