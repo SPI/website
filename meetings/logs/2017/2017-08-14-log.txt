@@ -1,0 +1,248 @@
+[16:00:32] <tbm> *GAVEL*
+[16:00:33] <luca> Luca Filipozzi.
+[16:00:35] <tbm> [item 1, Opening] Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[16:00:39] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2017/2017-08-14/
+[16:00:42] <tbm> [item 2, Roll Call]
+[16:00:44] <tbm> Board members, please state your name for the record.  As we have nine board members, quorum for today's meeting is six.
+[16:00:45] <luca> Luca Filipozzi.
+[16:00:47] <luca> Luca Filipozzi.
+[16:00:48] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:00:49] <schultmc> Michael Schultheiss
+[16:00:52] <tbm> luca: are you a bot?
+[16:00:54] <tbm> Martin Michlmayr
+[16:00:56] <tridge> Andrew Tridgell
+[16:01:00] <Hydroxide> Jimmy Kaplowitz
+[16:01:05] <spectranaut> Valerie Young
+[16:01:07] <luca> tbm: script is anxious
+[16:01:18] <tpot> Tim Potter
+[16:01:26] <zobel> Martin Zobel-Helas
+[16:01:51] <tbm> Hydroxide said he'd be a few minutes late.
+[16:01:53] <tbm> oh
+[16:01:55] <tbm> sorry
+[16:02:13] <tbm> so only Ganneff missing
+[16:02:20] <tbm> [item 3, President's Report]
+[16:02:22] <zobel> we still also wait for Ganneff, whom i just texted
+[16:02:25] <tbm> I added a report to the agenda
+[16:02:30] <tbm> http://spi-inc.org/meetings/agendas/2017/2017-08-14/
+[16:02:41] <tbm> any questions? otherwise we can proceed.
+[16:03:07] <Ganneff> Joerg Jaspert
+[16:03:15] <tbm> [item 4, Treasurer's Report]
+[16:03:18] <zobel> \o/
+[16:03:44] <zobel> schultmc: i leave it to you.
+[16:04:02] <schultmc> zobel, tbm and I have been working on getting up to date data in ledger-cli. We're close to releasing reports for the first quarter of 2017 and willhave the remaining reports out shortly afterwards
+[16:04:39] <zobel> we have only two unidentified bookings up to March.
+[16:05:03] <zobel> when i am done with check processing tonight, we have all up to 2017-06
+[16:06:06] <zobel> also, tbm schultmc and me had a very productive phone call during debconf which resolved a lot of things for me to know.
+[16:06:07] -*- schultmc has nothing else to report atm
+[16:06:31] <tbm> thanks for your work guys
+[16:06:36] <tbm> I'm happy to see the progress
+[16:06:36] <tbm> [item 5, Secretary's report]
+[16:06:36] <luca> two more things
+[16:06:39] <tbm> oh
+[16:06:41] <tbm> luca: 
+[16:06:50] <luca> (1) we're waiting for Mishi to draft the Contract for Sabrina
+[16:07:08] <luca> Sabrina's looked at the revised list of duties and is good with them
+[16:07:45] <luca> (2) there are 15 DebConf17 reimbursement requests; I've looked at half of them and people seem to have followed directions well
+[16:07:54] <tbm> good
+[16:07:55] <luca> i might still introduce some custom fields
+[16:08:05] <-- cdlu (~cdlu@cdlu.advisor.oftc.net) has quit (Ping timeout: 480 seconds)
+[16:08:08] <luca> that is all.
+[16:08:15] <tbm> ok, thank you, Luca!
+[16:08:37] <tbm> schultmc: one more thing.  When is the 990 due exactly?  Some time in October, right?  (October 15?)
+[16:08:46] <schultmc> November 15
+[16:08:55] <tbm> xnox said he might do a draft 990 based on the ledger data but I'm not sure he'll actually have time.
+[16:09:31] <schultmc> the annual report data will help with drafting the 990
+[16:09:43] <tbm> hopefully we can get a draft 990 in time for the f2f and review it there
+[16:10:02] <schultmc> should be doable
+[16:10:26] <zobel> next?
+[16:10:35] <tbm> Ok
+[16:10:37] <tbm> [item 5, Secretary's report]
+[16:10:47] <spectranaut> I've sent out the request for the signed conflict of interest declarations,
+[16:10:47] <spectranaut> and have recieved almost everyones. I'll follow up with the remaining
+[16:10:47] <spectranaut> two board members and post to the board-private git. I also attend the TDF
+[16:10:47] <spectranaut> advisory board meeting, nothing to report to SPI. The next TDF is October 19th.
+[16:11:09] <spectranaut>  and welcome Tim Potter to the board :)
+[16:11:16] -*- zobel feels guilty.
+[16:11:16] <spectranaut> nothing else to report
+[16:11:18] <tpot> Thanks!
+[16:11:21] <tbm> spectranaut: you can start shaming those who haven't filled it out next time ;)
+[16:11:23] <tpot> What is "TDF"?
+[16:11:26] <tbm> hi tpot!
+[16:11:30] <tbm> The Document Foundation
+[16:11:35] <zobel> The Document Foundation
+[16:11:37] <schultmc> The Document Foundation
+[16:11:38] <tbm> They invited us to their advisory board meetings
+[16:11:46] <tbm> and spectranaut represents us there
+[16:11:50] <tbm> Bdale used to do it in the past
+[16:11:52] <tpot> thanks
+[16:11:54] <tbm> [item 6, Outstanding minutes]
+[16:11:56] <schultmc> German NGO for LibreOffice
+[16:11:58] <tbm> We have to approve the minutes for 10th July 2017: http://spi-inc.org/meetings/minutes/2017/2017-07-10/
+[16:12:17] <spectranaut_> Voting started, 9 people (tbm,schultmc,zobel,luca,hydroxide,tridge,xnox,spectranaut,ganneff) allowed to vote on Meeting minutes for 10 July 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:12:22] <schultmc> !vote yes
+[16:12:24] <luca> !vote yes
+[16:12:27] <zobel> !vote abstain
+[16:12:29] <spectranaut> !vote yes
+[16:12:34] <tridge> !vote yes
+[16:12:43] <zobel> why xnon?
+[16:12:45] <Ganneff> !vote abstain
+[16:12:49] <tpot> !vote yes
+[16:12:59] <spectranaut> oh no -- I meant to remove and add tpot
+[16:13:02] <tbm> !vote yes
+[16:13:09] <Hydroxide> !vote yes
+[16:13:11] <spectranaut> will fix!
+[16:13:23] <zobel> tpot: please vote.
+[16:13:24] <Hydroxide> !vote yes
+[16:13:32] <spectranaut> zobel:  he did
+[16:13:43] <tpot> shall i re-vote?
+[16:13:47] <spectranaut> no need
+[16:13:56] <spectranaut_> Current voting results for "Meeting minutes for 10 July 2017": Yes: 6, No: 0, Abstain: 2, Missing: 1 ( xnox )
+[16:14:01] <spectranaut_> Voting for "Meeting minutes for 10 July 2017" closed.
+[16:14:04] <Hydroxide> tpot: for future reference, we typically !vote abstain on the minutes votes for meetings where we weren't present, but it doesn't matter in this case - approval is pretty clear
+[16:14:19] <tbm> [item 8, Items up for discussion]
+[16:14:21] <tpot> ok - i did read them tho (-:
+[16:14:28] <tbm> sorry
+[16:14:28] <tbm> [item 7, Appointment of board officers]
+[16:14:31] <Hydroxide> tpot: sure :) no worries. welcome to the board!
+[16:14:58] <tbm> spectranaut: which nominations did we receive?
+[16:15:21] <spectranaut> You can see the nominations here:
+[16:15:21] <spectranaut> http://spi-inc.org/corporate/votes/2017-board-election/
+[16:15:53] <spectranaut> Tim Potter, Martin Michlmayr, Andrew Tridgell
+[16:15:54] <tbm> for officers
+[16:15:57] <spectranaut> oh right
+[16:16:03] <tbm> it seems we only have one nomination per position
+[16:16:21] <spectranaut> sorry I did not prepare -- but yes only one per position
+[16:16:25] <tbm> President: Martin Michlmayr
+[16:16:33] <tbm> VP: Luca Filipozzi
+[16:16:42] <tbm> Treasurer: Michael Schultheiss
+[16:16:50] <tbm> Secretary: Valerie Young
+[16:17:01] <zobel> any late self nominations?
+[16:17:02] <tbm> any last minute nominations?
+[16:18:21] <tbm> Ok, so let's ahead and vote. In the past, we've done one vote for the whole slate if there's only 1 candidate per position, which there is
+[16:18:39] <zobel> i am okay with that.
+[16:18:39] <Ganneff> go
+[16:18:44] <tbm> spectranaut: ^
+[16:19:11] <spectranaut_> Voting started, 9 people ( tbm,schultmc,zobel,luca,hydroxide,tridge,tpot,spectranaut,ganneff) allowed to vote on Vote for Board Officers, as nominated. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:19:16] <schultmc> !vote yes
+[16:19:20] <tridge> !vote yes
+[16:19:21] <spectranaut> !vote yes
+[16:19:25] <Hydroxide> !vote yes
+[16:19:26] <tpot> !vote yes
+[16:19:34] <tbm> !vote yes
+[16:19:35] <Ganneff> !vote yes
+[16:19:37] <luca> !vote yes
+[16:19:38] <zobel> !vote yes
+[16:19:47] <spectranaut_> Current voting results for "Vote for Board Officers, as nominated": Yes: 8, No: 0, Abstain: 0, Missing: 1 (  tbm )
+[16:19:49] <spectranaut_> Voting for "Vote for Board Officers, as nominated" closed.
+[16:20:12] <Hydroxide> Ganneff: thanks for serving as the VP for so long!
+[16:20:16] <tbm> I voted.  seems like whitespace issue
+[16:20:16] <luca> indeed
+[16:20:18] <tbm> Congratulations (or condolences) everyone!
+[16:20:23] <Hydroxide> and thanks to the continuing and new officers.
+[16:20:37] <zobel> Hydroxide: well said.
+[16:20:41] <-- pombreda (~pombreda@host-85-27-11-152.dynamic.voo.be) has quit (Ping timeout: 480 seconds)
+[16:21:06] <tbm> [item 8, Items up for discussion]
+[16:21:10] <tbm> [item 7.1, Board meeting time and date]
+[16:21:23] <tbm> Given the new board, we should check if the current meeting time/date is still okay.
+[16:21:47] <zobel> schultmc: how long can you stay? you said you have a different meeting conflicting with SPI?
+[16:21:49] <tbm> We have 2 directors from Australia now so I don't think we can go much (any) earlier.  Any later is not good for Europe
+[16:22:01] <tridge> tbm: thanks, appreciated :-)
+[16:22:15] <schultmc> my son has an appointment at 2100 UTC - we still need to drive there
+[16:22:19] <tbm> so probably the time is best, I guess.
+[16:22:32] <tbm> Does anyone have a conflict?
+[16:22:34] <Hydroxide> for me it's mostly okay, but now that I have a weekly work meeting ending at our start time, shifting 15 minutes later would make it slightly less likely that I arrive late. not a huge issue either way
+[16:22:42] <schultmc> I need to leave in 10-15 mins or so
+[16:23:00] <tbm> Is there a preference to do it on a different day of the week?
+[16:23:09] <schultmc> that's for today only - most other days I have no conflict
+[16:23:26] <zobel> it seems the day good for anyone, as we are complete.
+[16:23:36] <zobel> can we set a doodle for the time if really needed?
+[16:23:46] <tbm> Sounds like we should keep it
+[16:23:48] <luca> this timeslot is fine by me; if we shift 15 min, i'd like the meeting duration to be limited to 45 min since work
+[16:23:56] <Hydroxide> on other days of the week the near-conflict I described does not apply.
+[16:24:03] <tbm> If there are major objections, please bring it up on the mailing list and we can do a Doodle.
+[16:24:05] <Hydroxide> but none of this is a strong concern for me.
+[16:24:14] <zobel> and proceed with 8.2 so we can vote including schultmc ?
+[16:24:15] <tbm> [item 7.2, Resolution 2017-08-14.mm.1: Removal of FreedomBox as an associated project]
+[16:24:27] <zobel> 7.2?
+[16:24:35] <tbm> FreedomBox has their own 501(c)(3) now, so it makes sense to send their funds to them imho
+[16:24:38] <tbm> 8.2
+[16:24:56] <Hydroxide> yup, and the version of the resolution in the agenda includes a fix to the concern I expressed on the list, so I'm fine with that.
+[16:24:57] <tbm> I incorporated feedback from Hydroxide and limited the automatic forwarding of donations to 12 months
+[16:25:09] <tpot> Does it make sense to state the disposition of funds received after 12 months (item 4)?
+[16:25:14] <tpot> explicitly
+[16:25:16] <tbm> since we don't want to bind SPI too much into the future
+[16:25:32] <tbm> hopefully there won't be new donations after 12 months since we will remove FreedomBox from our web site
+[16:25:35] <Hydroxide> tpot: I don't see why we need to, any more than we need to state how we'd handle funds for any other unaffiliated project
+[16:25:40] <tbm> if there are donations we can decide what to do (probably forward)
+[16:25:45] <Hydroxide> (at least within the context of this resolution)
+[16:25:49] <tpot> sure - but it seems like an obvious corner case (;
+[16:26:01] <tpot> ok
+[16:26:04] <tbm> tridge: we just want to retain some flexibility, so being ambigious here is a feature, not a bug :)
+[16:26:08] <tbm> tpot^
+[16:26:12] <Hydroxide> tpot: it seems like one where we can decide it later on an ad-hoc basis or as part of formalizing a process for unexpected donations.
+[16:26:56] <tbm> spectranaut: I think we're ready to vote.
+[16:27:11] <spectranaut_> Voting started, 9 people (tbm,schultmc,zobel,luca,hydroxide,tridge,tpot,spectranaut,ganneff) allowed to vote on Resolution 2017-08-14.mm.1 Removal of FreedomBox as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:27:16] --> pombreda (~pombreda@host-85-27-11-152.dynamic.voo.be) has joined #spi
+[16:27:18] <zobel> !vote yes
+[16:27:18] <schultmc> !vote yes
+[16:27:19] <tridge> !vote yes
+[16:27:20] <tbm> !vote yes
+[16:27:21] <spectranaut> !vote yes
+[16:27:23] <Hydroxide> !vote yes
+[16:27:24] <Ganneff> !vote yes
+[16:27:31] <tpot> !vote yes
+[16:27:56] <luca> !vote yes
+[16:28:10] <Hydroxide> that's everyone
+[16:28:13] <spectranaut_> Current voting results for "Resolution 2017-08-14.mm.1 Removal of FreedomBox as an associated project": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+[16:28:15] <spectranaut_> Voting for "Resolution 2017-08-14.mm.1 Removal of FreedomBox as an associated project" closed.
+[16:28:44] <tbm> Ok, great
+[16:28:49] <tbm> [item 8.3, Face-to-Face time and date] 
+[16:28:52] <tbm> We have agreed to meet on October 13-14 (Friday and Saturday)
+[16:28:52] <tbm> I asked SFLC if they can host us again but haven't received a reply.
+[16:28:52] <tbm> I'll send out some instructions to the board list soon.
+[16:28:52] <tbm> I started collecting agenda items and will put them on an Etherpad soon.
+[16:29:09] <tbm> It sounds like tpot will be able to join us which is great.
+[16:29:26] <tpot> TZ change is going to be pretty awful
+[16:29:26] <Hydroxide> excellent!
+[16:29:33] <Hydroxide> (excellent except for the TZ change, yes)
+[16:30:01] <Hydroxide> we can find an alternate venue in NYC if we need one, whether gratis or paid
+[16:30:12] <tbm> [item 8.4, Treasurer queue processing]
+[16:30:13] <Hydroxide> though SFLC remains a great first choice.
+[16:31:15] <zobel> who added that? tbm did a very good work on that during DC17
+[16:31:36] <spectranaut> I added it at the request of Fabien Keil
+[16:32:24] <tbm> To be fair, there are a lot of outstanding requests.
+[16:32:31] <spectranaut> who asked about two invoices (TREASURER #1536 and TREASURER #1537)
+[16:32:38] <tbm> Getting Sabrina to pre-process tickets for schultmc should help
+[16:32:52] <tbm> and I'd like to find out from schultmc how zobel and I can help with some work, e.g. writing invoices.
+[16:33:01] <schultmc> yes, pre-processing will help
+[16:33:21] <schultmc> I appreciate the assistance from tbm and zobel and will write up procedures to make me less of a bottleneck
+[16:34:39] <tbm> it's also worth mentioning that schultmc, zobel and I are planning a day before the f2f to do a bookkeeping sprint
+[16:34:53] <tbm> we can look at the backlog and document/discuss procedures
+[16:35:44] <zobel> it would be also worth to consider if Sabrina might be/want to be callable on Oct. 12th.
+[16:36:18] <tbm> good idea
+[16:36:21] <luca> once we have a contract with her, sure
+[16:36:35] <tbm> anyway, I think we're all aware of the backlog but work is in the progress
+[16:36:54] <tbm> [item 9, Any other business]
+[16:36:58] <tbm> anyone not on the agenda?
+[16:37:07] <zobel> yes
+[16:38:08] <zobel> i want to note that tbm and me had a converation with Keith about xorg and he was concerened about a legal document they want SPI to sign
+[16:39:01] <zobel> it looks like a summary that was done by xnox helped a lot to clarify, we currently wait for xorg to respond to one last question
+[16:39:04] <zobel> .
+[16:39:45] <Hydroxide> I think they answered that yesterday, no?
+[16:39:52] <schultmc> gtg - I'll be available via email and online later
+[16:40:04] <tbm> yeah, they did.
+[16:40:12] <zobel> schultmc: see my last query.thxbye
+[16:40:15] <tbm> I think we can sign it soon.  I was hoping to talk to xnox before I sign it
+[16:40:27] --> cdlu (~cdlu@cdlu.advisor.oftc.net) has joined #spi
+[16:40:30] <tbm> anything else?
+[16:40:34] <Hydroxide> is aiming to complete it this week doable? (e.g. before saturday in your time zone)
+[16:41:20] <tbm> I hope so.
+[16:41:49] <Hydroxide> great, thanks!
+[16:42:20] <tbm> [item 10, Next board meeting]
+[16:42:23] <tbm> The next meeting is scheduled for September 11, 2017 unless there are objections.
+[16:43:24] <zobel> wfm
+[16:43:29] <luca> wtfm
+[16:43:40] <luca> omg, finger memory
+[16:43:45] <Hydroxide> :)
+[16:44:00] <tbm> ok
+[16:44:01] <tbm> *GAVEL*
