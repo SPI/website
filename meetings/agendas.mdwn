@@ -17,7 +17,7 @@ Recent meetings:
 
 Agendas by year:
 
-[[!map pages="meetings/agendas/* and ! meetings/agendas/*/*"]]
+[[!inline pages="meetings/agendas/* and ! meetings/agendas/*/*" sort="-title" template=unordered-list-title archive=yes]]
 
 
 [[!meta copyright="Copyright © 2010-2017 Software in the Public Interest, Inc."]]
