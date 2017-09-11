@@ -1,0 +1,188 @@
+[16:00:18] <tbm> *GAVEL*
+[16:00:25] <tbm> [item 1, Opening]
+[16:00:28] <tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[16:00:32] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2017/2017-09-11/
+[16:00:35] <tbm> [item 2, Roll Call]
+[16:00:39] <tbm> Directors, please state your name
+[16:00:41] <zobel> Martin Zobel-Helas
+[16:00:43] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:00:43] <luca> Luca Filipozzi
+[16:00:45] <spectranaut> Valerie Young
+[16:00:46] <tbm> Martin Michlmayr
+[16:00:46] <tridge> Andrew Tridgell
+[16:01:10] <zobel> 5 out of 9
+[16:01:42] <zobel> do we have regrets?
+[16:01:49] <spectranaut> no regrets
+[16:02:07] <spectranaut> does Hydroxide have a meeting right before?
+[16:02:22] <zobel> IIRC yes.
+[16:02:23] <tbm> yes
+[16:02:39] --> tpot (~textual@ppp121-45-200-116.bras1.cbr1.internode.on.net) has joined #spi
+[16:02:42] <zobel> and we miss schultmc, Ganneff, tpot 
+[16:02:48] <zobel> ah, ther is tpot 
+[16:02:49] <tpot> hiho
+[16:02:58] <zobel> tpot: state your full name
+[16:02:59] <tbm> tpot: state your name, stranger! :)
+[16:03:01] <tpot> auto-reconnent not working
+[16:03:07] <tpot> Tim Potter!
+[16:03:17] <tbm> ok, so let's proceed now that we have quroum
+[16:03:18] <zobel> quorum.
+[16:03:22] <tbm> [item 3, President's Report]
+[16:03:26] <tbm> I'm happy to report that I signed SPI up for Directors & Officers
+[16:03:26] <tbm> liability insurance which has been a long-standing request.
+[16:03:26] <tbm> We also signed the legal agreement that X.org requested.
+[16:03:30] <tbm> [item 4, Treasurer's Report]
+[16:03:40] <tbm> Since schultmc is not here, zobel do you have anything?
+[16:03:41] <zobel> \o/
+[16:03:59] <schultmc> Michael Schultheiss
+[16:04:03] <zobel> tbm: yes, 2017-08 is all imported into ledger, mostly already tagged.
+[16:04:21] <Hydroxide> Jimmy Kaplowit, hello
+[16:04:26] <Hydroxide> *Jimmy Kaplowitz
+[16:04:43] <zobel> the change of the Paypal API gives us a mess with the import
+[16:04:50] <zobel> so i have to find out with tridge 
+[16:05:08] <tridge> tpot and I will look at it together 
+[16:05:26] <zobel> i would therefor ask board for permission to give access to the debian's paypal account to tridge if that would be okay.
+[16:05:36] <tridge> that would be appreciated, thanks
+[16:05:46] <tridge> and for tpot too
+[16:05:47] <tbm> sounds good
+[16:06:07] <luca> this is where i should mention: https://pad.riseup.net/p/SPI_Roles_and_Responsibilities
+[16:06:25] <Hydroxide> I agree, seems fine to me. also seems like the treasurer should be able to approve that solo, unless paypal requires otherwise
+[16:06:25] <luca> it would be good to identify the people, the things and the access people have to those things
+[16:06:29] <Hydroxide> but yeah
+[16:06:30] <zobel> beside that, the filed draft reports for 2017-01 to 2017-07 directly after last meeting.
+[16:06:35] <tbm> luca: please add that to the f2f agenda
+[16:06:50] <tbm> we need to create a checklist for things like that
+[16:06:53] <luca> spectranaut: please add that to the f2f agenda :)
+[16:06:58] <zobel> schultmc: anything to add?
+[16:07:00] <spectranaut> haha sure
+[16:07:10] <schultmc> we need to work on transitioning SPI's paypal accounts from Brian Gupta to SPI
+[16:07:11] <tbm> f2f agenda: https://pad.riseup.net/p/SPI_f2f_agenda_October_2017
+[16:07:14] <schultmc> nothing else to add
+[16:07:31] <tbm> I note the following from the August minutes: "Martin Michlmayr asks for the 990 to be drafted in time for a review at the SPI Face-to-Face meeting in October."
+[16:07:36] <tbm> do you think that's possible, schultmc?
+[16:07:51] <schultmc> yes - since we have 2016 closed I can work on getting the 990 ready for review
+[16:07:54] <tridge> I'd also like to get the paypal data published to liasons
+[16:08:14] <zobel> tridge: lets talk about that later.
+[16:08:17] <tbm> tridge: we'd like to get all data published to them
+[16:08:18] <tridge> ok
+[16:08:41] <tbm> ok, so let's move on then?
+[16:08:41] <luca> ( schultmc please action Softchoice's request to give us money )
+[16:08:59] <schultmc> ok
+[16:09:02] <tbm> [item 5, Secretary's report]
+[16:09:07] <zobel> luca: i already have the mail reply open for that.
+[16:09:16] <spectranaut> all the conflict of interest declarations have been uploarded to the board-private git -- accept for Ganneff, whom I ust emailed again
+[16:09:16] <luca> zobel: ok
+[16:09:25] <spectranaut> nothing else to report!
+[16:09:38] <tbm> [item 6, Outstanding minutes]
+[16:09:43] <tbm> The minutes for 14th August 2017 require approval.
+[16:09:43] <tbm> They can be found at http://spi-inc.org/meetings/minutes/2017/2017-08-14/
+[16:10:01] <tbm> I just fixed some minor typos but they look good to me. Anyone else had a chance to read them?
+[16:10:11] <tridge> yes, looked fine to me
+[16:10:20] <zobel> the typos look good to you?  :)
+[16:10:36] <tridge> at 6am most things look good until I've had 2nd coffee
+[16:10:48] <spectranaut> ok to vote?
+[16:11:19] <tbm> yep
+[16:11:26] <spectranaut_> Voting started, 8 people (tbm,zobel,luca,tridge,spectranaut,tpot,schultmc,hydroxide) allowed to vote on Meeting minutes for 14 August 2017. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[16:11:29] <Hydroxide> !vote yes
+[16:11:31] <zobel> !vote yes
+[16:11:34] <spectranaut> !vote yes
+[16:11:34] <tridge> !vote yes
+[16:11:35] <tpot> !vote yes
+[16:11:36] <tbm> !vote yes
+[16:11:38] <schultmc> !vote yes
+[16:11:47] <luca> !vote yes
+[16:11:55] <spectranaut_> Current voting results for "Meeting minutes for 14 August 2017": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+[16:11:58] <spectranaut_> Voting for "Meeting minutes for 14 August 2017" closed.
+[16:12:32] <tbm> [item 7, Items up for discussion]
+[16:12:34] --> WickedShell (~WickedShe@24-117-84-87.cpe.cableone.net) has joined #spi
+[16:12:36] <tbm> [item 7, Items up for discussion]
+[16:12:40] <tbm> schultmc
+[16:12:45] <tbm> [item 7.1, General liability insurance]
+[16:12:48] <tbm> schultmc
+[16:13:04] <schultmc> OpenZFS is hosting a conference in San Francisco next month
+[16:14:30] <zobel> yes?
+[16:16:04] <tbm> I think schultmc may have dropped off.
+[16:16:06] <tbm> let's do
+[16:16:07] <tbm> [item 7.3, Administrative clerk contract]
+[16:16:09] <tbm> luca
+[16:16:28] <luca> we submitted the draft to mishi a month ago
+[16:16:44] <luca> i poked her about it yesterday; we've had a few emails today
+[16:17:02] --> schultmc2 (~oftc-webi@2600:1015:b01e:c86f:bcd9:38f:62f:ba19) has joined #spi
+[16:17:09] <luca> i hope that tbm and i have provided sufficient answers for her to produce the final version
+[16:17:10] <schultmc2> sorry - network issues
+[16:17:24] <luca> i've asked for said final version this week
+[16:17:27] <tbm> schultmc2: we'll get back to your item later
+[16:17:30] <schultmc2> ok
+[16:17:52] <tbm> luca: yeah, it seems we're close.
+[16:19:02] <tbm> luca: So no action needed right now. Do you have any questions or comments or should we move on?
+[16:19:30] <luca> we need said contract in place by Friday so that we don't lose any more time on processing DC17 reimbursements
+[16:19:39] <luca> which are now at 30 days old, the first one
+[16:20:13] <tbm> Yes. Assuming Sabrina can process them soon, how much bandwith do you have schultmc2 to do payments
+[16:20:43] <schultmc2> if we have proper payment info and receipts I can get them processed within a week
+[16:20:53] <schultmc2> tracking down info is more time consuming
+[16:20:55] <-- schultmc1 (~schultmc_@sapphire.amellus.net) has quit (Ping timeout: 480 seconds)
+[16:21:36] <tbm> ok, good
+[16:21:55] <luca> tracking down info is Sabrina's responsibility although she'll need some guidance around international payment expectations
+[16:22:01] <luca> but she's a rock star at this, otherwise
+[16:22:05] <tbm> thanks for your work on this Luca.  The instructions were very well written. From what I can
+[16:22:22] <tbm> tell the reimbursement requests are all of high quality, or at least most
+[16:22:35] <tbm> ok, let's move on
+[16:22:35] <tbm> [item 7.1, General liability insurance]
+[16:22:40] <schultmc2> OpenZFS is hosting a conference in San Francisco next month. The contract with the venue states we must have general liability insurance that covers the venue in place by 2017-09-22. I've obtained some preliminary quotes and the expense should be roughly $350.
+[16:23:28] <schultmc2> discussions with the board seem to have consensus that a formal resolution isn't necessary for this. this is primarily for notification purposes
+[16:23:47] <luca> thanks
+[16:24:06] <tbm> I agree. I'd just go ahead. Thanks for investigating this, Michael
+[16:24:13] <schultmc2> no problem
+[16:24:27] <zobel> schultmc2: go for it
+[16:24:57] <tbm> [item 7.2, IT transition]
+[16:25:08] <tbm> I was hoping for Ganneff to be here, but since he's not I think we have to do this offline
+[16:25:18] <tbm> I hope Ganneff can provide some information about the infrastructure soon.
+[16:25:39] <tbm> [item 8, Any other business]
+[16:25:42] <tbm> Anything else?
+[16:25:42] <luca> FTR, hand off has not occurred.
+[16:25:43] -*- schultmc2 has some infrastructure knowledge but Ganneff definitely has the most up to date and comprehensive knowledge
+[16:26:05] <spectranaut> hotels for the f2f -- has anyone looked more into it?
+[16:26:06] -*- schultmc2 can assist in granting luca access
+[16:26:07] <zobel> luca: do you have root already?
+[16:26:18] <tbm> I hope Ganneff, luca and schultmc2 can do an IRC meeting soon
+[16:26:21] -*- schultmc2 booked his hotel
+[16:26:25] <luca> schultmc2: thanks but would also appreciate a one-pager
+[16:26:27] <luca> zobel: no
+[16:26:31] <tbm> I'm hoping to look into hotels and book tomorrow.  If anyone needs booking, email me with details
+[16:26:40] <schultmc2> my wife and I are coming out a few days early
+[16:26:49] <tbm> schultmc2: maybe you can write one pager and Ganneff add to it
+[16:26:53] <Hydroxide> one other brief item: I recently deposited over US$5000 of funds left over from DebConf17 into SPI's checking account, and provided the receipts to the treasurer team via RT. did those come through okay and is anything else needed on that front?
+[16:26:59] <luca> spectranaut: i'm staying at the ~Y M C A~
+[16:27:03] <schultmc2> tbm: sure
+[16:27:37] <zobel> Hydroxide: that was done after Sep 1st, right?
+[16:27:41] <Hydroxide> correct
+[16:27:49] <Hydroxide> on September 9, specifically
+[16:27:57] <Hydroxide> (Saturday, in person, with a human at the bank)
+[16:28:05] <zobel> k.
+[16:28:43] <schultmc2> checking now
+[16:29:11] <schultmc2> I see deposits for $5,090.63        and $20
+[16:29:15] <Hydroxide> that's correct, yes
+[16:29:50] <Hydroxide> they had to handle the single US$20 bill separately from the nine Canada Post-issued US dollar money orders :)
+[16:29:54] <-- wushin (~edie@cpe-72-128-74-81.wi.res.rr.com) has quit (Remote host closed the connection)
+[16:30:04] <tbm> Ok, to summarize:
+[16:30:06] <zobel> can we close the meeting?
+[16:30:17] <tbm> 1) schultmc2 will provide one pager about IT and Ganneff will add to it we hope
+[16:30:23] <tbm> 2) Hydroxide did deposit and it has been received
+[16:30:27] <Hydroxide> I'm fine with closing the meeting, I just hadn't heard an acknowledgement until now, hence the mention. thanks
+[16:30:36] <tbm> 3) tbm will look into hotels tomorrow. If anyone needs something, email me
+[16:30:39] <tbm> 4) anything else?
+[16:30:47] <tbm> otherwise I agree with zobel :)
+[16:31:07] <zobel> no.
+[16:31:09] <Hydroxide> tbm: if you want me to remind you about the hotel I booked in February, let me know. but you probably have that info already. thanks for running an efficient meeting!
+[16:31:30] <tbm> [item 9, Next board meeting]
+[16:31:33] <tbm> The next board meeting is scheduled for: October 9, 2017
+[16:31:37] <tbm> Historically, we've done an IRC meeting in the month we have a f2f to get 
+[16:31:37] <tbm> the admin work out of the way.  But I believe this has never worked well
+[16:31:37] <tbm> due to low interest.  So I suggest we skip the October 9 meeting since 
+[16:31:37] <tbm> most of the board will be meeting a week later in person.
+[16:31:41] <tbm> The next IRC board meeting would therefore be: November 13, 2017
+[16:31:41] <tbm> Any objections?
+[16:31:49] <schultmc2> no objections
+[16:32:03] <luca> no objections
+[16:32:04] <tbm> If we need a vote, we can always do it via email
+[16:32:10] <tbm> ok, thanks everyone!
+[16:32:13] <tbm> *GAVEL*
