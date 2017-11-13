@@ -61,11 +61,11 @@ __Registered guests present__
   * Question: How should contributing membership, and non-contributing membership, be possible to lose, other than death or voluntary withdrawal?
     * Conclusion:
       * These criteria will be delegated by the bylaws to a separate membership guidelines document. To allow the members time to object, changes to this document will take effect 30 days after publication.
-      * Removal criteria: if someone violated SPI expect behavior, such as documented in Code of Conduct (to be written).
+      * Removal criteria: if someone violated SPI expect behavior, such as documented in the Code of Conduct (to be written).
   * Question: Should it be possible for directors to lose contributing membership or all membership while in office? Should this circumstance cut short current terms of office or only prevent new ones?
     * Conclusion:
-        * Since serving as an SPI director is itself a form of active contribution to the free and open source software community, directors should lose contributing membership unless their inactivity additionally causes removal from the board.
-  * Question: Does a member have to be a member of associated project?
+        * Since serving as an SPI director is itself a form of active contribution to the free and open source software community, directors should not lose contributing membership unless their inactivity additionally causes removal from the board.
+  * Question: Does a member have to be a member of an associated project?
     * Conclusion:
       * No.
   * Question: Is it correct that we want all officers to be chosen from the directors by the directors? Should an officer cease to be an officer if they cease to be a director, a contributing member, or a member at all? Aside from that, how should an officer lose their position?
@@ -75,16 +75,16 @@ __Registered guests present__
     * Change title of "Committees" to "committees of the board"
 
 ### Adoption of new bylaws
-  * SPI presently has 254 contributing members. According to current bylaws, 170 members must vote yes for the new bylaws to get adopted.
+  * SPI presently has 254 contributing members. According to the current bylaws, 170 members must vote yes for the new bylaws to get adopted.
   * The bylaws draft has been reviewed and discussed by the membership 3 times, with substantial edits after each discussion.
   * The latest draft had no objections from the membership.
-  * Jimmy Kaplowitz submitted the last-est draft to review from our lawyers, and they had a few questions (addressed in the previous section of this meeting) and changes.
+  * Jimmy Kaplowitz submitted the latest draft to review from our lawyers, and they had a few questions (addressed in the previous section of this meeting) and changes.
   * Decisions:
-    * The board agrees to try to keep changes from our lawyers to minimum in order to maintain support from the membership. In particular, the board hopes to keep the content of the "Amendment" section similar, although we might simplify the process or wording.
-    * Kaplowitz will incorporate decision made a this board meeting into the bylaws draft with the goal of a board vote on the bylaws at the November or December 2017 meeting. The board agrees to aim for a member vote on the bylaws in Jan 2018.
+    * The board agrees to try to keep changes from our lawyers to a minimum in order to maintain support from the membership. In particular, the board hopes to keep the content of the "Amendment" section similar, although we might simplify the process or wording.
+    * Kaplowitz will incorporate decision made at this board meeting into the bylaws draft with the goal of a board vote on the bylaws at the November or December 2017 meeting. The board agrees to aim for a member vote on the bylaws in January 2018.
 
 ### Adhoc Committee
-  * SPI would like have formalized a structure for committees of both board and non-board members. Specifically, we would like to see this structure for a membership and sys admin committee.
+  * SPI would like have formalized a structure for committees of both board and non-board members. Specifically, we would like to see this structure for a membership and sysadmin committee.
   * Decisions:
     * In a resolution, Luca Filipozzi will document the expected structure and requirement of a terms of reference for new adhoc committees.
     * Terms of reference should include:
@@ -107,7 +107,7 @@ __Registered guests present__
 ### Resolutions
   * It is not easy to see which resolutions are still active (specifically, are being followed and have not been nullified) on the spi-inc.org website.
   * Decision:
-    * In 2018, the board will review and mark all resolutions as either active or deprecated. Valerie Young will add to a future agenda in order for this action item to not be lost.
+    * In 2018, the board will review and mark all resolutions as either active or deprecated. Valerie Young will add to a future agenda in order for this action item not to be lost.
 
 ### Board advisors
   * SPI meetings are public, SPI invites everyone to participate and provide feedback. The existence of board advisors appears to fulfill a historical need and are presently unnecessary.
@@ -123,9 +123,9 @@ __Registered guests present__
       * Should SPI require multiple liaisons in order to prevent the possibility of a liaison approving their own expenses?
       * When will SPI declare a project dissolved?
       * What will SPI do with assets when SPI declares a project dissolved?
-      * Ask projects to published expense reimbursement policy, or defaults to SPI. All member project's expenses are reviewed for compliance with 501c3 requirements.
+      * Ask projects to publish an expense reimbursement policy, or default to SPI. All member project's expenses are reviewed for compliance with 501c3 requirements.
       * What other "best practices" documents might be referred to, such as a Code of Conduct?
-      * SPI should keep within its tradition of having a "hands-off" relationship with it's associated projects.
+      * SPI should keep within its tradition of having a "hands-off" relationship with its associated projects.
       * Ability to evolve this document in the future.
 
 ### Defunct projects 
@@ -144,28 +144,28 @@ __Registered guests present__
         * Yafaray recently tried to buy books
       * drizzle
   * Decisions:
-    * Martin Michmayr will attempt to contact all of the above projects.
+    * Martin Michlmayr will attempt to contact all of the above projects.
     * This work could be done in parallel with adoption of new terms and conditions document.
 
 ### Infrastructure (Operations)
   * Do we have a list of domain names we own?
-    * Look in UI for Mythic Beasts and Ghandi
+    * Look in UI for Mythic Beasts and Gandi
   * Free domain registration/renewal:
-    * Noodles used to own Blackcat Networks which sponsored our domain registrations. He sold Blackcat to Mythic-Beasts which continues to sponsor our domains. We email their support and ask to add a sponsored domain. We get unlimited domains as long as they're used for public FOSS projects - they don't like sponsoring internal only domains (i.e. ones that only resolve to RFC1918 IP space)
+    * Jonathan McDowell used to own Black Cat Networks which sponsored our domain registrations. He sold Black Cat to Mythic-Beasts which continues to sponsor our domains. We email their support and ask to add a sponsored domain. We get unlimited domains as long as they're used for public FOSS projects - they don't like sponsoring internal only domains (i.e. ones that only resolve to RFC1918 IP space)
   * Should the SPI VP be the head of IT?
     * Decision
-      * The SPI VP will no longer be the head of IT. The role of IT/sysadmin will be moved to an adhoc committee. 
+      * The SPI VP is not the head of IT. The role of IT/sysadmin will be moved to an adhoc committee.
       * Luca will try to get all the information necessary for sysadmin, etc
 
 ### Outreach
-  * SPI logo is out of date.
+  * SPI's logo is out of date.
     * Decision:
-      * ask Valesio for new logo
+      * ask Valessio Brito for new logo
   * Annual report looks boring.
-    * Valesio to create backdrop for reports with new logo
+    * Valessio to create backdrop for reports with new logo
   * Social Media
     * Decisions:
-      * Luca Filipozzi will retweet cool free software things.
+      * Luca Filipozzi will retweet cool free software news.
       * Valerie Young will announce the next SPI meeting on twitter and other SPI updates.
       * SPI will consider adding other social media accounts in future, including dlvrit.com (used by Debian).
   * Public Money, Public Code: https://publiccode.eu/
@@ -174,9 +174,9 @@ __Registered guests present__
 ### Finance (Operations)
   * SPI should seek general advice from accountant find out what SPI must do to pass a future financial audit.
   * SPI needs an accountant familiar with non-profit NYC law.
-  * SFC has an accountant and uses a script to export financial data to friendly format for review.
+  * Software Freedom Conservancy has an auditor and uses a script to export financial data to friendly format for review.
   * Decisions:
-    * Martin Michlmayr will seek council of SFC auditor, including guidance on the following:
+    * Martin Michlmayr will seek council of Conservancy auditor, including guidance on the following:
         * chart of accounts
         * approval process?
         * expense policy, what should be in it
@@ -185,7 +185,7 @@ __Registered guests present__
         * possibly review of financial statements
         * what does it take to get from here to get to state we can pass an audit?
         * frequency of audits
-        * New York source fund -- if we have more the $25,000 income from NYC, state law requires yearly audit
+        * New York source fund -- if we have more the $25,000 income from NYC, state law requires annual audit
   * Financial reports: how detailed should they be?
     * Same amount of detail as before.
     * We will make transactions available to projects.
@@ -198,7 +198,7 @@ __Registered guests present__
     * Discussion of expanded duties:
       * accounts receivable - remains with Treasurer for now
       * accounts payable
-        * pre-processing: Sabrina will vet requests for validity, engaging with the Requester as necessary.
+        * pre-processing: Sabrina will vet requests for validity, engaging with the requester as necessary.
         * authorization: Sabrina will seek permission to disburse funds from the Treasurer.
         * disbursement: Sabrina will execute the disbursement using TransferWise or equivalent.
         * post-processing: Sabrina will post entries in SPI's ledger
@@ -207,7 +207,7 @@ __Registered guests present__
     * Discussion of controls / training:
       * determine how to limit the value of transactions that Sabrina can execute in TransferWise and equivalent
         * alternate options: insurance and/or TransferWise Borderless Account
-      * determine how to review transactions post ledgering to detect issues
+      * determine how to review transactions after adding them to ledger to detect issues
       * determine how to provide Sabrina with training regarding ledger and git
 
 
