@@ -1,7 +1,7 @@
 # SPI CA root certificate
 
 SPI run an X.509 certificate authority, which is used both by our internal
-infrastructure as well as some of our associate projects.
+infrastructure as well as some of our associated projects.
 
  * [Root certificate](spi-cacert.crt)
  * [PGP signed copy of the certificate fingerprint](spi-cacert.fingerprint.txt)
