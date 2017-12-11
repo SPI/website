@@ -1,0 +1,106 @@
+20:00 < tbm> *GAVEL*
+20:00 < tbm> [item 1, Opening]
+20:00 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:01 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2017/2017-12-11/
+20:01 < tbm> [item 2, Roll Call]
+20:01 < tbm> Directors, please state your name
+20:01 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+20:01 < spectranaut> Valerie Young
+20:01 < tbm> Martin Michlmayr
+20:01 < schultmc> Michael Schultheiss
+20:01 < tridge> Andrew Tridgell
+20:01 < Hydroxide> Jimmy Kaplowitz
+20:02 < Hydroxide> Ganneff, luca, [tpot in absentia]: ping
+20:02 < tbm> so we need one more
+20:02 < tridge> i've sent an SMS to tpot
+20:02 < Hydroxide> I've just sent a Signal message to Luca
+20:03 -!- tpot [~tpot@124-171-107-74.dyn.iinet.net.au] has joined #spi
+20:03 < tpot> here
+20:03 < Hydroxide> \o/ quorum
+20:03 < tbm> tpot: please state your name
+20:03 < tpot> Tim Potter
+20:03 < tbm> Ok, great
+20:03 < tbm> [item 3, President's Report]
+20:04 < tbm> I'd like to thank Michael for his continued work as treasurer.  I'm happy to see the
+20:04 < tbm> number of outstanding requests go down.
+20:04 < tbm> [item 4, Treasurer's Report]
+20:05 < schultmc> I am continuing to work with zobel on streamlining our reporting and hope to have the remaining outstanding reports released soon.
+20:05 < schultmc> Our Form 990 (federal tax return) and New York State returns were filed and accepted on time
+20:05 < schultmc> The agenda mentions FDIC insurance limits
+20:06 < schultmc> the current FDIC limits are $250,000 of coverage per covered entity per bank
+20:07 < schultmc> SPI currently has over $1,000,000 in assets and thus some of our banks are over the FDIC coverage limit. We are researching additional financial instiutions to open accounts with to brings us below the covered limit
+20:07 < schultmc> SPI's accounts are all with large regional or national banks who are unlikely to fail but it is prudent to be under the FDIC limits.
+20:08 < schultmc> </done>
+20:09 < tbm> Thanks for your work!
+20:09 < tbm> any questions? otherwise we can move on
+20:09 < tbm> thanks for preparing and submitting the 990
+20:09 < schultmc> No problem - thank you for your assistance with treasurer tickets as well
+20:09 < tbm> [item 5, Secretary's report]
+20:09 < spectranaut> nothing to report
+20:09 < tbm> [item 6, Outstanding minutes]
+20:09 < tbm> The minutes for 11th September 2017 require approval.
+20:09 < tbm> They can be found at http://spi-inc.org/meetings/minutes/2017/2017-09-11/
+20:10 < spectranaut> I don't have the voting script, everyone, so I'll hand count :)
+20:10 < spectranaut> Vote (yes, no, abstain) on outstanding minutes Monday, 11th September 2017: Hydroxide spectranaut schultmc tridge tbm tpot
+20:10 < spectranaut> vote: yes
+20:10 < Hydroxide> !vote yes
+20:10 < tridge> vote: yes
+20:10 < schultmc> !vote yes
+20:10 < tpot> vote: yes
+20:10 < tbm> !vote yes
+20:10 < spectranaut> great -- voting passed, minutes approved
+20:10  * Hydroxide grins at our perfect alternation of vote prefixes
+20:11 < spectranaut> The minutes for the F2F 9th-11th of October also require approval
+20:12 < spectranaut> they can be found: http://spi-inc.org/meetings/minutes/2017/2017-10-09-f2f-new-york/
+20:12 < tbm> !vote yes
+20:12 < spectranaut> Vote (yes, no, abstain) on outstanding minutes NYC F2F Meeting, 9th-11th October 2017: Hydroxide spectranaut schultmc tridge tbm tpot
+20:12 < schultmc> !vote yes
+20:12 < spectranaut> vote yes
+20:12 < tridge> !vote: abstain
+20:12 < tpot> vote: yes
+20:12 < Hydroxide> !vote yes
+20:12 < spectranaut> great -- vote passed, minutes approved
+20:13 < tpot> nice alternation again
+20:13 < tbm> [item 7, Items up for discussion]
+20:13 < tbm> [item 7.1, Resolution 2017-10-12.mzh.1]
+20:13 < tbm> zobel proposed this a while ago and Luca kindly made some edits based on feedback
+20:13 < tbm> I think this is ready to vote on
+20:14 < schultmc> did Mishi respond on whether this would be prohibited political/lobbying under 501c3 rules?
+20:15 < tbm> She said during the f2f it wouldn't be lobbying
+20:15 < schultmc> ok
+20:15 < Hydroxide> noting for the record to explain why I'm abstaining: I support the general goal of the campaign and think it's a good thing for SPI to associate with, which is why I'm not voting no, but I do have concerns with the open letter's slightly absolutist assertion that all public code should be released without an exception for covert or national security stuff, hence not voting yes.
+20:15 < Hydroxide> but I'm okay voting
+20:16 < spectranaut> ok sounds like we are good to vote
+20:16 < spectranaut> Vote (yes, no, abstain) on Resolution 2017-10-12.mzh.1: Supporting FSFE's "Public Money, Public Code" campaign: Hydroxide spectranaut schultmc tridge tbm tpot
+20:16 < tbm> !vote yes
+20:16 < tridge> !vote: yes
+20:16 < spectranaut> !vote yes
+20:16 < Hydroxide> !vote abstain
+20:16 < tpot> vote: yes
+20:16 < schultmc> !vote yes
+20:16 < spectranaut> Resolution passed
+20:17 < tbm> [item 7.2, Review of F2F Action Items]
+20:18 < spectranaut> can each board member give a quick update on how they are doing with regard to their action items?
+20:18 < spectranaut> they are all listed on todays agenda: http://spi-inc.org/meetings/agendas/2017/2017-12-11/
+20:19 < tbm> unfortunately I haven't been able to work on my action items
+20:19 < spectranaut> I'll cross out the items you have completed in next months action item review
+20:19 < schultmc> I don't see any action items explicitly listed for me but I am researching additional banks for use to utilize to help keep us below the FDIC limit
+20:20 < spectranaut> I wrote a code of conduct and emailed the SPI board, no responses yet. I haven't done the others but I'll start advertising SPI meetings on our twitter account starting this month, and work with luca on a membership committee
+20:21 < Hydroxide> for my items: Ian Jackson was fine with my wording re: membership; I updated several SPI web pages to better document SPI's relationship with member projects; I haven't yet emailed mishi but it's still on my to-do list; and I spent a bunch of time successfully completing an action item that came up during the F2F after we left SFLC: we now have G Suite for Nonprofits, which we at least want to use for
+20:21 < Hydroxide> Google Voice for Paypal purposes, but don't have to migrate to any more than we want. luca, schultmc, and I currently have G Suite super admin access there; and this service is gratis.
+20:22 < spectranaut> tpot: you had just one item, did you complete it?
+20:22 < tpot> sorry i didn't realise that i had it - will get it done before the next meeting
+20:22 < spectranaut> great thanks! :)
+20:22 < spectranaut> that's everyone
+20:23 < tbm> [item 8, Any other business]
+20:23 < tbm> Anything?
+20:23 < Hydroxide> one item - maybe we should consult Ganneff to see if he's going to be able to attend more reliably in 2018
+20:24 < tbm> agreed
+20:25 < tbm> anything else?
+20:25 < tbm> [item 9, Next board meeting]
+20:25 < tbm> The next board meeting is scheduled for: January 8th, 2018
+20:25 < tbm> Any objections?
+20:26 < spectranaut> I will not be able to attend
+20:26 < spectranaut> I'll be on vacation -- but that is not an objection
+20:26 < tbm> ok, let's see if we get more regrets early January
+20:26 < tbm> *GAVEL*
