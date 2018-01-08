@@ -55,7 +55,7 @@ archives when you are added to the list.
 SPI has a number of public and private Git repositories.  You can see list
 of repositories you have access to by making an SSH connection to
 `git@git.spi-inc.org`.  The public Git repositories can also be found in
-[Gitweb](http://git.spi-inc.org/gitweb/).
+[Gitweb](https://git.spi-inc.org/gitweb/).
 
 The URL form for these repos with SSH access is
 `git@git.spi-inc.org:REPO.git`, so once your SSH public key has been added
@@ -77,7 +77,7 @@ When you become a director, please add your address and phone number to
 `Director_Contact_Details` in the private board repository so we have your
 contact details in case we cannot get hold of you via email.
 
-The [public board repository](http://git.spi-inc.org/gitweb/?p=board.git)
+The [public board repository](https://git.spi-inc.org/gitweb/?p=board.git)
 contains some interesting material, so please make yourself familiar with
 it.  Please also check out the [other onboarding information](../) to get
 more familiar with the operation of SPI.
@@ -88,7 +88,7 @@ any forced pushes.
 
 ## Email aliases
 
-You can see a [current list of SPI email aliases](http://git.spi-inc.org/gitweb/?p=puppet.git;a=blob;f=modules/postfix/files/virtual-spi-inc.org)
+You can see a [current list of SPI email aliases](https://git.spi-inc.org/gitweb/?p=puppet.git;a=blob;f=modules/postfix/files/virtual-spi-inc.org)
 
 When you become a board member you may request an email alias to be added
 to that list.  Please email the `sysadmin` alias.
