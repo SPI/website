@@ -1,0 +1,61 @@
+--- Day changed Thu Apr 14 2016
+02:23:50 < Solver> I prefer to move it one week but can do either date
+04:10:10 -!- SuppliedRelic [sid52418@highgate.irccloud.com] has quit [Ping timeout: 480 seconds]
+04:11:26 -!- SuppliedRelic [sid52418@id-52418.highgate.irccloud.com] has joined #spi
+07:05:36 -!- variable [~meh@00018411.user.oftc.net] has joined #spi
+07:39:08 -!- variable [~meh@00018411.user.oftc.net] has quit [Quit: 1 found in /dev/zero]
+08:08:33 -!- badon is now known as Guest474
+08:08:33 -!- badon [~badon@104.244.157.16] has joined #spi
+08:14:29 -!- Guest474 [~badon@104.244.157.16] has quit [Ping timeout: 480 seconds]
+10:08:25 < Noodles> So, er, if the board meeting isn't on tonight it would be nice as someone planning to attend to see some confirmation of that - I assume from Solver/linuxhiker above there's discussion on -board?
+11:01:49 -!- gio [~gio@2001:760:2c00:8253:3e97:eff:fe66:d08e] has joined #spi
+12:57:00 -!- tetris4 [~tetris4@53564E62.cm-6-7b.dynamic.ziggo.nl] has joined #spi
+13:59:39 -!- Crofton [~balister@ip-64-134-242-233.public.wayport.net] has joined #spi
+14:06:12 -!- Crofton [~balister@ip-64-134-242-233.public.wayport.net] has quit [Quit: Leaving]
+14:32:31 < Solver> I'll be turning up unless there is official notice of a change of date
+14:35:02 < Solver> There was a discussion yes.  A alternative time was proposed but I haven't seen offical notice of a change.  Presumably there must be a minimum period of notice.
+14:35:37 < Solver> As far as I can see the original scheduled meeting is on as planned.
+15:10:16 < Noodles> Risk of non-quorum I assume?
+16:30:37 < Solver> yeah.  3 probable or definite regrets at this point I believe
+16:54:43 -!- gio [~gio@2001:760:2c00:8253:3e97:eff:fe66:d08e] has quit [Ping timeout: 480 seconds]
+19:32:00 -!- bkuhn [~bkuhn@169.red-81-47-161.staticip.rima-tde.net] has joined #spi
+19:52:38 < luca> /6/8
+20:04:08 -!- bkuhn [~bkuhn@169.red-81-47-161.staticip.rima-tde.net] has quit [Quit: online sporadically due to conference]
+20:20:03 -!- Crofton|work [~balister@pool-71-171-15-136.ronkva.east.verizon.net] has quit [Remote host closed the connection]
+20:21:39 < linuxhiker> Noodles: It isn't my call, I believe it would have to come from bdale
+20:22:47 < linuxhiker> Solver: I can definitely pop in
+20:32:07 -!- bkerensa [uid28455@id-28455.highgate.irccloud.com] has joined #spi
+21:03:53 -!- Crofton [~balister@pool-71-171-15-136.ronkva.east.verizon.net] has joined #spi
+21:50:24 -!- Crofton|work [~balister@pool-71-171-15-136.ronkva.east.verizon.net] has joined #spi
+22:15:58 < Noodles> Hmmmm. Topic says 21:30 UTC, the date command is 20:30 UTC. Which is it? 1hr17 or 17 minutes? I was assuming the latter from the announcements / usual practise.
+22:25:17 < bkerensa> Supposedly still 21:30 UTC
+22:25:28 < bkerensa> but I hear it might be cancelled due to lack of quorum
+22:25:45 -!- Netsplit over, joins: zerick
+22:25:45 -!- Netsplit resistance.oftc.net <-> graviton.oftc.net quits: linuxhiker, genpaku, devil, lucas, Clint, bkerensa
+22:25:46 -!- devil [~quassel@ip-95-223-146-24.hsi16.unitymediagroup.de] has joined #spi
+22:25:58 < schultmc1> http://www.spi-inc.org/meetings/agendas/2016/2016-04-14/ says 20:30
+22:26:03 -!- schultmc1 is now known as schultmc
+22:26:11 -!- Netsplit over, joins: genpaku
+22:26:57 -!- Netsplit over, joins: lucas, bkerensa
+22:26:59 -!- lucas [~lucas@xanadu.blop.info] has quit [Max SendQ exceeded]
+22:28:12 -!- Netsplit over, joins: linuxhiker
+22:30:47 < Solver> that'd be now
+22:31:32 -!- lucas [~lucas@xanadu.blop.info] has joined #spi
+22:32:50 -!- paolorotolo [974869e9@107.161.19.53] has joined #spi
+22:36:44 < Noodles> Or not.
+22:37:26 < Solver> indeed
+22:41:56 < bkerensa> :D
+22:43:29 -!- paolorotolo [974869e9@107.161.19.53] has quit [Quit: http://www.kiwiirc.com/ - A hand crafted IRC client]
+22:46:26 -!- paolorotolo [~paolo@151.72.105.233] has joined #spi
+22:46:31 < Noodles> FWIW 117 contributing members currently deemed inactive (final purge happening next week).
+22:49:41 < bkerensa> Hmm well looks like indeed no meeting
+22:49:59 < bkerensa> if anyone has questions about Glucosio and our request to be an associated project I'd be happy to answer them
+23:07:10 -!- paolorotolo [~paolo@151.72.105.233] has quit [Quit: Yaaic - Yet another Android IRC client - http://www.yaaic.org]
+23:30:17 -!- mahrens [~oftc-webi@x.192.247.173.web-pass.com] has joined #spi
+23:31:08 < Solver> bkerensa: Sorry about that.  I haven't seen an issue like this before but we had several board members busy today.   There were tentative plans to hold it one week later.  I'm sure we'll hear more soon.
+23:33:36 -!- kritter [~oftc-webi@x.192.247.173.web-pass.com] has joined #spi
+23:34:13 < mahrens> So... we're an hour late for the board meeting?
+23:37:54 < Solver> no, looks like it has been deferred.
+23:40:49 < mahrens> Ah, OK.  Do you know when it's been deferred to?
+23:59:00 < linuxhiker> Probably next Friday
+--- Day changed Fri Apr 15 2016
