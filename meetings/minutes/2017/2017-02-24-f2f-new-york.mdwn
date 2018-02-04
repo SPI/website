@@ -146,12 +146,12 @@ __Registered guests present__
         * 3: use a form and RT queues/workflow
         * 4: wait for Software Conservancy's /reimbursorator/, to which we've already contributed USD 10000
     * **DECISION:** It is decided to proceed with option 3 subject to infrastructure concerns (see OBSERVATIONS, below) and evaluate switching to option 4 when it's available.  While option 1 is appealing, the Board felt that it does not match SPI's principles.  Option 2 is of interest but requires more investigation and a longer implementation timeline (likely).
-    * ACTION ITEM: Valerie Young (VY), Michael Schultheiss (MS), Luca Filipozzi (LF), Dimitri Ledkov (DL), and Martin Zobel-Helaz (MZ) to design, develop, deploy and operate a new reimbursement mechanism:
+    * ACTION ITEM: Valerie Young (VY), Michael Schultheiss (MS), Luca Filipozzi (LF), Dimitri Ledkov (DL), and Martin Zobel-Helas (MZ) to design, develop, deploy and operate a new reimbursement mechanism:
         * functional aspects
             * MS/DL/MZ (with input from the accountancy consultant engaged by Martin Michlmayr) to develop an accounting structure (chartfields)
             * MS/DL/MZ to define reimbursement process (data requirements, workflow requirements, approval steps and authorities, etc.)
         * technical aspects
-            * MZ/LF (with Joerg Jaspert) to deploy an SPI-specific two-node ganetic cluster at UBC for SPI to house a new instance of RT
+            * MZ/LF (with Joerg Jaspert) to deploy an SPI-specific two-node ganeti cluster at UBC for SPI to house a new instance of RT
             * DL/VY to develop a web from that injects form data into RT tickets
             * MZ/LF to develop the RT queues, custom fields, etc. to receive injected tickets and implement
         * timeline:
