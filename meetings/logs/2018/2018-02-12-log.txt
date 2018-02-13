@@ -1,0 +1,255 @@
+20:00 < tbm> *GAVEL*
+20:00 < tbm> [item 1, Opening]
+20:00 < tridge> lots of theory with paypal .... not sure about practice :)
+20:00 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-02-12/
+20:00 < zobel> tridge: yes, in adjustments.ledger.
+20:00 < tbm> [item 2, Roll Call]
+20:00 < tbm> Directors, please state your name
+20:00 < zobel> Martin Zobel-Helas
+20:00 < Hydroxide> Jimmy Kaplowitz
+20:00 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+20:01 < schultmc> Michael Schultheiss
+20:01 < luca> Luca Filipozzi
+20:01 < tridge> Andrew Tridgell
+20:01 < spectranaut> Valerie Young
+20:01 < tbm> Martin Michlmayr
+20:01 < tbm> tpot?
+20:01 < tbm> Ganneff?
+20:01 < tpot> Tim Pottr
+20:01 < tpot> Tim Potter
+20:02 < tbm> I'd like to point out that Joerg (Ganneff) has unfortunately missed many
+20:02 < tbm> meetings and is in violation of the board attendance policy.  I'll email
+20:02 < tbm> him after this meeting to see if he's still interested in being on the
+20:02 < tbm> board.
+20:02 < tbm> [item 3, President's Report]
+20:03 < tbm> I added a report to the agenda: http://spi-inc.org/meetings/agendas/2018/2018-02-12/
+20:03 < tbm> I attended FOSDEM recently and met with some projects. I'll send a report
+20:03 < tbm> to the board soon.
+20:03 < Ganneff> Joerg Jaspert
+20:03 < Ganneff> (sorry, train time)
+20:03 < tbm> Ganneff: oh, good to have you!
+20:04 < tbm> [item 4, Treasurer's Report]
+20:04 < tbm> schultmc, zobel
+20:04 < zobel> schultmc first.
+20:04 < schultmc> zobel, tridge and I have been working on importing data so we can generate reports for 2017 and january 2018. we should have the outstanding 2017 reports out soon
+20:05 < zobel> we have 102 bookings i still need to identify the project for 2017. most of those have RT ticket numbers, where i just need to look them up.
+20:05 < zobel> schultmc and tridge had been very helpful the last days
+20:06 < zobel> i very much hope to finish that by the weekend.
+20:06 < tbm> Ok, that's good to hear. Several projects have been asking for reports
+20:07 < zobel> i know. once we have the bookings ready, i will do 2018-01.
+20:07 < zobel> but i need to close the books for 2017 first.
+20:07 < tbm> Yeah
+20:07 < tbm> Sounds there's good progress
+20:07 < zobel> </done from side>
+20:07 < tbm> schultmc: what about outstanding reimbursements. It seems you're processing incoming requests fairly quickly
+20:07 < tbm> but there are some old ones outstanding
+20:08 < schultmc> tbm: I'm going through RT and should have things caught up in the next few days
+20:08 < tbm> I get the impression you sometimes process in LIFO order, which means old ones never get done (?)
+20:08 < schultmc> FIFO is the standard workflow but occasionally there are additional details that require feedback from the submitter
+20:09 < tbm> Ok
+20:09 < tbm> Keep up the good work
+20:09 < zobel> schultmc: is there something that sabrina could help with?
+20:10 < schultmc> zobel: she's been helpful with debconf reimbursements - if she could make sure all reimbursements have the needed information that would speed things up
+20:11 < zobel> then we should talk to her and/or luca.
+20:11 < tbm> fwiw, I've been doing some triage work in incoming tickets but that's certainly something Sabrina could do
+20:12 < tbm> Let's discuss offline in more detail
+20:12 < luca> zobel: she is happy to take on more responsibility when we're ready to give it to her
+20:12 < tbm> Anything else or should we move on?
+20:12 < schultmc> we can move on
+20:12 < tbm> [item 5, Secretary's report]
+20:12 < spectranaut> Nothing to report.
+20:12 < tbm> [item 6, Outstanding minutes]
+20:12 < tbm> The minutes for 11th December 2017 require approval.
+20:13 < tbm> They can be found at http://spi-inc.org/meetings/minutes/2017/2017-12-11/
+20:13 < spectranaut> no voting script again -- hand counting :)
+20:13 < spectranaut> Vote on Meeting Minutes for Monday, 11th December 2017 - vote yes/no/abstain: zobel Hydroxide tbm schultmc luca tridge tpot spectranaut Ganneff
+20:13 < Hydroxide> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < spectranaut> !vote yes
+20:13 < luca> !vote abstain
+20:13 < tridge> !vote yes
+20:13 < Ganneff> !vote abstain
+20:13 < tpot> !vote yes
+20:13 < zobel> !vote yes
+20:13 < zobel> soory
+20:13 < zobel> !vote abstain
+20:14 < tbm> !vote yes
+20:14 < spectranaut> vote passes!
+20:14 < spectranaut> meeting minutes approved.
+20:14 < tbm> As an aside, looking at the minutes, we passed the resolution regarding
+20:14 < tbm> FSFE's "Public Money, Public Code" campaign
+20:15 < tbm> I informed FSFE about this and we're now listed on their web site
+20:15 < tbm> [item 7, Items up for discussion]
+20:15 < tbm> [item 7.1, Review of F2F Action Items]
+20:15 < luca> i'll go first
+20:16 < luca> of the items listed, i've made progress on only 'sysadmin information', and not much therein
+20:16 < Hydroxide> My update: As per my board@ email yesterday, I've quite recently dug out of a long personal backlog of to-do items and completed my remaining F2F action items except for the second one, which I'll do after Mishi follows up. Hoping to hold the board vote in March if Mishi is responsive. Lining up the member vote with the annual board elections might be ideal to maximize participation. (done)
+20:16 < luca> i finish moving by the end of February so will have more time starting March 1
+20:16 < luca> that is all.
+20:16 < tbm> I contacted some defunct projects but not all. I'll do it this week.
+20:16 < tbm> I reached out to SPI associated projects regarding a thank you page, so this is in progress.
+20:16 < Hydroxide> (sorry for interrupting luca, I misread it as a one-line update instead of 3-line.)
+20:17 < tbm> I spoke to Valessio Brito. He supplied artwork for the annual report (thanks) and needs more input on a potential logo redesign.
+20:17 < luca> Hydroxide: no worries; the overwrite works fine
+20:17 < zobel> i need write a mail for luca and/or sabrina
+20:18 < tbm> Ok, if you have other updates, email spectranaut
+20:18 < tbm> [item 8, Any other business]
+20:18 < tbm> I believe zobel has a topic
+20:18 < spectranaut> I'll put on the agenda for the next's months meeting to discuss reviewing and organizing past resolutions. I haven't done the other action items (display twitter on website or use to announce meetings/resolutions or start work on membership committee)
+20:19 < spectranaut> (that's all from me)
+20:19 < zobel> yes.  there is a law change is europe upcoming called EU GDPR.
+20:19 < zobel> we will be affected by that. and should ask for legal advise.
+20:19 < Ganneff> i have one: I'mm going to resign, will send a mail later.
+20:19 < tbm> EU GDPR = EU General Data Protection Regulation
+20:20 < zobel> i am not so much concerned about www.spi-inc.orgm but rt.spi-inc.org and members.spi-inc.org
+20:20 < zobel> not sure about lists.spi-inc.org
+20:20 < luca> for GDPR, we need to understand SPI's responsibility vs Associated Project's responsibilities
+20:20 < Ganneff> that too
+20:20 < zobel> we should seek for legal advise and i would like to encourage president and/or secretary to do so.
+20:20 < tbm> zobel: right. Do we have specific questions we want to ask? If so, can you email the board
+20:20 < tbm> I'm happy to email Mishi
+20:21 < zobel> tbm: we first need to identify where we collect personal infromation on our systems.
+20:21 < Ganneff> i think it needs someone well versed in this stuff inside .eu
+20:21 < luca> agreed; mishi might need to find support
+20:21 < Ganneff> i think its not only us, but all the projects too, we at least have to get them to deal with it, i think
+20:21 < zobel> tbm: not sure if a legal adivse from a lawayer in the US will help.
+20:22 < Hydroxide> yes, it's worth addressing, but we'll need European advice
+20:22 < tbm> zobel, Ganneff, agreed. But let's start with Mishi and see if she has European contacts, otherwise we can look for someone
+20:22 < zobel> </next>
+20:22 < tbm> I have some contacts (potentially)
+20:23 < Hydroxide> Ganneff: on your plan to resign: thanks for your time on the board! you've contributed a lot over the years.
+20:23 < tbm> Ganneff: thank you for all your work!
+20:23 < Ganneff> just not enough time anymore, and sorry i hadnt been around much lately
+20:23 < Hydroxide> tbm: I wonder if Noodles might know someone - he completed a law degree in Northern Ireland and focused on topics about data privacy, though he's not himself a practicing lawyer.
+20:23 < Ganneff> but i shouldnt block any potential volunteer, so get one with time :)
+20:24 < Ganneff> (also, thanks to SPI, without it I wouldnt have my family!)
+20:24 < tbm> Hydroxide: Noodles actually just /msged me about this. He can speak up for himself if he wants
+20:24 < Hydroxide> ok
+20:24 < Noodles> I've been asked to start looking at this for Debian and was planning to write a mail to board@
+20:25 < tbm> The board needs to decide whether we want to look for an interim director or wait until the election in July
+20:25 < zobel> Ganneff: thank you very much for the very plenty of time you spent on SPI!
+20:26 < spectranaut> I'm sure July will come sooner than we expect
+20:26 < luca> Noodles: that'd be very helpful
+20:26 < luca> Ganneff: thanks
+20:26 < Hydroxide> Noodles: thanks! to be clear, I wasn't suggesting to burden you with doing that directly for SPI - if you're oding that for Debian, that's quite a lot already - just asking about potential contacts you might know.
+20:26 < spectranaut> we can probably wait, rather than spend twice as much time looking for board members? Would we need the intirim board member to be approved by member vote? :?
+20:26 < Hydroxide> s/oding/doing/
+20:26 < Hydroxide> spectranaut: agreed
+20:27 < Hydroxide> spectranaut: no, interim board members are not approved by member vote
+20:27 < Hydroxide> however they have to run at the next board election if they want to stay in office
+20:27 < zobel> spectranaut: no, interim can be appointed by board.
+20:27 < zobel> and i would suggest we do so.
+20:27 < Noodles> To be clear: I am not coming up with the answers for Debian. I'm mostly trying to collate questions and try and get them answered. But I think a good chunk of the questions are common to associated projects.
+20:27 < tbm> otoh, March to July is 4 months
+20:27 < Hydroxide> one thought: with either 8 or 9 board members. board quorum is 6.
+20:28 < Hydroxide> so one fewer board members means one fewer tolerable absence in order to meet quorum
+20:28 < Hydroxide> Noodles: gotcha
+20:29 < tbm> ok, let's talk about the interim director and let's take the GDPR talk offline.
+20:29 < Hydroxide> Noodles: SPI will undoubtedly have some GDPR compliance to handle itself for the data it handles directly, whatever we do or don't have to do for associated projects, but indeed SPI is pretty similar to an associated project for that purpose.
+20:29 < Hydroxide> tbm: sure.
+20:30 < zobel> tbm: i would suggest we think about a new board member. but first, we should wait for an official mail from Ganneff
+20:30 < Ganneff> wiiting it
+20:30 < Ganneff> out now
+20:31 < tbm> Does Ganneff's resignation change anything for the election in July? I believe he was planning on resigning in July anyway, right?
+20:31 < tbm> to fix the staggered board terms
+20:31 < Ganneff> i was
+20:32 < Ganneff> for that, and for me not wanting to go to the US for the F2F meeting - which is important for the board now
+20:32 < Hydroxide> I think we needed another July resignation too, yes, if we wanted to fix things in that way?
+20:32 < Hydroxide> one of {spectranaut, me, zobel} - though of course whoever does so could run for another three-year term if desired.
+20:33 < luca> Election 2018:
+20:33 < luca> - 1 from B.remove(Ledkov): Schultheiss
+20:33 < luca> - 2 from C.remove(Tridgell): Jasspert + TBD
+20:33 < luca> -s
+20:33 < luca> so, yes, need another volunteer from group C
+20:33 < luca> C = ( Filipozzi, Jaspert, Kaplowitz, Tridgell, Young, Zobel-Helas )
+20:33 < tridge> i'm happy to go up for election again
+20:34 < tridge> I may get lucky and not get elected :-)
+20:34 < Ganneff> i bet you wont
+20:34 < Hydroxide> I would be open to doing that, since my life is at a transitional moment. I would probably run again if things stabilize in a way where I still have time for SPI. otherwise I will aim to get the bylaws done before my term ends.
+20:34 < Ganneff> (get lucky)
+20:34 < Hydroxide> luca, tridge: I think we want someone who was last elected in 2016 like me, zobel, spectranaut; not a 2017 winner like you
+20:34 < Hydroxide> *like tridge
+20:34 < Hydroxide> actually luca was also 2016
+20:35 < spectranaut> I'm happy to go up for re-election if needed
+20:35 < luca> group C are the 2017 people
+20:35 < Hydroxide> so basically anyone except schultmc (who is up for election anyway) or the australians
+20:35 < tridge> it doesn't strictly matter though does it?
+20:35 < Hydroxide> luca: I'm looking at http://www.spi-inc.org/meetings/minutes/2017/2017-12-11/
+20:35 < Ganneff> tridge: it makes a 3 3 3 schedule again
+20:35 < spectranaut> it seems like we will get volunteers :)
+20:35 < Hydroxide> tridge: none of this strictly matters, it's just trying to even out the cycles
+20:35 < luca> first to write the email wins
+20:35 < Hydroxide> tridge: since currently each election is for a full three-year term.
+20:35 < luca> gpg signed
+20:35 < Hydroxide> hah
+20:35 < luca> i mean, we have standards
+20:36 < tbm> Hydroxide is right
+20:36 < spectranaut> should we dicuss whether we want to find an interim board member now?
+20:36 < spectranaut> and how to do ti?
+20:36  * Ganneff thinks: ask for volunteers for an early start, wont hurt and can help a load.
+20:37 < tbm> anyway, we have to figure that out by July so there's some time
+20:37 < tbm> but we should decide if we want to appoint an interim board member
+20:37 < Hydroxide> this staggered board term issue will prospectively go away if the new bylaws get approved, though I still imagine we're unlikely to reach the current bylaws' 2/3 approval threshold.
+20:37 < tbm> I don't have strong feelings either way
+20:37 < zobel> i would suggest, we do.
+20:37 < spectranaut> Should we ask for volunteers from the announce or general list?
+20:38 < Hydroxide> that sounds good. it's worth mentioning that we'd like someone who's willing to run for a full three-year term this july, and to visit NYC for the F2F annually around late september.
+20:39 < Hydroxide> (we could sponsor visas if they need it; attending a board meeting is a perfectly valid reason for a B1 visa)
+20:39 < spectranaut> I can write that email
+20:39 < spectranaut> which list should I send it to
+20:39 < Ganneff> general
+20:39 < spectranaut> and once we get volunteers, how will we decide between them?
+20:39 < tbm> the board decides
+20:39 < Hydroxide> subjective judgment call :)
+20:40 < tbm> there won't be a vote by the members
+20:40 < spectranaut> will we decided in the next board meeting or just on the board list?
+20:40 < Hydroxide> the members will get their say in july if we pick someone bad.
+20:40 < zobel> ok
+20:40 < zobel> wfm
+20:40 < Hydroxide> spectranaut: it needs a board vote, which either means the monthly meeting or a unanimous email vote of all board members.
+20:40 < spectranaut> ok cool
+20:41 < tbm> I was appointed interim director a few years ago. The board passed a resolution:
+20:41 < tbm> http://spi-inc.org/corporate/resolutions/2014/2014-05-06.jrk.1/
+20:41 < tbm> so if there is a suitable candidate, we can pass a resolution in the March meeting
+20:41 < spectranaut> great
+20:41 < zobel> spectranaut: so you need to run a "run for spi board" campain now :)
+20:42 < spectranaut> zobel: want to tweet that we'd like an interim board member volunteer? :)
+20:42 < spectranaut> or I can finally figure out how XD
+20:42 < tbm> I'd like to talk about IT briefly
+20:43 < luca> go for it
+20:43 < zobel> spectranaut: see PM
+20:43 < tbm> I'm happy to see that Luca will have more time soon :)
+20:43 < tbm> I spoke to Noodles at FOSDEM and he might be interested in doing some work
+20:43 < tbm> it would be great if Luca could put together a plan
+20:43 < luca> great; it needs a team
+20:43 < tbm> I also hope that Ganneff can help with the transition if there are any questions
+20:43 < luca> after March 1
+20:43 < Ganneff> only thing is that VP is head, rest can be whatever (as long as members)
+20:43 < Ganneff> ack
+20:44 < tbm> luca: can you put together a plan / TODO list for the next meeting?
+20:44 < tbm> It's after March 1 :)
+20:44 < luca> yes
+20:44 < tbm> Ok excellent
+20:44 < tbm> Thank you, Luca
+20:44 < tbm> (and Ganneff and Noodles and schultmc ...)
+20:44 < tbm> Any other business?
+20:46 < Ganneff> luca: you got MASTER in #spi chanserv now.
+20:46 < Ganneff> (and #spi-admin in case you want to revive that)
+20:46 < tbm> Ok, so let's follow up offline (zobel, spectranaut, twitter & looking for candidates; GDPR; Sabrina etc)
+20:47 < tbm> #spi access should be documented somewhere
+20:47 < Ganneff> its in chanserv :)
+20:47 < luca> it's an OFTC thing, so chanserv
+20:47 < tbm> yeah, I know, but e.g. who has access and to add it to the checklist
+20:47 < tbm> anyway
+20:47 < tbm> [item 9, Next board meeting]
+20:47 < tbm> The next board meeting is scheduled for: March 12th, 2018
+20:48 < tbm> Any objections?
+20:48 < Ganneff> admin has master, others had chanop on request (historifcally)
+20:48 < zobel> wfm
+20:48 < Hydroxide> Our scheduled meeting time of 20:00 UTC is one hour later in US and Canadian time zones beginning in March. In April, the local time becomes one hour later in Europe and one hour earlier in parts of Australia (unsure whether this affects tpot and tridge). Is 20:00 UTC still good for everyone? It's tentatively fine for me, though I'll have moved NYC->Montreal so I can't predict my life with certainty.
+20:49 < spectranaut> good for me
+20:49 < tbm> Ok great
+20:49 < tbm> Thanks everyone
+20:49 < tbm> and thank you, Ganneff, for everything!
+20:49 < tbm> *GAVEL*
