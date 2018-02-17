@@ -2,14 +2,20 @@
 
 SPI operates an instance of Request Tracker (RT) to keep track of
 various outstanding tasks and requests.  If you have a request, you can
-open a new ticket by sending an email to the following address at the
-`rt.spi-inc.org` domain:
+open a new ticket by sending an email to one of the following addresses
+at the `rt.spi-inc.org` domain:
 
 * sysadmin: for sys admin related requests
 * treasurer: for [treasurer](/treasurer/) related requests
 * board: for [board](../board/) related requests.  However, please be
   aware that for the majority of board enquiries, we prefer an email
   to the [board list](../board/).
+
+Please put a summary of your request or issue in the `Subject` line of
+your email and add a detailed description in the body.
+
+You'll receive an email confirmation with a ticket number.  We'll
+respond to your ticket by email.
 
 Tickets in our RT system are not publicly visible since they may contain
 sensitive information (e.g. reimbursement requests with receipts and
