@@ -1,0 +1,133 @@
+# Board Meeting, February 12th, 2018
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Luca Filipozzi (luca) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* Joerg Jaspert (Ganneff)
+* Jimmy Kaplowitz (Hydroxide)
+* Tim Potter (tpot)
+* Andrew Tridgell (tridge)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* Jonathan McDowell (Noodles)
+
+
+These are the minutes for the February 12th, 2018 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2018/2018-02-12-log.txt).
+
+
+## President's Report
+
+<pre>
+I attended FOSDEM recently and met with some projects. I'll send a report
+to the board soon.
+
+Several projects have asked for monthly treasurer reports and a report
+for 2017. It has to be high priority for us to deliver on this.
+
+IT is also an area of concern to me.
+</pre>
+
+## Treasurer's report
+
+Michael Schultheiss, Martin Zobel-Helas and Andrew Tridgell have been working to import account data with accurate metadata in order to generate project specific reports for 2017 and January 2018. The outstanding 2017 reports will be release as soon as the coming weekend.
+
+Martin Michlmayr thanks Schultheiss for his quick response on incoming reimbursement requests and asks about the old outstanding requests in RT. Zobel-Helas recommends asking Sabrina to help with reimbursement requests outside of the DebConf requests, and Schultheiss agrees she could help there as well.
+
+## Secretary's report
+
+Nothing to report.
+
+## Outstanding minutes
+
+<b>Vote on Meeting Minutes for 11th December 2017:</b>
+
+<table><tbody>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Joerg Jaspert</td><td>Abstain</td></tr>
+<tr><td>Luca Filipozzi</td><td>Abstain</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 0 no, 3 abstain, 0 missing.
+
+## Items up for discussion
+
+### Review of F2F Action Items
+
+Jimmy Kaplowitz completed his remaining F2F action items except emailing members the final draft of the bylaws amendments, which he will do after Mishi responds to his email request for feedback. He hopes we can hold the board vote in March if Mishi is responsive. Lining up the member vote with the annual board elections might be ideal to maximize participation.
+
+Luca Filipozzi had made some progress on documenting sysadmin documentation. Filipozzi notes he is moving this month and will not be able to do more SPI work until March 1st.
+
+Martin Michlmayr has contacted some defunct projects and will contact the rest this week. He has emailed a request to SPI associated projects regarding an SPI thank you page. Michlmayr reached out to Valessio Brito, who has done design work for SPI in the past. Michlmayr thanks Valessio for supplying artwork for the annual report, and informs the board that Brito needs more input on a potential logo redesign.
+
+Martin Zobel-Helas state he still intends to write an email of feedback on Sabrina's work.
+
+Valerie Young will put an agenda item on next months agenda for reviewing and organizing all SPI resolutions.
+
+### Any other business
+
+Martin Michlmayr informed the Free Software Foundation Europe that SPI had passed a resolution in support of their "Public Money, Public Code" campaign and SPI is now listed on their web site.
+
+Martin Zobel-Helas informs the board that the EU General Data Protection Regulation (EU GDPR) is effective beginning May 25 2018. He is concerned whether this regulation will effect SPI's websites, specifically rt.spi-inc.org and members.spi-inc.org. The board agrees SPI will ask for legal advice in order to understand whether this regulation effects SPI, as well as it's member projects. As SPI's legal advice is not specialized in European law, SPI may need to seek advice from outside the SFLC, and will take actions to do so.
+
+Jimmy Kaplowitz mentions Jonathan McDowell may be able to help SPI find a European lawyer who may specialized in European data law. Jonathan McDowell remarks he has been asked by Debian to do that same work and will email the board.
+
+Joerg Jaspert announces his resignation from the SPI Board. The board all thanks him for his great work over his many years as a SPI board member. 
+
+The board decides to ask the spi-member list for a volunteer interim board member. Jimmy Kaplowitz remarks, when asking for an interim director, the board hope for someone who is willing to run for a full three-year term this July and to visit NYC for the F2F annually around late September.
+
+## Adjournment
+
+The meeting was adjourned until Monday, March 12th, 2018 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2018<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>July 2016<br /></td><td>Joerg Jaspert</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2018<br /></td><td>Tim Potter</td></tr>
+<tr><td>July 2018<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+[[!meta copyright="Copyright © 2018 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
