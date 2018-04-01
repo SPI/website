@@ -1,0 +1,11 @@
+sudo: false
+addons:
+  apt:
+    packages:
+      - ikiwiki
+      - libtext-multimarkdown-perl
+      - libimage-magick-perl
+script:
+  - html=$(mktemp -d)
+  - ikiwiki --plugin goodstuff --rebuild --verbose . $html
+  - rm -rf $html

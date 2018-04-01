@@ -1,0 +1,254 @@
+[16:01:53] <tbm> *GAVEL*
+[16:01:56] <tbm> [item 1, Opening]
+[16:02:00] <tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+[16:02:13] <tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-03-12/
+[16:02:17] <tbm> [item 2, Roll Call]
+[16:02:17] <tbm> Directors, please state your name
+[16:02:19] <Hydroxide> Jimmy Kaplowitz
+[16:02:20] <tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+[16:02:20] <schultmc> Michael Schultheiss
+[16:02:20] <zobel> Martin Zobel-Helas
+[16:02:26] <tbm> Martin Michlmayr
+[16:02:32] <zobel> rtyler: please send your name to spectranaut 
+[16:02:55] <rtyler> R Tyler Croy
+[16:02:56] <rtyler> o/
+[16:03:21] <tbm> only 4 directors?
+[16:03:27] <Hydroxide> if we have tpot and tridge, we have quorum now. otherwise we have to wait for luca and/or spectranaut, which might mean pausing until :30
+[16:04:25] <tbm> We have neither tpot nor tridge
+[16:04:43] <tbm> If they don't show up in a few minutes, I'll cancel the meeting.  Is there anything important apart from the resolution?
+[16:04:47] <tbm> We can vote on that by email
+[16:05:27] <tbm> schultmc: while we wait, can you talk to zobel about the information he's looking for
+[16:05:28] <zobel> can we ping them by text message.
+[16:05:50] <Hydroxide> tbm: I guess we could do a unanimous vote by email, but can I suggest that if we get either tpot or tridge, we wait until :30 so that we can get rtyler approved asap? I agree it may not be worth waiting if we have neither soon
+[16:05:59] <schultmc> zobel and I would like to publicly thank The Craigslist Foundation for again supporting the SPI general fund and PostgreSQL
+[16:06:05] <schultmc> tbm: sure
+[16:06:44] <zobel> schultmc: i need access to transferwise. but they require additional login data
+[16:08:09] <tbm> 3..2..1..
+[16:08:42] <Hydroxide> has someone pinged tpot or tridge?
+[16:08:46] <Hydroxide> we should at least try that before abandoning
+[16:09:50] <tbm> I haven't and can't
+[16:09:54] <zobel> i will try
+[16:10:00] <Hydroxide> thanks zobel 
+[16:10:03] --> tpot (~textual@124-171-192-92.dyn.iinet.net.au) has joined #spi
+[16:10:13] <tpot> hiho
+[16:10:19] <zobel> tpot: heyho
+[16:10:23] <tpot> sorry, slept in
+[16:10:29] <zobel> tpot: can you ping tridge?
+[16:10:33] <Hydroxide> ah, we have a tpot. now I think we should try to get tridge too, failing which we should wait until :30 since tpot + spectranaut would give us quorum.
+[16:10:39] <zobel> we need him for quorum
+[16:11:16] <tbm> rtyler: sorry, we've not always like this.
+[16:11:21] <Hydroxide> I'll also ping luca in case he can come 
+[16:12:02] <rtyler> tbm: it's really no big deal to me, I'm used to much worse :)
+[16:12:08] -*- rtyler works a very distributed company
+[16:12:50] <spectranaut> hey done early!
+[16:12:52] <spectranaut> Valerie Young
+[16:13:05] <zobel> quorum!
+[16:13:33] <Hydroxide> \o/
+[16:13:48] <tbm> [item 3, President's Report]
+[16:13:52] <tpot> hoorzy
+[16:13:59] <tbm> I created a sponsors page to thank our big sponsors.
+[16:14:13] <tbm> I'd also like to thank the individual donors that support SPI and our associated projects.
+[16:14:17] <tbm> [item 4, Treasurer's Report]
+[16:14:40] <rtyler> tbm: I'll create a page for the Jenkins sponsors for you to link to as well
+[16:15:38] <tbm> schultmc?
+[16:15:41] <tbm> zobel?
+[16:15:42] <schultmc> zobel and I are continuing to work on finishing up the outstanding bookkeeping needed for the outstanding treasurer's reports. We should be caught up by the end of March.
+[16:16:05] <schultmc> We would also like to publicly thank The Craigslist Foundation for again generously supporting the SPI general fund and PostgreSQL 
+[16:16:20] <tbm> Ok, it would be good to get a report for 2017 soon because projects have been asking for it (as well as monthly reports)
+[16:16:24] <tbm> Is the end of March realistic?
+[16:16:25] <zobel> i still need PDF data for the debian data, i mailed bgupta.
+[16:16:39] <schultmc> end of march is realistic for EOY 2017 data
+[16:16:42] <schultmc> we're close on that
+[16:16:54] <Hydroxide> \p/
+[16:16:55] <zobel> but i can not login to debian paypal due to missing non-us cell phone number.
+[16:17:12] <Hydroxide> zobel: can we fix that with google voice now? that's why we signed up for g suite for nonprofits
+[16:17:21] <Hydroxide> zobel: if you want, I can work with you on setting that up.
+[16:17:29] <zobel> please.
+[16:17:29] <Hydroxide> or luca and schultmc also have the necessary permissions.
+[16:17:32] <Hydroxide> ok
+[16:18:12] <zobel> next?
+[16:18:34] <zobel> tbm: next item?
+[16:18:40] <tbm> [item 5, Secretary's report]
+[16:18:44] <spectranaut> nothing to report.
+[16:18:55] <tbm> [item 6, Outstanding minutes]
+[16:18:59] <tbm> The minutes for 12th February 2018 require approval.
+[16:19:04] <tbm> They can be found at http://spi-inc.org/meetings/minutes/2018/2018-02-12/ 
+[16:19:10] <tbm> Did everyone have a chance to look at them?  They were only added recently
+[16:19:50] -*- schultmc reviewed them
+[16:19:54] -*- Hydroxide too
+[16:20:00] -*- zobel read them and found no errors
+[16:20:14] <spectranaut> cool, we can vote -- no script again :)
+[16:20:16] <spectranaut> Vote on meeting minutes for Monday, 12th February 2018, vote yes/no/abstain
+[16:20:19] <Hydroxide> !vote yes
+[16:20:21] <tbm> !yes
+[16:20:29] <spectranaut> !vote yes
+[16:20:30] <tpot> !vote yes
+[16:20:35] <schultmc> !vote yes
+[16:20:38] <zobel> !vote yes
+[16:20:51] <spectranaut> more consistency this time 
+[16:20:56] <spectranaut> vote passes -- minutes approved
+[16:21:16] <tbm> [item 7, Items up for discussion]
+[16:21:28] <tbm> [item 7.1, Resolution 2018-03-09.mm.1: R. Tyler Croy as interim director]
+[16:21:33] <tbm> Any questions?
+[16:21:45] <zobel> not from my side.
+[16:21:52] <tbm> We received applications from two strong candidates. After careful review and discussion by the board
+[16:21:59] <tbm> I'd like to propose R. Tyler Croy.
+[16:22:13] <tbm> spectranaut: I think we can vote
+[16:22:13] <rtyler> o/
+[16:22:18] <tbm> unless any guests have questions?
+[16:22:30] <tbm> I sent the proposed resolution to spi-general and heard no objections.
+[16:22:43] <spectranaut> seems good to vote!
+[16:22:47] <spectranaut> Vote on Resolution 2018-03-09.mm.1: R. Tyler Croy as interim director, vote yes/no/abstain tbm schultmc zobel spectranaut tpot Hydroxide
+[16:22:52] <tbm> !yes
+[16:22:54] <Hydroxide> !vote yes
+[16:22:59] <schultmc> !vote yes
+[16:22:59] <spectranaut> !vote yes
+[16:23:01] <zobel> !vote yes
+[16:23:05] <tpot> !vote yes
+[16:23:17] <spectranaut> Resolution passes, welcome rtyler! :)
+[16:23:27] <zobel> rtyler: welcome on board.
+[16:23:31] <rtyler> nice to be here :)
+[16:23:33] <Hydroxide> rtyler: congratulations and welcome!
+[16:23:37] <tpot> yes - @rtyler congrats!
+[16:23:47] <tbm> rtyler: congrations and thanks for volunteering!
+[16:23:54] <tbm> rtyler: we have some onboarding info at http://spi-inc.org/corporate/onboarding/
+[16:24:01] <rtyler> perfect
+[16:24:07] <tbm> rtyler: please read that and send questions to board@spi-inc.org
+[16:24:15] <tbm> spectranaut and I will coordinate with you offline to get you addedd
+[16:24:27] <rtyler> is there information about what timezones everybody is in? if I need a little hand-holding in the beginning
+[16:24:41] <tbm> rtyler: if something is unclear or missing from the onboarding info please let me know because I'd like to improve it
+[16:24:50] <rtyler> tbm: understood
+[16:24:56] <schultmc> we should add timezones to board-private
+[16:24:58] --> benoliver999 (~benoliver@198.50.245.34) has joined #spi
+[16:25:03] <spectranaut> with contact info?
+[16:25:07] <tbm> rtyler: we currently have directors from North America, Europe and Australia, so pretty much every timezone
+[16:25:21] <zobel> spectranaut, schultmc: yes
+[16:25:29] <tbm> spectranaut: we store contact info already
+[16:25:39] <Hydroxide> rtyler: I'll /msg you the current time zones of every director, but yes it belongs in the board-private git repo.
+[16:25:55] <rtyler> sounds good
+[16:26:06] <rtyler> will help me understand latency expectations as well :)
+[16:26:09] <tbm> rtyler: I just realize there's one thing I forgot to ask and that you have to do before you can be a director
+[16:26:18] <tbm> rtyler: we have a Conflict of Interest policy that you have to fill out
+[16:26:25] <tbm> http://spi-inc.org/corporate/resolutions/2016/2016-02-10.djl.1/
+[16:26:30] <tbm> rtyler: spectranaut can send it to you to fill out
+[16:26:44] <rtyler> aha, no problem
+[16:26:55] <tbm> spectranaut: tyler@monkeypox.org
+[16:26:56] <spectranaut> I'll send you an email about it
+[16:26:57] <zobel> i run out of battery. can we try to keep the meeting short?
+[16:27:01] <rtyler> is that somtehing to bounce back to spectranaut?
+[16:27:03] <tbm> ok, let's discuss the rest offline
+[16:27:13] <rtyler> aye
+[16:27:21] <tbm> rtyler: yes spectranaut is our secretary
+[16:27:22] <tbm> [item 7.2, Review of old resolutions]
+[16:27:27] <tbm> I think spectranaut added this one
+[16:27:46] <spectranaut> We discusses review old resolutions and organizing by defunct/revoked by
+[16:27:46] <spectranaut> later resolution/active. If some board members had time this month, they
+[16:27:46] <spectranaut> could volunteer, if not, I'll keep on agenda for next month.
+[16:28:19] <spectranaut> Any volunteers, or more to next month?
+[16:28:33] <spectranaut> I myself don't have time in march but could potentially help in April
+[16:28:42] <spectranaut> this is also a request of luca -- who is not here
+[16:29:01] <Hydroxide> I suggest deferring to the next month, then :)
+[16:29:03] <rtyler> would this be something that I could help with as part of my obnoarding/orientation
+[16:29:04] <rtyler> ?
+[16:29:12] <Hydroxide> rtyler: ah, probably
+[16:29:12] <tbm> maybe something for rtyler as he becames familiar with everything :P
+[16:29:15] <tbm> right
+[16:29:33] -*- rtyler has no idea what he's agreeing to
+[16:29:39] <tbm> spectranaut: can you email the board (maybe in a few days after rtyler has been added)
+[16:29:46] <tbm> and then we go from there
+[16:29:48] -*- rtyler nods
+[16:30:01] <spectranaut> rtyler: these resolutions: http://spi-inc.org/corporate/resolutions/
+[16:30:04] <tbm> btw, all superceded resolutions should say so already
+[16:30:08] <Hydroxide> rtyler: just another item in the "clarifying and updating legalese" category
+[16:30:17] <spectranaut> I can send an email with the work to be done here
+[16:30:18] <tbm> and should be striked out in the index page
+[16:30:19] <Hydroxide> (I have a different item in that task)
+[16:30:24] <rtyler> spectranaut: that would be appreciated
+[16:30:47] -*- luca has arrived
+[16:30:48] <tbm> so I'm also not 100% sure what we want to do
+[16:30:55] <zobel> luca: full name?
+[16:30:57] <tbm> although I agree some better organization might be good
+[16:30:59] <luca> sorry that i'm late; this is the middle of my work day
+[16:31:02] <luca> Luca Filipozzi
+[16:31:03] <spectranaut> luca might have an idea of what we should do with the reoslution :)
+[16:31:13] <spectranaut> he can respond to my email
+[16:31:16] <spectranaut> so we can move on
+[16:31:26] <tbm> [item 7.3, Responding to SPI new project inquiries]
+[16:31:31] <spectranaut> My item as well
+[16:31:58] <spectranaut> Frequently, projects come to us requesting information/considering joining SPI -- but the response can be late in coming and usually comes from tbm
+[16:32:10] <spectranaut> however another board member could take this initial reponse as a role
+[16:32:27] <spectranaut> I think we haven't as tbm frequently does, thanks tbm :)
+[16:32:49] <spectranaut> Perhaps I should just volunteer, I don't mind -- but want to give other people the opportunity
+[16:33:05] <spectranaut> any volunteers? Otherwise I'll do it!
+[16:33:18] <tbm> I only respond because generally nobody else does.  But I'd like the whole board to be engaged
+[16:33:21] <rtyler> next time around I might be more prone to volunteering once 
+[16:33:31] <rtyler> *once I on-board
+[16:34:17] <spectranaut> thanks rtyler, I can do it until you are comfortable
+[16:34:29] <tbm> spectranaut: do you think there should be a dedicated person or the whole board?
+[16:34:40] <spectranaut> I think there should be a dedicated person
+[16:34:52] <spectranaut> it's not a hard or frequent job
+[16:36:13] <spectranaut> we can move on, tbm, unless there are any other questions/concerns?
+[16:36:26] <tbm> ok, spectranaut volunteers. The whole board engages more actively in conversations with new projects and we revisit in a few months
+[16:36:49] <tbm> [item 7.4, BitPay]
+[16:36:55] <spectranaut> Another volunteer opportunity!
+[16:37:02] <tbm> Personally, I think putting this on the agenda was premature but we can talk about it
+[16:37:14] <tbm> Basically, we had a request to accept donations of crypto currencies
+[16:37:24] <tbm> BitPay handles Bitcoin but not other crypto currencies, so that's an issue
+[16:37:32] <tpot> I have a rant drafted about this.
+[16:37:39] <tbm> I think we need to evaluate the different payment processors
+[16:37:50] <luca> i think we shouldn't accept *coin
+[16:37:51] <tbm> and probably ask some legal questions on accepting crypto
+[16:37:51] <schultmc> we should discuss with mishi or an accountant on whether it would be wise for us to accept crypto currencies
+[16:38:07] <tpot> Should not be too hard to accept "retail" levels of crypto via a payment processor but large anonymous donations should be right out.
+[16:38:13] <luca> a pure speculation market without any underlying value
+[16:38:16] <tpot> Agree on talking with an acct
+[16:38:36] <tbm> Anyone interested in looking in the open questions?
+[16:38:36] <luca> that facilitates fraud and *locker and whatnot
+[16:38:46] <Hydroxide> it's theoretically okay for us to accept crypto currencies - there are clear tax rules for how to handle it under US law - but if anyone is trying to donate to SPI as a means to engage in tax evasion, we should not facilitate that
+[16:39:00] <rtyler> do we have a specific contact at ASF discuss this with? they've had some interesting challenges with accepting bitcoin donations over the last 6 months
+[16:39:18] <luca> you may count me amongst those opposed to this idea
+[16:39:40] <rtyler> there is a 'foundations' list which I'm a member of which discussed this topic at length, which might be worth reviewing before moving this topic forward
+[16:39:43] <tpot> put me in the "yes, but" category
+[16:39:46] <luca> and i wouldn't say that i'm a luddite
+[16:39:46] <Hydroxide> yeah, I'm mostly opposed to it for the same reasons as luca - it's more hassle than we need and faciliates shady/illegal activities on the part of the donor, though not illegal on our end if we're not colluding
+[16:40:04] <Hydroxide> I suggest we hear rtyler and tpot, but via private email to board@ and/or our lawyer, not publicly in the meeting
+[16:40:11] <rtyler> aye
+[16:40:28] <luca> i look forward to reading the tpot rant
+[16:42:21] <tbm> ok, moving on␛OC
+[16:42:22] <tbm> [item 7.5, F2F Action Item Review]
+[16:42:39] <spectranaut> nothing new to report, from me
+[16:42:49] <Hydroxide> My update:
+[16:42:50] <Hydroxide> I emailed Mishi a couple of days before the February meeting to follow up on the bylaws, then pinged her a week ago having heard nothing. We exchanged emails Friday and Sunday, iterating twice more on the draft, but given that timeline there's nothing to vote on today. 
+[16:42:50] <zobel> nothing new to report, from me
+[16:42:53] <Hydroxide> I'll do my best to avoid further significant delays on my end, as my life is far more stable over the next month than the last month. If Mishi does the same, we should be able to approve bylaws at the April meeting to include as an extra member voting item in the July elections.
+[16:42:58] <Hydroxide> </done>
+[16:43:23] <Hydroxide> err correction, my email was Saturday, not Sunday
+[16:43:46] <luca> My update: my renovations and moves are mostly complete; i'm back online and will resume my activities; first and foremost is evaluating the upgrade of our infra; i propose to move to AWS, to be honest; we aren't doing so much that we need so many different machines or providers
+[16:44:13] <luca> My update (2): secondarily will look at the ad-hoc committee piece, but not urgently
+[16:44:35] <tbm> luca: ok, thanks, looking forward to an IT plan
+[16:44:39] <luca> My update (3): teriarily (sp?) will look at the pruning of resolutions
+[16:44:47] <luca> </done>
+[16:45:06] <Hydroxide> luca: regarding your third item, rtyler semi-volunteered for it as part of onboarding, subject to hearing more info via email after the meeting.
+[16:45:16] <rtyler> heh
+[16:45:18] <Hydroxide> also, "tertiarily", if you insist :P
+[16:46:27] <tbm> Ok then
+[16:46:34] <tbm> [item 8, Any other business]
+[16:46:37] <tbm> Anything else?
+[16:46:42] <spectranaut> oh tbm, did you finish contacting all potentially defunct projects? I remember you mentioned you were part way through the list last time
+[16:46:45] <spectranaut> about action items
+[16:47:06] <tbm> spectranaut: no but hopefully soon
+[16:47:10] <spectranaut> cool
+[16:47:48] <tbm> So nothing else?
+[16:48:07] <zobel> down to 3% battery. i can't promise to stay online much longer.
+[16:48:19] <tbm> [item 9, Next board meeting]
+[16:48:21] <tbm> The next board meeting is scheduled for: April 9th, 2018
+[16:48:24] <tbm> Any objections?
+[16:48:30] <luca> Hydroxide: awesome
+[16:48:34] <rtyler> negative
+[16:48:35] <Hydroxide> just noting that when considering the next meeting time, Europe will have joined North America on summer time, and maybe Australia might have abandoned theirs. we can stick with 20:00 UTC but everyone should consider that.
+[16:48:37] <tbm> Just in time for zobel :)
+[16:48:39] <Hydroxide> it's fine for me.
+[16:48:52] <luca> Hydroxide: thanks for the sp currection
+[16:48:55] <zobel> wfm
+[16:49:00] <spectranaut> fine for me, now, moved my other standing meeting :)
+[16:49:02] <tbm> *GAVEL*
