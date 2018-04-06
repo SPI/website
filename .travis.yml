@@ -8,6 +8,7 @@ addons:
       - git
       - texlive-latex-base
       - texlive-latex-extra
+      - pgf
 script:
   - html=$(mktemp -d)
   - ikiwiki --plugin goodstuff --rebuild --verbose . $html
