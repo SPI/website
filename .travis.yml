@@ -5,7 +5,15 @@ addons:
       - ikiwiki
       - libtext-multimarkdown-perl
       - libimage-magick-perl
+      - git
+      - texlive-latex-base
+      - texlive-latex-extra
 script:
   - html=$(mktemp -d)
   - ikiwiki --plugin goodstuff --rebuild --verbose . $html
   - rm -rf $html
+  - ./bin/restore-timestamp-git-commit corporate/annual-reports
+  - cd corporate/annual-reports
+  - touch *.tex
+  - make all
+  - cd ../..
