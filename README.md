@@ -60,3 +60,5 @@ The SPI web site uses the [Attribution-ShareAlike 3.0 Unported (CC BY-SA
 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) license.  See
 [LICENSE](LICENSE) for the complete license.
 
+The Cantarell font uses the [SIL Open Font License](cantarell.LICENSE).
+
