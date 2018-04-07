@@ -47,6 +47,12 @@ If you want to generate the annual reports, you need:
     apt install git texlive-latex-base texlive-latex-extra
 
 
+Contributions
+-------------
+
+Please see the [information on making contributions](CONTRIBUTING.md).
+
+
 License
 -------
 
