@@ -46,3 +46,11 @@ If you want to generate the annual reports, you need:
 
     apt install git texlive-latex-base texlive-latex-extra
 
+
+License
+-------
+
+The SPI web site uses the [Attribution-ShareAlike 3.0 Unported (CC BY-SA
+3.0)](https://creativecommons.org/licenses/by-sa/3.0/) license.  See
+[LICENSE](LICENSE) for the complete license.
+
