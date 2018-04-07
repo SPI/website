@@ -34,3 +34,15 @@ Please don't commit modified PDFs if there was no change in the LaTeX
 source (for example because you forgot to run
 `bin/restore-timestamp-git-commit`).
 
+
+Dependencies
+------------
+
+In order to build the web site, you need the following software:
+
+    apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
+
+If you want to generate the annual reports, you need:
+
+    apt install git texlive-latex-base texlive-latex-extra
+
