@@ -11,7 +11,7 @@ addons:
       - pgf
 script:
   - html=$(mktemp -d)
-  - ikiwiki --plugin goodstuff --rebuild --verbose . $html
+  - ./bin/build-site . $html
   - rm -rf $html
   - ./bin/restore-timestamp-git-commit corporate/annual-reports
   - cd corporate/annual-reports

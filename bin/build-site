@@ -1,0 +1,40 @@
+#!/bin/sh
+
+URL=https://www.spi-inc.org
+ADMIN_EMAIL=webmaster@spi-inc.org
+
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 SRC DEST" >&2
+    exit 1
+fi
+
+if ! [ -d "$1" ]; then
+    echo "Source directory \"$1\" doesn't exist" >&2
+    exit 1
+fi
+
+if ! [ -d "$2" ]; then
+    echo "Destination directory \"$2\" doesn't exist" >&2
+    exit 1
+fi
+
+ikiwiki --timeformat '%F' \
+        --wikiname 'SPI' \
+        --url "${URL}" \
+        --adminemail "${ADMIN_EMAIL}" \
+        --rebuild \
+        --verbose \
+        --no-discussion \
+        --plugin autoindex \
+        --plugin favicon \
+        --plugin goodstuff \
+        --plugin lockedit \
+        --plugin rawhtml \
+        --plugin sidebar \
+        --disable-plugin openid \
+        --disable-plugin sandbox \
+        --disable-plugin passwordauth \
+        --disable-plugin smiley \
+        "$1" \
+        "$2"
+
