@@ -1,0 +1,163 @@
+# Board Meeting, March 12th, 2018
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* Jimmy Kaplowitz (Hydroxide)
+* Tim Potter (tpot)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* Luca Filipozzi (luca) (Vice President)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Andrew Tridgell (tridge)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* R Tyler Croy (rtyler)
+
+
+These are the minutes for the March 12th, 2018 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2018/2018-03-12-log.txt).
+
+
+## President's Report
+
+Martin Michlmayr made a SPI sponsor page to thank SPI's regular, large scale sponsors. Michlmayr additionally thanks the individual donors that support SPI and SPI's associated projects.
+
+## Treasurer's report
+
+Michael Schultheiss and Martin Zobel-Helas have continued to work on the outstanding bookkeeping issues that are presently preventing the completion of the 2017 treasurer's reports. Schultheiss believes they will be caught up by the end of March, pending a request for data from the Debian project and a login issue with the Debian PayPal account. Jimmy Kaplowitz will assist with the Debian PayPal login problem by setting up US phone number with G Suite for non-profits.
+
+Schultheiss publicly thanks the Craigslist Foundation for generously supporting the SPI general fund and PostgresSQL project.
+
+## Secretary's report
+
+Nothing to report.
+
+## Outstanding minutes
+
+<b>Vote on Meeting Minutes for 12th February 2018:</b>
+
+<table><tbody>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 0 no, 0 abstain, 0 missing.
+
+## Items up for discussion
+
+### Resolution 2018-03-09.mm.1: R. Tyler Croy as interim director
+
+Martin Michlmayr announces that SPI received two strong candidates for the the interim board position. After careful review and discussion by the board, Michlmayr would like to propose R. Tyler Croy and interim director. See resolution in Appendix B.
+
+<b>Vote on Resolution 2018-03-09.mm.1: R. Tyler Croy as interim director</b>
+
+<table><tbody>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 6 yes, 0 no, 0 abstain, 0 missing.
+
+The SPI board welcomes R. Tyler Croy.
+
+### Review of old resolutions
+
+At the face-to-face meeting in October, the board discussed reviewing old resolutions and organizing by categories "defunct", "superseded by later resolution", "active" at a later point in the year.
+
+R.Tyler Croy volunteers to review the resolutions as part of his on-boarding. Martin Michlmayr remarks the superseded resolutions are already marked and appear on the website with a strike through (http://spi-inc.org/corporate/resolutions/). Valerie Young agrees to send an email outline the work in the following week.
+
+### Responding to new project inquiries
+
+The SPI Board is typically slow to respond to new project inquiries and the response almost always comes from Martin Michlmayr. Valerie Young added this agenda item to encourage the board to respond to new project inquiries. Unless anyone else volunteers, she will respond to the three outstanding project inquiries sent to the SPI board mailing list in the last two months. No one else volunteers.
+
+Michlmayr requests the whole board engage more actively in conversations with new projects going forward.
+
+### BitPay
+
+Martin Michlmayr remarks this agenda item was potentially premature and summarizes: the SPI board recently recieved a request to accept donations of crypto currencies. BitPay is an option but only handles Bitcoin.
+
+The board agrees there is a legal question of whether it would be wise to accept crypto currencies. Luca Filipozzi and Jimmy Kaplowitz believe SPI should not allow large donations in cryptocurrencies and small donations might be more hassle than it's worth. R. Tyler Croy and Tim Potter will research considerations and email the board private list.
+
+### Review of F2F Action Items
+
+Jimmy Kaplowitz emailed Mishi a couple of days before the February meeting to follow up on the bylaws but only heard back from her the Friday before the present meeting. Kaplowitz states he will be able to avoid further significant delays on his end, as his life has recently stabilized, and if Mishi continues correspondence the board should have a final draft of the bylaws to approve at the April meeting and submit as an additional voting item in the July elections.
+
+Luca Filipozzi states he will be able to resume SPI activities after a few months period of limited time. His first and foremost goal is to evaluating the upgrade of our infrastructure (he proposes to move to AWS). Secondarily will look at the ad-hoc committee piece, and finally will look at the pruning of resolutions
+
+## Adjournment
+
+The meeting was adjourned until Monday, April 9th, 2018 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2018<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>March 2018<br /></td><td>R. Tyler Croy</td><td>Interim Director</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2018<br /></td><td>Tim Potter</td></tr>
+<tr><td>July 2018<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
+
+## Appendix B: Resolution 2018-03-09.mm.1: R. Tyler Croy as interim director
+
+<pre>
+WHEREAS
+
+1. A vacancy on the SPI board of directors exists due to the resignation
+of Joerg Jaspert.
+
+2. R. Tyler Croy has sufficient time, interest, motivation, and
+experience to usefully assist SPI over the remainder of the current
+board term.
+
+3. Tyler is available to attend most or all of the remaining board
+meetings in the current term; and
+
+4. Tyler has confirmed that he is willing to accept this appointment;
+
+THE SPI BOARD RESOLVES THAT
+
+1. R. Tyler Croy is hereby appointed as an interim member of the SPI
+board of directors, beginning at the conclusion of the March 2018 board
+meeting and continuing until the conclusion of the July 2018 SPI board
+elections.
+</pre>
+
+[[!meta copyright="Copyright © 2018 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
