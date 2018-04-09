@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SPI Reimbursement Request</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<style>
+</style>
+</head>
+<body>
+  <img src="images/spi_header.jpg" alt="Software in the Public Interest, Inc."><p>
+    <h1>SPI Reimbursement Request</h1>
+
+    After filling in this form please press the "Generate PDF" button,
+    then email the resulting PDF to your projects SPI liason.
+
+    <!-- main form -->
+    <p>
+      Date:&nbsp;<input type="text" width="120" id="date"><br>
+      Project:&nbsp;<select id="project"><option selected value="--">--</option></select><br>
+      Name:&nbsp;<input type="text" width="120" id="name"><br>
+      E-mail:&nbsp;<input type="text" width="120" id="email"><br>
+      Address:&nbsp;<input type="text" width="120" id="address"><br>
+      Address (continued):&nbsp;<input type="text" width="120" id="address2"><br>
+      City:&nbsp;<input type="text" width="100" id="city"><br>
+      State:&nbsp;<input type="text" width="30" id="state"><br>
+      Postcode:&nbsp;<input type="text" width="20" id="postcode"><br>
+      Country:&nbsp;<input type="text" width="100" id="country"><br>
+      Currency:&nbsp;<select id="currency"></select><br>
+      Amount:&nbsp;<input type="text" width="100" id="amount"><br><br>
+
+      Bank Name:&nbsp;<input type="text" width="100" id="bank"><br>
+      Account Number:&nbsp;<input type="text" width="100" id="account"><br>
+      IBAN:&nbsp;<input type="text" width="100" id="IBAN"><br>
+      Bank Branch Number (ABA routing number, BACS, CHAPS, Sort Code, Transit Number, BSB, etc)
+      <input type="text" width="100" id="BSB"><br>
+      SWIFT/BIC Code:<input type="text" width="100" id="swift"><br>
+      Bank Address:<input type="text" width="100" id="bank_address"><br>
+      Bank Address (continued):<input type="text" width="100" id="bank_address2"><br>
+      City:<input type="text" width="100" id="bank_city"><br>
+      State:<input type="text" width="100" id="bank_state"><br>
+      PostCode:<input type="text" width="100" id="bank_postcode"><br>
+      Country:<input type="text" width="100" id="bank_country"><br>
+      
+    <p><input type="Submit" value="Generate PDF" onclick="generate_PDF();">
+  
+  
+    <!-- javascript processing -->
+  <script src='js/jspdf.min.js'></script>
+  <script>
+
+    var projects = [
+        'Debian',
+        '0 A.D.',
+        'Arch Linux',
+        'ArduPilot',
+        'FFmpeg',
+        'Freedesktop.org',
+        'GNU TeXmacs',
+        'LibreOffice',
+        'NTPsec',
+        'Open Embedded',
+        'Open Voting Foundation',
+        'OpenWrt',
+        'OpenZFS',
+        'PCP',
+        'PostgreSQL',
+        'SPI',
+        'Tux4Kids',
+        'XOrg',
+        'MingW',
+        'Chakra',
+        'Drizzle'
+    ];
+
+    // currencies from https://www.xe.com/xemoneytransfer/us/#currencies
+    var currencies = [
+        "--",
+        "USD: US Dollar",
+        "BBD: Barbadian or Bajan Dollar",
+        "BSD: Bahamian Dollar",
+        "CAD: Canadian Dollar",
+        "JMD: Jamaican Dollar",
+        "MXN: Mexican Peso",
+        "XCD: East Caribbean Dollar",
+        "BZD: Belizean Dollar",
+        "TTD: Trinidadian Dollar",
+        "BGN: Bulgarian Lev",
+        "CHF: Swiss Franc",
+        "CZK: Czech Koruna",
+        "DKK: Danish Krone",
+        "EUR: Euro",
+        "GBP: British Pound",
+        "HRK: Croatian Kuna",
+        "HUF: Hungarian Forint",
+        "ILS: Israeli Shekel",
+        "NOK: Norwegian Krone",
+        "PLN: Polish Zloty",
+        "RON: Romanian Leu",
+        "RSD: Serbian Dinar",
+        "SEK: Swedish Krona",
+        "TRY: Turkish Lira",
+        "BWP: Botswana Pula",
+        "GHS: Ghanaian Cedi",
+        "KES: Kenyan Shilling",
+        "LSL: Basotho Loti",
+        "MUR: Mauritian Rupee",
+        "MWK: Malawian Kwacha",
+        "SZL: Swazi Lilangeni",
+        "TND: Tunisian Dinar",
+        "ZAR: South African Rand",
+        "ZMW: Zambian Kwacha",
+        "AED: Emirati Dirham",
+        "BHD: Bahraini Dinar",
+        "HKD: Hong Kong Dollar",
+        "JOD: Jordanian Dinar",
+        "JPY: Japanese Yen",
+        "KWD: Kuwaiti Dinar",
+        "LKR: Sri Lankan Rupee",
+        "OMR: Omani Rial",
+        "PHP: Philippine Piso",
+        "PKR: Pakistani Rupee",
+        "QAR: Qatari Riyal",
+        "SAR: Saudi Arabian Riyal",
+        "SGD: Singapore Dollar",
+        "THB: Thai Baht",
+        "AUD: Australian Dollar",
+        "FJD: Fijian Dollar",
+        "NZD: New Zealand Dollar",
+    ];
+
+    var layout = [
+        "date:Date",
+        "project:Project",
+        "name:Name",
+        "email:E-mail",
+        "address:Address",
+        "address2:Address (continued)",
+        "city:City",
+        "state:State",
+        "postcode:Postcode",
+        "country:Country",
+        "currency:Currency",
+        "amount:Amount",
+        "",
+        "bank:Bank Name",
+        "account:Account Number",
+        "IBAN:IBAN",
+        "BSB:Bank Branch Number (ABA routing number, BACS, CHAPS, Sort Code, Transit Number, BSB, etc):",
+        "swift:SWIFT/BIC Code",
+        "bank_address:Bank Address",
+        "bank_address2:Bank Address (continued)",
+        "bank_city:City",
+        "bank_state:State",
+        "bank_postcode:PostCode",
+        "bank_country:Country",
+    ];
+
+    // fill in date (allow editing)
+    var date_field = document.getElementById("date");
+    var d = new Date();
+    date_field.value = d.toDateString();
+
+    // fill in projects
+    var project_select = document.getElementById("project");
+    var nprojects = projects.length;
+    for (var i=0; i<nprojects; i++) {
+        var option = document.createElement("option");
+        option.value = projects[i];
+        option.innerHTML = projects[i];
+        project_select.appendChild(option);
+    }
+
+    // fill in currencies
+    currencies.sort();
+    var currency_select = document.getElementById("currency");
+    var ncurrencies = currencies.length;
+    for (var i=0; i<ncurrencies; i++) {
+        var option = document.createElement("option");
+        option.value = currencies[i];
+        option.innerHTML = currencies[i];
+        currency_select.appendChild(option);
+    }
+
+    // generate a PDF from the filled in values
+    function generate_PDF() {
+        var pdf = new jsPDF();
+        var form = document.getElementById('rform');
+
+        pdf.setFontSize(22);
+        
+        pdf.text(20, 10, "SPI Reimbursement Request");
+
+        pdf.setFontSize(9);
+
+        var lineinc = 5;
+        
+        var n = layout.length;        
+        for (var i=0; i<n; i++) {
+            var s = layout[i];
+            if (s == "") {
+                continue;
+            }
+            var a = s.split(':')
+            var vname = a[0];
+            var print_name = a[1];
+            var variable = document.getElementById(vname);
+            if (!variable) {
+                console.log("Missing: " + vname);
+                continue;
+            }
+            var v = variable.value;
+            var line = print_name + ": " + v;
+            pdf.text(20, 30+i*lineinc, line);
+        }
+
+        var isodate = new Date().toISOString().slice(0,10);
+        var name = document.getElementById("name").value;
+        name = name.replace(/[^a-zA-Z0-9]+/g,"")
+        var filename = "SPI_reimbursement_" + name + "_" + isodate + ".pdf";
+        pdf.save(filename);
+    }
+
+  </script>
+</body>
+</html>
