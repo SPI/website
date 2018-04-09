@@ -1,0 +1,253 @@
+20:00 < tbm> *GAVEL*
+20:00 < tbm> [item 1, Opening]
+20:00 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-04-09/
+20:00 < tbm> [item 2, Roll Call]
+20:00 < tbm> Directors, please state your name
+20:00 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < tbm> Martin Michlmayr
+20:00 < spectranaut> Valerie Young
+20:00 < zobel> rtyler: just for the record: if you did not attend a meeting and you vote on the minutes, we vote abstain then.
+20:00 < zobel> Martin Zobel-Helas
+20:00 < rtyler> R Tyler Croy
+20:01 < schultmc> Michael Schultheiss
+20:01 < zobel> Hydroxide: ^
+20:01 < tbm> we have regrets from Tim Potter
+20:01 < tbm> luca, tridge?
+20:02 < zobel> we still need quorum.
+20:03 < schultmc> Hydroxide was here moments ago
+20:03 < Hydroxide> Jimmy kaplowitz
+20:03 < luca> Luca Filipozzi
+20:03 < tbm> ok, thanks
+20:04 < tbm> [item 3, President's Report]
+20:04 < luca> i'm in a work meeting but will reply here if kicked
+20:04 < tbm> I added the report to the agenda:
+20:04 < tbm> http://spi-inc.org/meetings/agendas/2018/2018-04-09/
+20:04 < tbm> kudos to the treasurer team in particular
+20:04 < tbm> [item 4, Treasurer's Report]
+20:04 < schultmc> Martin Zobel-Helas managed to tag all transactions except two. He sent out draft reports for all of 2017. We had feedback to that, which are not yet fully incorporated.
+20:05 < schultmc> Martin Zobel-Helas also seeked for feedback from the board, sent ago last week, no response on that yet.
+20:05 < schultmc> We are down to very few tickets in the treasurer-ap RT Queue, some long aging tickets are now being worked on.
+20:05 < schultmc> Michael reviewed https://pad.riseup.net/p/6wxiTLQUcwvU regarding future bank accounts and gave feedback to Martin Zobel-Helas.
+20:05 < schultmc> A draft webform for replacing the reimbursement PDF has been provided by Andrew, waiting for feedback from Martin and Michael.
+20:05 < zobel> .
+20:06 < Hydroxide> also I worked with zobel to get him set up with a US Google Voice account for use with PayPal
+20:06 < zobel> while US google voice works, i had problems with paypal. i will contact brian on that the next days.
+20:06 < Crofton|work> Nice
+20:07 < Hydroxide> cool, seems like progress toward a solution still.
+20:07 < zobel> and thanks go to spectranaut for helping me with an US number to send the verification text message to.
+20:07 < zobel> for google voice.
+20:07 < Hydroxide> yup, thanks
+20:07 < spectranaut> :)
+20:08 < rtyler> hack the planet
+20:08 < rtyler> :D
+20:08 < zobel> tbm: we are done from our side.
+20:08 < tbm> Ok, thanks for all your work!
+20:08 < tbm> Ok, one question
+20:08 < zobel> i still need to provide feedback to sabrina
+20:08 < zobel> in an email
+20:09 < tbm> what remains to be done to make the 2017 reports final?
+20:09 < tbm> a final review by someone, e.g. xnox?
+20:09 < rtyler> the treasurer report is now in there?
+20:09 < zobel> an audit from someone who knows ledger better than me.
+20:09 < tbm> Ok, hopefully I can make some time
+20:10 < zobel> rtyler: those are draft reports, sent to spi-general@lists.spi-inc.org
+20:10 < tbm> and I can ask xnox if he's available
+20:10 < zobel> tbm: if not, can we ask xnox?
+20:10 < tbm> any other questions?  Otherwise we can move on
+20:11 < tbm> [item 5, Secretary's report]
+20:11 < spectranaut> Nothing to report.
+20:11 < tbm> [item 6, Outstanding minutes]
+20:11 < tbm> The minutes for 12th March 2018 require approval.
+20:11 < tbm> They can be found at http://spi-inc.org/meetings/minutes/2018/2018-03-12/
+20:11 < spectranaut> Vote on Meeting Minutes for Monday, 12th March 2018 - vote yes/no/abstain: tbm rtyler zobel schultmc Hydroxide spectranaut luca
+20:11 < Hydroxide> !vote yes
+20:11 < spectranaut> !vote yes
+20:11 < luca> !vote yes
+20:12 < rtyler> !vote yes
+20:12 < zobel> !vote yes
+20:12 < schultmc> !vote yes
+20:12 < tbm> !vote yes
+20:12 < spectranaut> vote passes, minutes approved!
+20:12 < tbm> [item 7, Items up for discussion]
+20:12 < tbm> [item 7.1, IT plan]
+20:12 < tbm> luca
+20:12 < zobel> spectranaut: close the vote?
+20:12 < spectranaut> zobel: no script, lol
+20:13 < luca> i sent a note to board yesterday
+20:13 < luca> what i'm really looking for is board to accept what i've written or push back on it
+20:13 < tbm> luca: can you copy your proposal here
+20:13 < luca> in particular the two points: we are going to leverage cloud services and (2) we don't really have a position on which service and why
+20:13 < luca> tbm: sure
+20:13 < luca> sec
+20:14 < rtyler> luca: I thought the approach in general makes sense, time is our most scarce resource as far as I can tell
+20:14 < luca>   SPI will move our services to cloud-based offerings, ranging from IaaS
+20:14 < luca>   (VMs) to SaaS (GitHub or GitLab), as appropriate. The objective is to
+20:14 < luca>   leverage for-fee cloud services rather than relying on donated
+20:14 < luca>   hardware from our associate projects (Debian) or from partners
+20:14 < luca>   (ByteMark). Whether a cloud provider offers a discount is a secondary
+20:14 < luca>   consideration to the objective of running up-to-date, secure services.
+20:15 < schultmc> I'm fine as long as costs don't sky rocket. we have a healthy balance in the SPI General fund but since cloud resources are typically billed hourly we can easly exhaust that.
+20:15  * rtyler nods
+20:15 < luca> sure; we can make appeals for donated services similar to what Gandi offers Debian for X.509 certificates
+20:15 < luca> but i want to get away from the hardware level donation
+20:16 < luca> and focus on the service-level donation
+20:16 < tbm> yeah
+20:16 < rtyler> luca: the Jenkins project was offered donated Azure credits, do you have opinions on seeking that for Azure/AWS/GCP or whatever?
+20:16 < tbm> our compute requiresments are small, so cloud seems like a good aproach
+20:16 < Hydroxide> if there's a meaningful benefit to one cloud provider in terms of time, cost, or expertise, preferring them makes sense. we should also make sure that we don't get so locked in that we couldn't easily switch to another provider, both in case the pricing model changes and to be able to retain independence and leverage if they offer us discounts or donations
+20:16 < luca> rtyler: i don't have an opinion of AWS over GCP over Azure
+20:16 < zobel> luca: at least for azure i think we can pre-charge and get information when the money goes below a certain level.
+20:17 < rtyler> understood
+20:17 < luca> that ordering happens to be my preference but it's a personal preference not a board one
+20:17 < luca> in fact, Digital Ocean might be the place to go
+20:17 < rtyler> if this is something I can help with, I've lead the infra effort for Jenkins for a while (professinally use Azure and AWS)
+20:17 < tbm> sounds like there are no objections to the overall approach
+20:18 < rtyler> without getting into the weeds on solutions, schultmc do you have a budget target in mind?
+20:18 < tbm> rtyler: I think the real question is: what do we need and what will it cost
+20:18  * rtyler nods
+20:18 < tbm> I suspect our needs are minimal
+20:18 < zobel> rtyler: just a side question: whom where you talking to at azure? boris?
+20:18 < tbm> and we can probably get donated resources (but that shouldn't be a blocker)
+20:18 < rtyler> I think it would be prudent to have an agreement on the "what" and 'how' much, even if it's back of the napkin math
+20:19 < rtyler> zobel: will followup after the meeting
+20:19 < tbm> luca: you may want to paste your 1, 2, 3 step approach
+20:19 < luca> With such an accepted statement, I'd focus on (1) enumerating which
+20:19 < luca> services we will retain vs discard, (2) where those services might be
+20:19 < luca> hosted, and (3) identifying a support model for each service.
+20:19 < tbm> rtyler: agreed, we need an estimate but for that we need to compile a list of services
+20:19 < schultmc> rtyler: not specifically.
+20:19 < tbm> which is (1) in luca's list
+20:19 < tbm> and (2)
+20:19 < rtyler> tbm: right, I guess the #4 in my head was "evaluate cost"
+20:20 < tbm> rtyler: right
+20:20 < tbm> luca: did you want an informal poll or a vote on your proposed approach?
+20:20 < tbm> I don't hear any objections
+20:21 < Hydroxide> I don't think we need a vote - luca is SPI VP and the treasurer is amenable and this isn't a lot of money overall. if someone feels a need to put a resolution to a vote, they can propose specific text for email vote or for the May meeting. but I don't see a reason to block on that
+20:22 < zobel> sgtm, please go ahead.
+20:22 < rtyler> :thumbsup:
+20:22 < spectranaut> sgtm
+20:22 < tbm> rtyler: maybe you can help Luca with (2) since you have IT infra experience and are coming to SPI with a fresh perspective
+20:22 < rtyler> indeed
+20:22 < rtyler> luca: I'm happy to discuss later on your schedule if you'd like help or a sounding-board
+20:22 < Hydroxide> luca: as you probably assumed, I'm happy to offer GCP advice if you do use GCP - I probably don't add much differential expertise with AWS or Azure but any of the three (or DO) is fine with me if it meets our various needs.
+20:23 < tbm> AWS/GCP/Azure is one qustion, but luca's plan also includes moving some stuff to SaaS instead fo hosting it ourselves (on IaaS)
+20:23 < luca> sorry, answering questions in meeting
+20:23 < luca> two secs
+20:24 < luca> okay, yes, happy to have assistance
+20:24 < luca> we have contacts with via Debian Cloud Sprint
+20:24 < luca> and via people who have worked for the companies, etc
+20:24 < tbm> we have a sponsors page now ;-)
+20:24 < luca> there's no lack of channels for talking to sponsors
+20:24 < tbm> agreed
+20:25 < Hydroxide> I don't object to SaaS if we don't get too locked-in or dependent or spend too much money, and if we retain sufficient control over our data (both for legal and moral compliance)
+20:25 < rtyler> aye
+20:25 < Hydroxide> and I think all of these providers have ways we can use them compatible with that
+20:25 < Hydroxide> even for SaaS
+20:25 < rtyler> it sounds like we're at the "do more work" part for this particular project
+20:25 < tbm> right, I think there are going to be some questions one we have specific services in mind
+20:26  * rtyler nods
+20:26 < zobel> still sounds good to me. proceed?
+20:26 < tbm> luca: is there anything we need to discuss now or is the next step to come up with a list and talk about details?
+20:28 < tbm> Ok, moving on. We can come back to IT later if there's something else.
+20:28 < tbm> [item 7.2, GitHub]
+20:28 < tbm> I was able to acquire github.com/SPI recently.  GitHub has a policy
+20:28 < tbm> against unused accounts and I was able to free up SPI and obtain it
+20:28 < tbm> for us.  I put a mirror of the web site there.  And while I was at
+20:28 < tbm> it, I enabled Travis, checked Joerg's build script into Git, added
+20:29 < tbm> a README, LICENSE and contributing guide.
+20:29 < tbm> Currently, GitHub is just a mirror but we should decide whether we
+20:29 < tbm> want to use it for more.  Maybe it's best to consider this offline
+20:29 < tbm> after Luca has submitted his detailed IT proposal.
+20:29 < Hydroxide> agreed that the IT proposal seems to make sense to consider first. thanks for getting that github org!
+20:29  * rtyler nods
+20:30 < tridge> hi
+20:30 < tbm> Ok, let's come back to this another time
+20:30 < tbm> hey tridge
+20:30 < tridge> off by a damn hour with tz change
+20:30 < spectranaut> state your name for the minutes, tridge :)
+20:30 < tridge> Andrew Tridgell
+20:30 < tbm> [item 7.3, 2017 annual report]
+20:30 < tbm> I've been working on the 2017 annual report.  Thanks to all the
+20:30 < tbm> projects which submitted project updates.  We have a lot of updates
+20:30 < tbm> for the report!
+20:30 < tbm> I'd like to publish the report soon (not in July like last year).
+20:30 < tbm> I think we can publish once the 2017 treasurer report is complete.
+20:30 < tbm> If you have additions, please let me know or add them in Git.
+20:30 < tbm> Thanks for those who provided comments already.
+20:31 < tbm> The new report also has more visual appeal thanks to Valessio
+20:31 < rtyler> thanks for pushing it towards the finish line :)
+20:31 < rtyler> I was wondering when I on-boarded where that 2017 report was ... :)
+20:32 < tbm> getting updates from projects is hard work unfortunately
+20:32 < tbm> [item 7.4, Updating the Reimbursement PDF]
+20:32 < tbm> zobel?
+20:32 < tbm> schultmc?
+20:32 < spectranaut> I added this agenda item when the request was open -- but it's possible the board mail conversation and tridge work has taken care of this item?
+20:32 < zobel> tridge provided a web form. i want to move away from the current pdf, that people print and hand fill
+20:33 < tridge> the form I did was quick and dirty, I can clean it up a bit
+20:33 < tbm> tridge's prototype looks good
+20:33 < schultmc> Anything we can do to encourage to fill out the form electronically would be beneficial
+20:33 < zobel> i owe tridge a few remarks on his draft, which looks fine, but i am also not that experienced on what is needed, schultmc has more ideas on that.
+20:33 < schultmc> hand writing and scanning is highly error prone
+20:34 < zobel> c&p for the win!
+20:34 < rtyler> heh
+20:34 < tridge> i want to auto-name the pdf with user and date
+20:34 < tbm> good idea
+20:35 < zobel> tridge: i have a few more requests, but the minimal work we have up to know looks promising.
+20:35 < tbm> anyway, tridge's prototype is a good start. I think we can continue this offline.
+20:35 < zobel> s/know/now/
+20:35 < tridge> ok, should we put it in the wiki git?
+20:35 < tridge> i assume js works there
+20:35 < zobel> sounds like a plan
+20:36 < tbm> Thanks tridge!
+20:36 < tbm> [item 7.5, F2F Action Item Review]
+20:36 < tbm> I updated Hydroxide's action items according to his comments earlier today
+20:36 < tbm> mine are up to date too
+20:36 < zobel> i will mail a draft to board before i mail sabrina
+20:36 < tbm> Tim Potter's can be assigned to tridge now :)  (reimbursement form)
+20:37 < tbm> Ok, everyone else, if you have updates, /msg spectranaut or me
+20:37 < tbm> [item 8, Any other business]
+20:37 < spectranaut> thanks everyone who replied to the discussion about the Code of Conduct, I'll review and edit the draft this week!
+20:37 < tbm> zobel has two items
+20:38 < zobel> * More on treasurer work (i forgot to mention earlier):  we soon will need a board vote on new bank accounts. Our bylaws require us to have a vote on opening new accounts on new banks. this is more a heads-up for now.
+20:38 < schultmc> I did notice that emails from RT don't reach sabrina - outlook.com flags them as spam
+20:39 < zobel> schultmc: my last mails from RT reached Sabrina
+20:39 < Hydroxide> that's not good. is there a workaround? for example, maybe there's a way to do the "add this address to your addreeses book" trick that doesn't make sense to most of us but which companies commonly advise
+20:39 < schultmc> zobel: nice
+20:39 < Hydroxide> or just have it work, sure :)
+20:39 < schultmc> I know my pings got stuck as well as my test message last month
+20:39 < zobel> schultmc Hydroxide: yes, adding DMARC might help.
+20:40 < zobel> but that needs help from either luca or Ganneff. or maybe schultmc
+20:40 < tbm> ok
+20:40 < tbm> zobel: your other item?
+20:40 < zobel> * stickers: Do we want to proceed with the proposal for the stickers?
+20:40 < Hydroxide> I don't object (nor do I think it needs a board vote)
+20:41 < tbm> Yes, I think your idea is good.  Longterm, I'd like to see an outreach plan, but
+20:41  * rtyler shrugs
+20:41 < tbm> I think we need to figure out first what our capacity is.
+20:41 < rtyler> go for it as far as I am concerned
+20:41 < tbm> Getting some stickers done now is fine
+20:41 < Hydroxide> they don't have an expiration date, right? :)
+20:41 < zobel> Hydroxide: we had one, on which layout to choose :)
+20:41 < Hydroxide> zobel: right, I think there was a clear preferred option
+20:41 < tbm> Hydroxide: potentially they do because we were thinking of getting a new logo
+20:41 < zobel> Hydroxide: well, if we have a new logo some day...  maybe
+20:42 < Hydroxide> oh come on, old vintage logo stickers are fashionable :D
+20:42 < rtyler> word art!
+20:42 < tbm> zobel: please go ahead and order them or tell me and I'll get it done
+20:42 < tbm> any other business?
+20:42 < zobel> okay, i will ask valesio for a sole option 7 sticker then.
+20:43 < zobel> i had one more, but i forgot it in the mid of the meeting.
+20:43 < zobel> i will mail board, in case it was important.
+20:43 < tbm> ok
+20:43 < tbm> sounds good
+20:43 < tbm> It seems we're making good progress
+20:43 < tbm> Thanks everyone!
+20:43 < tbm> [item 9, Next board meeting]
+20:43 < tbm> The next board meeting is scheduled for: May 14th, 2018
+20:44 < tbm> Any objections?
+20:44 < rtyler> not from me!
+20:44 < zobel> does not work for me.
+20:44 < Hydroxide> it's as good as any other time in mid/late may for me. free for now with a meaningful chance of schedule change. so, wfm for now
+20:44 < tbm> zobel: ok, let's keep the date but let's see if other people send regrets
+20:44 < tbm> *GAVEL*
