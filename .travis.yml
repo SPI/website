@@ -8,6 +8,7 @@ addons:
       - git
       - texlive-latex-base
       - texlive-latex-extra
+      - texlive-fonts-recommended
       - pgf
 script:
   - html=$(mktemp -d)

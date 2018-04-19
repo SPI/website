@@ -44,7 +44,8 @@ In order to build the web site, you need the following software:
 
 If you want to generate the annual reports, you need:
 
-    apt install git texlive-latex-base texlive-latex-extra
+    apt install git texlive-latex-base texlive-latex-extra \
+      texlive-fonts-recommended
 
 
 Contributions
