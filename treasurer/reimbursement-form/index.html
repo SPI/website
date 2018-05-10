@@ -240,7 +240,7 @@
         var isodate = new Date().toISOString().slice(0,10);
         var name = document.getElementById("name").value;
         var project = document.getElementById("project").value;
-        var filename = "SPI_reimbursement_" + project + "_" + name + "_" + isodate;
+        var filename = "spi_reimbursement_" + project + "_" + name + "_" + isodate;
         filename = filename.replace(/[^a-zA-Z0-9_]+/g, "") + ".pdf"
         pdf.save(filename);
     }
