@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>SPI Reimbursement Request</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 <style>
 </style>
@@ -15,31 +16,31 @@
 
     <!-- main form -->
     <p>
-      Date:&nbsp;<input type="text" width="120" id="date"><br>
+      Date:&nbsp;<input type="text" maxlength="120" id="date"><br>
       Project:&nbsp;<select id="project"><option selected value="--">--</option></select><br>
-      Name:&nbsp;<input type="text" width="120" id="name"><br>
-      E-mail:&nbsp;<input type="text" width="120" id="email"><br>
-      Address:&nbsp;<input type="text" width="120" id="address"><br>
-      Address (continued):&nbsp;<input type="text" width="120" id="address2"><br>
-      City:&nbsp;<input type="text" width="100" id="city"><br>
-      State:&nbsp;<input type="text" width="30" id="state"><br>
-      Postcode:&nbsp;<input type="text" width="20" id="postcode"><br>
-      Country:&nbsp;<input type="text" width="100" id="country"><br>
+      Name:&nbsp;<input type="text" maxlength="120" id="name"><br>
+      E-mail:&nbsp;<input type="text" maxlength="120" id="email"><br>
+      Address:&nbsp;<input type="text" maxlength="120" id="address"><br>
+      Address (continued):&nbsp;<input type="text" maxlength="120" id="address2"><br>
+      City:&nbsp;<input type="text" maxlength="100" id="city"><br>
+      State:&nbsp;<input type="text" maxlength="30" id="state"><br>
+      Postcode:&nbsp;<input type="text" maxlength="20" id="postcode"><br>
+      Country:&nbsp;<input type="text" maxlength="100" id="country"><br>
       Currency:&nbsp;<select id="currency"></select><br>
-      Amount:&nbsp;<input type="text" width="100" id="amount"><br><br>
+      Amount:&nbsp;<input type="text" maxlength="100" id="amount"><br><br>
 
-      Bank Name:&nbsp;<input type="text" width="100" id="bank"><br>
-      Account Number:&nbsp;<input type="text" width="100" id="account"><br>
-      IBAN:&nbsp;<input type="text" width="100" id="IBAN"><br>
+      Bank Name:&nbsp;<input type="text" maxlength="100" id="bank"><br>
+      Account Number:&nbsp;<input type="text" maxlength="100" id="account"><br>
+      IBAN:&nbsp;<input type="text" maxlength="100" id="IBAN"><br>
       Bank Branch Number (ABA routing number, BACS, CHAPS, Sort Code, Transit Number, BSB, etc)
-      <input type="text" width="100" id="BSB"><br>
-      SWIFT/BIC Code:<input type="text" width="100" id="swift"><br>
-      Bank Address:<input type="text" width="100" id="bank_address"><br>
-      Bank Address (continued):<input type="text" width="100" id="bank_address2"><br>
-      City:<input type="text" width="100" id="bank_city"><br>
-      State:<input type="text" width="100" id="bank_state"><br>
-      PostCode:<input type="text" width="100" id="bank_postcode"><br>
-      Country:<input type="text" width="100" id="bank_country"><br>
+      <input type="text" maxlength="100" id="BSB"><br>
+      SWIFT/BIC Code:<input type="text" maxlength="100" id="swift"><br>
+      Bank Address:<input type="text" maxlength="100" id="bank_address"><br>
+      Bank Address (continued):<input type="text" maxlength="100" id="bank_address2"><br>
+      City:<input type="text" maxlength="100" id="bank_city"><br>
+      State:<input type="text" maxlength="100" id="bank_state"><br>
+      PostCode:<input type="text" maxlength="100" id="bank_postcode"><br>
+      Country:<input type="text" maxlength="100" id="bank_country"><br>
       
     <p><input type="Submit" value="Generate PDF" onclick="generate_PDF();">
   
