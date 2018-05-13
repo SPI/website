@@ -1,0 +1,193 @@
+[[!meta copyright="Copyright © 2018 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, April 9th, 2018
+
+__Board members present__
+
+* Martin Michlmayr (tbm) (President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Luca Filipozzi (luca) (Vice President)
+* Valerie Young (spectranaut) (Secretary)
+* R\. Tyler Croy (rtyler)
+* Jimmy Kaplowitz (Hydroxide)
+* Martin Zobel-Helas (zobel)
+
+
+__Board members partially present__
+
+* Andrew Tridgell (tridge)
+
+
+__Board members absent with regrets__
+
+* None
+
+
+__Board members absent__
+
+* Tim Potter (tpot)
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* None
+
+
+These are the minutes for the April 9th, 2018 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2018/2018-04-09-log.txt).
+
+
+## President's Report
+
+<pre>
+I'm very happy to see the great progress with reimbursements and
+treasurer reports.  As far as I can tell, there's not a single
+reimbursement outstanding where we're not waiting for information!
+Thanks to Martin Zobel-Helas and Michael Schultheiss for making this
+happen.  I'd also like to thank everyone who work on the treasurer
+report, in particular Martin but also Michael and Tim Potter, who
+helped with the PayPal import script.
+
+I'm also happy to see that Joerg Jaspert continues to help on the IT
+side after stepping down from the board.  Jimmy Kaplowitz continues to
+work on the new by-laws and we're currently waiting on SFLC.
+
+Personally, I spent time interacting with existing and potential
+projects, worked on the annual report, and performed some triage work on
+RT.  I was able to acquire the "SPI" organization on GitHub but we have
+to discuss whether we want to use it actively.
+</pre>
+
+## Treasurer's report
+
+Martin Zobel-Helas has successfully tagged almost all transactions (only two outstanding) and has emailed draft reports for all of 2017. The treasure team has received feedback on the draft reports and is in the process of incorporating. Martin Zobel-Helas additionally sought feedback from the board last week by email and has received no responses. Martin Michlmayr will asked Dimitri Ledkov if he could assist in the review of the treasurer reports as he is familiar with ledger. If Dimitri cannot, he will try to find time to review.
+
+The treasurer teams has only a few open tickets in the treasurer-ap RT Queue and are presently working on aging tickets. Michael Schultheiss reviewed notes on future bank accounts and gave feedback to Martin Zobel-Helas. A draft webform for replacing the reimbursement PDF has been provided by Andrew, waiting for feedback from Zobel-Helas and Schultheiss. Jimmy Kaplowitz, Martin Zobel-Helas and Valerie Young successfully set up a US Google Voice account for use with PayPal. Martin Zobel-Helas is still experiencing an issue with PayPal and will contact Brian Gupta for assistance.
+
+Martin Zobel-Helas announces SPI's bylaws require us to have a vote on opening new accounts on new banks and a new bank account is currently under consideration.
+
+Martin Zobel-Helas remarks he still intends to provide feedback to Sabrina in an email. Micheal Schultheiss remarks emails from RT do not always reach Sabrina due to outloook.com's spam filter.
+
+## Secretary's report
+
+Nothing to report.
+
+## Outstanding minutes
+
+<b>Vote on Meeting Minutes for 12th March 2018:</b>
+
+<table><tbody>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td> R. Tyler Croy</td><td>Yes</td></tr>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 no, 0 abstain, 0 missing.
+
+## Items up for discussion
+
+### IT Plan
+
+Luca Filipozzi proposed SPI adopts the following IT plan or provide feedback:
+
+<pre>
+SPI will move our services to cloud-based offerings, ranging from IaaS
+(VMs) to SaaS (GitHub or GitLab), as appropriate. The objective is to
+leverage for-fee cloud services rather than relying on donated
+hardware from our associate projects (Debian) or from partners
+(ByteMark). Whether a cloud provider offers a discount is a secondary
+consideration to the objective of running up-to-date, secure services.
+</pre>
+
+R. Tyler Croy states he finds the approach reasonable especially considering time is SPI's most scare resource. Michael Schultheiss agrees the plan is fine but notes SPI should be careful not to let cost skyrocket and that hourly billed services need careful moderation to avoid accidentally draining funds. Filipozzi believes SPI may be able to request donated services similar to Gandi's donation of X.509 certificates to Debian, but in particular would prefer to move away from hardware level donation to service level donation. 
+
+R. Tyler Croy informs the Jenkins project was donated Azure credits and asks if Filipozzi has a preference between Azure, AWS, and GCP. Filipozzi states he has no preference. R. Tyler Croy additionally remarks he has experience using cloud services for the infrastructure work for Jenkins and experience with Azure and AWS from work and would happily assist Filipozzi with this work.
+
+Jimmy Kaplowitz remarks that if there are meaningful benefit to one cloud provider in terms of time, cost, or expertise, preferring them makes sense. SPI should also make sure that we don't get so locked in that we couldn't easily switch to another provider, both in case the pricing model changes and to be able to retain independence and leverage if they offer SPI discounts or donations. Kaplowitz states he will not object to SaaS if SPI can prevent vendor locked-in or spending too much money and so long as SPI retain sufficient control over our data (both for legal and moral compliance).
+
+Martin Zobel-Helas adds that Azure, as a service, allows can pre-charge payments with reminders when the money goes below a certain level.
+
+Overall, the board approves Filipozzi's suggestion. The board agrees a vote is unnecessary for Filipozzi to move forward, as Filipozzi is the VP and has support from the treasurer regarding costs. Filipozzi restates:
+
+<pre>
+With such an accepted statement, I'd focus on (1) enumerating which
+services we will retain vs discard, (2) where those services might be
+hosted, and (3) identifying a support model for each service.
+</pre>
+
+### GitHub
+
+Martin Michlmayr states:
+
+<pre>
+I was able to acquire github.com/SPI recently.  GitHub has a policy
+against unused accounts and I was able to free up SPI and obtain it
+for us.  I put a mirror of the web site there.  And while I was at
+it, I enabled Travis, checked Joerg's build script into Git, added
+a README, LICENSE and contributing guide.
+Currently, GitHub is just a mirror but we should decide whether we
+want to use it for more.  Maybe it's best to consider this offline
+after Luca has submitted his detailed IT proposal.
+</pre>
+
+The board agrees to postpone the discussion of GitHub until Luca Filipozzi's IT Proposal is complete.
+
+### 2017 annual report
+
+Martin Michlmayr states:
+
+<pre>
+I've been working on the 2017 annual report.  Thanks to all the
+projects which submitted project updates.  We have a lot of updates
+for the report!
+I'd like to publish the report soon (not in July like last year).
+I think we can publish once the 2017 treasurer report is complete.
+If you have additions, please let me know or add them in Git.
+Thanks for those who provided comments already.
+The new report also has more visual appeal thanks to Valessio.
+</pre>
+
+The board thanks Michlmayr for his work.
+
+### Updating the Reimbursement PDF
+
+Andrew Tridgell created a prototype for a webform replacement for the reimbursement PDF. Martin Zobel-Helas has a few points of feedback and will get back to him soon. 
+
+### Review of F2F Action Items
+
+The agenda's action items are up to date.
+
+### Any other business
+
+Martin Zobel-Helas will order stickers based on Valessio's design.
+
+## Adjournment
+
+The meeting was adjourned until Monday, May 14th, 2018 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2018<br /></td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016<br /></td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2015<br /></td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016<br /></td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>March 2018<br /></td><td>R. Tyler Croy</td><td>Interim Director</td></tr>
+<tr><td>July 2016<br /></td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2018<br /></td><td>Tim Potter</td></tr>
+<tr><td>July 2018<br /></td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016<br /></td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
