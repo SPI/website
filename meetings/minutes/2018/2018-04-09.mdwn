@@ -67,13 +67,13 @@ to discuss whether we want to use it actively.
 
 ## Treasurer's report
 
-Martin Zobel-Helas has successfully tagged almost all transactions (only two outstanding) and has emailed draft reports for all of 2017. The treasure team has received feedback on the draft reports and is in the process of incorporating. Martin Zobel-Helas additionally sought feedback from the board last week by email and has received no responses. Martin Michlmayr will asked Dimitri Ledkov if he could assist in the review of the treasurer reports as he is familiar with ledger. If Dimitri cannot, he will try to find time to review.
+Martin Zobel-Helas has successfully tagged almost all transactions (only two outstanding) and has emailed draft reports for all of 2017. The treasure team has received feedback on the draft reports and is in the process of incorporating it. Martin Zobel-Helas additionally sought feedback from the board last week by email and has received no responses. Martin Michlmayr will asked Dimitri Ledkov if he could assist in the review of the treasurer reports as he is familiar with ledger. If Ledkov cannot, he will try to find time to review.
 
-The treasurer teams has only a few open tickets in the treasurer-ap RT Queue and are presently working on aging tickets. Michael Schultheiss reviewed notes on future bank accounts and gave feedback to Martin Zobel-Helas. A draft webform for replacing the reimbursement PDF has been provided by Andrew, waiting for feedback from Zobel-Helas and Schultheiss. Jimmy Kaplowitz, Martin Zobel-Helas and Valerie Young successfully set up a US Google Voice account for use with PayPal. Martin Zobel-Helas is still experiencing an issue with PayPal and will contact Brian Gupta for assistance.
+The treasurer teams has only a few open tickets in the treasurer-ap RT queue and are presently working on aging tickets. Michael Schultheiss reviewed notes on future bank accounts and gave feedback to Martin Zobel-Helas. A draft web form to replace the reimbursement PDF has been provided by Tridgell, waiting for feedback from Zobel-Helas and Schultheiss. Jimmy Kaplowitz, Martin Zobel-Helas and Valerie Young successfully set up a US Google Voice account for use with PayPal. Martin Zobel-Helas is still experiencing an issue with PayPal and will contact Brian Gupta for assistance.
 
-Martin Zobel-Helas announces SPI's bylaws require us to have a vote on opening new accounts on new banks and a new bank account is currently under consideration.
+Martin Zobel-Helas announces SPI's bylaws require us to have a vote on opening new bank accounts and a new bank account is currently under consideration.
 
-Martin Zobel-Helas remarks he still intends to provide feedback to Sabrina in an email. Micheal Schultheiss remarks emails from RT do not always reach Sabrina due to outloook.com's spam filter.
+Martin Zobel-Helas remarks that he still intends to provide feedback to Sabrina in an email. Micheal Schultheiss remarks emails from RT do not always reach Sabrina due to outloook.com's spam filter.
 
 ## Secretary's report
 
@@ -110,13 +110,13 @@ hardware from our associate projects (Debian) or from partners
 consideration to the objective of running up-to-date, secure services.
 </pre>
 
-R. Tyler Croy states he finds the approach reasonable especially considering time is SPI's most scare resource. Michael Schultheiss agrees the plan is fine but notes SPI should be careful not to let cost skyrocket and that hourly billed services need careful moderation to avoid accidentally draining funds. Filipozzi believes SPI may be able to request donated services similar to Gandi's donation of X.509 certificates to Debian, but in particular would prefer to move away from hardware level donation to service level donation. 
+R. Tyler Croy states he finds the approach reasonable especially considering time is SPI's most scare resource. Michael Schultheiss agrees the plan is fine but notes SPI should be careful not to let cost skyrocket and that hourly billed services need careful moderation to avoid accidentally draining funds. Filipozzi believes SPI may be able to request donated services similar to Gandi's donation of X.509 certificates to Debian, but in particular would prefer to move away from hardware level donation to service level donation.
 
-R. Tyler Croy informs the Jenkins project was donated Azure credits and asks if Filipozzi has a preference between Azure, AWS, and GCP. Filipozzi states he has no preference. R. Tyler Croy additionally remarks he has experience using cloud services for the infrastructure work for Jenkins and experience with Azure and AWS from work and would happily assist Filipozzi with this work.
+R. Tyler Croy informs that the Jenkins project was donated Azure credits and asks if Filipozzi has a preference between Azure, AWS, and GCP. Filipozzi states he has no preference. Croy additionally remarks he has experience using cloud services for the infrastructure work for Jenkins and experience with Azure and AWS from work and would happily assist Filipozzi with this work.
 
-Jimmy Kaplowitz remarks that if there are meaningful benefit to one cloud provider in terms of time, cost, or expertise, preferring them makes sense. SPI should also make sure that we don't get so locked in that we couldn't easily switch to another provider, both in case the pricing model changes and to be able to retain independence and leverage if they offer SPI discounts or donations. Kaplowitz states he will not object to SaaS if SPI can prevent vendor locked-in or spending too much money and so long as SPI retain sufficient control over our data (both for legal and moral compliance).
+Jimmy Kaplowitz remarks that if there are meaningful benefits to one cloud provider in terms of time, cost, or expertise, preferring them makes sense. SPI should also make sure that we don't get so locked in that we couldn't easily switch to another provider, both in case the pricing model changes and to be able to retain independence and leverage if they offer SPI discounts or donations. Kaplowitz states he will not object to SaaS if SPI can prevent vendor locked-in or spending too much money and so long as SPI retain sufficient control over our data (both for legal and moral compliance).
 
-Martin Zobel-Helas adds that Azure, as a service, allows can pre-charge payments with reminders when the money goes below a certain level.
+Martin Zobel-Helas adds that Azure, as a service, can pre-charge payments with reminders when the money goes below a certain level.
 
 Overall, the board approves Filipozzi's suggestion. The board agrees a vote is unnecessary for Filipozzi to move forward, as Filipozzi is the VP and has support from the treasurer regarding costs. Filipozzi restates:
 
@@ -136,6 +136,7 @@ against unused accounts and I was able to free up SPI and obtain it
 for us.  I put a mirror of the web site there.  And while I was at
 it, I enabled Travis, checked Joerg's build script into Git, added
 a README, LICENSE and contributing guide.
+
 Currently, GitHub is just a mirror but we should decide whether we
 want to use it for more.  Maybe it's best to consider this offline
 after Luca has submitted his detailed IT proposal.
@@ -151,10 +152,12 @@ Martin Michlmayr states:
 I've been working on the 2017 annual report.  Thanks to all the
 projects which submitted project updates.  We have a lot of updates
 for the report!
+
 I'd like to publish the report soon (not in July like last year).
 I think we can publish once the 2017 treasurer report is complete.
 If you have additions, please let me know or add them in Git.
 Thanks for those who provided comments already.
+
 The new report also has more visual appeal thanks to Valessio.
 </pre>
 
@@ -162,7 +165,7 @@ The board thanks Michlmayr for his work.
 
 ### Updating the Reimbursement PDF
 
-Andrew Tridgell created a prototype for a webform replacement for the reimbursement PDF. Martin Zobel-Helas has a few points of feedback and will get back to him soon. 
+Andrew Tridgell created a prototype for a web form to replace the reimbursement PDF. Martin Zobel-Helas has a few points of feedback and will get back to him soon.
 
 ### Review of F2F Action Items
 
