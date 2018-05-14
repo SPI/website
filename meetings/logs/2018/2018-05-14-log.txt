@@ -1,0 +1,141 @@
+21:00 < tbm> *GAVEL*
+21:00 < tbm> [item 1, Opening]
+21:00 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:00 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-05-14/
+21:00 < tbm> [item 2, Roll Call]
+21:00 < tbm> Directors, please state your name
+21:00 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 < zobel> Martin Zobel-Helas
+21:00 < tbm> Martin Michlmayr
+21:00 < schultmc> Michael Schultheiss
+21:00 < spectranaut> Valerie Young
+21:00 < Hydroxide> Jimmy Kaplowitz
+21:00 < tpot> Tim Potter
+21:00 < tridge> Andrew Tridgell
+21:00 < rtyler> R Tyler Croy
+21:00 < tbm> We received regrets from Luca
+21:00 < tbm> [item 3, President's Report]
+21:00 < zobel> so we are complete.
+21:00 < tbm> I'll copy it here from the agenda:
+21:00 < tbm> Generally, I'm happy with the progress over the last few weeks.  The
+21:00 < tbm> by-laws are getting very close now, we've been in contact with existing
+21:01 < tbm> and potential projects and the activity of the board has been good.
+21:01 < tbm>
+21:01 < tbm> However, I'm disappointed that despite all the efforts we still haven't
+21:01 < tbm> managed to close the books for 2017 and get treasurer reports done.
+21:01 < tbm> This has to be the key priority for the coming weeks.
+21:01 < tbm>
+21:01 < tbm> (we'll talk about this during the Treasurer's Report)
+21:01 < tbm> [item 5, Secretary's report]
+21:01 < spectranaut> out of order? nothing to report, however
+21:01 < tbm> ah, sorry
+21:02 < tbm> I mentioend to spectranaut the othe day that the July elections are coming up.  Normally we send
+21:02 < tbm> out an announcement with the timeline in the middle of June
+21:02 < tbm> ok, back to order :)
+21:02 < tbm> [item 4, Treasurer's Report]
+21:03 < tbm> schultmc? zobel?
+21:03 < schultmc> zobel and I have been working on closing out 2017 and dealing with outstanding reports. I'm going through outstanding tickets and resolving things as soon as possible.
+21:03 < zobel> i asked for help with the treasurer-ar queue, but we did not manage to find a common timeslot
+21:04 < schultmc> I have some time this week - I'll go through the -ap and -ar queues
+21:04 < tbm> maybe you can find time this week
+21:04 < zobel> beside that, very much private/family stuff in the last weeks, thus not the progress i hoped to achive the last weeks.
+21:04 < tbm> I'm happy with all the progress but we really need to get 2017 done soon as it's overdue
+21:04 < zobel> schultmc, tbm: i want to learn the -ar queue work to, so please teach me.
+21:04 < zobel> s/to/too/
+21:04 < tbm> I started reviewing some transactions this weekend
+21:04 < schultmc> will do
+21:05 < tbm> zobel: maybe you can start adding 2018 transactions in the meantime
+21:05 < tbm> as this would allow us to answer X.Org and Debian regarding sponsorship payments which are outstanding
+21:05 < zobel> i started already on my laptop.
+21:05 < tbm> great!
+21:05 < tbm> thanks
+21:05 < tbm> ok, hopefully schultmc and zobel can sync up.  I don't think there's much to talk about
+21:05 < tbm> we just need to get it done
+21:06 -!- linuxhiker [~jd@2600:100f:b005:9dff:4d32:596e:30a0:6f4] has joined #spi
+21:06 < tbm> one thing.  I pointed out to schultmc that Nils Lohner (president many many years ago) is still listed on some IRS communication
+21:06 < tbm> He'll look into updating it
+21:06 < tbm> any other questions or should we move on?
+21:06 < rtyler> huh
+21:06 < Hydroxide> yeah, there's a form to file to update that, I presume.
+21:07 < tbm> yeah, probably.
+21:07 < tbm> at least they have our current address
+21:07 < Hydroxide> indeed
+21:07 < schultmc> https://www.irs.gov/pub/irs-pdf/f8822b.pdf - Change of Address or Responsible Party -- Business
+21:07  * schultmc will get that filed
+21:07 < Hydroxide> great
+21:08 < tbm> thanks again schultmc and zobel for all your work and tpot and tridge for the PayPal scripts
+21:08 < tbm> I tried to ask xnox if he managed to have a look at the 2017 but haven't heard yet
+21:08 < tbm> schultmc: ok, we should probably add this form to some todo list for our annual officer election
+21:08 < tbm> [item 6, Outstanding minutes]
+21:08 < tbm> The minutes for 9th April 2018 require approval.
+21:08 < tbm> They can be found at http://spi-inc.org/meetings/minutes/2018/2018-04-09/
+21:09 < spectranaut> Vote on Meeting Minutes for Monday, 9th April 2018 - vote yes/no/abstain: tbm rtyler zobel schultmc Hydroxide spectranaut tpot tridge
+21:09 < Hydroxide> !vote yes
+21:09 < rtyler> !vote yes
+21:09 < tbm> !vote yes
+21:09 < spectranaut> !vote yes
+21:09 < tridge> !vote yes
+21:09 < tpot> !vote abstain (was absent)
+21:09 < zobel> !vote yes
+21:10 < spectranaut> schultmc: ?
+21:10 < schultmc> !vote yes
+21:10 < spectranaut> Vote passes, meeting minutes approved!
+21:10 < tbm> [item 7, Items up for discussion]
+21:10 < tbm> [item 7.1, IT plan]
+21:10 < tbm> Luca unfortuntely couldn't make the meeting due to a conflict.
+21:10 < tbm> I know he's been active on the IT front (thanks!) but I haven't seen a list of services
+21:10 < tbm> Hopefully he can email the board so we can make some progress on this
+21:11 < tbm> (let's keep this on the agenda for next month)
+21:11 < spectranaut> noted ^
+21:11 < tbm> [item 7.2, DebConf BOF]
+21:11 < tbm> I won't attend DebConf this year so I didn't submit a BOF
+21:11 < tbm> I asked zobel if he wants to submit one
+21:11 < tbm> who is going to attend this year?
+21:11 < zobel> i did.
+21:11 < tbm> Ah great, thanks
+21:11 < spectranaut> I'm not going to make it :/
+21:12 < tbm> Hydroxide?
+21:12 < Hydroxide> I'm registered though a higher chance than usual of having to cancel
+21:12  * schultmc won't be able to make it
+21:12 < rtyler> I won't be there
+21:12 < schultmc> it would've been awesome to spend my birthday in .tw but unable to work it out this time
+21:13 < rtyler> heh
+21:13 < tbm> Ok. I'm sure zobel will do a fantastic job at representing us. And he has stickers ;)
+21:13 < Hydroxide> it'll be my birthday too - happy birthday sibling schultmc  :)
+21:13 < tbm> I'd also like to get more engaged with other projects, e.g. to have regular conversions
+21:13 < tbm> but we're not quite there yet
+21:13 < zobel> yeah, i hope stickers arrived for everyone...
+21:13 < tridge> yep! thanks
+21:13 < tbm> mine did. They look very nice!
+21:13 < spectranaut> yup! on my laptop :)
+21:13 < Hydroxide> mine did - I now have the rare artifact of legitimate mail sent to Canada from Germany with a US return address :D also the stickers of course
+21:14 < tbm> [item 8, Any other business]
+21:14 < tbm> anything else?
+21:14 < Hydroxide> A quick status summary for the bylaws work: I think the new bylaw wording is ready for a member vote. Just before this meeting I emailed the board, and also two members previously vocal on this topic, the current draft for your/their feedback before broad circulation on -general.
+21:14 < Hydroxide> Next steps are outlined more fully in that email, but I now anticipate a board vote in June or July, then a member vote after a post-election inactive member cleanup.
+21:14 < Hydroxide> Thanks for bearing with me and Mishi as this process has proceeded! </done>
+21:14 < tbm> thank you so much!
+21:14 < tpot> oh yeah thanks for the stickers! they do look good
+21:15 < tbm> The big challenge will be to reach quorum but I'm glad we'll soon be at a point where we can at least try...
+21:15 < Hydroxide> agreed that's the challenge.
+21:15 < Hydroxide> and if we fail simply due to that issue, without any actual controversy, we can retry in the future with the same draft
+21:15 < Hydroxide> (as opposed to having further member concerns to address)
+21:16 < rtyler> I just got that email and haven't had a chance to really read it
+21:16 < rtyler> I suppose further questions and discussion wijll be on the thread on board@?
+21:16 < Hydroxide> rtyler: that's fine, I sent it so recently that I didn't expect anyone to have read it yet
+21:16 < tbm> rtyler: oh yeah, some fresh eyes.  There was a lot of discussion on spi-general previously
+21:16 < rtyler> wunderbar
+21:17 < tbm> anything else?
+21:17 < Hydroxide> discussing on that thread would be good, yes. we've done several rounds of getting the members on board and have gone through legal review, but it's always possible some major concern remains.
+21:17 < rtyler> I'm still in the early 2000s on my resolution reading, so I'll add this to the stack
+21:17 < rtyler> WHEREAS, rtyler wishes he had more free time
+21:17 < tbm> :)
+21:17 < Hydroxide> hopefully none do :) the link to past discussion in my email should give you a rabbit hole of links with more historical context
+21:17 < Hydroxide> haha :)
+21:18 < tbm> [item 9, Next board meeting]
+21:18 < tbm> The next board meeting is scheduled for: June 11th, 2018
+21:18 < tbm> Any objections?
+21:18 < rtyler> none from me, I'll be there :)
+21:18 < schultmc> none from me
+21:18 < tbm> Ok, thank you everyone
+21:18 < tbm> *GAVEL*
