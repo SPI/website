@@ -1,0 +1,202 @@
+21:14 < luca> *gavel*
+21:14 < schultmc> I have a text file
+21:14 < luca> what now? :)
+21:14 < schultmc> [item 1, Opening]
+21:14 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:14 < schultmc> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-06-11/
+21:14 < schultmc> [item 2, Roll Call]
+21:14 < schultmc> Directors, please state your name
+21:14 < luca> Luca Filipozzi
+21:14 < schultmc> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+21:14 < Hydroxide> Jimmy Kaplowitz
+21:14 < tpot> Tim Potter
+21:14 < schultmc> Michael Schultheiss
+21:14 < rtyler> R Tyler Croy
+21:14 < spectranaut> Valerie Young
+21:15 < spectranaut> tridge: ?
+21:15 < Hydroxide> tridge: name for roll call? (we have quorum either way)
+21:15 < schultmc> tridge?
+21:15 < tridge> Andrew Tridgell
+21:15 < tridge> sorry
+21:15 < schultmc> [item 3, President's Report]
+21:15 < schultmc> tbm is absent but a report is in the agenda
+21:15 < schultmc> [item 4, Treasurer's Report]
+21:15 < Hydroxide> copy-pasting the president's report for the meeting log: "I'm concerned that payments haven't been processed the last few weeks
+21:16 < Hydroxide> and that a backlog is building up again.  There also hasn't been much
+21:16 < Hydroxide> progress on the treasurer report for 2017.  Finance is our core area
+21:16 < Hydroxide> and we have to do better."
+21:16 < schultmc> I'm working on catching up on outstanding treasurer duties, primarily reimbursements.
+21:16 < schultmc> issues at work and home have made me less available but I have more availability starting today
+21:17 < tpot> Should we declare a day of the month when payments should be processed for the proceeding month?
+21:17 < tpot> I've been doing stuff on demand but it looks like we can't get away with that anymore.
+21:17 < schultmc> we should come up with some sort of policy
+21:18 < tpot> yep - shall I put someting together and send to the board list?
+21:18 < schultmc> immediate responses aren't feasible but people whouldn't have long delays either
+21:18 < schultmc> that would be helpful
+21:18 < rtyler> tpot: sounds good to me
+21:19 < schultmc> [item 5, Secretary's report]
+21:19 < spectranaut> nothing to report!
+21:19 < schultmc> [item 6, Outstanding minutes]
+21:19 < schultmc> The minutes for 2018-05-14 require approval.
+21:19 < schultmc> They can be found at http://spi-inc.org/meetings/minutes/2018/2018-05-14/
+21:19 < spectranaut> Vote on Meeting Minutes for Monday, 14th May 2018 - vote yes/no/abstain: rtyler schultmc Hydroxide spectranaut tpot tridge luca
+21:20 < schultmc> !vote yes
+21:20 < rtyler> !vote yes
+21:20 < spectranaut> !vote yes
+21:20 < tridge> !vote yes
+21:20 < luca> !vote yes
+21:20 < Hydroxide> !vote yes
+21:21 < tpot> !vote yes
+21:21 < spectranaut> luca you weren't at the last meeting but I suppose you could approve them..
+21:21 < spectranaut> vote passes regardless!
+21:21 < luca> spectranaut: i read them and agreed with everything :)
+21:21 < spectranaut> haha ok
+21:22 < schultmc> [item 7, Items up for discussion]
+21:22 < schultmc> [item 7.1, IT plan]
+21:22 < schultmc> luca: ?
+21:22 < luca> I emailed the board a suggestion
+21:22 < luca> RT is the only thing that keeps us in a machine
+21:23 < rtyler> do we have friends at Gandi to reach out about some open source freebies?
+21:23 < luca> everything else could be Google for Non-Profits for mail / lists and github for git and that site for webiste
+21:24 < luca> rtyler: i have contacts at Gandi; i'm not interested in freebies; i'm more interested in deciding what we want to do
+21:24 < rtyler> luca: the email proposal doesn't include anything about Google for Non-Profits, is that because it's not your preferred option?
+21:25 < luca> so long as we want RT (and not Gossamer Threads)
+21:25 < Hydroxide> luca: I don't mind that set of choices. we might get some blowback from Debian folks on ideological grounds. but from my perspective the main things we need to be sure of are that we won't be problematically compromising the privacy of others' data, our ability to comply with applicable privacy laws, our ability to use free software to interact with it, and our ability to migrate away without being unduly
+21:25 < Hydroxide> locked in
+21:25 < luca> well, that's the thing
+21:25 < luca> if we say "open source should be built with open source", the we draw the line at IaaS and get a VM and RDS
+21:26 < luca> please, at least RDS
+21:26 < schultmc> our sysadmin team is tiny - if we keep running our own infrastructure we need more volunteers
+21:26 < luca> if we say "meh, use whatever", then it can be Google for Non-Profits
+21:26 < luca> so i struck a middle ground
+21:26 < luca> just wanting to know your feeling
+21:26 < luca> schultmc: we can dramatically reduce the number of machines; really, everything in that list can be one VM
+21:27 < Hydroxide> I'm fine with the constraints I listed above, which are compatible with using Google for Nonprofits for things like email except for any member project concerns.
+21:28 < Hydroxide> and therefore I'm also fine with less proprietary solutions like IaaS + RDS if we decide we want to go that way
+21:28 < tpot> The advantage of AWS etc is that you get GDPR for free and there's less question of whether we are compliant or not.
+21:28 < Hydroxide> tpot: no, we don't get GDPR for free with any of these vendors - they do their bit but that doesn't mean we don't have to do ours
+21:29 < tpot> ok true but you get a base level and the ability to make something compliant
+21:29 < Hydroxide> tpot: the data access request still comes to us as controller, even if they sign EU-compliant processor agreements with us (as both Amazon and Google would be willing to).
+21:29 < Hydroxide> yup, it's definitely easier in some ways with managed infrastructure than with stuff we have to wrangle
+21:30 < Hydroxide> btw I do want to briefly mention GDPR in the Any Other Business section, but just flagging that for now, not interrupting the IT discussion
+21:31 < rtyler> luca: I was just curious about the whole Google for Non-Profits thing because it wasn't included in the options, if that simplifies things I'm all for it
+21:31 < luca> rtyler: it would simplify in that we'd move @spi-inc.org to Google
+21:31 < rtyler> I think Debian is going to be the most concerned associate project as far as privacy concerns go, but most of what we'd be hosting in Google for Non-Profits wouldn't be project information?
+21:31 < luca> rtyler: we'd move mailing lists there, too
+21:32 < luca> well, the mailing lists have piles of stuff
+21:32 < Hydroxide> rtyler: we already have Google for Non-Profits, we just haven't so far decided to use it for anything more than Google Voice for PayPal purposes and for assisting Debian with wranglilng their interactions with Google Cloud Platform
+21:32 < rtyler> ahhh
+21:32 < rtyler> my misunderstanding
+21:32 < luca> we're still stuck with RT
+21:33 < luca> unless we want a different ticketing solution
+21:33 < luca> for example, Atlassian
+21:33 < luca> so, let's not spend too much time
+21:33 < Hydroxide> I don't see a problem with spending $350/month or $4200/year if it will save a lot of volunteer time. I'd be fine with something cheaper too
+21:34 < Hydroxide> ($350/month is the Gossamer Threads price)
+21:34 < schultmc> we have a decent bank balance for SPI general and if we're actively spending money it'll be easy to fundraise most likely
+21:34 < rtyler> Hydroxide: agreed
+21:34 < luca> okay, then what i'll do is identify the no-IaaS version and reply to my email
+21:35 < luca> i'll reach out to GT (they're in Vancouver ... or an office is)
+21:35 < Hydroxide> the money is there for a reason. we don't want to waste it, but spending some of it for a valuable time savings is not wasting it
+21:35 < luca> and see what they can do for SPI as a non-profit
+21:35 < luca> is that reasonable?
+21:35 < luca> i'll reply by end of week
+21:35 < schultmc> seems reasonable to me
+21:35 < Hydroxide> yes, a community-minded free software non-profit can probably get some deal from most vendors like that
+21:35 < Hydroxide> thanks
+21:35 < luca> okay, thanks
+21:36 < schultmc> [item 7.2, Elections]
+21:36 < spectranaut> I'll announce the elections this Friday
+21:36 < spectranaut> This is primarially a reminder they are coming up
+21:36 < rtyler> \o/
+21:36 < Hydroxide> four of us were elected in july 2016. had someone decided to resign and run for re-electio this cycle to even things out?
+21:37 < rtyler> I thought I was evening things out?
+21:37 < Hydroxide> this is not meant as pressure, I just haven't seen anything public or finally acted upon, so I figured I'd ask.
+21:37 < spectranaut> I'm trying to find the email from Luca..
+21:38 < Hydroxide> rtyler: I think you're one of two current board members up for election this year, maybe three
+21:38 < Hydroxide> rtyler: the cycles are a bit haphazard until we get the new bylaws approved - which are still on track for a vote this year, but the current threshold is high enough that we can't assume they'll take effect this year.
+21:39 < rtyler> gotcha
+21:39 < schultmc> Last elected	Name	Role
+21:39 < schultmc> July 2017	Martin Michlmayr	President
+21:39 < schultmc> July 2016	Luca Filipozzi	Vice President
+21:39 < schultmc> July 2015	Michael Schultheiss	Treasurer
+21:39 < schultmc> July 2016	Valerie Young	Secretary
+21:39 < schultmc> March 2018	R. Tyler Croy	Interim Director
+21:39 < schultmc> July 2016	Jimmy Kaplowitz
+21:39 < schultmc> July 2017	Tim Potter
+21:39 < luca> appointing rtyler scres up the list
+21:39 < schultmc> July 2017	Andrew Tridgell
+21:39 < schultmc> July 2016	Martin Zobel-Helas
+21:40 < spectranaut> so schultmc is up for re-election, and rtyler (in a sense) and one more
+21:40 < spectranaut> probably someone from 2016
+21:41 < spectranaut> I'm not postive I can commit to 4 more years, which is why I'm a bit relunctant -- right now I've only 1 :)
+21:42 < luca> either rytler because he's filling a hole
+21:42 < luca> or if that's unfair, then me
+21:42 < rtyler> I was under the understanding that I was running again this year
+21:42 < spectranaut> I thought rtyler had to run again, as he is interim?
+21:42 < schultmc> that was my understanding too
+21:42 < luca> rtyler: okay, good
+21:42 < luca> if no one else volunteers, the third can be me
+21:42 < rtyler> tbm told me the rulez before I signed up for this crasziness
+21:42 < Hydroxide> correct, rtyler's interim appointment expires with the election results
+21:43 < luca> let me find my email
+21:43 < spectranaut> I have it
+21:43 < luca> throw it up
+21:43  * rtyler vomits
+21:43 < Hydroxide> the odds of me being able to usefully stay on the board until summer 2022 are frustratingly evenly divided between yes and no, so I'd prefer to decide on my SPI board future next year than this cycle.
+21:44 < Hydroxide> (err, same with summer 2021)
+21:44 < spectranaut> I forward it to the board -- it's long
+21:44 < Hydroxide> meh, for a luca email that's terse :P
+21:44 < spectranaut> haha
+21:45 < spectranaut> so sounds like luca is willing to go up again for re-election, committing potentionally to another three years? :)
+21:45 < luca> right, so we need one from group C
+21:46 < luca> right
+21:46 < spectranaut> ok great :) thanks luca!
+21:46 < tridge> group C ?
+21:46 < Hydroxide> yes, thanks!
+21:46 < spectranaut> we can move on I believe
+21:46 < Hydroxide> tridge: from luca's email
+21:46 < tridge> thx
+21:47 < tridge> I'm happy to go up for election if that helps
+21:47 < schultmc> [item 8, Any other business]
+21:47 < schultmc> Anything?
+21:47 < spectranaut> no need I think, tridge
+21:47  * schultmc sent a message to the board on May 24 - it'd be nice to have someone respond to them
+21:48 < schultmc> although it may be moot since their website is currently offline
+21:48 < Hydroxide> yes, I have two brief things
+21:48 < Hydroxide> Note about bylaws: I will be adding a FAQ/change summary to the SPI website within what's left of June, and proposing a resolution for us to vote on at the July annual meeting (or the regular July board meeting). The member vote can happen following the board elections and inactive member cleanup, as already planned.
+21:49 < luca> ok
+21:49 < Hydroxide> Note about GDPR: I had erroneously been waiting on Debian's inquiries. We should push forward with figuring out our own compliance strategy in parallel with their inquiries. But I do have three pointers that they've found or come up with, as a partial input. Let's discuss more via email.
+21:50 < Hydroxide> (I will send an email to go into more detail. it wouldn't be a productive use of our last few minutes of meeting time today.)
+21:50 < tridge> would GDPR impact the paypal reporting proposal I sent yesterday?
+21:50 < tridge> we can do it in email ...
+21:51 < Hydroxide> tridge: we'll need to examine that question. if we're retaining and sharing personal data of Europeans or anyone's personal processed in Europe, we'll need to make sure we have a GDPR-compliant basis, either consent or not, and the ability to react to GDPR requests about that data & sharing.
+21:51 < Hydroxide> s/anyone's personal/anyone's personal data/
+21:51 < luca> we need to take this to email
+21:51 < Hydroxide> yup.
+21:51 < luca> we're at :51 and need to wrap
+21:52 < luca> AOB?
+21:52 < Hydroxide> I'm done.
+21:52 < schultmc> [item 9, Next board meeting]
+21:52 < schultmc> The next board meeting is scheduled for: July 9th, 2018
+21:52 < schultmc> Any objections?
+21:52  * schultmc will be out of town july 9
+21:52 < schultmc> but may be available regardless
+21:52 < Hydroxide> tentatively fine for me.
+21:52 < luca> no objection
+21:52 < spectranaut> no objections
+21:52 < rtyler> I may or may not be able to be available for that, will send an email to the board if so
+21:52 < rtyler> July is really dicey for me
+21:52 < tridge> ok for me
+21:53 < rtyler> but I'll figure something out
+21:53 < Hydroxide> are we doing anything about the annual meeting that we usually do on july 1?
+21:53 < Hydroxide> maybe explicitly combine it with the july 9 thing?
+21:53 < schultmc> we typically combine it with the july meeting
+21:53 < Hydroxide> that way we avoid july 1 (canada day - we have two of us in canada) and july 4 (US independence day)
+21:53 < Hydroxide> yup, we just decide explicitly each time
+21:53 < schultmc> i'll be out of town july 1 as well
+21:53 < Hydroxide> that works for me.
+21:54 < schultmc> but will be at a convention so more available on the 2nd than the 9th possibly
+21:55 < schultmc> we can finalize the date via email
+21:55 < Hydroxide> can't be sure of my (in)availability either way, but I'm marginally more likely to be free on the 9th. anyway I don't feel strongly. either I'll show or I'll send my first regrets in a while.
+21:55 < schultmc> *GAVEL*
