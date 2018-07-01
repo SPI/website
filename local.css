@@ -104,9 +104,12 @@ body {
 }
 
 h1 { font: 120% sans-serif }
-h2 { font: bold 100% sans-serif }
+h2 { font: bold 120% sans-serif }
 h3 { font: italic 100% sans-serif; font-weight: bold; }
-h4, h5, h6 { font: small-caps 100% sans-serif }
+h4, h5, h6 { font: small-caps 100% sans-serif; font-weight: bold; }
+h4 { font-size: 90%; }
+h5 { font-size: 80%; }
+h6 { font-size: 70%; }
 
 /* Smaller headings for inline pages */
 .inlinepage h1 { font-size: 110% }
