@@ -1,0 +1,304 @@
+21:00 < tbm> *GAVEL*
+21:00 < tbm> [item 1, Opening]
+21:00 < tbm> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:00 < tbm> Today's agenda can be found on the web at: http://spi-inc.org/meetings/agendas/2018/2018-07-09/
+21:00 < tbm> [item 2, Roll Call]
+21:00 < tbm> Directors, please state your name
+21:00 < tbm> Guests (including board advisors), please /msg your names to spectranaut if you wish your attendance to be recorded in the minutes of this meeting.
+21:00 < tbm> Martin Michlmayr
+21:00 < tpot> Tim Potter
+21:00 < luca> Luca Filipozzi
+21:00 < Hydroxide> Jimmy Kaplowitz
+21:00 < tridge> Andrew Tridgell
+21:00 < rtyler> R Tyler Croy
+21:01 < schultmc> Michael Schultheiss
+21:01 < spectranaut> Valerie Young
+21:01 < tbm> only zobel and he's around
+21:01 < zobel> Martin Zobel-helas
+21:01 < tbm> [item 3, President's Report]
+21:01 < tbm> We had a good year and I'd like to thank everyone who actively
+21:02 < tbm> participated in SPI.
+21:02 < tbm>
+21:02 < zobel> sorry, got distracted by ledger.
+21:02 < tbm> While I'm happy that we made a lot of progress, I'm also disappointed
+21:02 < tbm> we haven't resolved many of the key problems.  It seems that for each
+21:02 < tbm> step we take forward, we make half a step backwards, or rather, we're
+21:02 < tbm> not able to keep up.
+21:02 < tbm> <end>
+21:02 < tbm> [item 4, Treasurer's Report]
+21:03 < schultmc> We're continuing to make progress on the outstanding requests in RT. I plan on dedicating tie to keep us more up to date and help prevent future backlogs.
+21:03 < tbm> schultmc, zobel
+21:03 < schultmc> Thank you for zobel and tbm for their continued assistance
+21:03 < schultmc> s/tie/time/
+21:03 < rtyler> :clap:
+21:03 < tbm> tpot also did a lot of work on getting 2017 done
+21:04 < tbm> unfortunately, we're not quite ready to release it
+21:04 < schultmc> yes, thank you to tpot as well
+21:04 < tbm> The annual report is ready otherwise
+21:04 < zobel> i currently try to identify the last few transactions that make problems to close the books on 2017
+21:04 < zobel> i hope to spend time this week with tbm to do so.
+21:05 < tbm> schultmc: are you around this week?
+21:05 < schultmc> I'll be done travelling this evening and will have more time and more stable internet connections to o
+21:05 < schultmc> yes, i'm around this week
+21:05 < tbm> schultmc: are you around wednesday evening European time for a sprint?
+21:06 < schultmc> yes, I can be available until 2130 UTC
+21:06 < schultmc> I can be available shortly after 2200 UTC as well
+21:06 < zobel> that should work. /me will be around starting 18:30 UTC or so.
+21:07 < tbm> ok, let's plan to meet 18:30 UTC
+21:07 < schultmc> works for me
+21:07 < tbm> so I'll wait with the publication of the annual report until then
+21:07 < tbm> [item 5, Secretary's report]
+21:07 < zobel> totte_: i will try very hard to give you an updated number by end of week.
+21:08 < tbm> spectranaut: anything?
+21:08 < spectranaut> nothing to report -- I can't give an update on the elections as I haven't had a chance to check email since last week. And the minutes are late as well -- both will be up before August meeting
+21:09 < rtyler> the nominations close on the 11th correct?
+21:09 < tbm> spectranaut: last year we sent a reminder for nominations
+21:09 < tbm> spectranaut: maybe you could do that today or tomorrow
+21:09 < spectranaut> Sounds good -- will tonight
+21:09 < zobel> and social media?
+21:10 < tbm> rtyler: yes, 11th
+21:10 < spectranaut> and zobel: right! I'll tweet
+21:11 < tbm> [item 6, Outstanding minutes]
+21:11 < tbm> The minutes for 11th June 2018 are not done.  Hopefully next meeting.
+21:11 < tbm> [item 7, Items up for discussion]
+21:11 < tbm> [item 7.1, Resolution 2018-07-06.jrk.1: Proposing replacement SPI bylaws to the members]
+21:11 < tbm> Hydroxide
+21:11 < Hydroxide> Brief explanation: This sets us up to have the members vote on the new bylaws as soon as spectranaut or her choice of delegate(s) can feasibly run the vote, escept not during the major US holiday season and not until after we do the usual inactive member cleanup this year.
+21:11 < Hydroxide> Longer explanation is in this FAQ, which also links to the documents we're approving: http://www.spi-inc.org/corporate/votes/2018-bylaws-revision/2018-bylaws-revision-faq/
+21:11 < Hydroxide> Note that we can't do an inactive member cleanup according to our resolutions if we don't have a board member election this year, so if we have 3 or fewer director candidates by the end of the nomination period, we'll have to vote on the bylaws with the contributing membership we have.
+21:11 < Hydroxide> Happy to answer questions before we vote, but there have been lots of rounds of discussion already, so I hope most of those have been answered.
+21:11 < Hydroxide> (done)
+21:12 < spectranaut> awesome work Hydroxide, on the FAQ
+21:12 < tpot> yeah - it's a great resource!
+21:12 < rtyler> Hydroxide: iirc you had mentioned August as a potential time to vote, is that good for europeans?
+21:13 < Hydroxide> rtyler: I doubt it will be august, no - if we have a contested director election this month, first we have to wait for that to conclude, and then do the contributing member expiry procedure
+21:13 < Hydroxide> rtyler: I suspect september or october is most likely, at spectranaut's discretion.
+21:13 < rtyler> ah, okay
+21:14 < Hydroxide> anything else before we vote?
+21:15 < tbm> I find the resolution a bit verbose but I'm ok with it if Hydroxide wants all the detail in there
+21:15 < rtyler> Hydroxide: so I'm clear on the 'what' here, we're deciding whether to put this to a contributor vote?
+21:15 < Hydroxide> as I noted before the meeting, some of the detail could be removed, but we'd have to document that detail somewhere or else do substantially the same process without the documentation
+21:16 < Hydroxide> rtyler: what we're voting is on two things: primarily, (1) sending the new bylaws to the members for their approval, with guidelines around the specific member vote; and (2) pre-approving the initial contents of the consolidated membership guidelines document which the new bylaws reference (no intended substantive change to current membership practice)
+21:17 < rtyler> aha
+21:17 < rtyler> thanks for the clarification
+21:17 < spectranaut> should we vote?
+21:18 < rtyler> fine by me :D
+21:18 < Hydroxide> in the absence of further questions, yes
+21:18 < spectranaut> Vote on Resolution 2018-07-06.jrk.1: Proposing replacement SPI bylaws to the members - vote yes/no/abstain: rtyler schultmc Hydroxide spectranaut tpot tridge luca zobel tbm
+21:18 < zobel> !vote yes
+21:18 < tbm> !vote yes
+21:18 < Hydroxide> !vote yes
+21:18 < spectranaut> !vote yes
+21:18 < luca> !vote yes
+21:18 < tpot> !vote yes
+21:18 < tridge> !vote yes
+21:18 < rtyler> !vote yes
+21:19 < spectranaut> schultmc: ?
+21:19 < schultmc> !vote yes
+21:19 < schultmc> sorry
+21:19 < spectranaut> Vote passes.
+21:20 < Hydroxide> thanks all! hopefully we can get this member-approved and finally done with before the next annual election cycle :)
+21:20 < tbm> [item 7.2, IT plan]
+21:20 < tbm> luca
+21:21 < luca> we've made some progress
+21:21 < luca> but not enough
+21:21 < luca> we will need a formal vote by the new board on whether to go serverless or traditional
+21:21 < luca> since i am getting mixed messages from various directors
+21:22 < luca> so, my proposal is that the first meeting post-election include this as voted-upon item
+21:22 < luca> as you know, i've resigned one year early to allow for the alignment of board terms
+21:22 < luca> that said, i will be running again and if the new board appoints me as VP, then this vote will be the first step on moving forward
+21:22 < luca> (i.e., be prepared :) )
+21:23 < tbm> Right.  I think it would be beneficial to have more discussion among those interested in IT
+21:23 < tbm> about pros and cons of the approaches
+21:23 < Hydroxide> I'm fine with a formal board vote if you'll find it useful to give you direction, but my vote in my capacity as director on serverless vs traditional will be "I defer to your judgment"
+21:24 < tbm> maybe it makes sense to include Noodles since he was interested at some point
+21:24 < luca> the board needs to be clearer, in my view
+21:24 < luca> i'm happy to devote a whole meeting to a discussion
+21:24 < Noodles> I'm quite interested in the whole SPI membership system being hosted on SPI run infrastructure rather than my personal machine.
+21:24 < luca> but i want to avoid being told one thing at a meeting and have follow ups in email that are in oppositino
+21:24 < tbm> I don't think we fully understand the requiements and big picture. There are arguments for both approaches
+21:24 < Hydroxide> I could discuss further pros and cons in a technical capacity, but I feel less need to manage that level of detail in my capacity as director
+21:25 < tbm> and to me it's not obvious which one makes sense.
+21:25 < Hydroxide> u less there's a major cost, portability, or privacy difference
+21:25 < Hydroxide> *unless
+21:26 < luca> so, i ask that the new chair devote the first meeting, almost in its entirety to the discussion
+21:26 < luca> s/new chair/new president/
+21:26 < Hydroxide> e'll need to elect officers, but ir can be a major topic otherwise
+21:26 < luca> right; after that election of officers
+21:27 < tbm> Ok, next item then
+21:27 < tbm> [item 7.3, The future of SPI]
+21:27 < tbm> I'll just copy the intro paragraphs from an email I sent to the board a few weeks ago.  Sorry, this is quite long:
+21:27 < tbm> I'd like to discuss the operating model of SPI.  I'm becoming more and
+21:27 < tbm> more convinced that the way we do things no longer works.  SPI
+21:27 < tbm> operates the same way we've done 20 years ago - based on the volunteer
+21:27 < tbm> labour of the board (and some other volunteers).  It is thanks to our
+21:27 < tbm> volunteers (like Michael who has pretty much single-handedly kept
+21:27 < tbm> treasury going for over a decade) that we've been successful.
+21:27 < tbm>
+21:27 < tbm> However, the world has changed in the last 20 years.  Projects have
+21:27 < tbm> grown and the community has become more mature.  We have over a
+21:27 < tbm> million USD in assets now, about 800k held for projects and 200k from
+21:27 < tbm> SPI.  When I look around, the majority of open source orgs have some
+21:27 < tbm> kind of staff these days.  I believe we're not doing our projects
+21:27 < tbm> justice by limiting us to what we can do as volunteers.  I believe SPI
+21:27 < tbm> could be and do so much more (more projects, more services, a more
+21:27 < tbm> active engagement with projects and the community, etc).
+21:27 < tbm>
+21:27 < tbm> Fundamentally, I believe it's time for SPI to move from a
+21:27 < tbm> volunteer-run organization to a model where we have some kind of staff
+21:27 < tbm> (doesn't have to be full-time employees) and where the board provides
+21:27 < tbm> direction and oversight. (Of course, like in any non-profit,
+21:27 < tbm> additional volunteer time is welcome)
+21:27 < tbm>
+21:27 < tbm> --
+21:27 < tbm> we had some conversation about this but haven't really reached any conclusions
+21:28 < tbm> I'd like to discuss how to move forward
+21:29 < tbm> Any suggestions?
+21:29 < tridge> do we know what net income is likely to be, so we know how much would be available to pay staff?
+21:29 < luca> thank you for raising this at the AGM
+21:29 < schultmc> the treasury team could definitely use paid assistance - we've had good experiences with paid help for processing debconf reimbursements for instance
+21:29 < totte_> Define potential staff tasks. Perhaps devote some to the RT queue.
+21:30 < tbm> tridge: not exactly.  We know roughly how much donations there are to projects each year and we get 5%.  We also have some regular corporate sponsors
+21:30 < schultmc> SPI has never fundraised for itself - with concrete goals we could likely fundraise without much difficulty
+21:30 < tbm> tridge: but I think we'd need to do some fundraising.  We could get substantial amounts if we want to change the way we operate
+21:31 < Hydroxide> totte_: yes, RT queue processing would be among the major purposes. though that being a task-tracking system, that's more the means to the purposes than the direct purposes
+21:31 < luca> we've already identified and used a contractor for DebConf 2017 reimbursements (she's from my Uni) but I think tbm means more than that?
+21:31 < tbm> tridge: but yes, if we have more expenses (and that inludes luca's IT plan) we need a budget
+21:31 < spectranaut> can we some how send a survey to our projects, to see how they feel about this?
+21:31 < tbm> luca: yes, we should see how to use the admin more, but I think there are many tasks that need to be done that are more than an admin
+21:31 < luca> two surveys, maybe? one to project liaisons and one to members?
+21:31 < tbm> including maintaining good relationships with our projects
+21:31 < tbm> right now we're too reactive
+21:32 < totte_> Hydroxide: I imagine that there are recurring tasks there that may not be automated, but better suited to paid staff than directors.
+21:32 < Hydroxide> we could get good use out of one or more contractors, one or more part-time or even full-time employees (not a huge compliance hassle in the US for a small number of them), and also we could outsource some administrative work and task tracking to association management companies.
+21:32 < tbm> I think we shold probably compile a list of ongoing tasks in SPI and tasks we *should* do but are not doing because of lack of manpower
+21:32 < tbm> and then go from there.
+21:32 < Hydroxide> (to be clear, neither I nor anyone else is suggesting paying or outsourcing director or officer duties, just the routine day-to-day tasks.)
+21:33 < Hydroxide> totte_: yeayh
+21:33 < spectranaut> what about the day-to-day task of managing employees
+21:33 < tbm> yes, officers will need to manage them.  This is something we need to figure out
+21:33 < Hydroxide> spectranaut: if we have one employee or significant-time contractor, see tbm's answer. if we end up having more than that, one of them would be an executive director position and that includes managing the others.
+21:34 < tbm> but if we have someone more than an admin (program manager or ED type), they can do the day to day management
+21:34 < Hydroxide> (not actually a director in the board sense, it's just a title)
+21:34 < zobel> if we can agree on having Sabrina hired again maybe it is worth to have her at the f2f?
+21:35 < Hydroxide> zobel: if we want one or more part-time contractors, Sabrina can certainly be among them as far as I'm concerned. if we need anything more full-time or employee-ish than that, she has a day job and isn't in the US so it might get awkward.
+21:35 < zobel> i am aware of that.
+21:35 < zobel> just saying.
+21:35  * Hydroxide nods
+21:36 < tbm> Hydroxide: I'm not sure non-US is a problem, is it?
+21:36 < tbm> so I heard two things:
+21:36 < tbm> 1) survey
+21:36 < tbm> 2) list of tasks
+21:37 < spectranaut> so -- if we start with compiling a list of task this month as tbm suggested, perhaps we could create a survey from that for next month. Where shall we keep the list -- perhaps a page on the website for transparency?
+21:37 < tbm> re 1) what are we hoping to hear? What are the questions we want to ask?  We alrady know projects are unhappy with our services.
+21:37 < Hydroxide> tbm: if they're an employee outside the US rather than a contractor, it means more legal/tax compliance obligations for us and possibly less ability to fire quickly in case of bad match. the US is unusual in how low-hassle it is to have a small number of employees, plus we already have to deal with US compliance.
+21:37 < tbm> re 2) can everyone add their tasks?  maybe we can start an etherpad somewhere. Tasks that we do at the moment, and things we should or would like to do but can't
+21:38 < tridge> should we get opinions from liasons on the possibility of increasing the 5% contribution if it increases service level?
+21:38 < tridge> with my ardupilot hat on I'd support that, but I don't know how many other projects would
+21:38 < tbm> tridge: yeah, that might be a godo idea
+21:38 < tbm> 5% is fairly low compared to other orgs
+21:38 < spectranaut> or their opinion on whether or not to hire tbm, for example
+21:39 < spectranaut> or some other director, to have more dedicated time for SPI
+21:39 < tridge> tbm: yes, its very low
+21:39 < totte_> How about requesting feedback on 2) on spi-general?
+21:40 < tbm> totte_: yeah, good idea.  Maybe the board can start an Etherpad and then circulate that for further input
+21:40 < zobel> spectranaut: afaik presidents can't be hired as employee as per our bylaws?
+21:40 < tbm> totte_: or ask more generally what projects would like to see from us
+21:40 < Hydroxide> spectranaut: yup. I should mention I could possibly consider that myself - I now live in a cheap cost of living city :) but tbm has been far more active than me on SPI matters recently, so I shouldn't be considered unless we don't go with him.
+21:40 < tridge> hmm, how would a change in the 5% work? Do we need member vote on that?
+21:40 < tridge> I'm not sure how its set
+21:40 < Hydroxide> tridge: we'd probably need the projects to agree but not members. it's a board resolution and maybe some implicit part of the agreements with our projects
+21:41 < tbm> tridge: we don't have proper agreements, so we'd probably need projects to agree
+21:41 < Hydroxide> zobel: where do you see that in the bylaws? I don't see that.
+21:41 < Hydroxide> (the current ones, I mean)
+21:41 < Hydroxide> "No officer or director shall for reason of the office be entitled to receive any salary or compensation, but nothing herein shall be construed to prevent an officer or director from receiving any compensation from the organization for duties other than as a director or officer.
+21:42 < Hydroxide> [e.g. compensation as an employee would still be allowed]"
+21:42 < tbm> spectranaut: I think who to hire/contract is the second stage. First we need to figure out what we need. When we kno
+21:42 < zobel> i remember mishi saying so.
+21:42 < tbm> what we want, we can set up a hiring ctte (ideally with people who have experience in that area)
+21:43 < tbm> the question is whether we should do some interim solution, e.g. pledge the 25k from craigslist and use that for some work.
+21:43 < Hydroxide> zobel: anyway, if we want to hire tbm but decide that his officer role is a problem, that could be resolved, either through flexibility in the new bylaws or by picking someone else as president.
+21:44 < Hydroxide> I guess if his employee duties match his president duties rather than being in a different capacity, then yeah paying him would contradict the current wording.
+21:44 < Hydroxide> (while he's still our president)
+21:45 < Hydroxide> tbm: is there a concrete proposal to consider for the 25k? I'm open to it. but we shouldn't start something long-term with a finite lump of money like that...
+21:46 < tbm> Hydroxide: there isn't a concrete proposal for anything.  I was just thinking we could pick some high urgency tasks and see who wants to work on them
+21:47 < Hydroxide> *nod* zobel is right that we would need to consult mishi to figure out what's acceptable under our current bylaws if we're trying to pay any of us directors or officers, but in general paying someone to reduce our current backlog sounds good to me.
+21:48 < rtyler> :thumbsup:
+21:48 < tbm> ok, so regarding the survey.  What should be in it?
+21:48 < tbm> Who can work on it?
+21:49 < tbm> The meeting is getting long but I fear if we take this offline with concrete action items and volunteers we won't make any progress
+21:50 < tbm> *without
+21:50 < spectranaut> We might want to make the survey after we have the list
+21:50 < spectranaut> I think
+21:50 < spectranaut> I'm happy to email out an ether pad tonight
+21:50 < spectranaut> although -- you have been talking about this list of tasks for a while, did you start on a git repo, tbm?
+21:51 < tbm> no
+21:51 < tbm> I have some items locally.  I can add them to the etherpad you create
+21:51 < spectranaut> Great
+21:51 < spectranaut> I'll do it
+21:51 < tbm> Any other input?
+21:51 < tbm> Anyone willing to drive this?
+21:51 < spectranaut> Let's put the survey on the next agenda? An action item to get volunteers to write it
+21:52 < spectranaut> I'll take over hounding people to add to the list of tasks list
+21:52 < spectranaut> for the next month
+21:52 < zobel> are we post meeting or are we still on agenda? :)
+21:52 < Hydroxide> still on agenda - I have one thing to mention in AOB
+21:52 < tbm> We're still on the agenda
+21:53 < Hydroxide> but hopefully a brief thing :)
+21:53 < spectranaut> I have something to mention in the AOB as well
+21:53 < tbm> Ok
+21:53 < tbm> [item 8, Any other business]
+21:53 < tbm> Hydroxide: you go first
+21:53 < Hydroxide> Google is sponsoring Google Cloud Platform credit for Debian to use in running
+21:53 < Hydroxide> Salsa, its self-hosted Gitlab instance. They don't intend to incur charges
+21:53 < Hydroxide> above the Google sponsorship, so this should cost nothing.
+21:53 < Hydroxide> With that said, the system requires a payment method due to the risk of overages, so it may be necessary to attach the SPI debit card to Salsa's GCP billing account. This will only happen after receiving Debian project liaison (DPL) approval, and any such overages would be charged against Debian's SPI funds.
+21:54 < Hydroxide> Does the board, especially the treasury team, have any concerns with this? I can make sure any interested directors have access to GCP billing info through SPI's G Suite account, submit any useful RT tickets, or otherwise facilitate tracking and recording.
+21:54 < Hydroxide> (done)
+21:54 < schultmc> no concerns
+21:54 < rtyler> we needed to do something similar for the Jenkins project's sponsorship on Azure
+21:55 < rtyler> so long as they're product about cost monitoring, clouds have a tendency to run away with charges sometimes :)
+21:55 < Hydroxide> cool, thanks. this was just an FYI + chance for concerns to be raised. hearing no concerns, nothing further from me on this item.
+21:55 < tbm> spectranaut?
+21:55 < spectranaut> I unfortunately don't have enough time to reliably be secretary this next year -- my work has become more intense and I've additionally taken on to much outside of it (a one year obligation at an unrelated to freesoftware local non-profit). I hope that others will consider the seccretary position, I know tpot has been interested in the past.
+21:55 < schultmc> we should track accounts we have our card info on somewhere so we know when to update them for card expiry date changes
+21:55 < spectranaut> thats all I had to say :)
+21:56  * Hydroxide nods at schultmc
+21:56 < tbm> spectranaut: ok, thanks for your service!
+21:56 < Hydroxide> spectranaut: thanks for doing secretary for the time you've done it!
+21:56 < tbm> Any questions from our members?
+21:56 < luca> spectranaut: thanks
+21:57 < totte_> Yes, there was a question raised regarding SPI and AWS on one of the mailing lists.
+21:57  * luca must depart for work meeting
+21:57 < rtyler> o/
+21:57 < Noodles> I'd like to say I'm in favour of paid positions as part of SPI. I think the organisation still has a lot to offer as a hands off umbrella, but needs to be able to fulfil its duties and scale.
+21:58 < Noodles> I really appreciate the work that has gone in since I left the board in terms of making progress.
+21:58 < tbm> totte_: what question was that?
+21:58 < Noodles> But there's a lot more that needs to happen and it's clear relying solely on volunteer time isn't enough.
+21:59 < totte_> Unfortunately I can't find the mail in question, but there were hints that NPOs such as SPI may be given a (yearly?) credit and act as a sort of umbrella organisation for its members. This may be preferable to using my private credit card and being reimbursed at a later date.
+22:00 < tbm> totte_: one project signed up via the NPO program. We'd have to check if we get this 1x for SPI or 1x for each project
+22:00  * totte_ nods.
+22:00 < Hydroxide> totte_: we definitely have a Visa debit (not credit) card tied to our bank account. with proper project liaison approval and sufficient project funds held with SPI to cover any likely charges, we can do like was just discussed for Debian. credits from Amazon or any other sponsor could generally be applied to such accounts
+22:00 < tbm> and it sounds like Google and Azure make credits available to some projects.
+22:01 < tbm> so someone could investigate thee options and let projects know
+22:01 < tbm> (one for the task list...)
+22:01 < Hydroxide> tbm: yeah, though I don't think those credits are part of any specific program. the Google thing that Debian's doing is just a direct arrangement for this purpose
+22:01 < tbm> Hydroxide: right, some have explicit programs, some don't
+22:01 < Hydroxide> the NPO program that SPI is in gives us free G Suite, not free GCP.
+22:01  * Hydroxide nods
+22:01 < Hydroxide> s/the NPO program/the Google NPO program/ (not talking about AWS there)
+22:02 < tbm> totte_: you can send an email to the board but tbh I'm not sure we'll act upon it soon
+22:03 < totte_> I will look into the potential credit program, and if not, request a debit card be tied to the account, if that seems sensible.
+22:03 < totte_> Thanks.
+22:03 < tbm> Any other questions / topics?
+22:03 < Hydroxide> totte_: npoinquiries@amazon.com is mentioned on the AWS NPO site. maybe you can get a targeted answer from them as applied to this situation
+22:03 < Hydroxide> totte_: (also, they may have a FOSS program in addition to their NPO program)
+22:04 < totte_> Hydroxide: Much appreciated, thank you!
+22:04 < tbm> [item 9, Next board meeting]
+22:04 < tbm> The next board meeting is scheduled for: August 13th, 2018
+22:04 < tbm> Any objections?
+22:04 < schultmc> works for me
+22:04 < Hydroxide> wfm
+22:04 < rtyler> sounds good
+22:05 < tbm> Ok, thanks everyone
+22:05 < tbm> *GAVEL*
