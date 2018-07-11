@@ -14,30 +14,6 @@ the laws of New York State.  Tax-exempt
 under section 501(c)3 of the United States Internal Revenue Code was 
 granted on May 23, 1999.
 
-If you have a credit card and are having difficulty with our primary payment processor, Click &amp; Pledge, you can also donate via our alternate payment processors, USA ePay:
-
-<div align="center"><img src="http://wiki.usaepay.com/_media/merchants/images/usaepaysecurebuttonblue3.gif" alt="USA ePay"/></div>
-
-<form method="post" action="https://www.usaepay.com/interface/epayform/"> 
-<label for="amount">Donation amount:</label> 
-<br /> 
-<br /> 
- 
-$<input name="UMamount" size="10" id="amount" type="text" /> 
-<br /> 
-<br /> 
-<label for="project">Associated Project to receive donation:</label>
-<br />
-<br />
-
-<input name="UMdescription" size="20" id="project" type="text" />
-<br />
-<br />
-<input name="UMkey" value="qLf0SF3QNeaWz30g4P3esW0m561L4XO4 " type="hidden" /> 
-<input name="UMcommand" value="sale" type="hidden" /> 
-<input name="submit" value="Continue to secure payment form" type="submit" /> 
-</form> 
-
 Money that is donated will be distributed to the various 
 [projects](/projects) and efforts that SPI is affiliated with, and
 to pay for SPI's operating expenses. SPI has no paid staff, but
