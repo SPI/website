@@ -9,25 +9,21 @@
 <pre>
          debit         credit          total
 --------------------------------------------
-  44038.16 USD 1118404.06 USD -1074365.90 USD  Assets
-     37.56 USD   13443.71 USD  -13406.15 USD    Ameriprise Cash Mgmt Acct
-     10.81 USD  170225.61 USD -170214.80 USD    Chase Business Select High Yield Savings
-  11568.70 USD  149483.84 USD -137915.14 USD    Chase Performance Business Checking
-  10000.00 USD   86334.51 USD  -76334.51 USD    Fifth Third Business Elite Checking (Debian)
-             0   30151.69 USD  -30151.69 USD    Fifth Third Business Elite Checking (SPI)
-   1768.58 USD  126534.36 USD -124765.78 USD    Fifth Third Business Elite Checking Wiretransfer
-      1.27 USD   30004.92 USD  -30003.65 USD    Fifth Third Business Money Market 128
-      1.92 USD  112940.87 USD -112938.95 USD    Key Business Platinum Money Market Savings
-   1533.58 USD  346187.74 USD -344654.16 USD    Key Business Reward Checking
-             0    8925.08 USD   -8925.08 USD    KeyBank Basic Business Checking
-   5669.41 USD   17892.33 USD  -12222.92 USD    PaypalDebian
-   7446.33 USD   20279.40 USD  -12833.07 USD    PaypalSPI
-   6000.00 USD    6000.00 USD              0    Transfers
-2356012.00 USD 1295140.44 USD 1060871.56 USD  Equity
-1113901.92 USD 1113901.92 USD              0    Closing Balance
- 112208.16 USD  134578.66 USD  -22370.50 USD    PnL
-  16000.00 USD   16000.00 USD              0    Transfers
-  17068.40 USD  616448.56 USD -599380.16 USD  Expenses
+  44038.16 USD   35162.00 USD    8876.16 USD  Assets
+     37.56 USD              0      37.56 USD    Ameriprise Cash Mgmt Acct
+     10.81 USD              0      10.81 USD    Chase Business Select High Yield Savings
+  11568.70 USD   11040.26 USD     528.44 USD    Chase Performance Business Checking
+  10000.00 USD              0   10000.00 USD    Fifth Third Business Elite Checking (Debian)
+   1768.58 USD    1972.55 USD    -203.97 USD    Fifth Third Business Elite Checking Wiretransfer
+      1.27 USD              0       1.27 USD    Fifth Third Business Money Market 128
+      1.92 USD              0       1.92 USD    Key Business Platinum Money Market Savings
+   1533.58 USD    2856.42 USD   -1322.84 USD    Key Business Reward Checking
+             0       3.00 USD      -3.00 USD    KeyBank Basic Business Checking
+   5669.41 USD   16254.58 USD  -10585.17 USD    PaypalDebian
+   7446.33 USD    3035.19 USD    4411.14 USD    PaypalSPI
+   6000.00 USD              0    6000.00 USD    Transfers
+  16000.00 USD   16000.00 USD              0  Equity:Transfers
+  17068.40 USD    3507.47 USD   13560.93 USD  Expenses
     837.90 USD     335.88 USD     502.02 USD    Banking
       3.00 USD              0       3.00 USD      AccountFee
     371.20 USD     324.95 USD      46.25 USD      CPFee
@@ -39,12 +35,12 @@
   14921.24 USD    3171.59 USD   11749.65 USD    Meetups
   13818.22 USD    3171.59 USD   10646.63 USD      Travel
      89.55 USD              0      89.55 USD    Office:Postal
- 638765.96 USD   26061.01 USD  612704.95 USD  Income
+   3454.37 USD   26061.01 USD  -22606.64 USD  Income
    3454.37 USD   26009.45 USD  -22555.08 USD    Donations
              0      51.56 USD     -51.56 USD    Interest
     540.75 USD     371.20 USD     169.55 USD  Liabilities:Banking:CPFee
 --------------------------------------------
-3056425.27 USD 3056425.27 USD              0
+  81101.68 USD   81101.68 USD              0
 </pre>
 
 ### Year to date, ending 2018/01/01
@@ -52,29 +48,27 @@
 <pre>
          debit         credit          total
 --------------------------------------------
-2210768.17 USD 2210768.17 USD              0  Assets
-  13443.71 USD   13443.71 USD              0    Ameriprise Cash Mgmt Acct
- 270225.61 USD  270225.61 USD              0    Chase Business Select High Yield Savings
- 243849.64 USD  243849.64 USD              0    Chase Performance Business Checking
+2210768.17 USD 1127526.11 USD 1083242.06 USD  Assets
+  13443.71 USD              0   13443.71 USD    Ameriprise Cash Mgmt Acct
+ 270225.61 USD  100000.00 USD  170225.61 USD    Chase Business Select High Yield Savings
+ 243849.64 USD  105406.06 USD  138443.58 USD    Chase Performance Business Checking
     152.00 USD     152.00 USD              0    Debian Debit Card
-  86334.51 USD   86334.51 USD              0    Fifth Third Business Elite Checking (Debian)
-  61277.58 USD   61277.58 USD              0    Fifth Third Business Elite Checking (SPI)
- 572372.80 USD  572372.80 USD              0    Fifth Third Business Elite Checking Wiretransfer
- 152799.90 USD  152799.90 USD              0    Fifth Third Business Money Market 128
- 162940.87 USD  162940.87 USD              0    Key Business Platinum Money Market Savings
- 446863.50 USD  446863.50 USD              0    Key Business Reward Checking
+  86334.51 USD              0   86334.51 USD    Fifth Third Business Elite Checking (Debian)
+  61277.58 USD   31125.89 USD   30151.69 USD    Fifth Third Business Elite Checking (SPI)
+ 572372.80 USD  447810.99 USD  124561.81 USD    Fifth Third Business Elite Checking Wiretransfer
+ 152799.90 USD  122794.98 USD   30004.92 USD    Fifth Third Business Money Market 128
+ 162940.87 USD   50000.00 USD  112940.87 USD    Key Business Platinum Money Market Savings
+ 446863.50 USD  103532.18 USD  343331.32 USD    Key Business Reward Checking
    8631.72 USD    8631.72 USD              0    Key Express Checking
-   8928.08 USD    8928.08 USD              0    KeyBank Basic Business Checking
-  98417.69 USD   98417.69 USD              0    PaypalDebian
+   8928.08 USD       6.00 USD    8922.08 USD    KeyBank Basic Business Checking
+  98417.69 USD   96779.94 USD    1637.75 USD    PaypalDebian
    7225.24 USD    7225.24 USD              0    PaypalDebian-Hold
-  71305.32 USD   71305.32 USD              0    PaypalSPI
-   6000.00 USD    6000.00 USD              0    Transfers
-2791439.61 USD 2791439.61 USD              0  Equity
-1113901.92 USD 1113901.92 USD              0    Closing Balance
+  71305.32 USD   54061.11 USD   17244.21 USD    PaypalSPI
+   6000.00 USD              0    6000.00 USD    Transfers
+ 451427.61 USD 1512299.17 USD -1060871.56 USD  Equity
   15962.67 USD 1076834.23 USD -1060871.56 USD    Opening Balance
- 112208.16 USD  134578.66 USD  -22370.50 USD    PnL
  435464.94 USD  435464.94 USD              0    Transfers
- 664106.32 USD  664106.32 USD              0  Expenses
+ 664106.32 USD   51165.23 USD  612941.09 USD  Expenses
    7449.85 USD     464.05 USD    6985.80 USD    Banking
     205.00 USD              0     205.00 USD      AccountFee
      40.00 USD              0      40.00 USD      AnnualFee
@@ -111,12 +105,12 @@
     250.00 USD              0     250.00 USD      Tax
     450.00 USD              0     450.00 USD      Trademarks
      61.79 USD              0      61.79 USD      Training
- 677584.13 USD  677584.13 USD              0  Income
+  42272.54 USD  677584.13 USD -635311.59 USD  Income
   42272.54 USD  677281.53 USD -635008.99 USD    Donations
              0     302.60 USD    -302.60 USD    Interest
    3040.59 USD    3040.59 USD              0  Liabilities:Banking:CPFee
 --------------------------------------------
-6346938.82 USD 6346938.82 USD              0
+3371615.23 USD 3371615.23 USD              0
 </pre>
 
 ## Per project summaries
@@ -145,18 +139,14 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  31283.40 USD   33038.45 USD    1755.05 USD  Equity
-             0   31283.40 USD   31283.40 USD    Closing Balance
-             0    1755.05 USD    1755.05 USD    PnL
-     98.89 USD    1208.53 USD    1109.64 USD  Expenses
+     98.89 USD              0     -98.89 USD  Expenses
       7.92 USD              0      -7.92 USD    Banking
       1.15 USD              0      -1.15 USD      CPFee
       6.77 USD              0      -6.77 USD      PayPalFee
      90.97 USD              0     -90.97 USD    IT:Hosting
-   2969.28 USD     114.00 USD   -2855.28 USD  Income
-      5.70 USD     114.00 USD     108.30 USD    Donations
+      5.70 USD     114.00 USD     108.30 USD  Income:Donations
 --------------------------------------------
-  34351.57 USD   34360.98 USD       9.41 USD
+    104.59 USD     114.00 USD       9.41 USD
 
 </pre>
 
@@ -165,15 +155,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   2819.84 USD    2828.55 USD       8.71 USD  Equity
-             0    2819.84 USD    2819.84 USD    Closing Balance
-             0       8.71 USD       8.71 USD    PnL
-      0.41 USD       0.82 USD       0.41 USD  Expenses
-      0.41 USD              0      -0.41 USD    Banking:PayPalFee
-      9.78 USD       5.03 USD      -4.75 USD  Income
-      0.25 USD       5.03 USD       4.78 USD    Donations
+      0.41 USD              0      -0.41 USD  Expenses:Banking:PayPalFee
+      0.25 USD       5.03 USD       4.78 USD  Income:Donations
 --------------------------------------------
-   2830.03 USD    2834.40 USD       4.37 USD
+      0.66 USD       5.03 USD       4.37 USD
 
 </pre>
 
@@ -182,15 +167,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    343.97 USD     436.80 USD      92.83 USD  Equity
-             0     343.97 USD     343.97 USD    Closing Balance
-             0      92.83 USD      92.83 USD    PnL
-      0.37 USD       5.09 USD       4.72 USD  Expenses
-      0.37 USD       0.07 USD      -0.30 USD    Banking:PayPalFee
-    101.00 USD       3.15 USD     -97.85 USD  Income
-      3.15 USD       3.15 USD              0    Donations
+      0.37 USD       0.07 USD      -0.30 USD  Expenses:Banking:PayPalFee
+      3.15 USD       3.15 USD              0  Income:Donations
 --------------------------------------------
-    445.34 USD     445.04 USD      -0.30 USD
+      3.52 USD       3.22 USD      -0.30 USD
 
 </pre>
 
@@ -199,18 +179,14 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  47630.18 USD   64656.81 USD   17026.63 USD  Equity
-             0   47630.18 USD   47630.18 USD    Closing Balance
-             0   17026.63 USD   17026.63 USD    PnL
-    702.13 USD    4397.29 USD    3695.16 USD  Expenses
+    702.13 USD       0.13 USD    -702.00 USD  Expenses
      47.96 USD       0.13 USD     -47.83 USD    Banking
      35.39 USD              0     -35.39 USD      CPFee
      12.57 USD       0.13 USD     -12.44 USD      PayPalFee
     654.17 USD              0    -654.17 USD    IT:Hosting
-  21479.79 USD    1010.15 USD  -20469.64 USD  Income
-     56.00 USD    1010.15 USD     954.15 USD    Donations
+     56.00 USD    1010.15 USD     954.15 USD  Income:Donations
 --------------------------------------------
-  69812.10 USD   70064.25 USD     252.15 USD
+    758.13 USD    1010.28 USD     252.15 USD
 
 </pre>
 
@@ -219,17 +195,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  64839.59 USD   76764.76 USD   11925.17 USD  Equity
-             0   64839.59 USD   64839.59 USD    Closing Balance
-             0   11925.17 USD   11925.17 USD    PnL
-   1121.25 USD   19257.15 USD   18135.90 USD  Expenses
+   1121.25 USD              0   -1121.25 USD  Expenses
      62.20 USD              0     -62.20 USD    Banking:PayPalFee
     444.03 USD              0    -444.03 USD    IT:Hosting
     615.02 USD              0    -615.02 USD    Meetups:Travel
-  31283.82 USD    2030.00 USD  -29253.82 USD  Income
-    101.50 USD    2030.00 USD    1928.50 USD    Donations
+    101.50 USD    2030.00 USD    1928.50 USD  Income:Donations
 --------------------------------------------
-  97244.66 USD   98051.91 USD     807.25 USD
+   1222.75 USD    2030.00 USD     807.25 USD
 
 </pre>
 
@@ -238,56 +210,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    856.12 USD    1037.81 USD     181.69 USD  Equity
-             0     856.12 USD     856.12 USD    Closing Balance
-             0     181.69 USD     181.69 USD    PnL
-      5.69 USD     477.13 USD     471.44 USD  Expenses
-      5.69 USD              0      -5.69 USD    Banking:PayPalFee
-    667.32 USD     170.00 USD    -497.32 USD  Income
-      8.50 USD     170.00 USD     161.50 USD    Donations
+      5.69 USD              0      -5.69 USD  Expenses:Banking:PayPalFee
+      8.50 USD     170.00 USD     161.50 USD  Income:Donations
 --------------------------------------------
-   1529.13 USD    1684.94 USD     155.81 USD
-
-</pre>
-
-#### debconf14
-
-<pre>
-         debit         credit          total
---------------------------------------------
-  35962.78 USD   35962.78 USD              0  Equity
-             0   35962.78 USD   35962.78 USD    Closing Balance
---------------------------------------------
-  35962.78 USD   35962.78 USD              0
-
-</pre>
-
-#### debconf15
-
-<pre>
-         debit         credit          total
---------------------------------------------
-  71283.80 USD   70218.51 USD   -1065.29 USD  Equity
-             0   70218.51 USD   70218.51 USD    Closing Balance
-   1065.29 USD              0   -1065.29 USD    PnL
-             0    1065.29 USD    1065.29 USD  Expenses
---------------------------------------------
-  71283.80 USD   71283.80 USD              0
-
-</pre>
-
-#### debconf16
-
-<pre>
-         debit         credit          total
---------------------------------------------
-  15395.06 USD   15962.67 USD     567.61 USD  Equity
-  15395.06 USD              0  -15395.06 USD    Closing Balance
-             0     567.61 USD     567.61 USD    PnL
-             0    4182.39 USD    4182.39 USD  Expenses
-   4750.00 USD              0   -4750.00 USD  Income
---------------------------------------------
-  20145.06 USD   20145.06 USD              0
+     14.19 USD     170.00 USD     155.81 USD
 
 </pre>
 
@@ -296,14 +222,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  62348.51 USD   15009.31 USD  -47339.20 USD  Equity
-  15009.31 USD              0  -15009.31 USD    Closing Balance
-  47339.20 USD              0  -47339.20 USD    PnL
-   2200.00 USD  185120.94 USD  182920.94 USD  Expenses
-   2200.00 USD    2300.71 USD     100.71 USD    Meetups:Travel
- 135481.03 USD              0 -135481.03 USD  Income
---------------------------------------------
- 200029.54 USD  200130.25 USD     100.71 USD
+   2200.00 USD    2300.71 USD     100.71 USD  Expenses:Meetups:Travel
 
 </pre>
 
@@ -313,34 +232,16 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.37 USD              0      -0.37 USD  Assets:PaypalDebian
- 207824.45 USD  204728.09 USD   -3096.36 USD  Equity
-             0  204728.09 USD  204728.09 USD    Closing Balance
-   3096.36 USD              0   -3096.36 USD    PnL
-   2258.73 USD   44825.73 USD   42567.00 USD  Expenses
+   2258.73 USD       0.43 USD   -2258.30 USD  Expenses
     307.67 USD       0.43 USD    -307.24 USD    Banking
      57.79 USD              0     -57.79 USD      CPFee
     249.88 USD       0.43 USD    -249.45 USD      PayPalFee
      17.88 USD              0     -17.88 USD    IT:Hosting
    1933.18 USD              0   -1933.18 USD    Meetups
     830.16 USD              0    -830.16 USD      Travel
-  42094.41 USD    7715.33 USD  -34379.08 USD  Income
-    365.47 USD    7715.33 USD    7349.86 USD    Donations
+    365.47 USD    7715.33 USD    7349.86 USD  Income:Donations
 --------------------------------------------
- 252177.96 USD  257269.15 USD    5091.19 USD
-
-</pre>
-
-#### drizzle
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   6333.99 USD    6148.60 USD    -185.39 USD  Equity
-             0    6148.60 USD    6148.60 USD    Closing Balance
-    185.39 USD              0    -185.39 USD    PnL
-             0     185.39 USD     185.39 USD  Expenses
---------------------------------------------
-   6333.99 USD    6333.99 USD              0
+   2624.57 USD    7715.76 USD    5091.19 USD
 
 </pre>
 
@@ -349,17 +250,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  18666.92 USD   15900.24 USD   -2766.68 USD  Equity
-             0   15900.24 USD   15900.24 USD    Closing Balance
-   2766.68 USD              0   -2766.68 USD    PnL
-     34.42 USD   12018.23 USD   11983.81 USD  Expenses
-     34.42 USD              0     -34.42 USD    Banking
-     24.80 USD              0     -24.80 USD      CPFee
-      9.62 USD              0      -9.62 USD      PayPalFee
-   9294.42 USD     857.50 USD   -8436.92 USD  Income
-     42.87 USD     857.50 USD     814.63 USD    Donations
+     34.42 USD              0     -34.42 USD  Expenses:Banking
+     24.80 USD              0     -24.80 USD    CPFee
+      9.62 USD              0      -9.62 USD    PayPalFee
+     42.87 USD     857.50 USD     814.63 USD  Income:Donations
 --------------------------------------------
-  27995.76 USD   28775.97 USD     780.21 USD
+     77.29 USD     857.50 USD     780.21 USD
 
 </pre>
 
@@ -368,15 +264,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    648.53 USD     992.44 USD     343.91 USD  Equity
-             0     648.53 USD     648.53 USD    Closing Balance
-             0     343.91 USD     343.91 USD    PnL
-      1.95 USD      18.04 USD      16.09 USD  Expenses
-      1.95 USD              0      -1.95 USD    Banking:CPFee
-    363.95 USD      40.00 USD    -323.95 USD  Income
-      2.00 USD      40.00 USD      38.00 USD    Donations
+      1.95 USD              0      -1.95 USD  Expenses:Banking:CPFee
+      2.00 USD      40.00 USD      38.00 USD  Income:Donations
 --------------------------------------------
-   1014.43 USD    1050.48 USD      36.05 USD
+      3.95 USD      40.00 USD      36.05 USD
 
 </pre>
 
@@ -385,15 +276,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    997.14 USD     999.28 USD       2.14 USD  Equity
-             0     997.14 USD     997.14 USD    Closing Balance
-             0       2.14 USD       2.14 USD    PnL
-             0       0.78 USD       0.78 USD  Expenses
-             0       0.07 USD       0.07 USD    Banking:PayPalFee
-      5.85 USD       0.15 USD      -5.70 USD  Income
-      3.00 USD       0.15 USD      -2.85 USD    Donations
+             0       0.07 USD       0.07 USD  Expenses:Banking:PayPalFee
+      3.00 USD       0.15 USD      -2.85 USD  Income:Donations
 --------------------------------------------
-   1002.99 USD    1000.21 USD      -2.78 USD
+      3.00 USD       0.22 USD      -2.78 USD
 
 </pre>
 
@@ -402,82 +288,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  17500.17 USD   15266.13 USD   -2234.04 USD  Equity
-             0   15266.13 USD   15266.13 USD    Closing Balance
-   2234.04 USD              0   -2234.04 USD    PnL
-      5.56 USD    2775.54 USD    2769.98 USD  Expenses
-      5.56 USD              0      -5.56 USD    Banking:PayPalFee
-    551.85 USD     207.00 USD    -344.85 USD  Income
-     10.35 USD     207.00 USD     196.65 USD    Donations
+      5.56 USD              0      -5.56 USD  Expenses:Banking:PayPalFee
+     10.35 USD     207.00 USD     196.65 USD  Income:Donations
 --------------------------------------------
-  18057.58 USD   18248.67 USD     191.09 USD
-
-</pre>
-
-#### freedombox
-
-<pre>
-         debit         credit          total
---------------------------------------------
-  25049.92 USD      23.52 USD  -25026.40 USD  Equity
-             0      23.52 USD      23.52 USD    Closing Balance
-  25026.40 USD              0  -25026.40 USD    PnL
-             0   25054.90 USD   25054.90 USD  Expenses
-     28.50 USD              0     -28.50 USD  Income
---------------------------------------------
-  25078.42 USD   25078.42 USD              0
-
-</pre>
-
-#### gallery
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   8357.68 USD              0   -8357.68 USD  Equity
-   8357.68 USD              0   -8357.68 USD    PnL
-             0    8357.68 USD    8357.68 USD  Expenses
---------------------------------------------
-   8357.68 USD    8357.68 USD              0
-
-</pre>
-
-#### gnustep
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    142.50 USD     142.50 USD              0  Equity
-             0     142.50 USD     142.50 USD    Closing Balance
---------------------------------------------
-    142.50 USD     142.50 USD              0
-
-</pre>
-
-#### haskell
-
-<pre>
-         debit         credit          total
---------------------------------------------
-  16482.89 USD   16986.82 USD     503.93 USD  Equity
-             0   16482.89 USD   16482.89 USD    Closing Balance
-             0     503.93 USD     503.93 USD    PnL
-             0     113.57 USD     113.57 USD  Expenses
-    617.50 USD              0    -617.50 USD  Income
---------------------------------------------
-  17100.39 USD   17100.39 USD              0
-
-</pre>
-
-#### helios
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    212.83 USD     212.83 USD              0  Equity
-             0     212.83 USD     212.83 USD    Closing Balance
---------------------------------------------
-    212.83 USD     212.83 USD              0
+     15.91 USD     207.00 USD     191.09 USD
 
 </pre>
 
@@ -486,15 +300,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  29672.60 USD   31909.21 USD    2236.61 USD  Equity
-             0   29672.60 USD   29672.60 USD    Closing Balance
-             0    2236.61 USD    2236.61 USD    PnL
-      6.48 USD    4368.80 USD    4362.32 USD  Expenses
-      6.48 USD       4.70 USD      -1.78 USD    Banking:PayPalFee
-   8702.71 USD    2140.00 USD   -6562.71 USD  Income
-   2102.00 USD    2140.00 USD      38.00 USD    Donations
+      6.48 USD       4.70 USD      -1.78 USD  Expenses:Banking:PayPalFee
+   2102.00 USD    2140.00 USD      38.00 USD  Income:Donations
 --------------------------------------------
-  38381.79 USD   38418.01 USD      36.22 USD
+   2108.48 USD    2144.70 USD      36.22 USD
 
 </pre>
 
@@ -503,60 +312,14 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  68740.43 USD   46976.85 USD  -21763.58 USD  Equity
-             0   46976.85 USD   46976.85 USD    Closing Balance
-  21763.58 USD              0  -21763.58 USD    PnL
-   9482.60 USD   47597.15 USD   38114.55 USD  Expenses
+   9482.60 USD     870.88 USD   -8611.72 USD  Expenses
      45.41 USD              0     -45.41 USD    Banking
      17.45 USD              0     -17.45 USD      CPFee
      27.96 USD              0     -27.96 USD      PayPalFee
    9437.19 USD     870.88 USD   -8566.31 USD    Meetups:Travel
-  25029.64 USD    1339.00 USD  -23690.64 USD  Income
-     66.95 USD    1339.00 USD    1272.05 USD    Donations
+     66.95 USD    1339.00 USD    1272.05 USD  Income:Donations
 --------------------------------------------
- 103252.67 USD   95913.00 USD   -7339.67 USD
-
-</pre>
-
-#### madwifi
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   1494.90 USD    1494.90 USD              0  Equity
-             0    1494.90 USD    1494.90 USD    Closing Balance
---------------------------------------------
-   1494.90 USD    1494.90 USD              0
-
-</pre>
-
-#### mingw
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   4132.86 USD    4186.55 USD      53.69 USD  Equity
-             0    4132.86 USD    4132.86 USD    Closing Balance
-             0      53.69 USD      53.69 USD    PnL
-             0       4.83 USD       4.83 USD  Expenses
-     58.52 USD              0     -58.52 USD  Income
---------------------------------------------
-   4191.38 USD    4191.38 USD              0
-
-</pre>
-
-#### ntpsec
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   6085.29 USD   12111.31 USD    6026.02 USD  Equity
-             0    6085.29 USD    6085.29 USD    Closing Balance
-             0    6026.02 USD    6026.02 USD    PnL
-             0  184001.53 USD  184001.53 USD  Expenses
- 190027.55 USD              0 -190027.55 USD  Income
---------------------------------------------
- 196112.84 USD  196112.84 USD              0
+   9549.55 USD    2209.88 USD   -7339.67 USD
 
 </pre>
 
@@ -565,17 +328,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  83925.53 USD   92633.31 USD    8707.78 USD  Equity
-             0   83925.53 USD   83925.53 USD    Closing Balance
-             0    8707.78 USD    8707.78 USD    PnL
-    753.57 USD     991.19 USD     237.62 USD  Expenses
+    753.57 USD       4.70 USD    -748.87 USD  Expenses
       5.06 USD       4.70 USD      -0.36 USD    Banking:PayPalFee
      12.66 USD              0     -12.66 USD    IT:Domains
     735.85 USD              0    -735.85 USD    Meetups:Travel
-   9904.40 USD     212.50 USD   -9691.90 USD  Income
-    210.13 USD     212.50 USD       2.37 USD    Donations
+    210.13 USD     212.50 USD       2.37 USD  Income:Donations
 --------------------------------------------
-  94583.50 USD   93837.00 USD    -746.50 USD
+    963.70 USD     217.20 USD    -746.50 USD
 
 </pre>
 
@@ -584,75 +343,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    435.79 USD     543.55 USD     107.76 USD  Equity
-             0     435.79 USD     435.79 USD    Closing Balance
-             0     107.76 USD     107.76 USD    PnL
-      0.52 USD       6.26 USD       5.74 USD  Expenses
-      0.52 USD              0      -0.52 USD    Banking:PayPalFee
-    114.52 USD      10.00 USD    -104.52 USD  Income
-      0.50 USD      10.00 USD       9.50 USD    Donations
+      0.52 USD              0      -0.52 USD  Expenses:Banking:PayPalFee
+      0.50 USD      10.00 USD       9.50 USD  Income:Donations
 --------------------------------------------
-    550.83 USD     559.81 USD       8.98 USD
-
-</pre>
-
-#### openmpi
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    546.25 USD    1092.50 USD     546.25 USD  Equity
-             0     546.25 USD     546.25 USD    Closing Balance
-             0     546.25 USD     546.25 USD    PnL
-             0       0.01 USD       0.01 USD  Expenses
-    546.26 USD              0    -546.26 USD  Income
---------------------------------------------
-   1092.51 USD    1092.51 USD              0
-
-</pre>
-
-#### openvas
-
-<pre>
-         debit         credit          total
---------------------------------------------
-     65.04 USD      73.87 USD       8.83 USD  Equity
-             0      65.04 USD      65.04 USD    Closing Balance
-             0       8.83 USD       8.83 USD    PnL
-             0       0.67 USD       0.67 USD  Expenses
-      9.50 USD              0      -9.50 USD  Income
---------------------------------------------
-     74.54 USD      74.54 USD              0
-
-</pre>
-
-#### openvoting
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    116.72 USD     143.73 USD      27.01 USD  Equity
-             0     116.72 USD     116.72 USD    Closing Balance
-             0      27.01 USD      27.01 USD    PnL
-             0       1.49 USD       1.49 USD  Expenses
-     28.50 USD              0     -28.50 USD  Income
---------------------------------------------
-    145.22 USD     145.22 USD              0
-
-</pre>
-
-#### openwrt
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   6333.20 USD    6626.26 USD     293.06 USD  Equity
-             0    6333.20 USD    6333.20 USD    Closing Balance
-             0     293.06 USD     293.06 USD    PnL
-             0      16.20 USD      16.20 USD  Expenses
-    309.26 USD              0    -309.26 USD  Income
---------------------------------------------
-   6642.46 USD    6642.46 USD              0
+      1.02 USD      10.00 USD       8.98 USD
 
 </pre>
 
@@ -661,68 +355,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    628.73 USD     255.49 USD    -373.24 USD  Equity
-    255.49 USD              0    -255.49 USD    Closing Balance
-    373.24 USD              0    -373.24 USD    PnL
-      9.11 USD   34113.63 USD   34104.52 USD  Expenses
-      9.11 USD              0      -9.11 USD    Banking
-      1.35 USD              0      -1.35 USD      CPFee
-      7.76 USD              0      -7.76 USD      PayPalFee
-  33769.04 USD     573.00 USD  -33196.04 USD  Income
-     28.65 USD     573.00 USD     544.35 USD    Donations
+      9.11 USD              0      -9.11 USD  Expenses:Banking
+      1.35 USD              0      -1.35 USD    CPFee
+      7.76 USD              0      -7.76 USD    PayPalFee
+     28.65 USD     573.00 USD     544.35 USD  Income:Donations
 --------------------------------------------
-  34406.88 USD   34942.12 USD     535.24 USD
-
-</pre>
-
-#### osunix
-
-<pre>
-         debit         credit          total
---------------------------------------------
-     17.17 USD      17.17 USD              0  Equity
-             0      17.17 USD      17.17 USD    Closing Balance
---------------------------------------------
-     17.17 USD      17.17 USD              0
-
-</pre>
-
-#### path64
-
-<pre>
-         debit         credit          total
---------------------------------------------
-     18.60 USD      18.60 USD              0  Equity
-             0      18.60 USD      18.60 USD    Closing Balance
---------------------------------------------
-     18.60 USD      18.60 USD              0
-
-</pre>
-
-#### pcp
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   5588.45 USD    9478.10 USD    3889.65 USD  Equity
-             0    5588.45 USD    5588.45 USD    Closing Balance
-             0    3889.65 USD    3889.65 USD    PnL
-             0    1525.30 USD    1525.30 USD  Expenses
-   5414.95 USD              0   -5414.95 USD  Income
---------------------------------------------
-  11003.40 USD   11003.40 USD              0
-
-</pre>
-
-#### plan9
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   6500.00 USD    6500.00 USD              0  Equity
-             0    6500.00 USD    6500.00 USD    Closing Balance
---------------------------------------------
-   6500.00 USD    6500.00 USD              0
+     37.76 USD     573.00 USD     535.24 USD
 
 </pre>
 
@@ -731,32 +369,12 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
- 119222.24 USD  146066.32 USD   26844.08 USD  Equity
-             0  119222.24 USD  119222.24 USD    Closing Balance
-             0   26844.08 USD   26844.08 USD    PnL
-    215.83 USD    7207.72 USD    6991.89 USD  Expenses
-    215.83 USD              0    -215.83 USD    Banking
-    200.35 USD              0    -200.35 USD      CPFee
-     15.48 USD              0     -15.48 USD      PayPalFee
-  34335.30 USD    5670.00 USD  -28665.30 USD  Income
-    283.50 USD    5670.00 USD    5386.50 USD    Donations
+    215.83 USD              0    -215.83 USD  Expenses:Banking
+    200.35 USD              0    -200.35 USD    CPFee
+     15.48 USD              0     -15.48 USD    PayPalFee
+    283.50 USD    5670.00 USD    5386.50 USD  Income:Donations
 --------------------------------------------
- 153773.37 USD  158944.04 USD    5170.67 USD
-
-</pre>
-
-#### privoxy
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   1735.24 USD    3256.86 USD    1521.62 USD  Equity
-             0    1735.24 USD    1735.24 USD    Closing Balance
-             0    1521.62 USD    1521.62 USD    PnL
-             0     987.68 USD     987.68 USD  Expenses
-   2509.30 USD              0   -2509.30 USD  Income
---------------------------------------------
-   4244.54 USD    4244.54 USD              0
+    499.33 USD    5670.00 USD    5170.67 USD
 
 </pre>
 
@@ -765,15 +383,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   5763.62 USD    5763.32 USD      -0.30 USD  Equity
-             0    5763.32 USD    5763.32 USD    Closing Balance
-      0.30 USD              0      -0.30 USD    PnL
-      0.36 USD       0.36 USD              0  Expenses
-      0.36 USD       0.06 USD      -0.30 USD    Banking:PayPalFee
-      2.63 USD       2.63 USD              0  Income
-      2.63 USD       2.63 USD              0    Donations
+      0.36 USD       0.06 USD      -0.30 USD  Expenses:Banking:PayPalFee
+      2.63 USD       2.63 USD              0  Income:Donations
 --------------------------------------------
-   5766.61 USD    5766.31 USD      -0.30 USD
+      2.99 USD       2.69 USD      -0.30 USD
 
 </pre>
 
@@ -782,20 +395,17 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
- 217320.24 USD  262836.39 USD   45516.15 USD  Equity
-             0  217320.24 USD  217320.24 USD    Closing Balance
-             0   45516.15 USD   45516.15 USD    PnL
-    161.47 USD   23957.21 USD   23795.74 USD  Expenses
+    161.47 USD     324.95 USD     163.48 USD  Expenses
      71.92 USD     324.95 USD     253.03 USD    Banking
       3.00 USD              0      -3.00 USD      AccountFee
      30.97 USD     324.95 USD     293.98 USD      CPFee
      37.95 USD              0     -37.95 USD      PaysimpleFee
      89.55 USD              0     -89.55 USD    Office:Postal
-  69260.23 USD    3672.57 USD  -65587.66 USD  Income
+    111.82 USD    3672.57 USD    3560.75 USD  Income
     111.82 USD    3621.01 USD    3509.19 USD    Donations
              0      51.56 USD      51.56 USD    Interest
 --------------------------------------------
- 286741.94 USD  290466.17 USD    3724.23 USD
+    273.29 USD    3997.52 USD    3724.23 USD
 
 </pre>
 
@@ -804,27 +414,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1146.95 USD    1171.39 USD      24.44 USD  Equity
-             0    1146.95 USD    1146.95 USD    Closing Balance
-             0      24.44 USD      24.44 USD    PnL
-      0.86 USD       2.69 USD       1.83 USD  Expenses
-      0.86 USD       0.33 USD      -0.53 USD    Banking:PayPalFee
-     42.55 USD      15.00 USD     -27.55 USD  Income
-     15.75 USD      15.00 USD      -0.75 USD    Donations
+      0.86 USD       0.33 USD      -0.53 USD  Expenses:Banking:PayPalFee
+     15.75 USD      15.00 USD      -0.75 USD  Income:Donations
 --------------------------------------------
-   1190.36 USD    1189.08 USD      -1.28 USD
-
-</pre>
-
-#### tidesdk
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    353.99 USD     353.99 USD              0  Equity
-             0     353.99 USD     353.99 USD    Closing Balance
---------------------------------------------
-    353.99 USD     353.99 USD              0
+     16.61 USD      15.33 USD      -1.28 USD
 
 </pre>
 
@@ -834,15 +427,10 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.44 USD              0      -0.44 USD  Assets:PaypalSPI
-  16303.15 USD   16322.67 USD      19.52 USD  Equity
-             0   16303.15 USD   16303.15 USD    Closing Balance
-             0      19.52 USD      19.52 USD    PnL
-      1.82 USD       1.82 USD              0  Expenses
-      1.82 USD       0.44 USD      -1.38 USD    Banking:PayPalFee
-     43.00 USD      43.00 USD              0  Income
-     22.10 USD      43.00 USD      20.90 USD    Donations
+      1.82 USD       0.44 USD      -1.38 USD  Expenses:Banking:PayPalFee
+     22.10 USD      43.00 USD      20.90 USD  Income:Donations
 --------------------------------------------
-  16348.41 USD   16367.49 USD      19.08 USD
+     24.36 USD      43.44 USD      19.08 USD
 
 </pre>
 
@@ -851,30 +439,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  38666.35 USD   43888.31 USD    5221.96 USD  Equity
-             0   38666.35 USD   38666.35 USD    Closing Balance
-             0    5221.96 USD    5221.96 USD    PnL
-      6.38 USD    1826.09 USD    1819.71 USD  Expenses
-      6.38 USD              0      -6.38 USD    Banking:PayPalFee
-   7059.60 USD     231.00 USD   -6828.60 USD  Income
-     11.55 USD     231.00 USD     219.45 USD    Donations
+      6.38 USD              0      -6.38 USD  Expenses:Banking:PayPalFee
+     11.55 USD     231.00 USD     219.45 USD  Income:Donations
 --------------------------------------------
-  45732.33 USD   45945.40 USD     213.07 USD
-
-</pre>
-
-#### yafaray
-
-<pre>
-         debit         credit          total
---------------------------------------------
-   6976.33 USD    8102.89 USD    1126.56 USD  Equity
-             0    6976.33 USD    6976.33 USD    Closing Balance
-             0    1126.56 USD    1126.56 USD    PnL
-             0     773.44 USD     773.44 USD  Expenses
-   1900.00 USD              0   -1900.00 USD  Income
---------------------------------------------
-   8876.33 USD    8876.33 USD              0
+     17.93 USD     231.00 USD     213.07 USD
 </pre>
 
 ### Year to date, ending 2018/01/01
@@ -885,19 +453,15 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  31283.40 USD   62566.80 USD   31283.40 USD  Equity
-             0   31283.40 USD   31283.40 USD    Closing Balance
-             0   29528.35 USD   29528.35 USD    Opening Balance
-             0    1755.05 USD    1755.05 USD    PnL
-   1208.53 USD    1208.53 USD              0  Expenses
+             0   29528.35 USD   29528.35 USD  Equity:Opening Balance
+   1208.53 USD              0   -1208.53 USD  Expenses
     164.88 USD              0    -164.88 USD    Banking
      31.45 USD              0     -31.45 USD      CPFee
     133.43 USD              0    -133.43 USD      PayPalFee
    1043.65 USD              0   -1043.65 USD    IT:Hosting
-   3119.55 USD    3119.55 USD              0  Income
-    155.97 USD    3119.55 USD    2963.58 USD    Donations
+    155.97 USD    3119.55 USD    2963.58 USD  Income:Donations
 --------------------------------------------
-  35611.48 USD   66894.88 USD   31283.40 USD
+   1364.50 USD   32647.90 USD   31283.40 USD
 
 </pre>
 
@@ -906,16 +470,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   2819.84 USD    5639.68 USD    2819.84 USD  Equity
-             0    2819.84 USD    2819.84 USD    Closing Balance
-             0    2811.13 USD    2811.13 USD    Opening Balance
-             0       8.71 USD       8.71 USD    PnL
-      0.82 USD       0.82 USD              0  Expenses
-      0.82 USD              0      -0.82 USD    Banking:PayPalFee
-     10.03 USD      10.03 USD              0  Income
-      0.50 USD      10.03 USD       9.53 USD    Donations
+             0    2811.13 USD    2811.13 USD  Equity:Opening Balance
+      0.82 USD              0      -0.82 USD  Expenses:Banking:PayPalFee
+      0.50 USD      10.03 USD       9.53 USD  Income:Donations
 --------------------------------------------
-   2830.69 USD    5650.53 USD    2819.84 USD
+      1.32 USD    2821.16 USD    2819.84 USD
 
 </pre>
 
@@ -924,18 +483,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    343.97 USD     687.94 USD     343.97 USD  Equity
-             0     343.97 USD     343.97 USD    Closing Balance
-             0     251.14 USD     251.14 USD    Opening Balance
-             0      92.83 USD      92.83 USD    PnL
-      5.09 USD       5.09 USD              0  Expenses
-      5.09 USD       0.07 USD      -5.02 USD    Banking
-      4.35 USD              0      -4.35 USD      CPFee
-      0.74 USD       0.07 USD      -0.67 USD      PayPalFee
-    106.15 USD     106.15 USD              0  Income
-      8.30 USD     106.15 USD      97.85 USD    Donations
+             0     251.14 USD     251.14 USD  Equity:Opening Balance
+      5.09 USD       0.07 USD      -5.02 USD  Expenses:Banking
+      4.35 USD              0      -4.35 USD    CPFee
+      0.74 USD       0.07 USD      -0.67 USD    PayPalFee
+      8.30 USD     106.15 USD      97.85 USD  Income:Donations
 --------------------------------------------
-    455.21 USD     799.18 USD     343.97 USD
+     13.39 USD     357.36 USD     343.97 USD
 
 </pre>
 
@@ -944,20 +498,16 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  47630.18 USD   95260.36 USD   47630.18 USD  Equity
-             0   47630.18 USD   47630.18 USD    Closing Balance
-             0   30603.55 USD   30603.55 USD    Opening Balance
-             0   17026.63 USD   17026.63 USD    PnL
-   4397.31 USD    4397.31 USD              0  Expenses
+             0   30603.55 USD   30603.55 USD  Equity:Opening Balance
+   4397.31 USD       0.15 USD   -4397.16 USD  Expenses
     813.26 USD       0.15 USD    -813.11 USD    Banking
     441.46 USD              0    -441.46 USD      CPFee
     371.80 USD       0.15 USD    -371.65 USD      PayPalFee
      35.00 USD              0     -35.00 USD    Chargeback
    3549.05 USD              0   -3549.05 USD    IT:Hosting
-  23609.40 USD   23609.40 USD              0  Income
-   2185.61 USD   23609.40 USD   21423.79 USD    Donations
+   2185.61 USD   23609.40 USD   21423.79 USD  Income:Donations
 --------------------------------------------
-  75636.89 USD  123267.07 USD   47630.18 USD
+   6582.92 USD   54213.10 USD   47630.18 USD
 
 </pre>
 
@@ -966,11 +516,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  64839.59 USD  129679.18 USD   64839.59 USD  Equity
-             0   64839.59 USD   64839.59 USD    Closing Balance
-             0   52914.42 USD   52914.42 USD    Opening Balance
-             0   11925.17 USD   11925.17 USD    PnL
-  19257.17 USD   19257.17 USD              0  Expenses
+             0   52914.42 USD   52914.42 USD  Equity:Opening Balance
+  19257.17 USD       0.02 USD  -19257.15 USD  Expenses
     878.48 USD       0.02 USD    -878.46 USD    Banking
      81.85 USD              0     -81.85 USD      CPFee
     796.63 USD       0.02 USD    -796.61 USD      PayPalFee
@@ -979,10 +526,9 @@ shown as a possitive amount.
   13939.01 USD              0  -13939.01 USD      WorkOfTheMonth
    3315.44 USD              0   -3315.44 USD    IT:Hosting
     615.02 USD              0    -615.02 USD    Meetups:Travel
-  32824.67 USD   32824.67 USD              0  Income
-   1642.35 USD   32824.67 USD   31182.32 USD    Donations
+   1642.35 USD   32824.67 USD   31182.32 USD  Income:Donations
 --------------------------------------------
- 116921.43 USD  181761.02 USD   64839.59 USD
+  20899.52 USD   85739.11 USD   64839.59 USD
 
 </pre>
 
@@ -991,19 +537,15 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    856.12 USD    1712.24 USD     856.12 USD  Equity
-             0     856.12 USD     856.12 USD    Closing Balance
-             0     674.43 USD     674.43 USD    Opening Balance
-             0     181.69 USD     181.69 USD    PnL
-    477.13 USD     477.13 USD              0  Expenses
+             0     674.43 USD     674.43 USD  Equity:Opening Balance
+    477.13 USD              0    -477.13 USD  Expenses
      27.13 USD              0     -27.13 USD    Banking
       2.59 USD              0      -2.59 USD      CPFee
      24.54 USD              0     -24.54 USD      PayPalFee
     450.00 USD              0    -450.00 USD    Office:Trademarks
-    693.50 USD     693.50 USD              0  Income
-     34.68 USD     693.50 USD     658.82 USD    Donations
+     34.68 USD     693.50 USD     658.82 USD  Income:Donations
 --------------------------------------------
-   2026.75 USD    2882.87 USD     856.12 USD
+    511.81 USD    1367.93 USD     856.12 USD
 
 </pre>
 
@@ -1012,11 +554,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  35962.78 USD   71925.56 USD   35962.78 USD  Equity
-             0   35962.78 USD   35962.78 USD    Closing Balance
-             0   35962.78 USD   35962.78 USD    Opening Balance
---------------------------------------------
-  35962.78 USD   71925.56 USD   35962.78 USD
+             0   35962.78 USD   35962.78 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1025,14 +563,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  71283.80 USD  141502.31 USD   70218.51 USD  Equity
-             0   70218.51 USD   70218.51 USD    Closing Balance
-             0   71283.80 USD   71283.80 USD    Opening Balance
-   1065.29 USD              0   -1065.29 USD    PnL
-   1065.29 USD    1065.29 USD              0  Expenses
-   1065.29 USD              0   -1065.29 USD    Meetups:Travel
+             0   71283.80 USD   71283.80 USD  Equity:Opening Balance
+   1065.29 USD              0   -1065.29 USD  Expenses:Meetups:Travel
 --------------------------------------------
-  72349.09 USD  142567.60 USD   70218.51 USD
+   1065.29 USD   71283.80 USD   70218.51 USD
 
 </pre>
 
@@ -1041,17 +575,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  31357.73 USD   15962.67 USD  -15395.06 USD  Equity
-  15395.06 USD              0  -15395.06 USD    Closing Balance
-  15962.67 USD              0  -15962.67 USD    Opening Balance
-             0     567.61 USD     567.61 USD    PnL
-   4990.30 USD    4990.30 USD              0  Expenses
+  15962.67 USD              0  -15962.67 USD  Equity:Opening Balance
+   4990.30 USD     807.91 USD   -4182.39 USD  Expenses
     145.30 USD              0    -145.30 USD    Banking:PayPalFee
    4845.00 USD     807.91 USD   -4037.09 USD    Meetups:Travel
-   5000.00 USD    5000.00 USD              0  Income
-    250.00 USD    5000.00 USD    4750.00 USD    Donations
+    250.00 USD    5000.00 USD    4750.00 USD  Income:Donations
 --------------------------------------------
-  41348.03 USD   25952.97 USD  -15395.06 USD
+  21202.97 USD    5807.91 USD  -15395.06 USD
 
 </pre>
 
@@ -1060,11 +590,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  62348.51 USD   47339.20 USD  -15009.31 USD  Equity
-  15009.31 USD              0  -15009.31 USD    Closing Balance
-             0   32329.89 USD   32329.89 USD    Opening Balance
-  47339.20 USD              0  -47339.20 USD    PnL
- 212166.66 USD  212166.66 USD              0  Expenses
+             0   32329.89 USD   32329.89 USD  Equity:Opening Balance
+ 212166.66 USD   29346.43 USD -182820.23 USD  Expenses
     350.35 USD              0    -350.35 USD    Banking
      28.45 USD              0     -28.45 USD      ForeignTransactionFee
     321.90 USD              0    -321.90 USD      PayPalFee
@@ -1078,10 +605,9 @@ shown as a possitive amount.
   62343.65 USD   20226.16 USD  -42117.49 USD      Travel
   44904.88 USD              0  -44904.88 USD      Venue
     304.66 USD              0    -304.66 USD    Office:Postal
- 146776.63 USD  146776.63 USD              0  Income
-  11295.60 USD  146776.63 USD  135481.03 USD    Donations
+  11295.60 USD  146776.63 USD  135481.03 USD  Income:Donations
 --------------------------------------------
- 421291.80 USD  406282.49 USD  -15009.31 USD
+ 223462.26 USD  208452.95 USD  -15009.31 USD
 
 </pre>
 
@@ -1093,11 +619,8 @@ shown as a possitive amount.
     667.05 USD       7.16 USD    -659.89 USD  Assets
      93.51 USD       3.58 USD     -89.93 USD    PaypalDebian
     573.54 USD       3.58 USD    -569.96 USD    PaypalDebian-Hold
- 207824.45 USD  412552.54 USD  204728.09 USD  Equity
-             0  204728.09 USD  204728.09 USD    Closing Balance
-             0  207824.45 USD  207824.45 USD    Opening Balance
-   3096.36 USD              0   -3096.36 USD    PnL
-  60642.73 USD   60642.73 USD              0  Expenses
+             0  207824.45 USD  207824.45 USD  Equity:Opening Balance
+  60642.73 USD   15817.43 USD  -44825.30 USD  Expenses
    1659.96 USD      99.75 USD   -1560.21 USD    Banking
     212.79 USD              0    -212.79 USD      CPFee
    1447.17 USD      99.75 USD   -1347.42 USD      PayPalFee
@@ -1112,10 +635,9 @@ shown as a possitive amount.
      83.59 USD      15.99 USD     -67.60 USD      Dining
   18582.20 USD              0  -18582.20 USD      Travel
     539.21 USD              0    -539.21 USD      Venue
-  47207.53 USD   47207.53 USD              0  Income
-   5478.59 USD   47207.53 USD   41728.94 USD    Donations
+   5478.59 USD   47207.53 USD   41728.94 USD  Income:Donations
 --------------------------------------------
- 316341.76 USD  520409.96 USD  204068.20 USD
+  66788.37 USD  270856.57 USD  204068.20 USD
 
 </pre>
 
@@ -1124,14 +646,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6333.99 USD   12482.59 USD    6148.60 USD  Equity
-             0    6148.60 USD    6148.60 USD    Closing Balance
-             0    6333.99 USD    6333.99 USD    Opening Balance
-    185.39 USD              0    -185.39 USD    PnL
-    185.39 USD     185.39 USD              0  Expenses
-    185.39 USD              0    -185.39 USD    IT:Hosting
+             0    6333.99 USD    6333.99 USD  Equity:Opening Balance
+    185.39 USD              0    -185.39 USD  Expenses:IT:Hosting
 --------------------------------------------
-   6519.38 USD   12667.98 USD    6148.60 USD
+    185.39 USD    6333.99 USD    6148.60 USD
 
 </pre>
 
@@ -1141,11 +659,8 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.44 USD              0      -0.44 USD  Assets:PaypalSPI
-  18666.92 USD   34567.16 USD   15900.24 USD  Equity
-             0   15900.24 USD   15900.24 USD    Closing Balance
-             0   18666.92 USD   18666.92 USD    Opening Balance
-   2766.68 USD              0   -2766.68 USD    PnL
-  12018.67 USD   12018.67 USD              0  Expenses
+             0   18666.92 USD   18666.92 USD  Equity:Opening Balance
+  12018.67 USD       0.44 USD  -12018.23 USD  Expenses
     155.62 USD       0.44 USD    -155.18 USD    Banking
     144.52 USD              0    -144.52 USD      CPFee
      11.10 USD       0.44 USD     -10.66 USD      PayPalFee
@@ -1154,10 +669,9 @@ shown as a possitive amount.
    6500.00 USD              0   -6500.00 USD      Outreach
    3844.34 USD              0   -3844.34 USD    Meetups:Travel
     513.70 USD              0    -513.70 USD    Office:Postal
-   9759.52 USD    9759.52 USD              0  Income
-    507.97 USD    9759.52 USD    9251.55 USD    Donations
+    507.97 USD    9759.52 USD    9251.55 USD  Income:Donations
 --------------------------------------------
-  40445.55 USD   56345.35 USD   15899.80 USD
+  12527.08 USD   28426.88 USD   15899.80 USD
 
 </pre>
 
@@ -1166,16 +680,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    648.53 USD    1297.06 USD     648.53 USD  Equity
-             0     648.53 USD     648.53 USD    Closing Balance
-             0     304.62 USD     304.62 USD    Opening Balance
-             0     343.91 USD     343.91 USD    PnL
-     18.04 USD      18.04 USD              0  Expenses
-     18.04 USD              0     -18.04 USD    Banking:CPFee
-    381.00 USD     381.00 USD              0  Income
-     19.05 USD     381.00 USD     361.95 USD    Donations
+             0     304.62 USD     304.62 USD  Equity:Opening Balance
+     18.04 USD              0     -18.04 USD  Expenses:Banking:CPFee
+     19.05 USD     381.00 USD     361.95 USD  Income:Donations
 --------------------------------------------
-   1047.57 USD    1696.10 USD     648.53 USD
+     37.09 USD     685.62 USD     648.53 USD
 
 </pre>
 
@@ -1184,16 +693,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    997.14 USD    1994.28 USD     997.14 USD  Equity
-             0     997.14 USD     997.14 USD    Closing Balance
-             0     995.00 USD     995.00 USD    Opening Balance
-             0       2.14 USD       2.14 USD    PnL
-      0.78 USD       0.78 USD              0  Expenses
-      0.78 USD       0.07 USD      -0.71 USD    Banking:PayPalFee
-      6.16 USD       6.16 USD              0  Income
-      3.31 USD       6.16 USD       2.85 USD    Donations
+             0     995.00 USD     995.00 USD  Equity:Opening Balance
+      0.78 USD       0.07 USD      -0.71 USD  Expenses:Banking:PayPalFee
+      3.31 USD       6.16 USD       2.85 USD  Income:Donations
 --------------------------------------------
-   1004.08 USD    2001.22 USD     997.14 USD
+      4.09 USD    1001.23 USD     997.14 USD
 
 </pre>
 
@@ -1202,20 +706,16 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  17500.17 USD   32766.30 USD   15266.13 USD  Equity
-             0   15266.13 USD   15266.13 USD    Closing Balance
-             0   17500.17 USD   17500.17 USD    Opening Balance
-   2234.04 USD              0   -2234.04 USD    PnL
-   2775.54 USD    2775.54 USD              0  Expenses
+             0   17500.17 USD   17500.17 USD  Equity:Opening Balance
+   2775.54 USD              0   -2775.54 USD  Expenses
      22.98 USD              0     -22.98 USD    Banking
      11.50 USD              0     -11.50 USD      CPFee
      11.48 USD              0     -11.48 USD      PayPalFee
     300.00 USD              0    -300.00 USD    Development:WorkOfTheMonth
    2452.56 USD              0   -2452.56 USD    Meetups:Travel
-    570.00 USD     570.00 USD              0  Income
-     28.50 USD     570.00 USD     541.50 USD    Donations
+     28.50 USD     570.00 USD     541.50 USD  Income:Donations
 --------------------------------------------
-  20845.71 USD   36111.84 USD   15266.13 USD
+   2804.04 USD   18070.17 USD   15266.13 USD
 
 </pre>
 
@@ -1224,17 +724,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  25049.92 USD   25073.44 USD      23.52 USD  Equity
-             0      23.52 USD      23.52 USD    Closing Balance
-             0   25049.92 USD   25049.92 USD    Opening Balance
-  25026.40 USD              0  -25026.40 USD    PnL
-  25054.90 USD   25054.90 USD              0  Expenses
+             0   25049.92 USD   25049.92 USD  Equity:Opening Balance
+  25054.90 USD              0  -25054.90 USD  Expenses
       1.90 USD              0      -1.90 USD    Banking:CPFee
   25053.00 USD              0  -25053.00 USD    Office:Disassociation
-     30.00 USD      30.00 USD              0  Income
-      1.50 USD      30.00 USD      28.50 USD    Donations
+      1.50 USD      30.00 USD      28.50 USD  Income:Donations
 --------------------------------------------
-  50134.82 USD   50158.34 USD      23.52 USD
+  25056.40 USD   25079.92 USD      23.52 USD
 
 </pre>
 
@@ -1243,13 +739,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   8357.68 USD    8357.68 USD              0  Equity
-             0    8357.68 USD    8357.68 USD    Opening Balance
-   8357.68 USD              0   -8357.68 USD    PnL
-   8357.68 USD    8357.68 USD              0  Expenses
-   8357.68 USD              0   -8357.68 USD    IT:Hosting
+             0    8357.68 USD    8357.68 USD  Equity:Opening Balance
+   8357.68 USD              0   -8357.68 USD  Expenses:IT:Hosting
 --------------------------------------------
-  16715.36 USD   16715.36 USD              0
+   8357.68 USD    8357.68 USD              0
 
 </pre>
 
@@ -1258,11 +751,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    142.50 USD     285.00 USD     142.50 USD  Equity
-             0     142.50 USD     142.50 USD    Closing Balance
-             0     142.50 USD     142.50 USD    Opening Balance
---------------------------------------------
-    142.50 USD     285.00 USD     142.50 USD
+             0     142.50 USD     142.50 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1271,17 +760,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  16482.89 USD   32965.78 USD   16482.89 USD  Equity
-             0   16482.89 USD   16482.89 USD    Closing Balance
-             0   15978.96 USD   15978.96 USD    Opening Balance
-             0     503.93 USD     503.93 USD    PnL
-    113.57 USD     113.57 USD              0  Expenses
+             0   15978.96 USD   15978.96 USD  Equity:Opening Balance
+    113.57 USD              0    -113.57 USD  Expenses
      28.10 USD              0     -28.10 USD    Banking:CPFee
      85.47 USD              0     -85.47 USD    IT:Hosting
-    650.00 USD     650.00 USD              0  Income
-     32.50 USD     650.00 USD     617.50 USD    Donations
+     32.50 USD     650.00 USD     617.50 USD  Income:Donations
 --------------------------------------------
-  17246.46 USD   33729.35 USD   16482.89 USD
+    146.07 USD   16628.96 USD   16482.89 USD
 
 </pre>
 
@@ -1290,11 +775,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    212.83 USD     425.66 USD     212.83 USD  Equity
-             0     212.83 USD     212.83 USD    Closing Balance
-             0     212.83 USD     212.83 USD    Opening Balance
---------------------------------------------
-    212.83 USD     425.66 USD     212.83 USD
+             0     212.83 USD     212.83 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1303,11 +784,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  29672.60 USD   59345.20 USD   29672.60 USD  Equity
-             0   29672.60 USD   29672.60 USD    Closing Balance
-             0   27435.99 USD   27435.99 USD    Opening Balance
-             0    2236.61 USD    2236.61 USD    PnL
-   4368.80 USD    4368.80 USD              0  Expenses
+             0   27435.99 USD   27435.99 USD  Equity:Opening Balance
+   4368.80 USD       4.70 USD   -4364.10 USD  Expenses
     286.55 USD       4.70 USD    -281.85 USD    Banking
     278.79 USD              0    -278.79 USD      CPFee
       7.76 USD       4.70 USD      -3.06 USD      PayPalFee
@@ -1315,10 +793,9 @@ shown as a possitive amount.
    3693.65 USD              0   -3693.65 USD    Meetups
    2435.99 USD              0   -2435.99 USD      Merchandise
    1257.66 USD              0   -1257.66 USD      Travel
-   9048.12 USD    9048.12 USD              0  Income
-   2447.41 USD    9048.12 USD    6600.71 USD    Donations
+   2447.41 USD    9048.12 USD    6600.71 USD  Income:Donations
 --------------------------------------------
-  43089.52 USD   72762.12 USD   29672.60 USD
+   6816.21 USD   36488.81 USD   29672.60 USD
 
 </pre>
 
@@ -1328,11 +805,8 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.22 USD              0      -0.22 USD  Assets:PaypalSPI
-  68740.43 USD  115717.28 USD   46976.85 USD  Equity
-             0   46976.85 USD   46976.85 USD    Closing Balance
-             0   68740.43 USD   68740.43 USD    Opening Balance
-  21763.58 USD              0  -21763.58 USD    PnL
-  49556.04 USD   49556.04 USD              0  Expenses
+             0   68740.43 USD   68740.43 USD  Equity:Opening Balance
+  49556.04 USD    2829.77 USD  -46726.27 USD  Expenses
     135.97 USD       0.22 USD    -135.75 USD    Banking
      85.42 USD              0     -85.42 USD      CPFee
      50.55 USD       0.22 USD     -50.33 USD      PayPalFee
@@ -1340,10 +814,9 @@ shown as a possitive amount.
     110.00 USD              0    -110.00 USD      Accommodation
     314.49 USD              0    -314.49 USD      Merchandise
   45815.52 USD    2829.55 USD  -42985.97 USD      Travel
-  26287.01 USD   26287.01 USD              0  Income
-   1324.32 USD   26287.01 USD   24962.69 USD    Donations
+   1324.32 USD   26287.01 USD   24962.69 USD  Income:Donations
 --------------------------------------------
- 144583.70 USD  191560.33 USD   46976.63 USD
+  50880.58 USD   97857.21 USD   46976.63 USD
 
 </pre>
 
@@ -1352,11 +825,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1494.90 USD    2989.80 USD    1494.90 USD  Equity
-             0    1494.90 USD    1494.90 USD    Closing Balance
-             0    1494.90 USD    1494.90 USD    Opening Balance
---------------------------------------------
-   1494.90 USD    2989.80 USD    1494.90 USD
+             0    1494.90 USD    1494.90 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1365,18 +834,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   4132.86 USD    8265.72 USD    4132.86 USD  Equity
-             0    4132.86 USD    4132.86 USD    Closing Balance
-             0    4079.17 USD    4079.17 USD    Opening Balance
-             0      53.69 USD      53.69 USD    PnL
-      4.83 USD       4.83 USD              0  Expenses
-      4.83 USD              0      -4.83 USD    Banking
-      4.16 USD              0      -4.16 USD      CPFee
-      0.67 USD              0      -0.67 USD      PayPalFee
-     61.60 USD      61.60 USD              0  Income
-      3.08 USD      61.60 USD      58.52 USD    Donations
+             0    4079.17 USD    4079.17 USD  Equity:Opening Balance
+      4.83 USD              0      -4.83 USD  Expenses:Banking
+      4.16 USD              0      -4.16 USD    CPFee
+      0.67 USD              0      -0.67 USD    PayPalFee
+      3.08 USD      61.60 USD      58.52 USD  Income:Donations
 --------------------------------------------
-   4199.29 USD    8332.15 USD    4132.86 USD
+      7.91 USD    4140.77 USD    4132.86 USD
 
 </pre>
 
@@ -1385,17 +849,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6085.29 USD   12170.58 USD    6085.29 USD  Equity
-             0    6085.29 USD    6085.29 USD    Closing Balance
-             0      59.27 USD      59.27 USD    Opening Balance
-             0    6026.02 USD    6026.02 USD    PnL
- 184001.53 USD  184001.53 USD              0  Expenses
+             0      59.27 USD      59.27 USD  Equity:Opening Balance
+ 184001.53 USD              0 -184001.53 USD  Expenses
       1.53 USD              0      -1.53 USD    Banking:PayPalFee
  184000.00 USD              0 -184000.00 USD    Development:WorkOfTheMonth
- 200029.00 USD  200029.00 USD              0  Income
-  10001.45 USD  200029.00 USD  190027.55 USD    Donations
+  10001.45 USD  200029.00 USD  190027.55 USD  Income:Donations
 --------------------------------------------
- 390115.82 USD  396201.11 USD    6085.29 USD
+ 194002.98 USD  200088.27 USD    6085.29 USD
 
 </pre>
 
@@ -1404,11 +864,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  83925.53 USD  167851.06 USD   83925.53 USD  Equity
-             0   83925.53 USD   83925.53 USD    Closing Balance
-             0   75217.75 USD   75217.75 USD    Opening Balance
-             0    8707.78 USD    8707.78 USD    PnL
-   2852.05 USD    2852.05 USD              0  Expenses
+             0   75217.75 USD   75217.75 USD  Equity:Opening Balance
+   2852.05 USD    1865.56 USD    -986.49 USD  Expenses
      45.93 USD       4.70 USD     -41.23 USD    Banking
      40.35 USD              0     -40.35 USD      CPFee
       5.58 USD       4.70 USD      -0.88 USD      PayPalFee
@@ -1416,10 +873,9 @@ shown as a possitive amount.
     209.41 USD              0    -209.41 USD      Domains
    1860.86 USD    1860.86 USD              0      Hosting
     735.85 USD              0    -735.85 USD    Meetups:Travel
-  10414.50 USD   10414.50 USD              0  Income
-    720.23 USD   10414.50 USD    9694.27 USD    Donations
+    720.23 USD   10414.50 USD    9694.27 USD  Income:Donations
 --------------------------------------------
-  97192.08 USD  181117.61 USD   83925.53 USD
+   3572.28 USD   87497.81 USD   83925.53 USD
 
 </pre>
 
@@ -1428,16 +884,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    435.79 USD     871.58 USD     435.79 USD  Equity
-             0     435.79 USD     435.79 USD    Closing Balance
-             0     328.03 USD     328.03 USD    Opening Balance
-             0     107.76 USD     107.76 USD    PnL
-      6.26 USD       6.26 USD              0  Expenses
-      6.26 USD              0      -6.26 USD    Banking:PayPalFee
-    120.02 USD     120.02 USD              0  Income
-      6.00 USD     120.02 USD     114.02 USD    Donations
+             0     328.03 USD     328.03 USD  Equity:Opening Balance
+      6.26 USD              0      -6.26 USD  Expenses:Banking:PayPalFee
+      6.00 USD     120.02 USD     114.02 USD  Income:Donations
 --------------------------------------------
-    562.07 USD     997.86 USD     435.79 USD
+     12.26 USD     448.05 USD     435.79 USD
 
 </pre>
 
@@ -1446,15 +897,10 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    546.25 USD    1092.50 USD     546.25 USD  Equity
-             0     546.25 USD     546.25 USD    Closing Balance
-             0     546.25 USD     546.25 USD    PnL
-      0.01 USD       0.01 USD              0  Expenses
-      0.01 USD              0      -0.01 USD    Banking:PayPalFee
-    575.01 USD     575.01 USD              0  Income
-     28.75 USD     575.01 USD     546.26 USD    Donations
+      0.01 USD              0      -0.01 USD  Expenses:Banking:PayPalFee
+     28.75 USD     575.01 USD     546.26 USD  Income:Donations
 --------------------------------------------
-   1121.27 USD    1667.52 USD     546.25 USD
+     28.76 USD     575.01 USD     546.25 USD
 
 </pre>
 
@@ -1463,16 +909,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-     65.04 USD     130.08 USD      65.04 USD  Equity
-             0      65.04 USD      65.04 USD    Closing Balance
-             0      56.21 USD      56.21 USD    Opening Balance
-             0       8.83 USD       8.83 USD    PnL
-      0.67 USD       0.67 USD              0  Expenses
-      0.67 USD              0      -0.67 USD    Banking:PayPalFee
-     10.00 USD      10.00 USD              0  Income
-      0.50 USD      10.00 USD       9.50 USD    Donations
+             0      56.21 USD      56.21 USD  Equity:Opening Balance
+      0.67 USD              0      -0.67 USD  Expenses:Banking:PayPalFee
+      0.50 USD      10.00 USD       9.50 USD  Income:Donations
 --------------------------------------------
-     75.71 USD     140.75 USD      65.04 USD
+      1.17 USD      66.21 USD      65.04 USD
 
 </pre>
 
@@ -1481,18 +922,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    116.72 USD     233.44 USD     116.72 USD  Equity
-             0     116.72 USD     116.72 USD    Closing Balance
-             0      89.71 USD      89.71 USD    Opening Balance
-             0      27.01 USD      27.01 USD    PnL
-      1.49 USD       1.49 USD              0  Expenses
-      1.49 USD              0      -1.49 USD    Banking
-      0.75 USD              0      -0.75 USD      CPFee
-      0.74 USD              0      -0.74 USD      PayPalFee
-     30.00 USD      30.00 USD              0  Income
-      1.50 USD      30.00 USD      28.50 USD    Donations
+             0      89.71 USD      89.71 USD  Equity:Opening Balance
+      1.49 USD              0      -1.49 USD  Expenses:Banking
+      0.75 USD              0      -0.75 USD    CPFee
+      0.74 USD              0      -0.74 USD    PayPalFee
+      1.50 USD      30.00 USD      28.50 USD  Income:Donations
 --------------------------------------------
-    148.21 USD     264.93 USD     116.72 USD
+      2.99 USD     119.71 USD     116.72 USD
 
 </pre>
 
@@ -1501,18 +937,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6333.20 USD   12666.40 USD    6333.20 USD  Equity
-             0    6333.20 USD    6333.20 USD    Closing Balance
-             0    6040.14 USD    6040.14 USD    Opening Balance
-             0     293.06 USD     293.06 USD    PnL
-     16.20 USD      16.20 USD              0  Expenses
-     16.20 USD              0     -16.20 USD    Banking
-      9.78 USD              0      -9.78 USD      CPFee
-      6.42 USD              0      -6.42 USD      PayPalFee
-    325.54 USD     325.54 USD              0  Income
-     16.28 USD     325.54 USD     309.26 USD    Donations
+             0    6040.14 USD    6040.14 USD  Equity:Opening Balance
+     16.20 USD              0     -16.20 USD  Expenses:Banking
+      9.78 USD              0      -9.78 USD    CPFee
+      6.42 USD              0      -6.42 USD    PayPalFee
+     16.28 USD     325.54 USD     309.26 USD  Income:Donations
 --------------------------------------------
-   6674.94 USD   13008.14 USD    6333.20 USD
+     32.48 USD    6365.68 USD    6333.20 USD
 
 </pre>
 
@@ -1521,11 +952,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    628.73 USD     373.24 USD    -255.49 USD  Equity
-    255.49 USD              0    -255.49 USD    Closing Balance
-             0     117.75 USD     117.75 USD    Opening Balance
-    373.24 USD              0    -373.24 USD    PnL
-  34113.63 USD   34113.63 USD              0  Expenses
+             0     117.75 USD     117.75 USD  Equity:Opening Balance
+  34113.63 USD              0  -34113.63 USD  Expenses
     642.81 USD              0    -642.81 USD    Banking
     605.00 USD              0    -605.00 USD      CPFee
      37.81 USD              0     -37.81 USD      PayPalFee
@@ -1535,10 +963,9 @@ shown as a possitive amount.
     698.38 USD              0    -698.38 USD    Office
     350.00 USD              0    -350.00 USD      Insurance
     348.38 USD              0    -348.38 USD      Postal
-  35515.88 USD   35515.88 USD              0  Income
-   1775.49 USD   35515.88 USD   33740.39 USD    Donations
+   1775.49 USD   35515.88 USD   33740.39 USD  Income:Donations
 --------------------------------------------
-  70258.24 USD   70002.75 USD    -255.49 USD
+  35889.12 USD   35633.63 USD    -255.49 USD
 
 </pre>
 
@@ -1547,11 +974,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-     17.17 USD      34.34 USD      17.17 USD  Equity
-             0      17.17 USD      17.17 USD    Closing Balance
-             0      17.17 USD      17.17 USD    Opening Balance
---------------------------------------------
-     17.17 USD      34.34 USD      17.17 USD
+             0      17.17 USD      17.17 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1560,11 +983,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-     18.60 USD      37.20 USD      18.60 USD  Equity
-             0      18.60 USD      18.60 USD    Closing Balance
-             0      18.60 USD      18.60 USD    Opening Balance
---------------------------------------------
-     18.60 USD      37.20 USD      18.60 USD
+             0      18.60 USD      18.60 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1573,17 +992,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   5588.45 USD   11176.90 USD    5588.45 USD  Equity
-             0    5588.45 USD    5588.45 USD    Closing Balance
-             0    1698.80 USD    1698.80 USD    Opening Balance
-             0    3889.65 USD    3889.65 USD    PnL
-   1525.32 USD    1525.32 USD              0  Expenses
+             0    1698.80 USD    1698.80 USD  Equity:Opening Balance
+   1525.32 USD       0.02 USD   -1525.30 USD  Expenses
       0.32 USD       0.02 USD      -0.30 USD    Banking:PayPalFee
    1525.00 USD              0   -1525.00 USD    Meetups:Merchandise
-   5701.00 USD    5701.00 USD              0  Income
-    286.05 USD    5701.00 USD    5414.95 USD    Donations
+    286.05 USD    5701.00 USD    5414.95 USD  Income:Donations
 --------------------------------------------
-  12814.77 USD   18403.22 USD    5588.45 USD
+   1811.37 USD    7399.82 USD    5588.45 USD
 
 </pre>
 
@@ -1592,11 +1007,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6500.00 USD   13000.00 USD    6500.00 USD  Equity
-             0    6500.00 USD    6500.00 USD    Closing Balance
-             0    6500.00 USD    6500.00 USD    Opening Balance
---------------------------------------------
-   6500.00 USD   13000.00 USD    6500.00 USD
+             0    6500.00 USD    6500.00 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1605,11 +1016,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
- 119222.24 USD  238444.48 USD  119222.24 USD  Equity
-             0  119222.24 USD  119222.24 USD    Closing Balance
-             0   92378.16 USD   92378.16 USD    Opening Balance
-             0   26844.08 USD   26844.08 USD    PnL
-   7207.72 USD    7207.72 USD              0  Expenses
+             0   92378.16 USD   92378.16 USD  Equity:Opening Balance
+   7207.72 USD              0   -7207.72 USD  Expenses
     236.94 USD              0    -236.94 USD    Banking
     213.95 USD              0    -213.95 USD      CPFee
      22.99 USD              0     -22.99 USD      PayPalFee
@@ -1618,10 +1026,9 @@ shown as a possitive amount.
     164.69 USD              0    -164.69 USD      Accommodation
    1477.09 USD              0   -1477.09 USD      Travel
     129.00 USD              0    -129.00 USD    Office:PressReleases
-  35844.00 USD   35844.00 USD              0  Income
-   1792.20 USD   35844.00 USD   34051.80 USD    Donations
+   1792.20 USD   35844.00 USD   34051.80 USD  Income:Donations
 --------------------------------------------
- 162273.96 USD  281496.20 USD  119222.24 USD
+   8999.92 USD  128222.16 USD  119222.24 USD
 
 </pre>
 
@@ -1630,19 +1037,15 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1735.24 USD    3470.48 USD    1735.24 USD  Equity
-             0    1735.24 USD    1735.24 USD    Closing Balance
-             0     213.62 USD     213.62 USD    Opening Balance
-             0    1521.62 USD    1521.62 USD    PnL
-   1013.82 USD    1013.82 USD              0  Expenses
+             0     213.62 USD     213.62 USD  Equity:Opening Balance
+   1013.82 USD      26.14 USD    -987.68 USD  Expenses
      97.76 USD      26.14 USD     -71.62 USD    Banking
       5.10 USD              0      -5.10 USD      CPFee
      92.66 USD      26.14 USD     -66.52 USD      PayPalFee
     916.06 USD              0    -916.06 USD    IT:Hosting
-   3913.35 USD    3913.35 USD              0  Income
-   1404.05 USD    3913.35 USD    2509.30 USD    Donations
+   1404.05 USD    3913.35 USD    2509.30 USD  Income:Donations
 --------------------------------------------
-   6662.41 USD    8397.65 USD    1735.24 USD
+   2417.87 USD    4153.11 USD    1735.24 USD
 
 </pre>
 
@@ -1651,16 +1054,11 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   5763.62 USD   11526.94 USD    5763.32 USD  Equity
-             0    5763.32 USD    5763.32 USD    Closing Balance
-             0    5763.62 USD    5763.62 USD    Opening Balance
-      0.30 USD              0      -0.30 USD    PnL
-      0.36 USD       0.36 USD              0  Expenses
-      0.36 USD       0.06 USD      -0.30 USD    Banking:PayPalFee
-      2.63 USD       2.63 USD              0  Income
-      2.63 USD       2.63 USD              0    Donations
+             0    5763.62 USD    5763.62 USD  Equity:Opening Balance
+      0.36 USD       0.06 USD      -0.30 USD  Expenses:Banking:PayPalFee
+      2.63 USD       2.63 USD              0  Income:Donations
 --------------------------------------------
-   5766.61 USD   11529.93 USD    5763.32 USD
+      2.99 USD    5766.31 USD    5763.32 USD
 
 </pre>
 
@@ -1670,11 +1068,8 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.39 USD              0      -0.39 USD  Assets:PaypalDebian
- 217320.24 USD  434640.48 USD  217320.24 USD  Equity
-             0  217320.24 USD  217320.24 USD    Closing Balance
-             0  171804.09 USD  171804.09 USD    Opening Balance
-             0   45516.15 USD   45516.15 USD    PnL
-  23958.35 USD   23958.35 USD              0  Expenses
+             0  171804.09 USD  171804.09 USD  Equity:Opening Balance
+  23958.35 USD     326.09 USD  -23632.26 USD  Expenses
    1570.34 USD     326.09 USD   -1244.25 USD    Banking
     205.00 USD              0    -205.00 USD      AccountFee
      40.00 USD              0     -40.00 USD      AnnualFee
@@ -1692,11 +1087,11 @@ shown as a possitive amount.
     441.00 USD              0    -441.00 USD      RegisteredAgent
     250.00 USD              0    -250.00 USD      Tax
      61.79 USD              0     -61.79 USD      Training
-  69430.08 USD   69430.08 USD              0  Income
+    281.67 USD   69430.08 USD   69148.41 USD  Income
     281.67 USD   69127.48 USD   68845.81 USD    Donations
              0     302.60 USD     302.60 USD    Interest
 --------------------------------------------
- 310709.06 USD  528028.91 USD  217319.85 USD
+  24240.41 USD  241560.26 USD  217319.85 USD
 
 </pre>
 
@@ -1705,18 +1100,13 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1146.95 USD    2293.90 USD    1146.95 USD  Equity
-             0    1146.95 USD    1146.95 USD    Closing Balance
-             0    1122.51 USD    1122.51 USD    Opening Balance
-             0      24.44 USD      24.44 USD    PnL
-      2.69 USD       2.69 USD              0  Expenses
-      2.69 USD       0.33 USD      -2.36 USD    Banking
-      0.75 USD              0      -0.75 USD      CPFee
-      1.94 USD       0.33 USD      -1.61 USD      PayPalFee
-     44.00 USD      44.00 USD              0  Income
-     17.20 USD      44.00 USD      26.80 USD    Donations
+             0    1122.51 USD    1122.51 USD  Equity:Opening Balance
+      2.69 USD       0.33 USD      -2.36 USD  Expenses:Banking
+      0.75 USD              0      -0.75 USD    CPFee
+      1.94 USD       0.33 USD      -1.61 USD    PayPalFee
+     17.20 USD      44.00 USD      26.80 USD  Income:Donations
 --------------------------------------------
-   1193.64 USD    2340.59 USD    1146.95 USD
+     19.89 USD    1166.84 USD    1146.95 USD
 
 </pre>
 
@@ -1725,11 +1115,7 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    353.99 USD     707.98 USD     353.99 USD  Equity
-             0     353.99 USD     353.99 USD    Closing Balance
-             0     353.99 USD     353.99 USD    Opening Balance
---------------------------------------------
-    353.99 USD     707.98 USD     353.99 USD
+             0     353.99 USD     353.99 USD  Equity:Opening Balance
 
 </pre>
 
@@ -1739,16 +1125,11 @@ shown as a possitive amount.
          debit         credit          total
 --------------------------------------------
       0.44 USD              0      -0.44 USD  Assets:PaypalSPI
-  16303.15 USD   32606.30 USD   16303.15 USD  Equity
-             0   16303.15 USD   16303.15 USD    Closing Balance
-             0   16283.63 USD   16283.63 USD    Opening Balance
-             0      19.52 USD      19.52 USD    PnL
-      1.82 USD       1.82 USD              0  Expenses
-      1.82 USD       0.44 USD      -1.38 USD    Banking:PayPalFee
-     43.00 USD      43.00 USD              0  Income
-     22.10 USD      43.00 USD      20.90 USD    Donations
+             0   16283.63 USD   16283.63 USD  Equity:Opening Balance
+      1.82 USD       0.44 USD      -1.38 USD  Expenses:Banking:PayPalFee
+     22.10 USD      43.00 USD      20.90 USD  Income:Donations
 --------------------------------------------
-  16348.41 USD   32651.12 USD   16302.71 USD
+     24.36 USD   16327.07 USD   16302.71 USD
 
 </pre>
 
@@ -1757,11 +1138,8 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  38666.35 USD   77332.70 USD   38666.35 USD  Equity
-             0   38666.35 USD   38666.35 USD    Closing Balance
-             0   33444.39 USD   33444.39 USD    Opening Balance
-             0    5221.96 USD    5221.96 USD    PnL
-   1964.84 USD    1964.84 USD              0  Expenses
+             0   33444.39 USD   33444.39 USD  Equity:Opening Balance
+   1964.84 USD     138.75 USD   -1826.09 USD  Expenses
      43.48 USD              0     -43.48 USD    Banking
      14.95 USD              0     -14.95 USD      CPFee
      28.53 USD              0     -28.53 USD      PayPalFee
@@ -1769,10 +1147,9 @@ shown as a possitive amount.
    1164.93 USD              0   -1164.93 USD      Accommodation
     503.93 USD              0    -503.93 USD      Travel
     252.50 USD     138.75 USD    -113.75 USD    Office
-   7419.00 USD    7419.00 USD              0  Income
-    370.95 USD    7419.00 USD    7048.05 USD    Donations
+    370.95 USD    7419.00 USD    7048.05 USD  Income:Donations
 --------------------------------------------
-  48050.19 USD   86716.54 USD   38666.35 USD
+   2335.79 USD   41002.14 USD   38666.35 USD
 
 </pre>
 
@@ -1781,18 +1158,14 @@ shown as a possitive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6976.33 USD   13952.66 USD    6976.33 USD  Equity
-             0    6976.33 USD    6976.33 USD    Closing Balance
-             0    5849.77 USD    5849.77 USD    Opening Balance
-             0    1126.56 USD    1126.56 USD    PnL
-    774.29 USD     774.29 USD              0  Expenses
+             0    5849.77 USD    5849.77 USD  Equity:Opening Balance
+    774.29 USD       0.85 USD    -773.44 USD  Expenses
      81.20 USD       0.85 USD     -80.35 USD    Banking
      80.35 USD              0     -80.35 USD      CPFee
       0.85 USD       0.85 USD              0      PayPalFee
     693.09 USD              0    -693.09 USD    IT:Hosting
-   2026.25 USD    2026.25 USD              0  Income
-    126.25 USD    2026.25 USD    1900.00 USD    Donations
+    126.25 USD    2026.25 USD    1900.00 USD  Income:Donations
 --------------------------------------------
-   9776.87 USD   16753.20 USD    6976.33 USD
+    900.54 USD    7876.87 USD    6976.33 USD
 </pre>
 
