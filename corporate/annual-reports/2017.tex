@@ -7,6 +7,11 @@
 \usepackage{background}
 \usepackage{mathptmx}
 
+% To avoid tikz error, see https://tex.stackexchange.com/questions/165929/semiverbatim-with-tikz-in-beamer
+\makeatletter
+\global\let\tikz@ensure@dollar@catcode=\relax
+\makeatother
+
 \backgroundsetup{
 scale=1,
 angle=0,
@@ -228,7 +233,267 @@ expenses when sent or scheduled for payment (not when incurred).
 This covers the Period January 1, 2017 -- December 31, 2017
 
 \begin{verbatim}
-TODO
+ Income
+   Ordinary Income
+        0 A.D.                           2,963.58
+        Ankur                                9.53
+        Aptosid                             97.85
+        Arch Linux                      21,423.79
+        ArduPilot                       31,182.32
+        Chakra                             658.82
+        DebConf16                        4,750.00
+        DebConf17                      135,481.03
+        Debian                          41,728.94
+        FFmpeg                           9,251.55
+        FFmpeg (OPW)                       361.95
+        Fluxbox                              2.85
+        freedesktop.org                    541.50
+        FreedomBox Foundation               28.50
+        Gallery                              0.00
+        GNU TeXmacs                         26.80
+        GNUstep                              0.00
+        haskell.org                        617.50
+        Jenkins                          6,600.71
+        LibreOffice                     24,962.69
+        MinGW                               58.52
+        NTPec                          190,027.55
+        Open Bioinformatics              9,694.27
+        Open MPI                           546.26
+        Open Voting Foundation              28.50
+        OpenEmbedded                       114.02
+        OpenVAS                              9.50
+        OpenWrt                            309.26
+        OpenZFS                         33,740.39
+        OSUNIX                               0.00
+        Performance Co-Pilot             5,414.95
+        PostgreSQL                      34,051.80
+        Privoxy                          2,509.30
+        Swathanthra Malayalam Computing      0.00
+        SPI General                     68,845.81
+        The HeliOS Project                   0.00
+        Tux4Kids                            20.90
+        X.Org                            7,048.05
+        YafaRay                          1,900.00
+
+        Total Ordinary Income          635,008.99
+                                       ----------
+   Interest Income
+        Ameriprise Brokerage                37.56
+        Key Business Platinum MM Savings    24.40
+        Chase BusSelect High Yield Savings 198.02
+        Fifth Third Business MM 128         42.62
+
+        Total Interest Income              302.60
+                                           ------
+
+   Gross Income                        635,311.59
+                                       ----------
+
+ Expenses
+  Ordinary Expenses
+
+        0 A.D.
+          164.88    Banking fees
+        1,043.65    IT
+        --------
+        1,208.53
+
+        Ankur
+            0.82    Banking fees
+
+        Aptosid
+            5.02    Banking fees
+
+        Arch Linux
+          813.11    Banking fees
+           35.00    Chargeback
+        3,549.05    IT
+        --------
+        4,397.16
+
+        ArduPilot
+          878.46    Banking fees
+       14,448.23    Development
+        3,315.44    IT
+          615.02    Meetups
+       ---------
+       19,257.15
+
+        Chakra
+           27.13    Banking fees
+          450.00    Office
+          ------
+          477.13
+
+        DebConf 15
+        1,065.29    Meetups
+
+        DebConf 16
+          145.30    Banking fees
+        4,037.09     Meetups
+        --------
+        4,182.39
+
+        DebConf 17
+          350.35    Banking fees
+            8.22    IT
+      182,157.00    Meetups
+          304.66    Office
+      ----------
+      182,820.23
+
+        Debian
+        1,700.21    Banking fees
+       19,500.00    Development
+       (1,723.93)   IT (Refund)
+       25,349.02    Meetups
+       ---------
+       44,825.30
+
+        Drizzle
+          185.39    IT
+
+        FFmpeg
+          155.18    Banking fees
+        7,505.01    Development
+        3,844.34    Meetups
+          513.70    Office
+       ---------
+       12,018.23
+
+        FFmpeg (OPW)
+           18.04    Banking fees
+
+        Fluxbox
+            0.71    Banking fees
+
+        freedesktop.org
+           22.98    Banking fees
+          300.00    Development
+        2,452.56    Meetups
+        ---------
+        2,775.54
+
+        FreedomBox Foundation
+            1.90    Banking fees
+       25,053.00    Transfer to FreedomBox Foundation
+       ---------
+       25,054.90
+
+        Gallery
+        8,357.68    IT
+
+        GNU TeXmacs
+            2.36    Banking fees
+
+        haskell.org
+           28.10    Banking fees
+           85.47    IT
+          ------
+          113.57
+
+        Jenkins
+          281.85    Banking fees
+          388.60    Development
+        3,693.65    Meetups
+         -------
+        4,364.10
+
+        LibreOffice
+          135.75    Banking fees
+       46,590.52    Meetups
+       ---------
+       46,726.27
+
+        MinGW
+            4.83    Banking fees
+
+        NTPsec
+            1.53    Banking fees
+      184,000.00    Development
+      ----------
+      184,001.53
+
+        Open Bioinformatics
+           41.23    Banking fees
+          209.41    IT
+          735.85    Meetups
+          ------
+          986.49
+
+        OpenEmbedded
+            6.26    Banking fees
+
+        Open MPI
+            0.01    Banking fees
+
+        Open Voting Foundation
+            1.49    Banking fees
+
+        OpenVAS
+            0.67    Banking fees
+
+        OpenWrt
+           16.20    Banking fees
+
+        OpenZFS
+          642.81    Banking fees
+       32,772.44    Meetups
+          698.38    Office
+       ---------
+       34,113.63
+
+        Performance Co-Pilot
+            0.30    Banking fees
+        1,525.00    Meetups
+        --------
+        1,525.30
+
+        PostgreSQL
+          236.94    Banking fees
+        5,000.00    Development
+        1,841.78    Meetups
+          129.00    Office
+        --------
+        7,207.72
+
+        privoxy
+           71.62    Banking fees
+          916.06    IT
+          ------
+          987.68
+
+        Swathanthra Malayalam Computing
+            0.30    Banking fees
+
+        SPI
+        1,244.25    Banking fees
+           88.01    Chargeback
+       20,146.50    Meetups
+        2,153.50    Office
+       ---------
+       23,632.26
+
+        Tux4Kids
+            1.38    Banking fees
+
+        X.Org
+           43.48    Banking fees
+        1,668.86    Meetups
+          113.75    Office
+        --------
+        1,826.09
+
+        YafaRay
+           80.35    Office
+          693.09    IT
+          ------
+          773.44
+
+        Total Expenses          612,941.09
+                                ----------
+
+        Net Income               22,370.50
 \end{verbatim}
 
 \section{Balance Sheet}
@@ -236,7 +501,87 @@ TODO
 \begin{verbatim}
 Balance Sheet as of December 31, 2017
 
-TODO
+   ASSETS
+     Current Assets
+        Ameriprise Cash Mgmt Acct                         13,443.71
+        Chase Business Select High Yield Savings         170,225.61
+        Chase Performance Business Checking              138,443.58
+        Fifth Third Business Elite Checking (Debian)      86,334.51
+        Fifth Third Business Elite Checking (SPI)         30,151.69
+        Fifth Third Business Elite Checking Wiretransfer 124,561.81
+        Fifth Third Business Money Market 128             30,004.92
+        KeyBank Basic Business Checking                    8,922.08
+        Key Business Platinum Money Market Savings       112,940.87
+        Key Business Reward Checking                     343,331.32
+        Key Express Checking (closed)                          0.00
+        Debian Debit Card (closed)                             0.00
+        PayPal (Debian)                                    1,637.75
+        PayPal (SPI)                                      17,244.21
+        Bank transfers in progress                         6,000.00
+
+     Total Current Assets                              1,083,242.06
+
+   TOTAL ASSETS                                        1,083,242.06
+
+   LIABILITIES AND EQUITY
+
+     General and current liabilities                           0.00
+
+     Equity
+        Reserves held in trust
+           0 A.D.                            31,283.40
+           ankur.org.in                       2,819.84
+           aptosid                              343.97
+           Arch Linux                        47,630.18
+           ArduPilot                         64,839.59
+           Chakra                               856.12
+           Debian                           204,728.09
+           DebConf 14                        35,962.78
+           DebConf 15                        70,218.51
+           DebConf 16                       (15,395.06)
+           DebConf 17                       (15,009.31)
+           Drizzle                            6,148.60
+           FFmpeg                            15,900.24
+           FFmpeg (Outreachy)                   648.53
+           Fluxbox                              997.14
+           freedesktop.org                   15,266.13
+           FreedomBox Foundation                 23.52
+           Gallery                                0.00
+           GNU TeXmacs                        1,146.95
+           GNUstep                              142.50
+           Haskell                           16,482.89
+           Jenkins                           29,672.60
+           LibreOffice                       46,976.85
+           madwifi-project.org                1,494.90
+           MinGW                              4,132.86
+           NTPsec                             6,085.29
+           Open Bioinformatics               83,925.53
+           Open MPI                             546.25
+           Open Voting Foundation               116.72
+           OpenEmbedded                         435.79
+           OpenVAS                               65.04
+           OpenWrt                            6,333.20
+           OpenZFS                             (255.49)
+           OSUNIX                                17.17
+           Path64                                18.60
+           Performance Co-Pilot               5,588.45
+           Plan 9                             6,500.00
+           PostgreSQL                       119,222.24
+           Privoxy                            1,735.24
+           Swathanthra Malayan Comp           5,763.32
+           The HeliOS Project                   212.83
+           TideSDK                              353.99
+           Tux4Kids                          16,303.15
+           X.Org                             38,666.35
+           YafaRay                            6,976.33
+
+        Total held in trust                              865,921.82
+
+        General reserves                                 217,320.24
+
+     Total Equity                                      1,083,242.06
+
+   TOTAL LIABILITIES AND EQUITY                        1,083,242.06
 \end{verbatim}
 
 \chapter{Member Project Reports}
