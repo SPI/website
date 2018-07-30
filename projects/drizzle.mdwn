@@ -6,10 +6,16 @@
 
 [[!img drizzle-logo.png alt="Drizzle logo" class="projectlogo" link="no"]]
 
-[Drizzle](http://www.drizzle.org/) is a community-driven open source project
-that is forked from the popular MySQL database. The Drizzle team has removed
-non-essential code, re-factored the remaining code into a plugin-based
-architecture and modernized the code base moving to C++.
+Drizzle was a database server forked from MySQL 6.0 code base. Its
+active development phase ranged from 2008 to 2012. In the MySQL
+ecosystem of forks, Drizzle focused on heavily refactoring and
+modernizing the code base, and moving to a fully open, community driven
+development model. Today active development continues in the
+[libdrizzle-redux C
+library](https://github.com/sociomantic-tsunami/libdrizzle-redux) and
+[drizzle-jdbc Java library](https://github.com/krummas/DrizzleJDBC).
+Their typical use case is to provide a BSD licensed client library for
+the MySQL server.
 
 ### Project Liaison
 
