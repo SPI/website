@@ -1,0 +1,142 @@
+[[!meta copyright="Copyright © 2018 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, June 11th, 2018
+
+__Board members present__
+
+* Luca Filipozzi (luca) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Valerie Young (spectranaut) (Secretary)
+* R\. Tyler Croy (rtyler)
+* Jimmy Kaplowitz (Hydroxide)
+* Tim Potter (tpot)
+* Andrew Tridgell (tridge)
+
+__Board members partially present__
+
+* None
+
+
+__Board members absent with regrets__
+
+* Martin Zobel-Helas (zobel)
+* Martin Michlmayr (tbm) (President)
+
+
+__Board members absent__
+
+* None
+
+
+__Board advisors present__
+
+* None
+
+
+__Registered guests present__
+
+* None
+
+
+These are the minutes for the June 11th, 2018 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2018/2018-06-11-log.txt).
+
+
+## President's Report
+
+<pre>
+I'm concerned that payments haven't been processed the last few weeks
+and that a backlog is building up again.  There also hasn't been much
+progress on the treasurer report for 2017.  Finance is our core area
+and we have to do better.
+</pre>
+
+## Treasurer's report
+
+Michael Schultheiss is working to catch up on outstanding treasurer duties, primarily reimbursements. He has been busy the last few weeks but will be more availability for SPI starting today. Tim Potter suggests SPI begins a policy of declaring a day per month where payments will be processed for the preceding month. Potter will write up a suggested policy and send it to the board email list.
+
+## Secretary's report
+
+Nothing to report.
+
+## Outstanding minutes
+
+<b>Vote on Meeting Minutes for 14th May 2018:</b>
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>R. Tyler Croy</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Abstain</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 7 yes, 0 no, 1 abstain, 0 missing.
+
+## Items up for discussion
+
+### IT Plan
+
+Luca Filipozzi emailed the board with a suggestion for possible IT transitions. He remind the board that RT is the only technology that is immediately keeping us from transitioning to SaaS. Every other service SPI uses could be done on Google for Non-Profits (such as mail and lists) and GitHub for git repos and the website. If SPI is not dedicated to using RT, Filipozzi reminds that SPI could move to Gossamer Threads. 
+
+R.Tyler Roy asks if we have friends at Gandi, Filipozzi responds he does.
+
+Jimmy Kaplowitz remarks he is fine with the set of choices, but expects push back from Debian folks on ideological grounds. From Kaplowitz's perspective the main things SPI need to be sure of are that SPI won't be problematically compromising the privacy of others' data, SPI's ability to comply with applicable privacy laws, SPI's ability to use free software to interact with it, and SPI's ability to migrate away without being unduly locked in.
+
+Filipozzi responds, if SPI agrees "open source should be built with open source", then the board should draw the line at IaaS and get a VM and RDS. If SPI does not follow this rule, the Google for Non-Profits would be sufficient. Micheal Schultheiss reminds the board that the sysadmin team is small, and if SPI continues to run their own infrastructure, they will need more volunteers. Filipozzi responds SPI can at least dramatically reduce the number of machines as every service in that list can be one VM.
+
+Kaplowitz states that using Google for Non-Profits fits within the constraints he raised, unless a member project has concerns. He is also fine with less proprietary solutions like IaaS and RDS.
+
+Tim Potter notes he advantage of AWS is that GDPR is satisfied for free. Kaplowitz corrects that SPI will not get GDPR for free with any of these vendors, there will always be work for us to do in addition to the work these services do for compliance. For example, the data access request will still comes to SPI as controller, even if Amazon or Google sign EU-compliant processor agreements with SPI. However, it will be easier to be GDPR compliant with the SaaS options.
+
+Roy asks for clarification about the exact services Google for Non-Profits would provide SPI. Filipozzi responds that SPI would move all @spi-inc.org email to Google. Roy notes he is concerned Debian might not approve of Google for Non-Profits. Filipozzi adds we also currently use Google for Non-Profits for Google Voice (in order to access PayPal) and assisting Debian with Google Cloud Platform.
+
+Filipozzi returns the discussion to RT. Kaplowitz believes it would be reasonable to use Gossamer Threads, which cost $350/month or $4200/year, if it will save a lot of volunteer time. Schultheiss agrees.
+
+Filipozzi will write up a no-IaaS suggestion and reply to his initial email. He will reach out to Gossamer Threads to find out more about their services and whether they would offer a discount price to a Non-Profit.
+
+### Elections
+
+Valerie Young will announce the coming elections this Friday. Jimmy Kaplowitz reminds the SPI board that four people were elected in July 2016. If one board member will resign and run for re-election this cycle, then the number of retiring board members will return to three per year.
+
+This election, Micheal Schultheiss will be up for re-election, and R. Tyler Roy as he was only an interim director. Luca Filipozzi is volunteers for re-election to a three year term to even the numbers.
+
+## Any other business
+
+Jimmy Kaplowitz updates the board on the bylaws:
+
+<pre>
+I will be adding a FAQ/change summary to the SPI website within what's left of June, and proposing a resolution for us to vote on at the July annual meeting (or the regular July board meeting). The member vote can happen following the board elections and inactive member cleanup, as already planned.
+</pre>
+
+Kaplowitz updates the board on the GDPR
+
+<pre>
+I had erroneously been waiting on Debian's inquiries. We should push forward with figuring out our own compliance strategy in parallel with their inquiries. But I do have three pointers that they've found or come up with, as a partial input. I will send an email to go into more detail.
+</pre>
+
+Andrew Tridgell asks if GDPR will impact the PayPal reporting proposal he wrote. Kaplowitz responds that if SPI retains and shares personal data of Europeans, or anyone's personal data processed in Europe, SPI will need to become GDPR-compliant and maintain the ability to react to GDPR requests about that data and sharing.
+
+## Adjournment
+
+The meeting was adjourned until Monday, July 9th, 2018 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2017</td><td>Martin Michlmayr</td><td>President</td></tr>
+<tr><td>July 2016</td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2015</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016</td><td>Valerie Young</td><td>Secretary</td></tr>
+<tr><td>March 2018</td><td>R. Tyler Croy</td><td>Interim Director</td></tr>
+<tr><td>July 2016</td><td>Jimmy Kaplowitz</td></tr>
+<tr><td>July 2017</td><td>Tim Potter</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016</td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
