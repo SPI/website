@@ -20,8 +20,8 @@ __Board members partially present__
 
 __Board members absent with regrets__
 
-* Martin Zobel-Helas (zobel)
 * Martin Michlmayr (tbm) (President)
+* Martin Zobel-Helas (zobel)
 
 
 __Board members absent__
@@ -70,40 +70,40 @@ Nothing to report.
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
 <tr><td>R. Tyler Croy</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Abstain</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
 <tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 </tbody></table>
 
-Motion passed with a vote of 7 yes, 0 no, 1 abstain, 0 missing.
+Motion passed with a vote of 8 yes, 0 no, 0 abstain, 0 missing.
 
 ## Items up for discussion
 
 ### IT Plan
 
-Luca Filipozzi emailed the board with a suggestion for possible IT transitions. He remind the board that RT is the only technology that is immediately keeping us from transitioning to SaaS. Every other service SPI uses could be done on Google for Non-Profits (such as mail and lists) and GitHub for git repos and the website. If SPI is not dedicated to using RT, Filipozzi reminds that SPI could move to Gossamer Threads. 
+Luca Filipozzi emailed the board with a suggestion for possible IT transitions. He remind the board that RT is the only technology that is immediately keeping us from transitioning to SaaS. Every other service SPI uses could be done on Google for Non-Profits (such as mail and lists) and GitHub for git repos and the website. If SPI is not dedicated to using its own RT, Filipozzi reminds that SPI could move to Gossamer Threads.
 
-R.Tyler Roy asks if we have friends at Gandi, Filipozzi responds he does.
+R\. Tyler Roy asks if we have friends at Gandi, Filipozzi responds he does.
 
-Jimmy Kaplowitz remarks he is fine with the set of choices, but expects push back from Debian folks on ideological grounds. From Kaplowitz's perspective the main things SPI need to be sure of are that SPI won't be problematically compromising the privacy of others' data, SPI's ability to comply with applicable privacy laws, SPI's ability to use free software to interact with it, and SPI's ability to migrate away without being unduly locked in.
+Jimmy Kaplowitz remarks he is fine with the set of choices, but expects push back from Debian folks on ideological grounds. From Kaplowitz's perspective the main things SPI needs to be sure of are that SPI won't be problematically compromising the privacy of others' data, SPI's ability to comply with applicable privacy laws, SPI's ability to use free software to interact with it, and SPI's ability to migrate away without being unduly locked in.
 
-Filipozzi responds, if SPI agrees "open source should be built with open source", then the board should draw the line at IaaS and get a VM and RDS. If SPI does not follow this rule, the Google for Non-Profits would be sufficient. Micheal Schultheiss reminds the board that the sysadmin team is small, and if SPI continues to run their own infrastructure, they will need more volunteers. Filipozzi responds SPI can at least dramatically reduce the number of machines as every service in that list can be one VM.
+Filipozzi responds, if SPI agrees "open source should be built with open source", then the board should draw the line at IaaS and get a virtual machine (VM) and Relational Database Service (RDS). If SPI does not follow this rule, then Google for Non-Profits would be sufficient. Micheal Schultheiss reminds the board that the sysadmin team is small, and if SPI continues to run their own infrastructure, they will need more volunteers. Filipozzi responds SPI can at least dramatically reduce the number of machines as every service in that list can be one VM.
 
 Kaplowitz states that using Google for Non-Profits fits within the constraints he raised, unless a member project has concerns. He is also fine with less proprietary solutions like IaaS and RDS.
 
-Tim Potter notes he advantage of AWS is that GDPR is satisfied for free. Kaplowitz corrects that SPI will not get GDPR for free with any of these vendors, there will always be work for us to do in addition to the work these services do for compliance. For example, the data access request will still comes to SPI as controller, even if Amazon or Google sign EU-compliant processor agreements with SPI. However, it will be easier to be GDPR compliant with the SaaS options.
+Tim Potter notes the advantage of AWS is that GDPR is satisfied for free. Kaplowitz corrects that SPI will not get GDPR for free with any of these vendors, there will always be work for us to do in addition to the work these services do for compliance. For example, the data access request will still come to SPI as controller, even if Amazon or Google sign EU-compliant processor agreements with SPI. However, it will be easier to be GDPR compliant with the SaaS options.
 
 Roy asks for clarification about the exact services Google for Non-Profits would provide SPI. Filipozzi responds that SPI would move all @spi-inc.org email to Google. Roy notes he is concerned Debian might not approve of Google for Non-Profits. Filipozzi adds we also currently use Google for Non-Profits for Google Voice (in order to access PayPal) and assisting Debian with Google Cloud Platform.
 
-Filipozzi returns the discussion to RT. Kaplowitz believes it would be reasonable to use Gossamer Threads, which cost $350/month or $4200/year, if it will save a lot of volunteer time. Schultheiss agrees.
+Filipozzi returns the discussion to RT. Kaplowitz believes it would be reasonable to use Gossamer Threads, which costs $350/month or $4200/year, if it will save a lot of volunteer time. Schultheiss agrees.
 
-Filipozzi will write up a no-IaaS suggestion and reply to his initial email. He will reach out to Gossamer Threads to find out more about their services and whether they would offer a discount price to a Non-Profit.
+Filipozzi will write up a no-IaaS suggestion and reply to his initial email. He will reach out to Gossamer Threads to find out more about their services and whether they would offer a discount price to a non-profit.
 
 ### Elections
 
 Valerie Young will announce the coming elections this Friday. Jimmy Kaplowitz reminds the SPI board that four people were elected in July 2016. If one board member will resign and run for re-election this cycle, then the number of retiring board members will return to three per year.
 
-This election, Micheal Schultheiss will be up for re-election, and R. Tyler Roy as he was only an interim director. Luca Filipozzi is volunteers for re-election to a three year term to even the numbers.
+This election, Micheal Schultheiss will be up for re-election, and R. Tyler Roy as he was only an interim director. Luca Filipozzi volunteers to run for re-election to a three year term to even the numbers.
 
 ## Any other business
 
