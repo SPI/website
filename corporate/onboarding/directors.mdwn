@@ -114,7 +114,7 @@ When collaborating on a document with other SPI members you may find
 Etherpad useful.  SPI does not host its own Etherpad server but the
 [Etherpad instance at Riseup](http://pad.riseup.net/) can be used for
 non-confidential material.  Note that anyone with the URL of an Etherpad on
-that server can edit it, and if a pad is inactive for 30 days then it is
+that server can edit it, and if a pad is inactive for 60 days then it is
 automatically deleted.  Material should be moved into git soon after the
 initial collaboration.
 
