@@ -1,0 +1,382 @@
+21:00 < Hydroxide> *GAVEL*
+21:00 < Hydroxide> Welcome to the September 10, 2018 meeting of the board of directors of Software in the Public Interest, Inc.
+21:00 < Hydroxide> Agenda is here: http://spi-inc.org/meetings/agendas/2018/2018-09-10/
+21:01 < Hydroxide> 2. Roll Call. Board members, please state your name. Guests, please /msg tpot if you wish to be registered.
+21:01 < schultmc> Michael Schultheiss
+21:01 < Hydroxide> Jimmy Kaplowitz
+21:01 < zobel> Martin Zobel-Helas
+21:01 < Snow-Man> Stephen Frost
+21:01 < tbm> Martin Michlmayr
+21:01 < tpot> Tim Potter
+21:01 < zobel> quorum at least.
+21:01 < Hydroxide> that's quorum. does anyone know if we have tridge or spectranaut? I think luca indicated unavailability
+21:02 < schultmc> tridge joined about 10 mins ago - not sure if he was active or on auto reconnect
+21:02 < Hydroxide> ah, tridge seems to be having trouble speaking. can we finally get rid of +M?
+21:02 < rtyler> at least during meetings it might make sense
+21:02 -!- mode/#spi [+o schultmc] by ChanServ
+21:02 < Hydroxide> yeah.
+21:02 -!- mode/#spi [-M] by ChanServ
+21:02 -!- mode/#spi [-M] by schultmc
+21:02 < Hydroxide> thanks schultmc!
+21:03 < tridge> Andrew Tridgell
+21:03 <@schultmc> I thought we already fixed that
+21:03 < Hydroxide> so did I, but the reality was what it was. anyway...
+21:03 <@schultmc> we can look into a permanent mode change
+21:03 < tridge> sorry, I thought I'd fixed my client to register, obviously not
+21:03 < zobel> schultmc: chanserv turns it back on when chanserv restarts.
+21:03 <@schultmc> ah
+21:03 < Hydroxide> 3. President's report. I added one just before the meeting - it's in the website agenda now
+21:03 -!- mode/#spi [-o schultmc] by ChanServ
+21:03 < Hydroxide> I'll wait a moment in case there are questions or comments, then proceed if not
+21:04 < Hydroxide> 4. Treasurer's report. schultmc?
+21:04 < Hydroxide> (we can revisit the president's report later if I moved to fast)
+21:04 < schultmc> zobel, tbm and I are working on finalizing our treasurer ledger information and should have the outstanding reports out soon.
+21:05 < schultmc> there will be a treasurer sprint prior to the SPI f2f in NYC next month as well
+21:05 < zobel> i recently focused on DebConf Travel reimbursements, while schultmc did a lot of other reimbursements the last weeks.
+21:05 < Hydroxide> great. so by the end of the October f2f meeting, what month will we have treasurer's reports through? either August or September seems fine given it's in early October.
+21:05 < schultmc> zobel has been working on DC18 reimbursements, I've been processing other outstanding requests
+21:06 < Hydroxide> thanks to both of you for your work on this!
+21:06 < schultmc> should be august - not sure if september data will be available by the f2f
+21:06 < Hydroxide> that's fine
+21:06 < Hydroxide> 5. Secretary's report - tpot
+21:07 < zobel> Hydroxide: my plan is to finish it up to august. key bank gives some statements on 10th of the month for the prior month.... thus not sure we can finish september by the f2f.
+21:07 < tpot> Nothing major to report. Valerie did a handoff of passwords, tips and tricks etc.
+21:07  * Hydroxide nods at zobel - some modest delay to close out a month is completely normal
+21:07 < tpot> tbm helped out with website stuff so i'm good there
+21:07 < Hydroxide> tpot: nice, glad you got some guidance!
+21:07 < tpot> .
+21:08 < Hydroxide> I overlooked this in my president's report, but thanks to tbm for starting an onboarding page for president, currently here: http://spi-inc.org/corporate/onboarding/president/
+21:08 < Hydroxide> it's still a small page, but that's how all pages start
+21:08 < Hydroxide> 6. Outstanding minutes
+21:08 < Hydroxide> tpot again
+21:09 < zobel> Hydroxide: also tbm is doing a lot good work on treasury stuff...
+21:09 < tpot> Hopefully the voting script will work. I'll run three votes for the meetings for the three previuos meetings.
+21:09 < Hydroxide> zobel: great! thanks tbm for that as well :)
+21:09 < tpot> Let me know if you are left off the voting roll
+21:09 < tpot> Voting started, 9 people (hydroxide,luca,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel ) allowed to vote on Accept meeting minutes for Monday 11th June 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:09 < zobel> !vote abstain
+21:09 < spectranaut> !vote yes
+21:09 < tbm> !yes
+21:09 < Snow-Man> !vote abstain
+21:09 < schultmc> !vote yes
+21:09 < tridge> !vote yes
+21:09 < tpot> !vote yes
+21:09 < Hydroxide> !vote yes
+21:10 < spectranaut> tbm: you might need to try that again
+21:10 < tbm> !vote yes
+21:10 < Hydroxide> welcome spectranaut :)
+21:10 < tpot> Current voting results for "Accept meeting minutes for Monday 11th June 2018": Yes: 6, No: 0, Abstain: 1, Missing: 2 ( zobel   luca )
+21:10 < tpot> Voting for "Accept meeting minutes for Monday 11th June 2018" closed.
+21:10 < zobel> spectranaut: name yourself..... :)
+21:10 < schultmc> odd - zobel voted
+21:10 < tpot> Voting started, 9 people (hydroxide,luca,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Accept meeting minutes for Monday 9th July 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:10 < spectranaut> huh I did during rollcall..?
+21:11 < spectranaut> Valerie Young
+21:11 < tbm> !vote yes
+21:11 < zobel> !vote yes
+21:11 < schultmc> !vote yes
+21:11 < tridge> !vote yes
+21:11 < spectranaut> !vote yes
+21:11 < tpot> !vote yes
+21:11 < Hydroxide> !vote yes
+21:11 < Snow-Man> !vote abstain
+21:11 < Hydroxide> spectranaut: ah maybe we had still been +M and maybe your message hadn't made it through
+21:12 < tpot> Current voting results for "Accept meeting minutes for Monday 9th July 2018": Yes: 7, No: 0, Abstain: 1, Missing: 1 ( luca )
+21:12 < tpot> Voting for "Accept meeting minutes for Monday 9th July 2018" closed.
+21:12 < tpot> one more for luck
+21:12 < tpot> Voting started, 9 people (hydroxide,luca,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Accept meeting minutes for Monday 13th August 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:12 < zobel> !vote yes
+21:12 < tbm> I just submitted a cosmetic change for the August minutes (use last name to refer to people for consistency)
+21:12 < tbm> !vote yes
+21:12 < Snow-Man> !vote yes
+21:12 < schultmc> !vote yes
+21:12 < Hydroxide> !vote yes
+21:12 < spectranaut> !vote abstrain
+21:12 < spectranaut> !vote abstain
+21:12 < tpot> !vote yes
+21:12 < tridge> !vote yes
+21:13 < tpot> Current voting results for "Accept meeting minutes for Monday 13th August 2018": Yes: 7, No: 0, Abstain: 1, Missing: 1 ( luca )
+21:13 < tpot> Voting for "Accept meeting minutes for Monday 13th August 2018" closed.
+21:13 < tpot> Thanks everyone - all three motions have been carried.
+21:13 < Hydroxide> thanks tpot
+21:13 < Hydroxide> 7. Items up for discussion
+21:13 < tbm> hold on
+21:13 < Hydroxide> ok
+21:13 < tbm> I have a comment regarding these votes
+21:14 < tbm> luca shouldn't be counted because he's not attending the meeting
+21:14 < tbm> tpot, for the future, you have to list only people who attend the meeting
+21:14 < tpot> ah ok
+21:14 < Hydroxide> good observation,
+21:14 < tbm> so for the minutes just remove the 1 missing
+21:14 < tbm> go ahead :)
+21:14 < Hydroxide> thanks tbm, good catch
+21:14 < tpot> i'll update in the minutes
+21:14 < Hydroxide> 7.1. IT plan - luca isn't here today, should we defer until he's available?
+21:15 < zobel> i think he wanted feedback until todays meeting.
+21:15 < Hydroxide> ok. I think also we discussed via email giving that feedback
+21:15 < zobel> to then go ahead with his plan or not.
+21:15 < Hydroxide> my personal view is that it's his final decision unless he's proposing something truly weird, but he's not
+21:15 < tbm> since the f2f is so soon, I think we should discuss it there
+21:16 < Snow-Man> I like the idea of discussing it at the f2f
+21:16 < tbm> I think there's consensus that 100% serverless isn't the way to go
+21:16 < tbm> but I think we need a f2f on preference towards FOSS
+21:16 < tbm> i.e. how strong of a preference we have
+21:16 < Hydroxide> and also on percentages of serverless below 100%
+21:16 < Hydroxide> ok, deferring to the f2f
+21:17 < Hydroxide> 7.2 - Face to face update. We have hosting at Hudson River Trading in New York City October 5-6, a treasury sprint hosted via a different sponsor arranged by Snow-Man on October 4, and bank work the day before that
+21:17 < Hydroxide> we've reached out to our lawyer Mishi Choudhary from SFLC to see if she can stop by for some in-person conversation as has happened in the past
+21:18 < Snow-Man> Check.  I need to provide names for the hosting on Oct 4- who will be attending that day?
+21:18  * schultmc will be there
+21:18  * zobel
+21:18 < tbm> yes
+21:18 < Hydroxide> me too if useful, though I'm less involved in treasury than other SPI activities
+21:18 < Snow-Man> I'll include you
+21:18 < tbm> I suspect tpot will be there
+21:18 < tpot> i'll be there but probably not for the whole day
+21:18 < zobel> i think this is schultmc, tbm, Hydroxide, me and maybe tpot
+21:18 < Snow-Man> no problem
+21:18 < tbm> Snow-Man: I'd just use the full list from https://pad.riseup.net/p/SPI_f2f_agenda_2018-keep
+21:18 < Snow-Man> k
+21:19 < schultmc> I arrive at NYP at 11:21 on the 3rd - I can pre-open bank accounts at banks that have a joint NYC/IND presence
+21:19 < tbm> luca possibly too
+21:19 < tbm> depending on what time he'll arrive
+21:19 < Snow-Man> ... no names on that riseup ;)
+21:19 < tbm> Snow-Man: sorry, https://pad.riseup.net/p/SPI_f2f_logistics_2018-keep
+21:19 < zobel> schultmc: lets discuss that after todays meeting.
+21:19 < schultmc> ok
+21:19 < Hydroxide> ok. Hudson is giving us breakfast and lunch on October 5 since they have an on-site chef. board members with dietary restrictions relevant for those meals, please send me specifics by email for me to pass along
+21:19 < Snow-Man> got it, passing on
+21:19 < Hydroxide> thanks tbm for sharing the agenda and logistics links for the record
+21:20 < Hydroxide> anything else? let's proceed.
+21:20 < tbm> Sounds good
+21:20 < Hydroxide> 7.3. Resolution 2018-08-24.mm.1: Removal of the HeliOS Project as an associated project
+21:20 < tbm> actually
+21:20 < tbm> sorry :)
+21:20 < Hydroxide> tbm: go ahead with whatever it was :)
+21:21 < tbm> we'll have dinner on friday and saturday but one will be more official than the other
+21:21 < tbm> should we do the "official" one on friday?
+21:21 < tbm> I can't remember what we did last year
+21:21 < tbm> I think it was on Friday
+21:21 < zobel> friday. last year saturday was opera.
+21:21 < Hydroxide> I think that makes sense, yes. I had wondered that question but didn't have an opinion or conclusion strong enough to mention here now
+21:22 < tbm> yeah, it's a minor thing but since we're all here
+21:22 < tbm> ok, friday
+21:22 < tbm> So plan to attend dinner on Friday
+21:22 < zobel> tbm: i wonder if we want to ask local FOSS people again to join?
+21:22 < tbm> Saturday is open but we'll meet for dinner for those who want
+21:22 < tbm> maybe for Saturday rather than Friday?
+21:22  * schultmc would prefer a new restaurant but has no strong preference
+21:22 < zobel> tbm: sure....
+21:22 < zobel> schultmc: ACK!
+21:22 < Hydroxide> agreed
+21:22 < Hydroxide> move to outside meeting for this topic?
+21:23 < tbm> zobel: we're far away from the other restaurant anyway
+21:23 < Hydroxide> 7.3. Resolution 2018-08-24.mm.1: Removal of the HeliOS Project as an associated project - tbm proposed several of these which we approved last meeting, and here's one more. tbm, anything further to say?
+21:23 < tbm> this one is actually slightly different
+21:24 < tbm> the other projects were inactive/defunct
+21:24 < zobel> Hydroxide, tpot: i wonder we do not have the stepdown of spectranaut and re-appointment of xnox on todays agenda...
+21:24 < tbm> this one morphed into a new organization and for the new organization it doesn't make sense to affiliate with SPI
+21:24 < tbm> so we'll drop the old project
+21:24 < Hydroxide> zobel: I acknowledged spectranaut's stepdown in my president's report, and xnox hasn't actually accepted my offer of the interim director role
+21:24 < schultmc> there's some history behind that split but it's not germaine to the meeting
+21:25 < xnox> Dimitri John Ledkov
+21:25 < xnox> Hydroxide, i could accept today.
+21:25 < Hydroxide> xnox: ok, we'll proceed with an Any Other Business item at the end then
+21:25 < zobel> tbm: give me a second before we vote on that.
+21:26 < Hydroxide> tbm, schultmc: thanks for the context. any other questions or comments from board members before we vote on the HeliOS removal?
+21:26 < zobel> i would just like to check donations for helios.
+21:26 < Hydroxide> ok. the resolution says we have no assets for them, but you can probably check authoritatively very easily :)
+21:26 < schultmc> aiui they have a zero balance but we can verify
+21:26 < tbm> zobel: the remaining funds should have been used up by the last reimbursement
+21:27 < zobel> tbm: yes, that looks good. sorry for checking this late.
+21:27 < zobel> go ahead then.
+21:27 < tpot> Voting started, 8 people (hydroxide,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Resolution 2018-08-24.mm.1 - Removal of the HeliOS Project as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:27 < Hydroxide> !vote yes
+21:27 < Snow-Man> !vote yes
+21:27 < tridge> !vote yes
+21:27 < zobel> !vote yes
+21:27 < tpot> !vote yes
+21:27 < spectranaut> !vote yes
+21:27 < tbm> !vote yes
+21:28 < schultmc> !vote yes
+21:28 < tpot> Current voting results for "Resolution 2018-08-24.mm.1 - Removal of the HeliOS Project as an associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:28 < tpot> Voting for "Resolution 2018-08-24.mm.1 - Removal of the HeliOS Project as an associated project" closed.
+21:29 < zobel> .
+21:29 < Hydroxide> thanks.
+21:29 < Hydroxide> 7.4. Resolution 2018-09-02.jrk.1: systemd as associated project
+21:29 < Hydroxide> before we vote on systemd I should note a few things
+21:30 < Hydroxide> first, a member expressed a concern about this, which I'd summarize as concern over the impact of systemd on the future of traditional POSIX/UNIX/Linux norms in free software. I offered an opportunity for him to provide a summary of his concerns for public consumption, but I haven't received one
+21:31 < Hydroxide> most other members who commented, including directors and non-directors, did not think it was SPI's place to take a position on that kind of question
+21:31 < Hydroxide> especially given that systemd has been widely adopted including by 2-3 SPI associated projects.
+21:31 < Hydroxide> I also want to acknowledge that lennart and zbyszek are here today from the systemd project
+21:32 < zobel> lennart, zbyszek: welcome
+21:32 < Hydroxide> if anyone has comments or questions before we vote, including them, feel free
+21:32  * zbyszek waves
+21:32 < tbm> I think the question of how much SPI should be involved in the governance of projects is a very valid question
+21:32 < lennart> heya
+21:32  * Snow-Man waves back :)
+21:32 < tbm> traditionally we've been very hands off
+21:33 < zobel> this resolution had a bit of chatter on the mailing lists but IMHO we should be okay to vote on this.
+21:33 < tbm> I already put something on the agenda for the f2f about this
+21:33 < rtyler> my opinion doesn't matter, but it seems reasonable to me to bring systemd under SPI
+21:33 < tpot> any more comments before I start the vote script?
+21:33 < Hydroxide> yes, I did not want to rehash the mailing list thread, but I did want to acknowledge the concerns briefly here since the thread was on spi-private and this is a public record.
+21:33 < Snow-Man> Seems like something we are good to vote on, imv.
+21:33 < tpot> Voting started, 8 people (hydroxide,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Resolution 2018-09-02.jrk.1 - systemd as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:33 < Hydroxide> I also agree that governance discussions should be among the f2f topic, though I think that's a more general question than systemd.
+21:33 < zobel> rtyler: any opinion matters, even though you are not a board member any more...
+21:33 < Hydroxide> !vote yes
+21:33 < tpot> !vote yes
+21:33 < tridge> !vote yes
+21:33 < tbm> !vote yes
+21:33 < Snow-Man> !vote yes
+21:33 < zobel> !vote yes
+21:33 < spectranaut> !vote yes
+21:34 < schultmc> !vote yes
+21:34 < tpot> Current voting results for "Resolution 2018-09-02.jrk.1 - systemd as associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:34 < Snow-Man> Hydroxide: agreed that it's a more general discussion. :)
+21:34 < tpot> Voting for "Resolution 2018-09-02.jrk.1 - systemd as associated project" closed.
+21:34 < Hydroxide> lennart, zbyszek: congrats! as per that resolution, SPI invites systemd to join as an associated project.
+21:34 < zobel> lennart, zbyszek: you can accept now during the meeting. or mail later.
+21:34 < Hydroxide> lennart: do you accept on behalf of systemd?
+21:35 < lennart> thanks for having us!
+21:35 < lennart> yes, of course i do!
+21:35 < zobel> tpot: please note that lennart accepted.
+21:35 < Snow-Man> wheee...  things are moving fast in spi world today. ;)
+21:35 < Hydroxide> lennart: great, thanks! it's official then :) welcome. we can do other follow-up outside the meeting, whether via IRC or via email.
+21:36 < Hydroxide> 7.5 - Resolution 2018-09-10.mzh.1: Establishing additional SPI bank accounts
+21:36 < Hydroxide> zobel?
+21:36 < lennart> zbyszek: maybe you should accept too, just in case!
+21:36 < zobel> goal of this resolution is to open bank accounts with banks that have branches in NYC.
+21:37 < zobel> we will do that during the f2f or a few days before (to be discussed with schultmc and me after the meeting)
+21:37 < zbyszek> I accept too just in case (although I don't think I have any voice in this).
+21:37 < Hydroxide> lennart: you were the only person named in the resolution, so your acceptance is enough - but zbyszek was certainly very helpful in getting us to this point, so thanks to him as well.
+21:37 -!- schultmc1 [~schultmc_@sapphire.amellus.net] has quit [Remote host closed the connection]
+21:37 < zobel> we need this resolution to be accepted to be able to open bank accounts, the banks need a vote from board before we do that.
+21:38 < zobel> current idea from schultmc is to open accounts with TD and Bank of America.
+21:38 < zobel> i would like to discuss with schultmc after the meeting if we also want to speak to HSBC.
+21:38 < Hydroxide> thanks. this resolution is neutral on which banks we pick, right? (those two are among the sensible choices)
+21:39 < zobel> Hydroxide: that is why i worded the resolution neutral.
+21:39 < tbm> zobel: I don't think we should open too many accounts.  But we can talk about that off line
+21:39 < tbm> yep
+21:39 < schultmc> I was thinking PNC and Bank of America but I don't have a strong preference
+21:39 < zobel> oh, sorry. my fault.
+21:39 < schultmc> PNC has an indianapolis presence, bank of america is entering the market
+21:39 < Hydroxide> TD and HSBC are convenient for me up in Canada :) but yeah we'll discuss separately. anything else before we vote?
+21:40 < tpot> Voting started, 8 people (hydroxide,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:40 < schultmc> !vote yes
+21:40 < Hydroxide> !vote yes
+21:40 < Snow-Man> !vote yes
+21:40 < zobel> not from me, unless someone has questions
+21:40 < tridge> !vote yes
+21:40 < tbm> !vote yes
+21:40 < zobel> tpot does not gives time to ask questions...
+21:40 < zobel> !vote yes
+21:40 < tpot> !vote yes
+21:41 < tpot> oh sorry - not sure how long to wait before doing things
+21:41 < spectranaut> !vote yes
+21:41 < tpot> Current voting results for "Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:41 < Hydroxide> yeah I don't really know either. the meeting is already nearing the end of the hour, there are only so many ways to pace things and not take forever. but valid concern, I agree.
+21:41 < tpot> Current voting results for "Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:41 < tpot> Voting for "Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts" closed.
+21:42 < Hydroxide> everyone seems to have voted yes instead of asking further questions first, so moving on this time
+21:42 < zobel> tpot: we need to meeting minutes for today ready before Oct 2nd. the earlier the better....
+21:42 < spectranaut> yeah I always guessed when to start the vote, sometimes people suggested it, sometimes I guess :)
+21:42 < Hydroxide> 8. Any other business
+21:42 < spectranaut> my topic -- nice working with all of you!
+21:42  * Snow-Man is used to having the President call for votes and be seconded and such. :)
+21:42 < Hydroxide> yes. zobel is right that my mention of this in the president's report was easy to overlook, so... thanks so much spectranaut for your time on the board and as secretary!
+21:43 < Snow-Man> spectranaut: thanks for all of your hard work moving SPI forward!
+21:43 < Hydroxide> Snow-Man: we've rarely done the explicit seconding thing, but yeah that can be clearer. sometimes one or more people do call for votes though.
+21:43 < spectranaut> if you have any questions, I should be reachable by irc during EST work hours
+21:43 < schultmc> spectranaut: good luck in your future endeavors. Sorry to see you go!
+21:44 < zobel> spectranaut: maybe you will join us for MET next year sometimes..... :)
+21:44 < Hydroxide> Timing note: spectranaut remains a board member through the end of today (her email left the time zone unspecified). tomorrow the board goes down to 8 of the current 9, which brings us to the next item:
+21:44 < zobel> spectranaut: and hopefully we see each other at different places.
+21:44 < zobel> +too
+21:45 < spectranaut> me too! I hope I have more time for debian in the future
+21:45 < xnox> yeah, MET was fun =)
+21:45 < Hydroxide> we called for interim directors to express their interest to join the board by appointment through the 2019 board election. xnox responded and we offered this role to him. it still needs a board vote officially, but that would follow an informal acceptance in our normal practices
+21:45 < Hydroxide> xnox: do you want to accept?
+21:45 < xnox> yeap
+21:45 < Hydroxide> spectranaut: it would be great to have you back in the debian or SPI communities, and to see you in montreal if you visit here :)
+21:45  * rtyler claps
+21:46 < Hydroxide> great, thanks xnox. board, do we want to vote on this now?
+21:46 < Snow-Man> sure
+21:46 < zobel> yes
+21:46 < Hydroxide> what we'd be voting on is "Appoint Dimitri John Ledkov as interim director from September 11, 2018 through the 2019 SPI board elections."
+21:46 < Hydroxide> tpot: go ahead whenever you're ready.
+21:46 < tpot> Voting started, 8 people (hydroxide,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Appoint Dimitri John Ledkov as interim director from September 11,Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:46 < zobel> nope
+21:46 < tpot> oops - cut*paste
+21:46 < Snow-Man> haha
+21:46 < zobel> wrong vote.
+21:46 < tpot> Current voting results for "Appoint Dimitri John Ledkov as interim director from September 11,Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts": Yes: 0, No: 0, Abstain: 0, Missing: 8 ( snow-man  spectranaut  zobel  tpot  schultmc  tridge  tbm  hydroxide )
+21:47 < tpot> Voting for "Appoint Dimitri John Ledkov as interim director from September 11,Resolution 2018-09-10.mzh.1 - Establishing additional SPI bank accounts" closed.
+21:47 < xnox> hahahhaha
+21:47 < tridge> !vote yes
+21:47 < Snow-Man> hehehe
+21:47 < zobel> nope. wrong resolution
+21:47 < tridge> :)
+21:47 < tpot> Voting started, 8 people (hydroxide,tpot,schultmc,snow-man,tbm,tridge,spectranaut,zobel) allowed to vote on Appoint Dimitri John Ledkov as interim director from September 11,v2018 through the 2019 SPI board elections. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:47 < tbm> are we going to write this up as a formal resolution?
+21:47 < tridge> !vote yes
+21:47 < schultmc> !vote yes
+21:47 < zobel> !vote yes
+21:47 < Snow-Man> !vote yes
+21:48 < tbm> !vote yes
+21:48 < spectranaut> !vote yes
+21:48 < Hydroxide> tbm: the thing that I feel is required is a formal board vote. we usually do that with a numbered resolution but this wouldn't be the first time otherwise
+21:48 < Hydroxide> !vote yes
+21:48 < tpot> tbm: are you happy?
+21:48 < tpot> !vote yes
+21:48 < Hydroxide> tbm: I would be okay if someone wants to put a formal board resolution together for a future meeting acknowledging for the purpose of the series of resolutions that this happened today.
+21:48 < Hydroxide> I don't feel that's required but I also don't mind at all
+21:48 < tbm> Ok
+21:48 < Hydroxide> it will be in the minutes and we did vote.
+21:49 < tpot> Current voting results for "Appoint Dimitri John Ledkov as interim director from September 11,v2018 through the 2019 SPI board elections": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:49 < tpot> Current voting results for "Appoint Dimitri John Ledkov as interim director from September 11,v2018 through the 2019 SPI board elections": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:49 < tpot> Voting for "Appoint Dimitri John Ledkov as interim director from September 11,v2018 through the 2019 SPI board elections" closed.
+21:49 < zobel> xnox: welcome back.
+21:49 < spectranaut> xnox: welcome back! altho we are ships passing in the night...
+21:49 < Snow-Man> xnox: thanks for helping! :)
+21:49 < tpot> wb xnox
+21:49 < Hydroxide> thanks and welcome back xnox :)
+21:49 < xnox> spectranaut, hahahha. that's cute =) thanks a lot.
+21:49 < xnox> spectranaut, do keep in touch, where you are off to next ;-)
+21:50 < Hydroxide> and rtyler we'd certainly consider you for future interim vacancies or as a credible future election candidate as well. thanks once more for your past service.
+21:50 < Hydroxide> any other business before we wrap up?
+21:50 < rtyler> no probs
+21:50 < zobel> rtyler: and i encourage you to run again for a board position!
+21:51 < zobel> Hydroxide: i have one more AoB
+21:51 < Hydroxide> zobel: go ahead
+21:51 < zobel> i would like to ask to change todays agenda to adjourn the next meeting to Oct 4th....
+21:52 < tbm> Actually
+21:52 < Hydroxide> I think we rarely adjust the agenda text when we change the subequent meeting time as the last item... the change gets noted in the minutes and the official notices
+21:52 < Hydroxide> but I don't feel strongly. go ahead tbm?
+21:53 < tbm> usallay we skip the IRC meeting of the month where we meet in person
+21:53 < Hydroxide> yeah, was going to mention all this as the final agenda item
+21:53 < Hydroxide> but okay, we're doing it now :)
+21:54 < Hydroxide> so, agenda item 8.3 or 9 - no IRC meeting in October, the October meeting will be in person according to the schedule I noted in earlier agenda item 7.2 (Face-to-face meeting update)
+21:54 < zobel> but tridge and xnox are not at the f2f. we meet quorum though.
+21:54 < zobel> just saying.
+21:55 < Snow-Man> Would they possibly be able to attend remotely?
+21:55 < Hydroxide> yes. they are welcome to participate remotely to the extent feasible, including via email, commenting on the riseup agenda, and maybe some selective remote video or voice participation.
+21:55 < Snow-Man> wfm
+21:55 < schultmc> we did in person and remote via IRC at dc7 iirc
+21:55 < tridge> I could if the tz works, but I have done this with f2f meetings before, and it doesn't tend to work well
+21:55 < xnox> i do have volleyball tournament that weekend.
+21:55 < xnox> so my availability will be limited
+21:56 < tridge> but if I'm needed for quorum then of course I'm happy to attend
+21:56 < tridge> or we could use a voice call, I've done that with mumble at a f2f before
+21:56 < Hydroxide> it's not needed for quorum
+21:56 < Hydroxide> so it can happen as your interests and availability permit
+21:56 < tridge> I sent a desktop mic along with a friend who was going
+21:56 < zobel> do a short IRC like meeting during friday afternoon NYC TZ then?
+21:57 < zobel> to give tridge and xnox the possibility to talk?
+21:57 < Hydroxide> yeah something like that can happen, good idea
+21:57 < Hydroxide> other comments on this topic?
+21:57 < zobel> tridge: or mumble, yes
+21:58 < Hydroxide> okay. next meeting in NYC October 5-6 (with related work October 3-4), a bit of which will be electronic somehow to include tridge and xnox. We return to IRC as normal in November. Thanks all!
+21:58 < Hydroxide> *GAVEL*
+21:59 < Hydroxide> lennart, zbyszek, xnox: welcome once again!
