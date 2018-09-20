@@ -9,9 +9,10 @@ __Board members present__
 * Michael Schultheiss (schultmc) (Treasurer)
 * Tim Potter (tpot) (Secretary)
 * Stephen Frost (Snow-Man)
-* Martin Zobel-Helas (zobel)
+* Martin Michlmayr (tbm)
 * Andrew Tridgell (tridge)
 * Valerie Young (spectranaut)
+* Martin Zobel-Helas (zobel)
 
 __Board members partially present__
 
@@ -31,8 +32,8 @@ __Board advisors present__
 
 __Registered guests present__
 
-* Jonathan McDowell (Noodles)
 * Zbigniew Jędrzejewski-Szmek (zbyszek)
+* Jonathan McDowell (Noodles)
 
 These are the minutes for the September 10th, 2018 SPI Board Meeting,
 held at 20:00 UTC in #spi on irc.spi-inc.org.
@@ -40,9 +41,27 @@ held at 20:00 UTC in #spi on irc.spi-inc.org.
 
 ## President's Report
 
-Jimmy Kaplowitz presented the president's report as written in the
-[agenda](../../../agendas/2018/2018-09-10/) with no amendments or
-changes.
+Jimmy Kaplowitz presented the following President's report:
+
+<pre>
+Thanks for choosing last month to give me a chance as SPI President. I'll try
+to learn from the great examples set by Martin Michlmayr and Bdale Garbee and
+will do my best to meet SPI's needs.
+
+My SPI work this month has involved signing several routine letters and
+agreements for Debian and X.org, coordinating logistics for the upcoming SPI
+face-to-face meeting, and discussing systemd and ProteanOS as possible
+associated projects with the various stakeholders inside and outside SPI. We
+are deferring the ProteanOS candidacy for further discussion, but systemd
+remains an agenda item today.
+
+I greatly appreciate the help provided by many directors on several of these
+tasks, especially Martin Michlmayr and Luca Filipozzi.
+
+All of us on the board also want to acknowledge and thank Valerie Young for her
+time as SPI director, which ends after today according to her resignation
+email, and for her past service as Secretary.
+</pre>
 
 ## Treasurer's report
 
@@ -54,7 +73,7 @@ City in October. Zobel-Helas has recently focused on DebConf18 Travel
 reimbursements, while Schultheiss did many other reimbursements over
 the last few weeks. Schultheiss indicated in response to Jimmy Kaplowitz's
 question that the Treasurer's Report to be presented at the
-face-to-face meeting will include data from August and perhaps
+face-to-face meeting will include data up to August and perhaps
 September depending on availability.
 
 ## Secretary's report
@@ -68,14 +87,14 @@ coming up to speed with the role.
 ### Vote on Meeting Minutes for Monday, 11th June 2018
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Abstain</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 6 yes, 0 no, 2 abstain and 0 missing.
@@ -83,14 +102,14 @@ Motion passed with a vote of 6 yes, 0 no, 2 abstain and 0 missing.
 ### Vote on Meeting Minutes for Monday, 9th July 2018
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Abstain</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 7 yes, 0 no, 1 abstain and 0 missing.
@@ -98,14 +117,14 @@ Motion passed with a vote of 7 yes, 0 no, 1 abstain and 0 missing.
 ### Vote on Meeting Minutes for Monday, 13th August 2018
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Abstain</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 7 yes, 0 no, 1 abstain and 0 missing.
@@ -115,14 +134,14 @@ Motion passed with a vote of 7 yes, 0 no, 1 abstain and 0 missing.
 ### Resolution 2018-08-24.mm.1: Removal of the HeliOS Project as an associated project
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
@@ -130,14 +149,14 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
 ### Resolution 2018-09-02.jrk.1: systemd as associated project
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
@@ -145,14 +164,14 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
 ### Resolution 2018-09-10.mzh.1: Establishing additional SPI bank accounts
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
@@ -160,19 +179,19 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
 ### Appoint Dimitri John Ledkov as interim director from September 11, 2018 through the 2019 SPI board elections
 
 Jimmy Kaplowitz acknowledged the stepping down of Valerie Young as
-Secretary in the President's Report. A call for interim directors
+director in the President's Report. A call for interim directors
 since the previous meeting resulted in only Dimitri John Ledkov
 expressing an interest in the position.
 
 <table><tbody>
-<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Stephen Frost</td><td>Yes</td></tr>
-<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
 <tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
 <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
 <tr><td>Andrew Tridgell</td><td>Yes</td></tr>
-<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 <tr><td>Valerie Young</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
 </tbody></table>
 
 Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
@@ -195,15 +214,15 @@ face-to-face meeting in New York City.
 <tr><td>July 2018</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
 <tr><td>July 2016</td><td>Tim Potter</td><td>Secretary</td></tr>
 <tr><td>July 2018</td><td>Stephen Frost</td></tr>
+<tr><td>September 2018</td><td>Dimitri John Ledkov</td></tr>
 <tr><td>July 2017</td><td>Martin Michlmayr</td></tr>
 <tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
 <tr><td>July 2016</td><td>Martin Zobel-Helas</td></tr>
-<tr><td>September 2018</td><td>Dimitri John Ledkov</td></tr>
 </tbody></table>
 
 ## Appendix B: Resolutions
 
-## Resolution 2018-08-24.mm.1: Removal of the HeliOS Project as an associated project
+### Resolution 2018-08-24.mm.1: Removal of the HeliOS Project as an associated project
 
 <pre>
 WHEREAS
@@ -230,7 +249,7 @@ have.  We are not aware of any such undischarged obligations.  We ask
 anyone who is aware of any to notify us within 30 days of this resolution.
 </pre>
 
-## Resolution 2018-09-02.jrk.1: systemd as associated project
+### Resolution 2018-09-02.jrk.1: systemd as associated project
 
 <pre>
 WHEREAS
@@ -259,7 +278,7 @@ arbitrary members of the systemd project as successors and delegates.
 approved by the SPI Board.
 </pre>
 
-## Resolution 2018-09-10.mzh.1: Establishing additional SPI bank accounts
+### Resolution 2018-09-10.mzh.1: Establishing additional SPI bank accounts
 
 <pre>
 WHEREAS
