@@ -9,38 +9,51 @@
         <img src="images/spi_header.png" alt="Software in the Public Interest, Inc."/>
         <p/>
         <h1>SPI Reimbursement Request</h1>
-        <p>After filling in this form please press the "Generate PDF" button, then email the resulting PDF to your projects SPI liaison.</p>
 
         <h2>Instructions</h2>
 
         <h3>Step 1: Prepare an SPI Reimbursement Request Form</h3>
-        <p>Use the form below to generate an SPI Reimbursement Request Form.</p>
-        <p>Ensure that the banking information is accurate as incorrect details are a major source of delays.</p>
-        <p>Save it in PDF format.</p>
+        <p>Use the form at the bottom of this page to generate an SPI Reimbursement Request Form.</p>
+        <p>Click on 'Generate PDF' and save the result in PDF format.</p>
+        <p>Notes</p>
+        <ul>
+            <li>Ensure that the banking information is accurate as incorrect details are a major source of delays.</li>
+            <li>Note that the PDF is generated on your machine via JavaScript. Nothing is transmitted to SPI servers until you email us.</li>
+        </ul>
 
         <h3>Step 2: Prepare an Expense Report</h3>
         <p>Use the <a href="http://www.xe.com/travel-expenses-calculator/">XE Travel Expenses Calculator</a> to prepare an expense report (even for non-travel expenses).</p>
-        <p>Enter Your Name, which must match the name in the SPI Reimbursement Request Form from Step 1.</p>
-        <p>Set Your Home Currency as appropriate.</p>
-        <p>Leave/set Credit Card @ 3%, Debit Card @ 5%, Foreign Cash @ 5%, Traveller's Cheque @ 2%.</p>
-        <p>Enter Receipt Details, one row per receipt, specifing the correct date, amount and currency of the transactions.</p>
         <p>Save it in PDF format.</p>
+        <p>Notes:</p>
+        <ul>
+            <li>Enter Your Name, which must match the name in the SPI Reimbursement Request Form from Step 1.</li>
+            <li>Set Your Home Currency as appropriate.</li>
+            <li>Leave/set Credit Card @ 3%, Debit Card @ 5%, Foreign Cash @ 5%, Traveller's Cheque @ 2%.</li>
+            <li>Enter Receipt Details, one row per receipt, specifing the correct date, amount and currency of the transactions.</li>
+        </ul>
 
-        <h3>Step 3: Collect and order your Receipts</h3>
-        <p>Collect your recipts in the SAME ORDER as the rows in the Expense Report from Step 2.</p>
-        <p>For paper receipts, scan them with a multi-function device or photograph them with your phone, converting to PDF.</p>
+        <h3>Step 3: Collect and Order your Receipts</h3>
+        <p>Collect your receipts in the SAME ORDER as the rows in the Expense Report from Step 2.</p>
         <p>Save them in PDF format.</li>
+        <p>Notes:</p>
+        <ul>
+            <li>For paper receipts, scan them with a multi-function device or photograph them with your phone, converting to PDF.</li>
+        </ul>
 
         <h3>Step 4: Prepare the Submission Package</h3>
-        <p>Collect into a single PDF, the following:</p>
+        <p>Collect into a Submission Package (a single PDF file), the following:</p>
         <ul>
             <li>from step 1, the SPI Reimbursement Request Form</li>
             <li>from step 2, the Expense Report</li>
             <li>from step 3, the Ordered Receipts</li>
         </ul>
-        <p>Ensure that the entire Submission Package can be easily understood as poor quality submissions are a major source of delays<p>
-        <p>Consider using the pdfunite utility from the poppler-utils package to merge the individual PDF files into a single PDF file</p>
-        <p>Usage: <pre>pdfunite step1.pdf step2.pdf step3a.pdf step3b.pdf ...  step3n.pdf ReimbursementRequest.pdf</pre></p>
+        <p>Save it in PDF format with filename <em>ReimbursementRequest_«YourName»_«IsoDate».pdf</em>.</p>
+        <p>Notes:<p>
+        <ul>
+            <li>An example filename is <em>ReimbursementRequest_LucaFilipozzi_20181006.pdf</em>.</li>
+            <li>Ensure that the entire Submission Package can be easily understood as poor quality submissions are a major source of delays.</li>
+            <li>Consider using the pdfunite utility from the poppler-utils package (in Debian) to merge the individual PDF files into a single PDF file.</li>
+        </ul>
 
         <h3>Step 5: Email the Submission Package</h3>
         <p>Prepare an email having these attributes:</p>
@@ -48,7 +61,7 @@
             <li>from: you</li>
             <li>to: treasurer@rt.spi-inc.org</li>
             <li>subject: Reimbursement Request for «short_description»</li>
-            <li>attachment: the ReimbursementRequest.pdf file prepared in step 4</li>
+            <li>attachment: the ReimbursementRequest_«YourName»_«IsoDate».pdf file prepared in step 4</li>
             <li>body: (the text below)
                 <pre>
 By submitting this reimbursement request, I declare:
@@ -57,12 +70,14 @@ By submitting this reimbursement request, I declare:
   - that I have attached sufficient documentation substantiating my request,
   - that I seek reimbursement of expenses that are compliant with SPI and applicable Associate Project policies, and
   - that I have not sought nor will seek reimbursement of these expenses from any other source.
-These expenses were incurred for the following reason:
-  «long_description»
                 </pre>
             </li>
         </ul>
-        <p>Replace «short_description» and «long_description» as appropriate.</p>
+        <p>Notes:</p>
+        <ul>
+            <li>The Associated Project Liaison must approve your request before SPI will process a reimbursement payment.</li>
+            <li>Consequently, <em>the Associated Project Liaison has permission to view your Submission Package, including personal information contained therein</em>.</li>
+        </ul>
 
         <h2>SPI Reimbursement Form</h2>
         <p/>
