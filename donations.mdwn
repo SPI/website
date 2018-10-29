@@ -66,6 +66,17 @@ Many SPI projects can receive donations directly via PayPal. There are
 dedicated per-project PayPal donation buttons directly on the
 [project pages](/projects) of the SPI website.
 
+If you want to donate to SPI's general fund, you can use this PayPal
+button:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<fieldset>
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="LLS2TVD9TATJG" />
+<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to SPI's general fund" />
+</fieldset>
+</form>
+
 If you need more information about PayPal donations or about any form
 of electronic donation please contact the [SPI Treasurer].
 
