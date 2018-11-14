@@ -1,0 +1,165 @@
+07:00 < Hydroxide> *GAVEL*
+07:00 < Hydroxide> 1. Opening
+07:00 < Hydroxide> The Novevmber 12, 2018 meeting of Software in the Public Interest, Inc. is hereby called to order. The agenda is at: http://www.spi-inc.org/meetings/agendas/2018/2018-11-12/
+07:00 < luca> Luca Filipozzi
+07:00 < Hydroxide> 2. Roll Call
+07:00 < Hydroxide> Members of the board of directors in attendance, please state your name for the record. Other attendees who wish to be registered in the minutes, please /msg tpot with your name.
+07:00 < Snow-Man> Stephen Frost
+07:00 < tpot> Tim Potter
+07:00 < Hydroxide> Jimmy Kaplowitz
+07:00 < tbm> Martin Michlmayr
+07:00 < tridge> Andrew Tridgell
+07:00 < schultmc> Michael Schultheiss
+07:00 < luca> Luca Filipozzi
+07:00 < xnox> Dimitri John Ledkov
+07:01 < Hydroxide> and zobel gave regrets. that's everyone else, woo!
+07:01 < Hydroxide> 3. President's report
+07:01 < Hydroxide> I've put a report in the agenda, summarizing activities at the Debian cloud sprint, discussions with a couple of projects behind the scenes, and a few other smaller items.
+07:01 < Hydroxide> 4. Treasurer's report
+07:01 < Hydroxide> schultmc?
+07:02 < schultmc> we had a productive face to face meeting in NYC last month. We had both a treasurer sprint and general board meetings. we're very close to resolving the bottlenecks for getting periodic reports resumed and hope to have all remaining bottle necks resolved this month.
+07:02 < Hydroxide> (we can go back to president's report if people have questions or comments on that.)
+07:03 < schultmc> out 2017 form 990 (federal tax filing) is due 2018-11-15 and will be filed shortly
+07:03 < Hydroxide> thanks schultmc. sorry for not following through on the monthly report assistance I had hoped to provide during the last few weeks.
+07:03 < Hydroxide> glad the 990 filing will be timely.
+07:03 < schultmc> we're also planning another face to face meeting in february 2019 to get the 2018 annual report out much earlier
+07:04 < Hydroxide> 2018 annual report or calendar year 2018 financial numbers?
+07:04 < schultmc> calendar year 2018 financial numbers as I understand it
+07:04 < tbm> (the latter is usually the blocker for the former anyway)
+07:04 < schultmc> we've also created an online form for reimbursements that makes it much easier to do timely reimbursements
+07:05 < Hydroxide> ok. I guess we could work on both then, but the annual report PDF document has tended to vaguely coincide with the annual meeting. no reason the financial numbers need to be on that delayed of a cycle, I agree
+07:05 < schultmc> we're also able to update the form to add currency specific questions (tax ids, etc.)
+07:05 < schultmc> thank you to all associated projects that are already using the new form
+07:05 < luca> annual report should probably match fiscal year?
+07:06 < tbm> luca: it does now
+07:06 < Snow-Man> Should board members who need to file for their reimbursement be using that online form..? :)
+07:06 < Hydroxide> luca: sounds correct for purposes of the financial window covered
+07:06 < tbm> (it didn't in the past, I think mostly due to a misunderstanding)
+07:06 < schultmc> Snow-Man: yes - all reimbursements should use the form whenever possible
+07:06 < tbm> Snow-Man: someone should review the new reimbursement instructions, and if we all agree, email spi-projects
+07:07 < tbm> s/snow-man/schultmc/
+07:07 < Snow-Man> ok, I'm certainly happy to do so, I'll try and find where the form is later :)
+07:07 < schultmc> I'll review them and e-mail -projects
+07:07 < tridge> I could look at adding mouse-over popup help to the form ?
+07:07 < schultmc> http://www.spi-inc.org/treasurer/reimbursement-form/
+07:07 < Snow-Man> yay, now I have a browser window w/ it open.  thanks. :)
+07:08 < Hydroxide> other discussion of the treasurer's report?
+07:08 < tbm> we should add a redirect from the old reimbursement form
+07:09 < tbm> luca: https://rt.spi-inc.org/Ticket/Display.html?id=2027
+07:09 < luca> k
+07:09 < Hydroxide> moving onto the next item
+07:09 < Hydroxide> 5. Secretary's report
+07:09 < Hydroxide> tpot
+07:10 < tpot> Thanks Jimmy. Due to personal stuff I didn't get the minutes for the f2f done.
+07:10 < tpot> But I did make some breakthroughs with the paypal scripts and the ledger output largely matches the paypal statmeents now.
+07:10 < Hydroxide> hey, I understand how personal stuff can interfere, and how those minutes take longer to prepare than a typical one
+07:11 < tpot> Hoping to organise the by-law vote for January, with assistance from Hydroxide and Noodles 
+07:11 < tpot> .
+07:11 < Hydroxide> great. any other questions and comments for tpot?
+07:12 < Hydroxide> 6. Outstanding minutes. We have the September 10 minutes from tpot ready to vote it looks like. questions and comments?
+07:12 < Hydroxide> I noted one typo in my year of last election that got fixed before the meeting, but assuming we're okay listing xnox's month/year of interim appointment as his month/year of last election, it looks fine to me.
+07:13 < xnox> yes.
+07:13 < Hydroxide> tpot: go ahead and start the vote when you're satisfied that nobody has further questions or comments.
+07:13 < tpot> Voting started, 8 people (hydroxide,luca,snow-man,tpot,tbm,tridge,schultmc,xnox) allowed to vote on Accept meeting minutes for Tuesday 10 September 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+07:13 -!- zbyszek [~zbyszek@kawka.in.waw.pl] has joined #spi
+07:13 < xnox> !vote yes
+07:13 < schultmc> !vote yes
+07:13 < Hydroxide> !vote yes
+07:13 < Snow-Man> !vote yes
+07:13 < tpot> !vote yes
+07:13 < tridge> !vote yes
+07:13 < luca> !vote yes
+07:14 < tbm> !vote yes
+07:14 < tpot> Current voting results for "Accept meeting minutes for Tuesday 10 September 2018": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+07:14 < tpot> Voting for "Accept meeting minutes for Tuesday 10 September 2018" closed.
+07:14 < tpot> Thanks everyone
+07:14 < Hydroxide> minutes approved
+07:14 < Hydroxide> 7. Items up for discussion
+07:14 < Hydroxide> 7.1. Follow-up and action items from face-to-face meeting
+07:14 -!- linuxhiker [~jd@c-73-97-49-9.hsd1.wa.comcast.net] has joined #spi
+07:15 < Hydroxide> Clearly many things to discuss here, but in the context of concrete discussion within this meeting, who added it to the agenda? Go ahead and handle this item
+07:15 < tbm> I added it, but have nothing specific to say. But there are a lot of follow-ups and action items to be done
+07:15 < Hydroxide> definitely agreed it's important
+07:16 < Hydroxide> I guess one thing we could do is, does everyone know what they agreed to do, at least enough to tide them over until the minutes get prepared in time for (hopefully?) the December meeting where there should be an official record of those commitments included in the minutes?
+07:16 < tpot> Do we want to break it down into a list and start assigning people and suggested deadlines?
+07:17 < tpot> The minutes are rough but it should be obvious the areas we thought were important at the meeting.
+07:17 < Hydroxide> tpot: that sounds good, yeah. I know some explicit commitments were taken, but probably not every important thing got an owner assigned
+07:18 < tpot> I'm happy to work on the minutes in the next couple of days and get something out by the end of the week.
+07:18 < tpot> No need to drag things out to the next meeting I think.
+07:18 < Hydroxide> tpot: excellent, thanks!
+07:19 < Hydroxide> those minutes will take longer to review than usual anyway, given the nature of a f2f meeting. so that's appreciated
+07:19 < tpot> Hopefully I'll get better at taking them at the meetings also.
+07:19 < Hydroxide> further concrete discussion or thoughts on this item? fully agree with tbm that we should not let the action items from the f2f drag on as long as we did last year.
+07:20 < luca> use RT to track them
+07:20 < Snow-Man> agreed
+07:20 < luca> there's a board / board-private queue
+07:20 < tpot> ok let's do that this time around
+07:20 < Hydroxide> good idea
+07:20 < luca> board / board-secret rather
+07:21 < Hydroxide> ready for next item?
+07:22 < Hydroxide> 7.2. Spring face-to-face meeting.
+07:22 < Hydroxide> I suspect tbm added this as a prod to get us to react to his email to board, so that he can proceed to create his doodle poll?
+07:22 < tbm> zobel suggested having a meeting, possibly in February. I emailed the board with some questions but didn't hear so not sure if there's still interest or not
+07:22  * schultmc is interested and finds the f2f meetings valuable and productive
+07:23 < Snow-Man> I agree that the f2f are valuable and productive
+07:23 < Snow-Man> February already has me in Brussels so I'm hoping it can be later in the month
+07:23  * xnox is interested; however February is starting to fill up for me; thus if we go ahead we should doodle the dates sooner, rather than later.
+07:23  * schultmc plans on renewing his passport this week which should be plenty of time if we have a non-US meeting
+07:23 < Hydroxide> it can still be useful. with respect to my personal availability, I told my upcoming new job that I will have one such obligation in February (time TBD), so I'm guessing they won't be surprised if I detour from work for this. but I would not be able to stay for as long as I did in September
+07:23 < xnox> btw, can we do meeting in Brussels, after fosdem? or is that a non-starter?
+07:24 < Hydroxide> I don't think I need to be there for the pre-meeting like I did in September, just the regular meeting
+07:24 < Snow-Man> fosdem is where I'll be at, so
+07:24 < Snow-Man> that'd probably work for me, at least.
+07:24  * xnox too
+07:24 < Hydroxide> xnox: not conceptually a non-starter. possibly pricier, but not necessarily
+07:24 < tbm> wouldn't work for me unfortunately
+07:24  * schultmc has a conflict during fosdem - I could do after
+07:25 < tbm> Hydroxide: yeah, I don't think you'd need to be there for the treasurer sprint
+07:25 < Snow-Man> well, yeah, I'd need to do the day after or so, such as the Monday
+07:25 < Hydroxide> xnox: the places we discussed were vancouver, nyc, dc... as the vancouver example shows it doesn't have to be the US since we took care of the annual bank errands in nyc last f2f meeting
+07:25 < Hydroxide> tbm: right. I would probably aim to be there for the main two days, not counting travel, and if there is not a specific schedule conflict with my new job this will probably work out
+07:26 < Snow-Man> nyc and dc are easy for me, at least, but I could probably do vancouver if there's enough space between the f2f and fosdem
+07:26 < luca> i think we should differentiate between "Annual F2F Meeting" (which should always be in NYC) and "Supplementary F2F Meetings" (which could be anywhere)
+07:26 < xnox> either of those locations should work fine. and probably easier to get to than brussels for most.
+07:26  * Hydroxide nods at luca 
+07:26 < Snow-Man> luca: agreed that we need to keep the distinction there clear.
+07:26 < tpot> Supplementary meetings are a good idea. We should be able to have a more focussed agenda.
+07:27 < Hydroxide> xnox: any thoughts on vancouver? that was also mentioned, which is comparatively easy for tpot and easy for everyone in north america. I am fine with all locations being discussed
+07:27 < xnox> Hydroxide, vancouver is fine as well for me. very little difference between that, and nyc/dc.
+07:28 < tpot> tbm: sounds like we need separate location and date polls
+07:28 < xnox> all the dates, all the locations, all the people matrix =)
+07:28 < Hydroxide> also sounds like the answer is "yes, thanks tbm for prodding us during the meeting, go ahead with the polls"
+07:28  * xnox suspects we will end up meeting in Nebraska ;-)
+07:28 < Hydroxide> am I understanding the consensus correctly?
+07:28 < Hydroxide> xnox: haha
+07:29 < Snow-Man> Hydroxide: I believe so.
+07:29 < Hydroxide> great.
+07:29 < Hydroxide> 8. Any other business
+07:29 < Hydroxide> anyone?
+07:29  * Snow-Man contemplates Nebraska
+07:29 < tpot> heh
+07:29 < tbm> any preference of doing the treasurer sprint before or after the board meeting? (i.e. wed/thu + fri/sat vs  fri/sat + sun/mon)?  Does one depend on the other?
+07:30  * schultmc has heard good things about https://www.runza.com/about ;)
+07:30 < schultmc> depends on the timing
+07:30 < schultmc> I have weekend conflicts 1-2 weeks in february
+07:31  * Snow-Man contemplates Nebraska ... in February *cough*
+07:31 < tpot> I can help out with treasury sprin
+07:31 < tpot> t
+07:32  * xnox checks ski resorts
+07:32 < xnox> aspen?
+07:32 < Hydroxide> ...okay, done with Any other business if we're discussing about ski resorts I guess :D
+07:33 < schultmc> I live in Indiana - Nebraska weather's probably comparable :)
+07:33 < Hydroxide> tbm: and I guess that means nobody expressed a specific ordering preference in response to your question. as long as schultmc and other treasurer sprint people can come on the relevant days, I guess :)
+07:33 < Snow-Man> schultmc: but do you have room to host all of us? ;)
+07:33 < Hydroxide> 9. Next board meeting: December 10th, 2018, 20:00 UTC
+07:33 < Hydroxide> Does this work for everyone?
+07:33 < Hydroxide> With my new job, I don't know which slots in my schedule will be free for an IRC meeting, but I'll assume yes for now. If a conflict does develop I'll send regrets and then email to discuss scheduling going forward. I should still have enough time for monthly meetings in general.
+07:33 < luca> kkkk/1
+07:33 < luca> oops
+07:34 < tbm> should work for me
+07:34 < schultmc> Snow-Man: I work for a college - I could probably get meeting space although february here is pretty bad :)
+07:34 < Snow-Man> that timing looks good for me currently
+07:34 < tpot> sounds good
+07:34 < schultmc> dec 10 works for me
+07:34 < Hydroxide> Great, thanks everyone for an efficient meeting. tpot, let's go to /msg after this and figure out how to chat for a bit as planned. See you all here in December, hopefully.
+07:35 < Hydroxide> *GAVEL*
