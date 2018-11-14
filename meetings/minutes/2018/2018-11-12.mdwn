@@ -1,0 +1,199 @@
+[[!meta copyright="Copyright © 2018 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, November 12th, 2018
+
+__Board members present__
+
+* Jimmy Kaplowitz (Hydroxide) (President)
+* Luca Filipozzi (luca) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Stephen Frost (Snow-Man)
+* Martin Michlmayr (tbm)
+* Andrew Tridgell (tridge)
+* Dimitri John Ledkov (xnox)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Martin Zobel-Helas (zobel)
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* Jonathan McDowell (Noodles)
+* Hans Tovetjärn (totte)
+
+These are the minutes for the November 12th, 2018 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2018/2018-11-12-log.txt).
+
+## President's Report
+
+<pre>
+Thanks everyone for a productive face-to-face meeting in New York last month.
+
+After that meeting, three of us attended the Debian cloud sprint in Seattle.
+The main resulting work specifically for SPI will be to follow up with the
+major cloud providers and SPI legal counsel in order to review their terms of
+service and negotiate any specific wording we need in order to create accounts
+to will hold legal ownership of Debian's resources and images there. There will
+also be some IT team work, but mainly in an facilitative role as Debian's
+sysadmin team integrates with each cloud.
+
+I've been following up with two projects on three issues, which I'll report
+anonymously here since none are public yet (this will change):
+
+One SPI associated project is considering switching to Software Freedom
+Conservancy. They held a conference call last week with Conservancy and me, and
+I agree that for the way they see their needs evolving in the near future, they
+will want a level of handholding and governance structure that is more in line
+with their model than ours. They've been happy with our services so far and
+they intend to say so publicly soon, as part of their own public consideration
+of this switch.
+
+Unrelated to their potential switch of organizational home, they noticed a
+malware distributor squatting on a domain name using their trademark. Resolving
+this should be a pretty straightforward ICANN UDRP dispute procedure, but
+because they're considering the Conservancy switch, we'll discuss further with
+them on whether they want to handle that process within SPI or after switching
+to Conservancy.
+
+Another SPI project has shifted staff to mostly be run by a for-profit entity,
+although still as a legitimate free software project, and without any contact
+with the current SPI liaisons. They've asked me privately about possibly ending
+the relationship, merely due to disuse and lack of need and not due to any
+problem. I'm working on getting them answers on what we can or can't do given
+their lack of 501(c)(3) status, and on contacting one of our old liaisons for
+the project to see if they're properly authorized to take over.
+
+Otherwise, I've been busy dealing with a complicated several weeks of personal
+life, as per my recent board email, and therefore haven't done the monthly
+treasurer report work that I hoped for. I'll be discussing status and feasible
+next steps with Tim Potter immediately following this meeting. I will be
+starting a new job on December 4, at Plotly, but this should not cause a
+conflict with SPI.
+
+If like me you haven't yet, please submit your reimbursement request ASAP for
+the recent face to face meeting. See you at the next one early next year!
+</pre>
+
+## Treasurer's report
+
+We had a productive face to face meeting in NYC last month. We had
+both a treasurer sprint and general board meetings. We're very close
+to resolving the bottlenecks for getting periodic reports resumed and
+hope to have all remaining bottle necks resolved this month.
+
+Our 2017 form 990 (federal tax filing) is due 2018-11-15 and will be
+filed shortly.
+
+We're also planning another face to face meeting in february 2019 to
+get the 2018 annual report out much earlier.
+
+We've also created an online form for reimbursements that makes it
+much easier to do timely reimbursements. we're also able to update the
+form to add currency specific questions (tax ids, etc.) Thank you to
+all associated projects that are already using the new form.
+
+http://www.spi-inc.org/treasurer/reimbursement-form/
+
+## Secretary's report
+
+<pre>
+Minutes for the face-to-face board meeting have been started but could
+not be completed in time to give enough notice for board review before
+the meeting.
+
+Due to personal commitments the bylaw vote was unable to be scheduled
+in time to avoid the holiday period and instead will be planned for
+January. The time between now and then will be used to figure out (and
+document) how to operate the voting infrastructure. tpot, jimmy and
+noodles(?) to collaborate on this.
+
+Secretary's TODO list for the next meeting:
+
+* Complete minutes for face-to-face board meeting for December IRC
+  meeting.
+
+* Update resolutions votes on during face-to-face board meeting.
+
+  * Vote to replace systemd resolution with intended one
+  * Resolution 2018-10-05.mcs.1
+  * Vote on authority to open and operate HSBC bank accounts
+</pre>
+
+## Outstanding minutes
+
+### Vote on Meeting Minutes for Tuesday, 10th September 2018
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
+
+## Items up for discussion
+
+### Follow-up and action items from face-to-face meeting
+
+Agreement was reached to create a TODO list based on the face-to-face
+meeting minutes to discuss and assign responsibility. Tim Potter
+agreed to perform this in the next couple of days to avoid dragging
+things out until the next meeting.
+
+Luca Filipozzi suggested that RT tickets be used in either the board
+or board-secret queues to help manage and track status.
+
+### Spring face-to-face meeting
+
+Martin Zobel-Helas suggested at the October face-to-face meeting that
+an additional face-to-face meeting be held in February 2019 to
+capitalize on momentum generated in the previous meeting. A treasurer
+sprint was also proposed to work on finising the annual report for
+2018 in a timely manner.
+
+Martin Michlmayr volunteered to send out polls to determine suitable
+dates and locations.
+
+## Any other business
+
+There was no other business considered.
+
+## Adjournment
+
+The meeting was adjourned until Monday, December 10th, 2018 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table><tbody>
+<tr><td>Last elected</td><td>Name</td><td>Role</td></tr>
+<tr><td>July 2016</td><td>Jimmy Kaplowitz</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>July 2016</td><td>Tim Potter</td><td>Secretary</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td></tr>
+<tr><td>September 2018</td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2017</td><td>Martin Michlmayr</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016</td><td>Martin Zobel-Helas</td></tr>
+</tbody></table>
