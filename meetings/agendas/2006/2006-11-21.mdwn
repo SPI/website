@@ -91,15 +91,17 @@ the year.   This would cover our accounting expenses handily.
 Total Revenue through the first week of October, <i>non-reconciled</i>, is:
 
 <table>
-<tbody>
+<thead>
   <tr>
-    <td align="right"><b><i>Gross</i></b></td>
-    <td align="right"><b><i>Transaction Fees</i></b></td>
-    <td align="right"><b><i>Net</i></b></td>
-    <td align="right"><b><i>SPI 5%</i></b></td>
-    <td align="right"><b><i>Project Allocation </i></b></td>
-    <td align="justify"><b><i>Project</i></b></td>
+    <th align="right">Gross</th>
+    <th align="right">Transaction Fees</th>
+    <th align="right">Net</th>
+    <th align="right">SPI 5%</th>
+    <th align="right">Project Allocation</th>
+    <th align="justify">Project</th>
   </tr>
+</thead>
+<tbody>
   <tr><td><i>77845.32</i></td><td align="right"> <i>405.29</i></td><td align="right"> <i>77440.03</i></td><td align="right"> <i>3922</i></td><td align="right"> <i>73518.03</i></td><td> <b><i>Debian</i></b></td></tr>
   <tr>
     <td align="right"><i>45</i></td>

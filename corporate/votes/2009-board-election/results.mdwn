@@ -19,8 +19,10 @@ __Total unique votes cast: 58, which is 13.09% of all possible votes.__
 ### Voters
 
 <table>
-<tbody>
+<thead>
 <tr><th>Index</th><th>Name</th></tr>
+</thead>
+<tbody>
 <tr><td>0</td><td>Aaron Ucko</td></tr>
 <tr><td>1</td><td>Adam D. Barratt</td></tr>
 <tr><td>2</td><td>Alex Hudson</td></tr>
@@ -84,8 +86,10 @@ __Total unique votes cast: 58, which is 13.09% of all possible votes.__
 ### Votes
 
 <table>
-<tbody>
+<thead>
 <tr><th>Index</th><th>Vote</th></tr>
+</thead>
+<tbody>
 <tr><td>1ef18ee02c327e3c08f6ff6e4f01e955</td><td>CAB</td></tr>
 <tr><td>dc176ba9aa4799148189548dca4e58cd</td><td>CBA</td></tr>
 <tr><td>320a9b3ee4676b09d537edbcd343ac9a</td><td>CA</td></tr>
@@ -149,8 +153,10 @@ __Total unique votes cast: 58, which is 13.09% of all possible votes.__
 ### Beat matrix
 
 <table border="1">
-<tbody>
+<thead>
 <tr><th> </th><th>A</th><th>B</th><th>C</th></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align="center">-</td><td align="center">29</td><td align="center">11</td></tr>
 <tr><th>B</th><td align="center">26</td><td align="center">-</td><td align="center">14</td></tr>
 <tr><th>C</th><td align="center">46</td><td align="center">42</td><td align="center">-</td></tr>
@@ -162,8 +168,10 @@ For the above table, a row beats a column by N votes
 ### Pairwise wins
 
 <table border="1">
-<tbody>
+<thead>
 <tr><th> </th><th>A</th><th>B</th><th>C</th><td bgcolor="#9999ff">#</td></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99ff99">3</td><td align="center">-35</td><td bgcolor="#9999ff">1</td></tr>
 <tr><th>B</th><td align="center">-3</td><td align="center">-</td><td align="center">-28</td><td bgcolor="#9999ff">0</td></tr>
 <tr><th>C</th><td align="center" bgcolor="#99ff99">35</td><td align="center" bgcolor="#99ff99">28</td><td align="center">-</td><td bgcolor="#9999ff">2</td></tr></tbody>

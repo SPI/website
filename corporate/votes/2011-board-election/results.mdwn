@@ -19,7 +19,11 @@ __Total unique votes cast: 75, which is 16.13% of all possible votes.__
 
 ### Voters
 
-<table><tbody><tr><th>Index</th><th>Name</th></tr>
+<table>
+<thead>
+<tr><th>Index</th><th>Name</th></tr>
+</thead>
+<tbody>
 <tr><td>0</td><td>Aaron Ucko</td></tr>
 <tr><td>1</td><td>Adam Conrad</td></tr>
 <tr><td>2</td><td>Adam D. Barratt</td></tr>
@@ -100,7 +104,11 @@ __Total unique votes cast: 75, which is 16.13% of all possible votes.__
 
 ### Votes
 
-<table><tbody><tr><th>Index</th><th>Vote</th></tr>
+<table>
+<thead>
+<tr><th>Index</th><th>Vote</th></tr>
+</thead>
+<tbody>
 <tr><td>83d907097edf0dff0a4ffb7fc906d102</td><td>ACBD</td></tr>
 <tr><td>1af9b530240e1cfd28dc8d5e748433f3</td><td>CABD</td></tr>
 <tr><td>814f3fcf478abf984741feb1a1c2a57b</td><td>ACBD</td></tr>
@@ -181,8 +189,10 @@ __Total unique votes cast: 75, which is 16.13% of all possible votes.__
 ### Beat matrix
 
 <table border="1">
-<tbody>
+<thead>
 <tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align="center">-</td><td align="center">48</td><td align="center">21</td><td align="center">56</td></tr>
 <tr><th>B</th><td align="center">24</td><td align="center">-</td><td align="center">12</td><td align="center">40</td></tr>
 <tr><th>C</th><td align="center">53</td><td align="center">60</td><td align="center">-</td><td align="center">65</td></tr>
@@ -195,8 +205,10 @@ For the above table, a row beats a column by N votes
 ### Pairwise wins
 
 <table border="1">
-<tbody>
+<thead>
 <tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th><td bgcolor="#9999FF">#</td></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99FF99">24</td><td align="center">-32</td><td align="center" bgcolor="#99FF99">41</td><td bgcolor="#9999FF">2</td></tr>
 <tr><th>B</th><td align="center">-24</td><td align="center">-</td><td align="center">-48</td><td align="center" bgcolor="#99FF99">9</td><td bgcolor="#9999FF">1</td></tr>
 <tr><th>C</th><td align="center" bgcolor="#99FF99">32</td><td align="center" bgcolor="#99FF99">48</td><td align="center">-</td><td align="center" bgcolor="#99FF99">59</td><td bgcolor="#9999FF">3</td></tr>

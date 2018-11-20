@@ -65,7 +65,7 @@ This election is governed by resolution
 Below is the record of attendance for sitting board members:
 
 <table border="1">
-<tbody>
+<thead>
 <tr>
   <th>Initials</th>
   <th>Name</th>
@@ -74,7 +74,10 @@ Below is the record of attendance for sitting board members:
   <th align="center">Regrets</th>
   <th align="center">Absent</th>
   <th align="center">Possible</th>
-</tr><tr>
+</tr>
+</thead>
+<tbody>
+<tr>
   <td align="center">BG</td>
   <td> Bdale Garbee </td>
   <td align="center">8<small>(+1)</small></td>
@@ -165,29 +168,34 @@ Vote must be called if a member:
  * Not present for the lesser of 7 or <span>50% (<b>5.5</b>)</span> of meetings<span></span>
 
 <table border="1">
-<tbody>
+<thead>
 <tr>
   <th style="text-align: center;" rowspan="2"> Date </th>
   <th style="text-align: center;" rowspan="2"> Agenda </th>
   <th style="text-align: center;" rowspan="2"> Minutes </th>
   <th style="text-align: center;" colspan="10"> Attendance </th>
-</tr><tr>
-  <td style="text-align: center;"> MS </td>
-  <td style="text-align: center;"> NM </td>
-  <td style="text-align: center;"> JB </td>
-  <td style="text-align: center;"> BG </td>
-  <td style="text-align: center;"> BR </td>
-  <td style="text-align: center;"> JK </td>
-  <td style="text-align: center;"> DG </td>
-  <td style="text-align: center;"> IJ </td>
-  <td style="text-align: center;"> MJS </td>
-  <td style="text-align: center;"> Quorum </td>
-</tr><tr>
+</tr>
+<tr>
+  <th style="text-align: center;"> MS </th>
+  <th style="text-align: center;"> NM </th>
+  <th style="text-align: center;"> JB </th>
+  <th style="text-align: center;"> BG </th>
+  <th style="text-align: center;"> BR </th>
+  <th style="text-align: center;"> JK </th>
+  <th style="text-align: center;"> DG </th>
+  <th style="text-align: center;"> IJ </th>
+  <th style="text-align: center;"> MJS </th>
+  <th style="text-align: center;"> Quorum </th>
+</tr>
+</thead>
+<tbody>
+<tr>
   <td style="text-align: center;">&lt;=20060807</td>
   <td style="text-align: center;" colspan="2">N/A</td>
   <td style="text-align: center;" colspan="9">Assumed present (1 meeting)</td>
   <td style="text-align: center;">N/A</td>
-</tr><tr>
+</tr>
+<tr>
   <td style="text-align: center;"> 20060919 </td>
   <td style="text-align: center;">Closed</td>
   <td style="text-align: center;" bgcolor="#99ff99">Approved</td>

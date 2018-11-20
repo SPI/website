@@ -22,7 +22,10 @@ __Total unique votes cast: 73, which is 13.98% of all possible votes.__
 ### Voters
 
 <table>
+<thead>
 <tr><th>Index</th><th>Name</th></tr>
+</thead>
+<tbody>
 <tr><td>0</td><td>Aaron Ucko</td></tr>
 <tr><td>1</td><td>Adam Conrad</td></tr>
 <tr><td>2</td><td>Adam D. Barratt</td></tr>
@@ -96,13 +99,17 @@ __Total unique votes cast: 73, which is 13.98% of all possible votes.__
 <tr><td>70</td><td>Thijs Kinkhorst</td></tr>
 <tr><td>71</td><td>Thomas Goirand</td></tr>
 <tr><td>72</td><td>Tim Brown</td></tr>
+</tbody>
 </table>
 
 
 ### Votes
 
 <table>
+<thead>
 <tr><th>Index</th><th>Vote</th></tr>
+</thead>
+<tbody>
 <tr><td>7f86205197f5a065bc84ab7c928293eb</td><td>DECAB</td></tr>
 <tr><td>9693a01faff2b25c223d1cd40ddc91bd</td><td>BCEAD</td></tr>
 <tr><td>a88c0f83b741339a5f904f42247f7811</td><td>BADCE</td></tr>
@@ -176,17 +183,22 @@ __Total unique votes cast: 73, which is 13.98% of all possible votes.__
 <tr><td>40e60baa57ba939967e7b5805d826616</td><td>EBAD</td></tr>
 <tr><td>030030e8af72d738c8e72fab9ceb3f48</td><td>ACDEB</td></tr>
 <tr><td>30bdb4411abef62d31869ac54f94c1c6</td><td>BECAD</td></tr>
+</tbody>
 </table>
 
 ### Beat matrix
 
 <table border='1'>
+<thead>
 <tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align='center'>-</td><td align='center'>17</td><td align='center'>28</td><td align='center'>41</td><td align='center'>31</td></tr>
 <tr><th>B</th><td align='center'>54</td><td align='center'>-</td><td align='center'>54</td><td align='center'>52</td><td align='center'>55</td></tr>
 <tr><th>C</th><td align='center'>43</td><td align='center'>16</td><td align='center'>-</td><td align='center'>43</td><td align='center'>39</td></tr>
 <tr><th>D</th><td align='center'>30</td><td align='center'>19</td><td align='center'>27</td><td align='center'>-</td><td align='center'>27</td></tr>
 <tr><th>E</th><td align='center'>41</td><td align='center'>16</td><td align='center'>32</td><td align='center'>44</td><td align='center'>-</td></tr>
+</tbody>
 </table>
 
 For the above table, a row beats a column by N votes
@@ -195,12 +207,16 @@ For the above table, a row beats a column by N votes
 ### Pairwise wins
 
 <table border='1'>
+<thead>
 <tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><td bgcolor='#9999FF'>#</td></tr>
+</thead>
+<tbody>
 <tr><th>A</th><td align='center'>-</td><td align='center'>-37</td><td align='center'>-15</td><td align='center' bgcolor='#99FF99'>11</td><td align='center'>-10</td><td bgcolor='#9999FF'>1</td></tr>
 <tr><th>B</th><td align='center' bgcolor='#99FF99'>37</td><td align='center'>-</td><td align='center' bgcolor='#99FF99'>38</td><td align='center' bgcolor='#99FF99'>33</td><td align='center' bgcolor='#99FF99'>39</td><td bgcolor='#9999FF'>4</td></tr>
 <tr><th>C</th><td align='center' bgcolor='#99FF99'>15</td><td align='center'>-38</td><td align='center'>-</td><td align='center' bgcolor='#99FF99'>16</td><td align='center' bgcolor='#99FF99'>7</td><td bgcolor='#9999FF'>3</td></tr>
 <tr><th>D</th><td align='center'>-11</td><td align='center'>-33</td><td align='center'>-16</td><td align='center'>-</td><td align='center'>-17</td><td bgcolor='#9999FF'>0</td></tr>
 <tr><th>E</th><td align='center' bgcolor='#99FF99'>10</td><td align='center'>-39</td><td align='center'>-7</td><td align='center' bgcolor='#99FF99'>17</td><td align='center'>-</td><td bgcolor='#9999FF'>2</td></tr>
+</tbody>
 </table>
 
 ### Results
