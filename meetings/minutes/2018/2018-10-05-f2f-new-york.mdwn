@@ -1,0 +1,587 @@
+[[!meta copyright="Copyright © 2017 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Face-to-face meeting in New York, October 13-14, 2017
+
+The SPI board met in New York in October 2017 to discuss a number of
+topics.  The meeting was held at Software Freedom Law Center (SFLC).
+Eben Moglen and Mishi Choudhary from SFLC were available to answer
+legal questions.
+
+
+__Board members present__
+
+* Jimmy Kaplowitz (Hydroxide) (President)
+* Luca Filipozzi (luca) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Martin Zobel-Helas (zobel)
+* Stephen Frost (Snow-Man)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Andrew Tridgell (tridge)
+* Dmitri John Ledkov (xnox)
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* Mishi Choudhary
+
+## Summary
+
+### Friday October 5th 2018
+
+#### 11:00am Opening by President
+
+* Jimmy Kaplowitz welcomed everyone, especially our newest board member Stephen Frost
+
+#### Report by Treasurer on yesterday's treasury sprint
+
+* Michael Schultheiss reported on good progress made on opening bank
+  accounts to remain below FDIC limits at the following institutions:
+  * TD
+  * Bank of America
+  * HSBC
+
+* Overall finances as of end of August 2018
+  * Approx $2.4M cash on hand
+  * SPI general fund now $390K
+
+* There was a request for more information from Mark Atwood regarding
+  a single large NTPsec expense already paid by SPI.
+
+* Status on the generation of per-project donation information
+  * Andrew Tridgell has extended process_transactions.py to generate CSV output
+  * What level of donor information can we expose to the public and projects?
+     * Agreed that it's uncontroversial to provide per month totals
+  * Martin Michlmayr suggests we need a donation platform
+  * Problens with current donation policy
+    * Very broad
+    * Non-binding
+    * Not visible via PayPal donation workflow
+    * GDPR?
+    * Agreed that we probably cannot do anything with existing donor data as no consent
+    * Provide anonymized data for projects?
+    * Survey of wants and needs for projects
+  * Action items
+    * Tim Potter to start generating monthly per-project data
+    * Also to documnt process for monthly/weekly scraping and reconciliation
+    * And update access-helper config (PayPal passwords encoded with access)
+    
+#### 11:15am Governance discussion
+
+* Martin Michlmayr pointed out that we are still m2aking more promises
+  than we keep in regard to governance.
+
+* What is our liability with regard with the activity of associated projects?
+
+* Need to work on reimbusement policy
+
+* Code of Conduct
+
+* Engagement of paid legal help for trademarks
+
+* Reimbursement process
+  * Andrew Tridgell has written a new reimbursement script/form
+  * Action items
+    * Michael Schultheiss to update docuemntation for new reimbursement process
+    
+#### 11:43am IT Luca
+
+* Question on the table is what are the board's preferences around VMs vs ServerLess?
+
+* Tim Potter
+  * Consider using Amazon VMs or similar instead of dedicated hw
+  * Be nice to FOSS related things but if there's a SASS product that
+    looks good, for whatever, then that may make sense to do
+  * If the choice is not having something or a poor solution and
+    having a good solution that's non-free, a good solution is
+    preferred
+
+* Martin Michlmayr
+  * Been bogged down by too many discussions
+  * Struggle with question of OSS or not
+  * Hosted things are proprietary solutions, ultimately
+  * We are an OSS org
+  * Not sure what the answer is
+  * 100% serverless isn't realistic
+  * Member system needs to be hosted, etc
+  * Not sure where the balance should be
+  * Preference towards OSS but could be a lot of work
+
+* Martin Zobel-Helas
+  * Lots of work to run donated hw
+  * Keeping all the mail, VMs, etc, working and up to date  
+  * Should think about having a commercial service to take care of
+    things, patches, etc
+  * Agree w/ Martin Michlmayr that when it comes to personal data, donations,
+    project expenses, etc, should be on systems we control
+  * Aim for OSS for donations, etc
+  * If there is a OSS option as a SASS then that could be good
+
+* Jimmy Kaplowitz
+  * Very busy already
+  * Like the idea of using hosted solutions where they meet our needs
+  * Prefer OSS
+  * Personal data should be handled in the best way based on security and privacy
+  * In case where we use proprietary, try to avoid being locked in
+  * GMail itself doesn't lock us in much, but building a lot of things
+    on GMail could make it difficult to move elsewhere
+  * Easy to move between some platforms, keep that in mind
+  * Care about volunteer time too
+  * Preference for OSS but not always overriding preference
+
+* Michael Schultheiss
+  * Doesn't make sense to go 100% serverless or donated hardware but VMs would work
+  * Make better use of our volunteer time
+  * Lots of email providers such as free GMail
+  * Running email getting more complicated and takes a lot of volunteer time to manage
+  * Need more access to member portal and such, but website or other
+    sites could possibly be run off of many services
+
+* Martin Michlmayr
+  * Consider each service
+
+* Martin Zobel-Helas
+  * Prefer to let Luca decide
+
+* Luca Filipozzi
+  * Doesn't like anything we currently run due to it being old and crufty
+  * Currently running on donated hw on VMs
+  * Want to get rid of donated hw and move to VMs on other hardware
+  * Rather buy VMs than be beholden to anyone
+  * Not have to be involved in talking to providers
+  * If you want to run your own RT instance then everything else kinda drives it
+  * Gossamer threads has a hosted RT instance
+  * Not sure how comfortable Gossamer would be with customized instances
+  * If we want RT then we need a webserver, we need a VM
+  * General board has agreed that FOSS is good
+  * Get rid of hardware seems consistent
+  * Get away from asking for VMs and instead buy them
+  * Terraform and Ansible instead of Puppet
+  * For mail, uses personally rspamd, has SPF, DKIM, DMARC, etc, and seems to all work
+  * Familiar with all the right SPF, DKIM, DMARC such
+
+* Martin Zobel-Helas
+  * Messages in the queue to be moderated for days sometimes
+  * Should be thinking about that with regard to email
+
+* Luca Filipozzi
+  * Who owns the lists and who manages them and such
+  * Prefer Simpa to Mailman, able to set up rules in a simple language which can be used
+  * Was able to be used to prevent a lot of spam
+  * Allows for sender confirmation
+  * Would reduce the need for moderation
+  * Torn between supporting OSS and the choice to use SASS offerings
+  * If every service had a solution which could be OSS but we pay for it, that's middle ground
+  * Consistency of opinion is helpful
+  * Previously was trying to have a seperation of concern with independent VMs
+  * Only really need a VM
+  * We provide currently DNS to some projects
+  * There had been ideas of providing more capabilities to associated projects
+  * Not really interested in being a hosting provider for our projects
+  * Gandi supports tiered ownership structure
+  * Reduce amount of hosting service
+
+* Stephen Frost
+  * Various discussion about what some associated projects do
+
+* Jimmy Kaplowitz
+  * The Debian way isn't the only way
+  * Don't want to have lock-in
+  * Don't have to prioritize OSS projects over other concerns
+
+* Martin Michlmayr
+  * Perhaps we should provide documentation around DNS because we own the domain?
+  * Provide IT best practices
+
+* Luca Filipozzi
+  * We own the domain and therefore you have to at least manage NS records
+  * Project too small they might not have NS servers
+  * Many registrars provide DNS services
+  * We could possibly use gandi which provides tiered services
+  * Could have NS records set or that they could use gandi
+  * Mailing lists gone, never was a website
+  * Not going to help projects with their IT but will still consider doing DNS
+  * Once we say we want RT, we basically bring everything else along with it
+    * Are we locked into RT?
+    * Will discuss RT later in agenda
+  * Once down to a reasonable number of VMs with terraform/ansible, should be reasonable to manage
+
+* Martin Michlmayr
+  * Might disagree with email wrt libreoffice
+
+#### 12:15pm Reimbursement and accounting discussion
+
+* We need some policies around both reimbusements and accounting practices
+
+* Reimbursements
+  * We don't have an official expense policy and we need one
+  * Look at existing policies - SFC too strict, Luca's University has an existing policy which is more flexible
+  * What to do with expense receipts not in a language we can read?
+  * Don't want to give board or projects too much extra work
+  * Need to consider having to be audited at a later date
+  
+* Accounting practices
+  * Insiders shouldn't reimburse themselves
+  * We don't track the workflow of reimbursements
+    * Who approved what, when
+    * Currently this info is stored in RT comments
+
+* Ref Martin Michlmayr's email to Sophie on process for SPI reimbursements
+
+#### 1:00pm Break for lunch
+
+#### 2:25pm Discussion of questions to present to Mishi on Saturday
+
+#### 2:50pm Discussion about Code of Conduct
+
+* Purpose of Code of Conduct
+  * Reduce liability and exposure for SPI
+  * Pursue charitable mission of SPI
+  
+* Agreed that SPI should have it's own Code of Conduct for internal use
+
+* Will contact Sage Sharp and Val Aurora for possible code of conduct
+  consulting. Likely scope:
+  * SPI's own code of conduct for activities directly within an SPI conduct
+  * How to handle the question of code of conduct
+    requirements/expectations within project communities, both for
+    existing projects and new projects, taking into account both where
+    we are now and where we want to move toward.
+  * Help on convincing members to be okay with this, and on addressing
+    their concerns
+
+#### 3:30pm Q&A session with Mishi
+
+#### 4:10pm Adjourn for the day
+
+### Saturday October 6th 2018
+
+#### 10:30am Opening
+
+#### 10:40am Code of conduct/liability discussion
+
+* We are likely not liable for what projects do on their own
+  * If we interfere enough to be construed as running the project then
+    maybe yes, but if we still stay hands off that is better e.g Privoxy link
+  
+* Still need to figure out what to do with leftover assets for
+  uncoorporative/unresponsive projects
+
+* Getting projects up to the same version of the associated project
+  agreement and additional policies
+
+#### 11:10am Staffing
+
+* Abgreed to encourage the tresury team to use Sabrina more for admin tasks
+
+#### 11:20am Reimbursement Deadlines
+
+  * For all reimbursement requests for expenses incurred on or before
+    2018-OCT-31, submit by 2019-MAR-31
+ 
+  * For reimbursement requests for expenses incurred on or after
+    2018-NOV-01, within 90 days of the expense (or the last expense of
+    a trip (to accommodate situations where travel and accommodation
+    is booked well in advance of the actual trip))
+ 
+  * Goal for reimbusement within 30 days, aim for 14 days 95% of the time.
+  
+  * Adjustments to process
+    * Don't hand-fill form - much easier to copy&paste instead of transcribing data by hand
+    * online form has been updated
+    * Some extra requirements for sending money to Taiwan, China or Brazil is required
+    
+#### 11:36am Move to accural-based accouting
+
+* It has been recommended we engage a professional bookkeeper
+
+* Not a big jump compared to our existing setup
+  * May need to do something special to switch over
+  * Engage some professional assistance, accountant familiar with non-profits (via NPCC)
+  * Board agrees to go accrual, possibly at beinning of 2019
+
+* Potential bookkeeping and accounting firm: Jitasa Group
+  * From https://www.npccny.org/membership/member-benefits/:
+
+     "Jitasa is the largest national bookkeeping and accounting service
+     provider dedicated solely to the nonprofit sector. Our name means
+     'The Spirit of Serving Others,' and we are passionate about
+     broadening nonprofit outreach. We offer bookkeeping and
+     accounting solutions that cater to every nonprofit, regardless of
+     size.  NPCC members receive one month of bookkeeping and
+     accounting services for free and 10% off our 990 preparation
+     services. To learn more visit www.jitasagroup.com."  
+
+* Conservancy has scripts they use with ledger (contributed to ledger
+  upstream by bradley) to export spreadsheets for auditors. They do
+  bookeeping internally.
+
+#### 12:00pm Strategy discussion
+
+* Need to be less reactive and more like a traditional board
+  * What is our mission?
+  * What are we trying to achieve?
+  
+* Hire some people to do the volunteer work that's being handled by the board now
+  * Accounting
+  * Legal
+  * Admin
+  
+* Permanent office manager/executive director/fundraiser?
+  * only part time?
+
+#### 12:30pm vote to replace systemd resolution with intended one
+
+* The proposal under consideration is to replace the resolution
+  succesfully passed in the [September board
+  meeting](../../../minutes/2018/2018-09-10) where an old version of
+  the resolution as accidentally posted to the SPI website and bvoted
+  on. The updated version was [re-accepted by Lennert
+  Poettering](http://lists.spi-inc.org/private/spi-private/2018-September/005373.html)
+  on behalf of the systemd project.
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
+
+#### 12:34pm Vote on resolution 2018-10-05.mcs.1 (Ameriprise banking resolution)
+
+* Proposal under consideration is [to update the Ameriprise Corporate
+  or Entity Resolution
+  form](http://lists.spi-inc.org/pipermail/spi-general/2018-October/003948.html)
+  with the typo fix of replacing "thsoe" with "those" in paragraph 4
+  of the main portion of the resolution.
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
+
+#### 12:45pm Code of conduct discussion/revising code of conduct
+
+* Editing and responding to Andrew Tridgell's edits
+
+#### 12:55pm Modification of board meeting time on IRC
+
+* IRC meeting times are optimised for board membrer attendance and
+  geography rather than for members and the public
+
+* If the balance of the board geography changes then we may revisit
+  the time
+
+* Consider phone call meetings as being more productive?
+
+* Consider extra Google Hangouts meetings for ad-hoc discussions?
+
+#### 3:00pm project survey discussion
+
+* Possible questions
+  * Move to 10% SPI cut to fund employing exec director
+    * What are specific benefits of this?
+    * 5% is actually pretty low compared to other organisations
+  * What fianncial data do projects want?
+  * One survey for project liasons, another for members
+
+#### 1:10pm Fundraising 
+
+* Discussion about the threshold for considering a project's share of
+  SPI income insufficient for the anount of effort and cost expended
+  by SPI
+
+* Professional fundraiser could help projects raise money
+  * Help with applications and expertise
+  
+* Direct fudning of SPI
+  * We can fundraise for donations to the SPI general fund, instead of
+    fundraising for projects and only receiving 5%
+
+#### 1:20pm strategy
+
+* Implement Val's action item updating mission statement and advice
+  about restrictinging our core acrtivity to better focus on
+  non-technical and financial tasks
+
+* Roadmap
+  * Something with dates to keep ourselves accountable
+  * 1/5/10 year goals
+    * Largely things we have already talked about above
+    * Possibly 5-10 year goal of bringingin in other 501(3)c organisations, projects who have left SPI
+    
+#### 1:40 Brand identity/logo
+
+* Agreed that we need a bit more formality behind a refresh of our brand identity
+  * New logo
+  * Website redesign
+  * Letterhead/slide template
+  * Doesn't have to be a heavyweight syper0-esxpensive thing
+  * NEed to come up with somne details on what we want re principles/ideas for a logo
+  * https://opensourcedesign.net/ a good place for requesting work
+  
+* How to assess someone to partner with
+
+* RFP process needed, Luca Filipozzi suggested to be responsible
+
+#### 2:00pm Break for lunch
+
+#### 3:06pm Managing outstanding items
+
+* [Tim Potter] do we want to use basecamp? It's useful and effective,
+  from a company that has done a lot of open source, but it's
+  proprietary and paid.
+  * [Michael Schultheiss] Some members might not want to work with it, being proprietary.
+  * [Tim Potter] We could still use it internally
+  * [Jimmy  Kaplowitz] Some projects and members might need to interact directly
+  * [Martin Michlmayr] some members want us to track things in public. What about RT?
+  * [Luca Filipozzi] Basecamp does more than RT. It is a ticket tracker and a wiki. RT is not a wiki.
+  * [Martin Michlmayr] maybe Phabricator, either hosted by Phacility
+    or locally.  More discussion about Phabricator vs RT, migration
+    and management options, prior art from Wikimedia's RT->Phab
+    migration, etc.
+
+* [Luca Filipozzi] Four threads   
+    * Better action item tracking  (can happen via RT with different usage)
+    * Desire for knowledge base (RT has no such thing)
+    * Public transparency (can happen selectively if we decide on the
+      necessary visibility criteria, can break privacy expectations
+      and be tricky & inelegant)
+    * Tech requirements based on the above
+    
+* Lots of experience in the board with succesfully using RT for very similiar usage
+
+* [Stephen Frost] effort of setup and maintaing tool must be less than the benefit we get from it
+
+* Focus on the first three items, about business, before we choose tech.
+
+* Decision: Tim Potter to investigate Phabricator in light of the above.
+
+#### 3:30pm Splitting load equitably amongst the board
+
+* Which tasks need to be done by various roles
+  * Need policies or at least a description of roles
+  
+* Diffusion of responsibility problem
+
+* A paid admin person could be used to handle incoming communications
+  and triage into a queue and assign a responder
+
+* Conservancy has a questionaire/checklist for potential new projects
+
+* [Michael Schultheiss] Treasury team model works well
+* [Martin Zobel-Helas] Impossible to make things truly fair
+* [Martin Zobel-Helas] Give metrics on tasks (e.g treasurer queue) completed during the month
+* [Luca Filipozzi] leverage the tools instead of relying on email back-and-forth
+* [Martin Zobel-Helas] Customers don't like ticket systems, especially if they aren't fixed or noticed at all
+  * [Luca Filipozzi] there are ways to behave in providing a service that don't undermine the ticketing system
+* [Stephen Frost] Reiteration of opinion about whether RT tickets are suitable for task tracking
+* [Luca Filipozzi] modern versions of RT have todo lists, repeat tickets, subtasks and other goodies
+* [Martin Zobel-Helas] We need to make a concrete list of tasks to assign to Sabrina
+* [Martin Michlmayr] Going through task listing process will inform
+  whether we need more bandwidth from Sabrina, an executive director,
+  or something else
+
+#### 4:15pm Discussion RT queue structure for optimising reimbursements on a per-project basis
+
+* [Luca Filipozzi] Splitting up reimbursement data to avoid information disclosure to the project liason
+  * Metadata in one PDF
+  * Supporting documentation in another PDF (encrypted)
+  
+* Requires some features that might not be present in [modern] RT
+
+* There are a few people who don't reveal their real names except to Schultheiss and Zobel-Helas
+
+#### 4:45pm Vote on authority to open and operate HSBC bank accounts
+
+[resolution?]
+
+<table><tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Martin Michlmayr</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</tbody></table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
+
+#### 4:50pm Going through task list
+
+* [Luca Filipozzi] Possible to put together a task list for a Sabrina-level person, but not a ED person
+* [Martin Michlmayr] SPI will remain a hobby without paid person
+* [Luca Filipozzi] Do we want an ED? An ED will inform how the board operates in the future 
+* [Luca Filipozzi] are we comitted to an ED? or still want to go down the ED path
+* [Martin Michlmayr] General manager role different from ED. perhaps we need a GM instead of ED?
+* [Martin Michlmayr] Need a day-to-day operations manager to assign tasks to other paid workers
+* [Luca Filipozzi] Job descriptions
+  * bookkeeper: accounting and other minutae
+  * administrator: day-to-day stuff
+  * general manager: d2d stuff for larger organisation
+  * executive director: strategy and goals
+* [Martin Michlmayr] Need someone to track the stuff and someone to do the stuff - they're successful roles
+* [Jimmy Kaplowitz] Can volunteer to push things along re ED/GM conversation to avoid not doing anything for another 12 months
+  * Need to schedule some separate meetings to solve this problem
+* [Martin Michlmayr] Board needs to be a tradtional board - oversight, goal setting and direction
+* [Luca Filipozzi] Our mission and requiremnts are hard to hire for (open source, plain text accounting, other freedom stuff)
+* General decision - Get some admin help now and move towards ED later
+* [Luca Filipozzi/Martin Michlmayr] Can hire two people to work together, eg pabs (administrator) and Sabrina (general stuff)
+* [Martin Zobel-Helas] Bring these two people to next f2f
+* [Jimmy Kaplowitz] To follow pending tasks from Zobel-Helas with
+  question answering from tpot to get reports published by November
+  meeting.
+
+#### Next Steps (Timeline, Actions, and Responsibility)
+
+  * Bylaw Vote (tpot) using existing software
+    * Give 30 days/four weeks for vote to take place
+    * Contact noodles 
+  * Update Associated Project Agreements and Policies
+    * preparation:
+    * Associated Project Agreement [FIXME]
+    * Associated Project Framework [FIXME]
+    * Expense & Reimbursement Policy [FIXME] and Procedure [Filipozzi]
+      * expenses must be submitted for reimbursement within 90-days of the expense (or of the last expense of a trip (to handle situations where travel and accmmodation expenses are incurred well in advance of the actual trip)
+      * travel expenses may only be submittted after the travel has occurred (eg: cannot seek reimbursement for travel expenses incurred in advance of the travel)
+    * Asset Management & Internal Controls Policy [FIXME]
+      * equipment paid for using funds held by SPI, become assets of SPI held in trust of the Associate Project
+      * for clarity, this includes equipment (such as a laptop) purchased by a member of an Associate Project but reimbursed using funds held by SPI
+    * Code of Conduct [Kaplowitz to follow up with Tridgell]
+      * Consultation:
+      * Implementation:
+  * Annual Report Process
+    * Associate Projects to provide their Annual Report ans Summary (Summary to be included SPI's Annual Report)
+    * SPI to survey Associated Projects regarding their satisfaction with SPI services
+  * Review of Minutes / Resolutions [Kaplowitz]
+    * ensure that all minutes are posted
+    * ensure that all resolutions are posted; change visual representation to indicated which are defunct
+  * Specific Tasks
+    * add 'accept PostgeSQL as Associated Project' resolution [Michlmayr]
+    * verify that our Registered Agent has updated contact information for executives [Schultheiss]
+    * logo revamp process, rfp, etc. [was Filipozzi, now Zobel-Helas]
+
