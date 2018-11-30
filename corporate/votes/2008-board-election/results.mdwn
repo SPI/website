@@ -146,7 +146,7 @@ __Total unique votes cast: 52, which is 12.87% of all possible votes.__
 
 <table border="1">
 <thead>
-<tr><th> </th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
 </thead>
 <tbody>
 <tr><th>A</th><td align="center">-</td><td align="center">34</td><td align="center">21</td><td align="center">38</td></tr>
@@ -162,7 +162,7 @@ For the above table, a row beats a column by N votes
 
 <table border="1">
 <thead>
-<tr><th> </th><th>A</th><th>B</th><th>C</th><th>D</th><td bgcolor="#9999ff">#</td></tr>
+<tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><td bgcolor="#9999ff">#</td></tr>
 </thead>
 <tbody>
 <tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99ff99">17</td><td align="center">-8</td><td align="center" bgcolor="#99ff99">26</td><td bgcolor="#9999ff">2</td></tr>
