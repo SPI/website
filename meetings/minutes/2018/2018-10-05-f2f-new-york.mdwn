@@ -65,7 +65,7 @@ __Registered guests present__
   * What level of donor information can we expose to the public and projects?
      * Agreed that it's uncontroversial to provide per month totals
   * Martin Michlmayr suggests we need a donation platform
-  * Problens with current donation policy
+  * Problems with current donation policy
     * Very broad
     * Non-binding
     * Not visible via PayPal donation workflow
@@ -75,17 +75,17 @@ __Registered guests present__
     * Survey of wants and needs for projects
   * Action items
     * Tim Potter to start generating monthly per-project data
-    * Also to documnt process for monthly/weekly scraping and reconciliation
+    * Also to document process for monthly/weekly scraping and reconciliation
     * And update access-helper config (PayPal passwords encoded with access)
     
 #### 11:15am Governance discussion
 
-* Martin Michlmayr pointed out that we are still m2aking more promises
+* Martin Michlmayr pointed out that we are still making more promises
   than we keep in regard to governance.
 
 * What is our liability with regard with the activity of associated projects?
 
-* Need to work on reimbusement policy
+* Need to work on reimbursement policy
 
 * Code of Conduct
 
@@ -94,11 +94,11 @@ __Registered guests present__
 * Reimbursement process
   * Andrew Tridgell has written a new reimbursement script/form
   * Action items
-    * Michael Schultheiss to update docuemntation for new reimbursement process
+    * Michael Schultheiss to update documentation for new reimbursement process
     
 #### 11:43am IT Luca
 
-* Question on the table is what are the board's preferences around VMs vs ServerLess?
+* Question on the table is what are the board's preferences around VMs vs serverless?
 
 * Tim Potter
   * Consider using Amazon VMs or similar instead of dedicated hw
@@ -178,14 +178,14 @@ __Registered guests present__
 
 * Luca Filipozzi
   * Who owns the lists and who manages them and such
-  * Prefer Simpa to Mailman, able to set up rules in a simple language which can be used
+  * Prefer Sympa to Mailman, able to set up rules in a simple language which can be used
   * Was able to be used to prevent a lot of spam
   * Allows for sender confirmation
   * Would reduce the need for moderation
   * Torn between supporting OSS and the choice to use SASS offerings
   * If every service had a solution which could be OSS but we pay for it, that's middle ground
   * Consistency of opinion is helpful
-  * Previously was trying to have a seperation of concern with independent VMs
+  * Previously was trying to have a separation of concern with independent VMs
   * Only really need a VM
   * We provide currently DNS to some projects
   * There had been ideas of providing more capabilities to associated projects
@@ -216,14 +216,14 @@ __Registered guests present__
   * Once we say we want RT, we basically bring everything else along with it
     * Are we locked into RT?
     * Will discuss RT later in agenda
-  * Once down to a reasonable number of VMs with terraform/ansible, should be reasonable to manage
+  * Once down to a reasonable number of VMs with terraform/Ansible, should be reasonable to manage
 
 * Martin Michlmayr
   * Might disagree with email wrt libreoffice
 
 #### 12:15pm Reimbursement and accounting discussion
 
-* We need some policies around both reimbusements and accounting practices
+* We need some policies around both reimbursements and accounting practices
 
 * Reimbursements
   * We don't have an official expense policy and we need one
@@ -277,14 +277,14 @@ __Registered guests present__
     maybe yes, but if we still stay hands off that is better e.g Privoxy link
   
 * Still need to figure out what to do with leftover assets for
-  uncoorporative/unresponsive projects
+  uncooperative/unresponsive projects
 
 * Getting projects up to the same version of the associated project
   agreement and additional policies
 
 #### 11:10am Staffing
 
-* Abgreed to encourage the tresury team to use Sabrina more for admin tasks
+* Agreed to encourage the treasury team to use Sabrina more for admin tasks
 
 #### 11:20am Reimbursement Deadlines
 
@@ -296,21 +296,21 @@ __Registered guests present__
     a trip (to accommodate situations where travel and accommodation
     is booked well in advance of the actual trip))
  
-  * Goal for reimbusement within 30 days, aim for 14 days 95% of the time.
+  * Goal for reimbursement within 30 days, aim for 14 days 95% of the time.
   
   * Adjustments to process
     * Don't hand-fill form - much easier to copy&paste instead of transcribing data by hand
     * online form has been updated
     * Some extra requirements for sending money to Taiwan, China or Brazil is required
     
-#### 11:36am Move to accural-based accouting
+#### 11:36am Move to accrual-based accounting
 
 * It has been recommended we engage a professional bookkeeper
 
 * Not a big jump compared to our existing setup
   * May need to do something special to switch over
   * Engage some professional assistance, accountant familiar with non-profits (via NPCC)
-  * Board agrees to go accrual, possibly at beinning of 2019
+  * Board agrees to go accrual, possibly at beginning of 2019
 
 * Potential bookkeeping and accounting firm: Jitasa Group
   * From https://www.npccny.org/membership/member-benefits/:
@@ -325,8 +325,8 @@ __Registered guests present__
      services. To learn more visit www.jitasagroup.com."  
 
 * Conservancy has scripts they use with ledger (contributed to ledger
-  upstream by bradley) to export spreadsheets for auditors. They do
-  bookeeping internally.
+  upstream by Bradley) to export spreadsheets for auditors. They do
+  bookkeeping internally.
 
 #### 12:00pm Strategy discussion
 
@@ -345,9 +345,9 @@ __Registered guests present__
 #### 12:30pm vote to replace systemd resolution with intended one
 
 * The proposal under consideration is to replace the resolution
-  succesfully passed in the [September board
+  successfully passed in the [September board
   meeting](../../../minutes/2018/2018-09-10) where an old version of
-  the resolution as accidentally posted to the SPI website and bvoted
+  the resolution as accidentally posted to the SPI website and voted
   on. The updated version was [re-accepted by Lennert
   Poettering](http://lists.spi-inc.org/private/spi-private/2018-September/005373.html)
   on behalf of the systemd project.
@@ -388,7 +388,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
 #### 12:55pm Modification of board meeting time on IRC
 
-* IRC meeting times are optimised for board membrer attendance and
+* IRC meeting times are optimised for board member attendance and
   geography rather than for members and the public
 
 * If the balance of the board geography changes then we may revisit
@@ -404,33 +404,33 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * Move to 10% SPI cut to fund employing exec director
     * What are specific benefits of this?
     * 5% is actually pretty low compared to other organisations
-  * What fianncial data do projects want?
-  * One survey for project liasons, another for members
+  * What financial data do projects want?
+  * One survey for project liaisons, another for members
 
 #### 1:10pm Fundraising 
 
 * Discussion about the threshold for considering a project's share of
-  SPI income insufficient for the anount of effort and cost expended
+  SPI income insufficient for the amount of effort and cost expended
   by SPI
 
 * Professional fundraiser could help projects raise money
   * Help with applications and expertise
   
-* Direct fudning of SPI
+* Direct funding of SPI
   * We can fundraise for donations to the SPI general fund, instead of
     fundraising for projects and only receiving 5%
 
 #### 1:20pm strategy
 
 * Implement Val's action item updating mission statement and advice
-  about restrictinging our core acrtivity to better focus on
+  about restricting our core activity to better focus on
   non-technical and financial tasks
 
 * Roadmap
   * Something with dates to keep ourselves accountable
   * 1/5/10 year goals
     * Largely things we have already talked about above
-    * Possibly 5-10 year goal of bringingin in other 501(3)c organisations, projects who have left SPI
+    * Possibly 5-10 year goal of bringing in other 501(3)c organisations, projects who have left SPI
     
 #### 1:40 Brand identity/logo
 
@@ -438,8 +438,8 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * New logo
   * Website redesign
   * Letterhead/slide template
-  * Doesn't have to be a heavyweight syper0-esxpensive thing
-  * NEed to come up with somne details on what we want re principles/ideas for a logo
+  * Doesn't have to be a heavyweight super-expensive thing
+  * Need to come up with some details on what we want re principles/ideas for a logo
   * https://opensourcedesign.net/ a good place for requesting work
   
 * How to assess someone to partner with
@@ -460,7 +460,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * [Luca Filipozzi] Basecamp does more than RT. It is a ticket tracker and a wiki. RT is not a wiki.
   * [Martin Michlmayr] maybe Phabricator, either hosted by Phacility
     or locally.  More discussion about Phabricator vs RT, migration
-    and management options, prior art from Wikimedia's RT->Phab
+    and management options, prior art from Wikimedia's RT->Phabricator,
     migration, etc.
 
 * [Luca Filipozzi] Four threads   
@@ -471,9 +471,9 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
       and be tricky & inelegant)
     * Tech requirements based on the above
     
-* Lots of experience in the board with succesfully using RT for very similiar usage
+* Lots of experience in the board with successfully using RT for very similar usage
 
-* [Stephen Frost] effort of setup and maintaing tool must be less than the benefit we get from it
+* [Stephen Frost] effort of setup and maintaining tool must be less than the benefit we get from it
 
 * Focus on the first three items, about business, before we choose tech.
 
@@ -489,7 +489,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 * A paid admin person could be used to handle incoming communications
   and triage into a queue and assign a responder
 
-* Conservancy has a questionaire/checklist for potential new projects
+* Conservancy has a questionnaire/checklist for potential new projects
 
 * [Michael Schultheiss] Treasury team model works well
 * [Martin Zobel-Helas] Impossible to make things truly fair
@@ -506,7 +506,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
 #### 4:15pm Discussion RT queue structure for optimising reimbursements on a per-project basis
 
-* [Luca Filipozzi] Splitting up reimbursement data to avoid information disclosure to the project liason
+* [Luca Filipozzi] Splitting up reimbursement data to avoid information disclosure to the project liaison
   * Metadata in one PDF
   * Supporting documentation in another PDF (encrypted)
   
@@ -534,19 +534,19 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 * [Luca Filipozzi] Possible to put together a task list for a Sabrina-level person, but not a ED person
 * [Martin Michlmayr] SPI will remain a hobby without paid person
 * [Luca Filipozzi] Do we want an ED? An ED will inform how the board operates in the future 
-* [Luca Filipozzi] are we comitted to an ED? or still want to go down the ED path
+* [Luca Filipozzi] are we committed to an ED? or still want to go down the ED path
 * [Martin Michlmayr] General manager role different from ED. perhaps we need a GM instead of ED?
 * [Martin Michlmayr] Need a day-to-day operations manager to assign tasks to other paid workers
 * [Luca Filipozzi] Job descriptions
-  * bookkeeper: accounting and other minutae
+  * bookkeeper: accounting and other minutiae
   * administrator: day-to-day stuff
   * general manager: d2d stuff for larger organisation
   * executive director: strategy and goals
 * [Martin Michlmayr] Need someone to track the stuff and someone to do the stuff - they're successful roles
 * [Jimmy Kaplowitz] Can volunteer to push things along re ED/GM conversation to avoid not doing anything for another 12 months
   * Need to schedule some separate meetings to solve this problem
-* [Martin Michlmayr] Board needs to be a tradtional board - oversight, goal setting and direction
-* [Luca Filipozzi] Our mission and requiremnts are hard to hire for (open source, plain text accounting, other freedom stuff)
+* [Martin Michlmayr] Board needs to be a traditional board - oversight, goal setting and direction
+* [Luca Filipozzi] Our mission and requirements are hard to hire for (open source, plain text accounting, other freedom stuff)
 * General decision - Get some admin help now and move towards ED later
 * [Luca Filipozzi/Martin Michlmayr] Can hire two people to work together, eg pabs (administrator) and Sabrina (general stuff)
 * [Martin Zobel-Helas] Bring these two people to next f2f
@@ -564,8 +564,8 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
     * Associated Project Agreement [FIXME]
     * Associated Project Framework [FIXME]
     * Expense & Reimbursement Policy [FIXME] and Procedure [Filipozzi]
-      * expenses must be submitted for reimbursement within 90-days of the expense (or of the last expense of a trip (to handle situations where travel and accmmodation expenses are incurred well in advance of the actual trip)
-      * travel expenses may only be submittted after the travel has occurred (eg: cannot seek reimbursement for travel expenses incurred in advance of the travel)
+      * expenses must be submitted for reimbursement within 90-days of the expense (or of the last expense of a trip (to handle situations where travel and accommodation expenses are incurred well in advance of the actual trip)
+      * travel expenses may only be submitted after the travel has occurred (eg: cannot seek reimbursement for travel expenses incurred in advance of the travel)
     * Asset Management & Internal Controls Policy [FIXME]
       * equipment paid for using funds held by SPI, become assets of SPI held in trust of the Associate Project
       * for clarity, this includes equipment (such as a laptop) purchased by a member of an Associate Project but reimbursed using funds held by SPI
@@ -573,7 +573,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
       * Consultation:
       * Implementation:
   * Annual Report Process
-    * Associate Projects to provide their Annual Report ans Summary (Summary to be included SPI's Annual Report)
+    * Associate Projects to provide their Annual Report and Summary (Summary to be included SPI's Annual Report)
     * SPI to survey Associated Projects regarding their satisfaction with SPI services
   * Review of Minutes / Resolutions [Kaplowitz]
     * ensure that all minutes are posted
