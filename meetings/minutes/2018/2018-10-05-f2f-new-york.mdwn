@@ -39,7 +39,7 @@ __Registered guests present__
 
 ## Summary
 
-### Friday October 5th 2018
+### Friday, October 5th 2018
 
 #### 11:00am Opening by President
 
@@ -57,13 +57,13 @@ __Registered guests present__
   * Approx $2.4M cash on hand
   * SPI general fund now $390K
 
-* There was a request for more information from Mark Atwood regarding
+* There was a request for more information for Mark Atwood regarding
   a single large NTPsec expense already paid by SPI.
 
 * Status on the generation of per-project donation information
-  * Andrew Tridgell has extended process_transactions.py to generate CSV output
+  * Andrew Tridgell has extended `process_transactions.py` to generate CSV output
   * What level of donor information can we expose to the public and projects?
-     * Agreed that it's uncontroversial to provide per month totals
+    * Agreed that it's uncontroversial to provide per month totals
   * Martin Michlmayr suggests we need a donation platform
   * Problems with current donation policy
     * Very broad
@@ -95,13 +95,13 @@ __Registered guests present__
   * Andrew Tridgell has written a new reimbursement script/form
   * Action items
     * Michael Schultheiss to update documentation for new reimbursement process
-    
+
 #### 11:43am IT Luca
 
 * Question on the table is what are the board's preferences around VMs vs serverless?
 
 * Tim Potter
-  * Consider using Amazon VMs or similar instead of dedicated hw
+  * Consider using Amazon VMs or similar instead of dedicated hardware
   * Be nice to FOSS related things but if there's a SASS product that
     looks good, for whatever, then that may make sense to do
   * If the choice is not having something or a poor solution and
@@ -120,14 +120,14 @@ __Registered guests present__
   * Preference towards OSS but could be a lot of work
 
 * Martin Zobel-Helas
-  * Lots of work to run donated hw
+  * Lots of work to run donated hardware
   * Keeping all the mail, VMs, etc, working and up to date  
   * Should think about having a commercial service to take care of
     things, patches, etc
   * Agree w/ Martin Michlmayr that when it comes to personal data, donations,
     project expenses, etc, should be on systems we control
   * Aim for OSS for donations, etc
-  * If there is a OSS option as a SASS then that could be good
+  * If there is an OSS option as a SASS then that could be good
 
 * Jimmy Kaplowitz
   * Very busy already
@@ -157,8 +157,8 @@ __Registered guests present__
 
 * Luca Filipozzi
   * Doesn't like anything we currently run due to it being old and crufty
-  * Currently running on donated hw on VMs
-  * Want to get rid of donated hw and move to VMs on other hardware
+  * Currently running on donated hardware on VMs
+  * Want to get rid of donated hardware and move to VMs on other hardware
   * Rather buy VMs than be beholden to anyone
   * Not have to be involved in talking to providers
   * If you want to run your own RT instance then everything else kinda drives it
@@ -216,10 +216,10 @@ __Registered guests present__
   * Once we say we want RT, we basically bring everything else along with it
     * Are we locked into RT?
     * Will discuss RT later in agenda
-  * Once down to a reasonable number of VMs with terraform/Ansible, should be reasonable to manage
+  * Once down to a reasonable number of VMs with Terraform/Ansible, should be reasonable to manage
 
 * Martin Michlmayr
-  * Might disagree with email wrt libreoffice
+  * Might disagree with email with regards to LibreOffice
 
 #### 12:15pm Reimbursement and accounting discussion
 
@@ -227,7 +227,7 @@ __Registered guests present__
 
 * Reimbursements
   * We don't have an official expense policy and we need one
-  * Look at existing policies - SFC too strict, Luca's University has an existing policy which is more flexible
+  * Look at existing policies -- SFC too strict, Luca's University has an existing policy which is more flexible
   * What to do with expense receipts not in a language we can read?
   * Don't want to give board or projects too much extra work
   * Need to consider having to be audited at a later date
@@ -299,7 +299,7 @@ __Registered guests present__
   * Goal for reimbursement within 30 days, aim for 14 days 95% of the time.
   
   * Adjustments to process
-    * Don't hand-fill form - much easier to copy&paste instead of transcribing data by hand
+    * Don't hand-fill form -- much easier to copy&paste instead of transcribing data by hand
     * online form has been updated
     * Some extra requirements for sending money to Taiwan, China or Brazil is required
     
@@ -401,7 +401,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 #### 3:00pm project survey discussion
 
 * Possible questions
-  * Move to 10% SPI cut to fund employing exec director
+  * Move to 10% SPI cut to fund employing executive director
     * What are specific benefits of this?
     * 5% is actually pretty low compared to other organizations
   * What financial data do projects want?
@@ -542,13 +542,13 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * administrator: day-to-day stuff
   * general manager: d2d stuff for larger organization
   * executive director: strategy and goals
-* [Martin Michlmayr] Need someone to track the stuff and someone to do the stuff - they're successful roles
+* [Martin Michlmayr] Need someone to track the stuff and someone to do the stuff -- they're successful roles
 * [Jimmy Kaplowitz] Can volunteer to push things along re ED/GM conversation to avoid not doing anything for another 12 months
   * Need to schedule some separate meetings to solve this problem
-* [Martin Michlmayr] Board needs to be a traditional board - oversight, goal setting and direction
+* [Martin Michlmayr] Board needs to be a traditional board -- oversight, goal setting and direction
 * [Luca Filipozzi] Our mission and requirements are hard to hire for (open source, plain text accounting, other freedom stuff)
-* General decision - Get some admin help now and move towards ED later
-* [Luca Filipozzi/Martin Michlmayr] Can hire two people to work together, eg pabs (administrator) and Sabrina (general stuff)
+* General decision -- Get some admin help now and move towards ED later
+* [Luca Filipozzi/Martin Michlmayr] Can hire two people to work together, e.g. pabs (administrator) and Sabrina (general stuff)
 * [Martin Zobel-Helas] Bring these two people to next f2f
 * [Jimmy Kaplowitz] To follow pending tasks from Zobel-Helas with
   question answering from tpot to get reports published by November
@@ -558,14 +558,14 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
   * Bylaw Vote (tpot) using existing software
     * Give 30 days/four weeks for vote to take place
-    * Contact noodles 
+    * Contact Jonathan McDowell
   * Update Associated Project Agreements and Policies
     * preparation:
     * Associated Project Agreement [FIXME]
     * Associated Project Framework [FIXME]
     * Expense & Reimbursement Policy [FIXME] and Procedure [Filipozzi]
       * expenses must be submitted for reimbursement within 90-days of the expense (or of the last expense of a trip (to handle situations where travel and accommodation expenses are incurred well in advance of the actual trip)
-      * travel expenses may only be submitted after the travel has occurred (eg: cannot seek reimbursement for travel expenses incurred in advance of the travel)
+      * travel expenses may only be submitted after the travel has occurred (e.g. cannot seek reimbursement for travel expenses incurred in advance of the travel)
     * Asset Management & Internal Controls Policy [FIXME]
       * equipment paid for using funds held by SPI, become assets of SPI held in trust of the Associate Project
       * for clarity, this includes equipment (such as a laptop) purchased by a member of an Associate Project but reimbursed using funds held by SPI
