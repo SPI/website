@@ -1,0 +1,233 @@
+19:59 < Hydroxide> *GAVEL*
+19:59 < Hydroxide> 1. Opening
+19:59 < Hydroxide> The December 10, 2018 meeting of Software in the Public Interest, Inc. is hereby called to order. The agenda is at: http://www.spi-inc.org/meetings/agendas/2018/2018-12-10/
+19:59 < Hydroxide> oops, one minute early. ah well :) will wait for the roll call
+20:00 < Hydroxide> 2. Roll Call
+20:00 < Hydroxide> Members of the board of directors in attendance, please state your name for the record. Other attendees who wish to be registered in the minutes, please /msg tpot with your name.
+20:00 < Hydroxide> Jimmy Kaplowitz
+20:00 < zobel> Martin Zobel-Helas
+20:00 < tpot> TIm Potter
+20:00 < schultmc> Michael Schultheiss
+20:00 < tridge> Andrew Tridgell
+20:00 < tbm> Martin Michlmayr
+20:01 < zobel> quorum at least.
+20:01 < Hydroxide> yeah. luca, xnox?
+20:01 < tpot> Apologies from xnox - travelling
+20:01 < Hydroxide> ah right. and tentative regrets from Snow-Man as well.
+20:01 < zobel> do we want to signal luca?
+20:02 < Hydroxide> sure, I'll do that then proceed
+20:02 < zobel> k
+20:02 < zobel> and probably no WiFi for Snow-Man while take-off...
+20:02 < Hydroxide> yeah. proceeding.
+20:02 < Hydroxide> 3. President's report
+20:02 < Hydroxide> I don't have a lot to report this month; most time was spent on US holiday stuff, being sick, and starting a new day job.
+20:03 < Hydroxide> I'm at least pleased to report that the new job (with Plotly) doesn't add a conflict of interest with SPI and seems supportive of my continued involvement. I'll pay attention to my level of availability going forward and will make any necessary adjustments.
+20:03 < Hydroxide> [done]
+20:03 < Hydroxide> Waiting a brief moment for any questions or comments before proceeding to the next item.
+20:03 < xnox> Dimitri John Ledkov
+20:03  * xnox managed to get past the wifi portals
+20:03 < Hydroxide> yay, hi xnox :)
+20:03 < Hydroxide> 4. Treasurer's report
+20:03 < Hydroxide> schultmc?
+20:04 < schultmc> zobel and I are continuing to work on outstanding treasurer tasks and hope to be caught up shortly.
+20:04 < tbm> I don't see much progress on monthly reports. Anyone working on that?
+20:04 < schultmc> I'm done with $DAYJOB for the year as of 2018-12-14 and will have more time to work on outstanding issues
+20:04 < rtyler> \o/
+20:04 < xnox> whoop whoop
+20:04 < Hydroxide> schultmc: was the 990 filed? I see in the november 12 minutes that it was about to happen but I don't remember whether it did
+20:04 < schultmc> as I understand it the paypal import is the last sticking point
+20:05 < tpot> Ditto for for me- I've done a few months of 2018 and hoping to get things done before the end of 2018
+20:05 < schultmc> xnox was helpful with ledger in the past - not sure about his availability
+20:05 < schultmc> our 990 and char500 (NYS) were filed on time
+20:05 < Hydroxide> thanks
+20:05 < tbm> schultmc: please upload the 990 to the web site
+20:05 < schultmc> will do
+20:05 < xnox> if paypal importer help is needed, i can spend time with it. I'm sure it has changed and added more transactions.
+20:06 < tridge> I did a bit on the currency issues with paypal
+20:06 < Hydroxide> great, that would be useful xnox
+20:06 < tridge> tpot: did you see my msg on that?
+20:06 < tbm> I think the hard (and time consuming) part is doing reconciliations for PayPal.
+20:06 < tpot> yes, thanks tridge. i haven't gone over the code just yet.
+20:06 < tbm> I'm not sure it's just PayPal though. Transactions need to be important for recent months and tagged properly
+20:06 < zobel> i am on paid work holiday from saturday onwards. can we have a conf call with xnox (maybe with screen sharing) to get around faster?
+20:07  * xnox is in AUS, so timezones are interesting.
+20:07 < Hydroxide> that lines up well with tridge and tpot at least :)
+20:07 < tpot> heh
+20:07 < tridge> maybe a g+ hangout?
+20:08 < zobel> i am flexible. i could work into very late night next week.
+20:08  * schultmc can be available for a conf call
+20:08 < schultmc> g+ or gotomeeting
+20:08 < Hydroxide> use any conf call technology you reasonably want - our SPI accounts do have gratis access to google meet, the current enterprise google hangouts video thingy
+20:08 < Hydroxide> tpot and I used it once
+20:09 < Hydroxide> other discussion on this topic that should happen during this meeting agenda item?
+20:09 < zobel> okay, can we proceed with the meeting now, and after this meeting maybe agree od a date/time?
+20:09 < tbm> Checks from TMB need to be added. That requires some time
+20:09 < zobel> tbm: that i can do during daytime next week.
+20:10 < zobel> but yes.
+20:10 < Hydroxide> xnox, schultmc, tpot, tridge: does zobel's idea to chat right after the meeting work for you? (I can't stay after but I'm not needed on this conf call)
+20:10 < Hydroxide> s/chat/schedule the chat/
+20:10 < tridge> I can't do it today, sorry
+20:10 < xnox> i am available
+20:10 < tridge> tuesdays are my bad day
+20:11 < zobel> tridge: just to agree a date for next weeks conf call. not to have that today.
+20:11 < Hydroxide> yeah, I realize the ambiguity after my initial phrasing. sed expressions on IRC only sort of work ... :)
+20:11 < schultmc> I can schedule after the meeting
+20:11 < tpot> ditto
+20:11 < Hydroxide> ok, sounds like there will be useful scheduling after the meeting, so let's proceed
+20:11 < Hydroxide> 5. Secretary's report
+20:11 < Hydroxide> tpot?
+20:11 < tpot> Up to date on minutes including face-to-face minutes from New York meeting. Started work on bylaws vote. Still planning to have this happen mid-January 2019.
+20:12 < tpot> .
+20:12 < Hydroxide> yay up to date on minutes!
+20:12 < Hydroxide> questions or comments for tpot before we proceed to minutes?
+20:12 < tridge> zobel: sure, ok
+20:13 < tbm> My comment from earlier today got incorporated, so I'm ok with the minutes
+20:13 < Hydroxide> 6. Outstanding minutes
+20:13 < Hydroxide> We have two sets to vote on today.
+20:13 < Hydroxide> 6.1. Face-to-face meeting, 5th-6th October 2018
+20:13 < tbm> I made some minor edits previously
+20:13 < tpot> thanks everyone for edits and suggestions
+20:13 < Hydroxide> thanks for preparing such a massive minutes!
+20:14 < Hydroxide> any discussion? (tpot start the vote whenever you feel discussion is done or not happening)
+20:14 < tpot> Voting started, 8 people (hydroxide,tbm,zobel,tpot,schultmc,schultmc,tridge,xnox) allowed to vote on Accept minutes for Face-to-face meeting in New York, 5th-6th October 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:15 < Hydroxide> !vote yes
+20:15 < tridge> !vote yes
+20:15 < tpot> !vote yes
+20:15 < xnox> !vote abstain
+20:15 < zobel> !vote yes
+20:15 < schultmc> !vote yes
+20:15 < tridge> damn, that one should be abstrain
+20:15 < tridge> !vote abstain
+20:15 < tpot> we'll see whether that works...
+20:15 < Hydroxide> hopping on the abstain train
+20:15 < tbm> !vote yes
+20:15 < zobel> tpot: that works
+20:15 < tpot> Current voting results for "Accept minutes for Face-to-face meeting in New York, 5th-6th October 2018": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+20:16 < tpot> Voting for "Accept minutes for Face-to-face meeting in New York, 5th-6th October 2018" closed.
+20:16 < Hydroxide> cool, passes
+20:16 < Hydroxide> 6.2. Monday, 12th November 2018
+20:16 < zobel> wait.
+20:16 < Hydroxide> waiting
+20:16 < zobel> 8 persons allowed to wwhote 5+2 are 7
+20:16 < zobel> so who is missing?
+20:16 < zobel> s/wwhote/vote/
+20:16 < Hydroxide> schultmc was listed twice
+20:16 < Hydroxide> in the list of allowed people
+20:16 < zobel> ah
+20:16 < tpot> whoops - sorry
+20:17 < Hydroxide> we only have 7 directors in attendance currently.
+20:17 < zobel> okay, then i am fine.
+20:17 < zobel> proceed.
+20:17 < Hydroxide> great. proceeding to the November 12 minutes. any discussion before the vote?
+20:17 < Hydroxide> this one is a more routine IRC meeting.
+20:18 < tpot> Voting started, 7 people (hydroxide,tbm,zobel,tpot,schultmc,tridge,xnox) allowed to vote on Accept minutes for SPI board meeting on Monday, 12th November 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:18 < Hydroxide> !vote yes
+20:18 < tbm> !vote yes
+20:18 < xnox> !vote yes
+20:18 < tridge> !vote yes
+20:18 < schultmc> !vote yes
+20:18 < tpot> !vote yes
+20:18 < zobel> !vote abstain
+20:18 < tpot> Current voting results for "Accept minutes for SPI board meeting on Monday, 12th November 2018": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:18 < tpot> Voting for "Accept minutes for SPI board meeting on Monday, 12th November 2018" closed.
+20:18 < tpot> Thanks everyone
+20:19 < Hydroxide> vote passes.
+20:19 < Hydroxide> 7. Items up for discussion
+20:19 < Hydroxide> 7.1. Spring face-to-face meeting
+20:19  * schultmc submitted his passport renewal - I should be able to travel anywhere we select during the listed options
+20:19 < Hydroxide> tbm has been helpfully spearheading this conversation, but I think the idea is to choose a date if we are going to proceed with this, and confirm that we think it's worthwhile to do so
+20:20 < tpot> Who are we missing responding to the doodle poll?
+20:20 < tbm> Yeah, I've had soem trouble getting people to confirm. Maybe we should step back a minute to discuss whether it's worthwhile
+20:20 < tbm> tpot: we have everyone now
+20:20 < tpot> It's very worthwhile for getting treasurer/finance stuff done
+20:21 < zobel> tpot: that was me not answering becasue ETOOBUSY
+20:21 < schultmc> the f2f is very beneficial for getting dedicated time to work on treasury tasks. in person board meetings are also productive
+20:21 < Hydroxide> tpot: do you think the second one in a year also worthwhile as a board meeting or only as a treasurer/finance sprint?
+20:22 < tbm> I see two strongs points: treasurer sprint to close 2018; board meeting to move forward on staffing discussing
+20:22 < zobel> i would like to strengthen the mail that tbm sent. i see that as very important...
+20:22 < tpot> The general meetings are still pretty useful but with a second one so close to the recent one I think we need a strong agenda and a list of decisions to make at the end.
+20:23 < zobel> tpot: the "get the books closed for 2018" is VERY strong in my opinion.
+20:24 < Hydroxide> zobel: I'm trying to differentiate between the treasury/finance sprint and the board meeting. I think we all 200% agree that the sprint is worthwhile. maybe the board meeting too, it's just more ambiguous
+20:25 < tbm> Yeah, I think there's no doubt the treasurer sprint is a good idea. The question is about the board meeting.
+20:25 < tbm> I think it makes sense to meet so we can discuss staffing and hopefully make some progress
+20:25 < tbm> but others might disagree
+20:25 < tpot> It doesn't sound like there are any disagreements.
+20:25 < Hydroxide> tpot summarized my thoughts well - the board meeting needs more than just a generally phrased item like "progress on staffing". however if we come up with a concrete and structured agenda on that topic where we can actually progress, that sounds more useful.
+20:26 < Hydroxide> I am certainly happy to meet, no problem in that regard.
+20:26 < tpot> If most of us are already at the same place for treasurer sprint then an extra day does not sound like too much cost.
+20:26 < tbm> Anyway, if we have a sprint plus board meeting, the best options are currently:
+20:27 < tbm> 1) 15 February - xnox can't make it
+20:27 < tbm> 1) 1 March - I indicated I can't, but I think I could make it work, although it's a lot of travel for me
+20:28 < tbm> this would mean treasurer sprint on 27+28 Feb
+20:28 < tbm> board meeting on March 1+2
+20:28 < tbm> (I should clarify; I should be able to make it if it's in NYC; not sure about Vancouver)
+20:29 < tpot> I'm happy with either location
+20:29 < xnox> On 17th February I need to be in Malta. Thus I can do like treasurer sprint without the board meeting. If that helps.
+20:29 < xnox> 27/28/1/2 is very nice for me.
+20:29 < Hydroxide> and my availability is subject to approval by my employer for the specific 2 days off I'll need, but I expect they'll say yes without a specific scheduling reason not to.
+20:30 < Hydroxide> it sounds like 27/28 (sprint) + 1/2 (meeting) allows us to have everyone present?
+20:30 < Hydroxide> and that we think this is worthwhile?
+20:30 < Hydroxide> so can we say this is decided?
+20:31 < schultmc> wfm
+20:32 < Hydroxide> great. now... which city, and who has time to arrange local logistics? I can't easily help with Vancouver or DC, and my ability to help with NYC is similar to several others.
+20:32 < zobel> modulo work does not deny me vacation on that, but i don't expect to have any issues with that.
+20:32 < tbm> for those dates I have a strong preference for NYC
+20:32 < tbm> I am happy to organize logistics unless tpot wants to do it
+20:33 < tpot> not particularly (-:
+20:34 < Hydroxide> does anyone want something other than "NYC on those dates, with tbm arranging logistics"?
+20:34 < zobel> i have no problems with that.
+20:34 < schultmc> only benefit of vancouver was ease of travel if we wanted sabrina to participate - I'm fine with NYC regardless
+20:34 < schultmc> plus I don't have to get state dept. approval to go to NYC ;)
+20:35 < Hydroxide> true :) I would almost suggest montreal for cheaper costs but it's very cold at that time of year and not everyone would be okay with that
+20:35 < Hydroxide> great, we can call the NYC plan decided
+20:36 < Hydroxide> I'll join the evening of the 28th in time for the march 1-2 board meeting. thanks tbm! other discussion on this item before we proceed?
+20:37 < Hydroxide> 8. Any other business
+20:37 < Hydroxide> Anyone?
+20:37 < tpot> me
+20:37 < Hydroxide> go ahead tpot
+20:37 < tpot> I have some notes/minutes of our (privileged) discussion with Mishi during the f2f.
+20:38 < tpot> Should I check into the board-private repo somewhere?
+20:38 < Hydroxide> that seems good. probably make sure it's clearly labeled as attorney/client privileged so we don't forget that
+20:38 < tpot> ok
+20:39 < zobel> regarding preperation for this meeting: i wonder if we want to do a conf call regarding the positions of leveling work to more paid positions (more or less the last topic ouf or f2f meeting).
+20:39 < zobel> so we do not have this longish discussion again in NYC.
+20:39 < Hydroxide> good idea.
+20:40 < tbm> something should talk to Virtual Inc, to find out what they could offer
+20:40 < Hydroxide> as for timing, would we simply want to replace the january board meeting with that conf call, if we want all of us to be able to attend?
+20:40 < tbm> so we know all the options when we meet in March
+20:41 < zobel> also did someone reach out to NCPP?
+20:41 < tbm> (for context, I forwarded some info to the board recently about ASF's use of Virtual Inc)
+20:41 < zobel> sorry, NPCC
+20:41 < tbm> I think we need a clear list of things we need
+20:41 < tbm> I know I'm repeating myself
+20:42 < Hydroxide> tbm: an org like Virtual Inc could be useful. I also mentioned that category of company during the f2f, giving Association Headquarters as another name I had interacted with before
+20:42 < tbm> a list of activities and responsibilities, as a starting point to figure out what we need
+20:42 < Hydroxide> but I don't think we're prepared to contact a company until we know what we want
+20:42 < tbm> Hydroxide: yeah, agreed
+20:44 < Hydroxide> zobel: you're talking about the physical address requirement for opening bank accounts? I think we discussed that enough with people like Karen to know there isn't any special arrangement available besides answers like renting a physical space or using a US residence of a board member; it's a pretty strict legal requirement. but we've managed to most of the accounts opened
+20:44 < zobel> no. it is also about accounting.
+20:45 < zobel> they had an offer with some company...
+20:45 < zobel> anyway. we are close to an hour. anything more we need to discuss?
+20:45 < Hydroxide> the offer from the accounting company already contacted us and we would contact directly, not indirectly through NPCC. but yes I think that is worth investigating
+20:46 < Hydroxide> nothing else on this from me, no. proceeding.
+20:46 < Hydroxide> 9. Next board meeting: January 14th, 2019, 20:00 UTC
+20:46 < Hydroxide> Does this time work for everyone, and do we want to do it as the conf call which zobel suggested, instead of a normal meeting?
+20:46 < Hydroxide> simply for ease of full attendance
+20:47 < tpot> ok with me
+20:47 < xnox> should be fine. i'll be back from AUS on the 8th.... and should recover from jetlag again by then.
+20:47 < tbm> I thought the conf call would be in addition
+20:47 < tbm> I think we should keep the monthly meetings on IRC
+20:48 < zobel> also fine with me.
+20:48 < Hydroxide> it could be in addition, but I don't see why other than our habit
+20:48 < Hydroxide> we don't have a lot foreseeable on the january meeting agenda
+20:48 < Hydroxide> and there's no legal obligation to meet 12 times per year.
+20:49 < tbm> Ok
+20:50 < Hydroxide> would we want the next regular IRC board meeting to be the regular february 11 slot, then?
+20:50 < Hydroxide> the f2f is halfway between two regular slots
+20:51 < tbm> Yeah
+20:51 < Hydroxide> ok, next SPI board meeting is 11th February, 2019, 20:00 UTC, right here on IRC. We will arrange a conf call during the 14 January 2019, 20:00 UTC slot
+20:51 < xnox> cool
+20:51 < tpot> Thanks everyone!
+20:51 < Hydroxide> which will not be an official board meeting but will let us discuss topics such as the workload question so that we can be prepared for NYC effectively
+20:52 < Hydroxide> thanks everyone!
+20:52 < Hydroxide> *GAVEL*
