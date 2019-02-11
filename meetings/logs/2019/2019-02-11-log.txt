@@ -1,0 +1,156 @@
+20:01 < zobel> shall we start?
+20:01 < xnox> Dimitri John Ledkov
+20:01 < tpot> Jimmy sends last minute apologies (release emergency at work)
+20:01 < xnox> zobel, do we have sound channel too? or just text?
+20:01  * xnox needs a minute for sound
+20:01 < schultmc> tpot: need me to run the meeting?
+20:02 < schultmc> no sound afaik
+20:02 < tpot> yes thanks
+20:02 < xnox> ok, then.
+20:02 < schultmc> *GAVEL*
+20:02 < schultmc> [item 1, Opening]
+20:02 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:02 < schultmc> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-02-11/
+20:02 < schultmc> [item 2, Roll Call]
+20:02 < schultmc> Directors, please state your name
+20:02 < schultmc> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+20:02 < tpot> Tim Potter
+20:02 < schultmc> Michael Schultheiss
+20:02 < tridge> Andrew Tridgell
+20:02 < tbm> Martin Michlmayr
+20:02 < zobel> Martin Zobel-Helas
+20:02 < Snow-Man> Stephen Frost
+20:03 < schultmc> we have regrets from Hydroxide and likely luca
+20:03 < xnox> Dimitri John Ledkov
+20:03 < schultmc> [item 3, President's Report]
+20:03 < schultmc> Hydroxide is absent
+20:03 < tpot> (I will need to see actual regrets to mark as an apology)
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> I am continuing to work with zobel on streamlining our reporting and hope to have the remaining outstanding reports released soon. We plan on having the reports released in the next 4 weeks, if not sooner.
+20:04 < tbm> Hydroxide sent an email re regrets
+20:04 < tbm> schultmc: what progress has there been since the last meeting?
+20:04 < Snow-Man> schultmc: if there's specific things that I can do to help w/ the outstanding reports, et al, pls lmk.
+20:05 < Snow-Man> atm it's unclear to me what needs doing
+20:05 < schultmc> tbm: aiui, we've got the paypal issues resolved
+20:05 < schultmc> I've been going through requests in RT to lessen the backlog there as well as updating ledger with details
+20:05 < zobel> schultmc: does that mean we can close the books for 2018 then?
+20:06 < zobel> schultmc: and as far as i remember we need the C&P per months fees done properly.
+20:06 < schultmc> zobel: I believe we're close on closing 2018.
+20:06 < xnox> yes
+20:06 < xnox> which i'm on the hook to do
+20:06 < zobel> but yes, beside those two, we should be able to do.
+20:06 < tbm> can someone create a TODO lis so Snow-Man and others can help and we know where we're at?
+20:07 < schultmc> we do have an in person treasurer sprint in late february/early march
+20:07 < Snow-Man> if we know what needs doing, we might as well make a list in advance of that
+20:07 < tbm> the balance tests also need updates (verifiying balancing of books against PDF statements)
+20:07 < Snow-Man> ideally one w/ enough specifics that it's actionable..
+20:07 < tbm> PayPal needs reconciliations
+20:07 < zobel> schultmc: we want that before that. xorg for example will request end of year statement in 2w from now. as by their constitution.
+20:08 < schultmc> zobel: understood
+20:09 < schultmc> any other treasury topics?
+20:09 < zobel> beside that: i just downloaded 2019-01 raw data a few minutes ago and start importing them into ledger after this meeting.
+20:09 < tbm> who will create a TODO list?
+20:09 < schultmc> I'll work with zobel on a TODO list
+20:10 < schultmc> [item 5, Secretary's report]
+20:10 < schultmc> tpot?
+20:10 < tpot> Things are in motion for the by-laws vote. Working on the wording of the vote information to input to the system and hopefully Snow-Man helping out to generate the first round of member notification emails. Vote proposed to run from sometime this week to March 15th.
+20:11 < tpot> (approximately)
+20:11 < tpot> .
+20:11 < luca> luca filipozzi
+20:11 < zobel> yay \o/ 
+20:11 < zobel> to both luca and the by-laws vote!
+20:11 < luca> i'm in an ERP workshop so may be a little distracted
+20:11 < schultmc> [item 6, Outstanding minutes]
+20:11 < schultmc> The minutes for 2018-12-10 require approval.
+20:11 < schultmc> They can be found at http://spi-inc.org/meetings/minutes/2018/2018-12-10/
+20:12 < tpot> I only uploaded them yesterday so please take a minute to go over them if you haven't read them before the meeting.
+20:12 < tbm> I fixed one problem in the minutes. It would be good if someone else could verify the change
+20:12 < tbm> one of the votes was counted wrong afaict
+20:12 < Snow-Man> tpot: I don't think I've actually got access to the membership list, isn't that in some database..?  I have the scripts and the DB schema, iirc, such that I could write a query to extract them..
+20:12 < tpot> Yes, it was a database thing. I sent you an email about that with hopefully a bit more detail.
+20:13 < tpot> That would be fantastic though - thanks.
+20:13 < Snow-Man> I could *write* the query but without access to the actual database I can't *run* it, so..
+20:13 < tpot> tbm: thanks for the updates - i even double checked and still got it wrong )-:
+20:13 < Snow-Man> we can chat about that outside of this meeting tho, I imagine it'll need to include luca
+20:14 < luca> the membership stuff lives with Noodles
+20:15 < tpot> Voting started, 7 people (snow-man,tpot,tbm,tridge,schultmc,xnox,luca) allowed to vote on Accept minutes for meeting on Monday, 10th December 2018. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:15 < luca> Noodles does not want to run it on his systems any more
+20:15 < zobel> shall we defer the vote on the meeting minutes to the f2f?
+20:15 < zobel> or that way.
+20:15 < schultmc> !vote yes
+20:15 < luca> !vote abstain
+20:15 < tbm> !vote yes
+20:15 < tridge> !vote yes
+20:15 < zobel> !vote yes
+20:15 < tpot> !vote yes
+20:15 < Snow-Man> !vote abstain
+20:15 < zobel> xnox: ^
+20:16 < tpot> Current voting results for "Accept minutes for meeting on Monday, 10th December 2018": Yes: 4, No: 0, Abstain: 2, Missing: 1 ( xnox )
+20:16 < tpot> Voting for "Accept minutes for meeting on Monday, 10th December 2018" closed.
+20:16 < xnox> !vote abstain
+20:16 < tpot> argh - sorry xnox I will record your vote
+20:16 < schultmc> [item 7, Items up for discussion]
+20:16 < schultmc> [item 7.1, Resolution 2018-20-11.mm.1: Arch Linux 32 as associated project]
+20:16 < xnox> the meeting notes are a bit weird; as i "voted" in those ones, yet i'm listed as "absent"
+20:16 < xnox> anyway, it's ok.
+20:16 < xnox> moving on.
+20:16 < tpot> will corrrect
+20:17 < tpot> although already voted...
+20:18 < tpot> The resolution text is in the agenda:  http://spi-inc.org/meetings/agendas/2019/2019-02-11/
+20:18 < tpot> Any discussion on this resolution?
+20:18 < xnox> hm, didn't we agree on having a suset provision in new resolutions?
+20:18 < xnox> or has that been dropped since i was off the board?
+20:19  * xnox tries to find that
+20:19 < tbm> yes, that's a good point
+20:20 < xnox> similar to http://spi-inc.org/corporate/resolutions/2016/2016-10-04.mm.2/
+20:20 < xnox> resolves point 3
+20:20 < xnox> ditto in http://spi-inc.org/corporate/resolutions/2016/2016-10-09.djl.1/
+20:20 < tbm> I'll propose the resolution again next month.
+20:20 < xnox> but missing in systemd one
+20:20 < xnox> http://spi-inc.org/corporate/resolutions/2018/2018-09-02.jrk.1/
+20:20 < xnox> i wonder if we should fix up systemd one =/
+20:21 < zobel> xnox: no, we revoted on a updated version for systemd during the f2f in NYC in October
+20:21 < tbm> systemd needs fixing anyway (action item is with tpot afaik) but not sure if it addresses that
+20:21 < tpot> OK - vote delayed until the next meeting
+20:21 < xnox> zobel, ah, interesting.
+20:21 < schultmc> [item 8, Any other business]
+20:21 < schultmc> Anything?
+20:22 < xnox> zobel, then i guess website needs updating with f2f resolution =/
+20:22 < tbm> 1) F2F
+20:22 -!- linuxhiker [~jd@94.138.188.181] has quit [Ping timeout: 480 seconds]
+20:22 < tbm> xnox: yes, action item is with tpot (afaik)
+20:22  * xnox self-booked hotel for F2F close by, some other hotel was on sale for me
+20:22 < xnox> tbm, ack.
+20:22 < tbm> FINOS (Fintech Open Source Foundation) has kindly offered meeting space for three days and Crunchy Data for one day.
+20:22 < Snow-Man> I'm booked for the f2f
+20:22 < tbm> I sent out meeting logistics and started an agenda. Please add your input.
+20:22 < tbm> We need to discuss what are we hoping to achieve exactly and what work needs to happen between now and the f2f to make the meeting productive (and who will do that work). See the email I sent to board.
+20:22  * schultmc also booked a hotel downtown
+20:22 < Snow-Man> ok, have to step away for a few, back as quickly as I can be
+20:23 < tpot> Apologies for me for the F2F as I have an unexpected work comittment.
+20:23 < tpot> But have a useful and productive time everyone.
+20:24 < tbm> ok, everyone please look at the draft agenda and the email I sent regarding questions to ask now
+20:24 < tbm> 2) Annual report
+20:24 < tbm> The 2018 annual report is in a pretty good shape. I've been collecting 
+20:24 < tbm> updates from projects (thanks!). We need the President's welcome and the
+20:24 < tbm> Treasury report but otherwise it's ready for publication.
+20:24 < tbm> I hope we can publish it right after the treasurer sprint
+20:24 < zobel> tbm: will add treasurer related f2f agenda items.
+20:25 < zobel> tbm: wow. great work!
+20:25 < tpot> agreed - that's fantastic news
+20:27 < schultmc> anything else for AOB?
+20:28 < tbm> not from me
+20:28 < schultmc> [item 9, Next board meeting]
+20:28 < schultmc> The next board meeting is scheduled for: March 12, 2019, 20:00 UTC
+20:28 < schultmc> Any objections?
+20:28 < zobel> yes
+20:28 < zobel> we have a f2f
+20:28 < zobel> before that.
+20:28 < zobel> which is considered a board meeting as well
+20:29 < tpot> Well, it was decided that there would be a board meeting at the f2f.
+20:29 < tpot> I don't think a f2f necessarily implies a board meeting but it's good to have everyone in the one place.
+20:31 < xnox> well we can do irc board meeting at f2f if we want.
+20:32 < schultmc> that works for me
+20:34 < tbm> schultmc: can you close the meeting
+20:34 < tpot> treasurer sprint 27th-28th of February
+20:34 < schultmc> *GAVEL*
