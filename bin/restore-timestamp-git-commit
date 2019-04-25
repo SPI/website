@@ -2,6 +2,6 @@
 # Set timestamp based on last Git commit
 
 git ls-tree -r --name-only HEAD $1 | while read filename; do
-    touch -d $(git log -1 --format="%cI" -- $filename) "$filename"
+    touch -d $(git log -1 --format="%cI" -- "$filename") "$filename"
 done
 
