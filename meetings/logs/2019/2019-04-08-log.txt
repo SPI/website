@@ -1,0 +1,207 @@
+20:00 < Hydroxide> *GAVEL*
+20:00 < Hydroxide> [item 1, Opening]
+20:00 < Hydroxide> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < Hydroxide> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-04-08/
+20:00 < Hydroxide> [item 2, Roll Call]
+20:01 < Hydroxide> Directors, please state your name
+20:01 < zobel> Martin Zobel-Helas
+20:01 < Hydroxide> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> Michael Schultheiss
+20:01 < Hydroxide> Jimmy kaplowitz
+20:01 < tridge> Andrew Tridgell
+20:01 < tpot> Tim Potter
+20:01 < Hydroxide> waiting for one more for quorum
+20:01 < Hydroxide> oh good
+20:01 < Hydroxide> we can wait a moment for others, but we won't wait long because zobel's sick
+20:02 < Hydroxide> (typing up president's report, will send as soon as that's ready)
+20:02 < zobel> so far luca and xnox missing, right?
+20:02 < tpot> renee perhaps?
+20:02 < xnox> Dimitri John Ledkov
+20:02  * xnox has tooth ache, and is under pain killers. so fuzzy.
+20:03  * Snow-Man is in the middle of nowhere Virginia, though the LTE is pretty strong atm
+20:03  * schultmc has a hard stop at 2100 UTC
+20:03 < xnox> Do we want an audio/video back-channel?
+20:03 < xnox> https://meet.jit.si/spi-board-meeting
+20:03  * Snow-Man ping'd Renee via SMS..  not sure she realized that she needed to be on this..
+20:03 < xnox> there is us phone number dial in too.
+20:03 < schultmc> we already have the back channel via google meet
+20:03 < Snow-Man> I can do that if needed
+20:04 < Hydroxide> [item 3, President's Report]
+20:04 < Hydroxide> During the last month, Martin Michlmayr resigned from the board. We thank him greatly for his service and wish him well in his future activities. He continues to work with us as a contractor. We also started working with Larry Rosenman (ler) as an IT contractor.
+20:04 < xnox> schultmc, ah, ok. maybe i should find, join that =)
+20:04 < Hydroxide> Last, I'm working with Debian to figure out AWS and Azure accounts for cloud image publication, and with Jenkins and Linux Foundation and our legal counsel to facilitate asset transfers to their new Continuous Delivery Foundation in a way that meets our legal needs.
+20:04 < xnox> schultmc, jitsi is like "free" and no logins etc =)
+20:04  * xnox is quiete
+20:04 < Hydroxide> [item 4, Treasurer's report]
+20:04 < Hydroxide> schultmc?
+20:04 < zobel> Hydroxide: questions to you first?
+20:04  * schultmc waits
+20:04 < Hydroxide> ah yes, okay
+20:04 < Hydroxide> questions welcome
+20:05 < Snow-Man> Renee's trying to join, fyi..
+20:05 < zobel> Hydroxide: you have seen that we got a mail from the auditor with an engagement letter?
+20:06 < luca> Luca Filipozzi
+20:06 < luca> sorry i'm late
+20:06 < Hydroxide> zobel: yes. following up with schultmc about that to get his opinion was on my to-do list, but I did at least read the engagement letter and it looks fine if schultmc agrees. I think he can and should be the one to sign it since engaging an auditor is a very Treasurer thing.
+20:06 < Hydroxide> I appreciate the ping.
+20:07 < Hydroxide> that's a good segue to the treasurer's report item (including schultmc's reaction to the engagement letter), if there are no other questions for me.
+20:07  * schultmc was holding off on signing it due to the price change from what was previously discussed but it's still within reason
+20:07 < Hydroxide> yeah it's $1k higher than before but still within the original quote
+20:07 < Hydroxide> maybe he's estimating conservatively, or maybe he was aggressive before. it may be worth you mentioning the discrepancy to Gary before signing, but I'm fine with either number if you are
+20:08 < schultmc> SPI released its 2018 Annual Report and monthly treasurer's reports for January - March, 2019
+20:08 < schultmc> Many thanks to Martin Michlmayr for completing the reports and working on streamlining the treasury toolset
+20:08 < zobel> also many thanks to luca for the new reimbursement tool he wrote
+20:08 < schultmc> we have received a quote from a CPA for auditing SPI's 2018 financials and filing our 2018 federal and New York State tax forms.
+20:09 -!- testingsnow [~oftc-webi@2600:1003:b11d:8a28:c95c:e0d6:fa2c:e710] has joined #spi
+20:09 -!- testingsnow [~oftc-webi@2600:1003:b11d:8a28:c95c:e0d6:fa2c:e710] has left #spi []
+20:09 < luca> zobel: thanks; it's not deployed to production; needs a bit of review by you and schultmc; is missing USD, for example :)
+20:09 < schultmc> the quote is slightly higher than the original estimate but still within reason - I can sign the engagement letter this week
+20:09 < zobel> luca: i will follow-up later.
+20:09 < ler> question?
+20:10 -!- ReneeData_ [~oftc-webi@2604:2000:14c4:8477:cd31:93a2:61fe:1c01] has joined #spi
+20:10  * ler was wondering if we need to file an extension because of the date?
+20:10 < ler> for NYS and US/IRS
+20:10 < ReneeData_> Good afternoon
+20:10 < schultmc> ler: the CPA will handle that once the engagement letter has been signed
+20:10 < Hydroxide> ler: we usually do file extensions, yes. though April is not the deadline for corporations, unlike individuals.
+20:10 < ler> Ah!  sorry for the noise.
+20:10 < schultmc> corporations have a may 15 deadline without an extension
+20:11 < Hydroxide> no worries ler. other questions or comments for schultmc?
+20:11 < Hydroxide> hi ReneeData_! we're doing some routine agenda items now, and we'll vote on you as the first of two resolutions
+20:12 < Hydroxide> [item 5, Secretary's report]
+20:12 < ReneeData_> awesome, if anyone has any questions for me I'm happy to help
+20:12 < Hydroxide> tpot?
+20:12 < tpot> Voting has concluded on the bylaws vote but I'm frustratingly unable to see the result!
+20:12 < Hydroxide> ReneeData_: thanks, we will give a moment for questions at the corresponding agenda item (7.1 at http://www.spi-inc.org/meetings/agendas/2019/2019-04-08/ - we are now at item 5)
+20:12 < Hydroxide> can someone quickly get tpot the results without delaying the meeting much?
+20:13 < Hydroxide> tpot: in the meantime, any other updates to share?
+20:13 < tpot> That's the main Secretary news. We should have a chat (offline?) about the audio line.
+20:13 < tpot> .
+20:13 < Hydroxide> ok (and agreed)
+20:13 < Hydroxide> I suggest we continue with the meeting and return to the bylaws vote in Any other business (item 8) if someone can get the results by then.
+20:14 < Hydroxide> [item 6, Outstanding minutes]
+20:14 < Hydroxide> tpot: it looks like we have one set to vote on for today, from February 11th?
+20:14 < tpot> Yes
+20:14 < Hydroxide> any discussion?
+20:14 < tpot> http://spi-inc.org/meetings/minutes/2019/2019-02-11/
+20:14 < Hydroxide> (proceed to vote if not)
+20:14 < zobel> we also need to compile the minutes from the f2f meeting.
+20:14 < Hydroxide> yes, agreed zobel 
+20:14 < tpot> noted
+20:15 < Hydroxide> it's understandable for that to take longer than one cycle.
+20:15 < tpot> starting vote in 30s
+20:16 < tpot> Voting started, 8 people (zobel,snow-man,schultmc,hydroxide,tridge,tpot,xnox,luca) allowed to vote on Accept minutes for meeting on Monday 11th February 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:16 < xnox> !vote yes
+20:16 < tpot> !vote yes
+20:16 < luca> !vote abstain
+20:16 < Hydroxide> !vote abstain
+20:16 < Snow-Man> !vote yes
+20:16 < tridge> !vote yes
+20:16 < schultmc> !vote yes
+20:16 < zobel> !vote yes
+20:16 < tpot> Current voting results for "Accept minutes for meeting on Monday 11th February 2019": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+20:16 < tpot> Voting for "Accept minutes for meeting on Monday 11th February 2019" closed.
+20:17 < Hydroxide> great, thanks. minutes approved.
+20:17 < Hydroxide> [item 7, Items up for discussion]
+20:17 < Hydroxide> [item 7.1, Resolution 2019-04-05.jrk.1: Renee Phillips as interim director]
+20:17 < Hydroxide> we have ReneeData_ here who volunteered to fill the vacancy created by tbm's resignation, on an interim basis (and possibly longer if she wins election this July)
+20:18 < Hydroxide> any questions for her before we vote on the appointment resolution? her appointment as an interim director would take effect at the close of today's meeting.
+20:18 < zobel> for those not being present at the f2f in NYC the last two years, we met Renee there twice. she is active in postgresql and i belive she is a good addition to the board.
+20:18 < ReneeData_> Hi, I'm here if anyone has any questions for me
+20:18 < Snow-Man> I echo zobel's sentiment and agree
+20:19 < Hydroxide> ReneeData_: if this is boring, at least it's boring for a positive reason :D
+20:19 < Snow-Man> Renee has been quite active with PG over the past few years and would be a welcome addition.
+20:19  * schultmc agrees ReneeData_ would be a positive addition to the SPI board
+20:19 < tpot> Starting vote in 30s if there's no more discussion.
+20:20 < tpot> Voting started, 1 people ( renee phillips as interim director) allowed to vote on Resolution 2019-04-05.jrk.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:20 < schultmc> !vote yes
+20:20 < Snow-Man> !vote yes
+20:20 < zobel> !vote yes
+20:20 < tridge> !vote yes
+20:20 < luca> !vote yes
+20:20 < jcristau> script went wrong?
+20:20 < tpot> yeah soy
+20:20 < tpot> yeah sorry
+20:20 < Hydroxide> hold on, redoing the vote as soon as tpot is ready
+20:20 < Snow-Man> hehehe
+20:20 < tpot> Current voting results for "Resolution 2019-04-05.jrk.1": Yes: 0, No: 0, Abstain: 0, Missing: 1 (  renee phillips as interim director )
+20:20 < tpot> Voting for "Resolution 2019-04-05.jrk.1" closed.
+20:21 < tpot> Voting started, 1 people ( renee phillips as interim director) allowed to vote on Resolution 2019-04-05.jrk.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:21 < tpot> Current voting results for "Resolution 2019-04-05.jrk.1": Yes: 0, No: 0, Abstain: 0, Missing: 1 (  renee phillips as interim director )
+20:21 < tpot> Voting for "Resolution 2019-04-05.jrk.1" closed.
+20:21 < tpot> Voting started, 8 people (zobel,snow-man,schultmc,hydroxide,tridge,tpot,xnox,luca) allowed to vote on Resolution 2019-04-05.jrk.1 Renee Phillips as interim director. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:21 < luca> !vote yes
+20:21 < Snow-Man> !vote yes
+20:21 < zobel> !vote yes
+20:21 < tridge> !vote yes
+20:21 < schultmc> !vote yes
+20:21 < Hydroxide> !vote yes
+20:21 < tpot> !vote yes
+20:21 < zobel> jcristau: thanks for catching that.
+20:21 < luca> jcristau: lurker
+20:21 < xnox> !vote abstain
+20:21 < Hydroxide> xnox: do you plan to vote?
+20:22 < Hydroxide> ok
+20:22 < tpot> Current voting results for "Resolution 2019-04-05.jrk.1 Renee Phillips as interim director": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:22 < tpot> Voting for "Resolution 2019-04-05.jrk.1 Renee Phillips as interim director" closed.
+20:22 < tpot> Apologies for the cut&paste problem,
+20:22 < Hydroxide> ReneeData_: thanks and welcome! (takes effect at the close of the meeting, so still 8 people for the remaining one vote)
+20:22 < ReneeData_> Thanks!
+20:23 < Hydroxide> [item 7.2, Resolution 2019-02-12.mm.1: Removal of Torch as an associated project]
+20:23 < Hydroxide> this was proposed by tbm, but this seems like a routine defunct project cleanup resolution
+20:23 < Hydroxide> any concerns before we vote?
+20:23 < tpot> lgtm
+20:24 < luca> cleanse with a torch
+20:24 < tpot> starting vote in 30s
+20:24 < tpot> Voting started, 8 people (zobel,snow-man,schultmc,hydroxide,tridge,tpot,xnox,luca) allowed to vote on Resolution 2019-02-12.mm.1 Removal of Torch as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:24 < luca> !vote yes
+20:24 < schultmc> !vote yes
+20:24 < Snow-Man> !vote yes
+20:24 < tpot> !vote yes
+20:24 < xnox> !vote yes
+20:24 < tridge> !vote yes
+20:24 < Hydroxide> !vote yes
+20:25 < zobel> !vote yes
+20:25 < tpot> Current voting results for "Resolution 2019-02-12.mm.1 Removal of Torch as an associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:25 < tpot> Voting for "Resolution 2019-02-12.mm.1 Removal of Torch as an associated project" closed.
+20:25 < Hydroxide> thanks. resolution approved.
+20:25 < Hydroxide> [item 8, Any other business]
+20:25 < Hydroxide> Does anyone have any other business to discuss, and/or can anyone quickly provide us with the bylaws vote results?
+20:25 < tpot> I'm dying to know the result of the vote.
+20:25  * schultmc has a brief statement
+20:25 < Snow-Man> ditto
+20:25 < zobel> FTR: we have one more vote open, that is archlinux32.
+20:26 < Hydroxide> zobel: that one needs a new resolution to be proposed (I will be able to do this within the next week) due to wording changes discussed on -general
+20:26 < Hydroxide> zobel: we can get that polished off at the May meeting, or if there is urgency and 100% unanimity, via email voting.
+20:27 < Hydroxide> schultmc: brief statement, go ahead
+20:27 < schultmc> SPI has engaged the services of Larry Rosenman (ler) for migrating SPI's IT infrastructure from its current host to various cloud providers. 
+20:27 < schultmc> Thank you for his assistance in updating SPI's IT infrastructure
+20:27 < Snow-Man> +1
+20:28 < Hydroxide> yes, thanks very much ler!
+20:28 < Hydroxide> Snow-Man: if your "ditto" meant you had something to say, go ahead. [I realize you may have been expressing interest in the bylaws results.]
+20:28 < ler> if anyone has questions, please feel free to ask.
+20:28 < Hydroxide> yes, questions welcome for ler too.
+20:29 < Hydroxide> one question from me if nobody has anything to say/ask: who do we need to bug to get the bylaws results, even if it can't happen during this meeting? and ideally, how can we get tpot the necessary access for the future?
+20:30 < Snow-Man> Hydroxide: mostly about bylaws, but since I have the floor, I did want to assure folks that I've not forgotten about getting the other contractor squared away.  I still haven't found a word document version of the prior agreement though.  I will re-do one based on the PDF if one isn't forthcoming.
+20:30 < tpot> yes that would be handy for the director votes in a few months
+20:30 < xnox> zobel, i was wondering about archlinux32 as well.
+20:31 < tpot> (I just fixed the links in the agenda fo the jan/feb/ma treasurer reports)
+20:31 < zobel> tpot: thx
+20:31 < Snow-Man> (it wasn't my intent to leave that until this meeting; I've also been traveling extensively with only about a week between my trips since the beginning of March)
+20:32 < Hydroxide> I got a reply privately of who to bug (not someone on the board); I will respect choice to tell me privately and I will follow up separately with the indicated person.
+20:32 < Hydroxide> other items for Any other business?
+20:33 < luca> nyet
+20:33 < Snow-Man> +1
+20:34 < Hydroxide> [item 9, Next board meeting]
+20:34 < Hydroxide> the usual time is May 13th, 2019, 20:00 UTC
+20:34 < Hydroxide> does that work for everyone? it's as fine as usual for me.
+20:34 < zobel> wfm
+20:34 < Snow-Man> wfm
+20:34 < schultmc> wfm
+20:34 < luca> wfmish
+20:34 < Hydroxide> ReneeData_: (that is the same time slot you're attending now)
+20:34 < tridge> ok for me
+20:34 < ReneeData_> fine for me
+20:35 < Hydroxide> ok, hearing no concerns, we'll next meet at the usual time, May 13, 2019 20:00 UTC. thanks for an efficient and productive meeting everyone!
+20:35 < Hydroxide> *GAVEL*
