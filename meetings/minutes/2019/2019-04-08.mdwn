@@ -1,0 +1,168 @@
+[[!meta copyright="Copyright © 2019 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, April 8th, 2019
+
+__Board members present__
+
+* Jimmy Kaplowitz (President)
+* Luca Filipozzi (luca) (Vice President)
+* Michael Schultheiss (schultmc) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Stephen Frost (Snow-Man)
+* Dimitri John Ledkov (xnox)
+* Andrew Tridgell (tridge)
+* Martin Zobel-Helas (zobel)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* Larry Rosenman (ler)
+
+These are the minutes for the April 8th, 2019 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2019/2019-05-08-log.txt).
+
+## President's Report
+
+<pre>
+
+During the last month, Martin Michlmayr resigned from the board. We
+thank him greatly for his service and wish him well in his future
+activities. He continues to work with us as a contractor. We also
+started working with Larry Rosenman (ler) as an IT contractor.
+
+Last, I'm working with Debian to figure out AWS and Azure accounts for
+cloud image publication, and with Jenkins and Linux Foundation and our
+legal counsel to facilitate asset transfers to their new Continuous
+Delivery Foundation in a way that meets our legal needs.
+</pre>
+
+## Treasurer's report
+
+<pre>
+
+SPI released its 2018 Annual Report and monthly treasurer's reports
+for January - March, 2019. Many thanks to Martin Michlmayr for
+completing the reports and working on streamlining the treasury
+toolset.
+
+We have received a quote from a CPA for auditing SPI's 2018 financials
+and filing our 2018 federal and New York State tax forms. The quote is
+slightly higher than the original estimate but still within reason - I
+can sign the engagement letter this week.
+</pre>
+
+## Secretary's report
+
+<pre>
+Voting has concluded on the bylaws vote but I'm frustratingly unable
+to see the result.
+</pre>
+
+## Outstanding minutes
+
+### Vote on Minutes for Monday, 11th February 2019
+
+<table>
+<tbody>
+<tr><td>Luca Filipozzi</td><td>Abstain</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Abstain</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+Motion passed with a vote of 6 yes, 0 no, 2 abstain and 0 missing.
+
+## Items up for discussion
+
+### Resolution 2019-04-05.jrk.1: Renee Phillips as interim director
+
+<table>
+<tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Abstain</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+Motion passed with a vote of 7 yes, 0 no, 1 abstain and 0 missing.
+
+### Resolution 2019-02-12.mm.1: Removal of Torch as an associated project
+
+<table>
+<tbody>
+<tr><td>Luca Filipozzi</td><td>Yes</td></tr>
+<tr><td>Stephen Frost</td><td>Yes</td></tr>
+<tr><td>Dimitri John Ledkov</td><td>Yes</td></tr>
+<tr><td>Jimmy Kaplowitz</td><td>Yes</td></tr>
+<tr><td>Tim Potter</td><td>Yes</td></tr>
+<tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+<tr><td>Andrew Tridgell</td><td>Yes</td></tr>
+<tr><td>Martin Zobel-Helas</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+Motion passed with a vote of 8 yes, 0 no, 0 abstain and 0 missing.
+
+## Any other business
+
+### Engagement of IT contractor
+
+SPI has engaged the services of Larry Rosenman (ler) for migrating
+SPI's IT infrastructure from its current host to various cloud
+providers.
+
+### Resolution 2018-20-11.mm.1: Arch Linux 32 as associated project
+
+Vote was delayed again until the next meeting in order to add sunset
+provision.
+
+## Adjournment
+
+The meeting was adjourned until Monday, May 13th, 2019 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2016</td><td>Jimmy Kaplowitz</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td><td>Vice President</td></tr>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>Treasurer</td></tr>
+<tr><td>April 2019</td><td>Renee Phillips (interim director)</td></tr>
+<tr><td>July 2016</td><td>Tim Potter</td><td>Secretary</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td></tr>
+<tr><td>September 2018</td><td>Dimitri John Ledkov</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+<tr><td>July 2016</td><td>Martin Zobel-Helas</td></tr>
+</tbody>
+</table>
