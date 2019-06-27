@@ -1,0 +1,269 @@
+06:00 < Hydroxide> *GAVEL*
+06:00 < Hydroxide> [item 1, Opening]
+06:00 < Hydroxide> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+06:00 < Hydroxide> Today's agenda can be found on the web at: https://www.spi-inc.org/meetings/agendas/2019/2019-06-10/
+06:00 < Hydroxide> [item 2, Roll Call]
+06:00 < Hydroxide> Directors, please state your name
+06:00 < Hydroxide> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+06:00 < Hydroxide> Jimmy Kaplowitz
+06:00 < schultmc> Michael Schultheiss
+06:00 < tridge> Andrew Tridgell
+06:00 < xnox> Dimitri John Ledkov
+06:00 < Snow-Man> Stephen Frost
+06:00 < Hydroxide> one more needed for quorum. that's great for less than 1 minute in, hopefully more will show up momentarily
+06:00 < tpot> Tim Potter
+06:00 < luca> Luca Filipozzi
+06:01 < Hydroxide> yay, 7 of 9. renee, zobel, are you around?
+06:02 < Hydroxide> since we have a busy agenda today and have already reached quorum, let's proceed.
+06:02 < Lyude> (guest) Lyude Paul
+06:02 < Hydroxide> [item 3, President's report]
+06:02 < Hydroxide> It's been a busy couple of months for me.
+06:02 < Hydroxide> SPI matters: at the request of the European Commission, we provided comments as part of their consideration of the IBM-Red Hat merger. Thanks to Dimtri for his work in drafting that. We extended Martin Michlmayr's contract into early December to assist with treasurer reports, a financial audit with a CPA, and similar topics. I've been working with Jenkins, SFLC, and the readers of the spi-general list on 
+06:02 < Hydroxide> Jenkins's transition to the Continuous Delivery Foundation. A project engaged a graphics designer through SPI, at their expense. And I coordinated a bit with Amazon and Debian on SPI-related questions for Debian's cloud image accounts in AWS.
+06:02 < Hydroxide> In personal matters, the increased demands of my day job and my personal life prevent me from committing to another 3-year board term after my current one expires this summer. Therefore I won't be running for re-election either as director or as president, though I can and will finish my terms without resigning early. It's been a pleasure to be involved in driving SPI forward over much of the last two 
+06:02 < Hydroxide> decades. I wish you all only the best after I step down.
+06:02 < Hydroxide> [done]
+06:03 < renee> Good afteroon
+06:03 < Hydroxide> any questions or comments, and/or did any of those lines get truncated? I'll wait a moment and if not will proceed to item 4
+06:03 < Hydroxide> renee: hi, welcome, please state your name for the record in the minutes
+06:03 < renee> Renee Phillips
+06:03 < Hydroxide> thanks
+06:04 < Hydroxide> [item 4, Treasurer's report]
+06:04 < Hydroxide> schultmc?
+06:04 < schultmc> Treasurer's report is in the agenda. Thank you to Martin Michlmayr for assembling the report in a timely manner.
+06:04 < schultmc> SPI is in the process of undergoing an audit of its 2018 finances. Martin Michlmayr is leading the conversations with the auditing firm.
+06:05 < schultmc> The auditing firm is also working with SPI to file its 2019 federal and New York State tax filings.
+06:05 < schultmc> s/2019/2018/
+06:06 < danvet_> Daniel Vetter (x.org secretary) apologies for being a few minutes late
+06:06 < luca> Martin Michlmayr also provided an update to spi-general, moments ago.
+06:06 < tpot> Thanks to tbm and schultmc for the reports - it's great to see this info available so quickly.
+06:06 < tbm> I just sent out the May report
+06:07 < Hydroxide> thanks to both of you, yes! SPI is increasingly learning the value of paid assistance :) 
+06:07 < Hydroxide> other questions or comments related to the treasurer's reports?
+06:08 < Hydroxide> danvet_: no worries. your item is a bit later in our agenda, though still the first thing for us to vote on other than minutes.
+06:08 < Hydroxide> [item 5, Secretary's report]
+06:08 < Hydroxide> tpot?
+06:08 < tpot> Report in the minutes stands as it is at the start of the meeting, but has been corrected to reflect why the bylaws vote did not success. It did not reach a 2/3 majority rather than a 36% quorum as originally written.
+06:08 < tpot> .
+06:09 < Hydroxide> thanks tpot. any questions or comments?
+06:09 < tpot> s/but/and/
+06:09 < Hydroxide> tpot: if we're being nitpicky, s/36/35/ :P
+06:09 < tpot> ha
+06:09 < Hydroxide> [item 6, Outstanding minutes]
+06:09 < Hydroxide> It looks like we have two minutes proposed for a vote today. Back to tpot for this item.
+06:10 < tpot> Thanks Hydroxide. I have two votes for the two most recent IRC board meeting minutes.
+06:10 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Accept minutes for meeting on Monday 8th April 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:11 < Snow-Man> !vote yes
+06:11 < tpot> Accept minutes for meeting on Monday 8th April 2019
+06:11 < Hydroxide> !vote yes
+06:11 < tridge> !vote yes
+06:11 < luca> !vote abstain
+06:11 < tpot> !vote yes
+06:11 < xnox> !vote yes
+06:11 < renee> |vote yes
+06:12 < DLange> ! not | :)
+06:12 < tpot> schultmc?
+06:12 < renee> apparently I'm entering reading glasses territory. 
+06:12 < renee> !vote yes
+06:13 < Hydroxide> tpot: it's up to your discretion to close the vote if he doesn't return momentarily. a quorum of directors has already voted and it's going to be approved
+06:13 < tpot> OK
+06:13 < tpot> Current voting results for "Accept minutes for meeting on Monday 8th April 2019": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( schultmc )
+06:13 < tpot> Voting for "Accept minutes for meeting on Monday 8th April 2019" closed.
+06:14 < tpot> Vote has passed - thanks everyone!
+06:14 < Hydroxide> thanks. April minutes approved.
+06:14 < tpot> Accept minutes for meeting on Monday 13th May  2019
+06:14 < tpot> This was the meeting where we did not reach a quorum.
+06:14 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Accept minutes for meeting on Monday 13th May 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:14 < Hydroxide> !vote yes
+06:14 < tpot> !vote yes
+06:14 < xnox> !vote yes
+06:14 < tridge> !vote yes
+06:14 < Hydroxide> [voting yes because I reviewed the irc logs in my irc client]
+06:14 < renee> !vote yes
+06:14 < Snow-Man> !vote yes
+06:15 < schultmc> !vote yes
+06:16 < tpot> Current voting results for "Accept minutes for meeting on Monday 13th May 2019": Yes: 7, No: 0, Abstain: 0, Missing: 1 ( luca )
+06:16 < tpot> Voting for "Accept minutes for meeting on Monday 13th May 2019" closed.
+06:16 < tpot> whoops, sorry luca
+06:16 < luca> well, i wasn't there
+06:16 < luca> right
+06:16 < Hydroxide> ok, May minutes passed. thanks tpot.
+06:17 < Hydroxide> [item 7, Items to discuss]
+06:17 < Hydroxide> [item 7.1, Slack for non-profits]
+06:17 < Hydroxide> In view of how many items we have to discuss today, I suggest we remove this from the meeting agenda, and if anyone thinks the email discussion we had on the board mailing list is insufficient, we can add it to the less crowded July agenda.
+06:17 < Hydroxide> A summary of the board discussion: OpenZFS inquired about signing up fo Slack for Nonprofits via SPI. The board mostly doesn't view it as SPI's role to force its associated projects to communicate via free software, but there are other reasons to say no to this request: SPI would only be able to one workspace under Slack's nonprofit program shared across all interested projects rather than one per project, 
+06:17 < Hydroxide> and Slack would charge SPI (albeit at a discount) if the number of users went above a certain very foreseeable threshold. OpenZFS may instead want to talk to zulipchat.com about getting free hosting of Zulip under their offering for open source projects.
+06:17 < Hydroxide> luca, I think you were discussing this topic with them. Do you feel comfortable giving a reply based on the above and calling this issue addressed?
+06:17 < schultmc> tpot: !vote yes for missing vote (people in my cubicle at work)
+06:18 < luca> Hydroxide: sure
+06:18 < Hydroxide> great. any concerns or comments from anyone else before we proceed? I'm not trying to prevent discussion, just trying to be efficient with a crowded agenda.
+06:19 < xnox> Sounds fine to me.
+06:19 < renee> just wanted to state that my email with the salesperson from slack was not very helpful, the discount they offer does not change for us
+06:20 < Hydroxide> renee: useful information which I hadn't known, thanks!
+06:20 < Hydroxide> ok, moving on.
+06:20 < Hydroxide> [item 7.2, Resolution 2019-05-02.jrk.1: Freedesktop.org merger into X.org]
+06:20 < Hydroxide> This is just a bookkeeping resolution to reflect the fact that Freedesktop.org is now part of X.org and no longer a separate associated project. Their assets are now X.org's, etc. Any questions before we vote?
+06:21 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Resolution 2019-05-02.jrk.1 Freedesktop.org merger into X.org. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:21 < xnox> !vote yes
+06:21 < tpot> !vote yes
+06:21 < renee> !vote yes
+06:21 < Hydroxide> !vote yes
+06:21 < tridge> !vote yes
+06:21 < Snow-Man> !vote yes
+06:21 < luca> !vote yes
+06:22 < schultmc> !vote yes
+06:22 < tpot> Current voting results for "Resolution 2019-05-02.jrk.1 Freedesktop.org merger into X.org": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+06:22 < tpot> Voting for "Resolution 2019-05-02.jrk.1 Freedesktop.org merger into X.org" closed.
+06:23 < Hydroxide> Vote approved. I should note that danvet_ is here on behalf of X.org if anyone has questions or comments
+06:23 < Hydroxide> moving on in a moment if not.
+06:25 < Hydroxide> [item 7.x, removed item about translatewiki.net from the agenda]
+06:25 < Hydroxide> We had an item about Translatewiki.net from the agenda. Based on a review of the board mailing list thread, this was not ready for inclusion in a meeting just yet: this was paused on luca waiting for Niklas to reply regarding a draft resolution that has not yet been circulated or proposed. Moving on momentarily if nobody objects.
+06:26 < luca> it was in an Etherpad so they could edit it easily
+06:26 < Nikerabbit> I have not received such draft (I'm from translatewiki.net)
+06:26 < Hydroxide> Nikerabbit: yeah I think luca had linked it to you in an email but I guess it got overlooked
+06:27 < luca> mail sent on May 5th To: Niklas Laxström <niklas.laxstrom@gmail.com>
+06:27 < luca> https://etherpad.wikimedia.org/p/pRvuLRIpR2w2x66VjQoR
+06:28 < Hydroxide> Nikerabbit: what I propose is that the two of you follow up by email to finalize the resolution and confirm that you understand the terms of the relationship & services with SPI, and then luca can circulate the resolution among our membership and we can finally finish this task at our early July meeting
+06:28 < Hydroxide> (the circulation among our membership is a courtesy in case they have substantive concerns (unlikely in your case) or catch wording problems with the resolution (this does happen from time to time)
+06:28 < Hydroxide> )
+06:29 < Hydroxide> Nikerabbit, luca: any further questions, comments, concerns, or desires to take official action about this right now?
+06:30 < luca> i've replied to the thread
+06:30 < Hydroxide> great.
+06:31 < Hydroxide> moving on at :32 if nobody requests otherwise first.
+06:32 < Hydroxide> [item 7.3, Resolution 2019-05-02.jrk.2: Arch Linux 32 as associated project]
+06:32 < Hydroxide> This is "mostly" a routine new associated project resolution, but was delayed due to some wording and logistical concerns including input from spi-general and receipt of permission from Arch Linux (a different project). Those have been resolved. Any questions before we vote?
+06:33 < tpot> (I've just discovererd the /vote_result command which I'll be using to display who hasn't voted after an appropriate period of time. The "Voting for ... closed" indicates that the vote has closed).
+06:33 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on  Resolution 2019-05-02.jrk.2 Arch Linux 32 as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:34 < Hydroxide> !vote yes
+06:34 < tpot> !vote yes
+06:34 < schultmc> !vote yes
+06:34 < renee> !vote yes
+06:34 < Snow-Man> !vote yes
+06:34 < tridge> !vote yes
+06:34 < xnox> !vote yes
+06:34 < tpot> Current voting results for " Resolution 2019-05-02.jrk.2 Arch Linux 32 as associated project": Yes: 7, No: 0, Abstain: 0, Missing: 1 ( luca )
+06:34 < luca> !vote yes
+06:34 < tpot> Current voting results for " Resolution 2019-05-02.jrk.2 Arch Linux 32 as associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+06:34 < tpot> Voting for " Resolution 2019-05-02.jrk.2 Arch Linux 32 as associated project" closed.
+06:35 < tpot> Thanks everyone!
+06:35 < Hydroxide> the resolution is approved.
+06:35 < Hydroxide> As per this now-approved resolution, SPI invites Arch Linux 32 to become an SPI associated project. Is Erich Eckner [Arch Linux 32 liaison] here to accept in person? No worries if not, the invitation is valid for 60 days.
+06:38 < Hydroxide> okay. I'll reply to Erich in the email thread, though probably tomorrow since the rest of my day is busy. (any other directors should feel free to do this today instead of waiting for me)
+06:38 < Hydroxide> [item 7.4, Resolution 2019-05-07.lf.1: OpenSAF as associated project]
+06:38 < Hydroxide> luca?
+06:38 < tpot> I can do that
+06:38 < Hydroxide> tpot: thanks
+06:39 < luca> OpenSAF wishes to become an associated project
+06:39 < luca> there's been a long thread (time and messages) regarding the topic
+06:39 < luca> they've identified their assets, their governance model, and their liaison
+06:40 < luca> i've prepared a resolution which was added to the agenda this week
+06:40 < luca> i recommend inviting them to become an associated project
+06:40 < Hydroxide> thanks luca. any questions or comments before we vote?
+06:41 < tpot> 1. /vote_start Resolution 2019-05-07.lf.1 OpenSAF as associated project:tpot,Hydroxide,schultmc,tridge,xnox,Snow-Man,luca,renee
+06:41 < tpot> 2. 
+06:41 < tpot> whoops - lete me try again
+06:41 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Resolution 2019-05-07.lf.1 OpenSAF as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:41 < Hydroxide> sekrit script revealed
+06:41 < Snow-Man> !vote yes
+06:41 < Hydroxide> !vote yes
+06:41 < tridge> !vote yes
+06:41 < luca> (my email to Nikerabbit was rejected by gmail for IPv6Auth reasons or somesuch)
+06:41 < renee> !vote yes
+06:42 < luca> !vote yes
+06:42 < schultmc> !vote yes
+06:42 < Hydroxide> luca: aha, yay email deliverability problems
+06:42 < tpot> Current voting results for "Resolution 2019-05-07.lf.1 OpenSAF as associated project": Yes: 6, No: 0, Abstain: 0, Missing: 2 ( xnox  tpot )
+06:42 < xnox> !vote yes
+06:42 < tpot> !vote yes
+06:42 < tpot> Current voting results for "Resolution 2019-05-07.lf.1 OpenSAF as associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+06:42 < tpot> Voting for "Resolution 2019-05-07.lf.1 OpenSAF as associated project" closed.
+06:42 < Hydroxide> luca: I guess you'll sort it out with him outside of this meeting?
+06:43 < luca> Hydroxide: yes, just acknowledging it ftr
+06:43 < Hydroxide> OpenSAF resolution approved. their resolution structure requires a majority vote of their technical leadership council to accept, so I don't think we can handle that during this meeting.
+06:43 < Hydroxide> luca: thanks. can you follow up with OpenSAF as well so they can accept?
+06:43 < Hydroxide> or that could be tpot too if you'll be too busy.
+06:44 < tpot> I'm happy to do both
+06:44 < Hydroxide> thanks tpot
+06:44 < Hydroxide> moving on.
+06:44 < Hydroxide> [item 7.5, Resolution 2019-04-25.jrk.1: Removing Jenkins as an associated project]
+06:44 < Hydroxide> This is to reflect Jenkins' transition from SPI to the Continuous Delivery Foundation, but with acknowledgement of the complexities of doing this in a way that respects SPI's legal obligations, free software commitments, etc. Our legal counsel and theirs are working together to figure this out, but we're aiming not to act rashly.
+06:44 < Hydroxide> This resolution would cause us to stop treating Jenkins as an associated project for receiving new donations, but we would still allow them to spend down their assets currently held with us, and would work with them and our legal counsel on an asset transfer as per the terms in the resolution.
+06:44 < Hydroxide> I should note Ian Jackson raised some concerns on the spi-general mailing list. I replied to him there, partially but not fully satisfying him. I'm still in favor of the resolution as it is, and I've heard no expressions of concern besides his. He does have insightful thoughts and I encourage you to read his concerns however you vote today.
+06:44 < Hydroxide> Any questions or comments before we vote?
+06:45 < luca> to be clear
+06:45 < luca> i agree with comments on the thread that speak of 501c3 -> 501c3
+06:45 < luca> plus "same / similar purpose"
+06:46 < luca> if we satisfy that, then yes
+06:46 < Hydroxide> luca: that's definitely the plan #1 which everyone is pursuing (including LF/CDF/Jenkins). are you saying that we should amend this to require further board approval if that turns out not to be feasible?
+06:46 < Hydroxide> (the fallback plans we are considering would only be those that comply with our legal obligations, of course.)
+06:46 < renee> I am unclear myself if we meet the same/similar purpose requirement
+06:46 < xnox> I assume good faith here, and I have no concerns about bright future of the Jenkins project going forward under either current or the new umbrellas.
+06:47 < luca> it's their choice, absolutely; just don't put SPI into hot water
+06:47 < Hydroxide> renee: right now LF/CDF is working on getting IRS approval for a supposedly suitable new 501(c)(3) [our lawyer would certainly check the details], which was already in progress before the recent discussions.
+06:48 < renee> great
+06:48 < tpot> Despite the ongoing conversations on this topic I agree with Jimmy et al that this resolution looks good,.
+06:48 < Hydroxide> luca: yeah, I agree that we should keep us out of hot water. the resolution doesn't pretend that whoever acts for SPI on this should do something illegal; not only doesn't it say that, it asks them to consider the advice of our legal counsel and allows abandoning if we can't do this in an [unspecified] reasonable time
+06:49 < tpot> Shall we proceed to a vote?
+06:49 < Hydroxide> further discussion or concerns? if not, let's vote, yes.
+06:50 < tpot> Starting voet at :51
+06:51 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:51 < tpot> Current voting results for "Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project": Yes: 0, No: 0, Abstain: 0, Missing: 8 ( tpot  xnox  hydroxide  renee  luca  snow-man  schultmc  tridge )
+06:51 < tpot> Voting for "Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project" closed.
+06:51 < Hydroxide> !vote yes
+06:51 < Snow-Man> !vote yes
+06:51 < xnox> !vote yes
+06:51 < renee> !vote yes
+06:51 < Snow-Man> haha
+06:51 < schultmc> !vote yes
+06:51 < tridge> !vote yes
+06:51 < tpot> Argh sorry
+06:51 < tpot> can we try that again?
+06:51 < tpot> Voting started, 8 people (tpot,hydroxide,schultmc,tridge,xnox,snow-man,luca,renee) allowed to vote on Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:51 < Hydroxide> yes, revote :)
+06:51 < schultmc> !vote yes
+06:51 < Snow-Man> !vote yes
+06:51 < Hydroxide> !vote yes
+06:51 < luca> !vote yes
+06:51 < xnox> !vote yes
+06:51 < tpot> apologies everyone
+06:51 < tridge> !vote yes
+06:51 < Hydroxide> hooray technology.
+06:52 < tpot> it's cold in my office (-:
+06:52 < tpot> Current voting results for "Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project": Yes: 6, No: 0, Abstain: 0, Missing: 2 ( renee  tpot )
+06:52 < tpot> !vote yes
+06:52 < renee> !vote yes
+06:52 < tpot> Current voting results for "Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+06:52 < tpot> Voting for "Resolution 2019-04-25.jrk.1 Removing Jenkins as an associated project" closed.
+06:52 < tpot> thanks everyone!
+06:52 < Hydroxide> yes, thanks! I'll reply to this one
+06:53 < Hydroxide> [item 8, Any other business]
+06:53 < Hydroxide> Does anyone have other topics to discuss?
+06:53 < renee> yes
+06:53 < Hydroxide> renee: go ahead
+06:53 < renee> I have not yet had access to the repos
+06:53 < Hydroxide> ah! can someone help her out?
+06:53 < schultmc> renee: luca or I can help you out - we'll need your SSH public key
+06:54 < schultmc> we also need your GPG fingerprint for access to private data
+06:54 < renee> I'll have to make a new key
+06:54 < Hydroxide> a new key is fine.
+06:55 < renee> can you please email me and let me know where to submit my keys (GPG and SSH public)
+06:56 < renee> actually I'll start an email with Michael and we can discuss that way
+06:57 < Hydroxide> great. other comments from renee?
+06:57 < Hydroxide> or other topics to discuss from any director?
+06:57 < renee> none from me
+06:57 < Hydroxide> ok, moving on.
+06:58 < Hydroxide> [item 9, Next board meeting]
+06:58 < Hydroxide> Our usual next board meeting time is July 8, 2019 at 20:00 UTC. Does this work okay for everyone? So far as I know now, it works for me as well as usual.
+06:58 < renee> works for me
+06:58 < schultmc> WFM
+06:58 < Snow-Man> wfm
+06:58 < xnox> Not i
+06:58 < tpot> Sounds good. Great meeting everyone. We had a lot to get through.
+06:58 < xnox> Will be on Mediterranean cruise ship, with potentially no internets.
+06:58 < tpot> Not to pre-empt the closing gavel...
+06:58 < Hydroxide> yes we did!
+06:59 < Hydroxide> xnox: enjoy! shall we take that as regrets?
+06:59 < xnox> Yes please.
+06:59 < Hydroxide> noted.
+06:59 < Hydroxide> Thanks everyone! See you here on July 8, 2019 at 20:00 UTC.
+06:59 < Hydroxide> *GAVEL*
