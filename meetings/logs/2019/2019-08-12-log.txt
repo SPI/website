@@ -1,0 +1,216 @@
+06:00 < Hydroxide> *GAVEL*
+06:00 < Hydroxide> [item 1, Opening]
+06:00 < Hydroxide> Welcome to today's Software in the Public Interest, Inc. meeting of the board of directors, which is now called to order.
+06:00 < Hydroxide> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-08-12/
+06:00 < Hydroxide> [item 2, Roll Call]
+06:00 < Hydroxide> Directors, please state your name
+06:00 < Hydroxide> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+06:00 < zobel> Martin Zobel-Helas
+06:00 < schultmc> Michael Schultheiss
+06:00 < tpot> Tim Potter
+06:00 < Snow-Man> Stephen Frost
+06:01 < tpot> Luca sends his apologies
+06:01 < zobel> zumbi, fsf: please state your names
+06:01 < fsf> Forrest Fleming
+06:02 < zumbi> Héctor Orón Martínez
+06:02 < zobel> quorum.
+06:02 < Hydroxide> if I'm counting right, that's 6, yes?
+06:02 < Hydroxide> yay.
+06:02 < Hydroxide> [item 3, President's report]
+06:02 < Hydroxide> Since the July meeting I've been tying up loose ends, such as making sure the status of ler's IT services contract got resolved (it was extended through end of year) and committing my remaining uncommited contract documents to the board-private git repository. Once again, thank you for the pleasure of serving SPI as director and as president.
+06:03 < Hydroxide> [item 4, Treasurer's report]
+06:03 < Hydroxide> Schultmc?
+06:04 < schultmc> Thank you to tbm for his continued work on SPI's periodic treasury reports as well as working with our CPA firm on SPI's voluntary audit of its 2018 finances
+06:04 < schultmc> the audit is progressing as expected and thanks to tbm's work our backlog in reporting is caught up
+06:05 < Hydroxide> absolutely great work, yes.
+06:06 < Hydroxide> anything else from schultmc as treasurer, or questions for him?
+06:06 < schultmc> nothing else from me regarding treasury tasks
+06:06 < fsf> None from me
+06:06 < schultmc> Hydroxide has also mentioned the extension of ler's IT contract which I've also been involved with
+06:07  * ler appreciates the faith.
+06:07 < Hydroxide> yes, thanks to both of you for your roles in that.
+06:07 < Hydroxide> [item 5, Secretary's report]
+06:07 < Hydroxide> tpot?
+06:08 < tpot> We have a nomination for each officer position for the coming term which is fantastic to see.
+06:08 < tpot> Other than that nothing to report.
+06:08 < tpot> .
+06:08 < Hydroxide> Woo! any questions for tpot on secretary topics (other than the July minutes which are next)?
+06:09 < Hydroxide> [item 6, Outstanding minutes]
+06:09 < Hydroxide> Back to tpot. I think there is one set to vote on today?
+06:09 < tpot> We have minutes for July and removing Drizzle as an associated project.
+06:10 < tpot> Links to resolution and minutes are available in the agenda
+06:10 < Hydroxide> tpot: just the minutes for now, if I'm reading the agenda right. the Drizzle resolution after the officer elections.
+06:10 < Hydroxide> by "one set" I meant one set of minutes
+06:11 < tpot> Sure thing.
+06:11 < Hydroxide> but thanks for preparing the minutes and the resolution!
+06:11 < tpot> I guess new directors can vote abstain since they did not attend the meeting.
+06:11 < Hydroxide> note to new board members: it's typical SPI practice to vote abstain if you weren't at a meeting and yes if you think it accurately reflects what was said. but this voting pattern is just a norm, not a binding obligation.
+06:11 < tpot> Any questions about the minutes for 8th July before I call for a vote?
+06:12 < Hydroxide> there is also a raw log published, which you can decide to review and vote based on that if you trust its accuracy :)
+06:12 < fsf> Thank you for the explanation!
+06:13 < tpot> Since there are no qustions about the minutes let's vote.
+06:13 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Accept minutes for meeting on Monday 8th July 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:13 < schultmc> !vote yes
+06:13 < Snow-Man> !vote yes
+06:13 < fsf> !vote abstain
+06:13 < tpot> !vote yes
+06:13 < zumbi> !vote abstain
+06:13 < zobel> !vote yes
+06:13 < tpot> Current voting results for "Accept minutes for meeting on Monday 8th July 2019": Yes: 4, No: 0, Abstain: 2, Missing: 0 ()
+06:13 < tpot> Voting for "Accept minutes for meeting on Monday 8th July 2019" closed.
+06:13 < tpot> Thank you everyone.
+06:14 < Hydroxide> Minutes approved. Thanks indeed.
+06:14 < Hydroxide> [item 7, Items up for discussion]
+06:14 < Hydroxide> [item 7.1, Officer elections]
+06:15 < Hydroxide> We have exactly one candidate nominated for each officer position for the 2019-2020 officer term. Officers are elected by the SPI board from among the SPI board, holding office until replaced or until they resign from the officer position.
+06:16 < Hydroxide> Do any of the nominees want to say anything before we vote? (I will separately ask whether we want individual votes or one together for evreyone)
+06:16 < Snow-Man> I'll just say quickly
+06:16 < Snow-Man> I put in for VP, since that came in late.
+06:16 < Hydroxide> questions for the nominees from other directors are also welcome.
+06:16 < Hydroxide> yes, thanks Snow-Man. I should probably acknowledge that the candidate are as follows:
+06:16 < Hydroxide> President: Michael Schultheiss
+06:17 < Hydroxide> Vice-President: Stephen Frost
+06:17 < Hydroxide> Treasurer: Martin Zobel-Helas
+06:17 < zobel> schultmc: i hope you will support me in treasurer in a way that i do not miss tax days in US (dates that i do not know by memory).....
+06:17 < Hydroxide> Secretary: Timothy Potter, or Tim Potter informally. (Precise naming for this is useful when presenting this meeting's minutes to banks.)
+06:17 < schultmc> I would like to thank zobel for his assistance with treasury tasks. He has served as Assistant Treasurer for several years and I am confident he will serve well as SPI Treasurer. I am willing to assist with Treasury tasks as needed over the transition but having served for 12 years I'd like to turn things over.
+06:18 < schultmc> zobel: I'd be happy to assist wherever needed.
+06:18 < Snow-Man> +1 on zobel doing a great job as treasurer
+06:18 < Snow-Man> I'm happy to help out on those items as well, again
+06:18  * tpot *claps* for zobel
+06:18 < Hydroxide> I no longer get a vote, but I absolutely agree about zobel doing great work in this area :)
+06:18  * zumbi concurs
+06:18 < Hydroxide> that said... does anyone else on the board want to self-nominate for any of the positions? I should ask just in case.
+06:19 < zobel> tpot: one question/advise to you for todays meeting: please report full names in the logs for todays meeting
+06:19 < zobel> we need that for bank account stuff....
+06:19 < tpot> OK
+06:19 < zobel> Jimmy vs. James....
+06:19 < Hydroxide> full names in the minutes discussing the officer elections should be okay, no need to modify raw logs ... but yes, that can be a big annoyance if done informally :)
+06:19 < Snow-Man> yes, let's not have that again, lol
+06:20 < zobel> yes, i ment minutes.. not logs
+06:20 < Hydroxide> at least this time Chase already has both me and Michael on the account, so I can probably hand over authorizing representative status over the phone or during my upcoming personal visit to NYC (late aug / early sep) without schultmc's presence.
+06:20 < zobel> lets vote then....
+06:20 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Michael Schultheiss be elected President of SPI. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:20 < Snow-Man> !vote yes
+06:20 < schultmc> !vote yes
+06:20 < fsf> !vote yes
+06:20 < zobel> !vote yes
+06:20 < zumbi> !vote yes
+06:21 < tpot> !vote yes
+06:21 < tpot> Current voting results for "Michael Schultheiss be elected President of SPI": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+06:21 < tpot> Voting for "Michael Schultheiss be elected President of SPI" closed.
+06:21 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Stephen Frost be elected Vice President of SPI. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:21 < schultmc> !vote yes
+06:21 < fsf> !vote yes
+06:21 < tpot> !vote yes
+06:21 < zobel> !vote yes
+06:21 < Snow-Man> !vote yes
+06:21 < zumbi> !vote yes
+06:21 < tpot> Current voting results for "Stephen Frost be elected Vice President of SPI": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+06:21 < tpot> Voting for "Stephen Frost be elected Vice President of SPI" closed.
+06:21 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Martin Zobel-Helas be elected Treasurer of SPI. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:21 < zumbi> !vote yes
+06:21 < Snow-Man> !vote yes
+06:21 < fsf> !vote yes
+06:21 < tpot> !vote yes
+06:21 < zobel> !vote yes
+06:21 < schultmc> !vote yes
+06:21 < tpot> Current voting results for "Martin Zobel-Helas be elected Treasurer of SPI": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+06:21 < tpot> Voting for "Martin Zobel-Helas be elected Treasurer of SPI" closed.
+06:22 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Tim Potter be elected Secretary of SPI. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:22 < fsf> !vote yes
+06:22 < zobel> !vote yes
+06:22 < Snow-Man> !vote yes
+06:22 < tpot> !vote yes
+06:22 < schultmc> !vote yes
+06:22 < zumbi> !vote yes
+06:22 < tpot> Current voting results for "Tim Potter be elected Secretary of SPI": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+06:22 < tpot> Voting for "Tim Potter be elected Secretary of SPI" closed.
+06:22 < tpot> Thank you everyone and congratulations to our new officers!
+06:22 < Hydroxide> All four officer election votes pass unanimously. yes, congratulations!
+06:22 < Snow-Man> Thanks, looking forward to serving and helping to move SPI forward!
+06:23 < Hydroxide> schultmc: do you want me to continue running the remainder of this meeting or do you want to take over now? I am fine either way.
+06:23 < schultmc> Hydroxide: please continue
+06:23 < Hydroxide> okay. you will be president as of the close of this meeting, if you aren't officially already as of the close of that vote. going to proceed now.
+06:24 < Hydroxide> [item 7.2, Resolution 2019-08-11.tp.1: Removing Drizzle as an associated project]
+06:24 < Hydroxide> tpot?
+06:24 < tpot> Any questions or discussions about the resolution?
+06:24 < zobel> i just want to add one thing
+06:25 < zobel> as of end of July and by yet not published financial reports, drizzle earmarked money is 6023.60 USD
+06:25 < fsf> No questions from me (also, nice job on the summary in the agenda)
+06:25 < Hydroxide> I also noticed one small typo: s/manage/managed/ in item 5 of the preamble.
+06:25 < tpot> Will fix
+06:26 < zobel> this still needs cross-checking, but to give a figure on what amount of money we are moving from drizzle to general funds.
+06:26 < tpot> As mentioned in the resolution any unspent monies or other assets are to be directed to the general fund.
+06:27 < zobel> tpot: i was aware of that part 4. of the resulition
+06:27 < Snow-Man> Good to have some idea what that actually means.
+06:27 < tpot> If there is not further discussion I will call for the vote.
+06:27 < zobel> i just wanted to give the other board members a quick note about the amount we are speaking abiut
+06:27 < Snow-Man> wrt aounts and such.
+06:27 < Snow-Man> thanks zobel.
+06:27 < tpot> Voting started, 6 people (zobel,schultmc,tpot,snow-man,fsf,zumbi) allowed to vote on Resolution 2019-08-11.tp.1 Remove Drizzle as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:27 < Snow-Man> !vote yes
+06:28 < fsf> !vote yes
+06:28 < tpot> !vote yes
+06:28 < zobel> !vote yes
+06:28 < zumbi> !vote abstain
+06:28 < schultmc> !vote yes
+06:28 < tpot> Current voting results for "Resolution 2019-08-11.tp.1 Remove Drizzle as an associated project": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+06:28 < tpot> Voting for "Resolution 2019-08-11.tp.1 Remove Drizzle as an associated project" closed.
+06:28 < tpot> Thanks everyone.
+06:28 < Hydroxide> vote passes.
+06:28 < Hydroxide> [item 8, Any other business]
+06:29 < Hydroxide> Do any directors have topics they wish to discuss not otherwise covered by today's agenda?
+06:29  * zobel
+06:29 < fsf> None from me
+06:29 < Hydroxide> go ahead zobel
+06:29 < zobel> I would like to bring up (esp. for the new board members): we have an anual face to face meeting usually 6-12 weeks after the officers elections
+06:29 < zobel> traditionaly this has been held in New York
+06:30 < schultmc> NYC has been convenient for in-person banking needs
+06:30 < zobel> i would really invite lamby, zumbi and fsf to look if they by any chance can make it to that meeting
+06:31 < zobel> travel, hotel and food is covered by SPI
+06:31 < fsf> I can’t check now, but I will do my best to attend (and to make whether or not I’ll be able to attend known well beforehand)
+06:31  * zobel ends
+06:31 < Hydroxide> if anyone needs visas, attending a US corporation's board meeting does count as a valid B-1 business visa reason. also it's covered under VWP/ESTA.
+06:32 < Hydroxide> any other business from anyone?
+06:32 < zobel> if noone else does: yes
+06:32 < Snow-Man> thank you Hydroxide.
+06:32 < Hydroxide> go ahead again zobel :)
+06:32 < zobel> ah, Snow-Man then you go ahead.
+06:32 < zobel> i was to do the same.
+06:32 < zobel> +about
+06:33 < zobel> Snow-Man: go ahead.
+06:33 < Snow-Man> Hydroxide: Just wanted to formally say thanks for being President for this past term.  You've really been able to help us move SPI forward.
+06:33 < fsf> I need to go dark, will reconnect when allowed to do so. Apologies for the inconvenience
+06:33 -!- fsf [~fsf@00029520.user.oftc.net] has quit [Quit: Leaving]
+06:33 < Snow-Man> Hydroxide: And for all of your efforts in the past helping with SPI
+06:34 < schultmc> +1
+06:34 < Hydroxide> well thank you both :) if my life circumstances allowed me to commit right now to another 3 years, I would happily stay involved. but at least now SPI has some paid help, a CPA audit in progress, and some new directors with fresh energy. best wishes to you all.
+06:34 < tpot> Agreed - thank you very much to Jimmy for his service as SPI president.
+06:34 < Snow-Man> There aren't enough thanks given to such a role and it's a lot of effort and time.
+06:34 < Hydroxide> I encourage all of you to spread out the work across all 9 directors, and especially schultmc to delegate, to avoid burnout.
+06:35 < Hydroxide> that said, schultmc, don't hesitate to contact me if to coordinate transition matters or want to discuss an SPI topic with someone who knows what you're dealing with :)
+06:35 < Hydroxide> okay, thanks everyone. anything before I move to item 9 / next meeting time?
+06:35 < schultmc> thank you
+06:36 < Hydroxide> [item 9, Next board meeting]
+06:36 < Hydroxide> The usual time for the next board meeting falls on September 9, 2019, 20:00 UTC
+06:36 < schultmc> works for me
+06:36 < Hydroxide> does that work for everyone?
+06:36 < zumbi> works for me too
+06:36 < zobel> wfm
+06:36 < Snow-Man> I'll do my best to work my travel schedule around it (heading to Orlando for PostgresOpen that week)
+06:37 -!- tpot changed the topic of #spi to: Next SPI board meeting is on September 9th 2019, 20:00 UTC, Agenda for that meeting is http://www.spi-inc.org/meetings/agendas/2019/2019-09-09/
+06:37 < Snow-Man> I *should* be able to be to the hotel by then.
+06:37 < zobel> ftr: i will not be able to attend october 14th though...
+06:37 < zobel> Snow-Man: still have a minute?
+06:37 < Snow-Man> sure
+06:37 < Hydroxide> Snow-Man: great. I started this meeting while commuting, preparing the script from my phone and copy-pasting into ConnectBot. there are solutions :D
+06:37 < Hydroxide> ok, we're adjourned. Next meeting, led by new President schultmc or in his absence new VP Snow-Man, will be September 9, 2019 at 20:00 UTC.
+06:37 < zobel> Snow-Man: just one more informal question: SPI has @spi_inc twitter account
+06:38 < Hydroxide> Thanks everyone.
+06:38 < Snow-Man> zobel: yup
+06:38 < Hydroxide> zobel: should I hold the meeting open for this question, or after the meeting?
+06:38 < zobel> no. we can do that off-meeting
+06:38 < Hydroxide> ok
+06:38 < Hydroxide> thanks all.
+06:38 < Hydroxide> *GAVEL*
