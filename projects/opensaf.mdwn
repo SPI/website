@@ -1,0 +1,36 @@
+[[!meta title="OpenSAF"]]
+[[!meta copyright="Copyright © 2019  Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# OpenSAF
+
+[[!img opensaf-logo.jpg alt="OpenSAF logo" class="projectlogo" link="no"]]
+
+[OpenSAF](https://sourceforge.net/projects/opensaf/) is an open source
+project that implements a high availability (HA) middleware solution
+based on Service Availability Forum specifications (link to specs).
+OpenSAF provides the following services required for maintaining 99.999%
+availability in a distributed computing environment: full
+fault-management of an application, cluster membership services,
+checkpointing services for maintaining application state, distributed
+locking, logging and alarms, cluster wide messaging, in-service software
+upgrades, hardware management, and more.
+
+### Project Liaison
+
+Jonas Arndt
+
+### Services
+
+* Accepting donations
+
+### Donate via PayPal
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<fieldset>
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="X29N79CZSQJML" />
+<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to OpenSAF via PayPal" />
+</fieldset>
+</form>
+
