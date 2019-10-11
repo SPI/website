@@ -1,0 +1,238 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+21:00 < schultmc> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-09-09/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < schultmc> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+21:01 < tpot> Tim Potter
+21:01 < schultmc> Michael Schultheiss
+21:01 < tridge> Andrew Tridgell
+21:01 < lamby> Chris Lamb
+21:01 < fsf> Forrest Fleming
+21:02 < lamby> Evening all. o/
+21:02 * schultmc will sms zobel
+21:03 < Snow-Man> Stephen Frost
+21:03 < Snow-Man> (apologies for being tardy, at an airport)
+21:04 < schultmc> sms'd zobel - we are now quorate so we can continue
+21:04 < schultmc> [item 3, President's Report]
+21:05 < zobel> Martin Zobel-Helas
+21:05 < zobel> sorry for being late
+21:05 < schultmc> I've been working on getting our Directors and Officers insurance renewed and should have that done early this week. I've also been working with zobel on transferring treasury tasks over to him as well as helping with the backlog in treasury tasks.
+21:05 < tbm> are you following up on the urgent OpenSAF item?
+21:05 < schultmc> I'm also working on some outstanding paperwork for OpenSAF and getting Snow-Man more involved with our contractors, particularly our it contractor ler
+21:06 < schultmc> tbm: yes - I should have that followed up after the meeting
+21:06 < tbm> ok, great
+21:06  -!- JamesPattison <~Mutter@2001:8003:19ac:c500:5028:ba91:99dd:7ad4> has joined #spi
+21:06 < schultmc> Unless there are additional questions I'll move on to the next agenda item
+21:07 < lamby> The OpenSAF issue is the trademark thing, right?
+21:07 < schultmc> primarily, yes
+21:07 < schultmc> [item 4, Treasurer's Report]
+21:07 < schultmc> zobel?
+21:07 < zobel> Treasurer's report
+21:07 < zobel> * Transition from Michael to me ongoing, moving 2FA tokens from Michael's cell phone number to G-Suite account treasurer@ attached phone number
+21:07 < zobel> * Working on backlog of treasurer-ap (account payable) RT queue, down to 26 open tickets (as of Saturday)
+21:07 < zobel> * Going through treasurer-ar (account receivable), looking for old pending items
+21:07 < zobel> * Need to provide more monthly QFX and CSV data to tbm
+21:08 < zobel> no monthly report, i hope to post it later. maybe next week.
+21:08 < lamby> What's QFX?
+21:08 < zobel> export format of banking data
+21:08 < zobel> quicken format basicly.
+21:09 < schultmc> https://en.wikipedia.org/wiki/Open_Financial_Exchange
+21:09 < zobel> but ledger-importer can read that.
+21:09 < schultmc> QFX is intuit's version of OFX
+21:09 < tbm> zobel has done a fantastic job on the accounts payable queue, which had a backlog due to DebConf and LibreOffice conferences
+21:09 < zobel> i think i started with ~60 open RT tickets.
+21:10 < zobel> on treasurer-ap
+21:10 < zobel> any more questions?
+21:11 < ler> zobel: did you see my DM
+21:11 < lamby> (none here)
+21:11 < zobel> yes, will answer once i arrived at the hotel... currently travling, late plane due to technical problems.
+21:11 < ler> kk
+21:12 < zobel> schultmc: move on then?
+21:12 < schultmc> [item 5, Secretary's report]
+21:12 < schultmc> tpot?
+21:12 < tpot> Two items - F2F planning underway but we need to nail down a date. Current proposed is 22nd and 23rd of November.
+21:13 < tpot> Also collecting signed conflict of interest forms. Please fill these out, gpg sign, and send them to me.
+21:13 < tpot> .
+21:13 < schultmc> [item 6, Outstanding minutes]
+21:13 < schultmc> The minutes for 2019-08-12 require approval.
+21:13 < schultmc> They can be found at http://www.spi-inc.org/meetings/minutes/2019/2019-08-12/
+21:13 < zobel> tpot: tentative yes from me re dates f2f. need to check with family though.
+21:13 < schultmc> sorry - should've paused for questions/comments
+21:14 < lamby> Do we need to vote on approving those minutes?
+21:14 < fsf> yep :)
+21:14 < schultmc> yes - tpot will start the vote shortly
+21:14 < tpot> Sorry, voting script is on other laptop which died yesterday aftenroon so voting will be manually counted by me.
+21:15 < tpot> Are there any comments about the minutes?
+21:15 < Snow-Man> Fun times.
+21:15 < fsf> None from me
+21:16 < tpot> OK please vote with !yes, !no, or !abstain to accept the minutes for the meeting of the 12th of August.
+21:16 < tpot> 2019
+21:16 < fsf> !yes
+21:16 < Snow-Man> !yes
+21:16 < schultmc> !yes
+21:16 < tridge> !abstain
+21:16 < tpot> !yes
+21:16 < lamby> !abstain
+21:16 < zobel> !yes
+21:16 < tpot> Vote passed 5/0/2.
+21:17 < tpot> (yes/no/abstain)
+21:17 < tpot> thanks everyone
+21:17 < schultmc> [item 7, Items up for discussion]
+21:17 < schultmc> [item 7.1, Face to Face meeting date and location]
+21:18 < zobel> who's item was that?
+21:18 < tpot> Still collecting a couple of people's feedback on date.
+21:18 < tpot> me
+21:18 < schultmc> tpot:
+21:19 < tpot> HRT as agreed in principle to host us again (hooray!) and are waiting on confirmation of dates
+21:19 < fsf> HRT?
+21:19 < Snow-Man> Hudson River Trading
+21:19 < Snow-Man> very nice board room. :)
+21:19 < fsf> thanks!
+21:20 < tpot> Very nice indeed.
+21:20 < lamby> Confirmation of dates from HRT, that is, or officers?
+21:20 < lamby> *board members
+21:20 < tpot> Just the dates.
+21:20 < lamby> ... but dates from whom? :) ^
+21:21 < lamby> You mention both HRT and "couple of people's" :)
+21:21 < tpot> Are there any comments about the date and location? Once I get confirmation from Zobel I will orgniase the 22nd and 23rd with HRT.
+21:21 < fsf> None from me
+21:22 < schultmc> HRT is a good location - date is fine with me
+21:22 < zobel> can we get 21st too, or maybe at crunchy data, so we can do treasurer stuff on the 21st?
+21:22 < tpot> OK - I just wanted to mention it to everyone on the board when we are all in the same place (well, IRC) at the same time.
+21:22 < lamby> Thanks :)
+21:22 < tpot> Good idea - treasurer sprint worked wlel last year.
+21:23 < tpot> OK that was it from me on that item.
+21:23 < schultmc> we had 2 days for treasurer sprint last time iirc - I'm fine with whatever is deemed necessary
+21:23 < lamby> Neat, thanks.
+21:23 < schultmc> [item 8, Any other business]
+21:23 < schultmc> Anything to discuss?
+21:24 < fsf> is there a preferred hotel for the f2f?
+21:24 < schultmc> we've mostly stayed relatively close to the venue for the meeting
+21:24 < ler> Any chance of discussing my note to board@ re: 1Password?
+21:24 < tpot> I'm not sure how tbm chose hotels last year, but something not too expenseive in the financial district should be OK.
+21:24 < schultmc> personal preference for hotel brands is fine within reason
+21:25 < fsf> ACK, thanks everyone.  I second discussion of ler's item
+21:25 < tpot> Don't stay in New Jersey. (-:
+21:25 < Snow-Man> I wanted to provide an update wrt where we are infra wise too, or ler is welcome to
+21:25 < ler> go for it, Snow-Man
+21:25 < schultmc> ler: we're currently using pwstore (https://github.com/weaselp/pwstore) but can consider other options
+21:26 < Snow-Man> let's discuss the pw situation first, since it was brought up first
+21:26 < lamby> Similar question re. hotels, is there a preferred airline or direction in that area? At least one of my flights will be overnight y'see.
+21:26 < Snow-Man> so- ler, do you have an opinion wrt pwstore..?
+21:26 < weasel> hm?
+21:26 < Snow-Man> It seems similar to pass, which I'm familiar with from pginfra
+21:26 < schultmc> SPI is more cost conscious than brand conscious
+21:26 < ler> I've never used it (pwstore).
+21:27 < Snow-Man> well..  from my 2c, I'm less concerned with the cost.
+21:27 < Snow-Man> If we feel that 1password is the best available solution and there's a cost, so be it
+21:27 < ler> I find 1P to be a great way to have secure sharing
+21:27 < ler> and I'm already a user ($DAYJOB and my family).
+21:27 < schultmc> (the cost comment was regarding airline, btw)
+21:27 < Snow-Man> (oh, sorry :)
+21:28 < ler> bonus: IF we do 1P, everyone we give an account to, gets a FREE families account.
+21:28 < lamby> My fault for mixing topics, mea culpa..
+21:28 < ler> we get a 25% discount if we send them our 501(c)(3) doc.
+21:28 < Snow-Man> weasel: since you're here ... any thought towards pwstore vs 1password? :D
+21:28 < zobel> ler: pwstore uses just gpg and git and is tooling around it.
+21:28 < Snow-Man> yea, pass is similar
+21:28 < weasel> I don't know 1password
+21:29 < Snow-Man> I really like that we've arranged pass to send out each update to the repo via email too
+21:29 < weasel> the usecase that pwstore solves for us is that different files have different people who should be able to access them
+21:29 < Snow-Man> so there's no question wrt if any admin needs access, as long as they've got their email
+21:29 < ler> A friend of mine who was involved in AIX's security stuff says 1P is VERY GOOD with the security.
+21:29 < Snow-Man> security is important, but so is availability
+21:29 < ler> https://1password.com/files/1Password%20for%20Teams%20White%20Paper.pdf
+21:30 < weasel> other than that, it's just porcelain on top of git
+21:30 < ler> they are hosted on AWS
+21:30 < weasel> erm, on top of gpg
+21:30 < fsf> Is pwstore zero-friction, or near it, for everyone that needs to use it?
+21:30 < Snow-Man> weasel: understood, thanks
+21:30 < weasel> and you don't need it to read the data, only if you want to update it
+21:30 < weasel> fsf: I wouldn't say that.  it uses gpg, and gpg is icky to script with
+21:31 < weasel> I know of a few places that use it, but I'd estimate users (as in orgs, not individual people) in the dozens at most.  maybe I'm mistaken.
+21:31 < zobel> i would prefer to use open source tools for storing passwords without vendor lock-in
+21:31 < ler> I've *NEVER* in 4+ years had a time that I couldn't get to it.
+21:31 < ler> you can always export them.
+21:31 < ler> even if the account expires
+21:31 < weasel> 1password seems like a closed binary only non-free tool?
+21:32 < ler> if the account expires, it goes read only.
+21:32 < ler> weasel: yes.
+21:32 < weasel> "account"
+21:32 < weasel> oh my.
+21:32 < ler> org account.
+21:32 < Snow-Man> alright, who else on the board wishes to express an opinion...?
+21:33 < tpot> I am fine either way.
+21:33 < Snow-Man> alright, I feel like with zobel's preference and mine being towards OSS, we should stick with pwstore for now.
+21:33 < fsf> In that case, it's probably worth it to get a solution that is closer to zero-friction. If something hurts to use, it's easiest not to use it, which leads to flatfiles of credentials sitting around on peoples' harddrives.  I don't have strong opinions or knowledge of workflows re: keepass, except to sa ythat its security is Fine (but needs some work to shuffle the vault around)
+21:33 < Snow-Man> (oh, sorry fsf)
+21:33 < ler> keepass doesn't facilitate SHARING.
+21:33 < schultmc> I've used pwstore for treasury team, past admin team, and personally
+21:33 < ler> which is what we need here.
+21:34 < Snow-Man> ler: pwstore does tho.
+21:34 < Snow-Man> and we're already using it
+21:34 < zobel> ler: please look at pwstore.
+21:34 < Snow-Man> and we have enough things, frankly, to deal with than migration of the secrets.
+21:34 < zobel> its tools around gnupg and git
+21:34 < ler> I did, if y'all give me access.....
+21:34 < fsf> I think that using pwstore in the short-term is also Fine, I don't have any security worries there except hte knock-on worries that poor usability invite (which are severe, but also easily-mitigated for people who are particularly tech savvy with respect to gpgp et al)
+21:35 < tpot> zobel: can you give access to pwstore to ler?
+21:35 < Snow-Man> yes... schultmc, can you set up access for ler and myself?
+21:35 < Snow-Man> or zobel, either way...
+21:35 < schultmc> yes
+21:35 < tpot> or schultmc (-
+21:35 < ler> pwstore is basically a big ruby script
+21:35 < ler> 1P the credentials are NEVER in cleartext on disk.
+21:35 < ler> but whatever the board wants.
+21:35 < zobel> ler: neither is pwstore
+21:36 < Snow-Man> ok, I think we need to move on
+21:36 < Snow-Man> We'll go with pwstore for now, and schultmc or zobel will arrange access for myself and ler.
+21:36 < fsf> seconded, it soudns like further discussion should happen on board@ if necessary
+21:36 < Snow-Man> Regarding the larger effort of migrating the infra
+21:37 < Snow-Man> We've now got a chef server up and running (which I've got access to, at least, though I can't access other things as yet)
+21:37 < Snow-Man> It's not really configured yet, but we are working on that
+21:37 < Snow-Man> In order to bootstrap it, we got a cheap $13 cert from gandi
+21:37 < Snow-Man> but, we will be migrating to let's encrypt in the future
+21:37 < Snow-Man> once we have the DNS automation in place
+21:38 < Snow-Man> ler will be working this week to finish configuring and setting up the chef system
+21:38 < fsf> re: chef, does SPI already use chef in conjunction with puppet, or does the migration replace puppet?
+21:38 < Snow-Man> This migration replaces puppet.
+21:38 < ler> replaces puppet
+21:38 < Snow-Man> I have some familiarity with both, but ler in particular is very familiar with chef
+21:38 < Snow-Man> which should facilitate our migration efforts.
+21:39 < fsf> No need to discuss now, but I'd be interested to see why, the plan, etc
+21:39 < ler> I use Chef at $DAYJOB.
+21:39 < Snow-Man> fsf: A great deal of it is "we need to get this done ASAP"
+21:39 < Snow-Man> We do not have any idea when our existing hosting will go away
+21:39 < Snow-Man> but we are concerned that it could happen literally any day.
+21:39 < zobel> anything alese we need to discuss?
+21:39 < Snow-Man> ler: other things to add
+21:39 < Snow-Man> ?
+21:39 < schultmc> we gave our IT contractor discression in selecting a configuration management system
+21:40 < ler> I'll be trying to move DNS this week, and setting up a different way of updating the zones to facilitate EASY let's encrypt/DNS-01 challenges.
+21:40 < Snow-Man> right
+21:40 * zobel would like to move away from airport to his final destination (the hotel) and still has ~50min with public transportation
+21:40 < ler> that's why the password discussion.  I'll be using NSUPDATE
+21:40 < ler> with keys, and NOT editing the zone files directly
+21:41 < fsf> ack, nothing else from me on this
+21:41 < Snow-Man> right
+21:41 < schultmc> we can move discussion to email
+21:41 < Snow-Man> That wraps this discussion.
+21:41 < schultmc> [item 9, Next board meeting]
+21:41 < schultmc> The next board meeting is scheduled for: October 14th, 2019 at 20:00 UTC
+21:41 < schultmc> Any objections?
+21:41 < lamby> (From above) Preferred airline or direction/guidance/policy in this area? At least one of my flights will be overnight.
+21:41 < Snow-Man> I can *likely* do the 14th but not 100%, I'll be in Milan
+21:41 < lamby> I would also be interested in whether we plan to have evening events inviting others etc. etc. (a good friend will be in town on our mooted dates)
+21:42 * zobel will be on VAC on 14th.
+21:42 * Snow-Man will be driving. :D
+21:42 < lamby> 14th wfm :)
+21:42 < fsf> oct 14 should be good for me, no objections
+21:42 < fsf> I'll have a hard stop at half-past the hour though
+21:43 < schultmc> lamby: be cost conscious - no preferred airline. SPI pays for economy, if you prefer more expensive you pay the difference
+21:44 < schultmc> 14th works for me
+21:44 < Snow-Man> The 14th isn't sounding great for others tho...  maybe we should discuss over email.
+21:44 < Snow-Man> I feel like we can close this meeting out tho?
+21:44 < schultmc> I'm fine with moving the meeting - we can discuss on list
+21:44 < schultmc> *GAVEL*
