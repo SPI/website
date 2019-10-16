@@ -1,0 +1,192 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < schultmc> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-10-14/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < tpot> Tim Potter
+20:00 < schultmc> Michael Schultheiss
+20:00 < tridge> Andrew Tridgell
+20:00 < fsf> Forrest Fleming
+20:00 < lamby> Chris Lamb
+20:00 < zumbi> Hector Oron Martinez
+20:01 < schultmc> we've received regrets from zobel
+20:01 < schultmc> tpot: any other regrets?
+20:01 < luca> Luca Filipozzi
+20:01 < tpot> None received.
+20:01 < schultmc> we're quorate regardless
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> I have delegated contractor management to Stephen Frost. He had a conference call with our IT contractor recently to get up to speed on the IT infrastructure upgrade/migration project.
+20:01 < schultmc> I've worked with tbm and OpenSAF on their trademark and asset transfer paperwork.
+20:01 < schultmc> I've submitted our Director's and Officer's insurance renewal paperwork to our insurance broker. I resent the paperwork this morning since I hadn't heard back from the broker in a few days.
+20:01 < schultmc> </end>
+20:02 < schultmc> any questions?
+20:02 < lamby> What's the status of the OpenSAF transfer? :)
+20:03 < schultmc> lamby: I'm not certain - the signed paperwork was sent to OpenSAF. I'll ping them to see if they need anything else.
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zobel is on vacation. The treasury team is continuing to work through the treasury queue in RT. tbm has been pinging me on urgent requests but for most requests, they are processed FIFO.
+20:04 < lamby> Neat. ^  I guess this also speaks to a more general question of ensuring transfer things (or things blocking on other people) do not "fall through the cracks".
+20:05 < schultmc> ideally our IT infrastructure migration will be completed soon - I'm not certain my e-mails are always being received regardless of the method I send them
+20:06 < schultmc> [item 5, Secretary's report]
+20:06 < schultmc> tpot?
+20:06 < tpot> It hasn't been mentioned officially but we are confirmed for 22nd and 23rd at HRT for the face-to-face meeting.
+20:06 < tpot> As we're starting to get closer to the date I will ramp up getting things organised.
+20:07 < tpot> Am working on getting the Apple Developer agreement signed but having trouble connecting people together to get that going.
+20:07 < tpot> EOF
+20:07 < tpot> Oh, CoI declarations are still due.
+20:08 < tpot> Thanks for schultmc for forwarding his today.
+20:08 < tpot> EOF again
+20:08 < luca> is he the only one to have completed the CoI?
+20:08 < lamby> What's the Apple Developer agreement?
+20:08 < lamby> Hm, I think I sent my CoI in.. I think. :)
+20:08 < tpot> Zobel is the only one not to have completed at this stage.
+20:08 < tpot> Everyone else is fine
+20:09 < tpot> (and thanks!)
+20:09 < luca> thanks
+20:09 < schultmc> [item 6, Outstanding minutes]
+20:09 < schultmc> The minutes for 2019-09-09 require approval.
+20:09 < schultmc> They can be found at http://www.spi-inc.org/meetings/minutes/2019/2019-09-09/
+20:09 < tpot> Voting started, 7 people (tpot,lamby,schultmc,fsf,tridge,zumbi,luca) allowed to vote on Accept minutes for meeting on Monday 9th September 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:09 < tpot> Whoops I think I jumped the gun on that. Will give a couple of minutes for reading/checking etc.
+20:09 < luca> !vote abstain
+20:09 < tridge> !vote yes
+20:09 < fsf> !vote yes
+20:09 < zumbi> !vote abstain
+20:09 < schultmc> !vote yes
+20:09 < lamby> !vote yes
+20:10 < tpot> !vote yes
+20:10 < tpot> OK then
+20:10 < tpot> Current voting results for "Accept minutes for meeting on Monday 9th September 2019": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+20:10 < tpot> Voting for "Accept minutes for meeting on Monday 9th September 2019" closed.
+20:10 < luca> guests present includes tbm
+20:10 < luca> tbm has (President) next to his name
+20:10 < luca> wondering if that's a typo
+20:10 < lamby> rsid
+20:10 < lamby> (whoops, fat fingers)
+20:11 < tpot> heh - yes a typo - cut&paste because I still can't spell his name (-:
+20:12 < schultmc> i[item 7, Items up for discussion]
+20:12 < schultmc> [item 7.1, Notification of non-material error in election of Secretary]
+20:12 < tpot> fixed
+20:12 < tpot> Alright - so tbm discovered an error in the electino date for the secretary position (i.e me)
+20:12 < tpot> which was propagated throughout the minutes
+20:12 < luca> the minutes speak to treasurer-ap and treasurer-ar tickets
+20:12 < tpot> My election is due next year, not this year as was held a few months ago.
+20:12 < luca> but not to the 46 remaining in treasurer
+20:13 < luca> which include contracts, etc.
+20:13 < tpot> Since there were no other candiates we can declare this election void and luckily no harm done.
+20:13 < tpot> Minutes have been updated with the correct election date.
+20:13 < tpot> Thanks to tbm for finding this!
+20:13 < tpot> EOF
+20:14 < schultmc> officer elections are annual, director terms expire after 3 years (typically)
+20:14 < schultmc> tpot: you didn't need to be reelected to the board but did need to be elected secretary
+20:14 < tpot> ah yes - correct
+20:15 < tpot> thanks for the further clarification
+20:15 < tpot> I will write this up a bit better for the minutes.
+20:16 < schultmc> [item 7.2, Missing conflict of interest notifications (zobel, schultheiss, tpot)]
+20:16 < schultmc> I signed the conflict of interest form on 2019-09-19 but inadvertently forgot to email it in. I've e-mailed secretary@ the signed form this morning.
+20:16 < schultmc> this was already discussed in the secretary report.
+20:16 < tpot> Thanks!
+20:16 < schultmc> zobel is the only outstanding aiui
+20:16 < schultmc> [item 8, Any other business]
+20:16 < schultmc> Anything to discuss?
+20:17 < tpot> Just following up on lamby's question about the Apple Developer Agreeement
+20:17 < fsf> I have something regarding reimbursement for face-to-face travel expenses
+20:17 < tpot> It should allow member preojects to upload to the mac and iOS app stores.
+20:17 < zumbi> I would like to say something too
+20:17 < lamby> Also, I thiiink we might be losing mails in/around RT. Or I am being too keen / eager in expecting replies. :)
+20:17 < zumbi> right, I wanted to propose a email/RT backlog weekly review
+20:17 < luca> too keen/eager
+20:18 < tpot> zumbi: great idea!
+20:18 < lamby> luca: ^_^
+20:18 < schultmc> weekly review would be helpful
+20:18 < zumbi> but first we need to clean the current backlog
+20:18 < luca> lamby: not inappropriately so
+20:18 < schultmc> fsf: what's your question?
+20:19 < fsf> Are the instructions at https://emyr.net/spi/ accurate, up-to-date etc?
+20:19 < fsf> And is that site considered stable?
+20:19 < schultmc> fsf: that's luca's personal server
+20:19 < schultmc> it's the test bed for the SPI reimbursement form
+20:20 < schultmc> http://www.spi-inc.org/treasurer/reimbursement-form/ is live but not the latest version
+20:20 < lamby> luca: Either answer genuinely works for me, just would obviously prefer not to annoy folks.. :)
+20:21 < fsf> schultmc: OK, thank you.  I'll use that URL unless I hear otherwise then
+20:21 < zumbi> When would be a good time to a) discuss urgent issues (as in or after meeting) and b) day of the week to work on the email/RT backlog?
+20:22 < fsf> On that note, I must leave.  Please accept my regrets if I miss anything :)
+20:22 < schultmc> for .us either one should work fine, for ! .us, the test version has some good updates
+20:22 < luca> fsf: the process at emyr.net is what i developed for DebConf 2017 reimbursements; seemed to work okay so we made a webform
+20:22 < schultmc> thank you for your time and participation, fsf!
+20:23 < schultmc> I'm available most days around the meeting time to work on SPI
+20:23 < schultmc> SMS is the fastest way to get a hold of me regarding urgent tasks - my contact info is in the board-private git repo
+20:24 < schultmc> any other discussions?
+20:25 < zumbi> We have some important pending tasks which are not so urgent, but have been delayed for some time
+20:25 < lamby> What kind of things, just out of curiousity?
+20:25 < zumbi> There were few requests, i.e. having a subproject ear-mark, like Debconf case
+20:26 < zumbi> We need to solve the contracts for project contractors
+20:26 < zumbi> RT#2712, RT#2713, RT#3215
+20:27 < zumbi> I believe translatewiki.net is being on-boarded, but we would need more info on the process status
+20:27 < schultmc> Snow-Man has been working on contractors for SPI - I'll review the tickets after the meeting
+20:27 < zumbi> What is the status for OpenWRT transtioning out of SPI?
+20:28 < zumbi> What is the status of the audit?
+20:28 < schultmc> lamby reached out to Karen Sandler at SFC - she responded that they're working on the process on their end and will reach out soon
+20:28 < schultmc> aiui, the audit is complete or nearly complete - tbm has the most up to date status of the audit
+20:29 < lamby> Karen replied in Message-ID: <9b4fdff9ef3df2e7b8985571689b3815@sfconservancy.org>, 10 day ago
+20:29 < lamby> "we'll be in touch to coordinate the transfer"
+20:29 < zumbi> Should we handle those X.org/freedesktop domains?
+20:29 < schultmc> yes, we should handle the x.org/fdo domains. I'll reach out to our domain registrar partner
+20:30 < zumbi> sorry I have too many more questions
+20:30 < schultmc> no problem - these all need to be adressed
+20:30 < luca> schultmc: or delegate the domains to Snow-Man 
+20:30 < schultmc> luca: I can do that
+20:30 < zumbi> Do we want chef addition to sponsors page?
+20:31 < luca> i think that's been added to the F2F agenda
+20:31 < zumbi> do we accept AWS Marketplace Seller agreement?
+20:31 < schultmc> they're giving us a gratis license for their paid product - further discussion may be needed
+20:31 < luca> yes, otherwise Debian Cloud Team can't make progress
+20:31 < zumbi> does it need to be reviewed by SFLC?
+20:32 < schultmc> that may be prudent
+20:32 < luca> probably; the odds of getting anything changed are very low
+20:32 < luca> but we should know what we are signing
+20:32 < schultmc> I'll reach out to SFLC after this meeting
+20:32 < zumbi> same for contractors, someone submitted a contract, which we need to review/acknowledge
+20:33 < zumbi> do we want to sign that one, or create our own template for contractors for projects?
+20:33 < schultmc> we have our own template for SPI contractors - we can compare it to what was drafted by them
+20:34 < zumbi> who would need to action that?
+20:34 < tridge> where is the template?
+20:34 < schultmc> board-private git repo
+20:35 < tbm> zumbi: audit: I received a new draft last week which I need to review.  I think we're getting close
+20:36 < zumbi> tbm: is it planned to end before F2F?
+20:36 < tbm> zumbi: 990 filing deadline is Nov 15, so yes
+20:37 < zumbi> there was a request from top10vpn, is that up for discussion at f2f as well?
+20:38 < tpot> Was there a resolution to the Chef sponsor discussion on the mailing list?
+20:38 < tpot> Or rather an acceptable resoultion.
+20:38 < luca> i think we're suggesting that that be a F2F discussion
+20:38 < tpot> ok
+20:38 < zumbi> OK - That's all from my side. Thanks!
+20:39 < luca> there's a RiseUp pad with agenda items
+20:39 < zumbi> https://pad.riseup.net/p/wegkI2cCdY04oshl0CHE-keep
+20:41 < lamby> So, I've got an outstanding item on my personal TODO to lockdown my F2F travel, although that's 50% so I can confirm some misc meetups with free software folks. I have an open ticket, but I think things are genuinely getting lost in the RT system (eg. no confirmation mails?) which is a more general problem.
+20:42  * schultmc sees the updates to lamby's ticket
+20:42 < schultmc> I'll work with the IT team to see if there are email blacklist issues
+20:42 < schultmc> any other items for AOB?
+20:43 < lamby> Neat, as long as they are getting through that wfm
+20:43 < lamby> Oh, do we need to do anything alse re the "linux" links on debian.org ?
+20:43 < schultmc> debian press team is discussing it last I saw
+20:44 < luca> correct; it's in their hands
+20:44 < zumbi> We can check with Laura
+20:44 < zumbi> .. but it should be on their end now
+20:45 < schultmc> AOB </end> ?
+20:45 < luca> lamby: your email from Oct 9 is the last on the ticket
+20:45 < zumbi> y
+20:46 < luca> lamby: so, unless you've replied since then, emails in/out are okay
+20:46 < schultmc> [item 9, Next board meeting]
+20:46 < schultmc> The next board meeting is scheduled for: November 11th, 2019 at 20:00 UTC
+20:46 < schultmc> Any objections?
+20:46 < zumbi> None
+20:46 < schultmc> Our f2f is 2019-11-22 through 2019-11-23 - do we need an irc and f2f meeting next month?
+20:46 < lamby> I may not be able to make November 11th, but will do my utmost. :)
+20:47  * schultmc is fine either way
+20:47 < lamby> luca: Thanks. Seems like the ball is in someone else's court. :)
+20:47 < zumbi> I'd like to have both
+20:47 < schultmc> ok
+20:47 < schultmc> The next board meeting is scheduled for: November 11th, 2019 at 20:00 UTC
+20:47 < schultmc> *GAVEL*
