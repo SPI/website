@@ -1,15 +1,16 @@
+[[!meta title="Treasurer's report for September 2017"]]
 [[!toc levels=4]]
 
-# Treasurer's report 2017/09/01 - 2017/10/01
+# Treasurer's report 2017-09-01 - 2017-10-01
 
 ## Software in Public Interest Inc
 
-### This month changes 2017/09/01 - 2017/10/01
+### This month changes 2017-09-01 - 2017-10-01
 
 <pre>
          debit         credit          total
 --------------------------------------------
-  70748.03 USD   49927.77 USD   20820.26 USD  Assets
+  71248.03 USD   50427.77 USD   20820.26 USD  Assets
      17.16 USD              0      17.16 USD    Chase Business Select High Yield Savings
   22421.19 USD    7159.47 USD   15261.72 USD    Chase Performance Business Checking
              0       3.00 USD      -3.00 USD    Debian Debit Card
@@ -21,9 +22,10 @@
     500.00 USD              0     500.00 USD    Key Express Checking
    4045.14 USD     492.92 USD    3552.22 USD    PaypalDebian
    7439.10 USD    1339.01 USD    6100.09 USD    PaypalSPI
-    500.00 USD     500.00 USD              0  Equity:Transfers
+    500.00 USD     500.00 USD              0    Transfers
   47254.58 USD    5609.02 USD   41645.56 USD  Expenses
-    874.52 USD      36.22 USD     838.30 USD    Banking
+    877.52 USD      36.22 USD     841.30 USD    Banking
+      3.00 USD              0       3.00 USD      AccountFee
     515.45 USD              0     515.45 USD      CPFee
     321.12 USD      36.22 USD     284.90 USD      PayPalFee
      37.95 USD              0      37.95 USD      PaysimpleFee
@@ -31,7 +33,6 @@
     709.22 USD              0     709.22 USD    Development
     509.22 USD              0     509.22 USD      GSoC
     200.00 USD              0     200.00 USD      WorkOfTheMonth
-      3.00 USD              0       3.00 USD    Fee
    1881.42 USD              0    1881.42 USD    IT:Hosting
   43166.87 USD    5572.80 USD   37594.07 USD    Meetups
   25751.94 USD     824.77 USD   24927.17 USD      Dining
@@ -47,12 +48,12 @@
  124101.83 USD  124101.83 USD              0
 </pre>
 
-### Year to date, ending 2017/10/01
+### Year to date, ending 2017-10-01
 
 <pre>
          debit         credit          total
 --------------------------------------------
-1867107.48 USD  710540.71 USD 1156566.77 USD  Assets
+2074817.11 USD  918250.34 USD 1156566.77 USD  Assets
   13406.15 USD              0   13406.15 USD    Ameriprise Cash Mgmt Acct
  270189.07 USD              0  270189.07 USD    Chase Business Select High Yield Savings
  112024.46 USD   28268.13 USD   83756.33 USD    Chase Performance Business Checking
@@ -68,12 +69,13 @@
   83171.96 USD   71482.93 USD   11689.03 USD    PaypalDebian
    7225.24 USD    7225.24 USD              0    PaypalDebian-Hold
   54046.79 USD   24747.45 USD   29299.34 USD    PaypalSPI
- 223672.30 USD 1284543.86 USD -1060871.56 USD  Equity
-  15962.67 USD 1076834.23 USD -1060871.56 USD    Opening Balance
  207709.63 USD  207709.63 USD              0    Transfers
+  15962.67 USD 1076834.23 USD -1060871.56 USD  Equity:Net-Assets
+  15962.67 USD  905030.14 USD -889067.47 USD    Restricted
+             0  171804.09 USD -171804.09 USD    Unrestricted
  478483.87 USD   19865.72 USD  458618.15 USD  Expenses
-   5007.60 USD      92.29 USD    4915.31 USD    Banking
-     39.00 USD              0      39.00 USD      AccountFee
+   5054.60 USD      92.29 USD    4962.31 USD    Banking
+     86.00 USD              0      86.00 USD      AccountFee
      40.00 USD              0      40.00 USD      AnnualFee
    2041.87 USD              0    2041.87 USD      CPFee
      28.45 USD              0      28.45 USD      ForeignTransactionFee
@@ -85,7 +87,6 @@
    1514.23 USD              0    1514.23 USD      GSoC
   37500.00 USD   13000.00 USD   24500.00 USD      Outreach
  195209.01 USD              0  195209.01 USD      WorkOfTheMonth
-     47.00 USD              0      47.00 USD    Fee
   18504.37 USD              0   18504.37 USD    IT
     247.95 USD              0     247.95 USD      Domains
     849.24 USD              0     849.24 USD      Hardware
@@ -115,21 +116,14 @@
 
 Per project donations have a debit amount specified, which is the SPI
 5% contribution from the project towards the SPI general fund. Thus
-total donation amount is net of this contribution. Showing it as a
-separate sub-account for added clarity is a todo.
-
-Some of the amounts for the January/February are different from the
-previously published reports. This is due to disrepancy in accounting
-for the donations near end of month, which in these reports are
-accounted in the subsequent month as that is when money arrives in the
-SPI bank accounts and is available for spending.
+total donation amount is net of this contribution.
 
 Unlike ledger defaults, totals in the per-project summaries are
 inverted. Meaning that expenses are negative and equity is
 positive. This way projects that have funds, i.e. are in credit, are
 shown as a positive amount.
 
-### This month changes 2017/09/01 - 2017/10/01
+### This month changes 2017-09-01 - 2017-10-01
 
 
 #### 0ad
@@ -201,15 +195,13 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      9.57 USD              0      -9.57 USD  Assets:PaypalDebian
-    163.08 USD       9.84 USD    -153.24 USD  Expenses
-    160.08 USD       9.84 USD    -150.24 USD    Banking
-      6.72 USD              0      -6.72 USD      CPFee
-    153.36 USD       9.84 USD    -143.52 USD      PayPalFee
-      3.00 USD              0      -3.00 USD    Fee
+    163.08 USD       9.84 USD    -153.24 USD  Expenses:Banking
+      3.00 USD              0      -3.00 USD    AccountFee
+      6.72 USD              0      -6.72 USD    CPFee
+    153.36 USD       9.84 USD    -143.52 USD    PayPalFee
     552.98 USD    4285.25 USD    3732.27 USD  Income:Donations
 --------------------------------------------
-    725.63 USD    4295.09 USD    3569.46 USD
+    716.06 USD    4295.09 USD    3579.03 USD
 
 </pre>
 
@@ -275,7 +267,6 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      0.22 USD              0      -0.22 USD  Assets:PaypalSPI
     392.39 USD       0.22 USD    -392.17 USD  Expenses
       7.31 USD       0.22 USD      -7.09 USD    Banking
       1.15 USD              0      -1.15 USD      CPFee
@@ -283,7 +274,7 @@ shown as a positive amount.
     385.08 USD              0    -385.08 USD    Meetups:Travel
      19.75 USD     195.50 USD     175.75 USD  Income:Donations
 --------------------------------------------
-    412.36 USD     195.72 USD    -216.64 USD
+    412.14 USD     195.72 USD    -216.42 USD
 
 </pre>
 
@@ -426,7 +417,7 @@ shown as a positive amount.
     432.28 USD    6285.00 USD    5852.72 USD
 </pre>
 
-### Year to date, ending 2017/10/01
+### Year to date, ending 2017-10-01
 
 
 #### 0ad
@@ -434,7 +425,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   29528.35 USD   29528.35 USD  Equity:Opening Balance
+             0   29528.35 USD   29528.35 USD  Equity:Net-Assets:Restricted
     892.14 USD              0    -892.14 USD  Expenses
     121.86 USD              0    -121.86 USD    Banking
      25.10 USD              0     -25.10 USD      CPFee
@@ -451,7 +442,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    2811.13 USD    2811.13 USD  Equity:Opening Balance
+             0    2811.13 USD    2811.13 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -460,7 +451,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     251.14 USD     251.14 USD  Equity:Opening Balance
+             0     251.14 USD     251.14 USD  Equity:Net-Assets:Restricted
       4.35 USD              0      -4.35 USD  Expenses:Banking:CPFee
       5.00 USD     100.00 USD      95.00 USD  Income:Donations
 --------------------------------------------
@@ -473,7 +464,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   30603.55 USD   30603.55 USD  Equity:Opening Balance
+             0   30603.55 USD   30603.55 USD  Equity:Net-Assets:Restricted
    3291.73 USD       0.02 USD   -3291.71 USD  Expenses
     699.02 USD       0.02 USD    -699.00 USD    Banking
     357.00 USD              0    -357.00 USD      CPFee
@@ -491,7 +482,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   52914.42 USD   52914.42 USD  Equity:Opening Balance
+             0   52914.42 USD   52914.42 USD  Equity:Net-Assets:Restricted
   13926.78 USD              0  -13926.78 USD  Expenses
     536.13 USD              0    -536.13 USD    Banking
      41.50 USD              0     -41.50 USD      CPFee
@@ -511,7 +502,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     674.43 USD     674.43 USD  Equity:Opening Balance
+             0     674.43 USD     674.43 USD  Equity:Net-Assets:Restricted
     471.44 USD              0    -471.44 USD  Expenses
      21.44 USD              0     -21.44 USD    Banking
       2.59 USD              0      -2.59 USD      CPFee
@@ -528,7 +519,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   35962.78 USD   35962.78 USD  Equity:Opening Balance
+             0   35962.78 USD   35962.78 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -537,7 +528,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   71283.80 USD   71283.80 USD  Equity:Opening Balance
+             0   71283.80 USD   71283.80 USD  Equity:Net-Assets:Restricted
    1065.29 USD              0   -1065.29 USD  Expenses:Meetups:Travel
 --------------------------------------------
    1065.29 USD   71283.80 USD   70218.51 USD
@@ -549,7 +540,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  15962.67 USD              0  -15962.67 USD  Equity:Opening Balance
+  15962.67 USD              0  -15962.67 USD  Equity:Net-Assets:Restricted
    4160.30 USD              0   -4160.30 USD  Expenses
     145.30 USD              0    -145.30 USD    Banking:PayPalFee
    4015.00 USD              0   -4015.00 USD    Meetups:Travel
@@ -564,7 +555,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   32329.89 USD   32329.89 USD  Equity:Opening Balance
+             0   32329.89 USD   32329.89 USD  Equity:Net-Assets:Restricted
  125971.43 USD    6634.68 USD -119336.75 USD  Expenses
     350.35 USD              0    -350.35 USD    Banking
      28.45 USD              0     -28.45 USD      ForeignTransactionFee
@@ -590,16 +581,13 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    635.87 USD       7.16 USD    -628.71 USD  Assets
-     62.33 USD       3.58 USD     -58.75 USD    PaypalDebian
-    573.54 USD       3.58 USD    -569.96 USD    PaypalDebian-Hold
-             0  207824.45 USD  207824.45 USD  Equity:Opening Balance
+             0  207824.45 USD  207824.45 USD  Equity:Net-Assets:Restricted
   48391.86 USD   13064.77 USD  -35327.09 USD  Expenses
-    971.86 USD      64.77 USD    -907.09 USD    Banking
+   1018.86 USD      64.77 USD    -954.09 USD    Banking
+     47.00 USD              0     -47.00 USD      AccountFee
     128.70 USD              0    -128.70 USD      CPFee
     843.16 USD      64.77 USD    -778.39 USD      PayPalFee
   26000.00 USD   13000.00 USD  -13000.00 USD    Development:Outreach
-     47.00 USD              0     -47.00 USD    Fee
     913.10 USD              0    -913.10 USD    IT
      63.86 USD              0     -63.86 USD      Domains
     849.24 USD              0    -849.24 USD      Hardware
@@ -607,7 +595,7 @@ shown as a positive amount.
   15690.19 USD              0  -15690.19 USD      Travel
    3423.56 USD   28929.49 USD   25505.93 USD  Income:Donations
 --------------------------------------------
-  52451.29 USD  249825.87 USD  197374.58 USD
+  51815.42 USD  249818.71 USD  198003.29 USD
 
 </pre>
 
@@ -616,7 +604,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    6333.99 USD    6333.99 USD  Equity:Opening Balance
+             0    6333.99 USD    6333.99 USD  Equity:Net-Assets:Restricted
     185.39 USD              0    -185.39 USD  Expenses:IT:Hosting
 --------------------------------------------
     185.39 USD    6333.99 USD    6148.60 USD
@@ -628,7 +616,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   18666.92 USD   18666.92 USD  Equity:Opening Balance
+             0   18666.92 USD   18666.92 USD  Equity:Net-Assets:Restricted
   11463.11 USD              0  -11463.11 USD  Expenses
     113.76 USD              0    -113.76 USD    Banking
     113.02 USD              0    -113.02 USD      CPFee
@@ -648,7 +636,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     304.62 USD     304.62 USD  Equity:Opening Balance
+             0     304.62 USD     304.62 USD  Equity:Net-Assets:Restricted
      14.94 USD              0     -14.94 USD  Expenses:Banking:CPFee
      16.05 USD     321.00 USD     304.95 USD  Income:Donations
 --------------------------------------------
@@ -661,7 +649,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     995.00 USD     995.00 USD  Equity:Opening Balance
+             0     995.00 USD     995.00 USD  Equity:Net-Assets:Restricted
       0.41 USD              0      -0.41 USD  Expenses:Banking:PayPalFee
       0.16 USD       3.01 USD       2.85 USD  Income:Donations
 --------------------------------------------
@@ -674,7 +662,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   17500.17 USD   17500.17 USD  Equity:Opening Balance
+             0   17500.17 USD   17500.17 USD  Equity:Net-Assets:Restricted
    2769.53 USD              0   -2769.53 USD  Expenses
      16.97 USD              0     -16.97 USD    Banking
      11.50 USD              0     -11.50 USD      CPFee
@@ -692,7 +680,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   25049.92 USD   25049.92 USD  Equity:Opening Balance
+             0   25049.92 USD   25049.92 USD  Equity:Net-Assets:Restricted
       1.90 USD              0      -1.90 USD  Expenses:Banking:CPFee
       1.50 USD      30.00 USD      28.50 USD  Income:Donations
 --------------------------------------------
@@ -705,7 +693,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    8357.68 USD    8357.68 USD  Equity:Opening Balance
+             0    8357.68 USD    8357.68 USD  Equity:Net-Assets:Restricted
    8357.68 USD              0   -8357.68 USD  Expenses:IT:Hosting
 --------------------------------------------
    8357.68 USD    8357.68 USD              0
@@ -717,7 +705,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     142.50 USD     142.50 USD  Equity:Opening Balance
+             0     142.50 USD     142.50 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -726,7 +714,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   15978.96 USD   15978.96 USD  Equity:Opening Balance
+             0   15978.96 USD   15978.96 USD  Equity:Net-Assets:Restricted
     112.82 USD              0    -112.82 USD  Expenses
      27.35 USD              0     -27.35 USD    Banking:CPFee
      85.47 USD              0     -85.47 USD    IT:Hosting
@@ -741,7 +729,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     212.83 USD     212.83 USD  Equity:Opening Balance
+             0     212.83 USD     212.83 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -750,7 +738,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   27435.99 USD   27435.99 USD  Equity:Opening Balance
+             0   27435.99 USD   27435.99 USD  Equity:Net-Assets:Restricted
    3711.19 USD              0   -3711.19 USD  Expenses
      17.54 USD              0     -17.54 USD    Banking
      16.74 USD              0     -16.74 USD      CPFee
@@ -769,8 +757,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      0.22 USD              0      -0.22 USD  Assets:PaypalSPI
-             0   68740.43 USD   68740.43 USD  Equity:Opening Balance
+             0   68740.43 USD   68740.43 USD  Equity:Net-Assets:Restricted
   24725.34 USD       0.22 USD  -24725.12 USD  Expenses
      73.88 USD       0.22 USD     -73.66 USD    Banking
      55.87 USD              0     -55.87 USD      CPFee
@@ -781,7 +768,7 @@ shown as a positive amount.
   24226.97 USD              0  -24226.97 USD      Travel
     234.80 USD    4496.51 USD    4261.71 USD  Income:Donations
 --------------------------------------------
-  24960.36 USD   73237.16 USD   48276.80 USD
+  24960.14 USD   73237.16 USD   48277.02 USD
 
 </pre>
 
@@ -790,7 +777,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    1494.90 USD    1494.90 USD  Equity:Opening Balance
+             0    1494.90 USD    1494.90 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -799,7 +786,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    4079.17 USD    4079.17 USD  Equity:Opening Balance
+             0    4079.17 USD    4079.17 USD  Equity:Net-Assets:Restricted
       4.46 USD              0      -4.46 USD  Expenses:Banking
       3.79 USD              0      -3.79 USD    CPFee
       0.67 USD              0      -0.67 USD    PayPalFee
@@ -814,7 +801,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      59.27 USD      59.27 USD  Equity:Opening Balance
+             0      59.27 USD      59.27 USD  Equity:Net-Assets:Restricted
  184001.53 USD              0 -184001.53 USD  Expenses
       1.53 USD              0      -1.53 USD    Banking:PayPalFee
  184000.00 USD              0 -184000.00 USD    Development:WorkOfTheMonth
@@ -829,7 +816,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   75217.75 USD   75217.75 USD  Equity:Opening Balance
+             0   75217.75 USD   75217.75 USD  Equity:Net-Assets:Restricted
    2085.82 USD              0   -2085.82 USD  Expenses
      40.87 USD              0     -40.87 USD    Banking
      40.35 USD              0     -40.35 USD      CPFee
@@ -848,7 +835,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     328.03 USD     328.03 USD  Equity:Opening Balance
+             0     328.03 USD     328.03 USD  Equity:Net-Assets:Restricted
       4.70 USD              0      -4.70 USD  Expenses:Banking:PayPalFee
       4.50 USD      90.02 USD      85.52 USD  Income:Donations
 --------------------------------------------
@@ -873,7 +860,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      56.21 USD      56.21 USD  Equity:Opening Balance
+             0      56.21 USD      56.21 USD  Equity:Net-Assets:Restricted
       0.67 USD              0      -0.67 USD  Expenses:Banking:PayPalFee
       0.50 USD      10.00 USD       9.50 USD  Income:Donations
 --------------------------------------------
@@ -886,7 +873,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      89.71 USD      89.71 USD  Equity:Opening Balance
+             0      89.71 USD      89.71 USD  Equity:Net-Assets:Restricted
       0.75 USD              0      -0.75 USD  Expenses:Banking:CPFee
       0.50 USD      10.00 USD       9.50 USD  Income:Donations
 --------------------------------------------
@@ -899,7 +886,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    6040.14 USD    6040.14 USD  Equity:Opening Balance
+             0    6040.14 USD    6040.14 USD  Equity:Net-Assets:Restricted
      13.84 USD              0     -13.84 USD  Expenses:Banking
       8.83 USD              0      -8.83 USD    CPFee
       5.01 USD              0      -5.01 USD    PayPalFee
@@ -914,7 +901,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     117.75 USD     117.75 USD  Equity:Opening Balance
+             0     117.75 USD     117.75 USD  Equity:Net-Assets:Restricted
   18628.79 USD              0  -18628.79 USD  Expenses
     455.49 USD              0    -455.49 USD    Banking
     443.30 USD              0    -443.30 USD      CPFee
@@ -936,7 +923,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      17.17 USD      17.17 USD  Equity:Opening Balance
+             0      17.17 USD      17.17 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -945,7 +932,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      18.60 USD      18.60 USD  Equity:Opening Balance
+             0      18.60 USD      18.60 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -954,7 +941,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    1698.80 USD    1698.80 USD  Equity:Opening Balance
+             0    1698.80 USD    1698.80 USD  Equity:Net-Assets:Restricted
    1525.00 USD              0   -1525.00 USD  Expenses:Meetups:Merchandise
     285.00 USD    5700.00 USD    5415.00 USD  Income:Donations
 --------------------------------------------
@@ -967,7 +954,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    6500.00 USD    6500.00 USD  Equity:Opening Balance
+             0    6500.00 USD    6500.00 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -976,7 +963,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   92378.16 USD   92378.16 USD  Equity:Opening Balance
+             0   92378.16 USD   92378.16 USD  Equity:Net-Assets:Restricted
    6143.20 USD              0   -6143.20 USD  Expenses
      17.11 USD              0     -17.11 USD    Banking
      13.05 USD              0     -13.05 USD      CPFee
@@ -994,7 +981,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     213.62 USD     213.62 USD  Equity:Opening Balance
+             0     213.62 USD     213.62 USD  Equity:Net-Assets:Restricted
    1013.82 USD      26.14 USD    -987.68 USD  Expenses
      97.76 USD      26.14 USD     -71.62 USD    Banking
       5.10 USD              0      -5.10 USD      CPFee
@@ -1011,7 +998,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    5763.62 USD    5763.62 USD  Equity:Opening Balance
+             0    5763.62 USD    5763.62 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -1020,8 +1007,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      0.39 USD              0      -0.39 USD  Assets:PaypalDebian
-             0  171804.09 USD  171804.09 USD  Equity:Opening Balance
+             0  171804.09 USD  171804.09 USD  Equity:Net-Assets:Unrestricted
   14490.00 USD       1.14 USD  -14488.86 USD  Expenses
    1145.29 USD       1.14 USD   -1144.15 USD    Banking
      39.00 USD              0     -39.00 USD      AccountFee
@@ -1040,7 +1026,7 @@ shown as a positive amount.
     109.05 USD   61082.64 USD   60973.59 USD    Donations
              0     217.88 USD     217.88 USD    Interest
 --------------------------------------------
-  14599.44 USD  233105.75 USD  218506.31 USD
+  14599.05 USD  233105.75 USD  218506.70 USD
 
 </pre>
 
@@ -1049,7 +1035,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    1122.51 USD    1122.51 USD  Equity:Opening Balance
+             0    1122.51 USD    1122.51 USD  Equity:Net-Assets:Restricted
       1.20 USD              0      -1.20 USD  Expenses:Banking
       0.75 USD              0      -0.75 USD    CPFee
       0.45 USD              0      -0.45 USD    PayPalFee
@@ -1064,7 +1050,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     353.99 USD     353.99 USD  Equity:Opening Balance
+             0     353.99 USD     353.99 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -1073,7 +1059,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   16283.63 USD   16283.63 USD  Equity:Opening Balance
+             0   16283.63 USD   16283.63 USD  Equity:Net-Assets:Restricted
 
 </pre>
 
@@ -1082,7 +1068,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   33444.39 USD   33444.39 USD  Equity:Opening Balance
+             0   33444.39 USD   33444.39 USD  Equity:Net-Assets:Restricted
     279.01 USD     138.75 USD    -140.26 USD  Expenses
      26.51 USD              0     -26.51 USD    Banking
      14.20 USD              0     -14.20 USD      CPFee
@@ -1099,7 +1085,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    5849.77 USD    5849.77 USD  Equity:Opening Balance
+             0    5849.77 USD    5849.77 USD  Equity:Net-Assets:Restricted
     773.44 USD              0    -773.44 USD  Expenses
      80.35 USD              0     -80.35 USD    Banking:CPFee
     693.09 USD              0    -693.09 USD    IT:Hosting

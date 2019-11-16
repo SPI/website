@@ -1,16 +1,16 @@
 [[!meta title="Treasurer's report for March 2016"]]
 [[!toc levels=4]]
 
-# Treasurer's report for March 2016
+# Treasurer's report 2016-03-01 - 2016-04-01
 
 ## Software in Public Interest Inc
 
-### This month changes 2016/03/01 - 2016/04/01
+### This month changes 2016-03-01 - 2016-04-01
 
 <pre>
          debit         credit          total
 --------------------------------------------
-  54730.68 USD   82367.57 USD  -27636.89 USD  Assets
+ 104730.68 USD  132367.57 USD  -27636.89 USD  Assets
      18.32 USD              0      18.32 USD    Chase Business Select High Yield Savings
    2967.50 USD     174.32 USD    2793.18 USD    Chase Performance Business Checking
              0       3.00 USD      -3.00 USD    Debian Debit Card
@@ -20,7 +20,7 @@
              0    7496.46 USD   -7496.46 USD    Key Business Reward Checking
              0       7.00 USD      -7.00 USD    Key Express Checking
     921.85 USD     115.05 USD     806.80 USD    PaypalDebian
-  50000.00 USD   50000.00 USD              0  Equity:Transfers
+  50000.00 USD   50000.00 USD              0    Transfers
   32318.82 USD       1.18 USD   32317.64 USD  Expenses
     285.57 USD       1.18 USD     284.39 USD    Banking
       7.00 USD              0       7.00 USD      AccountFee
@@ -41,12 +41,12 @@
  137526.15 USD  137526.15 USD              0
 </pre>
 
-### Year to date, ending 2016/04/01
+### Year to date, ending 2016-04-01
 
 <pre>
          debit         credit          total
 --------------------------------------------
-1004470.81 USD  108299.33 USD  896171.48 USD  Assets
+1055475.81 USD  159304.33 USD  896171.48 USD  Assets
   13406.15 USD              0   13406.15 USD    Ameriprise Cash Mgmt Acct
  269865.61 USD              0  269865.61 USD    Chase Business Select High Yield Savings
   40812.82 USD    1044.01 USD   39768.81 USD    Chase Performance Business Checking
@@ -58,12 +58,15 @@
  162891.99 USD              0  162891.99 USD    Key Business Platinum Money Market Savings
  202911.26 USD   30967.04 USD  171944.22 USD    Key Business Reward Checking
    5255.72 USD      21.00 USD    5234.72 USD    Key Express Checking
-   8928.08 USD              0    8928.08 USD    KeyBank Basic Business Checking balance
+   8928.08 USD              0    8928.08 USD    KeyBank Basic Business Checking
     985.44 USD     119.04 USD     866.40 USD    PaypalDebian
     502.50 USD     502.50 USD              0    PaypalSPI
- 887621.84 USD 1724238.68 USD -836616.84 USD  Equity
- 836616.84 USD 1673233.68 USD -836616.84 USD    Opening Balance
   51005.00 USD   51005.00 USD              0    Transfers
+ 836616.84 USD 1673233.68 USD -836616.84 USD  Equity
+             0  836616.84 USD -836616.84 USD    Net-Assets
+             0  712584.29 USD -712584.29 USD      Restricted
+             0  124032.55 USD -124032.55 USD      Unrestricted
+ 836616.84 USD  836616.84 USD              0    Opening Balance
   57321.76 USD       1.18 USD   57320.58 USD  Expenses
    1312.23 USD       1.18 USD    1311.05 USD    Banking
      21.00 USD              0      21.00 USD      AccountFee
@@ -99,21 +102,14 @@
 
 Per project donations have a debit amount specified, which is the SPI
 5% contribution from the project towards the SPI general fund. Thus
-total donation amount is net of this contribution. Showing it as a
-separate sub-account for added clarity is a todo.
-
-Some of the amounts for the January/February are different from the
-previously published reports. This is due to discrepancy in accounting
-for the donations near end of month, which in these reports are
-accounted in the subsequent month as that is when money arrives in the
-SPI bank accounts and is available for spending.
+total donation amount is net of this contribution.
 
 Unlike ledger defaults, totals in the per-project summaries are
 inverted. Meaning that expenses are negative and equity is
 positive. This way projects that have funds, i.e. are in credit, are
 shown as a positive amount.
 
-### This month changes 2016/03/01 - 2016/04/01
+### This month changes 2016-03-01 - 2016-04-01
 
 
 #### 0ad
@@ -127,6 +123,7 @@ shown as a positive amount.
       5.83 USD     116.50 USD     110.67 USD  Income:Donations
 --------------------------------------------
      97.18 USD     116.50 USD      19.32 USD
+
 </pre>
 
 #### archlinux
@@ -138,6 +135,7 @@ shown as a positive amount.
      60.15 USD    1203.00 USD    1142.85 USD  Income:Donations
 --------------------------------------------
     114.67 USD    1203.00 USD    1088.33 USD
+
 </pre>
 
 #### chakra
@@ -149,6 +147,7 @@ shown as a positive amount.
       2.50 USD      50.00 USD      47.50 USD  Income:Donations
 --------------------------------------------
       4.85 USD      50.00 USD      45.15 USD
+
 </pre>
 
 #### debconf16
@@ -157,6 +156,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
   24571.74 USD              0  -24571.74 USD  Expenses:Meetups
+
 </pre>
 
 #### debian
@@ -173,6 +173,7 @@ shown as a positive amount.
     182.12 USD    2199.30 USD    2017.18 USD  Income:Donations
 --------------------------------------------
     917.02 USD    2200.48 USD    1283.46 USD
+
 </pre>
 
 #### ffmpeg
@@ -184,6 +185,7 @@ shown as a positive amount.
       0.25 USD       5.00 USD       4.75 USD  Income:Donations
 --------------------------------------------
       0.80 USD       5.00 USD       4.20 USD
+
 </pre>
 
 #### haskell
@@ -197,6 +199,7 @@ shown as a positive amount.
      28.75 USD     575.00 USD     546.25 USD  Income:Donations
 --------------------------------------------
     169.35 USD     575.00 USD     405.65 USD
+
 </pre>
 
 #### libreoffice
@@ -210,6 +213,7 @@ shown as a positive amount.
      10.50 USD     210.00 USD     199.50 USD  Income:Donations
 --------------------------------------------
    1319.20 USD     210.00 USD   -1109.20 USD
+
 </pre>
 
 #### mingw
@@ -221,6 +225,7 @@ shown as a positive amount.
       4.35 USD      87.00 USD      82.65 USD  Income:Donations
 --------------------------------------------
       9.23 USD      87.00 USD      77.77 USD
+
 </pre>
 
 #### openbioinformatics
@@ -229,6 +234,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
      63.41 USD              0     -63.41 USD  Expenses:IT:Domains
+
 </pre>
 
 #### openwrt
@@ -240,6 +246,7 @@ shown as a positive amount.
       4.25 USD      85.00 USD      80.75 USD  Income:Donations
 --------------------------------------------
       9.05 USD      85.00 USD      75.95 USD
+
 </pre>
 
 #### postgresql
@@ -248,6 +255,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
    1223.22 USD              0   -1223.22 USD  Expenses:Meetups:Travel
+
 </pre>
 
 #### spi
@@ -268,7 +276,7 @@ shown as a positive amount.
    4121.43 USD     428.70 USD   -3692.73 USD
 </pre>
 
-### Year to date, ending 2016/04/01
+### Year to date, ending 2016-04-01
 
 
 #### 0ad
@@ -276,7 +284,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   35216.03 USD   35216.03 USD  Equity:Opening Balance
+             0   35216.03 USD   35216.03 USD  Equity:Net-Assets:Restricted
    5885.08 USD              0   -5885.08 USD  Expenses
      16.35 USD              0     -16.35 USD    Banking:CPFee
       2.25 USD              0      -2.25 USD    Fee
@@ -285,6 +293,7 @@ shown as a positive amount.
      25.48 USD     509.42 USD     483.94 USD  Income:Donations
 --------------------------------------------
    5910.56 USD   35725.45 USD   29814.89 USD
+
 </pre>
 
 #### ankur
@@ -292,7 +301,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    2811.13 USD    2811.13 USD  Equity:Opening Balance
+             0    2811.13 USD    2811.13 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### aptosid
@@ -300,7 +310,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     251.14 USD     251.14 USD  Equity:Opening Balance
+             0     251.14 USD     251.14 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### archlinux
@@ -308,11 +319,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   25189.21 USD   25189.21 USD  Equity:Opening Balance
+             0   25189.21 USD   25189.21 USD  Equity:Net-Assets:Restricted
     116.01 USD              0    -116.01 USD  Expenses:Banking:CPFee
     118.27 USD    2365.40 USD    2247.13 USD  Income:Donations
 --------------------------------------------
     234.28 USD   27554.61 USD   27320.33 USD
+
 </pre>
 
 #### chakra
@@ -320,11 +332,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     551.86 USD     551.86 USD  Equity:Opening Balance
+             0     551.86 USD     551.86 USD  Equity:Net-Assets:Restricted
       5.05 USD              0      -5.05 USD  Expenses:Banking:CPFee
       5.00 USD     100.00 USD      95.00 USD  Income:Donations
 --------------------------------------------
      10.05 USD     651.86 USD     641.81 USD
+
 </pre>
 
 #### debconf14
@@ -332,7 +345,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   35962.78 USD   35962.78 USD  Equity:Opening Balance
+             0   35962.78 USD   35962.78 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### debconf15
@@ -340,10 +354,11 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   74365.43 USD   74365.43 USD  Equity:Opening Balance
+             0   74365.43 USD   74365.43 USD  Equity:Net-Assets:Restricted
    2777.06 USD              0   -2777.06 USD  Expenses:Meetups:Travel
 --------------------------------------------
    2777.06 USD   74365.43 USD   71588.37 USD
+
 </pre>
 
 #### debconf16
@@ -351,11 +366,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   10036.74 USD   10036.74 USD  Equity:Opening Balance
+             0   10036.74 USD   10036.74 USD  Equity:Net-Assets:Restricted
   24571.74 USD              0  -24571.74 USD  Expenses:Meetups
              0    5000.00 USD    5000.00 USD  Income:Donations
 --------------------------------------------
   24571.74 USD   15036.74 USD   -9535.00 USD
+
 </pre>
 
 #### debian
@@ -363,7 +379,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0  228390.17 USD  228390.17 USD  Equity:Opening Balance
+             0  228390.17 USD  228390.17 USD  Equity:Net-Assets:Restricted
    3120.13 USD       1.18 USD   -3118.95 USD  Expenses
     219.87 USD       1.18 USD    -218.69 USD    Banking
     173.16 USD              0    -173.16 USD      CPFee
@@ -375,6 +391,7 @@ shown as a positive amount.
     350.05 USD    6557.86 USD    6207.81 USD  Income:Donations
 --------------------------------------------
    3470.18 USD  234949.21 USD  231479.03 USD
+
 </pre>
 
 #### drizzle
@@ -382,7 +399,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    6333.99 USD    6333.99 USD  Equity:Opening Balance
+             0    6333.99 USD    6333.99 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### ffmpeg
@@ -390,7 +408,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    9354.99 USD    9354.99 USD  Equity:Opening Balance
+             0    9354.99 USD    9354.99 USD  Equity:Net-Assets:Restricted
    3531.25 USD              0   -3531.25 USD  Expenses
      16.99 USD              0     -16.99 USD    Banking
      14.49 USD              0     -14.49 USD      CPFee
@@ -400,6 +418,7 @@ shown as a positive amount.
     261.80 USD    5236.08 USD    4974.28 USD  Income:Donations
 --------------------------------------------
    3793.05 USD   14591.07 USD   10798.02 USD
+
 </pre>
 
 #### ffmpegoutreach
@@ -407,11 +426,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     123.85 USD     123.85 USD  Equity:Opening Balance
+             0     123.85 USD     123.85 USD  Equity:Net-Assets:Restricted
       3.53 USD              0      -3.53 USD  Expenses:Banking:CPFee
       3.75 USD      75.00 USD      71.25 USD  Income:Donations
 --------------------------------------------
       7.28 USD     198.85 USD     191.57 USD
+
 </pre>
 
 #### fluxbox
@@ -419,7 +439,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     995.00 USD     995.00 USD  Equity:Opening Balance
+             0     995.00 USD     995.00 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### freedesktop
@@ -427,13 +448,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   16404.99 USD   16404.99 USD  Equity:Opening Balance
+             0   16404.99 USD   16404.99 USD  Equity:Net-Assets:Restricted
     122.89 USD              0    -122.89 USD  Expenses
       2.89 USD              0      -2.89 USD    Banking:CPFee
     120.00 USD              0    -120.00 USD    Development:WorkOfTheMonth
       2.25 USD      45.00 USD      42.75 USD  Income:Donations
 --------------------------------------------
     125.14 USD   16449.99 USD   16324.85 USD
+
 </pre>
 
 #### freedombox
@@ -441,11 +463,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   25014.57 USD   25014.57 USD  Equity:Opening Balance
+             0   25014.57 USD   25014.57 USD  Equity:Net-Assets:Restricted
       1.35 USD              0      -1.35 USD  Expenses:Banking:CPFee
       1.25 USD      25.00 USD      23.75 USD  Income:Donations
 --------------------------------------------
       2.60 USD   25039.57 USD   25036.97 USD
+
 </pre>
 
 #### gallery
@@ -453,7 +476,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    8357.71 USD    8357.71 USD  Equity:Opening Balance
+             0    8357.71 USD    8357.71 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### haskell
@@ -461,13 +485,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    3282.34 USD    3282.34 USD  Equity:Opening Balance
+             0    3282.34 USD    3282.34 USD  Equity:Net-Assets:Restricted
     226.93 USD              0    -226.93 USD  Expenses
      26.85 USD              0     -26.85 USD    Banking:CPFee
     200.08 USD              0    -200.08 USD    IT:Hosting
     524.17 USD   10483.40 USD    9959.23 USD  Income:Donations
 --------------------------------------------
     751.10 USD   13765.74 USD   13014.64 USD
+
 </pre>
 
 #### helios
@@ -475,11 +500,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     201.39 USD     201.39 USD  Equity:Opening Balance
+             0     201.39 USD     201.39 USD  Equity:Net-Assets:Restricted
       0.16 USD              0      -0.16 USD  Expenses:Banking:CPFee
       0.15 USD       3.00 USD       2.85 USD  Income:Donations
 --------------------------------------------
       0.31 USD     204.39 USD     204.08 USD
+
 </pre>
 
 #### jenkins
@@ -487,13 +513,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   23423.62 USD   23423.62 USD  Equity:Opening Balance
+             0   23423.62 USD   23423.62 USD  Equity:Net-Assets:Restricted
    3399.58 USD              0   -3399.58 USD  Expenses
       6.70 USD              0      -6.70 USD    Banking:CPFee
    3392.88 USD              0   -3392.88 USD    Meetups:Merchandise
      45.00 USD     900.00 USD     855.00 USD  Income:Donations
 --------------------------------------------
    3444.58 USD   24323.62 USD   20879.04 USD
+
 </pre>
 
 #### libreoffice
@@ -501,13 +528,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   43747.52 USD   43747.52 USD  Equity:Opening Balance
+             0   43747.52 USD   43747.52 USD  Equity:Net-Assets:Restricted
    5934.88 USD              0   -5934.88 USD  Expenses
      49.69 USD              0     -49.69 USD    Banking:CPFee
    5885.19 USD              0   -5885.19 USD    Meetups:Travel
     573.81 USD   11476.20 USD   10902.39 USD  Income:Donations
 --------------------------------------------
    6508.69 USD   55223.72 USD   48715.03 USD
+
 </pre>
 
 #### madwifi
@@ -515,7 +543,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    1494.90 USD    1494.90 USD  Equity:Opening Balance
+             0    1494.90 USD    1494.90 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### mingw
@@ -523,11 +552,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    3875.20 USD    3875.20 USD  Equity:Opening Balance
+             0    3875.20 USD    3875.20 USD  Equity:Net-Assets:Restricted
       9.23 USD              0      -9.23 USD  Expenses:Banking:CPFee
       9.35 USD     187.00 USD     177.65 USD  Income:Donations
 --------------------------------------------
      18.58 USD    4062.20 USD    4043.62 USD
+
 </pre>
 
 #### openbioinformatics
@@ -535,13 +565,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   49935.64 USD   49935.64 USD  Equity:Opening Balance
+             0   49935.64 USD   49935.64 USD  Equity:Net-Assets:Restricted
     107.52 USD              0    -107.52 USD  Expenses
       1.35 USD              0      -1.35 USD    Banking:CPFee
     106.17 USD              0    -106.17 USD    IT:Domains
     907.50 USD   18150.00 USD   17242.50 USD  Income:Donations
 --------------------------------------------
    1015.02 USD   68085.64 USD   67070.62 USD
+
 </pre>
 
 #### openembedded
@@ -549,7 +580,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     181.65 USD     181.65 USD  Equity:Opening Balance
+             0     181.65 USD     181.65 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### openvas
@@ -557,7 +589,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      56.21 USD      56.21 USD  Equity:Opening Balance
+             0      56.21 USD      56.21 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### openvoting
@@ -565,11 +598,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     296.81 USD     296.81 USD  Equity:Opening Balance
+             0     296.81 USD     296.81 USD  Equity:Net-Assets:Restricted
       1.15 USD              0      -1.15 USD  Expenses:Banking:CPFee
       1.00 USD      20.00 USD      19.00 USD  Income:Donations
 --------------------------------------------
       2.15 USD     316.81 USD     314.66 USD
+
 </pre>
 
 #### openwrt
@@ -577,11 +611,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    4485.85 USD    4485.85 USD  Equity:Opening Balance
+             0    4485.85 USD    4485.85 USD  Equity:Net-Assets:Restricted
      41.70 USD              0     -41.70 USD  Expenses:Banking:CPFee
      47.55 USD     951.00 USD     903.45 USD  Income:Donations
 --------------------------------------------
      89.25 USD    5436.85 USD    5347.60 USD
+
 </pre>
 
 #### osunix
@@ -589,7 +624,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0       2.92 USD       2.92 USD  Equity:Opening Balance
+             0       2.92 USD       2.92 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### path64
@@ -597,7 +633,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0      18.60 USD      18.60 USD  Equity:Opening Balance
+             0      18.60 USD      18.60 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### plan9
@@ -605,7 +642,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    6500.00 USD    6500.00 USD  Equity:Opening Balance
+             0    6500.00 USD    6500.00 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### postgresql
@@ -613,13 +651,14 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   69483.98 USD   69483.98 USD  Equity:Opening Balance
+             0   69483.98 USD   69483.98 USD  Equity:Net-Assets:Restricted
    1232.94 USD              0   -1232.94 USD  Expenses
       9.72 USD              0      -9.72 USD    Banking:CPFee
    1223.22 USD              0   -1223.22 USD    Meetups:Travel
    1260.50 USD   25210.00 USD   23949.50 USD  Income:Donations
 --------------------------------------------
    2493.44 USD   94693.98 USD   92200.54 USD
+
 </pre>
 
 #### privoxy
@@ -627,11 +666,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     191.22 USD     191.22 USD  Equity:Opening Balance
+             0     191.22 USD     191.22 USD  Equity:Net-Assets:Restricted
       1.35 USD              0      -1.35 USD  Expenses:Banking:CPFee
       1.25 USD      25.00 USD      23.75 USD  Income:Donations
 --------------------------------------------
       2.60 USD     216.22 USD     213.62 USD
+
 </pre>
 
 #### smc
@@ -639,7 +679,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    2483.62 USD    2483.62 USD  Equity:Opening Balance
+             0    2483.62 USD    2483.62 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### spi
@@ -647,7 +688,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0  124032.55 USD  124032.55 USD  Equity:Opening Balance
+             0  124032.55 USD  124032.55 USD  Equity:Net-Assets:Unrestricted
    6231.28 USD              0   -6231.28 USD  Expenses
     781.34 USD              0    -781.34 USD    Banking
      21.00 USD              0     -21.00 USD      AccountFee
@@ -666,6 +707,7 @@ shown as a positive amount.
              0      86.36 USD      86.36 USD    Interest
 --------------------------------------------
    6234.91 USD  157631.76 USD  151396.85 USD
+
 </pre>
 
 #### texmacs
@@ -673,11 +715,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    1081.97 USD    1081.97 USD  Equity:Opening Balance
+             0    1081.97 USD    1081.97 USD  Equity:Net-Assets:Restricted
       0.95 USD              0      -0.95 USD  Expenses:Banking:CPFee
       0.75 USD      15.00 USD      14.25 USD  Income:Donations
 --------------------------------------------
       1.70 USD    1096.97 USD    1095.27 USD
+
 </pre>
 
 #### tidesdk
@@ -685,7 +728,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0     353.99 USD     353.99 USD  Equity:Opening Balance
+             0     353.99 USD     353.99 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### tux4kids
@@ -693,7 +737,8 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0   16277.50 USD   16277.50 USD  Equity:Opening Balance
+             0   16277.50 USD   16277.50 USD  Equity:Net-Assets:Restricted
+
 </pre>
 
 #### yafaray
@@ -701,6 +746,6 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-             0    5849.77 USD    5849.77 USD  Equity:Opening Balance
+             0    5849.77 USD    5849.77 USD  Equity:Net-Assets:Restricted
 </pre>
 
