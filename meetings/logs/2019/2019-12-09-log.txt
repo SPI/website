@@ -1,0 +1,172 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < schultmc> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2019/2019-12-09/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < lamby> Chris Lamb
+20:00 < schultmc> Guests (including board advisors), please /msg your names to schultmc if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < schultmc> Regrets have been received from luca and tpot
+20:00 < lamby> [sfrost will be 5 minutes late.]
+20:00 < schultmc> Michael Schultheiss
+20:00 < tridge> Andrew Tridgell
+20:01 < zobel> Martin Zobel-Helas
+20:01 < zobel> who currently tries to unbreak the agenda.
+20:01 < schultmc> fsf: ping
+20:02 < fsf> Forrest Fleming
+20:02 < zobel> i am happy to wait for sfrost.
+20:02 < zobel> gives me time to fix the agenda...
+20:02 * schultmc is fine waiting as well - that would give us quorum
+20:02 < schultmc> zumbi: ping
+20:06 < zobel> tbm: did you try to reset the nfg password?
+20:06 < lamby> https://twitter.com/revdenoodles/status/1201241693753884674 :)
+20:06 < schultmc> zobel: I reset it and updated access-helpers
+20:06 < tbm> zobel: no. schultmc added it to the file though. maybe he reset it
+20:07 < zobel> i just saw a mail. tha was why i was asking.
+20:07 < zobel> schultmc: did you sent the paperwork to BoA for ML?
+20:07 < Snow-Man> Stephen Frost
+20:07 < Snow-Man> (sorry for running late)
+20:07 < lamby> Hi Snow-Man
+20:07 < Snow-Man> heya
+20:08 < schultmc> zobel: not yet - I've got an update in my president's report after meeting with Key today
+20:09 < schultmc> we're quorate now - moving on
+20:09 < schultmc> [item 3, President's Report]
+20:09 < schultmc> We had a successful treasury team sprint November 20-21, 2019 in NYC
+20:09 < schultmc> followed by a productive board meeting November 22-23, 2019, also in
+20:09 < schultmc> NYC. The treasury team was able to process the vast majority of the
+20:09 < schultmc> outgoing payment backlog and the board is planning weekly meetings to
+20:09 < schultmc> help stay on top of ticket backlog (both treasury and general board
+20:09 < schultmc> tickets).
+20:09 < schultmc> The board received the final audit report for 2018 from our accounting
+20:09 < schultmc> firm and posted it on the treasurer section of the website. Our 990
+20:09 < schultmc> (Federal return) and CHAR500 (New York State return) were also filed by
+20:09 < schultmc> the deadline. We have reached out to the accounting firm to discuss the
+20:09 < schultmc> feasibility of starting the 2019 audit earlier in the year.
+20:09 < schultmc> .
+20:09 < schultmc> The treasury team is working on opening accounts that will provide a
+20:09 < schultmc> better rate of return than the practically 0% return we are currently
+20:09 < schultmc> receiving. I met with a banker at Key Bank today and opened a new money
+20:09 < schultmc> market account that has 100x the interest we previously were receiving
+20:09 < schultmc> for the next six months. We are also working with Merill Lynch to open
+20:10 < schultmc> accounts with their wealth management service (money market and
+20:10 < schultmc> certificates of deposit accounts).
+20:10 < schultmc> .
+20:10 < schultmc> The SPI board is extremely thankful for the work Martin Michlmayr has
+20:10 < schultmc> done working with the auditor and streamlining our bookkeeping. SPI has
+20:10 < schultmc> renewed his contract through the end of 2020.
+20:10 < schultmc> </done>
+20:11 < schultmc> any feedback/questions? Otherwise we'll move on with the agenda.
+20:11 < fsf> none from me
+20:11 < lamby> What are the next steps with ML?
+20:12 < lamby> * Merill Lynch
+20:12 < lamby> I like the sound of 100x interest. :)
+20:12 < schultmc> mailing in the paperwork and sending them the initial deposit
+20:12 < zobel> schultmc: can you check with them (Key) about by status and the CC/DebitCard i want from them?
+20:12 < Snow-Man> (100x0 doesn't sound great, lol ;)
+20:12 < tbm> lamby: still less than inflation though probably
+20:12 < schultmc> although key is now offering 2x the interest of merril lynch for the next 6 months
+20:12 < schultmc> Snow-Man: it was 0.02% and is now 2%
+20:13 < Snow-Man> 2% sounds pretty good
+20:13 < schultmc> practically 0 != 0 :)
+20:13 < schultmc> ML was roughly 1%
+20:13 < Snow-Man> good to use actual numbers ;)
+20:13 < zobel> s/by/my/
+20:13 < schultmc> zobel: yes
+20:13 < schultmc> [item 4, Treasurer's Report]
+20:13 < schultmc> zobel?
+20:13 < zobel> basicaly what i just posted to the agenda...
+20:14 < zobel> We had a successful treasury team sprint during the face-to-face meeting
+20:14 < zobel> in New York. We are down to 2 outstanding approved reimbursements.
+20:14 < zobel> During the face-to-face meeting we had a conference call with
+20:14 < zobel> Martin Michlmayr, where board decided to extend the contract with Martin
+20:14 < zobel> for one more year.
+20:14 < zobel> Martin explained what needs to happen to move to accrual accounting for
+20:14 < zobel> 2020 as well as his plans to move to the software beancount, which will
+20:14 < zobel> give us better reporting.
+20:14 < zobel> We started opening a new bank account with Merrill Lynch for a Money
+20:14 < zobel> Market account and certificates of deposits to get better interest
+20:14 < zobel> rates.
+20:14 < zobel> i am very thankful about the work that tbm is doing, esp. when i was out-of-business the last two weeks.
+20:14 < zobel> </done>
+20:15 < zobel> i also started to download all the XE PDF data for 2019. to be commited later tonight
+20:15  -!- pollo <~ricardo@00020ce3.user.oftc.net> has quit (Ping timeout: 480 seconds)
+20:15 < zobel> .
+20:15 < tbm> I will post the November report shortly.  I'm just doing a final review.
+20:16 < zobel> tbm: thank you very much.
+20:16 < zobel> any questions?
+20:17 < schultmc> [item 5, Secretary's report]
+20:17 < schultmc> tpot sent regrets.
+20:17 < schultmc> We had a successful face-to-face meeting in New York City in
+20:17 < schultmc> Novemeber preceeded by a bookkeeping sprint. Thank you to everyone who
+20:17 < schultmc> attended. The minutes for this meeting are still in progress and
+20:17 < schultmc> should be completed before the next meeting.
+20:17 < schultmc> .
+20:17 < schultmc> A note about Resolution
+20:17 < schultmc> 2019-11-22.tp.1 (http://www.spi-inc.org/corporate/resolutions/2019/2019-11-22.tp.1/)
+20:17 < schultmc> to rescind Board Advisors has been posted to the spi-general list to
+20:17 < schultmc> solicit feedback from the membership.
+20:17 < schultmc> .
+20:17 < schultmc> Any questions?
+20:18 < lamby> (None here.)
+20:18 < Snow-Man> I feel like there were 2 resolutions we had considered at the board meeting but wanted to get member feedback on ... ?  Am I just misremembering?
+20:19 < tbm> schultmc: s/has been/will be/  I haven't seen it on spi-general yet
+20:20 * schultmc pasted what tpot put in the agenda - I assume it's a pending post since I haven't seen it either
+20:20 < Snow-Man> Guess we can wait for tpot, maybe I was just not remembering
+20:21 < Snow-Man> I didn't have anything else
+20:21 < schultmc> [item 6, Outstanding minutes]
+20:21 < schultmc> The minutes for 2019-11-11 require approval.
+20:21 < schultmc> They can be found at http://www.spi-inc.org/meetings/minutes/2019/2019-11-11/
+20:21 < schultmc> Have the board members present had a chance to review the minutes?
+20:22 < fsf> I have
+20:22 < schultmc> Voting started, 6 people (fsf,lamby,schultmc,Snow-Man,tridge,zobel) allowed to vote on Minutes for 13th June 2013 board meeting. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:22 < Snow-Man> I have
+20:22 < lamby> !vote abstain
+20:22 < schultmc> !vote yes
+20:22 < fsf> !vote yes
+20:22 < Snow-Man> wow, 13th June 2013? :D
+20:22 < tridge> !vote abstain
+20:22 < zobel> !vote abstain
+20:23 < Snow-Man> ... should we fix what this vote is on?
+20:23 < schultmc> title of vote should be 2019-11-11 board meeting minutes
+20:23 < schultmc> sorry - copy and paste error (manually serving as vote bot in tpot's absence)
+20:23 < Snow-Man> Sure
+20:23 < Snow-Man> just figured it should be pointed out, heh
+20:23 < Snow-Man> !vote yes
+20:24 < schultmc> Current voting results for "Minutes for 2019-11-11 board meeting": Yes: 3, No: 0, Abstain: 3, Missing: 0 ()
+20:24 < schultmc> Voting for "Minutes for 2019-11-11 board meeting" closed.
+20:24 < schultmc> [item 7, Items up for discussion]
+20:24 < schultmc> [item 7.1, Resolution 2019-11-22.tp.1: Rescind Board Advisors]
+20:24 < schultmc> I believe this should be postponed until January due to the pending discussion
+20:24 < schultmc> on spi-general
+20:24 < zobel> yes, please! +1
+20:25 < Snow-Man> yea, no need to rush it anyway
+20:25 < schultmc> [item 8, Any other business]
+20:25 < schultmc> Anything to discuss?
+20:25 < zobel>  yes
+20:26 < zobel> i have a specific question to Snow-Man, who is handleing contractors
+20:26 < Snow-Man> ok
+20:26 < zobel> Snow-Man: were you able to act on #3207 and the following tickets?
+20:26 < Snow-Man> short answer is no
+20:26 < zobel> i would not like to discuss those now, but i would like to see progress on this.
+20:28 < Snow-Man> We do need to figure out something there.  I have to admit that I didn't view that as being on my plate specifically.
+20:28 < schultmc> Follow up on -board for other pending contractor tasks would also be appreciated.
+20:28 < zobel> Snow-Man: but you are going to take the baton on this?
+20:28 < Snow-Man> Yes, I have a call tonight with our IT contractor (which definitely was on my plate :)
+20:28 < schultmc> those specific questions may need legal assistance
+20:29 < Snow-Man> I agree with schultmc's comments.
+20:29 < zobel> so who will take that action item?
+20:29 * schultmc did an emergency Band-Aid on bender to fix RT last week. FYI
+20:30 < Snow-Man> zobel: I'll try to move it forward.
+20:30 < fsf> I just want to make folks aware of where I am re: logo. I've done no significant work on creating the contest/submission process/etc. Zobel, were you able to reach out to your friend? I've been blocking on their advice, but I'm not sure that's necessary (though I'd prefer slow-and-correct to fast-and-wrong)
+20:31 < schultmc> Anything else to discuss in AOB?
+20:31 < zobel> Snow-Man: thanks. </done>
+20:32 < schultmc> [item 9, Next board meeting]
+20:32 < schultmc> The next board meeting is scheduled for: January 13th, 2020 at 20:00 UTC
+20:32 < schultmc> Any objections?
+20:32 < lamby> wfm
+20:32 < fsf> No objections from me.
+20:32 < zobel> wfm
+20:33 < schultmc> *GAVEL*
+20:33 < lamby> Thanks all. :)
+20:33 < schultmc> Thank you for your participation
+20:33 < Snow-Man> Thanks all :)
