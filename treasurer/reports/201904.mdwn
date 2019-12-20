@@ -27,8 +27,8 @@
   21561.76 USD     126.51 USD   21435.25 USD  Expenses
    5510.00 USD              0    5510.00 USD    Accounting
    1138.90 USD     125.67 USD    1013.23 USD    Bank-Fees
-   1110.06 USD              0    1110.06 USD    Conferences
-    505.07 USD              0     505.07 USD      Dining
+   2009.25 USD              0    2009.25 USD    Conferences
+   1404.26 USD              0    1404.26 USD      Dining
     604.99 USD              0     604.99 USD      Venue
       0.84 USD       0.84 USD              0    Disassociation
    3017.62 USD              0    3017.62 USD    IT
@@ -36,9 +36,9 @@
    2344.29 USD              0    2344.29 USD      Hosting
     630.00 USD              0     630.00 USD      Services
      87.40 USD              0      87.40 USD    Office:Postal
-  10696.94 USD              0   10696.94 USD    Travel
+   9797.75 USD              0    9797.75 USD    Travel
    2006.09 USD              0    2006.09 USD      Accommodation
-   1609.93 USD              0    1609.93 USD      Dining
+    710.74 USD              0     710.74 USD      Dining
    7080.92 USD              0    7080.92 USD      Transportation
    3271.78 USD   69426.24 USD  -66154.46 USD  Income
      56.00 USD     835.00 USD    -779.00 USD    Conferences:Registrations
@@ -75,8 +75,8 @@
  147321.93 USD    1920.06 USD  145401.87 USD  Expenses
    5510.00 USD              0    5510.00 USD    Accounting
    3342.16 USD     560.99 USD    2781.17 USD    Bank-Fees
-   7319.26 USD              0    7319.26 USD    Conferences
-    941.96 USD              0     941.96 USD      Dining
+   8218.45 USD              0    8218.45 USD    Conferences
+   1841.15 USD              0    1841.15 USD      Dining
    4206.31 USD              0    4206.31 USD      Materials
    2170.99 USD              0    2170.99 USD      Venue
       0.84 USD       0.84 USD              0    Disassociation
@@ -89,9 +89,9 @@
     875.00 USD              0     875.00 USD    Legal
     936.88 USD              0     936.88 USD    Office:Postal
    5047.46 USD              0    5047.46 USD    Software-Development
-  60058.12 USD    1358.23 USD   58699.89 USD    Travel
+  59158.93 USD    1358.23 USD   57800.70 USD    Travel
   20649.04 USD              0   20649.04 USD      Accommodation
-   9649.30 USD              0    9649.30 USD      Dining
+   8750.11 USD              0    8750.11 USD      Dining
   29759.78 USD    1358.23 USD   28401.55 USD      Transportation
   24971.40 USD  542570.87 USD -517599.47 USD  Income
     141.50 USD    2260.00 USD   -2118.50 USD    Conferences:Registrations
@@ -343,7 +343,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    899.19 USD              0    -899.19 USD  Expenses:Travel:Dining
+    899.19 USD              0    -899.19 USD  Expenses:Conferences:Dining
 
 </pre>
 
@@ -868,9 +868,9 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0    5353.20 USD    5353.20 USD  Equity:Net-Assets:Restricted
-   1363.01 USD              0   -1363.01 USD  Expenses
-    463.82 USD              0    -463.82 USD    Conferences:Venue
-    899.19 USD              0    -899.19 USD    Travel:Dining
+   1363.01 USD              0   -1363.01 USD  Expenses:Conferences
+    899.19 USD              0    -899.19 USD    Dining
+    463.82 USD              0    -463.82 USD    Venue
 --------------------------------------------
    1363.01 USD    5353.20 USD    3990.19 USD
 
