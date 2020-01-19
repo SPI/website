@@ -1,0 +1,143 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < schultmc> Today's agenda can be found on the web at: http://www.spi-inc.org/meetings/agendas/2020/2020-01-13/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00  -!- lamby <~l4mby@cpc91204-cmbg18-2-0-cust10.5-4.cable.virginm.net> has joined #spi
+20:00 < schultmc> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < schultmc> Michael Schultheiss
+20:00 < fsf> Forrest Fleming
+20:00 < Snow-Man> Stephen Frost
+20:00 < lamby> Chris Lamb
+20:00 < tridge> Andrew Tridgell
+20:01 < schultmc> zobel? tpot? zumbi? luca?
+20:02 < Snow-Man> zobel had said he mihgt not make it
+20:02 < schultmc> ok
+20:02 < tridge> I'm sent an SMS to tpot
+20:02 < tridge> err, I've
+20:02 < tpot> Tim Pottern
+20:02 < tpot> Tim Potter
+20:03 < tpot> Sorry, making coffee.
+20:03 < schultmc> that's quorum - we can go ahead and continue. Others can join as they're able
+20:03 < lamby> :)
+20:03 < fsf> ....more like 'cpot' ;)
+20:03 < schultmc> [item 3, President's Report]
+20:03 < schultmc> Tremendous thanks to SPI Vice President, Stephen Frost, for his
+20:03 < schultmc> efforts regarding contracts for SPI's paid contractors.
+20:03 < schultmc> I met with Merrill Lynch last week and started the process of
+20:03 < schultmc> opening SPI's money market account with Merrill. Due to the higher rate
+20:03 < schultmc> of return offered temporarily by Key Bank, our Merrill account will
+20:03 < schultmc> start out with a smaller amount than originally planned. We can transfer
+20:03 < schultmc> additional funds once Key's promotional rate expires later this year.
+20:04 < schultmc> </end>
+20:04 < tpot> fsf: haha
+20:04 < lamby> Thanks for that.
+20:04 < Snow-Man> Thanks.  There is more work to be done wrt the contractors, of course.
+20:05 < tpot> seconded - awesome work
+20:05 < lamby> Here's a related yet unrelated question regarding the interest. Would we not, in some way, owe some of this to our member projects? I mean, we are holding cash balances on their behalf.
+20:05 < Snow-Man> schultmc: any chance we can get 3717 resolved soon..?
+20:05 < schultmc> Snow-Man: I'll take a look
+20:05 < schultmc> yes - I'll handle that today
+20:05 < Snow-Man> great, thanks!
+20:06 < schultmc> Any other questions for item 3?
+20:07 < fsf> None from me
+20:07 < schultmc> we can determine a policy on what to do with regards to interest.
+20:08 < schultmc> higher rates of return do allow SPI to potentially operate without needing to raise its percentage with regards to incoming donations
+20:08 < schultmc> [item 4, Treasurer's Report]
+20:08 < schultmc> zobel isn't currently here.
+20:08 < schultmc> .
+20:08 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:08 < schultmc> more timely ticket handling. The backlog is much lower than it has been in
+20:08 < schultmc> the recent past.
+20:08 < schultmc> .
+20:09 < schultmc> any questions?
+20:10 < tpot> Just reading the treasury report - can we get Archlinux32 in the report? I suspect the balance will be zero thouhg.
+20:10 < Snow-Man> for my 2c at least, wrt the projects, I don't believe we 'owe' them for any particular rate of return, or any at all.
+20:11 < tpot> I will file a RT
+20:11 < schultmc> [item 5, Secretary's report]
+20:11 < schultmc> tpot?
+20:12 < tpot> Nothing new to report unfortunately. Have been on holidays and just starting to catch up on my TODO list.
+20:13 < tpot> unfortunately I had another (!) laptop failure so didn't manage to get the mintutes for the F2F completed. Will attempt to get that done in the next couple of days.
+20:13 < tpot> .
+20:14 < schultmc> [item 6, Outstanding minutes]
+20:14 < schultmc> tpot: do we have any minutes to approve today? I didn't see any on the website.
+20:14 < tpot> We had our 9th December non-quorum meeting.
+20:14 < tpot> And the f2f ones which aren't ready.
+20:15 < tpot> Ah I thought that tbm typed up some minutes for december
+20:15 < tpot> But only did the logs - OK another for the TODO list then.
+20:16 < schultmc> [item 7, Items up for discussion]
+20:16 < schultmc> [item 7.1, Resolution 2019-11-22.tp.1: Rescind Board Advisors]
+20:16 < schultmc> tpot?
+20:16 < tpot> There was some discussion on the for side and against side.
+20:17 < tpot> Is everyone familiar with the resolution?
+20:17 < Snow-Man> I don't recall there being serious opposition to it..
+20:17 < schultmc> we have a few dozen projects - it seems odd to only have advisors from Debian and PostgreSQL
+20:18 < Snow-Man> there was some "well, why get rid of it even if we aren't using it", but I don't really see that as an endorsement for keeping it
+20:18 < tpot> agreed
+20:18 < Snow-Man> I'll admit this is mostly recall from memory- I've not looked it over recently, so if someone recalls something different, please speak up
+20:19 < schultmc> http://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.dbg.3/ doesn't say only Debian and PostgreSQL get advisors
+20:19 < tpot> It's somewhat vestigial now.
+20:20 * schultmc is fine with voting on the resolution. It could always be resurrected in the future if so desired.
+20:20 < fsf> I agree with schultmc
+20:20 < lamby> .o( wow, 2004 is 16 years ago ... /o\ )
+20:20 < lamby> Agreed here too.
+20:20 < Snow-Man> I'm fine to vote on it
+20:21 < tpot> OK let's go then
+20:21 < tpot> Voting started, 0 people () allowed to vote on Resolution 2019-11-22.tp.1 - Rescind Board Advisors. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:21 < tpot> :tpot,tridge,schultmc,fsf,Snow-Man,lamby
+20:21 < tpot> oops
+20:21 < tpot> Current voting results for "Resolution 2019-11-22.tp.1 - Rescind Board Advisors": Yes: 0, No: 0, Abstain: 0, Missing: 0 ()
+20:21 < tpot> Voting for "Resolution 2019-11-22.tp.1 - Rescind Board Advisors" closed.
+20:21 < tpot> Voting started, 6 people (tpot,tridge,schultmc,fsf,snow-man,lamby) allowed to vote on Resolution 2019-11-22.tp.1 - Rescind Board Advisors. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:21 < schultmc> !vote yes
+20:21 < Snow-Man> !vote yes
+20:21 < tpot> !vote yes
+20:21 < lamby> !vote yes
+20:22 < fsf> !vote yes
+20:22 < tridge> !vote no
+20:22 < tpot> Current voting results for "Resolution 2019-11-22.tp.1 - Rescind Board Advisors": Yes: 5, No: 1, Abstain: 0, Missing: 0 ()
+20:22 < tpot> Voting for "Resolution 2019-11-22.tp.1 - Rescind Board Advisors" closed.
+20:22 < schultmc> [item 7.2, AWS Agreements for Debian Cloud]
+20:22 < schultmc> whose item was this?
+20:22 < tpot> luca
+20:22 < tpot> Well he asked to have it on the list
+20:23 < lamby> Luca.
+20:23 < tpot> I'm assuming there was some discussion he wanted to have.
+20:24 * Snow-Man is wondering if, perhaps, he was just hoping to prod us into taking some action that we already knew we needed to
+20:24 < Snow-Man> idk what that action is tho, offhand..
+20:24 < Snow-Man> Do we have an agreement in front of us or in an RT ticket or something to review?
+20:24 < Snow-Man> istr zobel implying we did..
+20:24 < lamby> Is this RT#3383 ?
+20:24 < tpot> I wasn't given any other information.
+20:24 < schultmc> someone from AWS reached out to me recently to arrange a phone call. I can discuss outstanding items with them.
+20:25 < Snow-Man> ah, ok, cool
+20:25 < schultmc> 3383 looks like a print out of terms - I don't see a form to accept/reject the terms
+20:25 < tpot> There's also the govcloud thing in the queue as well. 3574
+20:26 < Snow-Man> yeah, I recall that there was a question there of "where do we actually sign this thing"
+20:26 < lamby> Hm.
+20:26 < tpot> From memory the discussion at the f2f having the SPI Marketplace agreement was no issue.
+20:27 < schultmc> zobel was going to reach out to bastian to determine the next steps. I can reach out to him.
+20:27 < tpot> Other than the SPI taking on an uncertain amount of risk on behalf of our projects.
+20:27 < Snow-Man> yes!  that's what I recall as well
+20:27 < tpot> which is kind of our job
+20:27 * Snow-Man smirks
+20:27 < Snow-Man> hopefully not *too* uncertain, but, yes..
+20:28 < tpot> small amounts of both i suspect
+20:29 < tpot> In principle AWS Marketplace agreement was OK. With govcloud I think there was some uncertainty around implementation since there is a US citizen requirement.
+20:29 < schultmc> a subset of the board is US citizens
+20:30 < schultmc> speaking of citizens, there were some citizen requirements for the Merrill Lynch account - I'll follow up offline on that
+20:31 < tpot> I don't think there is a vote required for signing the marketplace agreement. I will follow up with Luca and see what he wanted to achieve.
+20:32 < Snow-Man> no, no vote needed
+20:38 < tpot> I've pinged Luca and will keep this going via email
+20:39 < tpot> schultmc: shall we move on?
+20:39 < fsf> let's
+20:40 < schultmc> yes - sorry, got stopped by $WORK
+20:40 < schultmc> [item 8, Any other business]
+20:40 < schultmc> Anything to discuss?
+20:41 < schultmc> [item 9, Next board meeting]
+20:41 < schultmc> The next board meeting is scheduled for: February 10th, 2020 at 20:00 UTC
+20:41 < schultmc> Any objections?
+20:41 < tpot> sounds good
+20:41 < schultmc> works for me
+20:41 < schultmc> *GAVEL*
