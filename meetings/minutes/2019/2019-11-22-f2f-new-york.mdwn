@@ -43,13 +43,13 @@ __Registered guests present__
 
 ### Opening
 
-* Michael Schultheiss - welcome
+* Michael Schultheiss - welcome.
 
-* Overview of treasurer sprint
-  * Treasurer RT queue nearly emptied
-  * Many payments made and some double and missing payments rectified
-  * Various contract and invoicing issues addressed
-  * Credit applications for Debian to various vendors also addressed
+* Overview of treasurer sprint:
+  * Treasurer RT queue nearly emptied.
+  * Many payments made and some double and missing payments rectified.
+  * Various contract and invoicing issues addressed.
+  * Credit applications for Debian to various vendors also addressed.
   
 ### Summary of audit result
 
@@ -67,28 +67,26 @@ __Registered guests present__
 * Decisions/Action Items
 
     * We need to engage with auditor earlier in the year to facilitate
-      earlier filing of tax forms, including
-      * Federal Form 990 (always)
+      earlier filing of tax forms, including:
+      * Federal Form 990 (always).
       * NY State CHAR 500 (Switch registration to Dual (EPTL and 7-A) when
-        necessary as determined by the auditor)
-    * Talk to Martin Michlmayr to convert to accrual-based accounting for 2020, commencing immediately
-    * Draft the recommended policies
-    * Resolved to use the firm for last year's audit for subsequent audits
-    * Discuss the creationg of a sponsorship policy
+        necessary as determined by the auditor).
+    * Talk to Martin Michlmayr to convert to accrual-based accounting for 2020, commencing immediately.
+    * Draft the recommended policies.
+    * Resolved to use the firm for last year's audit for subsequent audits.
+    * Discuss the creationg of a sponsorship policy.
     * Deliver audit data to accountant Gary by end of January/early
-      February with goal of having audit completed by July AGM
+      February with goal of having audit completed by July AGM.
 
 ### Discussion of the renewal of Martin Michlmayr's contract
 
 * Tim Potter brought up the renewal of Martin Michlmayr's part-time
   contract of working of working for the SPI.
-
   * Martin has been doing a fantastic and much-needed job and there have
     been no issues or complaints.
 
 * Decision/Action Items
-
-  * Michael Schultheiss to renew Martin's contract for another year
+  * Michael Schultheiss to renew Martin's contract for another year.
   * Suggest to Martin that unsolicited proposals for future work come
   with a time and scope estimate which can be voted on by the Board.
   
@@ -98,7 +96,7 @@ __Registered guests present__
   cash remaining for the Freedom Box project, having now created their
   own foundation.
 
-* Zobel-Helas transferred the balance to them on 2019-02-28 (RT#2166)
+* Zobel-Helas transferred the balance to them on 2019-02-28 (RT#2166).
 
 ### SPI Mandate
 
@@ -142,16 +140,16 @@ __Registered guests present__
 ### Policies and Documentation
 
 * As recommended by the auditor the SPI should put some more policies
-  and documentation in place. In particular we are missing
+  and documentation in place. In particular we are missing:
   * Expense policy - that is what we can spend money on to comply with New York law for non-profits.
   * Whistleblower policy - where does a whistleblower complain to?
   * Gift policy - value and nature of gifts to and from the SPI, again to comply with New York law for non-profits.
-  * Code of Conduct for projects
-  * Possible update to bylaws for code of conduct requirement for member projectd?
+  * Code of Conduct for projects.
+  * Possible update to bylaws for code of conduct requirement for member projects?
 
-* Decision/Action Itmes
-  * Tim Potter to survey members of code of conduct
-  * Someone to obtain advice from accountant about whistleblower and gift policy
+* Decision/Action Items
+  * Tim Potter to survey members of code of conduct.
+  * Someone to obtain advice from accountant about whistleblower and gift policy.
 
 ### New bylaws
 
@@ -166,8 +164,8 @@ __Registered guests present__
     passing new bylaws in preference to making more modifications.
   * Advertise/market the need for bylaws in order to encourage more voting.
     
-  * Decision/Action Items
-    * Tim Potter to fix typos and minor changes and resubmit for a vote in 2020
+  * Decision/Action Items:
+    * Tim Potter to fix typos and minor changes and resubmit for a vote in 2020.
 
 ### Another ontractor for general work
 
@@ -179,7 +177,7 @@ __Registered guests present__
   * Michlmayr already developing SPI Handbook.
 
 * Decision/Action Items
-  * Find second person to be a contracgtor.
+  * Find second person to be a contractor.
   * Michlmayr would train him or her up.
 
 ### Tooling
@@ -194,28 +192,28 @@ __Registered guests present__
     the PayPal API.
   
 * Decision/Action Itmes
-  * Find or develop possible list of pros/cons for Beancount vs Ledger
+  * Find or develop possible list of pros/cons for Beancount vs Ledger.
 
 ### Chef Sponsorship
 
 * Tim Potter brought up the topic of Chef sponsorship.
 
 * Discussion
- * We are using a gratis commercial license for Chef
- * Chef are asking for recognition on the website
+ * We are using a gratis commercial license for Chef.
+ * Chef are asking for recognition on the website.
  * Contents of Chef repo not dependant on commercial Chef components -
    can migrate to Debian or open source binary Chef if required.
 
  * Decisions/Action Items
    * No objection to putting Chef sponsorship notice/logo on website if
-     we are actually using Chef
+     we are actually using Chef.
    * Stephen Frost to reassure the infrastructure contractor on our
      commitment Chef and to forward any non-technical Chef issues to
      board@spi-inc.org
 
 ## Status of infrastructure contract
 
-* Steven Frost wanted to talk about our current infrastructure contract
+* Steven Frost wanted to talk about our current infrastructure contract.
 
 * Discussion
     * Slow progress towards Chef-based infrastructure.
@@ -250,12 +248,10 @@ __Registered guests present__
 * Stephen Frost directed a discussion about reimbursement issues.
 
 * Discussion
-
-* Want to avoid mailing cheques to other countries as much as possible
-  due to high time and monetary cost.
-
-* There are numerous alternatives to wire transfer (e.g paypal,
-  Interac e-Transfers) which we can consider.
+  * Want to avoid mailing cheques to other countries as much as possible
+    due to high time and monetary cost.
+  * There are numerous alternatives to wire transfer (e.g paypal,
+    Interac e-Transfers) which we can consider.
 
 * Decision/Action Items
   * We will no longer allow reimbursement via international cheques.
@@ -285,62 +281,70 @@ __Registered guests present__
 
 * Luca Filipozzi brought up the topic of hosting email
   * Discussion
-    * Like DNS but no actual assets to own
-    * We want to have nothing to do with running or hosting email
-    * Existing things we wish to divest
+    * Like DNS but no actual assets to own.
+    * We want to have nothing to do with running or hosting email.
+    * Existing things we wish to divest:
       * emdebian.org (dead)
       * fresco.org (dead)
       * privoxy.org
       * themanaworld.com
-    * Dependency on email send/receive for RT
+    * Dependency on email send/receive for RT.
     * What to do with email lists?
-      * Google Groups
-      * riseup.net does mailman hosting
+      * Google Groups?
+      * riseup.net also does mailman hosting.
     
   * Decisions/Action Items
-    * As a matter of policy we don't want be involved in email at all  
-    * Create inventory of current assets/responsibilities/existing with respect to email
-    * When moving to Gandi drop email support
-    * Investigate move spi-inc.org email to hosting provider
-      * Does G-Suite for non-profits doesn't read email or monetization, check terms of service
-      * Investigate protonmail
-    * Find a hosting provider for email lists
+    * As a matter of policy we don't want be involved in email at all.
+    * Create inventory of current assets/responsibilities/existing with respect to email.
+    * When moving to Gandi drop email support.
+    * Investigate move spi-inc.org email to hosting provider.
+      * Does G-Suite for non-profits doesn't read email or monetization, check terms of service.
+      * Investigate protonmail.
+    * Find a hosting provider for email lists.
 
 ### Website hosting
 
-* Tim Potter hosted the discussion on website hosting
-  * Discussion
-    * We have project-specific and internal requirements for website hosting
-    * Noodles wants to stop hosting members.spi-inc.org
-  * Decisions
-    * No definite decision made as we are dependent on infrastructure situation plays out
+Tim Potter hosted the discussion on website hosting.
+
+* Discussion
+  * We have project-specific and internal requirements for website hosting.
+  * Noodles wants to stop hosting members.spi-inc.org.
+
+* Decisions/Action Items
+    * No definite decision made as we are dependent on infrastructure situation plays out.
 
 ### Git hosting
 
-* In a similar vein to website hosting Tim Potter talked about git hosting
-  * Discussion
-    * Continue hosting our own git via gitolite
-    * Never host project git repo
-  * Decisions
-    * No change from current setup and toolset
+In a similar vein to website hosting Tim Potter talked about git hosting.
+
+* Discussion
+  * Continue hosting our own git repositoriesvia gitolite.
+  * Never host project git repositories.
+
+* Decisions/Action Items
+  * No change from current setup and toolset.
 
 ### Real-time collaboration tools
 
-* Luca Filipozzi mentioned realtime collaboration tools
-  * Discussion
-    * Reaffirm existing decision not to proceed
-    * G-Suite chat available?
-  * Decisions
-    * Luca updated RT ticket
+Luca Filipozzi mentioned realtime collaboration tools.
+
+* Discussion
+  * Reaffirm existing decision not to proceed.
+  * G-Suite chat available?
+
+* Decisions/Action Items
+  * Luca updated RT ticket.
 
 ### RT "board" queue bug squashing party
 
-* A bug squashing party commenced where much needed work was performed.
-  * Closed out ancient tickets which were vague or out of date
-  * Delete RT queue named "General"
-  * Triaged and assigned owners to existing tickets in board RT queue
-  * Added new tickets for associated project requests
-  * Created rescinding board advisor resolution for December meeting agenda
+A bug squashing party commenced where much needed work was performed.
+
+* Summary:
+  * Closed out ancient tickets which were vague or out of date.
+  * Delete RT queue named "General".
+  * Triaged and assigned owners to existing tickets in board RT queue.
+  * Added new tickets for associated project requests.
+  * Created rescinding board advisor resolution for December meeting agenda.
 
 ## Saturday, November 23rd 2019
 
@@ -354,18 +358,18 @@ with.
 
 Miscellaneous issues and goals that came up during various discussions
 
-* Need to schedule next Fall face-to-face meeting in September/October 2020
-* Would like to have fully audited statements for July AGM
-* Implement fiscal controls needed/recommended by auditor
+* Need to schedule next Fall face-to-face meeting in September/October 2020.
+* Would like to have fully audited statements for July AGM.
+* Implement fiscal controls needed/recommended by auditor.
   * e.g a board member with read-only access to accounts checks 
     balances against reports at end of month.
-  * Determine whether it's possible to have read-only access to bank accounts
+  * Determine whether it's possible to have read-only access to bank accounts.
 
 ### Onboarding/offboarding of projects
 
   * Discussion
-    * We have some documentation of onboarding projects but, none for offboarding
-    * Martin Michlmayr is working on a SPI handbook
+    * We have some documentation of onboarding projects but, none for offboarding.
+    * Martin Michlmayr is working on a SPI handbook.
 
 ### Improving rate of return on cash balance
 
@@ -373,12 +377,12 @@ Michael Schultheiss thought that it was time to consider improving the
 rate of return on the SPI's cash balance.
 
 * Discussion
-  * Merryl-Lynch/Bank of America have an endowment management account which pays >0%
-  * Some cost and feature benefits of BoA account
-  * Proposal to use CDs to earn ~1% annualised and staggered over 3 months
+  * Merryl-Lynch/Bank of America have an endowment management account which pays >0%.
+  * Some cost and feature benefits of BoA account.
+  * Proposal to use CDs to earn ~1% annualised and staggered over 3 months.
 
 * Decisions/Action Items  
-  * Approval was given for investment in safe, liquid assets (e.g CDs), by vote of hands
+  * Approval was given for investment in safe, liquid assets (e.g CDs), by vote of hands.
 
 ### Vote on Minutes for Monday October 14th
 
@@ -404,10 +408,11 @@ Martínez, to have an IRC meeting to review RT tickets in progress.
 
 * Discussion
   * Idea is for everyone to keep up-to-date with RT tickets that are being worked on.
+  
 * Decisions/Action Items
-    * Thursday 1500 EST / 2000 UTC / 2100 CET / 0700 AEDT (Friday)
-    * IRC semi-async on #spi-private IRC
-    * Martin Zobel-Helas to create #spi-private channel locked, allow board+tbm
+    * Thursday 1500 EST / 2000 UTC / 2100 CET / 0700 AEDT (Friday).
+    * IRC semi-async on #spi-private IRC.
+    * Martin Zobel-Helas to create #spi-private channel locked, allow board+tbm only.
 
 ### SPI membership app
 
@@ -415,19 +420,20 @@ The SPI membership app is getting a little creaky and still runnning
 on Noodle's system despite his pleas to move it.
 
 * Discussion
-    * Becoming more urgent to move off Noodles' system to maintain goodwill
-    * Currently contractor situation needs to be resolved first
+    * Becoming more urgent to move off Noodles' system to maintain goodwill.
+    * Currently contractor situation needs to be resolved first.
     * Create a 2xlarge VM and move over if required quickly?
+    
 * Decision/Action Items
-    * Blocked by IT contractor situation so lets wait and see
+    * Blocked by IT contractor situation so lets wait and see.
 
 ### Next face-to-face meeting
 
 When should the next face-to-face meeting be held?
 
 * Discussion
-     * Still to be determined
-     * Agenda would be focused on a treasurer/audit/2019 books focused sprint and infrastructure
+     * Still to be determined.
+     * Agenda would be focused on a treasurer/audit/2019 books focused sprint and infrastructure.
      * Should we invite any contractors?
 
 ### Close
