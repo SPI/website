@@ -101,10 +101,10 @@ __Registered guests present__
 
 * Luca led an interesting discussion about the mandate of the
   SPI. What is the difference between the SPI vs the Software Freedom
-  Conservancy? Should there be two organisations in this space?
+  Conservancy? Should there be two organizations in this space?
 
 * Conclusion: the SPI and the Software Freedom Conservancy have
-  different model of interactiving with projects with Conservancy more
+  different model of interacting with projects with Conservancy more
   day-to-day hands-on with projects.
 
 * Decision: the opinion was that there is enough difference between
@@ -122,7 +122,7 @@ __Registered guests present__
   non-profit insurance section of the market and declined to insure
   the SPI for 2019/2020.
 
-* Insurance is now in place backdated to the August 18 2019 through to
+* Insurance is now in place back dated to the August 18 2019 through to
   August 2020.
 
 ### General Liability Insurance
@@ -166,13 +166,13 @@ __Registered guests present__
   * Decision/Action Items:
     * Tim Potter to fix typos and minor changes and resubmit for a vote in 2020.
 
-### Another ontractor for general work
+### Another contractor for general work
 
 * Luca Filipozzi brought up the idea of developing a new contractor.
 
 * Discussion
-  * It is considered a good idea to engage another peerson to avoid
-    relying soley on Martin Michlmayr.
+  * It is considered a good idea to engage another person to avoid
+    relying solely on Martin Michlmayr.
   * Michlmayr already developing SPI Handbook.
 
 * Decision/Action Items
@@ -181,7 +181,7 @@ __Registered guests present__
 
 ### Tooling
 
-* Luca Filipozzi started discussing tooling for processing/analysing
+* Luca Filipozzi started discussing tooling for processing/analyzing
   donations.
 
 * Discussion
@@ -190,7 +190,7 @@ __Registered guests present__
     moved to processing CSV downloads for donation info instead of using
     the PayPal API.
   
-* Decision/Action Itmes
+* Decision/Action Items
   * Find or develop possible list of pros/cons for Beancount vs Ledger.
 
 ### Chef Sponsorship
@@ -199,12 +199,12 @@ __Registered guests present__
 
 * Discussion
  * We are using a gratis commercial license for Chef.
- * Chef are asking for recognition on the website.
- * Contents of Chef repo not dependant on commercial Chef components -
+ * Chef are asking for recognition on the web site.
+ * Contents of Chef repository not dependent on commercial Chef components -
    can migrate to Debian or open source binary Chef if required.
 
 * Decisions/Action Items
- * No objection to putting Chef sponsorship notice/logo on website if
+ * No objection to putting Chef sponsorship notice/logo on web site if
    we are actually using Chef.
  * Stephen Frost to reassure the infrastructure contractor on our
    commitment Chef and to forward any non-technical Chef issues to
@@ -219,7 +219,7 @@ __Registered guests present__
 
 * Decisions/Action Items
   * Recommend to contractor to avoid working outside of the SPI board.
-  * Stephen Frost to review actions and timelines with contractor,
+  * Stephen Frost to review actions and time lines with contractor,
     noting urgency to upgrade the infrastructure.
   * Stephen Frost to review interaction model between community, board
     and contractor(s); community critiques should be addressed to the
@@ -231,7 +231,7 @@ __Registered guests present__
 * Luca Filipozzi wanted to show off his new reimbursement form. He
   demonstrated a React.js-based reimbursement form with nifty business
   logic for generating PDF reimbursement bank details. The tool is
-  publically available on a github repo with pull request and issue
+  publicly available on a Github repo with pull request and issue
   queue enabled.
 
 * Discussion
