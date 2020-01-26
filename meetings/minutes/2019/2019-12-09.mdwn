@@ -1,0 +1,176 @@
+[[!meta copyright="Copyright © 2019 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, December 9th, 2019
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice President)
+* Martin Zobel-Helas (zobel) (Treasurer)
+* Forrest Fleming (fsf)
+* Héctor Orón Martínez (zumbi)
+* Chris Lamb (lamby)
+* Andrew Tridgell (tridge)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Luca Filipozzi (luca)
+* Tim Potter (tpot) (Secretary)
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* None
+
+These are the minutes for the December 9th, 2019 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2019/2019-12-09-log.txt).
+
+## President's Report
+
+<pre>
+We had a successful treasury team sprint November 20-21, 2019 in NYC
+followed by a productive board meeting November 22-23, 2019, also in
+NYC. The treasury team was able to process the vast majority of the
+outgoing payment backlog and the board is planning weekly meetings to
+help stay on top of ticket backlog (both treasury and general board
+tickets).
+
+The board received the final audit report for 2018 from our accounting
+firm and posted it on the treasurer section of the website. Our 990
+(Federal return) and CHAR500 (New York State return) were also filed by
+the deadline. We have reached out to the accounting firm to discuss the
+feasibility of starting the 2019 audit earlier in the year.
+
+The treasury team is working on opening accounts that will provide a
+better rate of return than the practically 0% return we are currently
+receiving. I met with a banker at Key Bank today and opened a new money
+market account that has 100x the interest we previously were receiving
+for the next six months. We are also working with Merill Lynch to open
+accounts with their wealth management service (money market and
+certificates of deposit accounts).
+
+The SPI board is extremely thankful for the work Martin Michlmayr has
+done working with the auditor and streamlining our bookkeeping. SPI has
+renewed his contract through the end of 2020.
+</pre>
+
+## Treasurer's report
+
+<pre>
+We had a successful treasury team sprint during the face-to-face meeting
+in New York. We are down to 2 outstanding approved reimbursements.
+
+During the face-to-face meeting we had a conference call with
+Martin Michlmayr, where board decided to extend the contract with Martin
+for one more year.
+
+Martin explained what needs to happen to move to accrual accounting for
+2020 as well as his plans to move to the software beancount, which will
+give us better reporting.
+
+We started opening a new bank account with Merrill Lynch for a Money
+Market account and certificates of deposits to get better interest
+rates.
+
+I am very thankful about the work that tbm is doing, esp. when I was
+out-of-business the last two weeks.
+</pre>
+
+## Secretary's report
+
+<pre>
+We had a successful face-to-face meeting in New York City in
+Novemeber preceeded by a bookkeeping sprint. Thank you to everyone who
+attended. The minutes for this meeting are still in progress and
+should be completed before the next meeting.
+
+A note about Resolution [2019-11-22.tp.1](../../corporate/resolutions/2019/2019-11-22.tp.1/)
+to rescind Board Advisors has been posted to the spi-general list to
+solicit feedback from the membership.
+</pre>
+
+### Vote on Minutes for Monday, 11th November 2019
+
+<table>
+<tbody>
+ <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+ <tr><td>Stephen Frost</td><td>Yes</td></tr>
+ <tr><td>Chris Lamb</td><td>Abstain</td></tr>
+ <tr><td>Martin Zobel-Helas</td><td>Abstain</td></tr>
+ <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+ <tr><td>Andrew Tridgell</td><td>Abstain</td></tr>
+</tbody>
+</table>
+
+Motion did not pass with vote of 3 yes, 0 no, 3 abstain. The vote was
+rescheduled until the next meeting to allow board members to review
+the minutes.
+
+### Resolution 2019-11-22.tp.1: Rescind board advisors
+
+No vote was taken to allow further discussion to take place on the
+spi-general mailing list.
+
+## Any other business
+
+Some minor discussions of work-in-progress were had.
+
+## Adjournment
+
+The meeting was adjourned until Monday Feburary 10th, 2020 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td><td>Treasurer</td></tr>
+<tr><td>July 2017</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+</tbody>
+</table>
+20:10 < schultmc> The SPI board is extremely thankful for the work Martin Michlmayr has
+20:10 < schultmc> done working with the auditor and streamlining our bookkeeping. SPI has
+20:10 < schultmc> renewed his contract through the end of 2020.
+</pre>
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td><td>Treasurer</td></tr>
+<tr><td>July 2017</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+</tbody>
+</table>
