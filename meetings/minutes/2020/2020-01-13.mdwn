@@ -1,0 +1,116 @@
+[[!meta copyright="Copyright © 2020 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, January 13th, 2020
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice President)
+* Tim Potter (tpot) (Secretary)
+* Forrest Fleming (fsf)
+* Héctor Orón Martínez (zumbi)
+* Chris Lamb (lamby)
+* Andrew Tridgell (tridge)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Luca Filipozzi (luca)
+* Martin Zobel-Helas (zobel) (Treasurer)
+
+__Board members absent__
+
+* None
+
+__Board advisors present__
+
+* None
+
+__Registered guests present__
+
+* Phlip Balister (Crofton) (OpenEmbedded)
+
+These are the minutes for the Janurary 13th, 2020 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2020/2020-01-13-log.txt).
+
+## President's Report
+
+<pre>
+Tremendous thanks to SPI Vice President, Stephen Frost, for his
+efforts regarding contracts for SPI's paid contractors.
+I met with Merrill Lynch last week and started the process of
+opening SPI's money market account with Merrill. Due to the higher rate
+of return offered temporarily by Key Bank, our Merrill account will
+start out with a smaller amount than originally planned. We can transfer
+additional funds once Key's promotional rate expires later this year.
+</pre>
+
+## Treasurer's report
+
+<pre>
+The SPI treasury team is continuing to process requests and is striving for
+more timely ticket handling. The backlog is much lower than it has been in
+the recent past.
+</pre>
+
+## Secretary's report
+
+<pre>
+Due to hardware failure and the holiday period, minutes have not been kept
+up to date. This will be rectified by the next meeting.
+</pre>
+
+### Resolution 2019-11-22.tp.1: Rescind Board Advisors
+
+<table>
+<tbody>
+ <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+ <tr><td>Stephen Frost</td><td>Yes</td></tr>
+ <tr><td>Chris Lamb</td><td>Abstain</td></tr>
+ <tr><td>Tim Potter</td><td>Yes</td></tr>
+ <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+ <tr><td>Andrew Tridgell</td><td>No</td></tr>
+</tbody>
+</table>
+
+Motion vote of 5 yes, 1 no, 0 abstain.
+
+### AWS Agreements for Debian Cloud
+
+In genreal not an issue to sign the AWS Marketplace Agreement on
+behalf of the Debian Cloud Team and also the AWS Govcloud Agreement,
+with some uncertainty around the implementation of the US citizen
+requirement for Govcloud. No vote was required.
+
+## Any other business
+
+Some minor discussions of work-in-progress were had.
+
+## Adjournment
+
+The meeting was adjourned until Monday February 10th, 2020 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td><td>Treasurer</td></tr>
+<tr><td>July 2017</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td></tr>
+<tr><td>July 2017</td><td>Andrew Tridgell</td></tr>
+</tbody>
+</table>
