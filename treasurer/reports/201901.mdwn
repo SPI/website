@@ -158,7 +158,11 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   1000.00 USD   19800.00 USD   18800.00 USD  Income:Donations
+   1000.00 USD   20000.00 USD   19000.00 USD  Income
+   1000.00 USD   19800.00 USD   18800.00 USD    Donations
+             0     200.00 USD     200.00 USD    Sponsorship
+--------------------------------------------
+   1000.00 USD   20000.00 USD   19000.00 USD
 
 </pre>
 
@@ -181,11 +185,11 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    261.50 USD    5430.00 USD    5168.50 USD  Income
+    261.50 USD    5230.00 USD    4968.50 USD  Income
     261.50 USD    5040.00 USD    4778.50 USD    Donations
-             0     390.00 USD     390.00 USD    Sponsorship
+             0     190.00 USD     190.00 USD    Sponsorship
 --------------------------------------------
-    261.50 USD    5430.00 USD    5168.50 USD
+    261.50 USD    5230.00 USD    4968.50 USD
 
 </pre>
 
@@ -532,9 +536,11 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
   14162.10 USD              0  -14162.10 USD  Equity:Net-Assets:Restricted
-   1000.00 USD   19800.00 USD   18800.00 USD  Income:Donations
+   1000.00 USD   20000.00 USD   19000.00 USD  Income
+   1000.00 USD   19800.00 USD   18800.00 USD    Donations
+             0     200.00 USD     200.00 USD    Sponsorship
 --------------------------------------------
-  15162.10 USD   19800.00 USD    4637.90 USD
+  15162.10 USD   20000.00 USD    4837.90 USD
 
 </pre>
 
@@ -559,11 +565,11 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0    5416.47 USD    5416.47 USD  Equity:Net-Assets:Restricted
-    261.50 USD    5430.00 USD    5168.50 USD  Income
+    261.50 USD    5230.00 USD    4968.50 USD  Income
     261.50 USD    5040.00 USD    4778.50 USD    Donations
-             0     390.00 USD     390.00 USD    Sponsorship
+             0     190.00 USD     190.00 USD    Sponsorship
 --------------------------------------------
-    261.50 USD   10846.47 USD   10584.97 USD
+    261.50 USD   10646.47 USD   10384.97 USD
 
 </pre>
 

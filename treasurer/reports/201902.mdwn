@@ -553,9 +553,11 @@ shown as a positive amount.
 --------------------------------------------
   14162.10 USD              0  -14162.10 USD  Equity:Net-Assets:Restricted
    1218.26 USD              0   -1218.26 USD  Expenses:Travel:Transportation
-   1000.00 USD   19800.00 USD   18800.00 USD  Income:Donations
+   1000.00 USD   20000.00 USD   19000.00 USD  Income
+   1000.00 USD   19800.00 USD   18800.00 USD    Donations
+             0     200.00 USD     200.00 USD    Sponsorship
 --------------------------------------------
-  16380.36 USD   19800.00 USD    3419.64 USD
+  16380.36 USD   20000.00 USD    3619.64 USD
 
 </pre>
 
@@ -580,11 +582,11 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0    5416.47 USD    5416.47 USD  Equity:Net-Assets:Restricted
-    861.50 USD   17430.00 USD   16568.50 USD  Income
+    861.50 USD   17230.00 USD   16368.50 USD  Income
     861.50 USD   16850.00 USD   15988.50 USD    Donations
-             0     580.00 USD     580.00 USD    Sponsorship
+             0     380.00 USD     380.00 USD    Sponsorship
 --------------------------------------------
-    861.50 USD   22846.47 USD   21984.97 USD
+    861.50 USD   22646.47 USD   21784.97 USD
 
 </pre>
 
