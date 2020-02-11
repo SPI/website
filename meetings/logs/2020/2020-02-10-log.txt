@@ -1,0 +1,188 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order.
+20:00 < schultmc> Today's agenda can be found on the web at: https://www.spi-inc.org/meetings/agendas/2020/2020-02-10/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests (including board advisors), please /msg your names to tpot if you wish your attendance to be recorded in the minutes of this meeting.
+20:00 < schultmc> Tentative regrets have been received from fsf. tpot, do we have any other regrets?
+20:00 < schultmc> Michael Schultheiss
+20:00 < tpot> Not that I have received
+20:00 < Snow-Man> Stephen Frost
+20:00 < tpot> TIm Potter
+20:00 < tridge> Andrew Tridgell
+20:01 < lamby> Chris Lamb
+20:01 < Snow-Man> (Do we drop the 'including board advisors' now..?)
+20:01 < tpot> Yep
+20:01 < tpot> Waiting for one more director...
+20:01 < schultmc> updated script for future utilization
+20:01 < Snow-Man> +1
+20:02 < schultmc> zumbi: ping
+20:03 < schultmc> pinged several directors on signal
+20:04 < schultmc> we can wait a few minutes
+20:04 * schultmc did see zumbi active a few hours ago
+20:05 < schultmc> luca is on his way ETA 4mins
+20:05 < zobel> errr.... when will i learn we are not meeting at 2200 CET, but 2100 CET?
+20:05 < zobel> sorry for the delay.
+20:06 < zobel> Martin Zobel-Helas
+20:06 < schultmc> no problem
+20:06 < lamby> Hey zobel
+20:06 < Snow-Man> hah, same issue I had..
+20:06 < schultmc> we're quorate now - at least luca will also be joining shortly
+20:06 < schultmc> [item 3, President's Report]
+20:06 < schultmc> SPI Vice President, Stephen Frost, met with our new IT contractor at
+20:06 < schultmc> FOSDEM earlier this month. We are finalizing the contract details
+20:06 < schultmc> and hope to have him onboarded soon.
+20:06 < schultmc> .
+20:06 < schultmc> SPI's Merrill Lynch account opening has taken longer than expected
+20:06 < schultmc> due to some additional paperwork needs. The wire transfer for the
+20:06 < schultmc> opening balance was processed last week. Due to the higher rate
+20:06 < schultmc> of return offered temporarily by Key Bank, our Merrill account is
+20:06 < schultmc> starting out with a smaller amount than originally planned. We can
+20:06 < schultmc> transfer additional funds once Key's promotional rate expires later
+20:06 < schultmc> this year.
+20:07 < schultmc> </done>
+20:07 < Snow-Man> (Note that I'm waiting to hear back from him currently..  He was apparently going to see an accountant last Friday to get things set up)
+20:08 < Snow-Man> We also got a response from NTPSec which I've been reviewing today.
+20:08 < schultmc> Glad to see progress even if it's currently administrative
+20:09 < schultmc> any additional questions/feedback?
+20:09 < Snow-Man> schultmc: 3779 would be good to close :)
+20:10 < schultmc> I'll take care of that shortly
+20:10 < schultmc> [item 4, Treasurer's Report]
+20:10 < schultmc> zobel?
+20:10 < lamby> ^ Perhaps I lost the thread but is the name of the IT contractor public?
+20:10 < Snow-Man> perfect, thanks!
+20:10 < Snow-Man> lamby: well, we aren't actually under contract with them as yet
+20:11 < zobel> i need to admit i am not prepared at all, due to real life. but i can tell you that this will shortly change, as things are getting back to normal.
+20:11 < zobel> i was completly MIA the last month.
+20:11 * schultmc has a brief treasury team blurb available if that'd be helpful, zobel
+20:11 < zobel> i need to sync with tbm and schultmc the next days.
+20:12 < zobel> schultmc: go ahead.
+20:12 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:12 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:12 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:12 < schultmc> help is always welcome.
+20:12 < schultmc> .
+20:13 < luca> Luca Filipozzi
+20:13 < zobel> schultmc: thanks.
+20:13  -!- auturgy <~auturgy@1.144.108.74> has joined #spi
+20:13 < zobel> i plan to work heavly on tickets on thursday.
+20:14 < lamby> Slightly OT but regarding treasury stuff so not sure when to mention it, now would very much be the time if we wanted to change how things work with respect to SPI and DebConf2020.
+20:15 < tpot> Can we do this in the "any other business" section?
+20:15 < tpot> Let's get the reports and minutes vote out of the way
+20:15 < lamby> of course, apologies for poor meeting etiquette.
+20:15 < tpot> np - just trying to keep things on track
+20:16 < schultmc> [item 5, Secretary's report]
+20:16 < schultmc> tpot?
+20:16 < tpot> I have completed and am up to date with all the minutes including the face to face.
+20:16 < tpot> Still todo is following up on the action items generated at the f2f meeting.
+20:16 < tpot> Hopefully that should not take long and I'll be contacting people individually to sort that out.
+20:17 < tpot> .
+20:17 < schultmc> [item 6, Outstanding minutes]
+20:17 < schultmc> The minutes for the November face-to-face meeting require approval as do the
+20:17 < schultmc> minutes for the 2019-12-09 and 2020-01-13 board meetings..
+20:17 < schultmc> They can be found at
+20:17 < schultmc> https://www.spi-inc.org/meetings/minutes/2019/2019-11-22-f2f-new-york/
+20:17 < schultmc> https://www.spi-inc.org/meetings/minutes/2019/2019-12-09/
+20:17 < schultmc> and
+20:17 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-01-13/
+20:17 < tpot> Any discussion on the Novemeber 2019 minutes?
+20:18 < tpot> (f2f)
+20:18 < tpot> Thanks to tbm for some style points and finding a cut&paste error.
+20:19 < tpot> OK then
+20:19 < tpot> Voting started, 7 people (tpot,lamby,snow-man,schultmc,tridge,zobel,luca) allowed to vote on Accept minutes for Face-to-face meeting November 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:19 < schultmc> !vote yes
+20:19 < tpot> !vote yes
+20:19 < lamby> !vote yes
+20:19 < Snow-Man> !vote yes
+20:20 < tridge> !abstain
+20:20 < zobel> !vote yes
+20:20 < tridge> !vote abstain
+20:20 < zobel> but see my comment elsewhere.
+20:21 < tpot> Current voting results for "Accept minutes for Face-to-face meeting November 2019": Yes: 5, No: 0, Abstain: 1, Missing: 1 ( luca )
+20:21 < tpot> luca?
+20:22 < luca> no
+20:22 < luca> !vote no
+20:22 < luca> i wasn't there so i can't vote arguably
+20:23 < tpot> I remember you being at the f2f
+20:24 < tpot> We had an IRC meeting a few weeks before
+20:25 < luca> sorry, misreadh f2f
+20:25 < luca> !vote yes
+20:25 < tpot> I could have named the agenda item better I think.
+20:25 < tpot> Current voting results for "Accept minutes for Face-to-face meeting November 2019": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:25 < tpot> Current voting results for "Accept minutes for Face-to-face meeting November 2019": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:25 < tpot> Voting for "Accept minutes for Face-to-face meeting November 2019" closed.
+20:26 < tpot> Ok moving on - any discussion arising from the minutes for the 9th of December 2019?
+20:27 < lamby> None here.
+20:27 < tpot> Voting started, 7 people (tpot,lamby,snow-man,schultmc,tridge,zobel,luca) allowed to vote on Accept minutes for Monday, 9th December 2019. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:27 < zobel> !vote yes
+20:27 < schultmc> !vote yes
+20:27 < luca> !vote yes
+20:27 < tpot> !vote abstain
+20:27 < Snow-Man> !vote yes
+20:28 < tridge> !vote yes
+20:28 < tpot> Current voting results for "Accept minutes for Monday, 9th December 2019": Yes: 5, No: 0, Abstain: 1, Missing: 1 ( lamby )
+20:29 < lamby> !vote yes
+20:29 < tpot> Current voting results for "Accept minutes for Monday, 9th December 2019": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:29 < tpot> Voting for "Accept minutes for Monday, 9th December 2019" closed.
+20:29 < tpot> One more to go.
+20:30 < tpot> Any discussion about minutes for meeting on the 13th of January?
+20:30  -!- auturgy <~auturgy@1.144.108.74> has quit (Quit: auturgy)
+20:31  -!- auturgy <~auturgy@1.144.108.74> has joined #spi
+20:31 < tpot> Voting started, 7 people (tpot,lamby,snow-man,schultmc,tridge,zobel,luca) allowed to vote on Accept minutes for Monday, 13th January 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:31 < schultmc> !vote yes
+20:31 < zobel> !vote abstain
+20:31 < tpot> !vote yes
+20:31 < luca> was i there?
+20:31 < luca> !vote abstain
+20:31 < Snow-Man> !vote yes
+20:31 < tridge> !vote yes
+20:31 < tpot> Current voting results for "Accept minutes for Monday, 13th January 2020": Yes: 4, No: 0, Abstain: 2, Missing: 1 ( lamby )
+20:31 < lamby> !vote yes
+20:31 < tpot> Current voting results for "Accept minutes for Monday, 13th January 2020": Yes: 5, No: 0, Abstain: 2, Missing: 0 ()
+20:32 < tpot> Voting for "Accept minutes for Monday, 13th January 2020" closed.
+20:32 < tpot> OK thanks everyone!
+20:32 < schultmc> [item 7, Items up for discussion]
+20:32 < schultmc> None on the agenda
+20:32 < schultmc> [item 8, Any other business]
+20:32 < schultmc> Anything to discuss?
+20:32 < Snow-Man> We might want to chat about Sam's email sometime?
+20:32 < tpot> Apologies for not getting AWS cloud stuff happening. Was traveling withoyut access to my GPG setup so my requests for access were not believed.
+20:32 < Snow-Man> At a high level, I think we've more-or-less agreed and have made other arrangements, should we bring that up with him..?
+20:33 < tpot> I think we should let me know. The indicdent described did not work out well and he deserves a response.
+20:34 < tpot> s/me/him/
+20:34 < schultmc> I'm fine with mentioning the alternative to him and Debian has sufficient funds to cover the services assuming we can be invoiced separately.
+20:34 < lamby> I agree, we definitely should send a response soon, if only to ACK...
+20:34 < Snow-Man> alright.
+20:34 < Snow-Man> I'll respond and mention the alternative.
+20:35 < tpot> lamby, your previous item?
+20:35 < lamby> Yep, not really a question per-se, but now would very much be the time if we wanted to change how things work with respect to SPI and DebConf 2020.
+20:36 < auturgy> I have a couple of queries as Ardupilot rep that the Board has yet to respond to via email: Trademark progression and process for contracting a developer.
+20:38 < tpot> who is working on those tickets?
+20:38 < tpot> RT-2605
+20:39 < tpot> Can we hand over to Marianne?
+20:39 < lamby> Ah, another AOB: ganeti seem really keen.
+20:40 < zobel> tpot: if you have a minute after the meeting, i do have a question re a mail i saw from you recently.
+20:43 < tpot> Can we use our contractor documentation for ardupilot? RT-3735?
+20:43 < schultmc> 2605 needs followup before it can be handed over. I can reach out.
+20:44 < schultmc> we can share our standard contract but should check with legal counsel for advice on how to proceed.
+20:45 < schultmc> there are steps that need to be followed in selecting a contractor
+20:45 < tridge> what steps?
+20:45 < Snow-Man> Let's chat w/ counsel regarding it
+20:45 < Snow-Man> And we need to get a review of our contract also, imv.
+20:46 < Snow-Man> So we should start there.  Once 3779 is done, I'll do that.
+20:47 < tpot> OK sounds like there is a way forward on both items brought up by auturgy
+20:47 < auturgy> Ok, great. What would be a reasonable timeframe for me to follow up?
+20:47 < schultmc> auturgy: we should have more information by the next SPI board meeting, hopefully sooner
+20:48 < tpot> schultmc? Snow-Man?
+20:48 < auturgy> Ok, thanks
+20:48 < schultmc> Anything further for any other business?
+20:49 < lamby> None here.
+20:49 < tpot> woot - OK thanks everyone!
+20:49 < schultmc> [item 9, Next board meeting]
+20:49 < schultmc> The next board meeting is scheduled for: March 9th, 2020 at 20:00 UTC
+20:49 < schultmc> Any objections?
+20:49 < zobel> wfm
+20:50 < Snow-Man> sounds good.
+20:50 < lamby> wfm :)
+20:50 < schultmc> *GAVEL*
