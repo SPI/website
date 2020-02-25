@@ -311,6 +311,18 @@ shown as a positive amount.
 
 </pre>
 
+#### opensaf
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+     65.79 USD              0     -65.79 USD  Expenses:Bank-Fees
+             0    2976.65 USD    2976.65 USD  Income:Donations
+--------------------------------------------
+     65.79 USD    2976.65 USD    2910.86 USD
+
+</pre>
+
 #### openvoting
 
 <pre>
@@ -388,20 +400,20 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6447.26 USD     253.00 USD   -6194.26 USD  Expenses
+   6381.47 USD     253.00 USD   -6128.47 USD  Expenses
    4185.00 USD              0   -4185.00 USD    Accounting
-    733.95 USD     253.00 USD    -480.95 USD    Bank-Fees
+    668.16 USD     253.00 USD    -415.16 USD    Bank-Fees
     207.21 USD              0    -207.21 USD    IT:Hosting
      48.59 USD              0     -48.59 USD    Office:Postal
    1272.51 USD              0   -1272.51 USD    Travel
     168.00 USD              0    -168.00 USD      Accommodation
     371.59 USD              0    -371.59 USD      Dining
     732.92 USD              0    -732.92 USD      Transportation
-     50.25 USD   13642.59 USD   13592.34 USD  Income
-     50.25 USD   11400.01 USD   11349.76 USD    Donations
+     50.25 USD   10665.94 USD   10615.69 USD  Income
+     50.25 USD    8423.36 USD    8373.11 USD    Donations
              0    2242.58 USD    2242.58 USD    Interest
 --------------------------------------------
-   6497.51 USD   13895.59 USD    7398.08 USD
+   6431.72 USD   10918.94 USD    4487.22 USD
 
 </pre>
 
@@ -916,6 +928,18 @@ shown as a positive amount.
 
 </pre>
 
+#### opensaf
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+     65.79 USD              0     -65.79 USD  Expenses:Bank-Fees
+             0    2976.65 USD    2976.65 USD  Income:Donations
+--------------------------------------------
+     65.79 USD    2976.65 USD    2910.86 USD
+
+</pre>
+
 #### openvas
 
 <pre>
@@ -1055,9 +1079,9 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  399082.18 USD  399082.18 USD  Equity:Net-Assets:Unrestricted
-  79343.23 USD   18717.38 USD  -60625.85 USD  Expenses
+  79277.44 USD   18717.38 USD  -60560.06 USD  Expenses
   41201.00 USD              0  -41201.00 USD    Accounting
-   4167.81 USD    1783.17 USD   -2384.64 USD    Bank-Fees
+   4102.02 USD    1783.17 USD   -2318.85 USD    Bank-Fees
      76.20 USD              0     -76.20 USD    Conferences:Venue
              0   16934.21 USD   16934.21 USD    Disassociation
    3255.27 USD              0   -3255.27 USD    IT
@@ -1072,11 +1096,11 @@ shown as a positive amount.
   10603.94 USD              0  -10603.94 USD      Accommodation
    5716.01 USD              0   -5716.01 USD      Dining
    9182.68 USD              0   -9182.68 USD      Transportation
-   1519.94 USD   93267.08 USD   91747.14 USD  Income
-   1519.94 USD   90510.19 USD   88990.25 USD    Donations
+   1519.94 USD   90290.43 USD   88770.49 USD  Income
+   1519.94 USD   87533.54 USD   86013.60 USD    Donations
              0    2756.89 USD    2756.89 USD    Interest
 --------------------------------------------
-  80863.17 USD  511066.64 USD  430203.47 USD
+  80797.38 USD  508089.99 USD  427292.61 USD
 
 </pre>
 
