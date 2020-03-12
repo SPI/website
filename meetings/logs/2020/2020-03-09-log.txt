@@ -1,0 +1,102 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-03-09/
+20:00 < luca> Luca Filipozzi
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < tpot> Tim Potter
+20:00 < lamby> Chris Lamb
+20:00 < schultmc> Michael Schultheiss
+20:00 < fsf> Forrest Fleming
+20:00 < tridge> Andrew Tridgell
+20:00 < schultmc> Regrets have been received from Stephen Frost. tpot, do we have any other
+20:00 < schultmc> regrets?
+20:01 < tpot> Not that I have received
+20:01 < schultmc> Thank you to our .us/.ca board members for correctly determining their new UTC offsets due to Daylight Saving Time
+20:01 < schultmc> we're already quorate so we can continue - zobel and zumbi can join later if they arrive
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:01 < schultmc> contracting with SPI's current and potential contractors. Stephen
+20:01 < schultmc> continues to do a fantastic job working with our contractors and
+20:01 < schultmc> legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> SPI's Merrill Lynch account has been opened but additional paperwork
+20:01 < schultmc> is needed to finalize the setup. I'll be reaching out to Stephen Frost
+20:01 < schultmc> to obtain the needed information (Merrill Lynch is requiring US citizens
+20:02 < lamby> ^ I don't mind DST too much but these few weeks where the US and EU are out of sync are .. /o\
+20:02 < schultmc> for the forms).
+20:02 < schultmc> </done>
+20:02 < lamby> Neat. Thanks to Stephen in his absense. :)
+20:02 < schultmc> Any questions/feedback?
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> zobel isn't currently here.
+20:03 < schultmc> .
+20:03 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:03 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:03 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:03 < schultmc> help is always welcome.
+20:03 < schultmc> .
+20:05 < schultmc> Any questions/feedback?
+20:05 < schultmc> [item 5, Secretary's report]
+20:05 < schultmc> tpot?
+20:05 < tpot> No updates from me for this month.
+20:05 < schultmc> [item 6, Outstanding minutes]
+20:05 < schultmc> The minutes for the 2020-02-10 meeting require approval
+20:05 < schultmc> .
+20:05 < schultmc> They can be found at
+20:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-02-10/
+20:06 < schultmc> actually that URL didn't work
+20:06 < lamby> 404... yeah :)
+20:06 < tpot> Ahem. I misremembered this month and confused it with last so the minutes are not available.
+20:06 < tridge> https://spi-inc.org/meetings/minutes/2020/2020-01-13/
+20:06 < tpot> My apologies and I will have it done for next meeting.
+20:06 < schultmc> ah - no problem
+20:06 < tridge> that's jan ...
+20:07 < schultmc> [item 7, Items up for discussion]
+20:07 < schultmc> None on the agenda
+20:07 < schultmc> [item 8, Any other business]
+20:07 < schultmc> Anything to discuss?
+20:07 < tpot> I'd love to get started on the DNS side of things.
+20:07 < luca> thanks for updates to SPI form; i'll process this week and publish for review
+20:07 < luca> then we can post
+20:07 < tpot> Can I get any info from luca or schultmc about access to our DNS hosting providers?
+20:08 < schultmc> the new form is much better than previous forms
+20:08 < luca> tpot: sure; we use two; happy to coordinate
+20:08 < schultmc> right now we're self hosting DNS - iirc at the f2f we talked about migrating DNS to gandi iirc?
+20:08 < luca> right; we have two registrars
+20:09 < luca> gandi and mythicbeasts
+20:09 < luca> gandi offers better delegation of duties
+20:09 < luca> so we talked about using them for hosting DNS for the various zone
+20:09 < tpot> Right - I'd like to kick that migration off
+20:09 < luca> tpot: happy to assist / empower as the case may be
+20:10 < tpot> great - thanks!
+20:11 < schultmc> Anything else for AOB?
+20:11 < sasluc> Hi, Sascha here for the project Ganeti. Last month, Chris Lamb (lamby) created RT#3821 for our application process. What are the next necessary steps I have to do?
+20:12 < lamby> I am not actually sure at this point. Can someone help? :)
+20:13 < schultmc> Next steps would to be having a board member draft the resolution.
+20:13 < schultmc> http://www.spi-inc.org/projects/associated-project-howto/
+20:14 < schultmc> The steps are ^^^
+20:14 < schultmc> Ganeti needs to determine who the project liaison will be and what services you want SPI to provide
+20:15 < schultmc> http://www.spi-inc.org/projects/services/ lists our services
+20:15 < sasluc> thanks, we already had some discussion with lamby, will it be OK, if I repeat some of this items and sent it into the RT ticket?
+20:15 < lamby> no problem with me
+20:15 < schultmc> yes, that would be fine
+20:15 < schultmc> lamby: are you drafting the resolution for our april meeting or do you need someone else to do so?
+20:16 < sasluc> ok, then I'll send my points into the ticket. tanks, sascha.
+20:16 < schultmc> thank you
+20:16 < lamby> I can draft the resolution. :)
+20:16 < schultmc> +1
+20:16 < schultmc> Anything else to discuss?
+20:17 < schultmc> [item 9, Next board meeting]
+20:17 < schultmc> The next board meeting is scheduled for: April 13th, 2020 at 20:00 UTC
+20:17 < schultmc> Any objections?
+20:17 < lamby> None here.
+20:17 < luca> None here.
+20:18 < schultmc> works for me
+20:18 < schultmc> *GAVEL*
+20:18 < schultmc> Thank you everyone for participating
