@@ -10,7 +10,7 @@
 <pre>
          debit         credit          total
 --------------------------------------------
- 343549.38 USD  473390.99 USD -129841.61 USD  Assets
+ 343549.38 USD  473640.99 USD -130091.61 USD  Assets
      17.35 USD              0      17.35 USD    Ameriprise Cash Mgmt Acct
              0    7996.20 USD   -7996.20 USD    Bank of America Business Advantage Checking
       0.13 USD              0       0.13 USD    Chase Business Select High Yield Savings
@@ -20,11 +20,11 @@
   51269.00 USD   32531.96 USD   18737.04 USD    Fifth Third Business Elite Checking Wiretransfer
       1.23 USD              0       1.23 USD    Fifth Third Business Money Market 128
      23.84 USD              0      23.84 USD    Key Business Platinum Money Market Savings
-  15611.70 USD  114002.60 USD  -98390.90 USD    Key Business Reward Checking
+  15611.70 USD  114252.60 USD  -98640.90 USD    Key Business Reward Checking
    2990.69 USD    4741.27 USD   -1750.58 USD    PaypalDebian
    5249.43 USD    2823.31 USD    2426.12 USD    PaypalSPI
  157213.10 USD  157213.10 USD              0    Transfers
- 159113.25 USD     541.77 USD  158571.48 USD  Expenses
+ 159363.25 USD     541.77 USD  158821.48 USD  Expenses
    5076.00 USD              0    5076.00 USD    Accounting
     812.49 USD     158.46 USD     654.03 USD    Bank-Fees
   14275.65 USD              0   14275.65 USD    Conferences
@@ -37,7 +37,7 @@
    1098.03 USD              0    1098.03 USD      Hosting
      64.32 USD              0      64.32 USD      Services
    2133.00 USD              0    2133.00 USD    Insurance
-    325.00 USD              0     325.00 USD    Legal
+    575.00 USD              0     575.00 USD    Legal
     789.00 USD              0     789.00 USD    Marketing
     882.79 USD              0     882.79 USD    Membership
     316.42 USD              0     316.42 USD    Office:Postal
@@ -53,7 +53,7 @@
              0      42.55 USD     -42.55 USD    Interest
              0    1250.00 USD   -1250.00 USD    Sponsorship
 --------------------------------------------
- 504037.91 USD  504037.91 USD              0
+ 504287.91 USD  504287.91 USD              0
 </pre>
 
 ### Year to date, ending 2019-12-01
@@ -61,7 +61,7 @@
 <pre>
          debit         credit          total
 --------------------------------------------
-5362892.78 USD 2916364.73 USD 2446528.05 USD  Assets
+5362892.78 USD 2916614.73 USD 2446278.05 USD  Assets
   13845.08 USD              0   13845.08 USD    Ameriprise Cash Mgmt Acct
  250000.00 USD   13672.36 USD  236327.64 USD    Bank of America Business Advantage Checking
   55343.34 USD   50000.00 USD    5343.34 USD    Chase Business Select High Yield Savings
@@ -71,7 +71,7 @@
  556123.50 USD  343645.28 USD  212478.22 USD    Fifth Third Business Elite Checking Wiretransfer
   30033.57 USD      47.00 USD   29986.57 USD    Fifth Third Business Money Market 128
 1450326.68 USD              0 1450326.68 USD    Key Business Platinum Money Market Savings
- 890864.79 USD  590023.99 USD  300840.80 USD    Key Business Reward Checking
+ 890864.79 USD  590273.99 USD  300590.80 USD    Key Business Reward Checking
    8919.08 USD              0    8919.08 USD    KeyBank Basic Business Checking
   46841.51 USD   43381.48 USD    3460.03 USD    PaypalDebian
  111825.23 USD  106015.23 USD    5810.00 USD    PaypalSPI
@@ -79,7 +79,7 @@
   29557.16 USD 2191463.24 USD -2161906.08 USD  Equity:Net-Assets
   29557.16 USD 1792381.06 USD -1762823.90 USD    Restricted
              0  399082.18 USD -399082.18 USD    Unrestricted
- 655538.60 USD   23598.05 USD  631940.55 USD  Expenses
+ 655788.60 USD   23598.05 USD  632190.55 USD  Expenses
   37016.00 USD              0   37016.00 USD    Accounting
   10342.82 USD    1531.83 USD    8810.99 USD    Bank-Fees
   85450.00 USD              0   85450.00 USD    Conferences
@@ -95,7 +95,7 @@
    2102.32 USD              0    2102.32 USD      Services
    2483.00 USD              0    2483.00 USD    Insurance
   47750.00 USD              0   47750.00 USD    Internships
-   6677.00 USD              0    6677.00 USD    Legal
+   6927.00 USD              0    6927.00 USD    Legal
    1711.05 USD     299.00 USD    1412.05 USD    Marketing
     882.79 USD              0     882.79 USD    Membership
    1762.89 USD              0    1762.89 USD    Office:Postal
@@ -111,7 +111,7 @@
              0     514.31 USD    -514.31 USD    Interest
              0   18430.00 USD  -18430.00 USD    Sponsorship
 --------------------------------------------
-6093599.46 USD 6093599.46 USD              0
+6093849.46 USD 6093849.46 USD              0
 </pre>
 
 ## Per project summaries
@@ -414,7 +414,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  12523.56 USD     158.46 USD  -12365.10 USD  Expenses
+  12773.56 USD     158.46 USD  -12615.10 USD  Expenses
    5076.00 USD              0   -5076.00 USD    Accounting
     323.21 USD     158.46 USD    -164.75 USD    Bank-Fees
      76.20 USD              0     -76.20 USD    Conferences:Venue
@@ -422,6 +422,7 @@ shown as a positive amount.
     205.69 USD              0    -205.69 USD      Hosting
      64.32 USD              0     -64.32 USD      Services
    2133.00 USD              0   -2133.00 USD    Insurance
+    250.00 USD              0    -250.00 USD    Legal
     775.00 USD              0    -775.00 USD    Membership
     265.26 USD              0    -265.26 USD    Office:Postal
    3604.88 USD              0   -3604.88 USD    Travel
@@ -432,7 +433,7 @@ shown as a positive amount.
      10.00 USD    2757.33 USD    2747.33 USD    Donations
              0      42.55 USD      42.55 USD    Interest
 --------------------------------------------
-  12533.56 USD    2958.34 USD   -9575.22 USD
+  12783.56 USD    2958.34 USD   -9825.22 USD
 
 </pre>
 
@@ -1060,7 +1061,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  399082.18 USD  399082.18 USD  Equity:Net-Assets:Unrestricted
-  72895.97 USD   18464.38 USD  -54431.59 USD  Expenses
+  73145.97 USD   18464.38 USD  -54681.59 USD  Expenses
   37016.00 USD              0  -37016.00 USD    Accounting
    3433.86 USD    1530.17 USD   -1903.69 USD    Bank-Fees
      76.20 USD              0     -76.20 USD    Conferences:Venue
@@ -1070,7 +1071,7 @@ shown as a positive amount.
     645.76 USD              0    -645.76 USD      Hosting
    2102.32 USD              0   -2102.32 USD      Services
    2133.00 USD              0   -2133.00 USD    Insurance
-    472.00 USD              0    -472.00 USD    Legal
+    722.00 USD              0    -722.00 USD    Legal
     775.00 USD              0    -775.00 USD    Membership
    1711.73 USD              0   -1711.73 USD    Office:Postal
   24230.12 USD              0  -24230.12 USD    Travel
@@ -1081,7 +1082,7 @@ shown as a positive amount.
    1469.69 USD   79110.18 USD   77640.49 USD    Donations
              0     514.31 USD     514.31 USD    Interest
 --------------------------------------------
-  74365.66 USD  497171.05 USD  422805.39 USD
+  74615.66 USD  497171.05 USD  422555.39 USD
 
 </pre>
 
