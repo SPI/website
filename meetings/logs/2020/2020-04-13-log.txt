@@ -1,0 +1,188 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-04-13/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < fsf> Forrest Fleming
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < lamby> Chris Lamb
+21:00 < schultmc> .
+21:00 < tridge> Andrew Tridgell
+21:00 < Snow-Man> Stephen Frost
+21:00 < schultmc> tpot, do we have any regrets?
+21:00 < schultmc> Michael Schultheiss
+21:00 < zumbi> Héctor Orón Martínez
+21:01 < schultmc> tpot: ping
+21:01 < luca> Luca Filipozzi
+21:02 < schultmc> tpot was around a few minutes ago - we can move on until he arrives
+21:02 < tpot> Tim Potter
+21:02 < schultmc> [item 3, President's Report]
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's current and potential contractors. Stephen
+21:02 < schultmc> continues to do a fantastic job working with our contractors and
+21:02 < schultmc> legal counsel.
+21:02 < schultmc> .
+21:02 < schultmc> Merrill Lynch has provided the additional paperwork needed to finalize online
+21:02 < schultmc> access to our account. I'll be reaching out to Stephen Frost and Timothy Potter
+21:02 < schultmc> to obtain the needed information (Merrill Lynch is requiring US citizens
+21:02 < schultmc> for the forms as well as the corporate secretary's signature).
+21:02 < schultmc> </done>
+21:03 < schultmc> any questions?
+21:03 < lamby> None here, but thanks.
+21:04 < schultmc> [item 4, Treasurer's Report]
+21:04 < schultmc> zobel isn't currently here.
+21:04 < schultmc> .
+21:04 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:04 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:04 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:04 < schultmc> help is always welcome.
+21:04 < schultmc> .
+21:04 < schultmc> Item 7.1 will help address this as well
+21:05 < schultmc> </done>
+21:05 < schultmc> [item 5, Secretary's report]
+21:05 < schultmc> tpot?
+21:05 < tpot> I have caught up with my Secretary TODO list for minutes etc, but no updates apart from that.
+21:06 < schultmc> [item 6, Outstanding minutes]
+21:06 < schultmc> The minutes for the 2020-02-10 and 2020-03-09 meetings require approval
+21:06 < schultmc> .
+21:06 < schultmc> They can be found at
+21:06 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-02-10/
+21:06 < schultmc> and
+21:06 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-03-09/
+21:06 < tpot> Please take a few moments to go over the minutes if you haven't already.
+21:07 < tpot> If there are no questions - let's vote!
+21:07 < tpot> Voting started, 8 people (lamby,schultmc,tpot,zumbi,fsf,tridge,snow-man,luca) allowed to vote on Accept minutes for meeting Monday 10th February 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 < lamby> !vote yes
+21:08 < fsf> !vote abstain
+21:08 < schultmc> !vote yes
+21:08 < zumbi> !vote abstain
+21:08 < lamby> Just curious, we didn't approve the minutes for 2020-02-10 at the last meeting because they weren't ready? (no problem at all, just curious)
+21:08 < tridge> !vote yes
+21:08 < schultmc> correct
+21:08 < Snow-Man> !vote yes
+21:08 < tpot> Yes sorry I had some confusion and didn't get them done.
+21:08 < tpot> !vote yes
+21:08 < tpot> Current voting results for "Accept minutes for meeting Monday 10th February 2020": Yes: 5, No: 0, Abstain: 2, Missing: 1 ( luca )
+21:09 < lamby> tpot: Nothing to apologise for. :-)
+21:09 < luca> !vote yes (if you want to count it)
+21:09 < tpot> Current voting results for "Accept minutes for meeting Monday 10th February 2020": Yes: 5, No: 0, Abstain: 2, Missing: 1 ( luca )
+21:09 < tpot> Voting for "Accept minutes for meeting Monday 10th February 2020" closed.
+21:09 < tpot> hmm apparently the script doesn't like extra commentary on the vote (-:
+21:09 < tpot> Voting started, 8 people (lamby,schultmc,tpot,zumbi,fsf,tridge,snow-man,luca) allowed to vote on Accept minutes for meeting Monday 9th March 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:09 < Snow-Man> !vote abstain
+21:10 < luca> !vote yes
+21:10 < tridge> !vote yes
+21:10 < tpot> !vote yes
+21:10 < zumbi> !vote abstain
+21:10 < lamby> !vote yes
+21:10 < fsf> !vote yes
+21:10 < tpot> Current voting results for "Accept minutes for meeting Monday 9th March 2020": Yes: 5, No: 0, Abstain: 2, Missing: 1 ( schultmc )
+21:10 < schultmc> !vote yes
+21:10 < tpot> Current voting results for "Accept minutes for meeting Monday 9th March 2020": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:10 < tpot> Voting for "Accept minutes for meeting Monday 9th March 2020" closed.
+21:10 < tpot> OK thanks everyone!
+21:10 < schultmc> [item 7, Items up for discussion]
+21:10 < schultmc> [item 7.1, Assistant Treasurer]
+21:12 < tpot> We all seemed to agree on the mailing list that this was a good idea.
+21:13 < schultmc> zumbi has volunteered to serve as assistant treasurer
+21:13 < lamby> Nod. What's the action item here then, meeting wise? To continue discussion on it? To vote on it..? :)
+21:13 < lamby> (yay for zumbi \o/)
+21:14 < zumbi> right, that is correct
+21:14 < tpot> Yes - was just going to say that tbm had zumbi as an example in his email but I don't think there was a specific motion.
+21:14 < schultmc> I updated the password store this afternoon and will work with zumbi to get him up to speed to help with reimbursements
+21:14 < tpot> OK - congratulations zumbi.
+21:14 < schultmc> we can do a formal motion if needed
+21:14 < tpot> and thank you!
+21:14 < tpot> I don't think a formal motion is needed but for transparency I think it needed to be discussed at a board meeting.
+21:15 < lamby> :)
+21:15 < Snow-Man> +1, having more folks working on that is good.
+21:15 < schultmc> zumbi: thank you for volunteering. I'll get you a writeup of what needs to be done shortly
+21:16 < zumbi> thanks all, my pleasure
+21:16 < zumbi> to add some background information, one member of treasurer team is busy with real life, and more help was requested on treasurer work.
+21:17 < schultmc> additional assistance is always welcome if anyone else would also like to volunteer :)
+21:17 < zumbi> I have already been working in the past with DebConf and Debian related matters, so I have good understanding with tbm to process the current backlog.
+21:18 < zumbi> and thanks schultmc for doing that work many many years now
+21:18 < lamby> +1
+21:18 < schultmc> I'll still be available to assist as well but it's nice to have more people on the treasury team
+21:19 < schultmc> [item 7.2, Annual report]
+21:19 < tpot> As mentioned on the board list, tbm has proposed to complete the work of preparing the annual report this year.
+21:19 < tpot> As part of his contractor role - estimated time 5-10 hours.
+21:20 < lamby> Nod.
+21:20 < tpot> No objections raised on the mailing list and several ppl agreed.
+21:20 < schultmc> seems reasonable and much appreciated
+21:20 < tpot> Indeed - I think he has done a fantastic job in the past.
+21:20 < Snow-Man> +1
+21:20 < lamby> I suspect many of the lines of communication are already open because of the past work too, so would take less "net" time too.
+21:22 < zumbi> +1
+21:22 < schultmc> [item 8, Any other business]
+21:22 < schultmc> Anything to discuss?
+21:23 * lamby has one
+21:23 < Snow-Man> Just to mention, I've (sadly, only relatively recently) gotten all the items that counsel asked for over to him for getting the review done wrt contractor contracts that was discussed on list
+21:23 < Snow-Man> that should be progressing again though.
+21:24 < lamby> I raised in board@ but I was wondering what my next steps with Ganeti was. I have written a proposal for the motion and sent it out but did not receive any response.
+21:24 < lamby> I am likely using the wrong procedure that I ought to have discovered, but I had hoped (and certainly they did) that we could have discussed it more formally today.
+21:25 < schultmc> has the motion been sent to -general?
+21:25 < Snow-Man> If there's been a review and a motion sent..
+21:25 < lamby> Not to general, I sent it to board@ first in case I was making any obvious errors. (My first formal motion, you see..)
+21:26 < lamby> Happy to send it to -general if that's the next step. :)
+21:26 < Snow-Man> is there anything particularly different about it or reason to think that it being sent to -general would change anything..?  I agree that transparency is good but also feel like it wouldn't be ideal to push it out another month..
+21:27 < schultmc> I think it's a standard motion and the sticking points have already been resolved aiui
+21:27 < lamby> No specific reason, I was being cautious before sending it out to the world at large. There is surely at least one obvious mistake in my writing.
+21:27 < lamby> Cool.
+21:28 < lamby> I will therefore send it to -general; thanks.
+21:28 < schultmc> I think Snow-Man is suggesting we vote today to not delay
+21:28 < Snow-Man> yes
+21:28 < Snow-Man> (and also send it to -general)
+21:28 < lamby> Oh, okay.
+21:28 < lamby> :)
+21:29 < fsf> Unless there is special reason to think that we _shouldn't_ do it, I think voting today makes sense
+21:29 < lamby> https://gist.githubusercontent.com/lamby/8457624ae9ff63dd7ab9e8636104d4bf/raw
+21:29 < lamby> here is the text
+21:30 < Snow-Man> looks pretty stock to me
+21:30 < tpot> I'm happy with doing it today if there are no procedural objections to this happening.
+21:30 < Snow-Man> does anyone have any concerns about having a vote today?
+21:31 < schultmc> not me
+21:31 < fsf> not me. Since Ganeti is developed by google, and I work for google, should I abstain?
+21:31 < lamby> :)
+21:32 < Snow-Man> fsf: perhaps not a bad idea though I'm not personally overly worried about it.
+21:32 < tpot> Motion shall be named as 2020-04-13.cl.0
+21:32 * Snow-Man motions to vote today :)
+21:32 < fsf> KO - I'll abstain because better safe than sorry IMO
+21:32 < lamby> Ditto here, and we have enough people. :)
+21:33 < tpot> ok let;s go then
+21:33 < tpot> Voting started, 8 people (lamby,schultmc,tpot,zumbi,fsf,tridge,snow-man,luca) allowed to vote on 2020-04-13.cl.0 - Ganeti as associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:33 < zumbi> !vote yes
+21:33 < lamby> !vote yes
+21:33 < Snow-Man> !vote yes
+21:33 < fsf> !vote abstain
+21:33 < schultmc> !vote yes
+21:33 < tridge> !vote yes
+21:33 < tpot> !vote yes
+21:34 < tpot> Current voting results for "2020-04-13.cl.0 - Ganeti as associated project": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( luca )
+21:34 < tpot> luca?
+21:35 < luca> sorry, biobreak
+21:35 < luca> !vote yes
+21:35 < tpot> no worries - thanks!
+21:35 < tpot> Current voting results for "2020-04-13.cl.0 - Ganeti as associated project": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:35 < tpot> Voting for "2020-04-13.cl.0 - Ganeti as associated project" closed.
+21:35 < schultmc> Anything else to discuss?
+21:37 < schultmc> [item 9, Next board meeting]
+21:37 < schultmc> The next board meeting is scheduled for: May 11th, 2020 at 20:00 UTC
+21:37 < schultmc> Any objections?
+21:37 < fsf> None from me
+21:37  -!- tpot changed the topic of #spi to: Next SPI board meeting is on May 11th, 2020, 20:00 UTC on #spi. Agenda: //https://spi-inc.org/meetings/agendas/2020/2020-05-11/
+21:37 < lamby> None. :)
+21:37 < MorbidMind[m]> Hi,
+21:37 < MorbidMind[m]> What is the status of infrastructure changes? Especially website and its certificate?
+21:37 < Snow-Man> looks good for me
+21:38 < schultmc> *GAVEL*
+21:39 < Snow-Man> MorbidMind[m]: the short answer is that we're trying to hire someone to help us out with the infra changes but it's been a longer process than we had expected, but it's at least progressing and (seems to be, at least) nearing the end
+21:39 < luca> in the interest of transparency, tpot is working on dns stuff and i'm granting him access to Domains pwstore file
+21:40 < MorbidMind[m]> Process of hiring or migration?
+21:40 < Snow-Man> hiring
+21:40 < Snow-Man> which is a bit complicated given that we're looking at bringing someone on who lives/works in another country, heh.
+21:42 < MorbidMind[m]> Ok, @me if you need any help, especially around security of the configuration.
+21:43 < Snow-Man> sure, thanks.
