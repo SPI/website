@@ -270,6 +270,88 @@ by PyTorch.  PyTorch is not an associated project of SPI.
 
 \end{itemize}
 
+\section{Updates from Associated Projects}
+
+\subsection{Arch Linux 32}
+
+In 2019 we managed to split the set of supported architectures into
+i486, i686 and pentium4 to serve different flavors of old CPUs:
+
+\begin{itemize}
+
+\item i486 is currently text-based and very limited
+\item i686 is slightly behind the main architecture and supports MMX/SSE
+\item pentium4 is the main architecture supporting SSE2
+
+\end{itemize}
+
+Also in 2019 we stabilized and improved the infrastructure and build
+machines.
+
+{\em Submitted by Andreas Baumann}
+
+\subsection{Debian}
+
+During 2019, Debian released Debian 10 (codename buster).  Debian held
+DebConf, its annual gathering in Curitiba, Brazil, from July 14 to 27,
+2019, as well as several Mini DebConf events around the world.  For
+Debian, 2019 was a year filled with various proposals for improving our
+workflow and creating a more welcoming community to help continue to
+attract new members.
+
+{\em Submitted by Sam Hartman}
+
+\subsection{OpenSAF}
+
+OpenSAF is an open source community with projects focused on high
+availability (HA) middleware.  The goal of OpenSAF projects is to
+develop HA middleware that is consistent with the Service Availability
+Forum (SA Forum) specifications.  The OpenSAF project was informally
+started in mid-2007.  The OpenSAF Foundation was founded on January 22,
+2008 with Emerson Network Power, Ericsson, Nokia Siemens Networks, HP
+and Sun Microsystems as founding members.  In 2019 the foundation was
+wound down and the project got a new home under SPI.
+
+Over 2019 OpenSAF issued 4 new major releases.  Some of them included
+significant enhancements to existing services and features.  Most of the
+enhancements were related to improvement of handling of network
+partitioning and tolerance of dropped TIPC packets. We also added
+support for container/contained, which has been in the AIS specification
+since version B.03.01.
+
+More information can be found here:
+
+\begin{itemize}
+
+\item \href{https://sourceforge.net/p/opensaf/wiki/NEWS-5.19.01/}{OpenSAF 5.19.01 release notes}
+\item \href{https://sourceforge.net/p/opensaf/wiki/NEWS-5.19.03/}{OpenSAF 5.19.03 release notes}
+\item \href{https://sourceforge.net/p/opensaf/wiki/NEWS-5.19.07/}{OpenSAF 5.19.07 release notes}
+\item \href{https://sourceforge.net/p/opensaf/wiki/NEWS-5.19.10/}{OpenSAF 5.19.10 release notes}
+
+\end{itemize}
+
+{\em Submitted by Jonas Arndt}
+
+\subsection{Performance Co-Pilot}
+
+2019 was another successful year for the PCP community.  We ran our
+second conference, this time in Melbourne, Australia and it proved to be
+a productive, educational and fun experience for developers and users
+alike.
+
+We released a major version update (version 5.0) as well as a number of
+minor releases over the course of the year.  The releases add new
+analysis tools, integration with Grafana for visualization and alerting,
+improved Redis scalable multi-host analysis capabilities, and we added
+many new metrics and other core functionality.
+
+Once again we participated as a Google Summer of Code organization (for
+our fourth year), mentoring two students this year implementing Grafana
+\texttt{bpftrace} and \texttt{flamegraph} functionality, and integrating
+metrics from \texttt{statsd} into PCP.
+
+{\em Submitted by Nathan Scott}
+
 
 \appendix
 \chapter{About SPI}
