@@ -1,0 +1,63 @@
+[[!meta title="Resolution 2020-04-13.cl.0: Ganeti as an associated project"]]
+[[!meta copyright="Copyright © 2020 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Resolution 2020-04-13.cl.0: Ganeti as an Associated Project
+
+This resolution was adopted by the Board of Directors of SPI at their
+meeting of [April 13, 2020](/meetings/minutes/2020/2020-04-13/).
+
+WHEREAS
+
+Ganeti is a virtual machine cluster management tool built on top of
+existing virtualization technologies such as KVM or Xen and other open
+source software. Ganeti requires pre-installed virtualization software
+on your servers in order to function. Once installed, Ganeti controls
+virtual servers (instances) by managing:
+
+  * disk creation,
+  * operating system installation for instances (in co-operation with
+    OS-specific install scripts), and
+  * startup, shutdown, and failover between physical systems.
+
+Ganeti is designed to facilitate cluster management of virtual servers
+and to provide fast and simple recovery after physical failures using
+commodity hardware.
+
+The Ganeti developers would like SPI's support and assistance
+including accepting donations and holding funds, holding intangible
+assets such as domain names, and other technical services such as
+authoritative nameservers.
+
+THE SPI BOARD RESOLVES THAT
+
+Ganeti is formally invited to become an SPI Associated Project,
+according to the SPI Framework for Associated Projects, SPI Resolution
+1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be
+found at https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1
+
+Sascha Lucas <sascha_lucas@web.de> is recognised by SPI as the
+authoritative decision maker and SPI liaison for Ganeti. Successors
+will be appointed by the outgoing SPI liaison, or if the current SPI
+liaison is unavailable or refuses to appoint a successor, by voting/
+consensus on a monthly audio conference or on the <ganeti-
+orga@googlegroups.com> mailing list. Rudolph Bott <bott@sipgate.de> is
+recognised as a backup contact.
+
+If the last known SPI liaison for Ganeti is missing in action, and no
+new SPI liaison is appointed for two consecutive years the associated
+project is deemed defunct.
+
+In such a circumstance, the SPI Board will, in its good-faith
+discretion, proceed as follows: the Board will identify one or more
+other SPI associated projects or 501(c)(3) charities which can accept
+the project's assets and use them for a similar purpose, and transfer
+the assets to the identified destination or destinations as feasible.
+Assets for which no such transfer can be arranged within a reasonable
+time will become part of the SPI general fund.
+
+This invitation will lapse, if not accepted, 60 days after it is
+approved by the SPI Board. Acceptance of the invitation requires a
+majority vote of the Ganeti project as per the process above.
+
+§
