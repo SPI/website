@@ -74,65 +74,58 @@ __Total unique votes cast: 52, which is 12.87% of all possible votes.__
 
 ### Votes
 
-<table>
-<thead>
-<tr><th>Index</th><th>Vote</th></tr>
-</thead>
-<tbody>
-<tr><td>d9600fc2b49cbcb49983ea51cb58a873</td><td>CABD</td></tr>
-<tr><td>df888adf79db30a8eb6a6903e9d7aeab</td><td>CADB</td></tr>
-<tr><td>7d70b26b98bc3e70def971efcfcf6328</td><td>BCAD</td></tr>
-<tr><td>1f24f7ebe64b3005833f8ce4a30450fa</td><td>CADB</td></tr>
-<tr><td>2c1f4be24f3eabd7e0aac914a8201062</td><td>CABD</td></tr>
-<tr><td>47348cfb4b9f04850837c56bd738eaa1</td><td>CADB</td></tr>
-<tr><td>b70ee71bfc9bb142d7bdc7a4993e3ce9</td><td>ACDB</td></tr>
-<tr><td>101b2f95b0341ca01019be410e99dbe2</td><td>CADB</td></tr>
-<tr><td>e466abda16321b1ca3169846fa0d8bc6</td><td>BACD</td></tr>
-<tr><td>3c834aec57525b56d123b4050e6cd966</td><td>ACBD</td></tr>
-<tr><td>6a3b80d50989fafc5404c88b054d509b</td><td>CB</td></tr>
-<tr><td>2121666049be97dc4956aab72af46fcf</td><td>CADB</td></tr>
-<tr><td>03b3b9c3b11c78d2bf328b05550a1e95</td><td>BACD</td></tr>
-<tr><td>f16280c1f109e1e50f13c02a86b950fb</td><td>DACB</td></tr>
-<tr><td>a8b07d46c7c63be59aa3ea659008d972</td><td>BDCA</td></tr>
-<tr><td>c908ae2043b0cc24ac6b965cc49c01de</td><td>CABD</td></tr>
-<tr><td>be7ab5c3e66389891e2277211bff33f5</td><td>BACD</td></tr>
-<tr><td>5cfea8445f2938d15b56ad2379a51204</td><td>ADCB</td></tr>
-<tr><td>2a6bb16f2db324220e784c11fcb16f9e</td><td>BDCA</td></tr>
-<tr><td>079224cdd59f9d35627190ee55a2d8fe</td><td>CDBA</td></tr>
-<tr><td>8128d306d7d42b42868a6c34b5b283d3</td><td>BCDA</td></tr>
-<tr><td>62c22852317c3a68921ccc76dc83ad42</td><td>CBAD</td></tr>
-<tr><td>30972380c5737d17d313a975fefa7ee4</td><td>AB</td></tr>
-<tr><td>87db78871f399d1acf58f2ec7ca1c910</td><td>CABD</td></tr>
-<tr><td>9495b0fcb7b81dc82082c3e5e7a640ff</td><td>ACDB</td></tr>
-<tr><td>9c0eccd88e07b70e8f6134fe1173a4ad</td><td>CADB</td></tr>
-<tr><td>eaf33c3b04433b67428dc6442d15e9a8</td><td>CADB</td></tr>
-<tr><td>327d709310ee414a7e0354ec9da2dfbc</td><td>ACDB</td></tr>
-<tr><td>095d454269f8e47bea4734688be316f9</td><td>CDAB</td></tr>
-<tr><td>da8f199a6edebcfa37e58e426ba0e4e0</td><td>ACBD</td></tr>
-<tr><td>fad34402262d02118976fb56c98a04c7</td><td>BACD</td></tr>
-<tr><td>7aaace4daa1a1d37629e3c2af7b8bff4</td><td>CADB</td></tr>
-<tr><td>af42184a36c69951ed70a30042ef590f</td><td>CDAB</td></tr>
-<tr><td>c4966876083b7baa1d9778b29fe5a55f</td><td>BACD</td></tr>
-<tr><td>3b6384dda012f4af0daa55d1ca66599c</td><td>CDAB</td></tr>
-<tr><td>5f289634578fcb0ee542cdbf8a10e226</td><td>BACD</td></tr>
-<tr><td>72a59394265b958480d7459afd3c0871</td><td>ABCD</td></tr>
-<tr><td>1e010034e0217f6abed0e9972a74d549</td><td>ABDC</td></tr>
-<tr><td>fd137b898827543fcac0e4fc524128c2</td><td>ACBD</td></tr>
-<tr><td>d77822d95db4b5a34aaaf92306172899</td><td>DBCA</td></tr>
-<tr><td>9931752304238f19ad9fdb3ffce6df7f</td><td>ABCD</td></tr>
-<tr><td>683bdf67660015b78d6d1dd6c2376c9b</td><td>ACBD</td></tr>
-<tr><td>912ba764ad36a5f36f7d5daad120b244</td><td>ACBD</td></tr>
-<tr><td>9957e4d3e06aa19dc72161a202816d38</td><td>ACDB</td></tr>
-<tr><td>97b2bbb53a0d8543feba3fb24208345b</td><td>BACD</td></tr>
-<tr><td>60a99d64477b7c49a7924fc46dfb4a40</td><td>BDCA</td></tr>
-<tr><td>07f9fbdc607f9cdefe3b6de7069b8b74</td><td>CBAD</td></tr>
-<tr><td>3458de228fe1e5905de9c6f047897f17</td><td>CADB</td></tr>
-<tr><td>03f4124233b0e0cc160ffe5a4fc316a3</td><td>CDAB</td></tr>
-<tr><td>9abb42444a7bc4e17f6400877da9ee9c</td><td>CDAB</td></tr>
-<tr><td>a967d42a30efae5af7ca8e6c2ae631df</td><td>CABD</td></tr>
-<tr><td>6301948f0e460181b5c700f11aa449c8</td><td>BCAD</td></tr>
-</tbody>
-</table>
+	d9600fc2b49cbcb49983ea51cb58a873 CABD
+	df888adf79db30a8eb6a6903e9d7aeab CADB
+	7d70b26b98bc3e70def971efcfcf6328 BCAD
+	1f24f7ebe64b3005833f8ce4a30450fa CADB
+	2c1f4be24f3eabd7e0aac914a8201062 CABD
+	47348cfb4b9f04850837c56bd738eaa1 CADB
+	b70ee71bfc9bb142d7bdc7a4993e3ce9 ACDB
+	101b2f95b0341ca01019be410e99dbe2 CADB
+	e466abda16321b1ca3169846fa0d8bc6 BACD
+	3c834aec57525b56d123b4050e6cd966 ACBD
+	6a3b80d50989fafc5404c88b054d509b CB
+	2121666049be97dc4956aab72af46fcf CADB
+	03b3b9c3b11c78d2bf328b05550a1e95 BACD
+	f16280c1f109e1e50f13c02a86b950fb DACB
+	a8b07d46c7c63be59aa3ea659008d972 BDCA
+	c908ae2043b0cc24ac6b965cc49c01de CABD
+	be7ab5c3e66389891e2277211bff33f5 BACD
+	5cfea8445f2938d15b56ad2379a51204 ADCB
+	2a6bb16f2db324220e784c11fcb16f9e BDCA
+	079224cdd59f9d35627190ee55a2d8fe CDBA
+	8128d306d7d42b42868a6c34b5b283d3 BCDA
+	62c22852317c3a68921ccc76dc83ad42 CBAD
+	30972380c5737d17d313a975fefa7ee4 AB
+	87db78871f399d1acf58f2ec7ca1c910 CABD
+	9495b0fcb7b81dc82082c3e5e7a640ff ACDB
+	9c0eccd88e07b70e8f6134fe1173a4ad CADB
+	eaf33c3b04433b67428dc6442d15e9a8 CADB
+	327d709310ee414a7e0354ec9da2dfbc ACDB
+	095d454269f8e47bea4734688be316f9 CDAB
+	da8f199a6edebcfa37e58e426ba0e4e0 ACBD
+	fad34402262d02118976fb56c98a04c7 BACD
+	7aaace4daa1a1d37629e3c2af7b8bff4 CADB
+	af42184a36c69951ed70a30042ef590f CDAB
+	c4966876083b7baa1d9778b29fe5a55f BACD
+	3b6384dda012f4af0daa55d1ca66599c CDAB
+	5f289634578fcb0ee542cdbf8a10e226 BACD
+	72a59394265b958480d7459afd3c0871 ABCD
+	1e010034e0217f6abed0e9972a74d549 ABDC
+	fd137b898827543fcac0e4fc524128c2 ACBD
+	d77822d95db4b5a34aaaf92306172899 DBCA
+	9931752304238f19ad9fdb3ffce6df7f ABCD
+	683bdf67660015b78d6d1dd6c2376c9b ACBD
+	912ba764ad36a5f36f7d5daad120b244 ACBD
+	9957e4d3e06aa19dc72161a202816d38 ACDB
+	97b2bbb53a0d8543feba3fb24208345b BACD
+	60a99d64477b7c49a7924fc46dfb4a40 BDCA
+	07f9fbdc607f9cdefe3b6de7069b8b74 CBAD
+	3458de228fe1e5905de9c6f047897f17 CADB
+	03f4124233b0e0cc160ffe5a4fc316a3 CDAB
+	9abb42444a7bc4e17f6400877da9ee9c CDAB
+	a967d42a30efae5af7ca8e6c2ae631df CABD
+	6301948f0e460181b5c700f11aa449c8 BCAD
 
 
 ### Beat matrix

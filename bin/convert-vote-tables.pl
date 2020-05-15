@@ -10,9 +10,11 @@ sub error($$) {
 
 my $context = "outside";
 my $in_table = 0;
+my $seen_table = 0;
 while (<>) {
 	if (/^#+ (.*)/) {
 		$context = $1;
+		$seen_table = 0;
 		print;
 	} elsif ($context eq "Voters") {
 		chomp;
@@ -29,6 +31,51 @@ while (<>) {
 			$in_table = 0;
 		} elsif (!$in_table && /^\s*\d+\. \w+/) {
 			# Already Markdown
+			print "$_\n";
+		} else {
+			error $context, "Unknown line: $_";
+		}
+	} elsif ($context eq "Votes") {
+		chomp;
+		if ($seen_table) {
+			# Show everything after the first table.  This is a
+			# workaround for 2018-board-election/results.mdwn
+			# which has a second table which can't be converted
+			# right now.
+			print "$_\n";
+		} elsif (m#^(<table>|<thead>|\s*<tr><th>Index</th>\s*<th>Vote</th></tr>|</thead>|<tbody>|\s*<tr><th>Index</th><th>Hash identifier</th><th>Vote cast</th></tr>)$#) {
+			# Skip headers
+			$in_table = 1;
+		} elsif (m#^(The votes cast|unique hash|properly. After|hash is the only)#) {
+			# some text
+			print "$_\n";
+		} elsif (m#^\s*<tr><td>([\d\w]+)</td><td>(\w*)</td></tr>$#) {
+			if ($2) {
+				print "\t$1 $2\n";
+			} else {
+				print "\t$1\n";
+			}
+		} elsif (m#^\s*<tr><td>\d+</td><td class="monowidth">([\d\w]+)</td><td>(\w*)</td></tr>$#) {
+			if ($2) {
+				print "\t$1 $2\n";
+			} else {
+				print "\t$1\n";
+			}
+		} elsif (m#^$#) {
+			# Skip empty line in table
+			print "\n" if !$in_table;
+		} elsif (m#^</tbody>$#) {
+			# Skip footer
+			$in_table = 0;
+		} elsif (m#^</table>$#) {
+			# Skip footer
+			$in_table = 0;
+			$seen_table = 1;
+		} elsif (!$in_table && /^\t[\d\w]+/) {
+			# Already Markdown
+			print "$_\n";
+			$seen_table = 1;
+		} elsif (/\.png/) {
 			print "$_\n";
 		} else {
 			error $context, "Unknown line: $_";

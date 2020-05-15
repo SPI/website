@@ -106,97 +106,90 @@ __Total unique votes cast: 84, which is 16.67% of all possible votes.__
 
 ### Votes
 
-<table>
-<thead>
-<tr><th>Index</th><th>Vote</th></tr>
-</thead>
-<tbody>
-<tr><td>fb6fea2180e39873c196b3a94d727008</td><td>DB</td></tr>
-<tr><td>c2f0d4f2bec62a17fd8275e086e2ccb3</td><td>DBAC</td></tr>
-<tr><td>895e4f1e192d71478d66c6142bd6179d</td><td>ABDC</td></tr>
-<tr><td>96b7f72c744e4ac5b658414ed68754e7</td><td>ADBC</td></tr>
-<tr><td>16b01ef9a18da764ddf28dd29ca9f53c</td><td>ACDB</td></tr>
-<tr><td>d193b18a22a20beca34021a6e265f2e4</td><td>ADCB</td></tr>
-<tr><td>0f9a4eab8f46fd04cf3f73490ddd993d</td><td>DACB</td></tr>
-<tr><td>9aec7bd22933c0889ac080c9cd899f78</td><td>ADCB</td></tr>
-<tr><td>01a17fb273f7e4acef716b6a3ea42d06</td><td>CADB</td></tr>
-<tr><td>7319ce5a23fb1627dde403d1a896e28a</td><td>ACDB</td></tr>
-<tr><td>326d609b211f729627e8171a1cd675d1</td><td>ACDB</td></tr>
-<tr><td>bf9ce3317c378124be1f7b55ca8526aa</td><td>ADCB</td></tr>
-<tr><td>7826f09ae5d19363237c96127dc15f0a</td><td>DACB</td></tr>
-<tr><td>a3d70d5f7c3114ea2ab3f13781aa4038</td><td>DCBA</td></tr>
-<tr><td>0f7be5804eddaeb5f4f6c8e869f33550</td><td>ACDB</td></tr>
-<tr><td>1a2f021a85e723335f27e8fb5cb8b090</td><td>DACB</td></tr>
-<tr><td>1e926c7a322a1aab6dbdfbdb69a43673</td><td>ACDB</td></tr>
-<tr><td>73a604f919ac6bb1a42370900610eff7</td><td>ADCB</td></tr>
-<tr><td>18f359212bf72368e14594366c329d52</td><td>ACDB</td></tr>
-<tr><td>d973261dc4be660784ae321ece4385f2</td><td>CABD</td></tr>
-<tr><td>7ed480c3741f1bccf5c9d0972e859237</td><td>ADCB</td></tr>
-<tr><td>ba998b2c8911df16aa7d1e42a279f82b</td><td>CABD</td></tr>
-<tr><td>c7d2729e87afb1787cc3678667bf886c</td><td>DACB</td></tr>
-<tr><td>ed4886c69ae99df7ef59236f6d17da31</td><td>ACDB</td></tr>
-<tr><td>da18735ad49240ff84ef5d8e7ef743d9</td><td>DCAB</td></tr>
-<tr><td>40ead7d218133cb9fdecd656d61ebf22</td><td>DACB</td></tr>
-<tr><td>c1cf0e4ea5e194f3e524462c53b854f9</td><td>ADCB</td></tr>
-<tr><td>297dac5a78d2edbb67ce5e587b550e9e</td><td>DACB</td></tr>
-<tr><td>80d5d9468707b7aa0faa8cc3eb54bcba</td><td>DCAB</td></tr>
-<tr><td>f3563a2b4c02b8a1a78a19ec66289df1</td><td>DABC</td></tr>
-<tr><td>f2a098eaf964dacb7c93f36fdb5f64e9</td><td>ADBC</td></tr>
-<tr><td>3ca0092a9c4684aeb529001f41c7379c</td><td>DACB</td></tr>
-<tr><td>9b6ca1b196eda55492e8e73db7f83dcc</td><td>CABD</td></tr>
-<tr><td>150825d8ef55f0344657db9c3d153306</td><td>ACDB</td></tr>
-<tr><td>db15bd1ab6d4200cee475985612d93d1</td><td>ACDB</td></tr>
-<tr><td>89c366f7fa4e191337d972c186c11f89</td><td>CBAD</td></tr>
-<tr><td>81878b7885ae3ef9fffcb4171ffd390b</td><td></td></tr>
-<tr><td>8410cce88735267618286305808923cb</td><td>ACDB</td></tr>
-<tr><td>145790a1278a01dfbc0a717f6b67a994</td><td>ADCB</td></tr>
-<tr><td>18e7528fb2ab8d294479a2df25f2e0e8</td><td>DCBA</td></tr>
-<tr><td>de67a7406c5a346737a03e80dbe5659a</td><td>CDAB</td></tr>
-<tr><td>23ab89a3d3f1580067861f4d7d8a259d</td><td>ACDB</td></tr>
-<tr><td>943ab33099181215ee66d33474a4f2bc</td><td>ABCD</td></tr>
-<tr><td>7e39dea5c964d89f0aebe37408523729</td><td>ACBD</td></tr>
-<tr><td>1948eff01fd11a60cf7d990e795c5f46</td><td>DBAC</td></tr>
-<tr><td>2db612877455c76ea48277ae2084362b</td><td>DCAB</td></tr>
-<tr><td>1ccd724055f0aa1715e8824f54abb4ae</td><td>ACDB</td></tr>
-<tr><td>045df5dbd1953236b8a0353cae912881</td><td>DCAB</td></tr>
-<tr><td>1566ed7b05bac580a818417e3283b12e</td><td>ACDB</td></tr>
-<tr><td>40d1f2252e214cdd94ed7884a549798d</td><td>CADB</td></tr>
-<tr><td>85ee7d959680508e4be7ad384deb8507</td><td>DABC</td></tr>
-<tr><td>c3da5c4ee87e26d21c8b11def01c0ccd</td><td>DACB</td></tr>
-<tr><td>648557a0e479b7bbef8fa17f3dabd86c</td><td>CABD</td></tr>
-<tr><td>f2deb1608e4c9adcab3226e52041da18</td><td>CADB</td></tr>
-<tr><td>db4c4fdda6b81d4362d4a60627bd9b24</td><td>ADBC</td></tr>
-<tr><td>49cb5c4ef9c296f230e16be2800117ff</td><td>ADCB</td></tr>
-<tr><td>95f316420c39cc0036e12161112e886a</td><td>ACBD</td></tr>
-<tr><td>5a6bb028676eb278a95be15488aa22e2</td><td>CADB</td></tr>
-<tr><td>e2d44db0fd6328ee85f53ee142de1d2f</td><td>ACDB</td></tr>
-<tr><td>dc46e0898d7e2aa566796324d65bdf3a</td><td>ACDB</td></tr>
-<tr><td>ae91d66ac9f1a0187cca62708b80149d</td><td>ACDB</td></tr>
-<tr><td>1b480120eace9b8f2748e4ebe1a812b7</td><td>DCAB</td></tr>
-<tr><td>8cb61cc2e45cc806490ce9dc38ef8707</td><td>DABC</td></tr>
-<tr><td>831c8a1fb42887ae917650f17230d9eb</td><td></td></tr>
-<tr><td>dfffd9161a8d115989cb3b685121e28f</td><td>DACB</td></tr>
-<tr><td>926269c316fb934b307d27601d674337</td><td>ACDB</td></tr>
-<tr><td>54ebaa61ec314e38b43e9cba718b7845</td><td>ACDB</td></tr>
-<tr><td>8408d397b99c291099ebb79de50ed68c</td><td>ADCB</td></tr>
-<tr><td>8415c706f6cc57ee171ff6229b4b2cb6</td><td>DCAB</td></tr>
-<tr><td>506d2a02c6e39cdcfa1b271c045fc7c5</td><td>DCAB</td></tr>
-<tr><td>ac521ea96d26410d7eb43438b530711b</td><td>CBDA</td></tr>
-<tr><td>af46747aa1e457b1b42464a223f48e26</td><td>DCAB</td></tr>
-<tr><td>2a813ce0252a85453a6357abfa80784d</td><td>DACB</td></tr>
-<tr><td>87b011f0abf63e221afd0cac7326260f</td><td>ACDB</td></tr>
-<tr><td>6ae0bddc6bfedba9cb72b8c569b598bb</td><td>ACBD</td></tr>
-<tr><td>f5b83a15b29c141db4d1aa4017f53db8</td><td>ACDB</td></tr>
-<tr><td>71bc634d672b6f0e95f404053c0506df</td><td>CDAB</td></tr>
-<tr><td>144d23d73e1d36dfdd41e791400858b5</td><td>ACDB</td></tr>
-<tr><td>3e7a160d2359d8ce4fcaeab93dffa787</td><td>DCAB</td></tr>
-<tr><td>447fe0e01a4d35a355a757ebe5ec698f</td><td>ACDB</td></tr>
-<tr><td>4c0c5b08f22a9d0027d285842817005a</td><td>ACDB</td></tr>
-<tr><td>28a67385c06548a647b354d64eeec878</td><td>CADB</td></tr>
-<tr><td>fa04e88f99e5f8d5003faa6b19453690</td><td>ACDB</td></tr>
-<tr><td>9f35fa39a352f4fa8ce93c43ea237f31</td><td>ADCB</td></tr>
-</tbody>
-</table>
+	fb6fea2180e39873c196b3a94d727008 DB
+	c2f0d4f2bec62a17fd8275e086e2ccb3 DBAC
+	895e4f1e192d71478d66c6142bd6179d ABDC
+	96b7f72c744e4ac5b658414ed68754e7 ADBC
+	16b01ef9a18da764ddf28dd29ca9f53c ACDB
+	d193b18a22a20beca34021a6e265f2e4 ADCB
+	0f9a4eab8f46fd04cf3f73490ddd993d DACB
+	9aec7bd22933c0889ac080c9cd899f78 ADCB
+	01a17fb273f7e4acef716b6a3ea42d06 CADB
+	7319ce5a23fb1627dde403d1a896e28a ACDB
+	326d609b211f729627e8171a1cd675d1 ACDB
+	bf9ce3317c378124be1f7b55ca8526aa ADCB
+	7826f09ae5d19363237c96127dc15f0a DACB
+	a3d70d5f7c3114ea2ab3f13781aa4038 DCBA
+	0f7be5804eddaeb5f4f6c8e869f33550 ACDB
+	1a2f021a85e723335f27e8fb5cb8b090 DACB
+	1e926c7a322a1aab6dbdfbdb69a43673 ACDB
+	73a604f919ac6bb1a42370900610eff7 ADCB
+	18f359212bf72368e14594366c329d52 ACDB
+	d973261dc4be660784ae321ece4385f2 CABD
+	7ed480c3741f1bccf5c9d0972e859237 ADCB
+	ba998b2c8911df16aa7d1e42a279f82b CABD
+	c7d2729e87afb1787cc3678667bf886c DACB
+	ed4886c69ae99df7ef59236f6d17da31 ACDB
+	da18735ad49240ff84ef5d8e7ef743d9 DCAB
+	40ead7d218133cb9fdecd656d61ebf22 DACB
+	c1cf0e4ea5e194f3e524462c53b854f9 ADCB
+	297dac5a78d2edbb67ce5e587b550e9e DACB
+	80d5d9468707b7aa0faa8cc3eb54bcba DCAB
+	f3563a2b4c02b8a1a78a19ec66289df1 DABC
+	f2a098eaf964dacb7c93f36fdb5f64e9 ADBC
+	3ca0092a9c4684aeb529001f41c7379c DACB
+	9b6ca1b196eda55492e8e73db7f83dcc CABD
+	150825d8ef55f0344657db9c3d153306 ACDB
+	db15bd1ab6d4200cee475985612d93d1 ACDB
+	89c366f7fa4e191337d972c186c11f89 CBAD
+	81878b7885ae3ef9fffcb4171ffd390b
+	8410cce88735267618286305808923cb ACDB
+	145790a1278a01dfbc0a717f6b67a994 ADCB
+	18e7528fb2ab8d294479a2df25f2e0e8 DCBA
+	de67a7406c5a346737a03e80dbe5659a CDAB
+	23ab89a3d3f1580067861f4d7d8a259d ACDB
+	943ab33099181215ee66d33474a4f2bc ABCD
+	7e39dea5c964d89f0aebe37408523729 ACBD
+	1948eff01fd11a60cf7d990e795c5f46 DBAC
+	2db612877455c76ea48277ae2084362b DCAB
+	1ccd724055f0aa1715e8824f54abb4ae ACDB
+	045df5dbd1953236b8a0353cae912881 DCAB
+	1566ed7b05bac580a818417e3283b12e ACDB
+	40d1f2252e214cdd94ed7884a549798d CADB
+	85ee7d959680508e4be7ad384deb8507 DABC
+	c3da5c4ee87e26d21c8b11def01c0ccd DACB
+	648557a0e479b7bbef8fa17f3dabd86c CABD
+	f2deb1608e4c9adcab3226e52041da18 CADB
+	db4c4fdda6b81d4362d4a60627bd9b24 ADBC
+	49cb5c4ef9c296f230e16be2800117ff ADCB
+	95f316420c39cc0036e12161112e886a ACBD
+	5a6bb028676eb278a95be15488aa22e2 CADB
+	e2d44db0fd6328ee85f53ee142de1d2f ACDB
+	dc46e0898d7e2aa566796324d65bdf3a ACDB
+	ae91d66ac9f1a0187cca62708b80149d ACDB
+	1b480120eace9b8f2748e4ebe1a812b7 DCAB
+	8cb61cc2e45cc806490ce9dc38ef8707 DABC
+	831c8a1fb42887ae917650f17230d9eb
+	dfffd9161a8d115989cb3b685121e28f DACB
+	926269c316fb934b307d27601d674337 ACDB
+	54ebaa61ec314e38b43e9cba718b7845 ACDB
+	8408d397b99c291099ebb79de50ed68c ADCB
+	8415c706f6cc57ee171ff6229b4b2cb6 DCAB
+	506d2a02c6e39cdcfa1b271c045fc7c5 DCAB
+	ac521ea96d26410d7eb43438b530711b CBDA
+	af46747aa1e457b1b42464a223f48e26 DCAB
+	2a813ce0252a85453a6357abfa80784d DACB
+	87b011f0abf63e221afd0cac7326260f ACDB
+	6ae0bddc6bfedba9cb72b8c569b598bb ACBD
+	f5b83a15b29c141db4d1aa4017f53db8 ACDB
+	71bc634d672b6f0e95f404053c0506df CDAB
+	144d23d73e1d36dfdd41e791400858b5 ACDB
+	3e7a160d2359d8ce4fcaeab93dffa787 DCAB
+	447fe0e01a4d35a355a757ebe5ec698f ACDB
+	4c0c5b08f22a9d0027d285842817005a ACDB
+	28a67385c06548a647b354d64eeec878 CADB
+	fa04e88f99e5f8d5003faa6b19453690 ACDB
+	9f35fa39a352f4fa8ce93c43ea237f31 ADCB
 
 ### Beat matrix
 
