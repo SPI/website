@@ -33,6 +33,32 @@ while (<>) {
 		} else {
 			error $context, "Unknown line: $_";
 		}
+	} elsif ($context eq "Results") {
+		chomp;
+		if (m#^(<table>|<tbody>)$#) {
+			# Skip headers
+			$in_table = 1;
+		} elsif (m#^(These are the results|There were)#) {
+			print "$_\n";
+		} elsif (m#<tr><td>(<b>)?(.+?)(</b>)?</td></tr>#) {
+			my $name = $2;
+			$name = "**$name**" if defined $1; # bold
+			print "1. $name\n";
+		} elsif (m#^$#) {
+			# Skip empty line in table
+			print "\n" if !$in_table;
+		} elsif (m#^(</tbody>|</table>)$#) {
+			# Skip footer
+			$in_table = 0;
+			$context = "" if m#^</table>$#;
+		} elsif (!$in_table && /^(\s*\d+\.|\*) [*\w]/) {
+			# Already Markdown
+			print "$_\n";
+		} elsif (/results.*png/) {
+			print "$_\n";
+		} else {
+			error $context, "Unknown line: $_";
+		}
 	} else {
 		print "$_";
 	}
