@@ -12,10 +12,15 @@ my $context = "outside";
 my $in_table = 0;
 my $seen_table = 0;
 while (<>) {
-	if (/^#+ (.*)/) {
+	if (/^#+ (.+)/) {
+		my $title = $1;
 		$context = $1;
 		$seen_table = 0;
-		print;
+		if (/\d+ election results/) {
+			print "# $title\n";
+		} else {
+			print "## $title\n";
+		}
 	} elsif ($context eq "Voters") {
 		chomp;
 		if (m#^(<table>|<thead>|\s*<tr><th>Index</th>\s*<th>Name</th></tr>|</thead>|<tbody>)$#) {
