@@ -17,176 +17,142 @@
 
 ### Voters
 
-<table>
-<thead>
-  <tr><th>Index</th> <th>Name</th></tr>
-</thead>
-<tbody>
-  <tr><td>1</td><td>Aaron Ucko</td></tr>
-  <tr><td>2</td><td>Adam Conrad</td></tr>
-  <tr><td>3</td><td>Adam Di Carlo</td></tr>
-
-  <tr><td>4</td><td>Alberto Gonzalez Iniesta</td></tr>
-  <tr><td>5</td><td>Alen Zekulic</td></tr>
-  <tr><td>6</td><td>Alexander Kotelnikov</td></tr>
-  <tr><td>7</td><td>Amaya Rodrigo Sastre</td></tr>
-  <tr><td>8</td><td>Andrew M.A. Cater</td></tr>
-
-  <tr><td>9</td><td>Andrew Stribblehill</td></tr>
-  <tr><td>10</td><td>Andy King</td></tr>
-  <tr><td>11</td><td>Anthony Towns</td></tr>
-  <tr><td>12</td><td>Antti-Juhani Kaijanaho</td></tr>
-  <tr><td>13</td><td>Barak A. Pearlmutter</td></tr>
-
-  <tr><td>14</td><td>Bas Zoetekouw</td></tr>
-  <tr><td>15</td><td>Bdale Garbee</td></tr>
-  <tr><td>16</td><td>Benjamin "Mako" Hill</td></tr>
-  <tr><td>17</td><td>Bill Allombert</td></tr>
-  <tr><td>18</td><td>Bradley M. Kuhn</td></tr>
-
-  <tr><td>19</td><td>Branden Robinson</td></tr>
-  <tr><td>20</td><td>Bruce Perens</td></tr>
-  <tr><td>21</td><td>Christian Surchi</td></tr>
-  <tr><td>22</td><td>Christian T. Steigies</td></tr>
-  <tr><td>23</td><td>Christophe Barbe</td></tr>
-
-  <tr><td>24</td><td>Christophe Le Bars</td></tr>
-  <tr><td>25</td><td>Christopher Cashell</td></tr>
-  <tr><td>26</td><td>Clint Adams</td></tr>
-  <tr><td>27</td><td>Colin Watson</td></tr>
-  <tr><td>28</td><td>Cord Beermann</td></tr>
-
-  <tr><td>29</td><td>Cosimo Alfarano</td></tr>
-  <tr><td>30</td><td>Craig Small</td></tr>
-  <tr><td>31</td><td>Dale Martin</td></tr>
-  <tr><td>32</td><td>Daniel Glassey</td></tr>
-  <tr><td>33</td><td>Daniel Jacobowitz</td></tr>
-
-  <tr><td>34</td><td>David B. Harris</td></tr>
-  <tr><td>35</td><td>David Graham</td></tr>
-  <tr><td>36</td><td>David Kimdon</td></tr>
-  <tr><td>37</td><td>David Schleef</td></tr>
-  <tr><td>38</td><td>David Turner</td></tr>
-
-  <tr><td>39</td><td>David Welton</td></tr>
-  <tr><td>40</td><td>Davide Puricelli</td></tr>
-  <tr><td>41</td><td>Duncan Findlay</td></tr>
-  <tr><td>42</td><td>Ean Schuessler</td></tr>
-  <tr><td>43</td><td>Elie Rosenblum</td></tr>
-
-  <tr><td>44</td><td>Enrique Zanardi</td></tr>
-  <tr><td>45</td><td>Frank Warmerdam</td></tr>
-  <tr><td>46</td><td>Fredrik Steen</td></tr>
-  <tr><td>47</td><td>Gerfried Fuchs</td></tr>
-  <tr><td>48</td><td>Gergely Nagy</td></tr>
-
-  <tr><td>49</td><td>Giacomo Catenazzi</td></tr>
-  <tr><td>50</td><td>Glenn McGrath</td></tr>
-  <tr><td>51</td><td>Gustavo Noronha Silva</td></tr>
-  <tr><td>52</td><td>Hamish Moffatt</td></tr>
-  <tr><td>53</td><td>Héctor García Álvarez</td></tr>
-
-  <tr><td>54</td><td>Ian Jackson</td></tr>
-  <tr><td>55</td><td>Ivo Timmermans</td></tr>
-  <tr><td>56</td><td>JP Sugarbroad</td></tr>
-  <tr><td>57</td><td>James LewisMoss</td></tr>
-  <tr><td>58</td><td>James Penny</td></tr>
-
-  <tr><td>59</td><td>Javier Fernndez-Sanguino Pea</td></tr>
-  <tr><td>60</td><td>Jeff Carr</td></tr>
-  <tr><td>61</td><td>Jimmy Kaplowitz</td></tr>
-  <tr><td>62</td><td>Joe Drew</td></tr>
-  <tr><td>63</td><td>Joerg Jaspert</td></tr>
-
-  <tr><td>64</td><td>Joey Schulze</td></tr>
-  <tr><td>65</td><td>John Goerzen</td></tr>
-  <tr><td>66</td><td>John H. Robinson, IV</td></tr>
-  <tr><td>67</td><td>Jonas Smedegaard</td></tr>
-  <tr><td>68</td><td>Jonas Öberg</td></tr>
-
-  <tr><td>69</td><td>Jordi Mallach</td></tr>
-  <tr><td>70</td><td>Joshua Haberman</td></tr>
-  <tr><td>71</td><td>Josip Rodin</td></tr>
-  <tr><td>72</td><td>José Carlos García Sogo</td></tr>
-  <tr><td>73</td><td>Juan Cespedes</td></tr>
-
-  <tr><td>74</td><td>Julien BLACHE</td></tr>
-  <tr><td>75</td><td>Kevin M. Rosenberg</td></tr>
-  <tr><td>76</td><td>Kåre Thor Olsen</td></tr>
-  <tr><td>77</td><td>Luca Filipozzi</td></tr>
-  <tr><td>78</td><td>Lukas Geyer</td></tr>
-
-  <tr><td>79</td><td>M. Drew Streib</td></tr>
-  <tr><td>80</td><td>Manoj Srivastava</td></tr>
-  <tr><td>81</td><td>Marcelo E. Magallon</td></tr>
-  <tr><td>82</td><td>Martin Albert</td></tr>
-  <tr><td>83</td><td>Martin Michlmayr</td></tr>
-
-  <tr><td>84</td><td>Matt Kraai</td></tr>
-  <tr><td>85</td><td>Matthew Danish</td></tr>
-  <tr><td>86</td><td>Matthew Wilcox</td></tr>
-  <tr><td>87</td><td>Micah Anderson</td></tr>
-  <tr><td>88</td><td>Michael Banck</td></tr>
-
-  <tr><td>89</td><td>Michael Beattie</td></tr>
-  <tr><td>90</td><td>Michael Cardenas</td></tr>
-  <tr><td>91</td><td>Michael Fedrowitz</td></tr>
-  <tr><td>92</td><td>Michael Schultheiss</td></tr>
-  <tr><td>93</td><td>Miroslaw Baran</td></tr>
-
-  <tr><td>94</td><td>Murat Demirten</td></tr>
-  <tr><td>95</td><td>Nathanael C. Nerode</td></tr>
-  <tr><td>96</td><td>Nick Phillips</td></tr>
-  <tr><td>97</td><td>Noèl Köthe</td></tr>
-  <tr><td>98</td><td>Ola Lundqvist</td></tr>
-
-  <tr><td>99</td><td>Oliver Elphick</td></tr>
-  <tr><td>100</td><td>Osamu Aoki</td></tr>
-  <tr><td>101</td><td>Paul Fisher</td></tr>
-  <tr><td>102</td><td>Peter Karlsson</td></tr>
-  <tr><td>103</td><td>Peter Makholm</td></tr>
-
-  <tr><td>104</td><td>Peter Novodvorsky</td></tr>
-  <tr><td>105</td><td>Peter Palfrader</td></tr>
-  <tr><td>106</td><td>Peter S. Galbraith</td></tr>
-  <tr><td>107</td><td>Phil Brooke</td></tr>
-  <tr><td>108</td><td>Pierre Machard</td></tr>
-
-  <tr><td>109</td><td>Remi Vanicat</td></tr>
-  <tr><td>110</td><td>Rene Engelhard</td></tr>
-  <tr><td>111</td><td>Richard Hecker</td></tr>
-  <tr><td>112</td><td>Rik van Riel</td></tr>
-  <tr><td>113</td><td>Rob Bradford</td></tr>
-
-  <tr><td>114</td><td>Robert D. Hilliard</td></tr>
-  <tr><td>115</td><td>Robert McQueen</td></tr>
-  <tr><td>116</td><td>Ron Farrer</td></tr>
-  <tr><td>117</td><td>Rune B. Broberg</td></tr>
-  <tr><td>118</td><td>Russell Coker</td></tr>
-
-  <tr><td>119</td><td>Russell Nelson</td></tr>
-  <tr><td>120</td><td>Sam Hartman</td></tr>
-  <tr><td>121</td><td>Scott Dier</td></tr>
-  <tr><td>122</td><td>Sergio Talens-Oliag</td></tr>
-  <tr><td>123</td><td>Simon Law</td></tr>
-
-  <tr><td>124</td><td>Simon Richter</td></tr>
-  <tr><td>125</td><td>Stefan Alfredsson</td></tr>
-  <tr><td>126</td><td>Stefan Gybas</td></tr>
-  <tr><td>127</td><td>Stephen Langasek</td></tr>
-  <tr><td>128</td><td>Stephen R. Marenka</td></tr>
-
-  <tr><td>129</td><td>Steve Greenland</td></tr>
-  <tr><td>130</td><td>Steve McIntyre</td></tr>
-  <tr><td>131</td><td>Sven Luther</td></tr>
-  <tr><td>132</td><td>Theodore Ts'o</td></tr>
-  <tr><td>133</td><td>Thom May</td></tr>
-
-  <tr><td>134</td><td>Timshel Knoll</td></tr>
-  <tr><td>135</td><td>Tobias Hunger</td></tr>
-  <tr><td>136</td><td>Tollef Fog Heen</td></tr>
-</tbody>
-</table>
+1. Aaron Ucko
+1. Adam Conrad
+1. Adam Di Carlo
+1. Alberto Gonzalez Iniesta
+1. Alen Zekulic
+1. Alexander Kotelnikov
+1. Amaya Rodrigo Sastre
+1. Andrew M.A. Cater
+1. Andrew Stribblehill
+1. Andy King
+1. Anthony Towns
+1. Antti-Juhani Kaijanaho
+1. Barak A. Pearlmutter
+1. Bas Zoetekouw
+1. Bdale Garbee
+1. Benjamin "Mako" Hill
+1. Bill Allombert
+1. Bradley M. Kuhn
+1. Branden Robinson
+1. Bruce Perens
+1. Christian Surchi
+1. Christian T. Steigies
+1. Christophe Barbe
+1. Christophe Le Bars
+1. Christopher Cashell
+1. Clint Adams
+1. Colin Watson
+1. Cord Beermann
+1. Cosimo Alfarano
+1. Craig Small
+1. Dale Martin
+1. Daniel Glassey
+1. Daniel Jacobowitz
+1. David B. Harris
+1. David Graham
+1. David Kimdon
+1. David Schleef
+1. David Turner
+1. David Welton
+1. Davide Puricelli
+1. Duncan Findlay
+1. Ean Schuessler
+1. Elie Rosenblum
+1. Enrique Zanardi
+1. Frank Warmerdam
+1. Fredrik Steen
+1. Gerfried Fuchs
+1. Gergely Nagy
+1. Giacomo Catenazzi
+1. Glenn McGrath
+1. Gustavo Noronha Silva
+1. Hamish Moffatt
+1. Héctor García Álvarez
+1. Ian Jackson
+1. Ivo Timmermans
+1. JP Sugarbroad
+1. James LewisMoss
+1. James Penny
+1. Javier Fernndez-Sanguino Pea
+1. Jeff Carr
+1. Jimmy Kaplowitz
+1. Joe Drew
+1. Joerg Jaspert
+1. Joey Schulze
+1. John Goerzen
+1. John H. Robinson, IV
+1. Jonas Smedegaard
+1. Jonas Öberg
+1. Jordi Mallach
+1. Joshua Haberman
+1. Josip Rodin
+1. José Carlos García Sogo
+1. Juan Cespedes
+1. Julien BLACHE
+1. Kevin M. Rosenberg
+1. Kåre Thor Olsen
+1. Luca Filipozzi
+1. Lukas Geyer
+1. M. Drew Streib
+1. Manoj Srivastava
+1. Marcelo E. Magallon
+1. Martin Albert
+1. Martin Michlmayr
+1. Matt Kraai
+1. Matthew Danish
+1. Matthew Wilcox
+1. Micah Anderson
+1. Michael Banck
+1. Michael Beattie
+1. Michael Cardenas
+1. Michael Fedrowitz
+1. Michael Schultheiss
+1. Miroslaw Baran
+1. Murat Demirten
+1. Nathanael C. Nerode
+1. Nick Phillips
+1. Noèl Köthe
+1. Ola Lundqvist
+1. Oliver Elphick
+1. Osamu Aoki
+1. Paul Fisher
+1. Peter Karlsson
+1. Peter Makholm
+1. Peter Novodvorsky
+1. Peter Palfrader
+1. Peter S. Galbraith
+1. Phil Brooke
+1. Pierre Machard
+1. Remi Vanicat
+1. Rene Engelhard
+1. Richard Hecker
+1. Rik van Riel
+1. Rob Bradford
+1. Robert D. Hilliard
+1. Robert McQueen
+1. Ron Farrer
+1. Rune B. Broberg
+1. Russell Coker
+1. Russell Nelson
+1. Sam Hartman
+1. Scott Dier
+1. Sergio Talens-Oliag
+1. Simon Law
+1. Simon Richter
+1. Stefan Alfredsson
+1. Stefan Gybas
+1. Stephen Langasek
+1. Stephen R. Marenka
+1. Steve Greenland
+1. Steve McIntyre
+1. Sven Luther
+1. Theodore Ts'o
+1. Thom May
+1. Timshel Knoll
+1. Tobias Hunger
+1. Tollef Fog Heen
 
 ### Votes
 

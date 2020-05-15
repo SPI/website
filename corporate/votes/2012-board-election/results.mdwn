@@ -19,97 +19,90 @@ __Total unique votes cast: 84, which is 16.67% of all possible votes.__
 
 ### Voters
 
-<table>
-<thead>
-<tr><th>Index</th><th>Name</th></tr>
-</thead>
-<tbody>
-<tr><td>0</td><td>Aaron Ucko</td></tr>
-<tr><td>1</td><td>Adam Conrad</td></tr>
-<tr><td>2</td><td>Alvaro Herrera</td></tr>
-<tr><td>3</td><td>Ana Beatriz Guerrero López</td></tr>
-<tr><td>4</td><td>Antti-Juhani Kaijanaho</td></tr>
-<tr><td>5</td><td>Asheesh Laroia</td></tr>
-<tr><td>6</td><td>Bdale Garbee</td></tr>
-<tr><td>7</td><td>Ben Hutchings</td></tr>
-<tr><td>8</td><td>Ben Pfaff</td></tr>
-<tr><td>9</td><td>Benjamin Donald-Wilson</td></tr>
-<tr><td>10</td><td>Benjamin Kerensa</td></tr>
-<tr><td>11</td><td>Bill Allombert</td></tr>
-<tr><td>12</td><td>Bob Pianka</td></tr>
-<tr><td>13</td><td>Bradley M. Kuhn</td></tr>
-<tr><td>14</td><td>Chris Cormack</td></tr>
-<tr><td>15</td><td>Christian Perrier</td></tr>
-<tr><td>16</td><td>Christoph Egger</td></tr>
-<tr><td>17</td><td>Christopher Browne</td></tr>
-<tr><td>18</td><td>Clint Adams</td></tr>
-<tr><td>19</td><td>Daniel Baumann</td></tr>
-<tr><td>20</td><td>Daniel Kahn Gillmor</td></tr>
-<tr><td>21</td><td>Dave Page</td></tr>
-<tr><td>22</td><td>David Coe</td></tr>
-<tr><td>23</td><td>David Fetter</td></tr>
-<tr><td>24</td><td>David Graham</td></tr>
-<tr><td>25</td><td>Derek Ellis</td></tr>
-<tr><td>26</td><td>Devrim GÜNDÜZ</td></tr>
-<tr><td>27</td><td>Don Armstrong</td></tr>
-<tr><td>28</td><td>Eitan Adler</td></tr>
-<tr><td>29</td><td>Ernesto Lozano</td></tr>
-<tr><td>30</td><td>Ganesh Sittampalam</td></tr>
-<tr><td>31</td><td>Gerald J. Stueve</td></tr>
-<tr><td>32</td><td>Gerfried Fuchs</td></tr>
-<tr><td>33</td><td>Greg Sabino Mullane</td></tr>
-<tr><td>34</td><td>Gregers Petersen</td></tr>
-<tr><td>35</td><td>Gregor Herrmann</td></tr>
-<tr><td>36</td><td>Henrik Ingo</td></tr>
-<tr><td>37</td><td>Henrique de Moraes Holschuh</td></tr>
-<tr><td>38</td><td>Hilmar Lapp</td></tr>
-<tr><td>39</td><td>Holger Levsen</td></tr>
-<tr><td>40</td><td>Jimmy Kaplowitz</td></tr>
-<tr><td>41</td><td>Joerg Jaspert</td></tr>
-<tr><td>42</td><td>Joey Smith</td></tr>
-<tr><td>43</td><td>Jonathan McDowell</td></tr>
-<tr><td>44</td><td>Josh Berkus</td></tr>
-<tr><td>45</td><td>Julian Andres Klode</td></tr>
-<tr><td>46</td><td>Julien Cristau</td></tr>
-<tr><td>47</td><td>Kartik Mistry</td></tr>
-<tr><td>48</td><td>Kees Cook</td></tr>
-<tr><td>49</td><td>Keith Packard</td></tr>
-<tr><td>50</td><td>Lionel Elie Mamane</td></tr>
-<tr><td>51</td><td>Luca Capello</td></tr>
-<tr><td>52</td><td>Luca Falavigna</td></tr>
-<tr><td>53</td><td>Luk Claes</td></tr>
-<tr><td>54</td><td>MJ Ray</td></tr>
-<tr><td>55</td><td>Martin Krafft</td></tr>
-<tr><td>56</td><td>Martin Michlmayr</td></tr>
-<tr><td>57</td><td>Martin Zobel-Helas</td></tr>
-<tr><td>58</td><td>Martín Ferrari</td></tr>
-<tr><td>59</td><td>Matthew Vernon</td></tr>
-<tr><td>60</td><td>Matthias Urlichs</td></tr>
-<tr><td>61</td><td>Micah Anderson</td></tr>
-<tr><td>62</td><td>Michael Schultheiss</td></tr>
-<tr><td>63</td><td>Mohammed Adnène Trojette</td></tr>
-<tr><td>64</td><td>Moray Allan</td></tr>
-<tr><td>65</td><td>Muthu Subramanian</td></tr>
-<tr><td>66</td><td>Neil McGovern</td></tr>
-<tr><td>67</td><td>Noèl Köthe</td></tr>
-<tr><td>68</td><td>Pablo Iranzo Gómez</td></tr>
-<tr><td>69</td><td>Pace Willisson</td></tr>
-<tr><td>70</td><td>Paul Tagliamonte</td></tr>
-<tr><td>71</td><td>Peter Eisentraut</td></tr>
-<tr><td>72</td><td>Peter Palfrader</td></tr>
-<tr><td>73</td><td>Petter reinholdtsen</td></tr>
-<tr><td>74</td><td>Phil Brooke</td></tr>
-<tr><td>75</td><td>Rafael Rivas</td></tr>
-<tr><td>76</td><td>Rico Glöckner</td></tr>
-<tr><td>77</td><td>Robert Brockway</td></tr>
-<tr><td>78</td><td>Romain Francoise</td></tr>
-<tr><td>79</td><td>Selena Deckelmann</td></tr>
-<tr><td>80</td><td>Stefano Zacchiroli</td></tr>
-<tr><td>81</td><td>Steve McIntyre</td></tr>
-<tr><td>82</td><td>Thijs Kinkhorst</td></tr>
-<tr><td>83</td><td>Thomas Goirand</td></tr>
-</tbody>
-</table>
+1. Aaron Ucko
+1. Adam Conrad
+1. Alvaro Herrera
+1. Ana Beatriz Guerrero López
+1. Antti-Juhani Kaijanaho
+1. Asheesh Laroia
+1. Bdale Garbee
+1. Ben Hutchings
+1. Ben Pfaff
+1. Benjamin Donald-Wilson
+1. Benjamin Kerensa
+1. Bill Allombert
+1. Bob Pianka
+1. Bradley M. Kuhn
+1. Chris Cormack
+1. Christian Perrier
+1. Christoph Egger
+1. Christopher Browne
+1. Clint Adams
+1. Daniel Baumann
+1. Daniel Kahn Gillmor
+1. Dave Page
+1. David Coe
+1. David Fetter
+1. David Graham
+1. Derek Ellis
+1. Devrim GÜNDÜZ
+1. Don Armstrong
+1. Eitan Adler
+1. Ernesto Lozano
+1. Ganesh Sittampalam
+1. Gerald J. Stueve
+1. Gerfried Fuchs
+1. Greg Sabino Mullane
+1. Gregers Petersen
+1. Gregor Herrmann
+1. Henrik Ingo
+1. Henrique de Moraes Holschuh
+1. Hilmar Lapp
+1. Holger Levsen
+1. Jimmy Kaplowitz
+1. Joerg Jaspert
+1. Joey Smith
+1. Jonathan McDowell
+1. Josh Berkus
+1. Julian Andres Klode
+1. Julien Cristau
+1. Kartik Mistry
+1. Kees Cook
+1. Keith Packard
+1. Lionel Elie Mamane
+1. Luca Capello
+1. Luca Falavigna
+1. Luk Claes
+1. MJ Ray
+1. Martin Krafft
+1. Martin Michlmayr
+1. Martin Zobel-Helas
+1. Martín Ferrari
+1. Matthew Vernon
+1. Matthias Urlichs
+1. Micah Anderson
+1. Michael Schultheiss
+1. Mohammed Adnène Trojette
+1. Moray Allan
+1. Muthu Subramanian
+1. Neil McGovern
+1. Noèl Köthe
+1. Pablo Iranzo Gómez
+1. Pace Willisson
+1. Paul Tagliamonte
+1. Peter Eisentraut
+1. Peter Palfrader
+1. Petter reinholdtsen
+1. Phil Brooke
+1. Rafael Rivas
+1. Rico Glöckner
+1. Robert Brockway
+1. Romain Francoise
+1. Selena Deckelmann
+1. Stefano Zacchiroli
+1. Steve McIntyre
+1. Thijs Kinkhorst
+1. Thomas Goirand
 
 ### Votes
 

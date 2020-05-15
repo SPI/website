@@ -33,108 +33,101 @@ __Total unique votes cast: 95, which is 24.36% of all possible votes.__
 
 ### Voters
 
-<table>
-<thead>
-<tr><th>Index</th><th>Name</th></tr>
-</thead>
-<tbody>
-<tr><td>0</td><td>Aaron Ucko</td></tr>
-<tr><td>1</td><td>Adeodato Simó</td></tr>
-<tr><td>2</td><td>Alexander Wirt</td></tr>
-<tr><td>3</td><td>Andreas Barth</td></tr>
-<tr><td>4</td><td>Andrew J Sullivan</td></tr>
-<tr><td>5</td><td>Andrew Pollock</td></tr>
-<tr><td>6</td><td>Anibal Monsalve Salazar</td></tr>
-<tr><td>7</td><td>Anthony Towns</td></tr>
-<tr><td>8</td><td>Antti-Juhani Kaijanaho</td></tr>
-<tr><td>9</td><td>Aurelien Jarno</td></tr>
-<tr><td>10</td><td>Baruch Even</td></tr>
-<tr><td>11</td><td>Bastian Blank</td></tr>
-<tr><td>12</td><td>Bdale Garbee</td></tr>
-<tr><td>13</td><td>Ben Hutchings</td></tr>
-<tr><td>14</td><td>Ben Pfaff</td></tr>
-<tr><td>15</td><td>Chris Travers</td></tr>
-<tr><td>16</td><td>Christian Perrier</td></tr>
-<tr><td>17</td><td>Christian T. Steigies</td></tr>
-<tr><td>18</td><td>Christine Spang</td></tr>
-<tr><td>19</td><td>Clint Adams</td></tr>
-<tr><td>20</td><td>Clément Stenac</td></tr>
-<tr><td>21</td><td>Cord Beermann</td></tr>
-<tr><td>22</td><td>Daniel Baumann</td></tr>
-<tr><td>23</td><td>Dave Page</td></tr>
-<tr><td>24</td><td>David Graham</td></tr>
-<tr><td>25</td><td>David Martínez Moreno</td></tr>
-<tr><td>26</td><td>Devrim GÜNDÜZ</td></tr>
-<tr><td>27</td><td>Dirk Eddelbuettel</td></tr>
-<tr><td>28</td><td>Don Armstrong</td></tr>
-<tr><td>29</td><td>Duncan Findlay</td></tr>
-<tr><td>30</td><td>Elein Mustain</td></tr>
-<tr><td>31</td><td>Eric Evans</td></tr>
-<tr><td>32</td><td>Frank Lichtenheld</td></tr>
-<tr><td>33</td><td>Frank Warmerdam</td></tr>
-<tr><td>34</td><td>Gavin M. Roy</td></tr>
-<tr><td>35</td><td>Gerald J. Stueve</td></tr>
-<tr><td>36</td><td>Gerfried Fuchs</td></tr>
-<tr><td>37</td><td>Greg Sabino Mullane</td></tr>
-<tr><td>38</td><td>Javier Fernndez-Sanguino Pea</td></tr>
-<tr><td>39</td><td>Jeroen van Wolffelaar</td></tr>
-<tr><td>40</td><td>Jimmy Kaplowitz</td></tr>
-<tr><td>41</td><td>Joerg Jaspert</td></tr>
-<tr><td>42</td><td>Joey Schulze</td></tr>
-<tr><td>43</td><td>John Goerzen</td></tr>
-<tr><td>44</td><td>John Lightsey</td></tr>
-<tr><td>45</td><td>Jonathan McDowell</td></tr>
-<tr><td>46</td><td>Josh Berkus</td></tr>
-<tr><td>47</td><td>Joshua D. Drake</td></tr>
-<tr><td>48</td><td>Julien BLACHE</td></tr>
-<tr><td>49</td><td>Julien Cristau</td></tr>
-<tr><td>50</td><td>Kalle Kivimaa</td></tr>
-<tr><td>51</td><td>Kåre Thor Olsen</td></tr>
-<tr><td>52</td><td>Lamar Owen</td></tr>
-<tr><td>53</td><td>Lionel Elie Mamane</td></tr>
-<tr><td>54</td><td>Luigi Gangitano</td></tr>
-<tr><td>55</td><td>Luk Claes</td></tr>
-<tr><td>56</td><td>MJ Ray</td></tr>
-<tr><td>57</td><td>Manoj Srivastava</td></tr>
-<tr><td>58</td><td>Mark Brown</td></tr>
-<tr><td>59</td><td>Martin Michlmayr</td></tr>
-<tr><td>60</td><td>Martin Wuertele</td></tr>
-<tr><td>61</td><td>Martin Zobel-Helas</td></tr>
-<tr><td>62</td><td>Michael Meskes</td></tr>
-<tr><td>63</td><td>Michael Schiansky</td></tr>
-<tr><td>64</td><td>Michael Schultheiss</td></tr>
-<tr><td>65</td><td>Mohammed Adnène Trojette</td></tr>
-<tr><td>66</td><td>Moray Allan</td></tr>
-<tr><td>67</td><td>Neil McGovern</td></tr>
-<tr><td>68</td><td>Noèl Köthe</td></tr>
-<tr><td>69</td><td>Osamu Aoki</td></tr>
-<tr><td>70</td><td>Paul Mundt</td></tr>
-<tr><td>71</td><td>Peter Eisentraut</td></tr>
-<tr><td>72</td><td>Peter Palfrader</td></tr>
-<tr><td>73</td><td>Petter reinholdtsen</td></tr>
-<tr><td>74</td><td>Rene Engelhard</td></tr>
-<tr><td>75</td><td>Richard Hartmann</td></tr>
-<tr><td>76</td><td>Richard Hecker</td></tr>
-<tr><td>77</td><td>Rico Glöckner</td></tr>
-<tr><td>78</td><td>Robert Brockway</td></tr>
-<tr><td>79</td><td>Rod Taylor</td></tr>
-<tr><td>80</td><td>Sam Hocevar</td></tr>
-<tr><td>81</td><td>Samuel Kotel Bisbee-vonKaufmann</td></tr>
-<tr><td>82</td><td>Simon Richter</td></tr>
-<tr><td>83</td><td>Stephen Langasek</td></tr>
-<tr><td>84</td><td>Steve McIntyre</td></tr>
-<tr><td>85</td><td>Stuart Walsh</td></tr>
-<tr><td>86</td><td>TJ Fontaine</td></tr>
-<tr><td>87</td><td>Thijs Kinkhorst</td></tr>
-<tr><td>88</td><td>Thom May</td></tr>
-<tr><td>89</td><td>Thomas Viehmann</td></tr>
-<tr><td>90</td><td>Tim Brown</td></tr>
-<tr><td>91</td><td>Tim Post</td></tr>
-<tr><td>92</td><td>Tollef Fog Heen</td></tr>
-<tr><td>93</td><td>Wes Peters</td></tr>
-<tr><td>94</td><td>Wookey</td></tr>
-</tbody>
-</table>
+1. Aaron Ucko
+1. Adeodato Simó
+1. Alexander Wirt
+1. Andreas Barth
+1. Andrew J Sullivan
+1. Andrew Pollock
+1. Anibal Monsalve Salazar
+1. Anthony Towns
+1. Antti-Juhani Kaijanaho
+1. Aurelien Jarno
+1. Baruch Even
+1. Bastian Blank
+1. Bdale Garbee
+1. Ben Hutchings
+1. Ben Pfaff
+1. Chris Travers
+1. Christian Perrier
+1. Christian T. Steigies
+1. Christine Spang
+1. Clint Adams
+1. Clément Stenac
+1. Cord Beermann
+1. Daniel Baumann
+1. Dave Page
+1. David Graham
+1. David Martínez Moreno
+1. Devrim GÜNDÜZ
+1. Dirk Eddelbuettel
+1. Don Armstrong
+1. Duncan Findlay
+1. Elein Mustain
+1. Eric Evans
+1. Frank Lichtenheld
+1. Frank Warmerdam
+1. Gavin M. Roy
+1. Gerald J. Stueve
+1. Gerfried Fuchs
+1. Greg Sabino Mullane
+1. Javier Fernndez-Sanguino Pea
+1. Jeroen van Wolffelaar
+1. Jimmy Kaplowitz
+1. Joerg Jaspert
+1. Joey Schulze
+1. John Goerzen
+1. John Lightsey
+1. Jonathan McDowell
+1. Josh Berkus
+1. Joshua D. Drake
+1. Julien BLACHE
+1. Julien Cristau
+1. Kalle Kivimaa
+1. Kåre Thor Olsen
+1. Lamar Owen
+1. Lionel Elie Mamane
+1. Luigi Gangitano
+1. Luk Claes
+1. MJ Ray
+1. Manoj Srivastava
+1. Mark Brown
+1. Martin Michlmayr
+1. Martin Wuertele
+1. Martin Zobel-Helas
+1. Michael Meskes
+1. Michael Schiansky
+1. Michael Schultheiss
+1. Mohammed Adnène Trojette
+1. Moray Allan
+1. Neil McGovern
+1. Noèl Köthe
+1. Osamu Aoki
+1. Paul Mundt
+1. Peter Eisentraut
+1. Peter Palfrader
+1. Petter reinholdtsen
+1. Rene Engelhard
+1. Richard Hartmann
+1. Richard Hecker
+1. Rico Glöckner
+1. Robert Brockway
+1. Rod Taylor
+1. Sam Hocevar
+1. Samuel Kotel Bisbee-vonKaufmann
+1. Simon Richter
+1. Stephen Langasek
+1. Steve McIntyre
+1. Stuart Walsh
+1. TJ Fontaine
+1. Thijs Kinkhorst
+1. Thom May
+1. Thomas Viehmann
+1. Tim Brown
+1. Tim Post
+1. Tollef Fog Heen
+1. Wes Peters
+1. Wookey
 
 
 ### Votes
