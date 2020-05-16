@@ -1,0 +1,26 @@
+#!/bin/sh
+
+# Traverse the dir to find a dictionary.  This allows us to set
+# a specific dictionary for some directories.
+find_dict() {
+	dir=$(dirname "$1")
+	if [ -e $dir/.aspell.en.pws ]; then
+		echo $dir
+	elif [ $dir = "." ]; then
+		echo $dir
+	else
+		find_dict "$dir"
+	fi
+}
+
+for i in $(find -name "*.tex" | sort); do
+	mode=tex
+	dict=$(dirname $(find -name .aspell.en.pws | sort | tail -n 1))
+	aspell -d en --home-dir=$(find_dict $i) --mode $mode check $i
+done
+
+for i in $(find -name "*.mdwn" | sort); do
+	mode=markdown
+	aspell -d en --home-dir=$(find_dict "$i") --mode $mode check $i
+done
+

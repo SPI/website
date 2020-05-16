@@ -1,0 +1,4 @@
+
+spell:
+	bin/spell-check
+
