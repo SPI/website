@@ -1,0 +1,205 @@
+21:09 < schultmc> *GAVEL*
+21:09 < schultmc> [item 1, Opening]
+21:09 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:09 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:09 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-05-11/
+21:09 < schultmc> [item 2, Roll Call]
+21:09 < schultmc> Directors, please state your name
+21:09 < Snow-Man> Stephen Frost
+21:09 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:09 < zumbi> Héctor Orón Martínez
+21:09 < fsf> Forrest Fleming
+21:09 < schultmc> recorded in the minutes of this meeting.
+21:09 < schultmc> .
+21:09 < schultmc> tpot, do we have any regrets?
+21:09 < schultmc> Michael Schultheiss
+21:09 < tpot> No regrets/apologies.
+21:09 < tpot> Tim Potter
+21:09 < tridge> Andrew Tridgell
+21:10 < lamby> Chris Lamb
+21:10 < Snow-Man> luca was here not too long ago..
+21:10 < schultmc> luca and zobel are absent but we're quorate - we can move on
+21:11 < schultmc> [item 3, President's Report]
+21:11 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:11 < schultmc> contracting with SPI's current and potential contractors. Stephen
+21:11 < schultmc> continues to do a fantastic job working with our contractors and
+21:11 < schultmc> legal counsel.
+21:11 < schultmc> .
+21:11 < schultmc> I need to work with Stephen and Tim on finalizing the paperwork for Merill Lynch - I'll get that sent over ASAP.
+21:12 < schultmc> </done>
+21:12 < Snow-Man> We're currently waiting to hear back from the French counsel we have retained
+21:12 < Snow-Man> We've heard back from the UK counsel and I'll be sending to the board their recommendations
+21:12 < Snow-Man> We've already got things in place wrt our UK contractor though, of course, so that isn't pressing.
+21:13 < Snow-Man> no one seemed to see any need to make immediate changes, really just for the next time we're updating that relationship
+21:13 < lamby> Can you remind me why we were looking into French-specific counsel?
+21:14 < Snow-Man> We need to be sure we aren't exposing ourselves to undue risk wrt hiring a French contractor.  We've followed up with the counsel.  We had anticipated the time required to only be a couple of hours to review the proposed contract and provide recommendations- it's not clear why we haven't heard back from them.
+21:14 < lamby> Nod.
+21:15 < Snow-Man> Our US-based counsel has also been involved and helping move these things through and has been very responsive.
+21:15 < tridge> can we go ahead with a french contractor without hearing back from the french counsel?
+21:15 < Snow-Man> I wouldn't advise it
+21:15 < Snow-Man> nor would our legal counsel, I'm reasonably sure
+21:16 < Snow-Man> but the board can do whatever the board wishes, of course.
+21:16 < tridge> so how do we move fwd if we don't hear back?
+21:16 < Snow-Man> I don't think we are going to be left in the cold forever- it's been about 10 days or so since we got things in place with the French counsel, I believe
+21:17 < Snow-Man> It was recommended and seemed like a rather reasonable firm, so I seriously doubt they're going to just ignore this indefinitely.
+21:17 < Snow-Man> I'd be very surprised if we don't hear something back this week.
+21:17 < tridge> what about an Australian contractor?
+21:17 < fsf> Same - things are very much _not_ business as usual these past several weeks. I think benefit of the doubt is warranted
+21:17 < Snow-Man> I'd recommend we go through a similar process, naturally.
+21:17 < tridge> has an Australian counsel been approached?
+21:18 < Snow-Man> No..  last I heard the contractors we were contemplating were all UK and France based
+21:18 < Snow-Man> I'm happy to start the process if we have cause to though in Austrailia, of course.
+21:18 < Snow-Man> Wasn't the project that approached us suggesting a French contractor?
+21:18 < tridge> ArduPilot project is waiting on contract approval for french and austalian contractors
+21:19 < Snow-Man> *and*?  Ok, that wasn't made clear, at least to me.
+21:19 < Snow-Man> I'll contact our counsel and get things moving on that then.
+21:19 < tridge> yes, two contractors pending
+21:19 < Snow-Man> unless anyone on the board objects..?
+21:19 < schultmc> sounds reasonable to me
+21:19 < tpot> thanks Snow-Man - thanks for doing all the people/legal stuff for this
+21:19 < lamby> Sounds good to me too. And yes, thank you.
+21:20 < tridge> thanks
+21:20 < zumbi> Snow-Man thanks
+21:20 < Snow-Man> no problem, will email counsel today
+21:21 < schultmc> anything else for this agenda item?
+21:22 < lamby> Not from me.
+21:22 < zumbi> Nothing here
+21:22 < Snow-Man> ok, email's counsel.
+21:22 < Snow-Man> erm, email'd
+21:22 < schultmc> [item 4, Treasurer's Report]
+21:22 < schultmc> zobel isn't currently here.
+21:22 < schultmc> .
+21:22 < schultmc> Thank you to Héctor Orón Martínez (zumbi) for stepping up as Assistant Treasurer.
+21:22 < schultmc> zumbi has processed a large portion of the backlog.
+21:22 < schultmc> .
+21:22 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:22 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:22 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:23 < schultmc> help is always welcome.
+21:23 < schultmc> .
+21:23 < schultmc> [item 5, Secretary's report]
+21:23 < schultmc> tpot?
+21:23 < tpot> No updates of general interest.
+21:23 < tpot> .
+21:24 < schultmc> [item 6, Outstanding minutes]
+21:24 < schultmc> The minutes for the 2020-04-13 require approval
+21:24 < schultmc> .
+21:24 < schultmc> They can be found at
+21:24 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-04-13/
+21:24 < tpot> Please take a moment to go over the minutes. There's nothing too huge in there.
+21:24 < tpot> Voting started, 7 people (lamby,snow-man,fsf,tpot,tridge,zumbi,schultmc) allowed to vote on Accept minutes for meeting Monday 13th April 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:24 < schultmc> !vote yes
+21:24 < Snow-Man> !vote yes
+21:24 < zumbi> !vote yes
+21:24 < lamby> !vote yes
+21:24 < tridge> !vote yes
+21:24 < tpot> !vote yes
+21:25 < fsf> !vote yes
+21:25 < tpot> Current voting results for "Accept minutes for meeting Monday 13th April 2020": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:25 < tpot> Voting for "Accept minutes for meeting Monday 13th April 2020" closed.
+21:25 < tpot> Thanks everyone
+21:25 < schultmc> [item 7, Items up for discussion]
+21:25 < schultmc> Nothing on the agenda.
+21:25 < schultmc> .
+21:25 < schultmc> [item 8, Any other business]
+21:25 < schultmc> Anything to discuss?
+21:25 < tridge> I'd like to get the full cerificate of incorporation publishd on the website
+21:25 < Snow-Man> We agreed to discuss the request from debconf, I'm happy to provide at least something of an update for that.
+21:25 < luca> well, i'm here, but only just joined :(
+21:25 < luca> silly meetings
+21:26 < lamby> hi luca
+21:26 < Snow-Man> tridge: per the email from Michael, it seems there's good cause not to put it on the website..
+21:26 < Snow-Man> luca: greetings.
+21:26 < schultmc> tridge: I e-mailed -board why it's not on the website. I can redact the personal information.
+21:26 < tridge> what email?
+21:26 < luca> kindly mark me present but late
+21:26 < Snow-Man> tridge: went out after the meeting started
+21:26 * schultmc just emailed a few minutes ago
+21:26 < Snow-Man> but there's personal data in it
+21:26 < tridge> reading ....
+21:26 < zumbi> luca: o/\o
+21:27 < tridge> got it, thanks
+21:27 < Snow-Man> but, sounds like it's fine to send it to the organization that's requesting it
+21:27 < tpot> can we redact aout the addresses?
+21:27 < schultmc> and that scan is a copy of what the NY secretary of state has
+21:27 < Snow-Man> so we can make progress on that.
+21:27 < schultmc> yes, I can redact them and post on the website
+21:27 < Snow-Man> tpot: presumably, but that won't be acceptable to organizations that need it, I imagine, so what's beneficial from doing so?
+21:27 < tridge> I can do the redaction if you're ok with that
+21:28 < Snow-Man> I'm not particuclarly against doing so, except that it can be tricky to make sure you really redacted it..
+21:29 < tridge> just addresses to redact or also names?
+21:30 < Snow-Man> I'm still trying to understand the point to this..?
+21:30 < tridge> needed to transfer trademarks from china to SPI
+21:30 < Snow-Man> ok
+21:30 < Snow-Man> let's chat about that
+21:30 < tridge> sure
+21:30 < Snow-Man> you think they're gonna be happy w/ a redacted version?
+21:30 < Snow-Man> that seems unlikely to me
+21:31 < tridge> I don't know, but I can find out
+21:31 < schultmc> I'm fine with sending a non-redacted version to them but the non-redacted version shouldn't be on our public website
+21:31 < Snow-Man> right, exactly what schultmc said
+21:31 < Snow-Man> we can send them the non-redacted version, but we shouldn't put that version on the website
+21:31 < Snow-Man> hence my question is: is there anything to be materially gained by putting up a redacted version on the website?
+21:31 < tridge> understood. We should at least put something on the web page explaining how to get the full version
+21:31 < Snow-Man> I've not heard of any particularly good reason..
+21:31 < Snow-Man> sure
+21:32 < Snow-Man> I'm fine with a one-liner of "please contact secretary@ if you need a copy of..."
+21:32 < tridge> sure, I'll add that
+21:32 < Snow-Man> fantastic.
+21:32 < Snow-Man> Anything else wrt the certificate?
+21:32 < tridge> not from me
+21:33 < Snow-Man> Ok.
+21:33 < Snow-Man> With regard to debconf then..
+21:33 < Snow-Man> We've been going a bit back-and-forth trying to sort out what our expenses are that are directly releated to supporting debconf, which it seems, to me anyway, is a good thing to sort out when we're talking about reducing/eliminating fees, as discussed.
+21:34 < Snow-Man> I'm going to follow up on that specifically since my last comment on that ticket hasn't had a response yet.
+21:34 < Snow-Man> That's where we currently specifically stand on that- it's not been forgotten and we're working to get some idea what we're going to be taking on if we move forward with such a change in policy.
+21:35 < Snow-Man> luca, schultmc and myself were on the call, if anyone wants to ask questions or is looking for more context.
+21:35 < tpot> a brief summary would be nice if you can give it here
+21:35 < fsf> I'm sorry folks - I need to sign off. Please accept my regrets for any further proceedings
+21:35 < luca> Snow-Man: i can summarize if you want
+21:35 < Snow-Man> sure
+21:36 < Snow-Man> thanks luca
+21:36 < lamby> take care fsf
+21:36 < zumbi> bye fsf
+21:36 < Snow-Man> cya fsf
+21:36 < luca> Debian and SPI had an unwritten (no resolution) approach to funds from conference sponsors
+21:37 < luca> this approach changed a few years ago and assumptions about who would communicate waht to whom were made
+21:37 < luca> sufficie it to say that there was confusion
+21:37 < luca> so, action items
+21:37 < luca> #1 SPI board to proose a resolution regarding conference sponsorship (after analysis)
+21:38 < luca> *propose
+21:38 < luca> #2 SPI board to determine whether to revisit the change in approach from a few years ago to new resolution
+21:38 < luca> analysis is underway on both but, as Snow-Man says, a couple of questions remain
+21:39 < luca> done
+21:39 < Snow-Man> thanks
+21:39 < lamby> I'm a little lost here but can you add a bit more detail to "approach" here?
+21:40 < Snow-Man> the question is how much of a fee, if any at all, to charge for sponsorships for conferences
+21:40 < lamby> I see the high level picture from your outline and think it's good framework and set of action items, but it's pretty unclear even what the ""problem"" was. :)
+21:40 < lamby> Nod, getcha.
+21:40 < luca> and the resolution, when drafted, should be SPI-wide, not Debian-specific
+21:41 < Snow-Man> the issue is that, at one point, no fee was charged for such sponsorships and that later changed, apparently without an entirely clear agreement on the change (and no resolution stating the original agreement in the first place)
+21:41 < luca> right
+21:41 < Snow-Man> well, I'd argue that it'd be better if we had it be consistent, yes, but we aren't necessarily obligatged to do it that way
+21:41 < lamby> :)
+21:42 < luca> next you'll propose some kind of progressive scale
+21:42 < Snow-Man> We have some serious costs associated with doing business (which any NPO in NYC would, for example) and we need to consider how much of a burden any free work will be on us, and if it's something we can reasonably absord (and/or if we should)
+21:43 < Snow-Man> s/absord/absorb/
+21:43 < Snow-Man> hence why we're trying to get at least some ballpark idea of what the costs are
+21:44 < Snow-Man> and then maybe we can contemplate how to assess costs like that of the audit
+21:44 < lamby> nod
+21:44 < Snow-Man> and ultimately make an informed decision in a timely manner regarding the requested change
+21:44 < Snow-Man> done. :)
+21:44 < Snow-Man> (for my part at least)
+21:45 < lamby> Thanks for answering enduring my stupid questions. :)
+21:45 < Snow-Man> no worries at all
+21:45 < Snow-Man> would have been a bit easier if the whole board had been on the call, but, hey, things happen :)
+21:46 < lamby> Alas I had a prior...
+21:46 < Snow-Man> sure, no worries.
+21:46 < Snow-Man> schultmc: think we're ready to move on ... ?
+21:47 < schultmc> [item 9, Next board meeting]
+21:47 < schultmc> The next board meeting is scheduled for: June 8th, 2020 at 20:00 UTC
+21:47 < schultmc> Any objections?
+21:47 < zumbi> None
+21:47 < Snow-Man> works for me.
+21:47 < schultmc> works for me
+21:47 < schultmc> *GAVEL*
