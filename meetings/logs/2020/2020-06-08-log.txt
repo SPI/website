@@ -1,0 +1,330 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-06-08/
+21:01 < schultmc> [item 2, Roll Call]
+21:01 < schultmc> Directors, please state your name
+21:01 < Snow-Man> Stephen Frost
+21:01 < schultmc> Guests, please /msg your names to me if you wish your attendance to be
+21:01 < schultmc> recorded in the minutes of this meeting.
+21:01 < fsf> Forrest Fleming
+21:01 < schultmc> .
+21:01 < schultmc> tpot sent regrets. I'm not aware of any others.
+21:01 < lamby> Chris Lamb
+21:01 < schultmc> Michael Schultheiss
+21:01 < tridge> Andrew Tridgell
+21:02 < Snow-Man> I ping'd luca on signal..
+21:02 < luca> Luca Filipozz
+21:02 < Snow-Man> :)
+21:02 < luca> Luca Filipozzi, even
+21:02 < zumbi> Héctor Orón MArtínez
+21:02 < schultmc> we're quorate - others can join if available
+21:02 < Snow-Man> +1
+21:02 < schultmc> [item 3, President's Report]
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's current and potential contractors. Stephen
+21:02 < schultmc> continues to do a fantastic job working with our contractors and
+21:02 < schultmc> legal counsel. As I understand it, we are close to resolving the
+21:02 < schultmc> contract issues with our pending contractors.
+21:02 < schultmc> .
+21:02 < schultmc> I'll be reaching out to Stephen Frost and Timothy Potter this week
+21:03 < schultmc> to finalize the setup of our Merrill Lynch account.</done>
+21:03 < Snow-Man> I can provide a bit of additional comments on that
+21:03 < schultmc> +1
+21:03 < luca> to be clear, this includes contractors for projects, where they've asked
+21:03 < luca> and also for SPI itself... IT contractor
+21:04 < Snow-Man> We're working with our proposed IT contractor to get them on-board, with an expectation to have something signed this week (it's been reviewed by both sides and is at least notionally acceptable, though of course nothing is final without signatures :)
+21:04 < lamby> Do we have an ETA on the IT contractor at all? I think we have had two entirely (?) separate pings on this in the past week so it would be nice ... ahh nice
+21:04  -!- JamesPattison <~auturgy@2001:8003:1901:c00:29c3:854:497:1f46> has joined #spi
+21:04 < luca> thanks
+21:04 < lamby> Can I followup to the two tickets mentioning that this is very much in progress? Naturally with no promise, as you imply.
+21:05 < luca> if we mentioned it here, it can go in the ticket
+21:05 < Snow-Man> We're also working with counsel to customize our MSA to fit the needs of one of the projects who has approached us about hiring contractors and are actively working with counsel and the project.  Hopefully we'll have an agreement regarding the MSA changes this week and will be able to bring those contractors on soon after.
+21:05 < Snow-Man> Those are the updates I have regarding contractors.
+21:05 < schultmc> excellent news. Thank you again for spearheading this process
+21:05 < lamby> MSA = Master service agreement.
+21:06 < Snow-Man> yes. :)
+21:06 < lamby> Inclusive language, of all forms. ^_^
+21:06 < luca> mass storage array
+21:06 < schultmc> [item 4, Treasurer's Report]
+21:06 < schultmc> zobel isn't currently here.
+21:06 < schultmc> .
+21:06 < schultmc> Thank you to Héctor Orón Martínez (zumbi) for stepping up as Assistant Treasurer.
+21:06 < schultmc> zumbi has processed a large portion of the backlog.
+21:06 < schultmc> .
+21:06 < schultmc> I had a conference call with SPI's new business representative at Chase bank.
+21:06 < schultmc> She will be our point of contact for issues with the bank going forward. She'll
+21:06 < luca> thanks, zumbi
+21:06 < schultmc> reach out to various departments internally so we don't have to wait on hold
+21:06 < schultmc> for hours to reach those departments via the public phone tree.
+21:06 < schultmc> .
+21:06 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:06 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:06 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:06 < schultmc> help is always welcome.
+21:06 < schultmc> .
+21:07 < schultmc> Additionally, we are in the process of working on auditing SPI's 2019 books and completing our 2019 tax filings with the IRS and New York State.
+21:07 < Snow-Man> schultmc: can you articulate what's needed from a board member in the way of assisting with the backlog..?
+21:07 < lamby> ++zumbi
+21:07 < schultmc> Snow-Man: reviewing tickets and making sure they have the needed information for reimbursement is extremely helpful
+21:08 < Snow-Man> schultmc: isn't that something tbm's already doing..?
+21:08 < Snow-Man> or which we could have someone who isn't a board member do?
+21:09 < schultmc> tbm's been doing that but if someone else could assist or take over that task, tbm could focus on other items such ad gathering data for the audit
+21:09 < Snow-Man> If tbm's busy with other tasking then we should get the MSA to Sabrina (?) perhaps?
+21:09 < zobel> Martin Zobel-Helas
+21:09 < zobel> sorry for being late.
+21:09 < Snow-Man> zobel: no worries at all.
+21:09 < schultmc> no problem - welcome
+21:09 < lamby> hey zobel
+21:10 < schultmc> The auditing firm did suggest we have an audit committee. I recommend myself, zobel, and zumbi to start
+21:10 < zumbi> Welcome Martin!
+21:10 < Snow-Man> wfm
+21:10 < zobel> wfm
+21:10 < lamby> +1
+21:10 < zumbi> +1
+21:10 < Snow-Man> Another option would be to perhaps prioritize tbm's efforts differently, if it would mean we're then being more responsive to our projects.
+21:10 < luca> the audit committee is meant to provide oversight to treasury?
+21:11 < schultmc> luca: oversight of the audit process
+21:11 < Snow-Man> I'm guessing the audit committee would be the folks to get the audit report and would be responsible for actually looking at it, so, yes
+21:11 < zumbi> .. or, I understand, finding the runes and info for the auditor to do the job?
+21:13 < schultmc> tbm is doing that part
+21:13 < luca> in governance, the doers aren't also the watchers
+21:13 < Snow-Man> (hopefully)
+21:14 < schultmc> any other treasury tasks to cover?
+21:15 < zumbi> nothing from me
+21:15 < schultmc> [item 5, Secretary's report]
+21:15 < schultmc> tpot isn't here.
+21:15 < schultmc> [item 6, Outstanding minutes]
+21:15 < schultmc> The minutes for the 2020-05-11 require approval
+21:15 < schultmc> .
+21:15 < schultmc> They can be found at
+21:15 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-05-11/
+21:15 < schultmc> Please take a moment to go over the minutes.
+21:16 < Snow-Man> lgtm
+21:16 < lamby> .
+21:16 < schultmc> Voting started, 8 people (lamby,snow-man,fsf,tridge,zumbi,schultmc,luca,zobel) allowed to vote on Accept minutes for meeting Monday 13th April 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:17 < zumbi> there are some typos, not sure if it's wortht to fix
+21:17 < lamby> !yes
+21:17 < zobel> !vote abstain
+21:17 < schultmc> !vote yes
+21:17 < Snow-Man> !vote yes
+21:17 < luca> !vote yes
+21:17 < tridge> !vote yes
+21:17 < fsf> !vote yes
+21:17 < zumbi> !vote yes
+21:17 < zobel> lamby: fix your vote?
+21:17 < Snow-Man> lamby: (pls try again ;)
+21:17 < lamby> !vote yes
+21:17 < schultmc> I don't have the bot - syntax is optional ;)
+21:17 < schultmc> Voting closed.
+21:17 < Snow-Man> hah
+21:18 < schultmc> [item 7, Items up for discussion]
+21:18 < lamby> (Huh, I did not notice you were the bot until you mentioned.. kinda creepy..)
+21:18 < zobel> schultmc: we voted on the May meeting minutes, right? not on the april ones?
+21:18 < Snow-Man> well, considering he copied the wrong date and asked us to vote..
+21:18 < schultmc> yes, may meeting minutes
+21:18 < schultmc> see, totally not a bot
+21:18 < Snow-Man> haha
+21:18 < zobel> because your text said April
+21:19 < schultmc> I copied it from the april meeting log :)
+21:19 < schultmc> the URL was at least correct
+21:20 < schultmc> [Item 7.1 - DebConf and SPI 5%]
+21:21 < schultmc> I haven't had a chance to draft a formal resolution for this.
+21:21 < Snow-Man> schultmc: would you mind doing so now, while I explain things?
+21:21 < schultmc> sure
+21:21 < Snow-Man> ok
+21:21 < Snow-Man> As discussed a bit at the last board meeting, DebConf has approached us regarding the 5% fee we've charged on their sponsorships the past couple of years.
+21:22 < Snow-Man> Now, years prior to that, we hadn;t
+21:22 < Snow-Man> and there was some confusion about the change that happened with some folks being unaware of it and others knowing about it but not telling everyone else
+21:22 < Snow-Man> where those people were in terms of orgs and such doesn't much matter- it was muddled
+21:23 < Snow-Man> but there wasn't anything actually written down saying one way or the other
+21:23 < zobel> i had told pollo about that years ago.
+21:23 < Snow-Man> but for years there wasn't a charge, then there was for a couple years
+21:23 < Snow-Man> let's consider that all water under the bridge at this point for the most part
+21:23 < Snow-Man> they've asked us about waiving it moving forward
+21:23 < luca> zobel: that knowledge did not get absorbed into DebConf orga
+21:24 < Snow-Man> and there's possibly interest from other projects about maybe waiving similar charges for their sponsorship efforts where they do the work to raise the funds
+21:24 < luca> Snow-Man: they've also asked for the few years where it was charged to be refunded
+21:24 < Snow-Man> yes
+21:24 < Snow-Man> I've tried to look into what our actual costs are
+21:24 < zobel> Snow-Man: i disagree on that. then we need to waive that for all conferences sponsorships. and given the overhead we have with expenses AND tbm doing the accounting, i would strongly vote against doing so.
+21:24 < Snow-Man> but haven't gotten great answers as yet, which is unfortunate, but it's relatively new that we've been having outside contractors help us with these things
+21:25 < Snow-Man> and it's always challenging to figure out what our volunteer time costs
+21:25 < Snow-Man> zobel: hang a second, please.
+21:25 < zobel> sure
+21:25 < luca> $0, by definition :)
+21:25 < Snow-Man> luca: *smirk
+21:25 < lamby> I was not aware until now that there was a request for previous years to be refunded.
+21:25 < fsf> It seems to me that waiving charges (or not) could easily lead to accusations of 'playing favorites' with projects. If we do decide to wave some charges, I think it would be good to be very clear about under what conditions we do so
+21:26 < Snow-Man> fsf: indeed
+21:26 < Snow-Man> which leads to my proposal
+21:26 < Snow-Man> (which folks are welcome to shoot down, but give me a moment to write it out)
+21:27 < Snow-Man> At the moment we don't have a good answer regarding what our costs are, and currently DebConf has approached us with this request, and it was confused, clearly when things changed and that's seeming, at least to the current debconf folks, to be a bit of a bait-and-switch, regardless of what happened
+21:28 * zobel waites
+21:29 < Snow-Man> So, I'm proposing that we address the issues raised by debconf by: 1) refunding what they've asked, on the good faith that there was some kind of miscommunication that the fee was going to start being charged, 2) agreeing to waive the fee for a virtual debconf, should that happen (as our costs would be rather low anyway), and the next in-person debconf (assuming that happens..), with the
+21:29 < Snow-Man> understanding that we will more carefully track our expenses related to the conference and discuss if we will waive the fee for future events, or address those costs in some other fashion, once we have a better sense of what those costs actually are.
+21:30 < Snow-Man> (sorry, wall of text and such takes a moment to type out)
+21:31 < lamby> Not that it affects the principle at all, but do we have an approximate amount of what this refund would be?
+21:31 < Snow-Man> we do have that number
+21:31 < Snow-Man> one sec
+21:31 < luca> while he's looking...
+21:32 < luca> the justification for the refund is that DCorga made statements to donors regarding 'no administrative fees'
+21:32 < zobel> i would not recommend doing so. we will have a lot of paper work todo, in case sponsors are going do want a refund for DebConf 2020, because they eg. have no booth...
+21:32 < luca> and they would like to not be in a position to have misled spnsors
+21:32 < luca> s/donors/sponsors/
+21:32 < zobel> luca: tbh: their problem.
+21:33 < zobel> tbh i would even consider doing the same as SFC, taken even higher percentage on conference sponsorship, given the amount of time this takes the contractor for all the work.
+21:33 < luca> zobel: that's a different question, i think; specifically, we need better written agreements i suspect
+21:33 < luca> zobel: maybe
+21:33 < luca> zobel: i'm just articulating their concern
+21:34 < zumbi> an estimate for SPI costs would be nice to have, before adding or substracting, even waiving fees
+21:34 < Snow-Man> We don't actually have a good estimate of those costs to have any idea if the 5% is too much, not enough, whatever.
+21:35 < Snow-Man> yea, what zumbi said :)
+21:35 < Snow-Man> but we also need to be responsive
+21:35 < luca> Snow-Man: hence your "let's gather data" approach?
+21:35 < Snow-Man> which we haven't been
+21:35 < Snow-Man> luca: yes
+21:35 < zobel> given that a lot of the time of the treasurer sprint of the SPI f2f in the past years what tracking down DebConf stuff, we should calculate that into the costs.
+21:35 < luca> i would prefer consistency to be addressed
+21:35 < Snow-Man> and I'm not finding how much it was currently, tho I don't recall it being a terribly large amount
+21:36 < luca> if we're going to gather data in the debconf case, then we should do so for other conference sponsorships for other projects
+21:36 < luca> and we should ensure that differentiate between donation and sponsorship
+21:36 < zumbi> I think we are talking in the order of 20k
+21:36 < zobel> per year, yes.
+21:36 < luca> then have on sponsorship fee for a year; then decide after that
+21:36 < zobel> maybe even more.
+21:36 < Snow-Man> ah-hah
+21:36 < luca> meaning, no favourites
+21:37 < luca> it also means introducing time cards :)
+21:38 < zobel> please don't
+21:38 < Snow-Man> zumbi: yea, I think it was like 23k
+21:38 < Snow-Man> if I'm reading this note correctly.
+21:38  -!- jg <~jg@2601:18f:900:c8::bd0> has quit (Ping timeout: 480 seconds)
+21:38 < Snow-Man> zobel: that was for 4 years... not per year
+21:39 < zobel> Snow-Man: how much of that is hotel costs for 1 day per f2f?
+21:39 < zobel> per year?
+21:39 < Snow-Man> luca: I agree entirely that we should gather data for all cases, but I do think we can accept that we didn't have this kind of confusion in the other cases.
+21:39 < Snow-Man> zobel: I don't know and I'm don't see how it's relevant.
+21:39 < zumbi> zobel: we are talking the fee DC is asking to waive, around 23k for the past 4y
+21:39 < luca> Snow-Man: agreed; the confusion (and the previous benefit) only applied to DebConf IIRC
+21:40 < zobel> it is. a lot of the time of the treasurer sprint in the past years was tracking down DC stuff.
+21:40 < zumbi> Snow-Man: I think zobel is thinking on the SPI costs
+21:40 < Snow-Man> I don't think there's really a doubt that SPI has had a variety of costs for a variety of things
+21:41 < schultmc> resolution has been posted for board review - I'll add it to the agenda shortly
+21:41 < Snow-Man> ultimately, I'm trying to work through to a reasonable answer for both sides
+21:41 < Snow-Man> it's up to the board to decide tho
+21:41 < Snow-Man> for my part, at least, I'd rather we not drag it out tho
+21:42 < Snow-Man> schultmc: thanks
+21:42 < zobel> Snow-Man: can you point me to the mail where DebConf asked for that refund? i do not find it
+21:42 < Snow-Man> zobel: there was a call which everyone on the board was invited to
+21:43 < Snow-Man> luca, schultmc and I were on it, along with a couple of DC folks
+21:43 < zobel> but no minutes?
+21:43 < luca> zobel: after that call, i made two ticketsin Board queue: one for the refund and one for the go-forward policy
+21:43 < Snow-Man> it was discussed quite a bit during the last call, plus a couple of tickets were created by luca..
+21:43 < Snow-Man> s/call/board meeting/
+21:44 < Snow-Man> schultmc: kinda like the way you handled my unclear-ness on the resolution contents. :)
+21:45 < zumbi> was the resolution text posted somewhere else besides this IRC channel?
+21:46 < luca> either way, we need to respond to the two requests
+21:46 < zobel> at least it is not in todays agenda
+21:46 < luca> schultmc: two resolutions or one?
+21:46 < luca> schultmc: i suggest one for the go-forward policy, obv; do we need one for the refund question, too?
+21:47 < zumbi> ah! there you go, it shows in the agenda now
+21:47 < luca> i think schultmc just made the resolution in the last 3 minutes
+21:47 < Snow-Man> yes :)
+21:47 < schultmc> I need to edit it - please hold :)
+21:47 < lamby> :)
+21:50 < luca> i'll take board resolutions for $200, alex
+21:51 < zobel> i would like to suggest to not vote on that resolution during todays meetings
+21:52 < zumbi> may I ask why do you suggest so?
+21:52 < Snow-Man> for my 2c, I feel like pushing it off isn't going to particularly improve things
+21:52 < Snow-Man> and it'd mean that we didn't get it done when we had agreed to do so.
+21:52 < zobel> for the reason this resolution was not on spi-discuss@ and not officialy on todays invite for todays board meeting.
+21:52 < Snow-Man> I disagree with those being particularly good reasons.
+21:52 < Snow-Man> Isn't the first time we've drafted and done a resolution in the same meeting.
+21:52 < Snow-Man> We have quorum
+21:52 < zumbi> It was discussed on the previous board meeting as well
+21:52 < Snow-Man> indeed.
+21:53 < zobel> having resolutions not on spi-disucss is a VERY bad idea IHO.
+21:53 < zobel> IMHO
+21:53 < Snow-Man> considering what it's about, it doesn't strike me as terribly likely to draw much fire.
+21:53 < Snow-Man> it's up to the board tho
+21:54 < luca> it's more appropriate to post in advance
+21:54 < fsf> would it make sense to hold an out-of-cadence meeting in a week or two so that we can vote on it?
+21:54 < fsf> that way we could publicize to spi-discuss without having to slow things down by a month
+21:54 < lamby> wfm
+21:54 < zobel> this resolution will get us into the position that also other projects will ask for that.
+21:54 < luca> i mean, we're on a roll so let's get the looked at now
+21:54 < luca> 6 more minutes
+21:54 < Snow-Man> other projects didn't have a case where the fee was waived, ever, and didn't argue about it
+21:55 < Snow-Man> the resolution also says that we will waive for all 2020 confs, so they're getting a discount already.
+21:55 < fsf> yeah, i'm not too worried about slippery slope here
+21:55 < Snow-Man> informal vote on if we should vote?
+21:55 < tridge> pt 1 is a bit vague, I'm guessing it is meant to be only for sponsorship money transferred into SPI bank account?
+21:55 < schultmc> yes
+21:55 < zobel> luca: and in 6 minutes we will receive a review on spi-discuss?
+21:56 < luca> zobel: you are misunderstanding me
+21:56 < luca> if they were posted on -discuss and we wanted to provide immediate feedback here, we have a few minutes left
+21:56 < zobel> Snow-Man: other projects had. we started 2017 to charge 5%. conferences before that also had it waived.
+21:56 < luca> i already said the vote should not happen to day (by saying it's approprate to post in advance)
+21:57 < zobel> luca: sorry, yes, then i miss-understood you.
+21:57 < Snow-Man> zobel: evidently they didn't have the same confusion
+21:57 < luca> zobel: you are bring forth some knowledge not previously shared: that pollo knew and that other conferences were not charged either
+21:58 < zumbi> who is pollo?
+21:58 < Snow-Man> zobel: will you take this on then and explain to the DC folks that they were informed, and knew about it?
+21:58 < Snow-Man> and then figure out what to do wrt past and going forward?
+21:58 < tridge> how many $ are we talking for pt 2?
+21:58 < Snow-Man> tridge: 23k
+21:58 < Snow-Man> is
+21:58 < Snow-Man> ish
+21:58 < luca> fish
+21:58 < tridge> for 2016 to 2019?
+21:58 < schultmc> yes
+21:58 < zobel> zumbi: Louis-Philippe Véronneau
+21:58 < Snow-Man> I'm happy to get stop being involved, heh.
+21:58 < tridge> 23k is the 5% or 23k is the total?
+21:59 < schultmc> ~23k is the 5% that was charged over 2016-2019
+21:59 < luca> zumbi: debconf local orga montreal 2017
+21:59 < luca> zumbi: debconf global orga too iirc
+21:59 < luca> zumbi: certainly debconf video team
+22:00 < zumbi> ah! right - thanks
+22:00 < schultmc> I'll send out the proposed resolution to -general after the meeting.
+22:01 < schultmc> [item 8, Any other business]
+22:01 < schultmc> Anything to discuss?
+22:01 < luca> fosshost
+22:02 < luca> we should evaluate whether we want to use them
+22:02 < Snow-Man> let's get our IT contractor on board first
+22:02 < luca> put it under the IT bucket
+22:02 < luca> that's all i had to say
+22:02 < Snow-Man> sure, I agree we should evaluate them
+22:03 < schultmc> [item 9, Next board meeting]
+22:03 < schultmc> A special meeting for the purpose of voting on resolution 2020-06-08.mcs.1
+22:03 < schultmc> is scheduled for: June 22, 2020 at 20:00 UTC.
+22:03 < schultmc> Any objections?
+22:03 < fsf> No objections from me
+22:03 < luca> might be challenging; vet appointment
+22:04 < lamby> wfm
+22:04 < Snow-Man> looks alright for me
+22:04 < luca> don't move on my account
+22:04 < lamby> Ah, one small thing - not sure what the latest is with the Matanel contract. I will assume that nobody has heard anything and that the next action is on DebConf's part as I wrote last to board
+22:04  -!- lamby <~lamby@cpc91204-cmbg18-2-0-cust10.5-4.cable.virginm.net> has quit (Quit: Leaving)
+22:04 < schultmc> The next board meeting (2020 SPI Annual General Meeting (AGM)) is scheduled for:
+22:04 < schultmc> July 13, 2020 at 20:00 UTC
+22:04 < schultmc> Any objections?
+22:04  -!- lamby <~lamby@cpc91204-cmbg18-2-0-cust10.5-4.cable.virginm.net> has joined #spi
+22:04 < schultmc> lamby:
+22:04 < schultmc> The next board meeting (2020 SPI Annual General Meeting (AGM)) is scheduled for:
+22:04 < schultmc> July 13, 2020 at 20:00 UTC
+22:04 < schultmc> Any objections?
+22:04 < Snow-Man> wf
+22:04 < Snow-Man> m
+22:05 < lamby> ^ wfm
+22:05 < schultmc> I'll be travelling 2020-07-06 and 2020-07-13
+22:05 < schultmc> you can meet without me or we can reschedule
+22:05 < zobel> both should work for me.
+22:07 < schultmc> Snow-Man: can you chair 2020-07-13 or would you prefer to reschedule?
+22:07 < Snow-Man> schultmc: I can chair it
+22:07 < luca> "travel" seems so strange
+22:08 < schultmc> thank you
+22:08 < Snow-Man> luca: agreed. :)
+22:08 < schultmc> *GAVEL*
