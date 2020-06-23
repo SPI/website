@@ -1,0 +1,130 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-06-22/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < luca> Luca Filipozzi
+21:00 < zobel> Martin Zobel-Helas
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < Snow-Man> Stephen Frost
+21:00 < schultmc> Michael Schultheiss
+21:00 < fsf> Forrest Fleming
+21:00 < tpot> Tim Potter
+21:00 < zumbi> Héctor Orón Martínez
+21:00 < luca> quorum!
+21:01 < zobel> who is missing? lamby and tridge_?
+21:01 < lamby> I am here.
+21:01 < lamby> Chris Lamb
+21:01 < tridge_> Andrew TTridgell
+21:01 < schultmc> excellent
+21:01 < luca> perfect attendance
+21:01 < schultmc> [item 3, Items up for discussion]
+21:01 < schultmc> [item 3.1, Resolution 2020-06-22.mcs.1: Conferences and SPI 5% fee]
+21:02 < schultmc> The original resolution and modified resolution have both been posted to spi-general
+21:02 < schultmc> is there any further discussion?
+21:03 < schultmc> I do know luca has time constraints today
+21:03 < Snow-Man> I had hoped we'd actually have that call with the DPL...
+21:03 < luca> we are voting on the resolution as per the agenda, right?
+21:03 < Snow-Man> but that didn't seem to happen, or did I somehow miss it?
+21:03 < highvoltage> Snow-Man: I'm sorry for not making that happen, ran out of time
+21:03 < Snow-Man> highvoltage: ah, ok
+21:03 < Snow-Man> highvoltage: any chance you could opine on the proposed resolution?
+21:04 < luca> (my time constraint includes putting the cat in the carrier, which has significant probably of failure on first attempt)
+21:04 < lamby> luca: *grin*
+21:05 < highvoltage> Snow-Man: I don't want to impose my opinion but if the board wouldn't mind hearing it, I could share it, yes
+21:05 < Snow-Man> not sure about the rest of the board, but I'd like to hear it.
+21:05 < schultmc> I'd also like to hear your opinion
+21:05 < highvoltage> OK,
+21:05 < Snow-Man> I can't say that it'll swing my vote (or necessarily that whatever I vote for would swing things one way or the other)
+21:06 < Snow-Man> but would definitely like to hear it
+21:06 < highvoltage> So, regarding the 5%, some mistakes were made. As a micro summary, the DebConf team was under the impression that it was waved, and due to the reporting methods used, it was easy for some to miss that it was added
+21:07 < highvoltage> and as a result, some DebConf people specifically routed donations through SPI rather than other orgs because they thought it would be more beneficial for Debian (sometimes going through some very inconvenient hoops to do so)
+21:07 < luca> (others would say that verbal communication of the decision was made... but that it didn't register nor propagate)
+21:08 < highvoltage> it was yes! I talked to the person who made the verbal communication at DC16
+21:08 < luca> (how Debian/DebConf choose to route funds is up to you; and, as you point out, the hoops/time are your cost)
+21:08 < highvoltage> unfortunately, it was to the complete wrong people
+21:08 < highvoltage> even though they were DebConf people, they weren't in any way responsible or worked with money, and one person involved in that discussion was a previous DPL who was also not involved anymore otherwise
+21:09 < highvoltage> so yes, mistakes were made in communication, something we can all work on improving
+21:09 < highvoltage> so that's a microsummary of what happened :)
+21:09 < highvoltage> now to my opinion...
+21:09 < highvoltage> I don't actually care for the money and quite frankly we don't need it. I don't think SPI needs it either. I care more about our relationship with SPI and improving things going forward
+21:10 < highvoltage> there are a lot of good ideas floating around and I think it's much more beneficial to both the Debian project and to SPI to focus on those instead
+21:11 < Snow-Man> for my 2c, I had hopes that we would be able to find a solution that would avoid hurt on both sides as much as possible
+21:11 < highvoltage> (for example, and sorry for my verbosity! there's this idea to keep line item level accounting across TO's, and then also to use a common set of categories so that debian could easily generate global reports based on all the reports, how cool would that not be?)
+21:11 < Snow-Man> my inclination at this point is to, more-or-less, bury it all behind us as 'mistakes were made, let us all try to forgive each other for mistakes in the past and move forward with clear understanding'
+21:12 < highvoltage> for DebConf also specifically, the admins on the sponsors team feel that they do a lot of work negotiating with the sponsors, setting up contracts, doing due diligence, etc
+21:13 < highvoltage> and feel that they do the bulk of the work and that it's a bit percentage for the SPI to get for some of those incoming amounts compared to the work it takes
+21:13 < luca> (the idea that Debian/DebConf would use one TO for income processing and another for expense processing because the former has no fee on income and the latter has no processing fee on transations is not great
+21:13 < luca> (it could drive all the TOs to rationalize on fee structure, perhaps)
+21:13 < luca> (cat is going into the carrier)
+21:14 < highvoltage> I'm just the messanger on that line, and I realise it takes a lot of effort (and money) for the SPI to do what it does properly, so I think SPI should ensure that it 'charges' enough to maintain the best standard that they can
+21:14 < highvoltage> (I'm also wondering if it's perhaps possible to put a cap on incoming charges somehow, that could apply to all projects)
+21:14 < Snow-Man> highvoltage: that seems like an independent concern and a misunderstanding regarding SPI, specifically that there's some idea that SPI doesn't have its own fair bit of work that it does to maintain itself as an approproate non-profit entity and manage things like busary and reimbursements and such..
+21:14 < highvoltage> anyway, I think I've explained my (and our) position the best I can in a few lines, feel free to ask some questions :)
+21:15 < luca> (i've lost some flesh but i'll survive)
+21:15 < fsf> (cat scratch fever)
+21:15 < Snow-Man> hah
+21:15 < Snow-Man> highvoltage: thank you
+21:15 < highvoltage> (I'm assuming luca is talking about some literal cat and not in metaphores :) )
+21:15 < Snow-Man> haha, yes
+21:16 < luca> there is a literal cat and a vet appointment for which i must depart imminently
+21:16 < schultmc> Any further discussion?
+21:16 < Snow-Man> luca: wrt the concern about debian using different TOs for different things, that'd be kinda tricky to do, I would think, over the long haul, but even if it did become something they did, we'd certainly be able to reconsider our existing mechanisms
+21:17 < fsf> I think I have a clear understanding; thank you for the explanation highvoltage
+21:17 < Snow-Man> tho I have to say I'm not terribly worried about it given where we are today
+21:17 < highvoltage> fwiw, other TO's are also thinking of ways to do (and streamline) bursary payments from them
+21:17 < Snow-Man> yah, we are too, naturally.
+21:18 < luca> schultmc: bring it
+21:18 < schultmc> tpot: can you run the vote or should I collect votes manually?
+21:18 < highvoltage> sorry for mudding the topic a bit, but on a sidenote we should probably do a combined meeting on that topic
+21:18 < tpot> Let's vote!
+21:19 < tpot> Voting started, 9 people (lamby,snow-man,fsf,tpot,tridge,zumbi,schultmc,luca,zobel) allowed to vote on Vote on Resolution 2020-06-22.mcs.1 - Conferences and SPI 5% fee. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:19 < zobel> highvoltage: with all TOs? yes. that sounds like a good idea
+21:19 < luca> !vote yes
+21:19 < luca> (and, with that, i depart)
+21:19 < tpot> !vote yes
+21:19 < lamby> !vote abstain
+21:19 < schultmc> !vote yes
+21:19 < tridge_> !vote yes
+21:19 < zumbi> !vote abstain
+21:19 < Snow-Man> !vote yes
+21:19 < lamby> As I approved two DebConf budgets in a previous life I am abstaining from this vote. (I will add that this "waiver" was completely new to me ~2 months ago)
+21:19 < fsf> !vote yes
+21:20 < tpot> Current voting results for "Vote on Resolution 2020-06-22.mcs.1 - Conferences and SPI 5% fee": Yes: 5, No: 0, Abstain: 2, Missing: 2 ( zobel  tridge )
+21:20 < zobel> !vote yes
+21:20 < zumbi> Since I am part of all the teams involved, due to conflict of interests, I abstain
+21:20 < tpot> Current voting results for "Vote on Resolution 2020-06-22.mcs.1 - Conferences and SPI 5% fee": Yes: 6, No: 0, Abstain: 2, Missing: 1 ( tridge )
+21:20 < Snow-Man> (I'm voting yes now- but I remain open to the discussion of perhaps having SPI modify our fees regarding conferences and sponsorships in the future to encourage them to be done)
+21:20 < tpot> Voting for "Vote on Resolution 2020-06-22.mcs.1 - Conferences and SPI 5% fee" closed.
+21:20 < tpot> Script didn't count tridge_ vote but will update in the minutes.
+21:20 < tridge_> darn, didn't get nick right
+21:20 < zobel> tpot: why did you vote script did not count tridge_?! :)
+21:20  -!- tridge_ is now known as tridge
+21:21 < tpot> Thanks everyone.
+21:21 < schultmc> [item 4, Any other business]
+21:21 < schultmc> Anything else to discuss?
+21:21 < Snow-Man> happy to report that we now have 3 contractors
+21:21 < Snow-Man> any questions, feel free to ask me
+21:21 < Snow-Man> but we've now got 2 contractors for one of our projects, and a contractor working actively on improving SPI's IT situation
+21:22 < zobel> Snow-Man: no question, but a soon reasonable https for spi-inc.org  would be great.
+21:22 < lamby> 👍
+21:22 < Snow-Man> yes, I've highlighted that
+21:22 < schultmc> thank you again for your tireless work on our contractor infrastructure
+21:22 < Snow-Man> we now also have templates for Austrailia, UK, France and the US
+21:23 < Snow-Man> (3 *new* contractros, I should say- 4 total, plus various counsel we've retained)
+21:23 < tridge> it's really great to have the contractors setup for ArduPilot, thanks
+21:23 < Snow-Man> anyhow, just wanted to update on that
+21:23 < tpot> yup - fantastic work Snow-Man!
+21:23 < Snow-Man> tridge: glad we were able to get that done.
+21:23 < lamby> ^ as I understand it, HTTPS is also an issue regarding accepting donations, not just ensuring we have "secure meeting minutes".
+21:24 < Snow-Man> yup, understood
+21:24 < zumbi> and rt access via CLI
+21:24 < lamby> (Comment for the lurkers, not as a reminder.)
+21:24 < Snow-Man> schultmc: I didn't have anything else.
+21:24 < schultmc> [item 5, Next board meeting]
+21:24 < schultmc> The next board meeting (2020 SPI Annual General Meeting (AGM)) is scheduled for:
+21:24 < schultmc> July 13, 2020 at 20:00 UTC
+21:24 < schultmc> *GAVEL*
