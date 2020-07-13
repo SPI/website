@@ -1,0 +1,160 @@
+20:00 < Snow-Man> *GAVEL*
+20:01 < Snow-Man> [item 1, Opening]
+20:01 < Snow-Man> Welcome to today's Software in the Public Interest Board Meeting, which
+20:01 < Snow-Man> is now called to order. Today's agenda can be found on the web at:
+20:01 < Snow-Man> https://spi-inc.org/meetings/agendas/2020/2020-07-13/
+20:01 < Snow-Man> This is the SPI Annual General Meeting (AGM).
+20:01 < Snow-Man> [item 2, Roll Call]
+20:01 < Snow-Man> Directors, please state your name
+20:01 < lamby> Chris Lamb
+20:01 < Snow-Man> We have regrets from Michael Schultheiss.
+20:01 < Snow-Man> Stephen Frost
+20:01 < tpot> Tim Potter
+20:01 < zumbi> Héctor Orón Martínez
+20:01 < tridge> Andrew Tridgell
+20:02 < fsf> Forrest Fleming
+20:02 < Snow-Man> [item 3, President's report]
+20:02 < Snow-Man> Michael's not here, unfortunately.
+20:03 < Snow-Man> I can provide an update for my part, at least.
+20:04 < Snow-Man> We continue to work with our new contractors to improve SPI's infrastructure and to run as smoothly as possible.
+20:04 < luca> Luca Filipozzi
+20:04 < Snow-Man> (welcome Luca :)
+20:04 < lamby> Hey luca
+20:05 < tpot> Registered guests for the meeting please message me to be included on the minutes.
+20:05 < Snow-Man> Our IT contractor continues to work on putting together our new environment, with a goal to initially move over the more user-facing bits first (website, et al) to specifically address the TLS/SSL concerns that have been raised.
+20:05 < zobel> Martin Zobel-Helas (sorry for being late)
+20:05 < Snow-Man> (welcome Martin Zobel-Helas)
+20:06 < Snow-Man> [item 4, Treasurer's report]
+20:07 < zobel> tbm thankfully is working with the Auditor, and as far as i can see finished the report as of today.
+20:07 < Snow-Man> Yes, that looks pretty good, we need to get it actually signed off, which is awaiting one final check the auditor wants to do, but we're working on that and expect to have it done soon (very likely this week).
+20:08 < Snow-Man> anything else?
+20:08 < zobel> i am a bit behind with the reimbursements currently due to personaly stuff, but should be able to work on this during the next weekend.
+20:08 < Snow-Man> ok
+20:09 < Snow-Man> [item 5, Secretary's report]
+20:09 < tpot> Thanks to tbm for his timely effort on the annual report and audit report. It's great to have both of these done (pending final check on audit) by the AGM.
+20:09 < tpot> We have two nominations so far for the two open board seats.
+20:10 < tpot> I will post an update at the end of the week. If no more nominations are received then we can go forward without an election.
+20:10 < tpot> .
+20:10 < Snow-Man> great, thanks.
+20:10 < Snow-Man> [item 6, Outstanding minutes]
+20:10 < Snow-Man> The minutes for 2020-06-08 require approval.
+20:10 < Snow-Man> tpot: can you run the vote for those minutes?
+20:10 < tpot> yup
+20:10 < tpot> Minutes are at https://spi-inc.org/meetings/minutes/2020/2020-06-08/
+20:10 < luca> (didn't we have a comment when we last acclaimed that people should still vote yes/no on each candidate?)
+20:10 < tpot> Please take a few moments to look over them.
+20:11 < tpot> (luca: will look in to that)
+20:11 < fsf> What about the minutes from https://spi-inc.org/meetings/minutes/2020/2020-06-22/ ?
+20:11 < tpot> coming up dude
+20:11 < Snow-Man> those will be next...  one vote at a time :)
+20:11 < tpot> Voting started, 8 people (lamby,tpot,zumbi,tridge,snow-man,fsf,luca,zobel) allowed to vote on Accept minutes for meeting Monday 8th June 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:11 < fsf> Ah, got it. Thanks!
+20:11 < zumbi> !vote yes
+20:11 < Snow-Man> !vote yes
+20:11 < lamby> !vote yes
+20:11 < tridge> !vote yes
+20:11 < zobel> !vote yes
+20:11 < luca> !vote yes
+20:12 < tpot> !vote yes
+20:12 < fsf> !vote yes
+20:12 < tpot> Current voting results for "Accept minutes for meeting Monday 8th June 2020": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:12 < tpot> Current voting results for "Accept minutes for meeting Monday 8th June 2020": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:12 < tpot> Voting for "Accept minutes for meeting Monday 8th June 2020" closed.
+20:12 < tpot> thanks everyone
+20:12 < Snow-Man> great, thanks all.
+20:12 < Snow-Man> The minutes for 2020-06-22 require approval.
+20:12 < Snow-Man> tpot: can you handle the vote?
+20:12 < tpot> yup
+20:12 < tpot> Minutes are at https://spi-inc.org/meetings/minutes/2020/2020-06-22/
+20:13 < tpot> Please take few moments to look over them.
+20:14 < tpot> Voting started, 8 people (lamby,tpot,zumbi,tridge,snow-man,fsf,luca,zobel) allowed to vote on Accept minutes for meeting Monday 22nd June 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:14 < Snow-Man> !vote yes
+20:14 < tpot> !vote yes
+20:14 < zumbi> !vote abstain
+20:14 < tridge> !vote yes
+20:14 < zobel> !vote yes
+20:14 < fsf> !vote yes
+20:14 < luca> !vote yes
+20:14 < lamby> !vote yes
+20:14 < tpot> Current voting results for "Accept minutes for meeting Monday 22nd June 2020": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:15 < tpot> Current voting results for "Accept minutes for meeting Monday 22nd June 2020": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:15 < tpot> Voting for "Accept minutes for meeting Monday 22nd June 2020" closed.
+20:15 < tpot> thanks everyone!
+20:15 < Snow-Man> [item 7, Items up for discussion]
+20:15 < Snow-Man> ... nothing listed on the agenda
+20:15 < Snow-Man> so, I think we can move to
+20:15 < Snow-Man> [item 8, Any other business]
+20:15 < tpot> Just would like to mention that the annual report is available: https://spi-inc.org/corporate/annual-reports/2019.pdf
+20:16 < tpot> It's great to have it available at the AGM. Much thanks to tbm!
+20:16 < lamby> +1
+20:16 < tpot> In previous years it has been lateish/late/very late.
+20:16 < zobel> i would like to give public feedback to all of our contractors for their very good work!
+20:17 < Snow-Man> yes, they've been doing a lot of great work
+20:17 < Snow-Man> tpot: thanks for linking that
+20:17 < Snow-Man> anyone have anything else..?
+20:17 < lamby> And volunteers. And board members. :)
+20:18 < Snow-Man> [item 9, Next board meeting]
+20:18 < Snow-Man> Next board meeting is proposed for 2020-08-10, 20:00 UTC
+20:19 -!- tpot changed the topic of #spi to: Next SPI board meeting is on August 10th, 2020, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2020/2020-08-10/
+20:19 < Snow-Man> Any objections?
+20:19 < lamby> wfm :)
+20:19 < zobel> Snow-Man: AGM. so we might want to listen to public statements from anyone here in the channel.
+20:19 < zobel> so give them a bit of time?
+20:19 < zumbi> No objections from my side.
+20:20 < Snow-Man> zobel: oh, sure..  I had imagined that being part of any other business
+20:20 < zobel> will NOT work for me. Father in laws 80th b-day. sorry for missing that one.
+20:20 < Snow-Man> zobel: ah, ok, please send regret to board@
+20:20 < zobel> will do
+20:21 < Snow-Man> If anyone from the collected public would like to make any public statements and/or ask the board any questions, please feel free to do so.
+20:21 < tpot> Non-public comments can be sent to secretary@ also
+20:21 < Snow-Man> As always, we are also available through board@ or on the mailing lists.
+20:22 < luca> can i get a read on annointing board members?
+20:22 < jesusalva> I would like to thanks for adding the report link in the AGM
+20:22 < luca> do we offer membership yes|no vote still, even if 2 nominees for 2 seats
+20:23 < Snow-Man> luca: for my 2c, if there isn't a reason for a vote then it doesn't make sense to have one, considering our vote process wouldn't end up with a different answer..?
+20:23 < Snow-Man> s/wouldn't/couldn't/ ...
+20:23 < luca> it would / could
+20:23 < luca> it would say, "we don't want Luca'
+20:23 < luca> which would trigger a re-run
+20:24 < Snow-Man> hmm.
+20:25 < Snow-Man> I wasn't sure that was the case after the last round of changes to the vote system, but perhaps it is..
+20:25 < Snow-Man> certainly the last vote included:
+20:25 < Snow-Man> In the event that the number of candidates does not exceed the number of seats available, all candidates shall become board members immediately upon termination of the nomination period
+20:28 -!- gio_ [~gio@2a02:578:85b0:500:216:cbff:feb0:c87f] has quit [Ping timeout: 480 seconds]
+20:29 < tpot> Any more discussion on this?
+20:29 < Snow-Man> hmmm, one sec..
+20:30 < Snow-Man> hrmpf.  I was trying to figure out if the last vote actually included a "none-of-the-above" option
+20:31 < luca> i'm sure it did not
+20:31 < Snow-Man> yeah, I didn't think so
+20:31 < Snow-Man> so, this would be a pretty mark'd change
+20:31 < Snow-Man> luca: just trying to make sure that I'm understanding correctly- you're suggesting we should add such an option?
+20:32 < luca> i'm suggesting that with either this election (or next if we want it to be a resolution), we always allow membership to vote
+20:33 < luca> so, when N <= M, then it becomes a yes|no vote on each one
+20:33 < luca> where N > M, then normal vote
+20:33 < luca> i think it needs more discussion; it was brought up once
+20:33 < luca> not acted upon
+20:33 < luca> i'm saying we need to discuss and resolve one way or another
+20:33 < luca> None of the Above isn't quite what i meant
+20:35 < Snow-Man> I have to say that it seems a bit late in this cycle, anyway, to be changing the plan.
+20:35 < Snow-Man> and I'm not really sure how your proposed approach would work specifically either...
+20:36 < Snow-Man> particularly since the normal voting method is STV and ranked voting
+20:36 < Snow-Man> and.. would those people get to run again then?
+20:36 < Snow-Man> (were someone voted 'no', that is)
+20:36 < Snow-Man> and if we don't have enough people..?
+20:36 < Snow-Man> tpot: just a point of clarification- when does the nomination period formally end?
+20:38 < luca> sure, they get to run again
+20:38 < luca> i mean, each election stands alone
+20:38 < luca> so, yeah, "none of the below" then :)
+20:39 < Snow-Man> luca: it's an interesting thought.
+20:40 < Snow-Man> iirc, the nomination period is open until the end of the week
+20:40 < Snow-Man> it's possible this won't ultimately end up being an issue :)
+20:41 < Snow-Man> anyone else have comments/thoughts?
+20:41 < tpot> i said until 19th of july
+20:41 < lamby> (No comment here.)
+20:42 < Snow-Man> tpot: ok, right, thanks for clarifying.
+20:42 < Snow-Man> so- to everyone gathered, if you have interest in serving on the board of SPI, please submit your nomination
+20:42 < Snow-Man> if nothing else, you'll at least then get an opportunity to vote!
+20:43 < Snow-Man> any other comments?  Otherwise it seems appropriate to close this out.
+20:43 < Snow-Man> next board meeting is scheduled for 2020-08-10, 20:00 UTC
+20:44 < lamby> Thanks. Hope all of you are doing well.
+20:44 < Snow-Man> *GAVEL*
