@@ -1,0 +1,124 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-09-14/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < zumbi> Héctor Orón Martínez
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < lamby> Chris Lamb
+21:00 < Snow-Man> Stephen Frost
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < schultmc> .
+21:00 < jconway> Joe Conway
+21:00 < schultmc> Michael Schultheiss
+21:00 < schultmc> fsf: state your name, please
+21:01 < fsf> Forrest Fleming
+21:01 < schultmc> that's quorum - we can continue. Others may join in if available
+21:01 < schultmc> [item 3, President's Report]
+21:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:01 < schultmc> contracting with SPI's current and potential contractors. Stephen
+21:01 < schultmc> continues to do a fantastic job working with our contractors and
+21:01 < schultmc> legal counsel.
+21:01 < schultmc> .
+21:01 < schultmc> Merill Lynch's business department has requested physical signatures
+21:01 < schultmc> rather than the electronic signatures previously submitted. I'm working
+21:02 < schultmc> with Stephen and Tim to finalize the paperwork.
+21:02 < schultmc> .
+21:02 < schultmc> Stephen, do you have anything you would like to add?</done>
+21:02 < Snow-Man> Not to your report. :)  I have my own tho, when you're ready.
+21:02 < Snow-Man> schultmc: if there's anything still waiting for me, lmk.  I believe I've signed everything that needed doing.
+21:03 < schultmc> Snow-Man: I haven't seen the non-electronic signature - I'll check again.
+21:03 < Snow-Man> oh.
+21:03 < schultmc> Snow-Man: feel free - we can handle the paperwork offline
+21:04 < Snow-Man> Thought I had done that.  Been a bit confused since I moved houses this past weekend. :)
+21:04 < Snow-Man> But, yes, we can get that done in short order.
+21:05 < schultmc> </done>
+21:05 < schultmc> Snow-Man: feel free to give a VP report if you'd like
+21:06 < Snow-Man> ok
+21:06 < Snow-Man> We continue to make good progress with our IT contractor.  We have an initial test site up of the members system and are working through some issues with it.
+21:06 < Snow-Man> The goal is to have the members system up and running on modern versions of Debian but this involves having to make actual changes to the code which we hadn't anticipated.
+21:06 < Snow-Man> That work is progressing as we test each component and discover what needs to be changed to get it to work.  We will continue to move this project forward in hopes of having the members system online soon.
+21:06 < Snow-Man> The board alias no longer is set up to be moderated as that was leading to some confusion and the moderation wasn't being handled in a timely manner.
+21:06 < Snow-Man> For the time being, the membership committee has stated that they are waiting for the members system to come online again before handling recent membership requests.
+21:06 < Snow-Man> Anyone who wishes to voice a concern regarding this or membership activities in general is encouraged to reach out to either the membership committee directly or to the board.
+21:06 < Snow-Man> Independently, I am also working to support the Debian Project Leader's requests regarding information about SPI and Debian's relationships and to support their ongoing efforts.
+21:06 < Snow-Man> ... </done>
+21:06 < Snow-Man> Happy to answer any questions.
+21:07 < lamby> Thanks Snow-Man & schultmc.
+21:08 < schultmc> [item 4, Treasurer's Report]
+21:08 < schultmc> zobel isn't currently here.
+21:08 < schultmc> .
+21:08 < schultmc> The audit of SPI's 2019 financial statements was completed prior to the July
+21:08 < schultmc> Annual General Meeting. The auditing firm is also contracted to complete SPI's
+21:08 < schultmc> 990 (federal tax filing) and CHAR500 (New York state filing). They have completed
+21:08 < zumbi> No questions from my side, thanks for handling.
+21:08 < schultmc> the filings and have sent them to SPI for review before submission.
+21:08 < schultmc> Martin Michlmayr and I will be reviewing the filings shortly prior to their
+21:08 < schultmc> submission.
+21:08 < schultmc> .
+21:08 < schultmc> Michael has reached out to our business development manager at Chase for
+21:08 < schultmc> assistance with the wire transfers we've had issues with. Michael is continuing
+21:08 < schultmc> to reach out to various contacts at Chase to resolve the outstanding wire
+21:08 < schultmc> issues.
+21:08 < schultmc> .
+21:08 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:08 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:08 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:08 < schultmc> help is always welcome.
+21:08 < schultmc> .
+21:09 < schultmc> [item 5, Secretary's report]
+21:09 < schultmc> tpot isn't here.
+21:09 < schultmc> [item 6, Outstanding minutes]
+21:09 < schultmc> The minutes for the 2020-07-13 and 2020-08-10 require approval but are not yet available.
+21:09 < schultmc> They will be approved at a future meeting.
+21:09 < schultmc> .
+21:09 < schultmc> [item 7, Items up for discussion]
+21:09 < schultmc> Nothing on the agenda.
+21:09 < schultmc> [item 8, Any other business]
+21:09 < schultmc> Anything to discuss?
+21:09 < fsf> Nothing from em
+21:09 < fsf> *me
+21:09 < sasluc> Sascha here for the Ganeti project. We have opened [SYSADM #4076] regarding domain transfer. Last answer I received is from Tim Potter on 19 May 2020 regarding "need to get a handle on things before transferring domains". How are chances to get started here?
+21:09 < Snow-Man> I do want to bring up that, imv, the membership committee really should make progress even without the website being online.
+21:10 < Snow-Man> Given that we're having to now do some amount of s/w development to try and get it online again, I'd really like us to have a process in place to manage things until it's back.
+21:10 < lamby> Nothing from me, although noting I/we received a membership request a couple of hours ago. I'll read and respond shortly.
+21:10 < schultmc> I'm aware of one contributing membership application - I'll get it processed manually
+21:11 < Snow-Man> There seem to be a few of them, at least
+21:11 < Snow-Man> I can provide a dump of them to the committee
+21:11 < schultmc> ok
+21:11 < Snow-Man> Thanks.
+21:11 < jesusalva> Wait, I can send membership requests by email?
+21:12 < jesusalva> (Would like to do so)
+21:12 < Snow-Man> jesusalva: as mentioned above, membership@spi-inc.org
+21:12 < Snow-Man> if you'd like to submit something, please do
+21:12 < Snow-Man> Sounds like the committee will work to process things manually while the site is down.
+21:12 < jesusalva> (Thanks and sorry if I disrupted the meeting)
+21:13 < Snow-Man> Not a problem at all. :)
+21:13 < schultmc> The board has typically had an in person meeting in NYC in October to go over treasury and board tasks. Due to logistical issues, this year's meeting will likely be held virtually. The board needs to start planning on when to hold the meeting.
+21:13 < Snow-Man> schultmc: agreed.
+21:13 < lamby> Nod
+21:13 * fsf agrees
+21:13 < schultmc> sasluc: I'll reach out to Tim to see where he is on the domain process.
+21:14 < sasluc> schultmc, Thanks!
+21:14 < schultmc> Anything else to discuss?
+21:14 < Snow-Man> One other
+21:15 < Snow-Man> Mostly a head's up from the board- we may need to pass a resolution or agree to a letter, in support of the DPL, later this week
+21:15 < Snow-Man> err, *for the board
+21:15 < Snow-Man> So, please be paying at least some attention to email and such.
+21:15 < schultmc> understood - thanks for the heads up
+21:15 < Snow-Man> I don't have the specifics yet, but will pass them on when I do.
+21:15 < Snow-Man> think I'm done, sorry. :)
+21:16 < schultmc> [item 9, Next board meeting]
+21:16 < schultmc> The next board meeting is scheduled for: October 12th, 2020 at 20:00 UTC
+21:16 < schultmc> Any objections?
+21:16 < Snow-Man> wfm
+21:16 < jconway> +1
+21:16 < schultmc> Date may change pending the output of the the "in person" meeting
+21:16 < fsf> No objections here. Will that meeting be the virtual-nyc-replacement, or a regular irc-based board meeting?
+21:16 < lamby> wfm :)
+21:16 < schultmc> fsf: depends on scheduling
+21:16 < fsf> ACK, works for me
+21:17 < lamby> Thanks, speak to you all soon.
+21:17 < schultmc> *GAVEL*
