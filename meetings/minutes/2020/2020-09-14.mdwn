@@ -1,0 +1,155 @@
+[[!meta copyright="Copyright © 2020 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, September 14th, 2020
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice-President)
+* Forrest Fleming (fsf)
+* Chris Lamb (lamby)
+* Héctor Orón Martínez (zumbi)
+* Joe Conway (jconway)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Martin Zobel-Helas (zobel) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Luca Filipozzi (luca)
+
+__Registered guests present__
+
+* None
+
+These are the minutes for the September 14th, 2020 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2020/2020-09-14-log.txt).
+
+## President's Report
+
+<pre>
+Continued thanks to SPI Vice President, Stephen Frost, for handling
+contracting with SPI's current and potential contractors. Stephen
+continues to do a fantastic job working with our contractors and legal
+counsel.
+
+Merill Lynch's business department has requested physical signatures
+rather than the electronic signatures previously submitted. I'm
+working with Stephen and Tim to finalize the paperwork.
+</pre>
+
+## Vice President's Report
+
+<pre>
+
+We continue to make good progress with our IT contractor.  We have an
+initial test site up of the members system and are working through
+some issues with it. The goal is to have the members system up and
+running on modern versions of Debian but this involves having to make
+actual changes to the code which we hadn't anticipated. That work is
+progressing as we test each component and discover what needs to be
+changed to get it to work.  We will continue to move this project
+forward in hopes of having the members system online soon.
+
+The board alias no longer is set up to be moderated as that was
+leading to some confusion and the moderation wasn't being handled in a
+timely manner.
+
+For the time being, the membership committee has stated that they are
+waiting for the members system to come online again before handling
+recent membership requests. Anyone who wishes to voice a concern
+regarding this or membership activities in general is encouraged to
+reach out to either the membership committee directly or to the board.
+
+Independently, I am also working to support the Debian Project
+Leader's requests regarding information about SPI and Debian's
+relationships and to support their ongoing efforts.
+</pre>
+
+## Treasurer's report
+
+Report presented by Michael Schultheiss on behalf of Martin Zobel-Helas.
+
+<pre>
+The audit of SPI's 2019 financial statements was completed prior to
+the July Annual General Meeting. The auditing firm is also contracted
+to complete SPI's 990 (federal tax filing) and CHAR500 (New York state
+filing). They have completed the filings and have sent them to SPI for
+review before submission.  Martin Michlmayr and I will be reviewing
+the filings shortly prior to their submission.
+
+Michael has reached out to our business development manager at Chase
+for assistance with the wire transfers we've had issues with. Michael
+is continuing to reach out to various contacts at Chase to resolve the
+outstanding wire issues.
+
+The SPI treasury team is continuing to process requests and is striving for
+more timely ticket handling. The backlog is being processed but if there are
+any board members who would like to assist with treasury tasks, additional
+help is always welcome.
+</pre>
+
+## Secretary's report
+
+Tim Potter not present.
+
+## Vote on Minutes for meeting Monday, 13th July 2020
+
+Minutes for this meeting are not yet available.
+
+## Vote on Minutes for meeting Monday, 10th August 2020
+
+Minutes for this meeting are not yet available.
+
+## Items up for Discussion
+
+None.
+
+## Any other business
+
+Sascha Lucas (sasluc) from the Ganti project queried the progress
+towards moving domain names over to gandi.net, the SPI's DNS hosting
+provider. Sascha was promised a ping to Tim Potter to update the
+ticket.
+
+As the SPI membership website is still being moved to a new hosting
+provider, membership requests are now being handled manually via
+email.
+
+The board has typically had an in person meeting in NYC in October to
+go over treasury and board tasks. Due to logistical issues, this
+year's meeting will likely be held virtually. The board needs to start
+planning on when to hold the meeting.
+
+## Adjournment
+
+The meeting was adjourned until Monday October 12th 2020 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td><td>Treasurer</td></tr>
+<tr><td>July 2020</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2018</td><td>Luca Filipozzi</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td></tr>
+</tbody>
+</table>
