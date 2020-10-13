@@ -1,0 +1,211 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-10-12/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < tpot> Tim Potter
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < schultmc> .
+21:00 < jconway> Joe Conway
+21:00 < schultmc> Michael Schultheiss
+21:00 < lamby> Chris Lamb
+21:01 < schultmc> tpot: do we have any regrets?
+21:01 < tpot> No regrets at this time.
+21:01 < schultmc> zobel: ping
+21:01 < schultmc> zumbi: ping
+21:01 < fsf> Forrest Fleming
+21:01 < schultmc> Snow-Man: ping
+21:01 < Snow-Man> Stephen Frost
+21:01 < schultmc> luca: ping
+21:01 < Snow-Man> sorry, holiday here :)
+21:02 < schultmc> that's quorum so we can move on
+21:02 < schultmc> *GAVEL*
+21:02 < schultmc> [item 1, Opening]
+21:02 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:02 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:02 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-10-12/
+21:02 < schultmc> [item 2, Roll Call]
+21:02 < schultmc> Directors, please state your name
+21:02 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:02 < schultmc> recorded in the minutes of this meeting.
+21:02 < schultmc> .
+21:02 < schultmc> whoops
+21:02 < schultmc> [item 3, President's Report]
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's current and potential contractors. Stephen
+21:02 < schultmc> continues to do a fantastic job working with our contractors and
+21:02 < schultmc> legal counsel.
+21:02 < schultmc> .
+21:02 < schultmc> Merill Lynch's business department has requested physical signatures
+21:02 < schultmc> rather than the electronic signatures previously submitted. I'm working
+21:02 < schultmc> with Stephen and Tim to finalize the paperwork.
+21:02 < schultmc> .
+21:03 < schultmc> Stephen, do you have anything you would like to add?</done>
+21:03 < Snow-Man> Yes, one sec.
+21:04 < Snow-Man> We have been unfortunately delayed on getting the member's site back up due to vacation schedules of both my own and our IT contractors, but it is still a priority for us and we continue to work to get it back online.  Until then, there is an email address that can be used to send questions regarding membership, and/or board@ can be contacted.
+21:04 < Snow-Man> Many thanks to our accounting contractor for reviewing the format proposed by one of our member projects regarding how to get detailed information.  I have his comments now and plan to share them with the board and the member project shortly.
+21:05 < lamby> ^ Nice, was going to ask that in AOB.
+21:05 < Snow-Man> Part of the issue with the member's site is that it isn't just putting it back up, but dealing with it being a rather old code base that needs to be updated too.
+21:05 < Snow-Man> We had parts of the site working but ran into some trouble with some of the forms on it and that's where we are with it currently
+21:06 < Snow-Man> If anyone of our members is interested in helping out, we'd certainly welcome the help.  The system is a python django based system w/ a PG backend.
+21:06 < tpot> Anyone know PostGres?
+21:06 < Snow-Man> :P
+21:06 < Snow-Man> the PG part of it isn't where we're having trouble. :)
+21:07 < Snow-Man> That's all I had to add at this time.
+21:07 < lamby> lol
+21:07 < schultmc> Thank you for the update - looking forward to continued progress on our IT infrastructure refresh
+21:07 < schultmc> [item 4, Treasurer's Report]
+21:07 < schultmc> zobel isn't currently here.
+21:07 < schultmc> .
+21:07 < schultmc> The audit of SPI's 2019 financial statements was completed prior to the July
+21:07 < schultmc> Annual General Meeting. The auditing firm is also contracted to complete SPI's
+21:07 < schultmc> 990 (federal tax filing) and CHAR500 (New York state filing). They have completed
+21:07 < schultmc> the filings and have sent them to SPI for review before submission.
+21:07 < schultmc> Martin Michlmayr and I will be reviewing the filings shortly prior to their
+21:07 < schultmc> submission.
+21:07 < schultmc> .
+21:08 < schultmc> Michael has reached out to our business development manager at Chase for
+21:08 < schultmc> assistance with the wire transfers we've had issues with. Michael is continuing
+21:08 < schultmc> to reach out to various contacts at Chase to resolve the outstanding wire
+21:08 < schultmc> issues. At least one of the outstanding troublesome wire transfers has been
+21:08 < schultmc> completed successfully according to the Chase representative.
+21:08 < schultmc> .
+21:08 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:08 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:08 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:08 < schultmc> help is always welcome.
+21:08 < schultmc> .
+21:08 < schultmc> Wearing my treasury team hat, we are able to complete reimbursements much faster in native currency rather than sending USD to foreign countries
+21:09 < schultmc> the latter is where we most often run into issues
+21:10 < schultmc> [item 5, Secretary's report]
+21:10 < schultmc> tpot?
+21:10 < tpot> My apologies for letting minutes get behind a few meetings however we are up to date again.
+21:10 < tpot> .
+21:11 < schultmc> [item 6, Outstanding minutes]
+21:11 < schultmc> The minutes for the 2020-07-13, 2020-08-10, and 2020-09-14 require approval.
+21:11 < schultmc> .
+21:11 < schultmc> They can be found at
+21:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-07-13/
+21:11 < schultmc> .
+21:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-08-10/
+21:11 < schultmc> .
+21:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-09-14/
+21:11 < schultmc> .
+21:11 < tpot> Voting started, 6 people ( jconway,schultmc,lamby,tpot,fsf,snow-man) allowed to vote on Accept minutes for meeting Monday July 13th 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:11 < schultmc> !vote abstain
+21:12 < lamby> !vote yes
+21:12 < fsf> !vote yes
+21:12 < Snow-Man> !vote yes
+21:12 < jconway> !vote yes
+21:12 < tpot> !vote yes
+21:12 < tpot> Current voting results for "Accept minutes for meeting Monday July 13th 2020": Yes: 4, No: 0, Abstain: 1, Missing: 1 (  jconway )
+21:12 < tpot> Voting for "Accept minutes for meeting Monday July 13th 2020" closed.
+21:12 < tpot> whoops the count is wrong for jconway - will update in the minutes
+21:12 < jconway> not sure why mine is missing
+21:13 < tpot> Voting started, 6 people (jconway,schultmc,lamby,tpot,fsf,snow-man) allowed to vote on Accept minutes for meeting Monday August 10th 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:13 < tpot> ah it was a leading space
+21:13 < lamby> !vote yes
+21:13 < Snow-Man> !vote yes
+21:13 < schultmc> !vote yes
+21:13 < jconway> !vote yes
+21:13 < tpot> !vote abstain
+21:14 < fsf> !vote yes
+21:14 < tpot> Current voting results for "Accept minutes for meeting Monday August 10th 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+21:14 < tpot> Current voting results for "Accept minutes for meeting Monday August 10th 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+21:14 < tpot> Voting for "Accept minutes for meeting Monday August 10th 2020" closed.
+21:14 < jconway> \o/
+21:14 < tpot> Voting started, 6 people (jconway,schultmc,lamby,tpot,fsf,snow-man) allowed to vote on Accept minutes for meeting Monday September 14th 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:14 < Snow-Man> !vote yes
+21:14 < tpot> !vote abstain
+21:15 < schultmc> !vote yes
+21:15 < jconway> !vote yes
+21:15 < lamby> !vote yes
+21:15 < fsf> !vote yes
+21:15 < tpot> Current voting results for "Accept minutes for meeting Monday September 14th 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+21:15 < tpot> Current voting results for "Accept minutes for meeting Monday September 14th 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+21:15 < tpot> Voting for "Accept minutes for meeting Monday September 14th 2020" closed.
+21:15 < tpot> Thanks everyone!
+21:15 < schultmc> [item 7, Items up for discussion]
+21:15 < schultmc> [item 7.1, ns-3 as an associated project]
+21:15 < schultmc> lamby?
+21:16 < tpot> https://www.spi-inc.org/corporate/resolutions/2020/2020-09-18.cl.0/
+21:16 < lamby> :)
+21:16 < lamby> Thanks, yes; this is to add ns-3 as an associated project
+21:16 < Snow-Man> +1
+21:16 < lamby> I sent this draft a day or so after our previous meeting after some discussions
+21:17 * Snow-Man used ns-2 wayyyyyy back in the day, very cool that it's successor, ns-3, is joining SPI :)
+21:17 < tpot> Are we ready for a vote on this?
+21:17 < lamby> Contact with the project has been warm, efficient and friendly, if that helps.
+21:18 < fsf> I think that voting makes sense - I know of no reason why we shouldn't, and don't remember any opposition coming in via email
+21:18 < tpot> Happy to defer to the next meeting if more time required but the resolution is a standard new project addition.
+21:19 < tpot> OK if there are no objections let's go.
+21:19 < Snow-Man> +1
+21:19 < tpot> Voting started, 6 people (jconway,schultmc,lamby,tpot,fsf,snow-man) allowed to vote on Resolution 2020-09-18.cl.0 - ns-3 as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:19 < Snow-Man> !vote yes
+21:19 < jconway> !vote yes
+21:19 < tpot> !vote yes
+21:19 < fsf> !vote yes
+21:19 < schultmc> only concern I would have is trademark related with previous versions but this appears to be the same team working on the current version
+21:19 < schultmc> !vote yes
+21:19 < lamby> !vote yes
+21:19 < tpot> Current voting results for "Resolution 2020-09-18.cl.0 - ns-3 as an associated project": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+21:19 < tpot> Voting for "Resolution 2020-09-18.cl.0 - ns-3 as an associated project" closed.
+21:19 < tpot> Thanks everyone.
+21:20 < schultmc> [item 8, Any other business]
+21:20 < schultmc> Anything to discuss?
+21:20 < Lyude> hi! yes, I have something to ask
+21:20 < schultmc> Lyude: please go ahead
+21:21 < Lyude> I'm Lyude Paul, secretary of the X.org foundation, I think tpot already handled my question about the domain migration stuff (we'll talk about it via email) but I was wondering if there was any response to the question I asked about access to the ledger feed? I haven't gotten any email responses back yet since the last time that I asked
+21:22 < Lyude> and I was also wondering if there's another way I should be filing tickets with SPI that might be more reliable then email, or if email is still the right way to go?
+21:22 < Snow-Man> When you send an email to the RT system you should get an automated response back giving you a ticket number, that's particularly good for things like treasurer-type items.
+21:23 < Snow-Man> if you got that response back from RT, you know that a ticket was opened up
+21:23 < Snow-Man> (just trying to address the reliability question as email can be spotty, I agree)
+21:23 < schultmc> treasurer@rt.spi-inc.org or board@rt.spi-inc.org or sysadmin@rt.spi-inc.org depending on the subject of the request
+21:24 < Snow-Man> As for access to the transactions, we are actually discussing creating something for another member project for what sounds like very similar purposes..  I wonder if we should try to coordinate that.
+21:24 < Snow-Man> We're also working on moving from ledger to beancount, not sure how much that's relevant, but ultimately it'd probably make the most sense to schedule a call to discuss realtime (nothing like meetings to be deadlines to get things done too ;)
+21:25 < Snow-Man> schultmc: We would need one or two people from the treasurer team, of course..
+21:25 < Lyude> Snow-Man: alright-if you want to coordinate anything with our treasurer I'm sure they'd be happy to, should I open up an RT ticket related to that?
+21:25 < Snow-Man> we've had success making them happen for other projects though, not sure why this would be different.
+21:26 < Snow-Man> Lyude: yeah, just send something to treasurer@rt and ask for a meeting and I'll try to help make it happen. :)
+21:26 < Snow-Man> meeting regarding getting transaction info
+21:26 < Lyude> Snow-Man: cool :), that answers all my questions then. thanks a ton!
+21:26 < Snow-Man> happy to help.
+21:26 < Snow-Man> As regardin AOB- I just wanted to add that anyone interested in helping out with the members website can please feel free to email me at sfrost@spi-inc.org or sfrost@snowman.net
+21:27 < schultmc> Snow-Man: I'm typically fairly available, more so after the election on 2020-11-03
+21:27 < tpot> Any further thoughts about a virtual yearly board meeting?
+21:28 < Snow-Man> tpot: my thought would be 'yes'
+21:28 < Snow-Man> Lyude: please include your timezone/availability (or that of whomever would be appropriate to join)
+21:28 < schultmc> I'm more available in November but we should start scheduling
+21:28 < fsf> re: virtual board meeting, I'm generally +1 on that
+21:28 < Lyude> Snow-Man: sure thing. I'm in EST so I'll include that + my schedule on the ticket
+21:28 < Snow-Man> November is  reasonably open for me currently but definitely good to get out ahead of it and get something scheduled.
+21:28 < tpot> OK I will start up some emails/surveys/docs to get a schedule and agenda going.
+21:29 < Snow-Man> Lyude: perfect, thanks (I'm EST too..  DC area)
+21:29 < Snow-Man> tpot: great, tahnks
+21:29 < schultmc> EDT </pedantic>
+21:30 < schultmc> Anything else for AOB?
+21:30 < lamby> none here...
+21:30 < jconway> nothing from me
+21:30 < fsf> nothing here
+21:30 < schultmc> [item 9, Next board meeting]
+21:30 < schultmc> The next board meeting is scheduled for: November 10th, 2020 at 20:00 UTC
+21:30 < schultmc> Any objections?
+21:31 < fsf> no objection
+21:31 < Snow-Man> should be alright for me
+21:31 < jconway> no
+21:31 < jconway> no objection that is
+21:31 < lamby> That's a Tuesday, right?
+21:31 < schultmc> works for me, we may combine with the annual scheduled "in person (virtual)" meeting
+21:31 < schultmc> err november 9th
+21:32 < schultmc> sorry, went a week after the .us elections
+21:32 < lamby> Interesting times, indeed.
+21:32 < schultmc> for the record: The next board meeting is scheduled for: November 9th, 2020 at 20:00 UTC
+21:32 < schultmc> Any objections?
+21:32 < Snow-Man> hah
+21:32 < Snow-Man> should be alright for me :)
+21:33 < jconway> +1
+21:33  -!- tpot changed the topic of #spi to: Next SPI board meeting is on November 9th, 2020, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2020/2020-11-09/
+21:33 < schultmc> *GAVEL*
