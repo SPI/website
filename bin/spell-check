@@ -16,11 +16,11 @@ find_dict() {
 for i in $(find -name "*.tex" | sort); do
 	mode=tex
 	dict=$(dirname $(find -name .aspell.en.pws | sort | tail -n 1))
-	aspell -d en --home-dir=$(find_dict $i) --mode $mode check $i
+	aspell -d en -x --home-dir=$(find_dict $i) --mode $mode check $i
 done
 
 for i in $(find -name "*.mdwn" | sort); do
 	mode=markdown
-	aspell -d en --home-dir=$(find_dict "$i") --mode $mode check $i
+	aspell -d en -x --home-dir=$(find_dict "$i") --mode $mode check $i
 done
 
