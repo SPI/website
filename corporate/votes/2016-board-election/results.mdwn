@@ -302,7 +302,7 @@ __Total unique votes cast: 133, which is 55.42% of all possible votes.__
 
 ## Beat matrix
 
-  <table border="1">
+  <table class="beat">
         <tr>
             <th></th>
             <th>A</th>
@@ -533,7 +533,7 @@ For the above table, a row beats a column by N votes
 
 ## Pairwise wins
 
-  <table border="1">
+  <table class="pairwise">
         <tr>
             <th></th>
             <th>A</th>
@@ -555,7 +555,7 @@ For the above table, a row beats a column by N votes
             <th>A</th>
             <td>-</td>
             <td>-2</td>
-            <td><b>8</b></td>
+            <td class="win">8</td>
             <td>-13</td>
             <td>-26</td>
             <td>-13</td>
@@ -570,9 +570,9 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>B</th>
-            <td><b>2</b></td>
+            <td class="win">2</td>
             <td>-</td>
-            <td><b>9</b></td>
+            <td class="win">9</td>
             <td>-11</td>
             <td>-29</td>
             <td>-8</td>
@@ -604,16 +604,16 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>D</th>
-            <td><b>13</b></td>
-            <td><b>11</b></td>
-            <td><b>28</b></td>
+            <td class="win">13</td>
+            <td class="win">11</td>
+            <td class="win">28</td>
             <td>-</td>
             <td>-20</td>
-            <td><b>10</b></td>
+            <td class="win">10</td>
             <td>-15</td>
             <td>-20</td>
-            <td><b>21</b></td>
-            <td><b>17</b></td>
+            <td class="win">21</td>
+            <td class="win">17</td>
             <td>-3</td>
             <td>-25</td>
             <td>-40</td>
@@ -621,33 +621,33 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>E</th>
-            <td><b>26</b></td>
-            <td><b>29</b></td>
-            <td><b>20</b></td>
-            <td><b>20</b></td>
+            <td class="win">26</td>
+            <td class="win">29</td>
+            <td class="win">20</td>
+            <td class="win">20</td>
             <td>-</td>
-            <td><b>40</b></td>
+            <td class="win">40</td>
             <td>-5</td>
-            <td><b>2</b></td>
-            <td><b>45</b></td>
-            <td><b>39</b></td>
-            <td><b>9</b></td>
+            <td class="win">2</td>
+            <td class="win">45</td>
+            <td class="win">39</td>
+            <td class="win">9</td>
             <td>-13</td>
             <td>-21</td>
             <td>9</td>
         </tr>
         <tr>
             <th>F</th>
-            <td><b>13</b></td>
-            <td><b>8</b></td>
-            <td><b>22</b></td>
+            <td class="win">13</td>
+            <td class="win">8</td>
+            <td class="win">22</td>
             <td>-10</td>
             <td>-40</td>
             <td>-</td>
             <td>-34</td>
             <td>-35</td>
-            <td><b>16</b></td>
-            <td><b>6</b></td>
+            <td class="win">16</td>
+            <td class="win">6</td>
             <td>-11</td>
             <td>-38</td>
             <td>-49</td>
@@ -655,16 +655,16 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>G</th>
-            <td><b>31</b></td>
-            <td><b>37</b></td>
-            <td><b>31</b></td>
-            <td><b>15</b></td>
-            <td><b>5</b></td>
-            <td><b>34</b></td>
+            <td class="win">31</td>
+            <td class="win">37</td>
+            <td class="win">31</td>
+            <td class="win">15</td>
+            <td class="win">5</td>
+            <td class="win">34</td>
             <td>-</td>
-            <td><b>3</b></td>
-            <td><b>24</b></td>
-            <td><b>31</b></td>
+            <td class="win">3</td>
+            <td class="win">24</td>
+            <td class="win">31</td>
             <td>-4</td>
             <td>-11</td>
             <td>-13</td>
@@ -672,26 +672,26 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>H</th>
-            <td><b>44</b></td>
-            <td><b>38</b></td>
-            <td><b>40</b></td>
-            <td><b>20</b></td>
+            <td class="win">44</td>
+            <td class="win">38</td>
+            <td class="win">40</td>
+            <td class="win">20</td>
             <td>-2</td>
-            <td><b>35</b></td>
+            <td class="win">35</td>
             <td>-3</td>
             <td>-</td>
-            <td><b>42</b></td>
-            <td><b>47</b></td>
-            <td><b>12</b></td>
+            <td class="win">42</td>
+            <td class="win">47</td>
+            <td class="win">12</td>
             <td>-15</td>
             <td>-27</td>
             <td>8</td>
         </tr>
         <tr>
             <th>I</th>
-            <td><b>4</b></td>
-            <td><b>10</b></td>
-            <td><b>18</b></td>
+            <td class="win">4</td>
+            <td class="win">10</td>
+            <td class="win">18</td>
             <td>-21</td>
             <td>-45</td>
             <td>-16</td>
@@ -706,15 +706,15 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>J</th>
-            <td><b>21</b></td>
-            <td><b>12</b></td>
-            <td><b>23</b></td>
+            <td class="win">21</td>
+            <td class="win">12</td>
+            <td class="win">23</td>
             <td>-17</td>
             <td>-39</td>
             <td>-6</td>
             <td>-31</td>
             <td>-47</td>
-            <td><b>6</b></td>
+            <td class="win">6</td>
             <td>-</td>
             <td>-19</td>
             <td>-33</td>
@@ -723,16 +723,16 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>K</th>
-            <td><b>42</b></td>
-            <td><b>37</b></td>
-            <td><b>43</b></td>
-            <td><b>3</b></td>
+            <td class="win">42</td>
+            <td class="win">37</td>
+            <td class="win">43</td>
+            <td class="win">3</td>
             <td>-9</td>
-            <td><b>11</b></td>
-            <td><b>4</b></td>
+            <td class="win">11</td>
+            <td class="win">4</td>
             <td>-12</td>
-            <td><b>28</b></td>
-            <td><b>19</b></td>
+            <td class="win">28</td>
+            <td class="win">19</td>
             <td>-</td>
             <td>-21</td>
             <td>-20</td>
@@ -740,35 +740,35 @@ For the above table, a row beats a column by N votes
         </tr>
         <tr>
             <th>L</th>
-            <td><b>60</b></td>
-            <td><b>60</b></td>
-            <td><b>40</b></td>
-            <td><b>25</b></td>
-            <td><b>13</b></td>
-            <td><b>38</b></td>
-            <td><b>11</b></td>
-            <td><b>15</b></td>
-            <td><b>53</b></td>
-            <td><b>33</b></td>
-            <td><b>21</b></td>
+            <td class="win">60</td>
+            <td class="win">60</td>
+            <td class="win">40</td>
+            <td class="win">25</td>
+            <td class="win">13</td>
+            <td class="win">38</td>
+            <td class="win">11</td>
+            <td class="win">15</td>
+            <td class="win">53</td>
+            <td class="win">33</td>
+            <td class="win">21</td>
             <td>-</td>
             <td>-2</td>
             <td>11</td>
         </tr>
         <tr>
             <th>M</th>
-            <td><b>62</b></td>
-            <td><b>57</b></td>
-            <td><b>38</b></td>
-            <td><b>40</b></td>
-            <td><b>21</b></td>
-            <td><b>49</b></td>
-            <td><b>13</b></td>
-            <td><b>27</b></td>
-            <td><b>59</b></td>
-            <td><b>43</b></td>
-            <td><b>20</b></td>
-            <td><b>2</b></td>
+            <td class="win">62</td>
+            <td class="win">57</td>
+            <td class="win">38</td>
+            <td class="win">40</td>
+            <td class="win">21</td>
+            <td class="win">49</td>
+            <td class="win">13</td>
+            <td class="win">27</td>
+            <td class="win">59</td>
+            <td class="win">43</td>
+            <td class="win">20</td>
+            <td class="win">2</td>
             <td>-</td>
             <td>12</td>
         </tr>

@@ -175,15 +175,15 @@ __Total unique votes cast: 75, which is 16.13% of all possible votes.__
 
 ## Beat matrix
 
-<table border="1">
+<table class="beat">
 <thead>
 <tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
 </thead>
 <tbody>
-<tr><th>A</th><td align="center">-</td><td align="center">48</td><td align="center">21</td><td align="center">56</td></tr>
-<tr><th>B</th><td align="center">24</td><td align="center">-</td><td align="center">12</td><td align="center">40</td></tr>
-<tr><th>C</th><td align="center">53</td><td align="center">60</td><td align="center">-</td><td align="center">65</td></tr>
-<tr><th>D</th><td align="center">15</td><td align="center">31</td><td align="center">6</td><td align="center">-</td></tr>
+<tr><th>A</th><td>-</td><td>48</td><td>21</td><td>56</td></tr>
+<tr><th>B</th><td>24</td><td>-</td><td>12</td><td>40</td></tr>
+<tr><th>C</th><td>53</td><td>60</td><td>-</td><td>65</td></tr>
+<tr><th>D</th><td>15</td><td>31</td><td>6</td><td>-</td></tr>
 </tbody>
 </table>
 
@@ -191,15 +191,15 @@ For the above table, a row beats a column by N votes
 
 ## Pairwise wins
 
-<table border="1">
+<table class="pairwise">
 <thead>
-<tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th><td bgcolor="#9999FF">#</td></tr>
+<tr><th>&nbsp;</th><th>A</th><th>B</th><th>C</th><th>D</th><th>#</th></tr>
 </thead>
 <tbody>
-<tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99FF99">24</td><td align="center">-32</td><td align="center" bgcolor="#99FF99">41</td><td bgcolor="#9999FF">2</td></tr>
-<tr><th>B</th><td align="center">-24</td><td align="center">-</td><td align="center">-48</td><td align="center" bgcolor="#99FF99">9</td><td bgcolor="#9999FF">1</td></tr>
-<tr><th>C</th><td align="center" bgcolor="#99FF99">32</td><td align="center" bgcolor="#99FF99">48</td><td align="center">-</td><td align="center" bgcolor="#99FF99">59</td><td bgcolor="#9999FF">3</td></tr>
-<tr><th>D</th><td align="center">-41</td><td align="center">-9</td><td align="center">-59</td><td align="center">-</td><td bgcolor="#9999FF">0</td></tr>
+<tr><th>A</th><td>-</td><td class="win">24</td><td>-32</td><td class="win">41</td><td>2</td></tr>
+<tr><th>B</th><td>-24</td><td>-</td><td>-48</td><td class="win">9</td><td>1</td></tr>
+<tr><th>C</th><td class="win">32</td><td class="win">48</td><td>-</td><td class="win">59</td><td>3</td></tr>
+<tr><th>D</th><td>-41</td><td>-9</td><td>-59</td><td>-</td><td>0</td></tr>
 </tbody>
 </table>
 

@@ -140,14 +140,14 @@ __Total unique votes cast: 58, which is 13.09% of all possible votes.__
 
 ## Beat matrix
 
-<table border="1">
+<table class="beat">
 <thead>
 <tr><th> </th><th>A</th><th>B</th><th>C</th></tr>
 </thead>
 <tbody>
-<tr><th>A</th><td align="center">-</td><td align="center">29</td><td align="center">11</td></tr>
-<tr><th>B</th><td align="center">26</td><td align="center">-</td><td align="center">14</td></tr>
-<tr><th>C</th><td align="center">46</td><td align="center">42</td><td align="center">-</td></tr>
+<tr><th>A</th><td>-</td><td>29</td><td>11</td></tr>
+<tr><th>B</th><td>26</td><td>-</td><td>14</td></tr>
+<tr><th>C</th><td>46</td><td>42</td><td>-</td></tr>
 </tbody>
 </table>
 
@@ -155,14 +155,14 @@ For the above table, a row beats a column by N votes
 
 ## Pairwise wins
 
-<table border="1">
+<table class="pairwise">
 <thead>
-<tr><th> </th><th>A</th><th>B</th><th>C</th><td bgcolor="#9999ff">#</td></tr>
+<tr><th> </th><th>A</th><th>B</th><th>C</th><th>#</th></tr>
 </thead>
 <tbody>
-<tr><th>A</th><td align="center">-</td><td align="center" bgcolor="#99ff99">3</td><td align="center">-35</td><td bgcolor="#9999ff">1</td></tr>
-<tr><th>B</th><td align="center">-3</td><td align="center">-</td><td align="center">-28</td><td bgcolor="#9999ff">0</td></tr>
-<tr><th>C</th><td align="center" bgcolor="#99ff99">35</td><td align="center" bgcolor="#99ff99">28</td><td align="center">-</td><td bgcolor="#9999ff">2</td></tr>
+<tr><th>A</th><td>-</td><td class="win">3</td><td>-35</td><td>1</td></tr>
+<tr><th>B</th><td>-3</td><td>-</td><td>-28</td><td>0</td></tr>
+<tr><th>C</th><td class="win">35</td><td class="win">28</td><td>-</td><td>2</td></tr>
 </tbody>
 </table>
 

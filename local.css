@@ -244,3 +244,53 @@ fieldset {
    }
 
 }
+
+/* voting tables */
+
+.beat, .pairwise, .vote {
+	border-collapse: collapse;
+}
+
+.beat th, .pairwise th, .vote th {
+	background: gray;
+	color: white;
+}
+
+.beat th, .beat td, .pairwise th, .pairwise td, .vote th, .vote td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
+.pairwise th:last-child {
+	background: #9999ff;
+}
+
+.pairwise td:last-child {
+	background: #9999ff;
+}
+
+
+td.win {
+	background: lightgreen;
+}
+
+td.present {
+	background: lightgreen;
+}
+
+td.partial {
+	background: #66ccff;
+}
+
+td.absent {
+	background: #ff9999;
+}
+
+td.regrets {
+	background: #ffcc66;
+}
+
+td.deferred {
+	background: #ffccff;
+}
