@@ -10,7 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
-      - run: ./bin/build-site . $(mktemp -d)
+      - run: mkdir ../html
+      - run: rm -f README.md CONTRIBUTING.md  # don't build
+      - run: ./bin/build-site . ../html
+      - run: sudo gem install html-proofer
+      - run: htmlproofer --disable-external --check-html ../html
   docs:
     name: Annual reports
     runs-on: ubuntu-latest
