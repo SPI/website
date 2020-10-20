@@ -245,6 +245,21 @@ fieldset {
 
 }
 
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+th {
+	background: gray;
+	color: white;
+	text-align: center;
+}
+
 /* finance tables */
 
 .finance {
