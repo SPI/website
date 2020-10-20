@@ -245,6 +245,36 @@ fieldset {
 
 }
 
+/* finance tables */
+
+.finance {
+	border-collapse: collapse;
+}
+
+.finance th, .finance td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.finance th {
+	background: gray;
+	color: white;
+	text-align: center;
+}
+
+.finance td {
+	text-align: right;
+}
+
+.finance td:last-child {
+	text-align: left;
+}
+
+.finance tr:last-child td {
+	background: gray;
+	color: white;
+}
+
 /* voting tables */
 
 .beat, .pairwise, .vote {

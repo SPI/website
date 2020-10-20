@@ -90,66 +90,66 @@ the year.   This would cover our accounting expenses handily.
 
 Total Revenue through the first week of October, <i>non-reconciled</i>, is:
 
-<table>
+<table class="finance">
 <thead>
   <tr>
-    <th align="right">Gross</th>
-    <th align="right">Transaction Fees</th>
-    <th align="right">Net</th>
-    <th align="right">SPI 5%</th>
-    <th align="right">Project Allocation</th>
-    <th align="justify">Project</th>
+    <th>Gross</th>
+    <th>Transaction Fees</th>
+    <th>Net</th>
+    <th>SPI 5%</th>
+    <th>Project Allocation</th>
+    <th>Project</th>
   </tr>
 </thead>
 <tbody>
-  <tr><td align="right"><i>77845.32</i></td><td align="right"> <i>405.29</i></td><td align="right"> <i>77440.03</i></td><td align="right"> <i>3922</i></td><td align="right"> <i>73518.03</i></td><td> <b><i>Debian</i></b></td></tr>
+  <tr><td>77845.32</td><td> 405.29</td><td> 77440.03</td><td> 3922</td><td> 73518.03</td><td> Debian</td></tr>
   <tr>
-    <td align="right"><i>45</i></td>
-    <td align="right"><i>2.14</i></td>
-    <td align="right"><i>42.86</i></td>
-    <td align="right"><i>2.14</i></td>
-    <td align="right"><i>40.72</i></td>
-    <td align="left"><b><i>Gallery</i></b></td>
+    <td>45</td>
+    <td>2.14</td>
+    <td>42.86</td>
+    <td>2.14</td>
+    <td>40.72</td>
+    <td align="left">Gallery</td>
   </tr>
   <tr>
-    <td align="right"><i>1700</i></td>
-    <td align="right"><i>8.31</i></td>
-    <td align="right"><i>1691.69</i></td>
-    <td align="right"><i>84.58</i></td>
-    <td align="right"><i>1607.1</i></td>
-    <td align="justify"><b><i>OVF</i></b></td>
+    <td>1700</td>
+    <td>8.31</td>
+    <td>1691.69</td>
+    <td>84.58</td>
+    <td>1607.1</td>
+    <td>OVF</td>
   </tr>
   <tr>
-    <td align="right"><i>39013.05</i></td>
-    <td align="right"><i>932.63</i></td>
-    <td align="right"><i>38080.42</i></td>
-    <td align="right"><i>1904.02</i></td>
-    <td align="right"><i>36176.4</i></td>
-    <td align="left"><b><i>PostgreSQL</i></b></td>
+    <td>39013.05</td>
+    <td>932.63</td>
+    <td>38080.42</td>
+    <td>1904.02</td>
+    <td>36176.4</td>
+    <td align="left">PostgreSQL</td>
   </tr>
   <tr>
-    <td align="right"><i>1759</i></td>
-    <td align="right"><i>37.36</i></td>
-    <td align="right"><i>1721.64</i></td>
-    <td align="right"><i>86.08</i></td>
-    <td align="right"><i>1635.56</i></td>
-    <td align="justify"><b><i>SPI General</i></b></td>
+    <td>1759</td>
+    <td>37.36</td>
+    <td>1721.64</td>
+    <td>86.08</td>
+    <td>1635.56</td>
+    <td>SPI General</td>
   </tr>
   <tr>
-    <td align="right"><i>20.00</i></td>
-    <td align="right"><i>0.65</i></td>
-    <td align="right"><i>19.35</i></td>
-    <td align="right"><i>0.97</i></td>
-    <td align="right"><i>18.38</i></td>
-    <td align="justify"><b><i>TeXmacs</i></b></td>
+    <td>20.00</td>
+    <td>0.65</td>
+    <td>19.35</td>
+    <td>0.97</td>
+    <td>18.38</td>
+    <td>TeXmacs</td>
   </tr>
   <tr>
-    <td align="right"><b><i>120382.37</i></b></td>
-    <td align="right"><b><i>1386.38</i></b></td>
-    <td align="right"><b><i>118995.99</i></b></td>
-    <td align="right"><b><i>5999.8</i></b></td>
-    <td align="right"><b><i>112996.19</i></b></td>
-    <td align="justify"><b><i>Grand Total</i></b></td>
+    <td>120382.37</td>
+    <td>1386.38</td>
+    <td>118995.99</td>
+    <td>5999.8</td>
+    <td>112996.19</td>
+    <td>Grand Total</td>
   </tr>
 </tbody>
 </table>
