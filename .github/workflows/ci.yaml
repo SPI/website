@@ -1,0 +1,24 @@
+on:
+  - push
+  - pull_request
+jobs:
+  test:
+    name: Web site
+    strategy:
+      fail-fast: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
+      - run: ./bin/build-site . $(mktemp -d)
+  docs:
+    name: Annual reports
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: corporate/annual-reports
+    steps:
+      - uses: actions/checkout@v2
+      - run: sudo apt install texlive-latex-base texlive-latex-extra texlive-fonts-recommended
+      - run: rm *.pdf
+      - run: make all
