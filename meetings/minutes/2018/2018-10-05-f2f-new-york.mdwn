@@ -77,7 +77,7 @@ __Registered guests present__
     * Tim Potter to start generating monthly per-project data
     * Also to document process for monthly/weekly scraping and reconciliation
     * And update access-helper config (PayPal passwords encoded with access)
-    
+
 #### 11:15am Governance discussion
 
 * Martin Michlmayr pointed out that we are still making more promises
@@ -121,7 +121,7 @@ __Registered guests present__
 
 * Martin Zobel-Helas
   * Lots of work to run donated hardware
-  * Keeping all the mail, VMs, etc, working and up to date  
+  * Keeping all the mail, VMs, etc, working and up to date
   * Should think about having a commercial service to take care of
     things, patches, etc
   * Agree w/ Martin Michlmayr that when it comes to personal data, donations,
@@ -228,7 +228,7 @@ __Registered guests present__
   * What to do with expense receipts not in a language we can read?
   * Don't want to give board or projects too much extra work
   * Need to consider having to be audited at a later date
-  
+
 * Accounting practices
   * Insiders shouldn't reimburse themselves
   * We don't track the workflow of reimbursements
@@ -247,7 +247,7 @@ __Registered guests present__
 * Purpose of Code of Conduct
   * Reduce liability and exposure for SPI
   * Pursue charitable mission of SPI
-  
+
 * Agreed that SPI should have its own Code of Conduct for internal use
 
 * Will contact Sage Sharp and Val Aurora for possible code of conduct
@@ -273,7 +273,7 @@ __Registered guests present__
 * We are likely not liable for what projects do on their own
   * If we interfere enough to be construed as running the project then
     maybe yes, but if we still stay hands off that is better e.g Privoxy link
-  
+
 * Still need to figure out what to do with leftover assets for
   uncooperative/unresponsive projects
 
@@ -288,19 +288,19 @@ __Registered guests present__
 
   * For all reimbursement requests for expenses incurred on or before
     2018-OCT-31, submit by 2019-MAR-31
- 
+
   * For reimbursement requests for expenses incurred on or after
     2018-NOV-01, within 90 days of the expense (or the last expense of
     a trip (to accommodate situations where travel and accommodation
     is booked well in advance of the actual trip))
- 
+
   * Goal for reimbursement within 30 days, aim for 14 days 95% of the time.
-  
+
   * Adjustments to process
     * Don't hand-fill form -- much easier to copy&paste instead of transcribing data by hand
     * online form has been updated
     * Some extra requirements for sending money to Taiwan, China or Brazil is required
-    
+
 #### 11:36am Move to accrual-based accounting
 
 * It has been recommended we engage a professional bookkeeper
@@ -320,7 +320,7 @@ __Registered guests present__
      accounting solutions that cater to every nonprofit, regardless of
      size.  NPCC members receive one month of bookkeeping and
      accounting services for free and 10% off our 990 preparation
-     services. To learn more visit www.jitasagroup.com."  
+     services. To learn more visit www.jitasagroup.com."
 
 * Conservancy has scripts they use with ledger (contributed to ledger
   upstream by Bradley) to export spreadsheets for auditors. They do
@@ -331,12 +331,12 @@ __Registered guests present__
 * Need to be less reactive and more like a traditional board
   * What is our mission?
   * What are we trying to achieve?
-  
+
 * Hire some people to do the volunteer work that's being handled by the board now
   * Accounting
   * Legal
   * Admin
-  
+
 * Permanent office manager/executive director/fundraiser?
   * only part time?
 
@@ -405,7 +405,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * What financial data do projects want?
   * One survey for project liaisons, another for members
 
-#### 1:10pm Fundraising 
+#### 1:10pm Fundraising
 
 * Discussion about the threshold for considering a project's share of
   SPI income insufficient for the amount of effort and cost expended
@@ -413,7 +413,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
 * Professional fundraiser could help projects raise money
   * Help with applications and expertise
-  
+
 * Direct funding of SPI
   * We can fundraise for donations to the SPI general fund, instead of
     fundraising for projects and only receiving 5%
@@ -429,7 +429,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * 1/5/10 year goals
     * Largely things we have already talked about above
     * Possibly 5-10 year goal of bringing in other 501(3)c organizations, projects who have left SPI
-    
+
 #### 1:40 Brand identity/logo
 
 * Agreed that we need a bit more formality behind a refresh of our brand identity
@@ -439,7 +439,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
   * Doesn't have to be a heavyweight super-expensive thing
   * Need to come up with some details on what we want re principles/ideas for a logo
   * https://opensourcedesign.net/ a good place for requesting work
-  
+
 * How to assess someone to partner with
 
 * RFP process needed, Luca Filipozzi suggested to be responsible
@@ -461,14 +461,14 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
     and management options, prior art from Wikimedia's RT->Phabricator,
     migration, etc.
 
-* [Luca Filipozzi] Four threads   
+* [Luca Filipozzi] Four threads
     * Better action item tracking  (can happen via RT with different usage)
     * Desire for knowledge base (RT has no such thing)
     * Public transparency (can happen selectively if we decide on the
       necessary visibility criteria, can break privacy expectations
       and be tricky & inelegant)
     * Tech requirements based on the above
-    
+
 * Lots of experience in the board with successfully using RT for very similar usage
 
 * [Stephen Frost] effort of setup and maintaining tool must be less than the benefit we get from it
@@ -481,7 +481,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
 * Which tasks need to be done by various roles
   * Need policies or at least a description of roles
-  
+
 * Diffusion of responsibility problem
 
 * A paid admin person could be used to handle incoming communications
@@ -507,7 +507,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 * [Luca Filipozzi] Splitting up reimbursement data to avoid information disclosure to the project liaison
   * Metadata in one PDF
   * Supporting documentation in another PDF (encrypted)
-  
+
 * Requires some features that might not be present in [modern] RT
 
 * There are a few people who don't reveal their real names except to Schultheiss and Zobel-Helas
@@ -529,7 +529,7 @@ Motion passed with a vote of 8 yes, 0 no, 0 abstain and 2 missing.
 
 * [Luca Filipozzi] Possible to put together a task list for a Sabrina-level person, but not a ED person
 * [Martin Michlmayr] SPI will remain a hobby without paid person
-* [Luca Filipozzi] Do we want an ED? An ED will inform how the board operates in the future 
+* [Luca Filipozzi] Do we want an ED? An ED will inform how the board operates in the future
 * [Luca Filipozzi] are we committed to an ED? or still want to go down the ED path
 * [Martin Michlmayr] General manager role different from ED. perhaps we need a GM instead of ED?
 * [Martin Michlmayr] Need a day-to-day operations manager to assign tasks to other paid workers
