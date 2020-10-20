@@ -245,6 +245,8 @@ fieldset {
 
 }
 
+/* tables */
+
 table {
 	border-collapse: collapse;
 }
@@ -258,6 +260,13 @@ th {
 	background: gray;
 	color: white;
 	text-align: center;
+}
+
+/* project table */
+
+.projects td {
+	border: none;
+	border-spacing: 10px;
 }
 
 /* finance tables */
