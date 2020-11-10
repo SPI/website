@@ -1,0 +1,176 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-11-09/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < lamby> Chris Lamb
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < tpot> Tim Potter
+20:01 < schultmc> fsf: ping
+20:01 < schultmc> Snow-Man: ping
+20:01 < schultmc> luca: ping
+20:01 < schultmc> zobel: ping
+20:01 < schultmc> zumbi: ping
+20:01 < schultmc> jconway: ping
+20:01 < Snow-Man> Stephen Frost
+20:01 < fsf> Forrest Fleming
+20:02 < zumbi> Héctor Orón Martínez
+20:02 < zumbi> (apologies for arriving late)
+20:02 < schultmc> that's quorum - we can move on
+20:03 < jconway> sorry: here now
+20:04 < schultmc> [item 3, President's Report]
+20:04 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:04 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+20:04 < schultmc> job working with our contractors and legal counsel.
+20:04 < schultmc> .
+20:04 < jconway> Joe Conway
+20:04 < schultmc> Merill Lynch's business department has requested physical signatures
+20:04 < schultmc> rather than the electronic signatures previously submitted. I hope to have
+20:04 < schultmc> the paperwork finalized early this week - it's mostly complete at this time.
+20:04 < schultmc> .
+20:04 < schultmc> Stephen, do you have anything you would like to add?</done>
+20:04 < Snow-Man> I can say that we're >< this close to having the members site back up and running
+20:04  -!- danvet_ <~Daniel@2a02:168:57f4:0:efd0:b9e5:5ae6:c2fa> has quit (Ping timeout: 480 seconds)
+20:05 < tpot> awesome!
+20:05 < Snow-Man> We were able to put up a beta site, get that tested and commented on from folks who are familiar with it, and now we just need to deploy the prod site
+20:05 < Snow-Man> (it's all been automated, pretty much, with ansible)
+20:05 < Snow-Man> We also had to spend some time working to get RT back to a working state, but I believe it is now
+20:06 < Snow-Man> if you've had trouble using our RT system of late, please give it a try now
+20:06 < lamby> Nice.
+20:06 < Snow-Man> We will be working on migrating RT soon, probably even next (though there's some question about possibly moving other services off of the system where RT is hosted now, to allow RT to continue to function a bit longer where it is, as it's a very complicated thing to move)
+20:07 < Snow-Man> I had followed-up with some questions around getting ledger access to those asking for it but hadn't heard back
+20:07 < Snow-Man> but that might have been due to RT- if so, my apologies about that.
+20:07 < Snow-Man> I'll follow up again.
+20:07 < Snow-Man> Think that's all I have- happy to answer any questions.
+20:08 < Snow-Man> We did get a recent ask regarding legal counsel- I'll be responding to that soon too.
+20:08 < Snow-Man> .
+20:09 < schultmc> [item 4, Treasurer's Report]
+20:09 < schultmc> zobel isn't currently here.
+20:09 < schultmc> .
+20:09 < schultmc> The audit of SPI's 2019 financial statements was completed prior to the July
+20:09 < schultmc> Annual General Meeting. The auditing firm is also contracted to complete SPI's
+20:09 < schultmc> 990 (federal tax filing) and CHAR500 (New York state filing). They have completed
+20:09 < schultmc> the filings and have sent them to SPI for review before submission.
+20:09 < schultmc> Martin Michlmayr and I are reviewing the filings and will submit them to the IRS
+20:09 < schultmc> .
+20:09 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:09 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:09 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:09 < schultmc> help is always welcome.
+20:09 < schultmc> .
+20:10 < schultmc> any questions?
+20:10 < fsf> none from me
+20:10 < zumbi> none here
+20:10 < jconway> none here
+20:10 < schultmc> [item 5, Secretary's report]
+20:10 < schultmc> tpot?
+20:11 < tpot> The website has been updated to remove Jenkins and add ns-3 as an associated project. There are still a few tweaks to be done to the ns-3 page but I have the information for that in hand.
+20:12 < Snow-Man> schultmc: can you handle the documents asked for wrt Jenkins..?
+20:12 < tpot> Have made some good progress with X.org towards transferring some domain names across to Gandi. Hopefully the process will be streamlined as more domains are moved across.
+20:12 < tpot> .
+20:12 < schultmc> Snow-Man: yes - I'll take care of that
+20:12 < Snow-Man> great, thanks.
+20:12 < Snow-Man> tpot: awesome, thanks.
+20:14 < schultmc> [item 6, Outstanding minutes]
+20:14 < schultmc> The minutes for the 2020-10-12 require approval.
+20:14 < schultmc> .
+20:14 < schultmc> They can be found at
+20:14 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-10-12/
+20:14 < schultmc> .
+20:14 < tpot> I will give people a minute or so to look over them if they haven't already.
+20:15 < tpot> Voting started, 6 people (schultmc,tpot,snow-man,lamby,zumbi,jconway) allowed to vote on Accept minutes for meeting Monday 12th October 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:16 < schultmc> !vote yes
+20:16 < lamby> !vote yes
+20:16 < zumbi> !vote abstain
+20:16 < tpot> !vote yes
+20:16 < jconway> !vote yes
+20:16 < Snow-Man> !vote yes
+20:16 < tpot> Current voting results for "Accept minutes for meeting Monday 12th October 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:16 < tpot> Current voting results for "Accept minutes for meeting Monday 12th October 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:16 < fsf> !vote yes
+20:16 < tpot> Thanks everyone
+20:16 < tpot> Voting for "Accept minutes for meeting Monday 12th October 2020" closed.
+20:17 < fsf> I note that I'm not listed as an "allowed user" in the vote message
+20:17 < schultmc> [item 7, Items up for discussion]
+20:17 < schultmc> Nothing on agenda
+20:17 < schultmc> .
+20:17 < schultmc> [item 8, Any other business]
+20:17 < schultmc> Anything to discuss?
+20:17 < tpot> oh whoops - my fault
+20:17 < tpot> I will ensure your vote is represented in the results in the minutes.
+20:18 < fsf> Thanks tpot!
+20:18 < zumbi> I got a topic or two up for discussion
+20:18 < schultmc> zumbi: go ahead, please
+20:18 < zumbi> Actually, do we plan to do online F2F? If not, do we want to do a board rt queue sprint someday?
+20:19 < tpot> Yes I was going to mention that after you were done!
+20:19 < schultmc> I think an online F2F would be very beneficial
+20:19 < tpot> We have an opportunity to spread things out a bit and not ecessarily run it back to back over a couple of days.
+20:19 < Snow-Man> f2f would be good, +1 to that
+20:19 < schultmc> we've also done a f2f in February in the past if we're unable to get anything scheduled before the end of the year
+20:19 < tpot> If that's what people want of course.
+20:20 < tpot> Can I get a general indication of which days/times people would be interested in?
+20:20 < schultmc> a dedicated block of time has been helpful in the past
+20:20 < jconway> how much time are we talking about?
+20:20 < tpot> In the past we have done two full days in-person, with one or two part-time days for sprints of various kinds
+20:21 < jconway> main thing I would need is enough advance notice to clear my calendar at $work
+20:21 < Snow-Man> given timezones and such, 'whole days' is unlikely to really make sense anyway though ...
+20:21 < Snow-Man> I'd suggest we look at figuring out a few days where we can do a 4 hour block
+20:21 < tpot> But if we don't have to travel we can be more flexible and have a few evening sessions over Zoom or something like that.
+20:22 < fsf> I'm in the same boat as jconway: I can make many things work and just need notice to clear the work calendar
+20:22 < tpot> OK I will put together a selection of morning/afternoon/evening blocks in a survey and sent out.
+20:22 < tpot> Any preference for days vs weekends?
+20:22 < schultmc> +1
+20:22 < zumbi> weekend would be best for me
+20:23 < schultmc> I can make any day work depending on the timing
+20:23 < jconway> weekend if fine by me, or afternoon eastern US time
+20:23 < tpot> Great! Any other comments please send via board@ or secretary@
+20:23 < Snow-Man> afternoons US/eastern typically make more sense to me
+20:23 < jconway> I can do morning US time too just generally more challenging
+20:23 < schultmc> at least 3 of us are US Eastern
+20:23 < Snow-Man> I could also do some weekends- depends which ones tho
+20:24 < tpot> back to you zumbi
+20:24 < schultmc> zumbi: did you have a second point to bring up? seems like we will have further discussion on the online f2f outside of the meeting
+20:24 < zumbi> We could do a weekday and a weekend day
+20:25 < lamby> That's not a bad idea.
+20:25 < zumbi> so I am done with questions, that was it
+20:25 < schultmc> anyone else have something to discuss?
+20:25 < jesusalva> Ehm, can I ask a question about 2020-09-14 minutes?
+20:25 < Snow-Man> (followed up on the 2 items I mentioned above, just fyi)
+20:26 < schultmc> tpot: jesusalva has a question on the 2020-09-14 minutes
+20:26 < tpot> go ahead
+20:26 < zumbi> the 2 topics were: f2f and clean board queue
+20:26 < zumbi> .
+20:26 < jesusalva> Sascha Lucas (sasluc) from the Ganeti project is mentioned on the minutes but registered guests list is blank
+20:26 < jesusalva> Wanted to know if it is on purpose or just human error
+20:26 < tpot> Did I leave out you as a guest for that meeting?
+20:26 < jesusalva> (Yes)
+20:27 < jesusalva> (But I'm not important :p)
+20:27 < tpot> no worries - I'll update this
+20:27 < tpot> my apologies for leaving you both off the official minutes
+20:27 < zumbi> I do not agree, as long as you pay attention to detail, that's important :)
+20:28 < tpot> I blame my poor note taking for the error and have a new system now.
+20:30 < schultmc> any other business to bring up?
+20:30 < Snow-Man> I would just ask folks to please pay attention to the board@ emails
+20:30 < Snow-Man> and respond. :)
+20:30 < lamby> None here.
+20:30 < jconway> none here
+20:30 < schultmc> [item 9, Next board meeting]
+20:30 < schultmc> The next board meeting is scheduled for: December 14th, 2020 at 20:00 UTC
+20:30 < schultmc> Any objections?
+20:31 < zumbi> none here
+20:31 < lamby> Although... are we having deliverability issues to board@? I think I'm getting everything, but, obviously I perhaps wouldn't know.
+20:31 < fsf> No objections here
+20:31 < Snow-Man> wfm
+20:31  -!- tpot changed the topic of #spi to: Next SPI board meeting is on December 14th, 2020, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2020/2020-12-14/
+20:31 < jconway> wfm
+20:31 < Snow-Man> lamby: I just sent a few in the past 15m, lmk if you didn't get them.
+20:31 < schultmc> board@ is mailman - board members can check the archive to make sure they're receiving messages
+20:31 < lamby> I've got them, thanks. Maybe it's third-parties, so I will cross-reference your replies to their originals and confirm they are there.
+20:31 < lamby> schultmc: Ah, even more useful. I will do this.
+20:31 < Snow-Man> lamby: ok.
+20:32 < schultmc> *GAVEL*
