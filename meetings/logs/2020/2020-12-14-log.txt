@@ -1,0 +1,123 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-12-14/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < fsf> Forrest Fleming
+20:00 < tpot> Tim Potter
+20:00 < schultmc> .
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> Regrets have been received from lamby. tpot, do we have any other regrets?
+20:00 < schultmc> .
+20:00 < jconway> Joe Conway
+20:00 < schultmc> Michael Schultheiss
+20:00 < tpot> None other than lamby.
+20:00 < schultmc> Snow-Man: ping
+20:00 < schultmc> luca: ping
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> zobel: ping
+20:01 < schultmc> that's quorum - we can move on
+20:01 < schultmc> *GAVEL*
+20:01 < schultmc> [item 1, Opening]
+20:01 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:01 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:01 < schultmc> https://www.spi-inc.org/meetings/agendas/2020/2020-12-14/
+20:01 < schultmc> [item 2, Roll Call]
+20:01 < schultmc> Directors, please state your name
+20:01 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < schultmc> .
+20:01 < schultmc> Regrets have been received from lamby. tpot, do we have any other regrets?
+20:01 < schultmc> sorry, cut and paste error
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:01 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+20:01 < schultmc> job working with our contractors and legal counsel.
+20:02 < schultmc> .
+20:02 < schultmc> The paperwork for Merrill Lynch has been submitted, approved and processed.
+20:02 < schultmc> Working on finalizing online access.
+20:02 < schultmc> .
+20:02 < schultmc> Stephen, do you have anything you would like to add?</done>
+20:02 < Snow-Man> yes
+20:02 < Snow-Man> Apologies for the email troubles of late but thanks to Michael and our IT contractor, those should be resolved now and things should be more-or-less back to the state of working that they were previously.
+20:03 < Snow-Man> We will be working to build a new RT system next.
+20:03 < Snow-Man> The membership system should be fully operational now- any questions or issues with the new system, please let us know.
+20:03 < tpot> hooray!
+20:03 < zumbi> congrats!
+20:03 < fsf> Awesome!
+20:04 < jconway> \o/
+20:04 < Snow-Man> Should anyone have time that they'd like to spend working to improve the membership code base and get it updated, we'd certainly appreciate it. :)
+20:04 < Snow-Man> We won't be focusing on that for now though, we need to get RT updated.
+20:04 < Snow-Man> That's going to be a big lift but it's really the life blood of SPI and the recent issues with the existing system show that we have got to get that moved.
+20:05 < Snow-Man> Any questions or concerns, please feel free to reach out and chat with me.
+20:05 < Snow-Man> Regarding our counsel-
+20:05 < Snow-Man> We are continuing to work with our existing counsel on the privacy policy, I'll be following up today to ask about that.  I provided a response to a questionaire previously.
+20:06 < zumbi> Excellent!
+20:06 < Snow-Man> We have been introduced to a trademark counsel thanks to our current counsel and will likely engage with the trademark counsel to be able to ask questions and potentially have trademarks handled as a matter of course.
+20:07 < Snow-Man> This is an action that the board generally agreed upon via email, but I'll be providing specifics to the board once I have them.
+20:07 < tpot> Also hooray. Hopefully this will make trademark tickets much faster to close out.
+20:07 < Snow-Man> (prior to signing the actual engagement letter, which would be the next step assuming the board agrees to move forward)
+20:08 < Snow-Man> .
+20:08 < schultmc> Snow-Man: I met with Arch Linux today to fix a billing issue for their hosting. They were wondering if you had an update on their legal request.
+20:08 < Snow-Man> schultmc: that's the privacy policy item mentioned above.
+20:08 < schultmc> ok
+20:08 < schultmc> thanks
+20:08 < schultmc> [item 4, Treasurer's Report]
+20:08 < schultmc> zobel isn't currently here.
+20:08 < schultmc> .
+20:08 < schultmc> SPI's CHAR500 (New York State) filing has been submitted and accepted. SPI's
+20:08 < schultmc> We are verifying with the CPA that SPI's 2019 Form 990 (Federal tax return)
+20:08 < schultmc> has been submitted.
+20:09 < schultmc> .
+20:09 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:09 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:09 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:09 < schultmc> help is always welcome.
+20:09 < schultmc> .
+20:09 < schultmc> as of this afternoon there's a single ticket in the treasurer-ap queue
+20:10 < schultmc> [item 5, Secretary's report]
+20:10 < schultmc> tpot?
+20:10 < tpot> I have been working on configuring our Gandi account to accept incomoing domin transfers.
+20:11 < tpot> Xorg and freedesktop.org are the first ones on the starting block.
+20:11 < tpot> Subsequent projects should be much faster and smoother after the first one or two so I think this is looking good.
+20:11 < tpot> .
+20:11 < schultmc> [item 6, Outstanding minutes]
+20:11 < schultmc> The minutes for the 2020-11-09 require approval.
+20:11 < schultmc> tpot: do we have minutes to approve today?
+20:11 < tpot> Sorry I haven't prepared the minutes for the lst meeting in Novemeber but will do so for the next one.
+20:12 < schultmc> ok
+20:12 < schultmc> [item 7, Items up for discussion]
+20:12 < schultmc> Nothing on agenda
+20:12 < schultmc> .
+20:12 < schultmc> [item 8, Any other business]
+20:12 < schultmc> Anything to discuss?
+20:12 < jesusalva_> * I already tried to register at member website with 3 emails, no success on neither
+20:13 < Snow-Man> jesusalva_: when?
+20:13 < jesusalva_> Lost track of dates, all of them are @themanaworld.org though
+20:13 < Snow-Man> it wasn't working until late last week
+20:13 < Snow-Man> if it was before then, then please try it again
+20:14 < Snow-Man> tpot: when doing this- how is actual DNS being handled?
+20:14 < jesusalva_> Says email already registered, should I use password reset instead?
+20:14 < Snow-Man> jesusalva_: yes
+20:15 < tpot> What do you mean by actual DNS? There are two scenarios. 1) The project sets their own DNS servers to something they host or a third party hosting provider. 2) Keep DNS hosting at Gandi and add individual records by hand using the Gandi web interface.
+20:15 < Snow-Man> think we can take the discussion about the members website off-line and not have it as part of the board meeting
+20:15 < Snow-Man> jesusalva_: please reach out to me at sfrost@snowman.net if it continues to not work and I'll try and figure it out
+20:15 < Snow-Man> or ping me privately here.
+20:16 < Snow-Man> tpot: Those are both great options, as long as 'third party' doesn't mean "SPI run/managed DNS servers"
+20:17 < tpot> Heh. Yes that's what we are trying to avoid. At this stage it's easier and cheaper to have a third party hosting service handle DNS, although a project can manage their own DNS if they wish.
+20:17 < Snow-Man> think we'd like to work towards getting away from that, which I believe we've discussed before, just wanted to make sure that was the direction we're continuing to go in. :)
+20:17 < Snow-Man> sure.
+20:17 < tpot> I'm kind of done editing zone files by hand (-:
+20:17 < Snow-Man> haha, yeah.
+20:17 < schultmc> anything else to discuss?
+20:18 < schultmc> [item 9, Next board meeting]
+20:18 < schultmc> The next board meeting is scheduled for: January 11, 2021 at 20:00 UTC
+20:18 < schultmc> Any objections?
+20:19 < zumbi> None here
+20:19 < jconway> none here
+20:19 < Snow-Man> wfm.
+20:19 < schultmc> *GAVEL*
