@@ -147,7 +147,7 @@ __Registered guests present__
         * 1: use Expensify or alternative online commercial solution
         * 2: use an open source BPM solution such as BonitaSoft
         * 3: use a form and RT queues/workflow
-        * 4: wait for Software Conservancy's /reimbursorator/, to which we've already contributed USD 10000
+        * 4: wait for Software Conservancy's /reimbursinator/, to which we've already contributed USD 10000
     * **DECISION:** It is decided to proceed with option 3 subject to infrastructure concerns (see OBSERVATIONS, below) and evaluate switching to option 4 when it's available.  While option 1 is appealing, the Board felt that it does not match SPI's principles.  Option 2 is of interest but requires more investigation and a longer implementation timeline (likely).
     * ACTION ITEM: Valerie Young (VY), Michael Schultheiss (MS), Luca Filipozzi (LF), Dimitri Ledkov (DL), and Martin Zobel-Helas (MZ) to design, develop, deploy and operate a new reimbursement mechanism:
         * functional aspects
@@ -172,7 +172,7 @@ __Registered guests present__
                     * obtaining approval from project liaison
                     * re-obtaining data (esp. banking details)
                     * executing the payment
-                    * could an expensing system address the above:
+                    * could an expense system address the above:
             * 10% on book keeping
                 * importing data
             * tagging data to the appropriate category
