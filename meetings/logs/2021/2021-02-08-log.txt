@@ -1,0 +1,164 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2021/2021-02-08/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < Snow-Man> Stephen Frost
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < jconway> Joe Conway
+20:00 < tpot> Tim Potter
+20:00 < schultmc> tpot, do we have any regrets?
+20:00 < schultmc> .
+20:00 < tpot> No regrest.
+20:00 < schultmc> Michael Schultheiss
+20:00  * lamby -> Chris Lamb
+20:00 < tpot> Or regrets even.
+20:01  * schultmc reviews the bylaws
+20:01 < schultmc> given a recent resignation, I wonder if quorum is changed
+20:02 < schultmc> 2/3
+20:02 < schultmc> 5.333333 and imagine we can't round down so quorum is likely still 6
+20:03 < fsf> Forrest Fleming (sorry for delay)
+20:03 < schultmc> and that's quorum :)
+20:03 < Snow-Man> \o/
+20:04 < schultmc> [item 3, President's Report]
+20:04 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:04 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+20:04 < schultmc> job working with our contractors and legal counsel.
+20:04 < schultmc> .
+20:04 < schultmc> Luca Fillipozi has submitted his resignation from the SPI board. I'd
+20:04 < schultmc> like to publicly thank Luca for his many years of service to SPI.
+20:04 < schultmc> .
+20:04 < schultmc> I've worked with our pro bono counsel to finalize the transfer of Jenkins
+20:04 < schultmc> trademarks to the Linux Foundation Charity per Jenkins' request.
+20:04 < schultmc> .
+20:04 < schultmc> I worked with Tim Potter to update SPI's Apple Developer account for 0AD.
+20:04 < schultmc> As I understand it, the needed tax form (W-9) has been submitted.
+20:04 < schultmc> .
+20:04 < schultmc> Stephen, do you have anything you would like to add?</done>
+20:05 < Snow-Man> Yes, happy to add my report-
+20:05 < Snow-Man> Continued to work with our IT contractor to move forward the efforts to modernize SPI's infrastructure,
+20:05 < Snow-Man> May make sense to consider moving to GSuite for SPI to segregate personal emails, et al, from SPI related in the event that there is any litigation which would involve discovery.
+20:05 < Snow-Man> Arranged a meeting between counsel and a project to discuss GDPR related policies such as privacy and data sharing policies.  We are hoping to come up with template that could be used by any SPI project.
+20:05 < Snow-Man> Anyone interested in assisting with SPI's IT efforts would be welcome to chat with me.  We could use another IT contractor or volunteer.
+20:05 < Snow-Man> .
+20:06 < schultmc> Thank you - looking forward to continued progress on our IT efforts
+20:06 < schultmc> [item 4, Treasurer's Report]
+20:06 < schultmc> zobel isn't currently here.
+20:06 < schultmc> .
+20:06 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:06 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:06 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:06 < schultmc> help is always welcome.
+20:06 < schultmc> .
+20:06 < schultmc> [item 5, Secretary's report]
+20:06 < schultmc> tpot?
+20:08 < tpot> Thanks everyone for filling out the availability poll for the vF2F meeting. i will schedule  something towards the end of March as that appears to be the best time for everyone.
+20:08 < tpot> .
+20:08 < Snow-Man> Looking forward to a vFSF
+20:08 < schultmc> +1
+20:08 < fsf> +1
+20:08 < lamby> Nice, looking forward to it.
+20:08 < schultmc> [item 6, Outstanding minutes]
+20:08 < jconway> +1
+20:08 < tpot> With Luca's resignation we are one board member short. I will reach out to a few candidates and make an announcement on the mailing lists. We're also close to having another election.
+20:08 < tpot> .
+20:08 < tpot> EOF
+20:09 < schultmc> tpot: I see 2 sets of minutes in the agenda - do we have 2021-01-11 minutes to vote on as well?
+20:09 < tpot> Please take some time to review the minutes on the web site.
+20:09 < tpot> There should be a third if you reload?
+20:09 < schultmc> nevermind - I see them now
+20:09 < schultmc> The minutes for the 2020-11-09, 2020-12-14, and 2021-01-11 require approval.
+20:09 < schultmc> .
+20:09 < schultmc> They can be found at
+20:09 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-11-09/ ,
+20:09 < schultmc> https://www.spi-inc.org/meetings/minutes/2020/2020-12-14/ and
+20:09 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-01-11/
+20:09 < schultmc> .
+20:10 < lamby> I'll need to abstain from one of those (Dec)
+20:11 < tpot> Voting started, 6 people (schultmc,snow-man,tpot,jconway,lamby,fsf) allowed to vote on Accept minutes for meeting Monday 9th November 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:11 < schultmc> !vote yes
+20:11 < lamby> !vote yes
+20:11 < tpot> !vote yes
+20:11 < jconway> !vote yes
+20:11 < Snow-Man> !vote yes
+20:11 < fsf> !vote yes
+20:11 < tpot> lamby; i thought you were abstaining?
+20:11 < schultmc> tpot: for december
+20:11 < tpot> oops - sorry can't month
+20:12 < lamby> Months are hard!
+20:12 < tpot> yes
+20:12 < tpot> Current voting results for "Accept minutes for meeting Monday 9th November 2020": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:12 < tpot> Voting for "Accept minutes for meeting Monday 9th November 2020" closed.
+20:12 < tpot> Voting started, 6 people (schultmc,snow-man,tpot,jconway,lamby,fsf) allowed to vote on Accept minutes for meeting Monday 14th December 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < fsf> especially in 202[01] ;)
+20:12 < schultmc> !vote yes
+20:12 < tpot> december seems like such a long time ago
+20:12 < fsf> !vote yes
+20:12 < jconway> !vote yes
+20:12 < tpot> !vote yes
+20:12 < lamby> !vote abstain
+20:12 < Snow-Man> !vote yes
+20:12 < tpot> Current voting results for "Accept minutes for meeting Monday 14th December 2020": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:12 < tpot> Voting for "Accept minutes for meeting Monday 14th December 2020" closed.
+20:12 < tpot> Voting started, 6 people (schultmc,snow-man,tpot,jconway,lamby,fsf) allowed to vote on Accept minutes for meeting Monday 11th January 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < lamby> !vote yes
+20:13 < jconway> !vote yes
+20:13 < lamby> (I mean, there's also something funny about "voting" to abstain, but I'm not going to quibble)
+20:13 < fsf> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < tpot> !vote yes
+20:13 < Snow-Man> !vote yes
+20:13 < tpot> Current voting results for "Accept minutes for meeting Monday 11th January 2021": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:13 < tpot> Voting for "Accept minutes for meeting Monday 11th January 2021" closed.
+20:13 < tpot> Thanks everyone!
+20:13 < schultmc> [item 7, Items up for discussion]
+20:13 < schultmc> Nothing on the agenda
+20:13 < Lyude> yes I have one (lemme finish typing it)
+20:14 < schultmc> There is at least one potential associated project that has reached out. Further discussion on list can be done and if there's consensus we can vote in March.
+20:15 < Lyude> Hi! I'm Secretary for the X.org foundation. I'm attending today because I'm trying to get a status update from SPI regarding collaborating to get access to ledger information
+20:15 < Snow-Man> Yes, there is an interested AP..  I don't have it written up though, tbh.
+20:15 < Snow-Man> If we could move it to an email vote, that would be great.
+20:15 < schultmc> +1
+20:16 < Lyude> The last update we got was on the 14th of january and we haven't heard anything since then, the treasurer ticket was #4380 btw
+20:16 < Snow-Man> wrt the X.org ask- given that it hasn't been progressed, I will take that on this month to figure out.
+20:16 < Snow-Man> I understand that there was concern about exactly what can be shared but I also agree that it should not take this long.
+20:17 < Snow-Man> Lyude: My apologies that it's not been sorted.
+20:17 < Snow-Man> I don't think there has been any proper progression since that January update.
+20:17 < Lyude> Snow-Man: no problem, thanks for volunteering to take this up btw. Do you have an email I should contact BTW, or should I just use the treasurer's mailing list?
+20:17  * schultmc has one additional item that should've been brought up during the Treasurer's report
+20:18 < Snow-Man> Lyude: Probably would help to include sfrost@spi-inc.org.  I'll generally see the other email's too, but I don't typically pay attention to the treasurer email since that's usually well managed.
+20:18 < Lyude> Snow-Man: sure thing - will keep that in mind
+20:18 < Snow-Man> Thank you.
+20:18 < Snow-Man> We will get it figured out
+20:19 -!- waldi [~waldi@shell.thinkmo.de] has quit [Quit: leaving]
+20:19 < schultmc> The CPA/Auditing firm SPI has utilized for the past two years reached out to schedule an initial call for starting the audit of SPI's 2021 financial statements. tbm and I have a meeting with them scheduled in mid-May 2021.
+20:19 < Snow-Man> schultmc: excellent.
+20:20 < schultmc> [item 8, Any other business]
+20:20 < schultmc> Anything to discuss?
+20:20 < Snow-Man> I will impore everyone- please pay attention to email and respond, so we can move forward on actions outlined above.
+20:20 -!- waldi [~waldi@shell.thinkmo.de] has joined #spi
+20:20 < schultmc> AIUI we already covered this in item 7 but if anyone else has anything to discuss, please speak up.
+20:20 < tpot> I would just like to thank luca for his assistance and leadership over the years as a board member. I'm sad to see him go.
+20:20 < Snow-Man> specifically: approving the new AP, and moving to GSuite for our primary email, to segregate it from our personal email.
+20:21 < Snow-Man> +1 on thanking luca.
+20:21 < schultmc> [item 9, Next board meeting]
+20:21 < schultmc> The next board meeting is scheduled for: March 8, 2021 at 20:00 UTC
+20:21 < schultmc> Any objections?
+20:21 < tpot> I believe we already have all of the Gsuite products available so moving mail should not be too dramatic a change.
+20:21 < tpot> +1 for that idea.
+20:22 < lamby> +1 re luca
+20:22 < schultmc> Works for me (Gsuite and meeting date/time)
+20:22 < lamby> Is Luca still on the board@ alias?
+20:23 < schultmc> Google Workspace to utilize their current technology
+20:23 < schultmc> likely yes - I'll work on updating it
+20:23 < Snow-Man> Yes, we already have gsuite, shouldn't be too much of an issue.
+20:23 < lamby> *nod*
+20:26 < schultmc> Any objections for the 2021-03 meeting?
+20:27 < jconway> none here
+20:27 < lamby> None. Can confirm availability
+20:27 < Snow-Man> I should be fine for that.
+20:30 < schultmc> *GAVEL*
