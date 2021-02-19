@@ -1,10 +1,15 @@
+[[!meta title="Treasurer's report for March 2020"]]
+[[!toc levels=4]]
+
+# Treasurer's report 2020-03-01 - 2020-04-01
 
 This is a *draft*.  Final treasurer reports for 2020 will be published in July 2021.
 
-= Monthly report 2020-03-01 - 2020-04-01 =
+## Software in Public Interest Inc
 
-== Overall SPI 2020-03-01 - 2020-04-01 ==
+### This month changes 2020-03-01 - 2020-04-01
 
+<pre>
          debit         credit          total
 --------------------------------------------
   41528.14 USD   83521.81 USD  -41993.67 USD  Assets
@@ -49,295 +54,11 @@ This is a *draft*.  Final treasurer reports for 2020 will be published in July 2
   71871.08 USD   49386.29 USD   22484.79 USD  Liabilities:Payable
 --------------------------------------------
  149766.88 USD  149766.88 USD              0
+</pre>
 
-== Per project summaries 2020-03-01 - 2020-04-01 ==
+### Year to date, ending 2020-04-01
 
-Per project donations have a debit amount specified, which is the SPI
-5% contribution from the project towards the SPI general fund. Thus
-total donation amount is net of this contribution.
-
-Unlike ledger defaults, totals in the per-project summaries are
-inverted. Meaning that expenses are negative and equity is
-positive. This way projects that have funds, i.e. are in credit, are
-shown as a positive amount.
-
-=== 0ad ===
-
-         debit         credit          total
---------------------------------------------
-     79.57 USD              0     -79.57 USD  Expenses
-     22.92 USD              0     -22.92 USD    Bank-Fees
-     56.65 USD              0     -56.65 USD    IT:Hosting
-     16.33 USD     326.44 USD     310.11 USD  Income:Donations
---------------------------------------------
-     95.90 USD     326.44 USD     230.54 USD
-
-=== archlinux ===
-
-         debit         credit          total
---------------------------------------------
-    396.53 USD              0    -396.53 USD  Expenses
-     83.31 USD              0     -83.31 USD    Bank-Fees
-     17.82 USD              0     -17.82 USD    Currency-Exchange
-    295.40 USD              0    -295.40 USD    IT:Hosting
-     79.39 USD    1592.81 USD    1513.42 USD  Income
-             0       5.29 USD       5.29 USD    Currency-Exchange
-     79.39 USD    1587.52 USD    1508.13 USD    Donations
---------------------------------------------
-    475.92 USD    1592.81 USD    1116.89 USD
-
-=== ardupilot ===
-
-         debit         credit          total
---------------------------------------------
-    565.88 USD              0    -565.88 USD  Expenses
-    107.18 USD              0    -107.18 USD    Bank-Fees
-    458.70 USD              0    -458.70 USD    IT:Hosting
-    105.25 USD    2161.08 USD    2055.83 USD  Income
-             0      56.08 USD      56.08 USD    Currency-Exchange
-    105.25 USD    1905.00 USD    1799.75 USD    Donations
-             0     200.00 USD     200.00 USD    Sponsorship
---------------------------------------------
-    671.13 USD    2161.08 USD    1489.95 USD
-
-=== chakra ===
-
-         debit         credit          total
---------------------------------------------
-      0.48 USD              0      -0.48 USD  Expenses:IT:Hosting
-
-=== debconf19 ===
-
-         debit         credit          total
---------------------------------------------
-   1265.00 USD              0   -1265.00 USD  Expenses:Travel:Transportation
-
-=== debconf20 ===
-
-         debit         credit          total
---------------------------------------------
-    250.00 USD    5000.00 USD    4750.00 USD  Income
-    250.00 USD    4810.00 USD    4560.00 USD    Donations
-             0     190.00 USD     190.00 USD    Sponsorship
---------------------------------------------
-    250.00 USD    5000.00 USD    4750.00 USD
-
-=== debian ===
-
-         debit         credit          total
---------------------------------------------
-   1074.88 USD              0   -1074.88 USD  Expenses
-    137.99 USD              0    -137.99 USD    Bank-Fees
-     88.23 USD              0     -88.23 USD    Conferences:Dining
-      8.69 USD              0      -8.69 USD    Currency-Exchange
-    332.12 USD              0    -332.12 USD    IT:Hardware
-    507.85 USD              0    -507.85 USD    Travel:Transportation
-    106.52 USD    2178.18 USD    2071.66 USD  Income
-             0      47.99 USD      47.99 USD    Currency-Exchange
-    106.52 USD    2130.19 USD    2023.67 USD    Donations
---------------------------------------------
-   1181.40 USD    2178.18 USD     996.78 USD
-
-=== ffmpeg ===
-
-         debit         credit          total
---------------------------------------------
-     21.26 USD              0     -21.26 USD  Expenses:Bank-Fees
-     11.15 USD     231.89 USD     220.74 USD  Income
-             0       9.02 USD       9.02 USD    Currency-Exchange
-     11.15 USD     222.87 USD     211.72 USD    Donations
---------------------------------------------
-     32.41 USD     231.89 USD     199.48 USD
-
-=== jenkins ===
-
-         debit         credit          total
---------------------------------------------
-    102.80 USD              0    -102.80 USD  Expenses
-     24.47 USD              0     -24.47 USD    Bank-Fees
-     78.33 USD              0     -78.33 USD    Currency-Exchange
---------------------------------------------
-    102.80 USD              0    -102.80 USD
-
-=== libreoffice ===
-
-         debit         credit          total
---------------------------------------------
-   4101.46 USD              0   -4101.46 USD  Expenses
-     83.37 USD              0     -83.37 USD    Bank-Fees
-    310.45 USD              0    -310.45 USD    Conferences
-    204.12 USD              0    -204.12 USD      Dining
-    106.33 USD              0    -106.33 USD      Materials
-     66.77 USD              0     -66.77 USD    Currency-Exchange
-   3640.87 USD              0   -3640.87 USD    Travel
-    260.66 USD              0    -260.66 USD      Accommodation
-   3380.21 USD              0   -3380.21 USD      Transportation
-     11.95 USD     375.68 USD     363.73 USD  Income
-             0     136.81 USD     136.81 USD    Currency-Exchange
-     11.95 USD     238.87 USD     226.92 USD    Donations
---------------------------------------------
-   4113.41 USD     375.68 USD   -3737.73 USD
-
-=== mingw ===
-
-         debit         credit          total
---------------------------------------------
-      0.49 USD              0      -0.49 USD  Expenses:Bank-Fees
-      0.25 USD       5.00 USD       4.75 USD  Income:Donations
---------------------------------------------
-      0.74 USD       5.00 USD       4.26 USD
-
-=== ntpsec ===
-
-         debit         credit          total
---------------------------------------------
-      3.62 USD              0      -3.62 USD  Expenses:Bank-Fees
-      6.00 USD     120.00 USD     114.00 USD  Income:Donations
---------------------------------------------
-      9.62 USD     120.00 USD     110.38 USD
-
-=== openbioinformatics ===
-
-         debit         credit          total
---------------------------------------------
-   4211.70 USD              0   -4211.70 USD  Expenses
-     15.81 USD              0     -15.81 USD    Bank-Fees
-   4133.94 USD              0   -4133.94 USD    Conferences:Venue
-     61.95 USD              0     -61.95 USD    IT
-     15.76 USD              0     -15.76 USD      Domains
-     46.19 USD              0     -46.19 USD      Hosting
-             0      29.32 USD      29.32 USD  Income:Currency-Exchange
---------------------------------------------
-   4211.70 USD      29.32 USD   -4182.38 USD
-
-=== openembedded ===
-
-         debit         credit          total
---------------------------------------------
-      1.57 USD              0      -1.57 USD  Expenses:Bank-Fees
-      1.53 USD      30.59 USD      29.06 USD  Income:Donations
---------------------------------------------
-      3.10 USD      30.59 USD      27.49 USD
-
-=== opensaf ===
-
-         debit         credit          total
---------------------------------------------
-    425.00 USD              0    -425.00 USD  Expenses:Legal
-
-=== openvas ===
-
-         debit         credit          total
---------------------------------------------
-      0.10 USD              0      -0.10 USD  Expenses:Bank-Fees
-      0.10 USD       2.00 USD       1.90 USD  Income:Donations
---------------------------------------------
-      0.20 USD       2.00 USD       1.80 USD
-
-=== openvoting ===
-
-         debit         credit          total
---------------------------------------------
-      2.50 USD      50.00 USD      47.50 USD  Income:Donations
-
-=== openwrt ===
-
-         debit         credit          total
---------------------------------------------
-    130.67 USD              0    -130.67 USD  Expenses
-      5.67 USD              0      -5.67 USD    Bank-Fees
-    125.00 USD              0    -125.00 USD    Legal
-      5.85 USD     117.00 USD     111.15 USD  Income:Donations
---------------------------------------------
-    136.52 USD     117.00 USD     -19.52 USD
-
-=== openzfs ===
-
-         debit         credit          total
---------------------------------------------
-      0.78 USD              0      -0.78 USD  Expenses:Bank-Fees
-      0.40 USD       8.00 USD       7.60 USD  Income:Donations
---------------------------------------------
-      1.18 USD       8.00 USD       6.82 USD
-
-=== postgresql ===
-
-         debit         credit          total
---------------------------------------------
-     15.65 USD              0     -15.65 USD  Expenses:Bank-Fees
-     18.31 USD     366.20 USD     347.89 USD  Income:Donations
---------------------------------------------
-     33.96 USD     366.20 USD     332.24 USD
-
-=== smc ===
-
-         debit         credit          total
---------------------------------------------
-      0.41 USD              0      -0.41 USD  Expenses:Bank-Fees
-      0.25 USD       5.00 USD       4.75 USD  Income:Donations
---------------------------------------------
-      0.66 USD       5.00 USD       4.34 USD
-
-=== spi ===
-
-         debit         credit          total
---------------------------------------------
-  13768.30 USD       0.05 USD  -13768.25 USD  Expenses
-  11025.00 USD              0  -11025.00 USD    Accounting
-    141.37 USD       0.05 USD    -141.32 USD    Bank-Fees
-    207.59 USD              0    -207.59 USD    IT:Hosting
-   1056.00 USD              0   -1056.00 USD    Legal
-     41.69 USD              0     -41.69 USD    Office:Postal
-   1296.65 USD              0   -1296.65 USD    Travel:Transportation
-     30.00 USD    4210.26 USD    4180.26 USD  Income
-     30.00 USD    1192.93 USD    1162.93 USD    Donations
-             0    3017.33 USD    3017.33 USD    Interest
---------------------------------------------
-  13798.30 USD    4210.31 USD   -9587.99 USD
-
-=== systemd ===
-
-         debit         credit          total
---------------------------------------------
-   2283.16 USD              0   -2283.16 USD  Expenses
-     50.85 USD              0     -50.85 USD    Bank-Fees
-     68.06 USD              0     -68.06 USD    Currency-Exchange
-   2164.25 USD              0   -2164.25 USD    Marketing
-      0.25 USD      13.28 USD      13.03 USD  Income
-             0       8.28 USD       8.28 USD    Currency-Exchange
-      0.25 USD       5.00 USD       4.75 USD    Donations
---------------------------------------------
-   2283.41 USD      13.28 USD   -2270.13 USD
-
-=== translatewiki.net ===
-
-         debit         credit          total
---------------------------------------------
-      0.67 USD              0      -0.67 USD  Expenses:Bank-Fees
-      0.50 USD      10.00 USD       9.50 USD  Income:Donations
---------------------------------------------
-      1.17 USD      10.00 USD       8.83 USD
-
-=== xorg ===
-
-         debit         credit          total
---------------------------------------------
-   7269.85 USD              0   -7269.85 USD  Expenses
-      1.45 USD              0      -1.45 USD    Bank-Fees
-   6231.89 USD              0   -6231.89 USD    IT:Hosting
-   1036.51 USD              0   -1036.51 USD    Travel
-    341.73 USD              0    -341.73 USD      Accommodation
-    154.43 USD              0    -154.43 USD      Dining
-    540.35 USD              0    -540.35 USD      Transportation
-      1.30 USD      26.00 USD      24.70 USD  Income:Donations
---------------------------------------------
-   7271.15 USD      26.00 USD   -7245.15 USD
-
-
-= 2020 year to date report, ending 2020-04-01 =
-
-== Overall SPI 2020 year to date, ending 2020-04-01 ==
-
+<pre>
          debit         credit          total
 --------------------------------------------
 3124768.95 USD  537469.79 USD 2587299.16 USD  Assets
@@ -391,11 +112,374 @@ shown as a positive amount.
  138712.31 USD  165089.41 USD  -26377.10 USD  Liabilities:Payable
 --------------------------------------------
 3469648.95 USD 3469648.95 USD              0
+</pre>
 
-== Per project summaries 2020 year to date, ending 2020-04-01 ==
+## Per project summaries
 
-=== 0ad ===
+Per project donations have a debit amount specified, which is the SPI
+5% contribution from the project towards the SPI general fund. Thus
+total donation amount is net of this contribution.
 
+Unlike ledger defaults, totals in the per-project summaries are
+inverted. Meaning that expenses are negative and equity is
+positive. This way projects that have funds, i.e. are in credit, are
+shown as a positive amount.
+
+### This month changes 2020-03-01 - 2020-04-01
+
+
+#### 0ad
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+     79.57 USD              0     -79.57 USD  Expenses
+     22.92 USD              0     -22.92 USD    Bank-Fees
+     56.65 USD              0     -56.65 USD    IT:Hosting
+     16.33 USD     326.44 USD     310.11 USD  Income:Donations
+--------------------------------------------
+     95.90 USD     326.44 USD     230.54 USD
+
+</pre>
+
+#### archlinux
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    396.53 USD              0    -396.53 USD  Expenses
+     83.31 USD              0     -83.31 USD    Bank-Fees
+     17.82 USD              0     -17.82 USD    Currency-Exchange
+    295.40 USD              0    -295.40 USD    IT:Hosting
+     79.39 USD    1592.81 USD    1513.42 USD  Income
+             0       5.29 USD       5.29 USD    Currency-Exchange
+     79.39 USD    1587.52 USD    1508.13 USD    Donations
+--------------------------------------------
+    475.92 USD    1592.81 USD    1116.89 USD
+
+</pre>
+
+#### ardupilot
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    565.88 USD              0    -565.88 USD  Expenses
+    107.18 USD              0    -107.18 USD    Bank-Fees
+    458.70 USD              0    -458.70 USD    IT:Hosting
+    105.25 USD    2161.08 USD    2055.83 USD  Income
+             0      56.08 USD      56.08 USD    Currency-Exchange
+    105.25 USD    1905.00 USD    1799.75 USD    Donations
+             0     200.00 USD     200.00 USD    Sponsorship
+--------------------------------------------
+    671.13 USD    2161.08 USD    1489.95 USD
+
+</pre>
+
+#### chakra
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.48 USD              0      -0.48 USD  Expenses:IT:Hosting
+
+</pre>
+
+#### debconf19
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   1265.00 USD              0   -1265.00 USD  Expenses:Travel:Transportation
+
+</pre>
+
+#### debconf20
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    250.00 USD    5000.00 USD    4750.00 USD  Income
+    250.00 USD    4810.00 USD    4560.00 USD    Donations
+             0     190.00 USD     190.00 USD    Sponsorship
+--------------------------------------------
+    250.00 USD    5000.00 USD    4750.00 USD
+
+</pre>
+
+#### debian
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   1074.88 USD              0   -1074.88 USD  Expenses
+    137.99 USD              0    -137.99 USD    Bank-Fees
+     88.23 USD              0     -88.23 USD    Conferences:Dining
+      8.69 USD              0      -8.69 USD    Currency-Exchange
+    332.12 USD              0    -332.12 USD    IT:Hardware
+    507.85 USD              0    -507.85 USD    Travel:Transportation
+    106.52 USD    2178.18 USD    2071.66 USD  Income
+             0      47.99 USD      47.99 USD    Currency-Exchange
+    106.52 USD    2130.19 USD    2023.67 USD    Donations
+--------------------------------------------
+   1181.40 USD    2178.18 USD     996.78 USD
+
+</pre>
+
+#### ffmpeg
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+     21.26 USD              0     -21.26 USD  Expenses:Bank-Fees
+     11.15 USD     231.89 USD     220.74 USD  Income
+             0       9.02 USD       9.02 USD    Currency-Exchange
+     11.15 USD     222.87 USD     211.72 USD    Donations
+--------------------------------------------
+     32.41 USD     231.89 USD     199.48 USD
+
+</pre>
+
+#### jenkins
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    102.80 USD              0    -102.80 USD  Expenses
+     24.47 USD              0     -24.47 USD    Bank-Fees
+     78.33 USD              0     -78.33 USD    Currency-Exchange
+--------------------------------------------
+    102.80 USD              0    -102.80 USD
+
+</pre>
+
+#### libreoffice
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   4101.46 USD              0   -4101.46 USD  Expenses
+     83.37 USD              0     -83.37 USD    Bank-Fees
+    310.45 USD              0    -310.45 USD    Conferences
+    204.12 USD              0    -204.12 USD      Dining
+    106.33 USD              0    -106.33 USD      Materials
+     66.77 USD              0     -66.77 USD    Currency-Exchange
+   3640.87 USD              0   -3640.87 USD    Travel
+    260.66 USD              0    -260.66 USD      Accommodation
+   3380.21 USD              0   -3380.21 USD      Transportation
+     11.95 USD     375.68 USD     363.73 USD  Income
+             0     136.81 USD     136.81 USD    Currency-Exchange
+     11.95 USD     238.87 USD     226.92 USD    Donations
+--------------------------------------------
+   4113.41 USD     375.68 USD   -3737.73 USD
+
+</pre>
+
+#### mingw
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.49 USD              0      -0.49 USD  Expenses:Bank-Fees
+      0.25 USD       5.00 USD       4.75 USD  Income:Donations
+--------------------------------------------
+      0.74 USD       5.00 USD       4.26 USD
+
+</pre>
+
+#### ntpsec
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      3.62 USD              0      -3.62 USD  Expenses:Bank-Fees
+      6.00 USD     120.00 USD     114.00 USD  Income:Donations
+--------------------------------------------
+      9.62 USD     120.00 USD     110.38 USD
+
+</pre>
+
+#### openbioinformatics
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   4211.70 USD              0   -4211.70 USD  Expenses
+     15.81 USD              0     -15.81 USD    Bank-Fees
+   4133.94 USD              0   -4133.94 USD    Conferences:Venue
+     61.95 USD              0     -61.95 USD    IT
+     15.76 USD              0     -15.76 USD      Domains
+     46.19 USD              0     -46.19 USD      Hosting
+             0      29.32 USD      29.32 USD  Income:Currency-Exchange
+--------------------------------------------
+   4211.70 USD      29.32 USD   -4182.38 USD
+
+</pre>
+
+#### openembedded
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      1.57 USD              0      -1.57 USD  Expenses:Bank-Fees
+      1.53 USD      30.59 USD      29.06 USD  Income:Donations
+--------------------------------------------
+      3.10 USD      30.59 USD      27.49 USD
+
+</pre>
+
+#### opensaf
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    425.00 USD              0    -425.00 USD  Expenses:Legal
+
+</pre>
+
+#### openvas
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.10 USD              0      -0.10 USD  Expenses:Bank-Fees
+      0.10 USD       2.00 USD       1.90 USD  Income:Donations
+--------------------------------------------
+      0.20 USD       2.00 USD       1.80 USD
+
+</pre>
+
+#### openvoting
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      2.50 USD      50.00 USD      47.50 USD  Income:Donations
+
+</pre>
+
+#### openwrt
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+    130.67 USD              0    -130.67 USD  Expenses
+      5.67 USD              0      -5.67 USD    Bank-Fees
+    125.00 USD              0    -125.00 USD    Legal
+      5.85 USD     117.00 USD     111.15 USD  Income:Donations
+--------------------------------------------
+    136.52 USD     117.00 USD     -19.52 USD
+
+</pre>
+
+#### openzfs
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.78 USD              0      -0.78 USD  Expenses:Bank-Fees
+      0.40 USD       8.00 USD       7.60 USD  Income:Donations
+--------------------------------------------
+      1.18 USD       8.00 USD       6.82 USD
+
+</pre>
+
+#### postgresql
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+     15.65 USD              0     -15.65 USD  Expenses:Bank-Fees
+     18.31 USD     366.20 USD     347.89 USD  Income:Donations
+--------------------------------------------
+     33.96 USD     366.20 USD     332.24 USD
+
+</pre>
+
+#### smc
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.41 USD              0      -0.41 USD  Expenses:Bank-Fees
+      0.25 USD       5.00 USD       4.75 USD  Income:Donations
+--------------------------------------------
+      0.66 USD       5.00 USD       4.34 USD
+
+</pre>
+
+#### spi
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+  13768.30 USD       0.05 USD  -13768.25 USD  Expenses
+  11025.00 USD              0  -11025.00 USD    Accounting
+    141.37 USD       0.05 USD    -141.32 USD    Bank-Fees
+    207.59 USD              0    -207.59 USD    IT:Hosting
+   1056.00 USD              0   -1056.00 USD    Legal
+     41.69 USD              0     -41.69 USD    Office:Postal
+   1296.65 USD              0   -1296.65 USD    Travel:Transportation
+     30.00 USD    4210.26 USD    4180.26 USD  Income
+     30.00 USD    1192.93 USD    1162.93 USD    Donations
+             0    3017.33 USD    3017.33 USD    Interest
+--------------------------------------------
+  13798.30 USD    4210.31 USD   -9587.99 USD
+
+</pre>
+
+#### systemd
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   2283.16 USD              0   -2283.16 USD  Expenses
+     50.85 USD              0     -50.85 USD    Bank-Fees
+     68.06 USD              0     -68.06 USD    Currency-Exchange
+   2164.25 USD              0   -2164.25 USD    Marketing
+      0.25 USD      13.28 USD      13.03 USD  Income
+             0       8.28 USD       8.28 USD    Currency-Exchange
+      0.25 USD       5.00 USD       4.75 USD    Donations
+--------------------------------------------
+   2283.41 USD      13.28 USD   -2270.13 USD
+
+</pre>
+
+#### translatewiki.net
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+      0.67 USD              0      -0.67 USD  Expenses:Bank-Fees
+      0.50 USD      10.00 USD       9.50 USD  Income:Donations
+--------------------------------------------
+      1.17 USD      10.00 USD       8.83 USD
+
+</pre>
+
+#### xorg
+
+<pre>
+         debit         credit          total
+--------------------------------------------
+   7269.85 USD              0   -7269.85 USD  Expenses
+      1.45 USD              0      -1.45 USD    Bank-Fees
+   6231.89 USD              0   -6231.89 USD    IT:Hosting
+   1036.51 USD              0   -1036.51 USD    Travel
+    341.73 USD              0    -341.73 USD      Accommodation
+    154.43 USD              0    -154.43 USD      Dining
+    540.35 USD              0    -540.35 USD      Transportation
+      1.30 USD      26.00 USD      24.70 USD  Income:Donations
+--------------------------------------------
+   7271.15 USD      26.00 USD   -7245.15 USD
+</pre>
+
+### Year to date, ending 2020-04-01
+
+
+#### 0ad
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   34970.84 USD   34970.84 USD  Equity:Net-Assets:Restricted
@@ -406,20 +490,29 @@ shown as a positive amount.
 --------------------------------------------
     251.58 USD   35692.26 USD   35440.68 USD
 
-=== ankur ===
+</pre>
 
+#### ankur
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    2819.84 USD    2819.84 USD  Equity:Net-Assets:Restricted
 
-=== aptosid ===
+</pre>
 
+#### aptosid
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0     503.76 USD     503.76 USD  Equity:Net-Assets:Restricted
 
-=== archlinux ===
+</pre>
 
+#### archlinux
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  344144.42 USD  344144.42 USD  Equity:Net-Assets:Restricted
@@ -440,8 +533,11 @@ shown as a positive amount.
 --------------------------------------------
    5414.76 USD  350699.35 USD  345284.59 USD
 
-=== ardupilot ===
+</pre>
 
+#### ardupilot
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   97923.23 USD   97923.23 USD  Equity:Net-Assets:Restricted
@@ -455,11 +551,15 @@ shown as a positive amount.
              0     114.70 USD     114.70 USD    Currency-Exchange
    2215.05 USD    7601.00 USD    5385.95 USD    Donations
     200.00 USD     800.00 USD     600.00 USD    Sponsorship
+             0    1926.78 USD    1926.78 USD  Liabilities:Payable
 --------------------------------------------
-   9346.90 USD  106512.93 USD   97166.03 USD
+   9346.90 USD  108439.71 USD   99092.81 USD
 
-=== chakra ===
+</pre>
 
+#### chakra
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0     393.72 USD     393.72 USD  Equity:Net-Assets:Restricted
@@ -468,17 +568,24 @@ shown as a positive amount.
       0.33 USD              0      -0.33 USD    Currency-Exchange
     260.73 USD              0    -260.73 USD    IT:Hosting
       2.50 USD      50.00 USD      47.50 USD  Income:Donations
+             0     259.35 USD     259.35 USD  Liabilities:Payable
 --------------------------------------------
-    270.06 USD     443.72 USD     173.66 USD
+    270.06 USD     703.07 USD     433.01 USD
 
-=== debconf14 ===
+</pre>
 
+#### debconf14
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   35962.78 USD   35962.78 USD  Equity:Net-Assets:Restricted
 
-=== debconf15 ===
+</pre>
 
+#### debconf15
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   70218.51 USD   70218.51 USD  Equity:Net-Assets:Restricted
@@ -488,30 +595,43 @@ shown as a positive amount.
 --------------------------------------------
    1608.11 USD   70218.51 USD   68610.40 USD
 
-=== debconf16 ===
+</pre>
 
+#### debconf16
+
+<pre>
          debit         credit          total
 --------------------------------------------
   14445.06 USD              0  -14445.06 USD  Equity:Net-Assets:Restricted
 
-=== debconf17 ===
+</pre>
 
+#### debconf17
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    1887.04 USD    1887.04 USD  Equity:Net-Assets:Restricted
 
-=== debconf18 ===
+</pre>
 
+#### debconf18
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   30263.98 USD   30263.98 USD  Equity:Net-Assets:Restricted
     267.36 USD     258.67 USD      -8.69 USD  Expenses:Travel:Transportation
     200.00 USD    4000.00 USD    3800.00 USD  Income:Donations
+             0    1261.41 USD    1261.41 USD  Liabilities:Payable
 --------------------------------------------
-    467.36 USD   34522.65 USD   34055.29 USD
+    467.36 USD   35784.06 USD   35316.70 USD
 
-=== debconf19 ===
+</pre>
 
+#### debconf19
+
+<pre>
          debit         credit          total
 --------------------------------------------
   28369.62 USD              0  -28369.62 USD  Equity:Net-Assets:Restricted
@@ -519,8 +639,11 @@ shown as a positive amount.
 --------------------------------------------
   29634.62 USD              0  -29634.62 USD
 
-=== debconf20 ===
+</pre>
 
+#### debconf20
+
+<pre>
          debit         credit          total
 --------------------------------------------
       1.65 USD              0      -1.65 USD  Expenses:Bank-Fees
@@ -530,8 +653,11 @@ shown as a positive amount.
 --------------------------------------------
     853.65 USD   17040.00 USD   16186.35 USD
 
-=== debconf21 ===
+</pre>
 
+#### debconf21
+
+<pre>
          debit         credit          total
 --------------------------------------------
    1300.00 USD   26000.00 USD   24700.00 USD  Income
@@ -540,8 +666,11 @@ shown as a positive amount.
 --------------------------------------------
    1300.00 USD   26000.00 USD   24700.00 USD
 
-=== debian ===
+</pre>
 
+#### debian
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  636774.55 USD  636774.55 USD  Equity:Net-Assets:Restricted
@@ -558,11 +687,15 @@ shown as a positive amount.
     703.21 USD   14011.33 USD   13308.12 USD  Income
              0      47.99 USD      47.99 USD    Currency-Exchange
     703.21 USD   13963.34 USD   13260.13 USD    Donations
+             0    1733.33 USD    1733.33 USD  Liabilities:Payable
 --------------------------------------------
-  25490.28 USD  650785.88 USD  625295.60 USD
+  25490.28 USD  652519.21 USD  627028.93 USD
 
-=== ffmpeg ===
+</pre>
 
+#### ffmpeg
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  121716.03 USD  121716.03 USD  Equity:Net-Assets:Restricted
@@ -573,11 +706,15 @@ shown as a positive amount.
      54.58 USD    1100.30 USD    1045.72 USD  Income
              0       9.02 USD       9.02 USD    Currency-Exchange
      54.58 USD    1091.28 USD    1036.70 USD    Donations
+   1000.00 USD              0   -1000.00 USD  Liabilities:Payable
 --------------------------------------------
-   3067.00 USD  122816.33 USD  119749.33 USD
+   4067.00 USD  122816.33 USD  118749.33 USD
 
-=== fluxbox ===
+</pre>
 
+#### fluxbox
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    1027.33 USD    1027.33 USD  Equity:Net-Assets:Restricted
@@ -585,8 +722,11 @@ shown as a positive amount.
 --------------------------------------------
       1.00 USD    1047.33 USD    1046.33 USD
 
-=== glucosio ===
+</pre>
 
+#### glucosio
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0      20.84 USD      20.84 USD  Equity:Net-Assets:Restricted
@@ -594,8 +734,11 @@ shown as a positive amount.
 --------------------------------------------
       1.00 USD      40.84 USD      39.84 USD
 
-=== gnustep ===
+</pre>
 
+#### gnustep
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0     161.50 USD     161.50 USD  Equity:Net-Assets:Restricted
@@ -603,8 +746,11 @@ shown as a positive amount.
 --------------------------------------------
       1.00 USD     181.50 USD     180.50 USD
 
-=== haskell ===
+</pre>
 
+#### haskell
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   16550.65 USD   16550.65 USD  Equity:Net-Assets:Restricted
@@ -613,8 +759,11 @@ shown as a positive amount.
 --------------------------------------------
       0.50 USD   16555.65 USD   16555.15 USD
 
-=== jenkins ===
+</pre>
 
+#### jenkins
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   17064.72 USD   17064.72 USD  Equity:Net-Assets:Restricted
@@ -627,11 +776,15 @@ shown as a positive amount.
    1811.80 USD              0   -1811.80 USD      Accommodation
      18.24 USD              0     -18.24 USD      Dining
    2234.59 USD              0   -2234.59 USD      Transportation
+             0    1162.72 USD    1162.72 USD  Liabilities:Payable
 --------------------------------------------
-  11413.41 USD   17064.72 USD    5651.31 USD
+  11413.41 USD   18227.44 USD    6814.03 USD
 
-=== libreoffice ===
+</pre>
 
+#### libreoffice
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   35614.79 USD   35614.79 USD  Equity:Net-Assets:Restricted
@@ -651,8 +804,11 @@ shown as a positive amount.
 --------------------------------------------
   13165.93 USD   58489.93 USD   45324.00 USD
 
-=== mingw ===
+</pre>
 
+#### mingw
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    4019.87 USD    4019.87 USD  Equity:Net-Assets:Restricted
@@ -661,8 +817,11 @@ shown as a positive amount.
 --------------------------------------------
       6.80 USD    4085.96 USD    4079.16 USD
 
-=== ntpsec ===
+</pre>
 
+#### ntpsec
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   38649.17 USD   38649.17 USD  Equity:Net-Assets:Restricted
@@ -671,8 +830,11 @@ shown as a positive amount.
 --------------------------------------------
    5020.62 USD  138989.17 USD  133968.55 USD
 
-=== oftc ===
+</pre>
 
+#### oftc
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0      19.00 USD      19.00 USD  Equity:Net-Assets:Restricted
@@ -680,8 +842,11 @@ shown as a positive amount.
 --------------------------------------------
       1.00 USD      39.00 USD      38.00 USD
 
-=== openbioinformatics ===
+</pre>
 
+#### openbioinformatics
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  102732.48 USD  102732.48 USD  Equity:Net-Assets:Restricted
@@ -696,8 +861,11 @@ shown as a positive amount.
 --------------------------------------------
    5891.55 USD  102761.80 USD   96870.25 USD
 
-=== openembedded ===
+</pre>
 
+#### openembedded
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   10848.54 USD   10848.54 USD  Equity:Net-Assets:Restricted
@@ -711,14 +879,20 @@ shown as a positive amount.
 --------------------------------------------
    1425.12 USD   13873.44 USD   12448.32 USD
 
-=== openmpi ===
+</pre>
 
+#### openmpi
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0     645.65 USD     645.65 USD  Equity:Net-Assets:Restricted
 
-=== opensaf ===
+</pre>
 
+#### opensaf
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    2910.86 USD    2910.86 USD  Equity:Net-Assets:Restricted
@@ -726,8 +900,11 @@ shown as a positive amount.
 --------------------------------------------
     465.00 USD    2910.86 USD    2445.86 USD
 
-=== openvas ===
+</pre>
 
+#### openvas
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0      92.49 USD      92.49 USD  Equity:Net-Assets:Restricted
@@ -736,8 +913,11 @@ shown as a positive amount.
 --------------------------------------------
       1.20 USD     114.49 USD     113.29 USD
 
-=== openvoting ===
+</pre>
 
+#### openvoting
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0     702.81 USD     702.81 USD  Equity:Net-Assets:Restricted
@@ -745,8 +925,11 @@ shown as a positive amount.
 --------------------------------------------
       8.50 USD     872.81 USD     864.31 USD
 
-=== openwrt ===
+</pre>
 
+#### openwrt
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    8248.06 USD    8248.06 USD  Equity:Net-Assets:Restricted
@@ -757,8 +940,11 @@ shown as a positive amount.
 --------------------------------------------
     216.44 USD    9349.54 USD    9133.10 USD
 
-=== openzfs ===
+</pre>
 
+#### openzfs
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   12215.06 USD   12215.06 USD  Equity:Net-Assets:Restricted
@@ -767,14 +953,20 @@ shown as a positive amount.
 --------------------------------------------
      20.02 USD   12564.06 USD   12544.04 USD
 
-=== pcp ===
+</pre>
 
+#### pcp
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    8460.84 USD    8460.84 USD  Equity:Net-Assets:Restricted
 
-=== postgresql ===
+</pre>
 
+#### postgresql
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  138787.42 USD  138787.42 USD  Equity:Net-Assets:Restricted
@@ -785,18 +977,25 @@ shown as a positive amount.
 --------------------------------------------
    1159.14 USD  141929.34 USD  140770.20 USD
 
-=== privoxy ===
+</pre>
 
+#### privoxy
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    6150.85 USD    6150.85 USD  Equity:Net-Assets:Restricted
              0      36.46 USD      36.46 USD  Expenses:Bank-Fees
     985.44 USD      49.27 USD    -936.17 USD  Income:Donations
+    985.44 USD              0    -985.44 USD  Liabilities:Payable
 --------------------------------------------
-    985.44 USD    6236.58 USD    5251.14 USD
+   1970.88 USD    6236.58 USD    4265.70 USD
 
-=== smc ===
+</pre>
 
+#### smc
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    5857.30 USD    5857.30 USD  Equity:Net-Assets:Restricted
@@ -805,10 +1004,14 @@ shown as a positive amount.
 --------------------------------------------
       2.98 USD    5892.30 USD    5889.32 USD
 
-=== spi ===
+</pre>
 
+#### spi
+
+<pre>
          debit         credit          total
 --------------------------------------------
+             0    2200.00 USD    2200.00 USD  Assets:Receivable
              0  425457.29 USD  425457.29 USD  Equity:Net-Assets:Unrestricted
   28967.36 USD      40.50 USD  -28926.86 USD  Expenses
   19181.60 USD              0  -19181.60 USD    Accounting
@@ -826,11 +1029,15 @@ shown as a positive amount.
              0      57.21 USD      57.21 USD    Currency-Exchange
     339.52 USD   23820.72 USD   23481.20 USD    Donations
              0    8846.48 USD    8846.48 USD    Interest
+             0    2129.84 USD    2129.84 USD  Liabilities:Payable
 --------------------------------------------
-  29306.88 USD  458222.20 USD  428915.32 USD
+  29306.88 USD  462552.04 USD  433245.16 USD
 
-=== systemd ===
+</pre>
 
+#### systemd
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0  179650.45 USD  179650.45 USD  Equity:Net-Assets:Restricted
@@ -847,8 +1054,11 @@ shown as a positive amount.
 --------------------------------------------
    5085.33 USD  179668.73 USD  174583.40 USD
 
-=== texmacs ===
+</pre>
 
+#### texmacs
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    1501.86 USD    1501.86 USD  Equity:Net-Assets:Restricted
@@ -856,8 +1066,11 @@ shown as a positive amount.
 --------------------------------------------
       1.00 USD    1521.86 USD    1520.86 USD
 
-=== tmw ===
+</pre>
 
+#### tmw
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0       2.44 USD       2.44 USD  Equity:Net-Assets:Restricted
@@ -866,8 +1079,11 @@ shown as a positive amount.
 --------------------------------------------
       3.87 USD      42.44 USD      38.57 USD
 
-=== translatewiki.net ===
+</pre>
 
+#### translatewiki.net
+
+<pre>
          debit         credit          total
 --------------------------------------------
       0.67 USD              0      -0.67 USD  Expenses:Bank-Fees
@@ -875,14 +1091,20 @@ shown as a positive amount.
 --------------------------------------------
       1.17 USD      10.00 USD       8.83 USD
 
-=== tux4kids ===
+</pre>
 
+#### tux4kids
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   16497.49 USD   16497.49 USD  Equity:Net-Assets:Restricted
 
-=== xorg ===
+</pre>
 
+#### xorg
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0   97158.67 USD   97158.67 USD  Equity:Net-Assets:Restricted
@@ -901,12 +1123,17 @@ shown as a positive amount.
     171.27 USD              0    -171.27 USD      Dining
    1009.06 USD              0   -1009.06 USD      Transportation
     525.45 USD   10509.00 USD    9983.55 USD  Income:Donations
+             0   12469.88 USD   12469.88 USD  Liabilities:Payable
 --------------------------------------------
-  39833.41 USD  107667.67 USD   67834.26 USD
+  39833.41 USD  120137.55 USD   80304.14 USD
 
-=== yafaray ===
+</pre>
 
+#### yafaray
+
+<pre>
          debit         credit          total
 --------------------------------------------
              0    5448.50 USD    5448.50 USD  Equity:Net-Assets:Restricted
+</pre>
 
