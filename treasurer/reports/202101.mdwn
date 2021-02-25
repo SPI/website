@@ -534,10 +534,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    500.00 USD              0    -500.00 USD  Assets:Receivable
              0    1634.54 USD    1634.54 USD  Equity:Net-Assets:Restricted
---------------------------------------------
-    500.00 USD    1634.54 USD    1134.54 USD
 
 </pre>
 
@@ -562,9 +559,8 @@ shown as a positive amount.
              0  710318.01 USD  710318.01 USD  Equity:Net-Assets:Restricted
     242.07 USD       2.90 USD    -239.17 USD  Expenses:Bank-Fees
     448.46 USD    5925.04 USD    5476.58 USD  Income:Donations
-             0    1950.00 USD    1950.00 USD  Liabilities:Payable
 --------------------------------------------
-    690.53 USD  718195.95 USD  717505.42 USD
+    690.53 USD  716245.95 USD  715555.42 USD
 
 </pre>
 
@@ -640,12 +636,11 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  20000.00 USD              0  -20000.00 USD  Assets:Receivable
              0   75934.10 USD   75934.10 USD  Equity:Net-Assets:Restricted
       7.28 USD              0      -7.28 USD  Expenses:Bank-Fees
      25.43 USD     508.46 USD     483.03 USD  Income:Donations
 --------------------------------------------
-  20032.71 USD   76442.56 USD   56409.85 USD
+     32.71 USD   76442.56 USD   76409.85 USD
 
 </pre>
 
@@ -765,14 +760,13 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   2500.00 USD              0   -2500.00 USD  Assets:Receivable
              0   25537.75 USD   25537.75 USD  Equity:Net-Assets:Restricted
     114.68 USD              0    -114.68 USD  Expenses
       6.62 USD              0      -6.62 USD    Bank-Fees
     108.06 USD              0    -108.06 USD    IT:Hosting
       7.90 USD     158.00 USD     150.10 USD  Income:Donations
 --------------------------------------------
-   2622.58 USD   25695.75 USD   23073.17 USD
+    122.58 USD   25695.75 USD   25573.17 USD
 
 </pre>
 
@@ -781,10 +775,7 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-    500.00 USD              0    -500.00 USD  Assets:Receivable
              0   11310.84 USD   11310.84 USD  Equity:Net-Assets:Restricted
---------------------------------------------
-    500.00 USD   11310.84 USD   10810.84 USD
 
 </pre>
 
@@ -840,9 +831,8 @@ shown as a positive amount.
       7.63 USD    4373.74 USD    4366.11 USD  Income
       7.63 USD    3715.30 USD    3707.67 USD    Donations
              0     658.44 USD     658.44 USD    Interest
-             0    4475.20 USD    4475.20 USD  Liabilities:Payable
 --------------------------------------------
-   1516.12 USD  446847.69 USD  445331.57 USD
+   1516.12 USD  442372.49 USD  440856.37 USD
 
 </pre>
 
@@ -913,7 +903,6 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  15000.00 USD              0  -15000.00 USD  Assets:Receivable
              0  113974.71 USD  113974.71 USD  Equity:Net-Assets:Restricted
    3527.97 USD              0   -3527.97 USD  Expenses
       3.00 USD              0      -3.00 USD    Bank-Fees
@@ -922,7 +911,7 @@ shown as a positive amount.
    3510.77 USD              0   -3510.77 USD      Hosting
       2.75 USD      55.00 USD      52.25 USD  Income:Donations
 --------------------------------------------
-  18530.72 USD  114029.71 USD   95498.99 USD
+   3530.72 USD  114029.71 USD  110498.99 USD
 
 </pre>
 
