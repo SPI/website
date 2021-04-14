@@ -6,7 +6,7 @@
 
 [[!img ganeti-logo.png alt="Ganeti logo" class="projectlogo" link="no"]]
 
-[Ganeti](http://www.ganeti.org/) is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Ganeti requires pre-installed virtualization software on your servers in order to function. Once installed, the tool assumes management of the virtual instances (Xen DomU). Ganeti controls
+[Ganeti](https://www.ganeti.org/) is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Ganeti requires pre-installed virtualization software on your servers in order to function. Once installed, the tool assumes management of the virtual instances (Xen DomU). Ganeti controls
 
 * Disk creation management,
 * Operating system installation for instances (in co-operation with OS-specific install scripts), and
