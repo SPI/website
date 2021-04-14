@@ -1,0 +1,198 @@
+\documentclass[a4paper]{report}
+\usepackage{a4wide}
+\usepackage[utf8]{inputenc}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{epsfig}
+\usepackage{background}
+\usepackage{mathptmx}
+
+% To avoid tikz error, see https://tex.stackexchange.com/questions/165929/semiverbatim-with-tikz-in-beamer
+\makeatletter
+\global\let\tikz@ensure@dollar@catcode=\relax
+\makeatother
+
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{images/spi-front.jpg}}
+}
+
+\hypersetup{
+  colorlinks   = true,
+  urlcolor     = blue,
+  linkcolor    = blue,
+  pdfinfo = {
+    Title = {SPI Annual Report 2020},
+    Author = {Software in the Public Interest, Inc.},
+    Keywords = {SPI, free software, open source, FOSS, annual report, charity, non-profit, 501c3},
+  }
+}
+
+\begin{document}
+
+\title{Software in the Public Interest, Inc.\\
+2020 Annual Report}
+\date{July XXX, 2021}
+
+\maketitle
+
+\newpage
+
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{images/spi-content.jpg}}
+}
+
+\hspace{1em}
+
+To the membership, board and friends of Software in the Public Interest, Inc:
+
+As mandated by Article 8 of the SPI Bylaws, I respectfully submit this annual report on the activities of Software in the Public Interest, Inc. and extend my thanks to all of those who contributed to the mission of SPI in the past year.
+
+  \emph{-- Michael Schultheiss, SPI President}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\chapter{President's Welcome}
+\label{sec:president}
+
+  \emph{-- Michael Schultheiss, SPI President}
+
+\chapter{Committee Reports}
+\section{Membership Committee}
+
+\subsection{Statistics}
+
+On January 1, 2020 we had 222 contributing and 1138 non-contributing members.  On December 31, 2020 there were 232 contributing members and 1173 non-contributing members.  This is an increase of 10 contributing members and an increase of 35 non-contributing members.
+
+\chapter{Board Report}
+\section{Board Members}
+
+Board members as of January 1, 2020:
+
+\begin{itemize}
+\item Michael Schultheiss (President)
+\item Stephen Frost (Vice President)
+\item Tim Potter (Secretary)
+\item Martin Zobel-Helas (Treasurer)
+\item Luca Filipozzi
+\item Forrest Fleming
+\item Chris Lamb
+\item Héctor Orón Martínez
+\item Andrew Tridgell
+\end{itemize}
+
+Board members as of December 31, 2020:
+
+\begin{itemize}
+\item Michael Schultheiss (President)
+\item Stephen Frost (Vice President)
+\item Tim Potter (Secretary)
+\item Martin Zobel-Helas (Treasurer)
+\item Joe Conway
+\item Luca Filipozzi
+\item Forrest Fleming
+\item Chris Lamb
+\item Héctor Orón Martínez
+\end{itemize}
+
+\section{Board Changes}
+
+Changes that occurred during the year:
+
+\begin{itemize}
+
+\item The terms for Tim Potter and Andrew Tridgell expired in July 2020.  Tim sought, and obtained, re-election.  We'd like to thank Andrew for his work on the board.  Joe Conway joined the board as part of the same election.
+
+\item On August 10, 2020 the board voted to appoint the following officers:
+
+\begin{itemize}
+\item President: Michael Schultheiss
+\item Vice President: Stephen Frost
+\item Secretary: Tim Potter
+\item Treasurer: Martin Zobel-Helas
+\end{itemize}
+
+\end{itemize}
+
+\section{Elections}
+
+A board membership election was conducted in July 2020.  There were 2 board seats up for election.  Nominations were received from Joe Conway, Milan Kupcevic, and Tim Potter.  Joe Conway and Tim Potter were elected for a 3 year term.
+
+\chapter{Treasurer's Report}
+
+\section{Income Statement}
+
+This covers the Period January 1, 2020 -- December 31, 2020
+
+\begin{verbatim}
+\end{verbatim}
+
+\section{Balance Sheet}
+
+\begin{verbatim}
+Balance Sheet as of December 31, 2020
+\end{verbatim}
+
+\chapter{Member Project Reports}
+
+\section{New Associated Projects}
+
+\subsection{ns-3}
+
+\href{https://www.nsnam.org/}{ns-3} is a discrete-event, packet-level network simulator with an emphasis on networking research and education. Users of ns-3 can construct simulations of computer networks using models of traffic generators, protocols such as TCP/IP, and devices and channels such as Wi-Fi and LTE, and analyze or visualize the results. Simulation plays a vital role in the research and education process, because of the ability for simulations to obtain reproducible results (particularly for wireless protocol design), scale to large networks, and study systems that have not yet been implemented. A particular emphasis in ns-3 is a high degree of realism in the models (including frameworks for using real application and kernel code) and integration of the tool with virtual machine environments and testbeds. Very large scale simulations are possible; simulations of hundreds of millions of nodes have been published.
+
+\subsection{Ganeti}
+
+\href{https://www.ganeti.org/}{Ganeti} is a virtual machine cluster management tool built on top of existing virtualisation technologies such as Xen or KVM and other open source software.
+
+Ganeti controls:
+
+\begin{itemize}
+
+\item Disk creation management,
+\item Operating system installation for instances (in co-operation with OS-specific install scripts), and
+\item Startup, shutdown, and failover between physical systems.
+
+\end{itemize}
+
+Ganeti is designed to facilitate cluster management of virtual servers and to provide fast and simple recovery after physical failures using commodity hardware.
+
+\section{Updates from Associated Projects}
+
+
+\appendix
+\chapter{About SPI}
+
+SPI is a non-profit organization which was founded to help organizations develop and distribute open hardware and software. We encourage programmers to use the GNU General Public License or other licenses that allow free redistribution and use of software, and hardware developers to distribute documentation that will allow device drivers to be written for their product.
+
+SPI was incorporated as a non-profit organization on June 16, 1997 in the state of New York. Since then, it has become an umbrella organization for projects from the community.
+
+In 1999, the Internal Revenue Service (IRS) of the United States government determined that under section 501(a) of the Internal Revenue Code SPI qualifies for 501(c)(3) (non-profit organization) status under section 509(a)(1) and 170(b)(1)(A)(vi). This means that donations made to SPI and its supported projects are tax-deductible as charitable donations for US taxpayers.
+
+\newpage
+
+\pagestyle{empty}
+
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{images/spi-back-2020.jpg}}
+}
+
+\null
+
+\end{document}
+% Keep this at the bottom, thanks.
+% Local Variables:
+% TeX-master: "report"
+% End:
