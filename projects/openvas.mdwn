@@ -6,16 +6,11 @@
 
 [[!img openvas-logo.png alt="OpenVAS logo" class="projectlogo" link="no"]]
 
-[OpenVAS](https://www.openvas.org/) (OpenSource Vulnerability Assessment
-Scanner) is a GPL fork of the [Nessus](https://www.nessus.org/) security
-scanner currently controlled by Tenable Network Security.
-
-OpenVAS provides a totally open licensed, freely distributable scanning
-engine as well as a complete library of plugins and tests which will
-scan for particular vulnerabilities. Starting from Nessus version 2.2.5
-which was released under a GPL license OpenVAS will continue to develop
-and refine the underlying engine as well as expand the plugin script
-library and functionality.
+[OpenVAS](OpenVAS] is a full-featured vulnerability scanner. Its
+capabilities include unauthenticated testing, authenticated testing,
+various high level and low level Internet and industrial protocols,
+performance tuning for large-scale scans and a powerful internal
+programming language to implement any type of vulnerability test.
 
 ### Project Liaisons
 
