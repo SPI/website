@@ -1,0 +1,220 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2021/2021-04-26/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < Snow-Man> Stephen Frost
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < jconway> Joe Conway
+21:00 < fsf> Forrest Fleming
+21:00 < lamby> Chris Lamb
+21:00 < schultmc> .
+21:00 < schultmc> tpot, do we have any regrets?
+21:00 < tpot> Tim Potter
+21:00 < schultmc> .
+21:00 < schultmc> Michael Schultheiss
+21:00 < tpot> No regrets received.
+21:00 < schultmc> zumbi: ping
+21:01 < schultmc> although we're quorate so we can move on - zumbi can join later if he's around
+21:01 < zumbi> Héctor Orón Martínez
+21:02 < schultmc> [item 3, President's Report]
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+21:02 < schultmc> job working with our contractors and legal counsel.
+21:02 < schultmc> .
+21:02 < schultmc> I sent tpot certified documents requested by UK counsel per an associated
+21:02 < schultmc> project's request
+21:02 < schultmc> .
+21:02 < schultmc> Stephen, do you have anything you would like to add?</done>
+21:02 < Snow-Man> I don't
+21:03 < schultmc> [item 4, Treasurer's Report]
+21:03 < schultmc> zobel isn't currently here.
+21:03 < schultmc> .
+21:03 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:03 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:03 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:03 < schultmc> help is always welcome.
+21:03 < schultmc> .
+21:03 < schultmc> [item 5, Secretary's report]
+21:03 < schultmc> tpot?
+21:03 < Snow-Man> (for those wondering, I've been quite busy with $dayjob due to the PG feature freeze, plus I managed to break my collarbone while mountain biking and I'm still working to recover from that; hoping that I'll be back up to speed on SPI items this upcoming month)
+21:04 < tpot> I've also sent off some requested information to UK counsel and hopefully our engagement should start soon.
+21:04 < lamby> Snow-Man: Get well soon. (!)
+21:04 < Snow-Man> thanks
+21:04 < tpot> Please respond to the vF2F poll for May (see email). I've scheduled a bunch of times across a bunch of days so hopefully we should be able to have some overlap where everyone can join.
+21:04 < tpot> .
+21:05 < schultmc> [item 6, Outstanding minutes]
+21:05 < schultmc> The minutes for the 2021-02-08 and 2021-03-08 require approval.
+21:05 < schultmc> .
+21:05 < schultmc> They can be found at
+21:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-02-08/ and
+21:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-03-08/
+21:05 < tpot> Please take a moment to view and then vote.
+21:06 < tpot> Voting started, 7 people (tpot,lamby,fsf,jconway,schultmc,snow-man,zumbi) allowed to vote on Accept minutes for meeting Monday 9th November 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:06 < schultmc> !vote yes
+21:06 < Snow-Man> !vote yes
+21:06 < fsf> 9th November?
+21:06 < jconway> !vote yes
+21:06 < zumbi> date is bogus
+21:06 < tpot> whoops - cut7past4 error
+21:06 < tpot> please ignore
+21:06 < tpot> Current voting results for "Accept minutes for meeting Monday 9th November 2020": Yes: 3, No: 0, Abstain: 0, Missing: 4 ( zumbi  tpot  fsf  lamby )
+21:06 < tpot> Voting for "Accept minutes for meeting Monday 9th November 2020" closed.
+21:07 < lamby> :)
+21:07 < tpot> Let's try again.
+21:07 < tpot> Voting started, 7 people (tpot,lamby,fsf,jconway,schultmc,snow-man,zumbi) allowed to vote on Accept minutes for meeting Monday 8th February 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 < Snow-Man> heh
+21:07 < lamby> !vote yes
+21:07 < zumbi> !vote abstain
+21:07 < Snow-Man> !vote yes
+21:07 < jconway> !vote yes
+21:07 < schultmc> !vote yes
+21:07 < tpot> !vote yes
+21:07 < fsf> !vote yes
+21:07 < tpot> Current voting results for "Accept minutes for meeting Monday 8th February 2020": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:08 < tpot> Voting for "Accept minutes for meeting Monday 8th February 2020" closed.
+21:08 < tpot> My note taking system is extensively based on cut&paste.
+21:08 < tpot> Voting started, 7 people (tpot,lamby,fsf,jconway,schultmc,snow-man,zumbi) allowed to vote on Accept minutes for meeting Monday 8th March 2020. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:08 < lamby> !vote yes
+21:08 < schultmc> !vote yes
+21:08 < zumbi> !vote yes
+21:08 < jconway> !vote yes
+21:08 < tpot> !vote yes
+21:08 < fsf> !vote yes
+21:09 < Snow-Man> !vote yes
+21:09 < tpot> Current voting results for "Accept minutes for meeting Monday 8th March 2020": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:09 < tpot> Voting for "Accept minutes for meeting Monday 8th March 2020" closed.
+21:09 < tpot> hooray!
+21:09 < schultmc> [item 7, Items up for discussion]
+21:09 < schultmc> [item 7.1, Milan Kupcevic as interim director]
+21:10 < tpot> Any objectsions
+21:10 < tpot> Milan participated in the board election last year but was unsucessful.
+21:10 < Snow-Man> wfm
+21:10 < schultmc> No objection from me
+21:10 < tpot> Position statement: https://www.spi-inc.org/corporate/votes/2020-board-election/platform-milan-kupcevic/
+21:11 < lamby> No objection from me either. :)
+21:11 < zumbi> No objections.
+21:11 < jconway> +1
+21:11 < tpot> milan: we may have run into each other in Cape Town for debconf
+21:11 < Snow-Man> think we can vote?
+21:12 < milan> tpot: It is quite possible.
+21:12 < zumbi> )a side noteÑ sadly, Cape Town university got on fire not long ago=
+21:12 < lamby> I think we can vote, yes.
+21:12 < tpot> Voting started, 7 people (tpot,lamby,fsf,jconway,schultmc,snow-man,zumbi) allowed to vote on Appoint Milan Kupcevic as interim director of the SPI. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:13  -!- slef` <mjr@serene.ttllp.co.uk> has quit (Ping timeout: 480 seconds)
+21:13 < zumbi> !vote yes
+21:13 < fsf> !vote yes
+21:13 < jconway> !vote yes
+21:13 < lamby> !vote yes
+21:13 < schultmc> !vote yes
+21:13 < Snow-Man> !vote yes
+21:14 < tpot> !vote yes
+21:14 < tpot> Current voting results for "Appoint Milan Kupcevic as interim director of the SPI": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:14 < tpot> Voting for "Appoint Milan Kupcevic as interim director of the SPI" closed.
+21:14 < Snow-Man> milan: welcome!
+21:14 < tpot> \o/
+21:15 < zumbi> milan: congrats!
+21:15 < lamby> congrats milan :)
+21:15 < milan> Thank you for accepting me to the board of directors if SPI inc.
+21:15 < jconway> congrats++
+21:16 < schultmc> [item 7.2, Additional IT contractor]
+21:17 < tpot> The more the merrier. If we have someone that's responsibe that would be awesome.
+21:17 < Snow-Man> is that supposed to be mine? heh
+21:18 < Snow-Man> we have someone who was recommended by the prior contractor, I have been meaning to email the board
+21:18 < tpot> s/responsibe/responsive/
+21:18 < Snow-Man> I don't know that there's much that really need to be discussed wrt that, at least, I'll try to email the board today and if there aren't objections then I can go make it happen
+21:19 < Snow-Man> always hard to judge that
+21:19 < Snow-Man> (until you actually get into a contract, etc, etc)
+21:19 < fsf> I am generally in favor of infrastructure upgrades (and paying professionals to do them!), but do not have enough information on the proposal to make an informed decision. I am also happy to leave staffing IT resources to Snow-Man's judgment
+21:19 < zumbi> Excellent news, thanks
+21:20 < jconway> what fsf said :-)
+21:20 < schultmc> [item 7.3, Parting gift for Luca]
+21:21 < tpot> Any ideas? Flowers? (:
+21:21 < Snow-Man> food? :)
+21:21 < tpot> Food is always good. We have been doing gift baskets instead of schwag at my work and I love it.
+21:22 < Snow-Man> PgUS sent me a nice basket for my broken collarbone, lol.
+21:22 < Snow-Man> (of food stuffs)
+21:22 < zumbi> some italian delis?
+21:23 < tpot> OK well I will take an action to look for some local yummy stuff and organise a delivery.
+21:24 < lamby> thanks tpot
+21:24 < tpot> I don't have his address though.
+21:24 < tpot> Will sort that out.
+21:24 < jconway> Zabars is nice if they deliver wherever Luca is
+21:25 < schultmc> [item 7.4, Moving to G-Suite for SPI email]
+21:25 < Snow-Man> think we can just have an officer make that happen as it doesn't sound like there's any objections
+21:25 < tpot> LGTM
+21:25 < lamby> +1
+21:25 < jconway> +1
+21:26 < fsf> +1
+21:26 < zumbi> No objections.
+21:26 < tpot> Need to coordinate with whomever can update MX record for spi-inc
+21:26 < schultmc> 7.3 or 7.4?
+21:26 < schultmc> I can update MX records
+21:26 < fsf> NB my google affiliation if my +1 should be discounted :)
+21:26 < Snow-Man> wrt g-suite, I intend to make that part of hte IT stuff, unless anyone has specific issues or objections.
+21:26 < Snow-Man> it's going to be a bit complicated given mailing lists, et al.
+21:26 < schultmc> mailing lists, archives, etc need to be accounted for
+21:26 < tpot> Yeah that's going to be fun.
+21:27 < Snow-Man> indeed.
+21:27 < Snow-Man> it's certainly not an immediate thing
+21:27 < waldi> special cases…
+21:27 < Snow-Man> but I do hope to get there.
+21:28 < Snow-Man> We have a lot of other work in front of that though, so I don't think it makes sense to go into it right now.
+21:28 < schultmc> +1
+21:29 < waldi> Snow-Man: who would create the missing email addresses on g-suite?
+21:30 < Snow-Man> waldi: I'm really not sure what you're asking here but would be happy to discuss your questions specifically later.  As I said, this isn't on any kind of near-term schedule.
+21:31 < waldi> Snow-Man: okay. it sounded like "can someone just do it, now"
+21:31 < Snow-Man> no..
+21:31 < Snow-Man> the general idea is that we should have proper mailboxes which are independent from our personal ones, for legal reasons
+21:32 < Snow-Man> for the board, really, not even for other things
+21:32 < Snow-Man> but we need to figure out how that would actually happen and such and there's a lot of other IT stuff that needs to happen
+21:32 < Snow-Man> and I need to work on bringing on the new contractor, etc, before evne thinking about such things.
+21:32 < Snow-Man> anyhow, think we can move to the next item
+21:33 < schultmc> [item 7.5, vF2F scheduling details]
+21:33 < tpot> Please see email and respond to the poll. In a few days we can decide and get it done in May sometime.
+21:33 < lamby> Done :)
+21:34 < schultmc> [item 7.6, OpenWrt Trademark Counsel]
+21:34 < Snow-Man> no objection to having Pam represent both sides
+21:34 < schultmc> OpenWrt is in the process of moving from SPI to Software Freedom Conservancy
+21:35 < schultmc> SPI and SFC both use Pam Chestek (sp?) - we need to confirm whether we're OK with Pam representing both sides in the transfer of the trademark
+21:35 < Snow-Man> wfm
+21:35 < jconway> me too
+21:35 < schultmc> I'm fine with her representing SPI and SFC in this matter
+21:35 < lamby> wfm too
+21:36 < schultmc> do we need a formal vote or should I just inform SFC we're ready to move forward?
+21:37 < lamby> Lets do one just in case.
+21:37 < schultmc> tpot: please setup a vote
+21:37 < lamby> Would be a shame to delay them in case Pam (etc.) thinks it might be needed.
+21:38 < tpot> one sec
+21:40 < tpot> Not sure the wording is the best but here it is.
+21:40 < tpot> Voting started, 7 people (tpot,lamby,fsf,jconway,schultmc,snow-man,zumbi) allowed to vote on Appoint Pam Chestek as trademark counsel for SPI/SFC OpenWrt transfer. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:40 < lamby> !vote yes
+21:40 < jconway> !vote yes
+21:40 < tpot> !vote yes
+21:40 < schultmc> !vote yes
+21:40 < zumbi> !vote abstain
+21:41 < fsf> !vote yes
+21:41 < Snow-Man> !vote yes
+21:41 < tpot> Current voting results for "Appoint Pam Chestek as trademark counsel for SPI/SFC OpenWrt transfer": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:41 < tpot> Voting for "Appoint Pam Chestek as trademark counsel for SPI/SFC OpenWrt transfer" closed.
+21:41 < lamby> zumbi: am curious..
+21:42 < schultmc> excellent - I'll let SFC know
+21:43 < zumbi> lamby: no strong feelings in one way or the other, I just do not have enough information
+21:43 < schultmc> [item 8, Any other business]
+21:43 < schultmc> Anything to discuss?
+21:44 < jconway> nothing here
+21:44 < lamby> nothing here
+21:45 < fsf> Nothing ehre
+21:45 < zumbi> Nothing from me
+21:45 < schultmc> [item 9, Next board meeting]
+21:45 < schultmc> The next board meeting is scheduled for: May 10, 2021 at 20:00 UTC
+21:45 < schultmc> Any objections?
+21:45 < lamby> None here
+21:45 < jconway> nope
+21:45 < schultmc> works for me
+21:45 < zumbi> vF2F may or maynot overlap
+21:45 < Snow-Man> wfm
+21:46 < schultmc> *GAVEL*
