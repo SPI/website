@@ -4,38 +4,5 @@
 
 # OpenWrt
 
-[[!img openwrt-logo.png alt="OpenWrt logo" class="projectlogo" link="no"]]
-
-[OpenWrt](https://www.openwrt.org/) is a Linux based distribution for
-embedded solutions, supporting a very broad list of platforms. Instead
-of trying to create a single, static firmware, OpenWrt provides a fully
-writable filesystem with package management. This frees and allows you
-to customize the device through the use of packages to suit any
-application. For both developers and users, OpenWrt is a framework for
-building innovative solutions and an open path towards full
-customization. It is the goal of OpenWrt to empower development, explore
-potentials and to use embedded devices in ways never envisioned. OpenWrt
-is currently being used worldwide in both wired and wireless networks
-solutions, industrial control systems, small robots, sensor networks,
-VoIP systems, and a whole lot more.
-
-### Project Liaisons
-
-* John Crispin
-* Imre Kaloz
-
-### Services
-
-* Accepting donations
-* Holding trademarks
-
-### Donate via PayPal
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<fieldset>
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="GSA8YAVPEAJVY" />
-<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to OpenWrt via PayPal" />
-</fieldset>
-</form>
-
+OpenWrt is no longer associated with PCP.  You can donate to OpenWrt via
+[Software Freedom Conservancy](https://sfconservancy.org/projects/current/#OpenWrt).
