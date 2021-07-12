@@ -165,18 +165,35 @@ A board membership election was conducted in July 2020.  There were 2 board seat
 
 \chapter{Treasurer's Report}
 
-\section{Income Statement}
+\section{Changes to the accounting system}
 
-This covers the Period January 1, 2020 -- December 31, 2020
+SPI has made two substantial changes to its accounting system and books in 2020:
 
-\begin{verbatim}
-\end{verbatim}
+\begin{itemize}
 
-\section{Balance Sheet}
+\item Migration from cash basis to accrual basis: the accrual basis is a method of accounting which gives a more accurate picture of the financial status.  It also makes it easier to track outstanding payments.
 
-\begin{verbatim}
-Balance Sheet as of December 31, 2020
-\end{verbatim}
+\item Migration from ledger to beancount: both are text-based, FOSS accounting systems.  Beancount offers a number of advantages, in particular a Python API which can be used to access data and to extend the functionality of the accounting system.
+
+\end{itemize}
+
+We have used the migration to beancount to improve the accounting process in a number of ways, in particular to add more automation and checks.
+
+Improvements include:
+
+\begin{itemize}
+
+\item Importers for various donation platforms to reduce the amount of time it takes to import data while making the process less error-prone.
+
+\item Scripts that encode business logic in order to automate common processes.  For example, when importing bank transactions, scripts now look up outstanding accounts payable and assign transactions accordingly.
+
+\item Validation of data through plugins, such as ensuring that payments match the accrued amounts, checking payees for misspellings, and more.
+
+\item Bank reconciliation: due to the way checks are handled, a bank reconciliation showing differences between the bank statements and our books of record has to be generated every month.  This process is handled by a script.
+
+\end{itemize}
+
+Finally, we improved the internal documentation considerably, documenting not only the accounting system, but also common tasks and areas, such as onboarding of new projects, vendor management, and more.
 
 \chapter{Member Project Reports}
 
