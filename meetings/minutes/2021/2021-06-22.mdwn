@@ -1,0 +1,229 @@
+[[!meta copyright="Copyright © 2021 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, June 22nd, 2021
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice-President)
+* Tim Potter (tpot) (Secretary)
+* Joe Conway (jconway)
+* Forrest Fleming (fsf)
+* Milan Kupcevic (milan)
+* Chris Lamb (lamby)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Martin Zobel-Helas (zobel) (Treasurer)
+* Héctor Orón Martínez (zumbi)
+
+__Registered guests present__
+
+* None
+
+These are the minutes for the June 22nd, 2021 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2021/2021-06-22-log.txt).
+
+## President's Report
+
+<pre>
+Continued thanks to SPI Vice President, Stephen Frost, for handling
+contracting with SPI's contractors. Stephen continues to do a
+fantastic job working with our contractors and legal counsel.
+
+The SPI board met three times over the week following the May IRC
+board meeting via video conference in lieu of its standard annual in
+person meeting. Good progress on outstanding tasks was made during the
+meetings.
+</pre>
+
+Stephen Frost presented a Vice-President's Report:
+
+<pre>
+We've made good progress on the RT migration- a test system has been
+stood up through our agreement with Best Practical and the board and
+users are actively testing the system to make sure that everything
+looks good.
+
+We anticipate being able to migrate over to it in a couple of weeks.
+This should significantly reduce the issues which folks have had with
+the system in the past and ensure it is properly maintained moving
+forward.  We are also in the final stages of getting a new IT
+contractor set up to work with the other systems we currently run.
+
+We've been able to get good guideance from counsel regarding issues
+such as GDPR- some of that has already been fed back to our
+contractors who are working to provide information to our projects
+regarding donations.  We hope to be able to un-block some of those
+requests in relatively short order to allow our projects the insight
+that they've been after.  We are also going to continue to work with
+counsel to form a good answer to GDPR requirements.  We will be
+sharing that with projects once SPI itself has addressed the big
+items.
+</pre>
+
+## Treasurer's report
+
+Report presented by Michael Schultheiss on behalf of Martin Zobel-Helas.
+
+<pre>
+The SPI treasury team is continuing to process requests and is
+striving for more timely ticket handling. The backlog is being
+processed but if there are any board members who would like to assist
+with treasury tasks, additional help is always welcome.
+</pre>
+
+## Secretary's report
+
+<pre>
+I'm catching up on various tasks, updating the website etc. I believe
+there are a few outstanding resolutions to be added.
+
+I will be sending out an invitation for people to apply for two board
+positions as schultmc and Snow-Man's terms are expiring in july.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+Voting was not performed for inquorate meetings on 4/12 2021 and 6/14
+2021 since no business was discussed.
+
+### Vote on minutes for meeting Monday April 26th 2021
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Abstain</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 6 yes, 0 no and 1 abstain.
+
+### Vote on minutes for meeting Monday May 10th 2021
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no.
+
+## Items up for discussion
+
+### Vote on accepting GeekBeacon as an SPI associated project
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no.
+
+### Vote on removing OpenWrt as an associated project
+
+OpenWrt has joined the Software Freedom Conservancy.
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no.
+
+### Vote on removing Performance Co-Pilot as an associated project
+
+PCP has joined OpenCollective.
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no.
+
+### Vote on adding Adélie Linux as an associated project
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no.
+
+### OpenWrt Trademark Counsel
+
+It was agreed over email that we would waive any conflict in having
+the same counsel to handle trademark reassigment for OpenWrt moving to
+the Software Freedom Conservancy.
+
+### SPI Legal Counsel
+
+Discussion deferred to a later date.
+
+### Directors and Officers Insurance
+
+Our insurance broker contacted us regarding our policy up for renewal
+in August. They informed us that due to industry changes, there will
+likely be a double digit increase in the premium cost. Just letting
+the board know - we should definitely continue to have D&O insurance.
+
+## Any other business
+
+There was no other business.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2018</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2018</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td><td>Treasurer</td></tr>
+<tr><td>July 2020</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>April 2021</td><td>Milan Kupcevic (interim)</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td></tr>
+</tbody>
+</table>
