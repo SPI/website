@@ -1,0 +1,148 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2021/2021-07-12/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < Snow-Man> Stephen Frost
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:01 < schultmc> .
+20:01 < fsf> Forrest Fleming
+20:01 < schultmc> tpot, do we have any regrets?
+20:01  * lamby Chris Lamb
+20:01 < schultmc> Michael Schultheiss
+20:01 < tpot> Only regret is from Joe Conway
+20:01 < tpot> Tim Potter
+20:01 < schultmc> zumbi: ping
+20:03 < schultmc> milan: ping
+20:03 -!- tomh_ [~tomh@c-73-35-161-107.hsd1.wa.comcast.net] has joined #spi
+20:04 < schultmc> we can move on while we wait for others to attend if available
+20:04 < schultmc> [item 3, President's Report]
+20:04 < schultmc> The July meeting of SPI is its Annual General Meeting. Thank you to
+20:04 < schultmc> Martin Michlmayr for compiling our Annual Report. Martin has been
+20:04 < schultmc> Working with our auditor to get our 2020 financial statements audited.
+20:04 < schultmc> He is also working with the auditing firm on filing our New York State
+20:05 < schultmc> and Federal annual filings. We have received a 6 month extension for
+20:05 < schultmc> the time to file and are confident the filings will be completed by the
+20:05 < schultmc> November 15, 2021 deadline.
+20:05 < schultmc> .
+20:05 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:05 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+20:05 < schultmc> job working with our contractors and legal counsel.
+20:05 < schultmc> .
+20:05 < schultmc> </done>
+20:05 < lamby> Thanks.
+20:06 < schultmc> Snow-Man: do you have anything you would like to add?
+20:06 < tpot> Yup - it's great to see the annual report available on the day of the AGM.
+20:06 < Snow-Man> Just a few notes:
+20:06 < Snow-Man> - RT has been migrated and upgraded.  Any issues, please let me know.
+20:06 < tpot> hooray!
+20:07 < Snow-Man> The new system is running a much more modern version of RT, should be properly doing DKIM/SPF, has a maintained Let's Encrypt certificate, and has backups.
+20:07 < lamby> That's excellent
+20:07 < Snow-Man> and running on an updated and maintained OS
+20:07 < Snow-Man> We also have a new IT contractor who is working with us.
+20:08 < Snow-Man> - git.spi-inc.org is planned to be migrated to gitlab and will be decommissioned.
+20:08 < Snow-Man> We are still reviewing what to do regarding spi-inc.org email addreses and mailing lists.
+20:09 < Snow-Man> Anyone using spi-inc.org addresses (other than the board / contractors), please reach out to me / the board to discuss.
+20:09 < Snow-Man> Ultimately, we'd like to get to a point where we are running very few of our own services.
+20:09 < Snow-Man> To this end, we are also working on migrating DNS away from our own servers and instead using Gandi's services.
+20:09 < lamby> nod
+20:10 < Snow-Man> We will try to proactively reach out to projects impacted by any of these changes.
+20:10 < Snow-Man> .
+20:10 < schultmc> Excellent news about the new contractor and thank you for getting RT migrated.
+20:10 < schultmc> Looking forward to minimizing our self hosted infrastructure
+20:11 < lamby> +1
+20:11 < lamby> Especially email :)
+20:11 < schultmc> [item 4, Treasurer's Report]
+20:11 < schultmc> zobel isn't currently here.
+20:11 < schultmc> .
+20:11 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:11 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:11 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:11 < schultmc> help is always welcome.
+20:11 < schultmc> .
+20:11 < schultmc> [item 5, Secretary's report]
+20:11 < schultmc> tpot?
+20:12 < tpot> The website is up to date with minutes and resolutinos etc, mostly thanks to tbm.
+20:12 < tpot> There are some onboarding processes started and to be started for a few new projects as well.
+20:13 < tpot> That's about it!
+20:13 < tpot> .
+20:14 < schultmc> [item 6, Outstanding minutes]
+20:14 < schultmc> The minutes for the 2021-06-22 meeting require approval.
+20:14 < schultmc> They can be found at
+20:14 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-06-22
+20:14 < tpot> Also, we have received sufficient people for the open board positions so no elections will be necessary for the 2021-2024 term
+20:15 < tpot> Do we have a quorum to vote on things today?
+20:15 < milan> o/
+20:16 < milan> Sorry for being late.
+20:16 < lamby> Hi milan
+20:16 < milan> Hi lamby
+20:17 < schultmc> with milan we should be quorate now
+20:17 < Snow-Man> milan: (maybe state your name for the record?)
+20:17 < schultmc> milan: please state your name for the record
+20:17 < schultmc> jinks :)
+20:17 < Snow-Man> hah.
+20:18 < milan> Milan Kupcevic
+20:18 < tpot> Plese take a moment to read threough the minutes if you have not already.
+20:18 < tpot> Voting started, 6 people (schultmc,snow-man,tpot,fsf,milan,lamby) allowed to vote on Accept minutes for meeting Tuesday 22nd June 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:18 < Snow-Man> !vote yes
+20:19 < lamby> !vote yes
+20:19 < schultmc> !vote yes
+20:19 < tpot> !vote yes
+20:19 < milan> !vote yes
+20:19 < fsf> !vote yes
+20:19 < tpot> Current voting results for "Accept minutes for meeting Tuesday 22nd June 2021": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+20:19 < tpot> Voting for "Accept minutes for meeting Tuesday 22nd June 2021" closed.
+20:19 < tpot> Thanks everyone!
+20:20 < schultmc> [item 7, Items up for discussion]
+20:20 < schultmc> [item 7.1, Directors for the 2021-2024 term.]
+20:20 < schultmc> tpot?
+20:21 < tpot> We have three positions open and I've received three nominations. Michael S, Stephen F and Milan K.
+20:22 < tpot> According to our bylaws we don;'t need an election in this case.
+20:23 < tpot> Do schultmc, Snow-Man and milan accept the positions?
+20:23 < Snow-Man> I accept.
+20:23 < schultmc> I accept
+20:23 < milan> I accept.
+20:23 < tpot> Great - thanks everyone! We can't really continue to function as an organisation without volunteer contributions.
+20:23 < schultmc> +1
+20:24 < schultmc> [item 7.2, Presentation of the Annual Report.]
+20:24 < schultmc> To the membership, board and friends of Software in the Public Interest, Inc: As mandated by Article 8 of the SPI Bylaws, I respectfully submit this annual report [0] on the activities of Software in the Public Interest, Inc. and extend my thanks to all of those who contributed to the mission of SPI in the past year.
+20:24 < schultmc> – Michael Schultheiss, SPI President
+20:24 < schultmc> [0] https://www.spi-inc.org/corporate/annual-reports/2020.pdf
+20:24 < schultmc> As mentioned in my President's report, thank you again to Martin Michlmayr for compiling the annual report
+20:25 < tpot> +1 for tbm!
+20:25 < fsf> Hear hear!
+20:25 < Snow-Man> +1
+20:25 < milan> +1
+20:26 < lamby> \o/
+20:26 < schultmc> [item 7.3, Status of the 2020 financial audit.]
+20:26 < schultmc> Martin has been working with our auditor to get our 2020 financial statements audited.
+20:26 < schultmc> He is also working with the auditing firm on filing our New York State
+20:26 < schultmc> November 15, 2021 deadline.
+20:26 < schultmc> and Federal annual filings. We have received a 6 month extension for
+20:26 < schultmc> the time to file and are confident the filings will be completed by the
+20:27 < schultmc> As I understand it, the audited financial statements should be available in approximately one month.
+20:27 < tpot> tbm has mentioned that the audit has been paused for a few weeks due to illness by the accountant but is otherwise in good shape.
+20:27 < tpot> It would have been great to have that for the AGM but as mentioned should likely be available for the next meeting.
+20:29 < schultmc> [item 8, Any other business]
+20:29 < schultmc> Anything to discuss?
+20:29  * jesusalva is wondering why Open Voting Foundation is not on the general report
+20:29 < lamby> Nothing here
+20:30 < fsf> nothing here
+20:30 < milan> nothing here
+20:30 < Snow-Man> just another call to folks to say- if you have DNS or MX or email things going through spi-inc.org, please reach out to talk to me sometime
+20:30 < schultmc> jesusalva: the Annual Report contains updates from the associated projects that respond to the call for reports. I don't recall us ever having reports from every associated project.
+20:31 < tpot> jesusalva: maybe ask tbm? I haven't been following the report closely but there's usually a good reason for this sort of thing.
+20:31 < Snow-Man> ( ... waldi ?)
+20:31 < jesusalva> Okay, thanks tpot. Just wondering as this has been on the general mailing list for a while.
+20:33 < schultmc> [item 9, Next board meeting]
+20:33 < schultmc> The next board meeting is scheduled for: August 9, 2021.
+20:33 < schultmc> Any objections?
+20:33 < Snow-Man> should be good for me.
+20:33 < schultmc> Works for me
+20:33 < lamby> None here, thank you
+20:33 < milan> No objections here.
+20:34 -!- tpot changed the topic of #spi to: Next SPI board meeting is on August 9th, 2021, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2021/2021-08-09/
+20:34 < schultmc> *GAVEL*
