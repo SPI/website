@@ -13,7 +13,7 @@ The web site can be built using Ikiwiki with `bin/build-site`.  You have
 to pass the source and destination directories.  For example, to build
 the site from scratch, you can do:
 
-    git clone git://git.spi-inc.org/website.git
+    git clone https://gitlab.com/spi-inc/website.git
     cd website
     mkdir html
     bin/build-site . html
