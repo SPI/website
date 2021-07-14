@@ -42,7 +42,7 @@ Key services to request access to are:
 
  * Email alias: you can request an spi-inc.org email alias to use for SPI communication.
  * Request Tracker (RT) web access: we use RT to track outstanding items.  There are several RT queues.
- * SSH access for read/write access to git repositories: see below for more details.
+ * Read/write access to git repositories on Gitlab: see below for more details.
  * G Suite: for SPI's phone number and various collaboration facilities
 
 For SSH access you should send a public SSH key to the `sysadmin` alias.
@@ -58,17 +58,18 @@ archives when you are added to the list.
 ## Git repositories
 
 SPI has a number of public and private Git repositories.  You can see list
-of repositories you have access to by making an SSH connection to
-`git@git.spi-inc.org`.  The public Git repositories can also be found in
-[Gitweb](https://git.spi-inc.org/gitweb/).
+of repositories you have access to on
+[SPI's Gitlab](https://gitlab.com/spi-inc).
 
 The URL form for these repos with SSH access is
-`git@git.spi-inc.org:REPO.git`, so once your SSH public key has been added
-you can clone the board git repo like this:
+`git@gitlab.com:spi-inc/REPO.git`, so once you have added your SSH public
+key [(here)](https://gitlab.com/-/profile/keys), you can clone the board
+git repo like this:
 
-    git clone git@git.spi-inc.org:board.git
+    git clone git@gitlab.com:spi-inc/board.git
 
-As a board member you will have write access to the following repositories:
+As a board member you will have write access to all repositories, among
+which:
 
  * board
  * board-private
@@ -82,7 +83,7 @@ When you become a director, please add your address and phone number to
 `Director_Contact_Details` in the private board repository so we have your
 contact details in case we cannot get hold of you via email.
 
-The [public board repository](https://git.spi-inc.org/gitweb/?p=board.git)
+The [public board repository](https://gitlab.com/spi-inc/board)
 contains some interesting material, so please make yourself familiar with
 it.  Please also check out the [other onboarding information](../) to get
 more familiar with the operations of SPI.
