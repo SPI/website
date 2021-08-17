@@ -1,0 +1,203 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2021/2021-08-16/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00  * lamby -> Chris Lamb
+21:00 < fsf> Forrest Fleming
+21:00 < Snow-Man> Stephen Frost
+21:00 < jconway> Joe Conway
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < schultmc> .
+21:00 < tpot> Tim Potter
+21:00 < schultmc> tpot, do we have any regrets?
+21:00 < schultmc> Michael Schultheiss
+21:00 < schultmc> yay, quorum!
+21:00 < tpot> No regrets.
+21:00 < schultmc> milan: please state your name for the record
+21:01 < schultmc> zumbi: ping
+21:01 < milan> Milan Kupcevic
+21:01 < schultmc> [item 3, President's Report]
+21:01 < schultmc> SPI’s insurance broker has presented SPI a renewal quote for its
+21:01 < schultmc> Directors and Officers insurance. The insurance provider is offering the
+21:01 < schultmc> renewal for the same price as 2020 - earlier indications were there may
+21:01 < schultmc> be significant cost increase due to industry conditions but the price
+21:01 < schultmc> increase did not materialize this year.
+21:01 < schultmc> .
+21:01 < schultmc> Martin Michlmayr has been working with our auditor to get our 2020
+21:01 < schultmc> financial statements audited. He is also working with the auditing firm
+21:01 < schultmc> on filing our New York State and Federal annual filings. SPI has
+21:01 < schultmc> received a draft from the auditing firm that is currently under review.
+21:01 < schultmc> We have received a 6 month extension for the time to file and are
+21:01 < schultmc> confident the filings will be completed by the November 15, 2021
+21:02 < schultmc> deadline.
+21:02 < schultmc> .
+21:02 < lamby> thanks
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+21:02 < schultmc> job working with our contractors and legal counsel.
+21:02 < schultmc> .
+21:02 < schultmc> </done>
+21:02 < schultmc> Snow-Man: do you have anything to add?
+21:02 < Snow-Man> yes
+21:02 < Snow-Man> SPI continues to work on modernizing our Information Technology (IT) infrastructure with the help of our contrators.  To that end, we are working to migrate all @spi-inc.org addresses to another email platform, decommisioning those addresses which are no longer needed or in use along the way.  If you are aware of any special arrangements regarding @spi-inc.org addresses and have not already heard
+21:02 < Snow-Man> from SPI regarding those addresses, please reach out to myself or the board to discuss.  We are looking to f
+21:02 < Snow-Man> inalize the migration soon.
+21:02 < Snow-Man> SPI is working to consolidate maintenance of DNS registrations and to get out of the DNS server running business.  To that end,
+21:02 < Snow-Man>  SPI, with its contractors, is migrating all domains to Gandi for both registration and DNS server services.  This approach all
+21:02 < Snow-Man> ows projects to have access to maintain their DNS records directly with reliable DNS server services while allowing SPI to furt
+21:02 < Snow-Man> her reduce the amount of IT infrastructure it is responsible for.  If you have domains registered by SPI or are using SPI's DNS
+21:02 < Snow-Man>  servers and have not discussed plans for your domain with SPI, please reach out to myself or the board to discuss.
+21:02 < Snow-Man> SPI is currently responsible for a number of domains associated with projects that are no longer active.
+21:02 < Snow-Man> BOARD: Should SPI retain these domains and therefore migrate them to Gandi, or allow them to expire?
+21:03 < tpot> hmm - interesting question.
+21:03 < schultmc> The cost of the registrations is negligible - we'd be bad stewards to let them expire and get possibly picked up by spammers IMHO
+21:03 < lamby> I believe we should retain them.
+21:03 < jconway> +1 to retain
+21:03 < fsf> I, too, believe we should retain them
+21:03 < tpot> Was just going to say that - it's super cheap to keep the name going.
+21:04 < Snow-Man> ok.
+21:04 < Snow-Man> We will retain them until the board decides otherwise.
+21:04 < milan> I'm for retaining.
+21:04 < Snow-Man> Therefore, we'll migrate them to Gandi along with the rest.
+21:04 < fsf> Any individual decision re: retaining may be revisited if the situation allows, but our default stance should be to renew and then take action if that is problematic for some reason
+21:04 < fsf> s/allows/requires
+21:05 < Snow-Man> sounds good.
+21:05 < schultmc> Snow-Man: anything else to add?
+21:05 < Snow-Man> That's all I had atm.
+21:05 < schultmc> +1
+21:05 < schultmc> [item 4, Treasurer's Report]
+21:05 < schultmc> zobel isn't currently here.
+21:05 < schultmc> .
+21:05 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:05 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:05 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:05 < schultmc> help is always welcome.
+21:05 < schultmc> .
+21:05 < schultmc> [item 5, Secretary's report]
+21:05 < schultmc> tpot?
+21:06 < tpot> Nothing major to report. Website is up to date and I've just sent out renewals for our conflict of interest policies to the directors. Thanks to those who have responded already.
+21:06 < tpot> tbm reports that we have a first draft of the 2020 audit.
+21:06 < tpot> .
+21:06 < schultmc> [item 6, Outstanding minutes]
+21:06 < schultmc> The minutes for the 2021-07-12 meeting require approval.
+21:06 < schultmc> They can be found at
+21:06 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-07-12
+21:06 < schultmc> .
+21:07 < tpot> Voting started, 6 people (schultmc,snow-man,tpot,fsf,jconway,milan) allowed to vote on Accept minutes for meeting Monday 12th July 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:07 < Snow-Man> !vote yes
+21:07 < jconway> !vote abstain
+21:07 < tpot> !vote yes
+21:08 < milan> !vote yes
+21:08 < lamby> !vote yes
+21:08 < fsf> !vote yes
+21:08 < tpot> Current voting results for "Accept minutes for meeting Monday 12th July 2021": Yes: 4, No: 0, Abstain: 1, Missing: 1 ( schultmc )
+21:08 < tpot> Voting for "Accept minutes for meeting Monday 12th July 2021" closed.
+21:08 < tpot> whoops - schultmc?
+21:08 < schultmc> !vote yes
+21:08 < schultmc> sorry
+21:08 < tpot> np
+21:08 < tpot> Thanks everyone
+21:09 < schultmc> [item 7, Items up for discussion]
+21:09 < schultmc> [item 7.1, Officer elections]
+21:10 < tpot> Michael has expressed interest in staying president.
+21:10 < tpot> Snow-Man: are you still interested in being vice president?
+21:10 < Snow-Man> sure
+21:11 < tpot> Alright are there any other members of the board who wish to contest for these positions?
+21:11 < lamby> Not here.
+21:11 < jconway> Not me
+21:11 < fsf> That's a big "absolutely not" from me
+21:11 < milan> Not me
+21:12 < tpot> I think I speak for everyone else when I say that we appreciated the work that schultmc and Snow-Man have put into their positions this year.
+21:13 < jconway> +many
+21:13 < lamby> Oh definitely
+21:13 < tpot> With that I think that is all that's required for officer elections.
+21:13 < tpot> Is there anything else anyone would like to say before we move on>
+21:13 < schultmc> tpot: are you remaining secretary?
+21:13 < schultmc> we have 4 officers
+21:14 < tpot> Ah - OK I thought we were just redoing for the newly elected directors.
+21:14 < tpot> I'm willing to keep on as secretary.
+21:14 < Snow-Man> no, typically all officer positions are open for consideration each year
+21:14 < Snow-Man> +1 for tpot as secretary. :)
+21:14 < schultmc> iirc we elect officers annually
+21:14 < schultmc> +1
+21:15 < jconway> +1
+21:15 < milan> +1 for tpot
+21:15 < lamby> :)
+21:15 < fsf> +1 for all of tpot, schultmc, snow-man
+21:15 < tpot> Thanks everyone. I will try to do a better job than last year!
+21:15 < tpot> continuous improvement ftw
+21:15 < jconway> \o/
+21:16 < tpot> schultmc: shall we consider treasurer?
+21:16 < lamby> thank you
+21:16 < Snow-Man> Is anyone actually interested in being treasurer?
+21:16 < schultmc> yes, we should
+21:17 < schultmc> due to personal reasons, zobel hasn't been able to actively participate in SPI for quite some time. I'd like to thank him for his many years as assistant treasurer while I was treasurer as well as stepping up as treasurer when I changed roles.
+21:18 < schultmc> Due to his likely continued unavailability, it'd be best for SPI if we had a different treasurer going forward
+21:18 < Snow-Man> +1
+21:19 < schultmc> we do have a treasury team so the treasurer will have assistance from others
+21:19 < tpot> can you give an overview of the treasurer duties?
+21:20 < schultmc> Treasurer is a signatory on our bank accounts and works with the treasury team to process payment requests via RT
+21:20 < schultmc> and tracks incoming payments
+21:20 < schultmc> we do have tbm as a contractor who handles our monthly reporting as well as our annual audit
+21:21 -!- tomh_ [~tomh@c-73-35-161-107.hsd1.wa.comcast.net] has joined #spi
+21:21 < schultmc> some of our banks prefer (require?) .us citizenship but many of the accounts do allow non .us citzens to be signatories
+21:21 < tpot> was just going to ask that.
+21:21 < schultmc> Snow-Man and I are .us citizens and can serve as signatories regardless
+21:22 < tpot> I can probably help out more on the team side
+21:25 -!- tomh_ [~tomh@c-73-35-161-107.hsd1.wa.comcast.net] has left #spi []
+21:26 < tpot> shall we table this and take up on the mailing list?
+21:26 < schultmc> works for me
+21:26 < Snow-Man> +1
+21:26 < jconway> +1
+21:26 < lamby> Sure.
+21:26 < schultmc> [item 7.2, GeekBeacon as an SPI associated project]
+21:27 < schultmc> GeekBeacon was offered SPI Associated Project status per our vote at our 2021-06-22 meeting.
+21:27 < fsf> +1 to tabling, sorry for delay
+21:28 < schultmc> I reached out on 2021-07-31 to inquire whether they accept and learned both of the listed project liaisons are mostly unreachable due to extended leaves of absence for personal reasons.
+21:28 < schultmc> they're still interested in possibly joining SPI and would like to discuss what that entails once they're available.
+21:29 < schultmc> this resolution extends the expiration of the invitation to 2021-11-30
+21:29 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,fsf,jconway,milan,lamby) allowed to vote on Accept resolution 2021-06-22.mcs.1 extending acceptance period for GeekBeacon. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:29 < Snow-Man> !vote yes
+21:29 < jconway> !vote yes
+21:29 < tpot> !vote yes
+21:30 < schultmc> !vote yes
+21:30 < lamby> !vote yes
+21:31 < fsf> !vote yes
+21:31 < milan> !vote yes
+21:31 < tpot> Current voting results for "Accept resolution 2021-06-22.mcs.1 extending acceptance period for GeekBeacon": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:31 < tpot> Voting for "Accept resolution 2021-06-22.mcs.1 extending acceptance period for GeekBeacon" closed.
+21:31 < schultmc> [item 8, Any other business]
+21:31 < schultmc> Anything to discuss?
+21:31 < Snow-Man> Just a reminder that we're moving to gsuite
+21:32 < lamby> Nothing here.
+21:32 < Snow-Man> all board members need to make sure that they've got their accounts set up and working there
+21:32 < lamby> Looking forward to gsuite.
+21:32 < schultmc> +1
+21:32 < Snow-Man> once we migrate, emails will no longer be forwarded to your other email addresses
+21:32 < Snow-Man> and I'd suggst you *not* forward them from your gmail (though you could)
+21:32 < tpot> Also update your .git/configs to point at gitlab instead of git.spi-inc.org
+21:32 < schultmc> Most of my non-$WORK email is gsuite - looking forward to the migration
+21:32 < Snow-Man> remember- the idea is to separate SPI-specific email from personal email
+21:32 < Snow-Man> yes, also use gitlab, git.spi-inc.org is no longer active
+21:33 < schultmc> Thank you to Snow-Man and Perdu for the gitlab migration - performance and functionality is much improved
+21:33 < Snow-Man> great, glad to hear that.
+21:33 < Perdu> :)
+21:33 < tpot> yes thanks Perdu! Loving the faster speed of the website for one
+21:33 < tpot> fantastic to have you on board
+21:34 < lamby> :)
+21:35 -!- jesusalva is now known as Guest4538
+21:35 -!- jesusalva [~androirc@000218ef.user.oftc.net] has joined #spi
+21:35 < schultmc> Anything else to discuss?
+21:35 < lamby> Nothing here.
+21:35 < schultmc> [item 9, Next board meeting]
+21:35 < schultmc> The next board meeting is scheduled for: September 13, 2021.
+21:35 < schultmc> Any objections?
+21:35 < jconway> none here
+21:36 < lamby> 13 september works for me and in diary
+21:36 -!- tpot changed the topic of #spi to: Next SPI board meeting is on September 13th, 2021, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2021/2021-09-13/
+21:36 < lamby> thanks
+21:36 < schultmc> *GAVEL*
