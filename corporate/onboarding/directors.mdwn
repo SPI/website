@@ -42,7 +42,7 @@ Key services to request access to are:
 
  * Email alias: you can request an spi-inc.org email alias to use for SPI communication.
  * Request Tracker (RT) web access: we use RT to track outstanding items.  There are several RT queues.
- * Read/write access to git repositories on Gitlab: see below for more details.
+ * Read/write access to git repositories on GitLab: see below for more details.
  * G Suite: for SPI's phone number and various collaboration facilities
 
 For SSH access you should send a public SSH key to the `sysadmin` alias.
@@ -59,7 +59,7 @@ archives when you are added to the list.
 
 SPI has a number of public and private Git repositories.  You can see list
 of repositories you have access to on
-[SPI's Gitlab](https://gitlab.com/spi-inc).
+[SPI's GitLab](https://gitlab.com/spi-inc).
 
 The URL form for these repos with SSH access is
 `git@gitlab.com:spi-inc/REPO.git`, so once you have added your SSH public
