@@ -1,0 +1,158 @@
+21:00 < schultmc1> *GAVEL*
+21:00 < schultmc1> [item 1, Opening]
+21:00 < schultmc1> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc1> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc1> https://www.spi-inc.org/meetings/agendas/2021/2021-09-13/
+21:00 < schultmc1> [item 2, Roll Call]
+21:00 < schultmc1> Directors, please state your name
+21:00 < schultmc1> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < lamby> Chris Lamb
+21:00 < fsf> Forrest Fleming
+21:00 < schultmc1> recorded in the minutes of this meeting.
+21:00 < jconway> Joe Conway
+21:00 < schultmc1> .
+21:00 < schultmc1> tpot, do we have any regrets?
+21:00 -!- schultmc1 is now known as schultmc
+21:00 < schultmc> Michael Schultheiss
+21:01 < schultmc> Snow-Man: ping
+21:01 < Snow-Man> Stephen Frost
+21:01 < schultmc> tpot: ping
+21:01 < schultmc> milan: ping
+21:01 < tpot> No regrets.
+21:01 < tpot> Tim Potter
+21:02 < schultmc> That's quorum so we can move on
+21:02  * Snow-Man sighs.
+21:02 < schultmc> [item 3, President's Report]
+21:02 < schultmc> SPI’s Directors and Officers insurance has been renewed for another year.
+21:02 < schultmc> .
+21:02 < schultmc> Martin Michlmayr has been working with our auditor to get our 2020
+21:02 < schultmc> financial statements audited. He is also working with the auditing firm
+21:02 < schultmc> on filing our New York State and Federal annual filings. SPI has
+21:02 < schultmc> received a draft from the auditing firm that is currently under review.
+21:02 < schultmc> We have received a 6 month extension for the time to file and are
+21:02 < schultmc> confident the filings will be completed by the November 15, 2021
+21:02 < schultmc> deadline.
+21:02 < schultmc> .
+21:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:02 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic
+21:02 < schultmc> job working with our contractors and legal counsel.
+21:02 < schultmc> .
+21:03 < schultmc> </done>
+21:03 < schultmc> .
+21:03 < schultmc> Snow-Man: do you have anything to add?
+21:03 < Snow-Man> [Vice President's Report]
+21:03 < Snow-Man> We have continued to work to migrate all of our domains over to Gandi and to move away from running our own DNS servers.  We wi
+21:03 < Snow-Man> ll decommision our DNS servers as soon as we are able to do so, which should be very soon.
+21:03 < Snow-Man> We will be migrating to GSuite for @spi-inc.org in *two* *weeks*, on September 27th.  If you have any questions or concerns reg
+21:03 < Snow-Man> arding this, please let me and/or the board know.
+21:03 < milan> milan kupcevic
+21:03 < Snow-Man> We have worked to ensure that existing setups will not be broken by this by working with various groups who use @spi-inc.org.  This migration will *not* impact the SPI mailing lists, though we do plan to migrat those eventually to another service also.
+21:03 < Snow-Man> .
+21:03 < schultmc> +1
+21:03 < lamby> oh nice
+21:04 < schultmc> very excited to see continued progress on upgrading SPI's infrastructure
+21:04 < tpot> yup - long overdue. Thanks to Snow-Man and Perdu!
+21:04 < Perdu> :)
+21:04 < schultmc> [item 4, Treasurer's Report]
+21:04 < schultmc> zobel isn't currently here.
+21:04 < schultmc> .
+21:04 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+21:04 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+21:04 < schultmc> any board members who would like to assist with treasury tasks, additional
+21:04 < schultmc> help is always welcome.
+21:04 < schultmc> .
+21:04 < zumbi> o/
+21:05 < schultmc> zumbi: state you name for the record, please
+21:05 < zumbi> Héctor Orón Martínez
+21:05 < schultmc> [item 5, Secretary's report]
+21:05 < schultmc> tpot?
+21:05 < Snow-Man> zumbi: glad you were able to join!
+21:05 < zumbi> Snow-Man: sorry I am late
+21:06 < tpot> Hi everyone. I haven't received the conflict of interest documents from everyone so please check through your email and sent it back to me. I'll send out a reminder as well.
+21:06 < tpot> Thanks to everyone who has completed this already.
+21:06 < tpot> .
+21:06 < fsf> ACK that's me, sorry for the delay
+21:07 < lamby> tpot: thanks
+21:07 < schultmc> [item 6, Outstanding minutes]
+21:07 < schultmc> The minutes for the 2021-08-16 meeting require approval.
+21:07 < schultmc> They can be found at
+21:07 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-08-16
+21:07 < Snow-Man> fsf: (it's not just you ... *cough*)
+21:07 < schultmc> .
+21:07 < tpot> Please take a few moments to check the minutes.
+21:08 < tpot> Voting started, 7 people (lamby,fsf,schultmc,snow-man,tpot,milan,zumbi) allowed to vote on Accept minutes for meeting Monday 16th August 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:08 < lamby> !vote yes
+21:08 < Snow-Man> !vote yes
+21:08 < jconway> !vote yes
+21:08 < zumbi> !vote abstain
+21:08 < schultmc> !vote yes
+21:08 < fsf> !vote yes
+21:08 < milan> !vote yes
+21:08 < tpot> !vote yes
+21:09 < tpot> whoops i left jconway off my list - will be recorded
+21:09 < tpot> Current voting results for "Accept minutes for meeting Monday 16th August 2021": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+21:09 < tpot> Voting for "Accept minutes for meeting Monday 16th August 2021" closed.
+21:09 < schultmc> [item 7, Items up for discussion]
+21:09 < schultmc> None on agenda
+21:09 < schultmc> .
+21:09 < schultmc> [item 8, Any other business]
+21:09 < schultmc> Anything to discuss?
+21:10 < Snow-Man> reminder: please make sure you can get into your GSuite accounts
+21:10 < zumbi> I would like to apply to the Treasurer position, formaly.
+21:10 < Snow-Man> and that you've got those accounts all set up and such.
+21:10 < Snow-Man> Once we migrate @spi-inc.org over to gsuite, we're going to stop forwarding and you'll need to log into your gsuite accounts using gmail, etc, to get your mail
+21:11 < tpot> +1 for zumbi as treasurer
+21:11 < Snow-Man> you could set up forwarding from there, but we would recommend that you don't
+21:11 < Snow-Man> ideally, everyone would keep their SPI-related board stuff independent from other accounts
+21:11 < milan> +1 for zumbi as treasurer
+21:12 < schultmc> agreed forwarding should be discouraged to keep SPI data separate from personal data
+21:12 < schultmc> +1 for zumbi as treasurer - he's been very helpful as assistant treasurer
+21:12 < fsf> +1 to that
+21:13 < fsf> well, that +1 was for encouraging not to forward - but ALSO +1 to zumbi for treasurer :)
+21:13 < schultmc> Should we have a formal vote re: treasurer?
+21:13 < Snow-Man> that seems like the correct step
+21:13 < schultmc> Thank you to zobel for his many years as assistant treasurer and treasurer as well.
+21:14 < Snow-Man> +1
+21:14 < schultmc> tpot: please setup a vote
+21:15 < tpot> Voting started, 8 people (lamby,fsf,schultmc,snow-man,tpot,milan,zumbi,jconway) allowed to vote on Héctor Orón Martínez as treasurer for 2021-2022 . - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:15 < schultmc> !vote yes
+21:15 < jconway> !vote yes
+21:15 < Snow-Man> !vote yes
+21:15 < milan> !vote yes
+21:15 < tpot> !vote yes
+21:15 < zumbi> !vote yes
+21:15 < lamby> !vote yes
+21:15 < fsf> !vote yes
+21:15 < tpot> Not sure you are allowed to vote for yourself...
+21:15 < tpot> Current voting results for "Héctor Orón Martínez as treasurer for 2021-2022 ": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+21:15 < tpot> Voting for "Héctor Orón Martínez as treasurer for 2021-2022 " closed.
+21:15 < tpot> COngratulations zumbi and thanks for volunteering for the position!
+21:16 < schultmc> Congratulations!
+21:16 < Snow-Man> yes, thanks for volunteering!  Looking forward to seeing you at all of our future board meetings. ;)
+21:16 < zumbi> Thanks all! I hope to be more active and ontime next time. :-)
+21:16 < schultmc> Glad to see !schultmc ;)
+21:17 < tpot> As mentioned at the beginning of the meeting the calender invitations should be working for next time.
+21:17 < Snow-Man> the invites are probably on your gsuite calendars..
+21:17 < schultmc> I deleted the old invitation and created a new one via gsuite.
+21:17 < Snow-Man> right
+21:18 < tpot> I couldn't figure it out the other day but it was pretty late.
+21:18 < schultmc> luckily we had disabled the previous creator's account rather than deleting it outright.
+21:18 < Snow-Man> anyway- let's worry about that after the migration
+21:19 < schultmc> Anything else to discuss?
+21:19 < Snow-Man> if things don't seem to be working for you then please just add it to your own calendar in whatever way works and check again post-migration
+21:19 < Snow-Man> (add the next one, that is)
+21:19 < Snow-Man> and lmk :)
+21:19 < lamby> schultmc: nothing here
+21:19 < schultmc> [item 9, Next board meeting]
+21:19 < schultmc> The next board meeting is scheduled for: October 11, 2021 at 2000 UTC.
+21:19 < schultmc> Any objections?
+21:19 < jconway> none here
+21:19 < schultmc> No objections here
+21:19 < fsf> No objections here
+21:19 -!- tpot changed the topic of #spi to: Next SPI board meeting is on October 11th, 2021, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2021/2021-10-11/
+21:20 < tpot> Thanks everyone
+21:20 < lamby> Thanks all indeed.
+21:20 < schultmc> FYI, I'll be out of town on 2021-11-08
+21:20 < tpot> Great to see everyone at the meeting.
+21:20 < Snow-Man> yes, +1
+21:20 < schultmc> *GAVEL*
