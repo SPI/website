@@ -1,0 +1,156 @@
+[[!meta copyright="Copyright © 2021 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, September 13th, 2021
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice-President)
+* Tim Potter (tpot) (Secretary)
+* Forrest Fleming (fsf)
+* Joe Conway (jconway)
+* Milan Kupcevic (milan)
+* Chris Lamb (lamby)
+* Héctor Orón Martínez (zumbi)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Martin Zobel-Helas (zobel) (Treasurer)
+
+__Registered guests present__
+
+* Jonatas L. Nogueira (jesusalva), The Mana World
+* Célestin Matte (Perdu), contractor
+
+These are the minutes for the September 13th, 2021 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2021/2021-09-13-log.txt).
+
+## President's Report
+
+<pre>
+Martin Michlmayr has been working with our auditor to get our 2020
+financial statements audited. He is also working with the auditing
+firm on filing our New York State and Federal annual filings. SPI has
+received a draft from the auditing firm that is currently under
+review.  We have received a 6 month extension for the time to file and
+are confident the filings will be completed by the November 15, 2021
+deadline.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling
+contracting with SPI's contractors. Stephen continues to do a
+fantastic job working with our contractors and legal counsel.
+</pre>
+
+Stephen Frost presented a Vice-President's Report:
+
+<pre>
+We have continued to work to migrate all of our domains over to Gandi
+and to move away from running our own DNS servers.  We will
+decommision our DNS servers as soon as we are able to do so, which
+should be very soon.
+
+We will be migrating to GSuite for @spi-inc.org in *two* *weeks*, on
+September 27th.  If you have any questions or concerns reg arding
+this, please let me and/or the board know.
+
+We have worked to ensure that existing setups will not be broken by
+this by working with various groups who use @spi-inc.org.  This
+migration will *not* impact the SPI mailing lists, though we do plan
+to migrate those eventually to another service also.
+</pre>
+
+## Treasurer's report
+
+Report presented by Michael Schultheiss on behalf of Martin Zobel-Helas.
+
+<pre>
+The SPI treasury team is continuing to process requests and is
+striving for more timely ticket handling. The backlog is being
+processed but if there are any board members who would like to assist
+with treasury tasks, additional help is always welcome.
+</pre>
+
+## Secretary's report
+
+<pre>
+I haven't received the conflict of interest documents from everyone so
+please check through your email and sent it back to me. I'll send out
+a reminder as well.
+
+Thanks to everyone who has completed this already.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday August 16th 2021
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Abstain</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passes with 7 yes, 0 no and 1 abstain.
+
+## Items up for discussion
+
+No items were on the agenda.
+
+## Any other business
+
+Héctor Orón Martínez applied for the position of Treasurer to take
+over from Martin Zobel-Helas.
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Abstain</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+(zumbi's vote for himself has been recorded as an abstention).
+
+Vote passes with 7 yes, 0 no and 1 abstain.
+
+## Adjournment
+
+The meeting was adjourned until Monday November 8th 2021 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2020</td><td>Timothy Potter</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td></tr>
+</tbody>
+</table>
