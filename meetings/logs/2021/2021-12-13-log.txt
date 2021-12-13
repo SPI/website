@@ -1,0 +1,141 @@
+20:10 < schultmc> *GAVEL*
+20:10 < schultmc> [item 1, Opening]
+20:11 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:11 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:11 < schultmc> https://www.spi-inc.org/meetings/agendas/2021/2021-12-13/
+20:11 < schultmc> [item 2, Roll Call]
+20:11 < schultmc> Directors, please state your name
+20:11 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:11 < milan> Milan Kupcevic
+20:11 < schultmc> recorded in the minutes of this meeting.
+20:11 < schultmc> .
+20:11 < schultmc> tpot, do we have any regrets?
+20:11 < schultmc> Michael Schultheiss
+20:11 < tpot> No regrets
+20:11 < tpot> Tim Potter
+20:11 < jconway> Joe Conway
+20:12 < Snow-Man> Stephen Frost
+20:13 < schultmc> We're still inquorate - have any other board members responded to pings?
+20:15 < tpot> I pinged zumbi...
+20:15 < tpot> No signal details for lamby or fsf
+20:17 < fsf> Forrest Fleming (sorry - stepped away 'cause I thought we were inquorate)
+20:17 < schultmc> yay!
+20:17 < schultmc> thank you
+20:18 < schultmc> [item 3, President's Report]
+20:18 < schultmc> Due to the impact of Hurricane Irma on many New York counties, the IRS (and
+20:18 < schultmc> New York State) have extended the filing deadline for the annual federal and
+20:18 < schultmc> New York State filings. Martin Michlmayr and I have reviewed the draft filings
+20:18 < schultmc> submitted by our auditing/accounting firm and have submitted our feedback. We
+20:18 < schultmc> are confident the feedback will be addressed by the mid-January 2022 filing
+20:18 < schultmc> deadline. I'm also working on the last remaining tasks for the audit.
+20:18 < schultmc> .
+20:18 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:18 < schultmc> contracting with SPI's contractors. Our IT contractor recently setup . Stephen continues to do a fantastic job working with our contractors and legal counsel.
+20:19 < schultmc> .
+20:19 < schultmc> </done>
+20:19 < schultmc> .
+20:19 < schultmc> Snow-Man: do you have anything to add?
+20:19 < Snow-Man> We've made some progress wrt the IT systems, in particular working on mailing lists, but there's still more to go there.
+20:19 < Snow-Man> haven't got much else this month.
+20:19 < Snow-Man> hoping to have more time in the new year.
+20:20 < tpot> Hurrah for mailing list updates - thanks Perdu!
+20:21 < schultmc> [item 4, Treasurer's Report]
+20:21 < schultmc> zumbi isn't currently here.
+20:21 < schultmc> .
+20:21 < schultmc> tbm and I are working on getting zumbi up to speed on the full range of
+20:21 < schultmc> Treasury tasks. Thank you again to zumbi for stepping into the Treasurer role.
+20:21 < schultmc> .
+20:21 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:21 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:21 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:21 < schultmc> help is always welcome.
+20:21 < schultmc> .
+20:21 < schultmc> [item 5, Secretary's report]
+20:21 < schultmc> tpot?
+20:21 < tpot> I've been working on some templates and scripting for the meeting minutes and other tasks to make things easier and more consistent.
+20:22 < tpot> Tried unsucessfully to organise a F2F for this month - sorry for not getting that sorted out in time. I have a few ideas to chase up but I'd like to try some smaller meetings next month maybe.
+20:22 < tpot> .
+20:23 < schultmc> [item 6, Outstanding minutes]
+20:23 < schultmc> The minutes for the 2021-11-08 meeting require approval.
+20:23 < schultmc> They can be found at
+20:23 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-11-08
+20:23 < schultmc> .
+20:23 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,fsf,jconway,milan,lamby) allowed to vote on Accept minutes for meeting Monday 8th November 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:24 < schultmc> !vote abstain
+20:24 < tpot> !vote yes
+20:24 < jconway> !vote yes
+20:24 < Snow-Man> !vote yes
+20:24 < milan> !vote yes
+20:25 < tpot> fsf?
+20:28 < fsf> !vote yes
+20:28 < tpot> Current voting results for "Accept minutes for meeting Monday 8th November 2021": Yes: 5, No: 0, Abstain: 1, Missing: 1 ( lamby )
+20:28 < tpot> Voting for "Accept minutes for meeting Monday 8th November 2021" closed.
+20:29 < schultmc> [item 7, Items up for discussion]
+20:29 < schultmc> [item 7.1, RT-5156]
+20:30 < tpot> Snow-Man: just curious - why do you think we need counsel for this? It looks pretty simple to me and it's been sitting around for months
+20:31 < tpot> (also might be something we could roll out to other projects if requested)
+20:31 < Snow-Man> I don't know that I specifically said that wrt this, but generally having counsel review contracts is a good idea, of course.
+20:32 < tpot> apologies - I said "need" but that wasn't the word you used
+20:32 < Snow-Man> is it actually something available to other projects though?  that's not clear, particularly since everything says 'arch linux'
+20:33 < tpot> presumably we could ask them if they could extend the offer to other projects
+20:33 < tpot> if all goes well with arch
+20:34 < Snow-Man> I mean, in an ideal world it'd be clear that they're making an agreement w/ SPI and that we would be the ones to provide the list of email addresses and whatever and we could do that for whomever
+20:34 < tpot> what's the turnaround time for legal review?
+20:35 < Snow-Man> Aaron's generally pretty responsive (as in, days) but I don't know if he has anything going on right now
+20:35 < Snow-Man> is someone going to actually take the time to try and reframe this as an agreement with SPI and work with the vendor though?
+20:36 < Snow-Man> that's not something I'm going to be able to do this week
+20:37 < anthraxx> Arch Linux is very disapointed about the delay that it took 1/3 of a year to actually start thinking about things like widening the proposal to arbitrary projects. We would like to kindly ask to focus on the specific request and potentially investigate to extend it in the future.
+20:37 < tpot> Agreed - do we need to extend right now?
+20:37 < tpot> perhaps I should not have suggested it (:
+20:39 < Snow-Man> I wasn't intending to push for that, just responding.
+20:39 < Snow-Man> If no one has concerns about it and we aren't going to change it even if we get counsel to review it, well
+20:40 < tpot> I'm happy to sign and follow up since Stephen and Michael seem very busy
+20:40 < schultmc> I should be less busy once the log4j mitigation calms down
+20:42 < tpot> Does anyone have have any concerns?
+20:42 < Snow-Man> wrt the website mention, presumably that's arch's website, not spi's
+20:42 < tpot> Yeah that bit's not totally clear but I think it's implied as Arch's
+20:43 < anthraxx> Yes, the mentioned announcement is arch specific and doesn't require any announcement on SPI facing pages (if not desired)
+20:44 < Snow-Man> wouldn't make sense to be on spi's if other spi projects aren't able to benefit from it
+20:45 -!- Lyude [~lyudess@pool-96-230-249-157.bstnma.fios.verizon.net] has quit [Quit: WeeChat 3.3]
+20:45 -!- Lyude [~lyudess@pool-96-230-249-157.bstnma.fios.verizon.net] has joined #spi
+20:46 < tpot> We are coming up to time and I'd like to discuss a few more things...
+20:46 < schultmc> tpot: if you could sign the agreement, that would be helpful. I personally don't have an issue with the proposal.
+20:46 < schultmc> [item 7.2, RT-5394]
+20:47 < schultmc> this one wasn't formally on the agenda but tbm brought it up.
+20:47 < schultmc> someone donated with an earmark to a non-affiliated project but added "or others as needed"
+20:47 < schultmc> he wants direction on how to proceed with the accounting.
+20:48 < tpot> Are there any accounting/legal problems for SPI with accepting and forwarding donations for non-affiliates?
+20:48 < Snow-Man> ugh. imv we should probably just return it and tell them they're not affiliated with us
+20:48 < schultmc> potential legal issues if they're not a 501c3
+20:48 < tpot> It might cause an issue at audit
+20:49 < Snow-Man> we could also ask them if they're ok with it going to SPI's general fund
+20:49 < schultmc> returning it is the most prudent and less likely to cause future issues
+20:49 < Snow-Man> but we need to be clear with them that project isn't a part of SPI
+20:49 < Snow-Man> forwarding it is definitely a bad idea imv.
+20:50 < jesusalva> (tpot: Forwarding donations to non affiliated projects could be suspected of money laundry)
+20:50 -!- Lyude [~lyudess@pool-96-230-249-157.bstnma.fios.verizon.net] has quit []
+20:50 -!- Lyude [~lyudess@pool-96-230-249-157.bstnma.fios.verizon.net] has joined #spi
+20:50 < schultmc> I'll follow up with the ticket
+20:50 < Snow-Man> it's just about the definition of it, heh
+20:50 < schultmc> [item 8, Any other business]
+20:50 < schultmc> Anything to discuss?
+20:51 < jconway> none here
+20:51 < tpot> My memory is hazy but we tradtiaionally don't have a meeting in Janurary correct?
+20:51 < tpot> I'd like to propose either a vF2F around that time and/or a treasurer or bookkeeping sprint.
+20:51 < Snow-Man> I think we didn't have an online meeting because we used to do F2F then..
+20:51 < schultmc> I don't recall that.
+20:51 < Snow-Man> a vF2F would be good in any case
+20:52 < schultmc> a vF2F and/or sprints would be welcome.
+20:52 < Snow-Man> an actual f2f when possible would be even better, heh.
+20:52 < Snow-Man> not sure when that's gonna be tho
+20:52 < tpot> OK - any objections to canceling the board meeting and using that time for vF2F?
+20:52 < tpot> maybe exztending out to 2hrs
+20:52 < schultmc> we need to have a mini f2f with me, Snow-Man and zumbi sometime in the nearish future
+20:53 < Snow-Man> we should work on getting that done then
+20:53 < schultmc> zumbi mentioned spring 2022 for that due to his paternity leave
+20:55 < Snow-Man> sure
+20:56 < schultmc> tpot: anything else to discuss?
+20:56 < tpot> I'm done
+20:57 < schultmc> [item 9, Next board meeting]
+20:57 < schultmc> tpot will be scheduling a vF2f in lieu of our normally scheduled 2022-01-10 board meeting.
+20:57 < schultmc> *GAVEL*
