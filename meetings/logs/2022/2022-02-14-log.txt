@@ -1,0 +1,157 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-02-14/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < fsf> Forrest Fleming
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+20:00 < Snow-Man> Stephen Frost
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < bittin^> Luna Jernberg
+20:00 < schultmc> bittin^: please /msg tpot
+20:01 < bittin^> done (my first meeting)
+20:01 < schultmc> no problem
+20:01 < schultmc> tpot has not reported any regrets besides possibly himself
+20:01 < lamby> Chris Lamb
+20:01 < milan> Milan Kupcevic
+20:02 < schultmc> that's quorum - we can continue
+20:02 < bittin^> (Debian and Arch Linux contributor and decided to join SPI this year and got accepted as a member 2th Jan)
+20:02 < schultmc> bittin^: welcome - typically only board members "speak" during meetings unless otherwise called upon
+20:02 < bittin^> alright good to know
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> Many of the board were able to meet via video conference last month in lieu
+20:02 < schultmc> of our monthly IRC meeting and in lieu of our fall in-person face to face meetings.
+20:02 < schultmc> Many fruitful discussions were had and thank you to all of the board members
+20:02 < schultmc> who were able to attend.
+20:02 < schultmc> .
+20:02 < schultmc> Stephen Frost, Héctor Orón Martínez, and I are planning on an in person meeting
+20:02 < schultmc> in Indianapolis this spring to update the signatories on our bank accounts,
+20:03 < schultmc> meet with our wealth management advisors, and finalize handover of treasury tasks.
+20:03 < schultmc> The scheduling of this face to face meeting is still being finalized.
+20:03 < schultmc> .
+20:03 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+20:03 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic job working
+20:03 < schultmc> with our contractors and legal counsel.
+20:03 < schultmc> .
+20:03 < schultmc> </done>
+20:03 < schultmc> .
+20:03 < schultmc> Snow-Man: do you have anything to add?
+20:03 < Snow-Man> Yeah, a couple things.
+20:03 < Snow-Man> We are continuing to work with upstream pglister to get patches included to allow us to move our mailing lists over.
+20:03 < Snow-Man> We've done some testing of that and have got some feedback and are continuing to work on it.
+20:04 < Snow-Man> I've also asked for an estimate of the amount of effort required to rewrite the members application.
+20:04 < Snow-Man> That estimate is 1-2 months from our IT contractor, who I believe is fully capable of accomplishing the rewrite into django, which will allow us to maintain it a bit more easily.
+20:04 < Snow-Man> And get it updated to something that works on a modern system.
+20:05 < Snow-Man> I'd like to move forward with that work but wanted to get input from the rest of the board.
+20:05 < lamby> Neat, thanks.
+20:05 < Snow-Man> Does anyone have any question/concerns regarding moving down that path?
+20:05 < schultmc> sounds like an excellent task
+20:05 < schultmc> modernizing our infrastructure has always been a goal
+20:05 < Snow-Man> Yeah, I view this as part of that.
+20:05 < zumbi> is Django secure enough? and do we get a transition path to newer version?
+20:05 < fsf> How many engineering hours does 1-2 months represent?
+20:05 < Snow-Man> Will also hopefully be able to make the members system work with the authentication system we've working on.
+20:06 < Snow-Man> I don't see any reason to think that django isn't secure ... it's used by postgresql.org, for one
+20:06 < Snow-Man> Yes, we'll make sure to transistion the existing data over.
+20:07 < bittin^> (y)
+20:07 < Snow-Man> I can ask for an hour-based estimate if folks would like.
+20:07 < jconway> sorry for being late -- Joe Conway here...
+20:07 < fsf> +1 to django being a fine technology to use. Of course, poorly-secured things can be written on top of django, but as a framework it's not a loaded footgun or anything like that
+20:07 < zumbi> I am not opposed, but I'd like us to be careful with members data
+20:07 < Snow-Man> Perdu: (unless you're happy to answer that right off)
+20:08 < Snow-Man> fsf: we'd be leveraging what's been done for pg.org and I'll be involved in reviewing also
+20:08 < Snow-Man> zumbi: certainly, understood.
+20:08 < Snow-Man> fsf: wrt hours, estimate would be 120-160 hours.
+20:10 < Snow-Man> sounds like the board is generally positive on this and therefore I'll let Perdu know that we'd like to move forward with that tasking.
+20:10 < Snow-Man> happy to answer any other questions that come up over email or via DM
+20:10 < Snow-Man> schultmc: that's it for me, thanks.
+20:10 < schultmc> [item 4, Treasurer's Report]
+20:10 < schultmc> zumbi?
+20:11 < Perdu> Thanks!
+20:11 < schultmc> brb
+20:11 < zumbi> Payments queue is being processed. We are still pending to do signatures in real life when F2F in Indianapolis in spring.
+20:12 < zumbi> .
+20:12 < schultmc> back
+20:12 < zumbi> On the other hand I'd like to move forward with another topic on data protection (GDPR).
+20:13 < schultmc> we can cover that in section 7 or 8 (items for discussion or any other business)
+20:13 < zumbi> sure
+20:13 < schultmc> [item 6, Outstanding minutes]
+20:13 < schultmc> The minutes for the 2021-12-13 meeting require approval.
+20:13 < schultmc> They can be found at
+20:13 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-12-13
+20:13 < schultmc> .
+20:14 < schultmc>  Voting started, 7 people (schultmc,snow-man,fsf,lamby,milan,zumbi,jconway) allowed to vote on Accept minutes for meeting Monday 13th December 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:14 < schultmc> !vote yes
+20:14 < bittin^> !vote abstain
+20:14 < jconway> !vote yes
+20:14 < milan> !vote yes
+20:14 < lamby> !vote abstain
+20:14 < zumbi> link is broken for me
+20:14 < fsf> that url is invalid for me
+20:15 < schultmc> hrm - I saw the text on the agenda but the minutes don't appear to be fully available
+20:15 < schultmc> we can vote to accept them at the march meeting
+20:15 < schultmc> Voting for "Accept minutes for meeting Monday 13th December 2021" closed.
+20:15 < jesusalva> bittin^: (Only board members may vote)
+20:15 < schultmc> [item 7, Items up for discussion]
+20:16 < schultmc> [item 7.1 GDPR]
+20:16 < bittin^> jesusalva, oh did not know that
+20:16 < schultmc> zumbi?
+20:17 < jesusalva> bittin^: (Don't worry, it's probably part of the By-Laws, I advise giving a look over https://www.spi-inc.org/corporate/ once you have time)
+20:17 < zumbi> I have been engaging with a data protection company and I'd like to ask for board members feedback on moving forward with them on preparing a proposal to projects to check which data collection they do and if they need some actions for compliance with law.
+20:18 < zumbi> They can also be SPI formal Data protection officer (DPO) in the EU for SPI.
+20:18 < lamby> Sounds good to me. What is the company?
+20:18 < Snow-Man> it isn't actually clear that we need one..
+20:18 < Snow-Man> what's the budget estimate for this?
+20:18 < zumbi> lamby: they have a site, clickdatos.es
+20:19 < schultmc> At work, our .us attorneys detrmined we didn't need a DPO but SPI has broader international reach.
+20:19 < zumbi> there is no budget yet, that's part of what I am asking, we'd prepare a budget/proposal and pass over spi voting
+20:19 < Snow-Man> we had this discussion previously with counsel and there wasn't anything specific that lead to a conclusion that we'd need one
+20:20 < Snow-Man> I'm not against the general idea but would want to know how much it would cost..
+20:20 < zumbi> Do you have a link to a ticket or some email to forward?
+20:20 < schultmc> +1
+20:21 < zumbi> Of course, that's what I am asking, to work with them to prepare statement of work and estimate costs, then vote over SPI
+20:22 < zumbi> .. but I do not think they'll be expensive
+20:22 < lamby> Thanks.
+20:22 < Snow-Man> If it's inexpensive then, shrug, probably wouldn't hurt
+20:22 < jesusalva> If I may, I believe some of SPI associated projects might need a DPO, at least in UK.
+20:23 < zumbi> jesusalva: right, we need to audit projects, it is a mess really
+20:23 < zumbi> this company is able to help us fixing status quo
+20:24 < zumbi> Anyway, I'll work with them, prepare statement of work and get an invoice, then SPI board can decide to go ahead or not.
+20:24 < zumbi> .
+20:25 < jconway> wfm
+20:25 < schultmc> [item 8, Any other business]
+20:25 < schultmc> Anything to discuss?
+20:25 < lamby> ^ Sounds good to me, thanks.
+20:25 < bittin^> Was wondering about how long it takes to get accepted as a contributing member? if you do but jesusalva said it might take some months (so no worries take your time)
+20:26 < bittin^> other then that i don't have much right now
+20:26 < schultmc> bittin^: the membership committee can review your application as they have time
+20:26 < bittin^> sounds good, no worries
+20:26 < Snow-Man> bittin^: this isn't an open meeting with the members, just to be clear, it's a board meeting
+20:26 < bittin^> oh ok
+20:26 < schultmc> tpot had mentioned possibly scheduling an in person f2f this spring - not sure if this was in addition to the planned treasury meeting.
+20:27 < schultmc> we can follow up with him via email
+20:27 < Snow-Man> schultmc: I didn't think it was but could be wrong.
+20:27 < Snow-Man> I do have some travel in March but I'd be willing to see about trying to make a f2f
+20:27 < Snow-Man> just need to pick dates when I'm not elsewhere already. :)
+20:28 < schultmc> I'm not opposed to mid-April or later if needed
+20:28 < Snow-Man> that would also work for me
+20:28 < schultmc> I may be travelling the first week of April and the last week of May
+20:28 < schultmc> Anything else to discuss?
+20:28 < lamby> (Nothing here.)
+20:29 < Snow-Man> I'm good
+20:29 < schultmc> [item 9, Next board meeting]
+20:29 < schultmc> The next board meeting is scheduled for: March 14, 2022 at 2000 UTC.
+20:29 < schultmc> Any objections?
+20:29 < jconway> nothing here
+20:29 < zumbi> Nothing from me, other then finding a date for f2f/treasurer meeting, we can use email.
+20:29 < Snow-Man> works for me.
+20:29 < lamby> wfm. :)
+20:29 < jconway> March 14th wfm
+20:29 < zumbi> That week is holiday here, but I think I can make it
+20:29 < milan> wfm
+20:30 < schultmc> *GAVEL*
