@@ -3,7 +3,7 @@
 
 # Treasurer's report 2021-05-01 - 2021-06-01
 
-This is a *draft*.  Some changes still need to be incorporated.
+This is a *draft*.  Final treasurer reports for 2021 will be published in July 2022.
 
 ## Software in Public Interest Inc
 
@@ -12,7 +12,7 @@ This is a *draft*.  Some changes still need to be incorporated.
 <pre>
          debit         credit          total
 --------------------------------------------
- 114097.39 USD  107886.96 USD    6210.43 USD  Assets
+ 115209.83 USD  107886.96 USD    7322.87 USD  Assets
       0.11 USD              0       0.11 USD    Ameriprise Cash Mgmt Acct
              0   42789.68 USD  -42789.68 USD    Bank of America Business Advantage Checking
       0.08 USD              0       0.08 USD    Chase Business Select High Yield Savings
@@ -24,7 +24,7 @@ This is a *draft*.  Some changes still need to be incorporated.
   40700.68 USD              0   40700.68 USD    Fixed-Assets
      15.14 USD              0      15.14 USD    Key Business Gold Money Market Savings
    6546.54 USD     780.82 USD    5765.72 USD    Key Business Reward Checking
-      0.93 USD              0       0.93 USD    Merrill Lynch EMA
+   1113.37 USD              0    1113.37 USD    Merrill Lynch EMA
    1874.20 USD    2532.18 USD    -657.98 USD    PaypalDebian
   10613.36 USD   12291.72 USD   -1678.36 USD    PaypalSPI
   19388.21 USD   21340.13 USD   -1951.92 USD    Receivable
@@ -43,14 +43,15 @@ This is a *draft*.  Some changes still need to be incorporated.
     126.40 USD              0     126.40 USD    Office:Postal
     225.00 USD              0     225.00 USD    Project-Management
    5150.00 USD              0    5150.00 USD    Software-Development
-   1061.16 USD   24695.76 USD  -23634.60 USD  Income
+   1105.66 USD   25852.70 USD  -24747.04 USD  Income
              0      15.37 USD     -15.37 USD    Currency-Exchange
    1061.16 USD   23513.37 USD  -22452.21 USD    Donations
              0      17.02 USD     -17.02 USD    Interest
              0    1150.00 USD   -1150.00 USD    Sponsorship
+     44.50 USD    1156.94 USD   -1112.44 USD    Unrealized-Gain
   61845.52 USD   73176.12 USD  -11330.60 USD  Liabilities:Payable
 --------------------------------------------
- 246459.54 USD  246459.54 USD              0
+ 247616.48 USD  247616.48 USD              0
 </pre>
 
 ### Year to date, ending 2021-06-01
@@ -58,7 +59,7 @@ This is a *draft*.  Some changes still need to be incorporated.
 <pre>
          debit         credit          total
 --------------------------------------------
-3709638.88 USD  721023.77 USD 2988615.11 USD  Assets
+3721304.28 USD  712570.63 USD 3008733.65 USD  Assets
              0   43306.95 USD  -43306.95 USD    Accumulated-Depreciation
   13913.53 USD              0   13913.53 USD    Ameriprise Cash Mgmt Acct
  126589.58 USD   81244.79 USD   45344.79 USD    Bank of America Business Advantage Checking
@@ -72,15 +73,15 @@ This is a *draft*.  Some changes still need to be incorporated.
 1781644.66 USD              0 1781644.66 USD    Key Business Gold Money Market Savings
  254249.22 USD    4996.63 USD  249252.59 USD    Key Business Reward Checking
    1000.00 USD              0    1000.00 USD    KeyBank Basic Business Checking
- 262433.91 USD              0  262433.91 USD    Merrill Lynch EMA
+ 283099.31 USD    1546.86 USD  281552.45 USD    Merrill Lynch EMA
   22882.23 USD   21618.81 USD    1263.42 USD    PaypalDebian
   52652.36 USD   44611.56 USD    8040.80 USD    PaypalSPI
- 176526.45 USD  164309.72 USD   12216.73 USD    Receivable
+ 167526.45 USD  154309.72 USD   13216.73 USD    Receivable
  178897.92 USD  178897.92 USD              0    Transfers
              0 2963646.02 USD -2963646.02 USD  Equity:Net-Assets
              0 2413897.65 USD -2413897.65 USD    Restricted
              0  549748.37 USD -549748.37 USD    Unrestricted
- 170650.79 USD   40717.88 USD  129932.91 USD  Expenses
+ 172259.52 USD   40779.75 USD  131479.77 USD  Expenses
   15710.98 USD              0   15710.98 USD    Accounting
    4399.64 USD      17.20 USD    4382.44 USD    Bank-Fees
    4111.87 USD              0    4111.87 USD    Conferences
@@ -101,14 +102,16 @@ This is a *draft*.  Some changes still need to be incorporated.
     225.00 USD              0     225.00 USD    Project-Management
   51380.67 USD              0   51380.67 USD    Software-Development
     421.42 USD              0     421.42 USD    Training
-   5921.28 USD  126646.53 USD -120725.25 USD  Income
+   1608.73 USD      61.87 USD    1546.86 USD    Unrealized-Loss
+   6773.55 USD  149164.20 USD -142390.65 USD  Income
              0     362.57 USD    -362.57 USD    Currency-Exchange
-   5900.53 USD  122719.71 USD -116819.18 USD    Donations
-     20.75 USD    1264.25 USD   -1243.50 USD    Interest
+   5926.19 USD  124258.55 USD -118332.36 USD    Donations
+     20.75 USD     751.07 USD    -730.32 USD    Interest
              0    2300.00 USD   -2300.00 USD    Sponsorship
+    826.61 USD   21492.01 USD  -20665.40 USD    Unrealized-Gain
  207573.83 USD  241750.58 USD  -34176.75 USD  Liabilities:Payable
 --------------------------------------------
-4093784.78 USD 4093784.78 USD              0
+4107911.18 USD 4107911.18 USD              0
 </pre>
 
 ## Per project summaries
@@ -201,11 +204,12 @@ shown as a positive amount.
       8.00 USD              0      -8.00 USD      Domains
    1314.24 USD              0   -1314.24 USD      Hosting
     633.00 USD              0    -633.00 USD    Legal
-    107.03 USD    2145.63 USD    2038.60 USD  Income
+    151.53 USD    3035.58 USD    2884.05 USD  Income
              0       6.14 USD       6.14 USD    Currency-Exchange
     107.03 USD    2139.49 USD    2032.46 USD    Donations
+     44.50 USD     889.95 USD     845.45 USD    Unrealized-Gain
 --------------------------------------------
-  42955.68 USD    2145.63 USD  -40810.05 USD
+  43000.18 USD    3035.58 USD  -39964.60 USD
 
 </pre>
 
@@ -362,11 +366,12 @@ shown as a positive amount.
    4052.38 USD              0   -4052.38 USD    IT:Hosting
     126.40 USD              0    -126.40 USD    Office:Postal
     225.00 USD              0    -225.00 USD    Project-Management
-             0    3458.82 USD    3458.82 USD  Income
+             0    3725.81 USD    3725.81 USD  Income
              0    3441.80 USD    3441.80 USD    Donations
              0      17.02 USD      17.02 USD    Interest
+             0     266.99 USD     266.99 USD    Unrealized-Gain
 --------------------------------------------
-  12290.08 USD   44159.52 USD   31869.44 USD
+  12290.08 USD   44426.51 USD   32136.43 USD
 
 </pre>
 
@@ -545,7 +550,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  807407.74 USD  807407.74 USD  Equity:Net-Assets:Restricted
-  58951.32 USD       2.90 USD  -58948.42 USD  Expenses
+  60188.81 USD      64.77 USD  -60124.04 USD  Expenses
    1027.59 USD       2.90 USD   -1024.69 USD    Bank-Fees
     565.87 USD              0    -565.87 USD    Conferences
     123.57 USD              0    -123.57 USD      Dining
@@ -557,12 +562,14 @@ shown as a positive amount.
    5676.07 USD              0   -5676.07 USD      Hardware
    3281.14 USD              0   -3281.14 USD      Hosting
    7609.21 USD              0   -7609.21 USD    Legal
-   1452.43 USD   18705.97 USD   17253.54 USD  Income
+   1237.49 USD      61.87 USD   -1175.62 USD    Unrealized-Loss
+   2304.70 USD   35751.47 USD   33446.77 USD  Income
              0       7.20 USD       7.20 USD    Currency-Exchange
-   1431.68 USD   18283.75 USD   16852.07 USD    Donations
+   1457.34 USD   18796.93 USD   17339.59 USD    Donations
      20.75 USD     415.02 USD     394.27 USD    Interest
+    826.61 USD   16532.32 USD   15705.71 USD    Unrealized-Gain
 --------------------------------------------
-  60403.75 USD  826116.61 USD  765712.86 USD
+  62493.51 USD  843223.98 USD  780730.47 USD
 
 </pre>
 
@@ -864,7 +871,7 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  549748.37 USD  549748.37 USD  Equity:Net-Assets:Unrestricted
-  27274.69 USD   40714.98 USD   13440.29 USD  Expenses
+  27645.93 USD   40714.98 USD   13069.05 USD  Expenses
   15710.98 USD              0  -15710.98 USD    Accounting
     628.42 USD      14.30 USD    -614.12 USD    Bank-Fees
      20.91 USD              0     -20.91 USD    Currency-Exchange
@@ -877,12 +884,14 @@ shown as a positive amount.
     820.21 USD              0    -820.21 USD    Office:Postal
     225.00 USD              0    -225.00 USD    Project-Management
     421.42 USD              0    -421.42 USD    Training
-     26.14 USD   18821.31 USD   18795.17 USD  Income
+    371.24 USD              0    -371.24 USD    Unrealized-Loss
+     26.14 USD   24293.48 USD   24267.34 USD  Income
              0       8.74 USD       8.74 USD    Currency-Exchange
-     26.14 USD   17963.34 USD   17937.20 USD    Donations
-             0     849.23 USD     849.23 USD    Interest
+     26.14 USD   18989.00 USD   18962.86 USD    Donations
+             0     336.05 USD     336.05 USD    Interest
+             0    4959.69 USD    4959.69 USD    Unrealized-Gain
 --------------------------------------------
-  27300.83 USD  609284.66 USD  581983.83 USD
+  27672.07 USD  614756.83 USD  587084.76 USD
 
 </pre>
 
