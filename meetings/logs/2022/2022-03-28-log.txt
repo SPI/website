@@ -1,0 +1,150 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-03-28/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < milan> Milan Kupcevic
+21:00 < schultmc> .
+21:00 < jconway> Joe Conway
+21:00 < zumbi> Hector Oron Martinez
+21:00 < schultmc> tpot, do we have any regrets?
+21:00 -!- tomh_ [~tomh@c-73-35-161-107.hsd1.wa.comcast.net] has joined #spi
+21:00 < schultmc> .
+21:00 < fsf> Forrest Fleming
+21:00 < schultmc> Michael Schultheiss
+21:00 < lamby> Chris Lamb
+21:00 < Snow-Man> Stephen Frost
+21:01 < schultmc> that's quorum
+21:01 < lamby> hurrah!
+21:01 < jconway> \o/
+21:01 < schultmc> [item 3, President's Report]
+21:01 < schultmc> The federal and New York state filings have been filed. We have tasked
+21:01 < schultmc> the auditing firm to do an audit of SPI's 2021 finances as well as complete
+21:01 < schultmc> the federal and New York State filings.
+21:01 < schultmc> .
+21:01 < tpot> Tim Potter
+21:01 < schultmc> Stephen Frost, Héctor Orón Martínez, and I are planning on an in person meeting
+21:01 < schultmc> in Indianapolis this spring to update the signatories on our bank accounts,
+21:01 < schultmc> meet with our wealth management advisors, and finalize handover of treasury tasks.
+21:01 < schultmc> The scheduling of this face to face meeting is still being finalized.
+21:01 < schultmc> .
+21:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:01 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic job working
+21:01 < schultmc> with our contractors and legal counsel.
+21:01 < schultmc> .
+21:02 < schultmc> </done>
+21:02 < schultmc> .
+21:02 < schultmc> Snow-Man: do you have anything to add?
+21:02 < Snow-Man> Not much.  Our IT contractor hasn't had as much time as had been hoped to work on the membership system but hopefully we'll be able to make more progress on that front soon.
+21:02 -!- jesusalva-bot [~jesusalva@mail.gertmw.de] has joined #spi
+21:03 < Snow-Man> I've been getting putted into GSoC and a few other things but hope to be able to get more done w/ SPI this month.
+21:03 < Snow-Man> Would like to get the in-person meeting set up in Indianapolis.
+21:03 < Snow-Man> schultmc: I sent an email to you + board btw about something that seemed like it wasn't being taken care of in as timely a manner as those asking would like.
+21:03 < fsf> GSoC = google summer of code?
+21:03 < Snow-Man> fsf: yes
+21:03 < Snow-Man> (for PG)
+21:03 < fsf> Thank you :)
+21:04 < schultmc> Snow-Man: I'll take a look - thanks for the ping
+21:04 < Snow-Man> schultmc: if there's something we need to do there then I think we had best do it and sooner rather than later provide an answer.
+21:04 < Snow-Man> schultmc: sent: Date: Wed, 16 Mar 2022 10:32:42 -0400
+21:04 < Snow-Man> If there was an update on that, I didn't see it.
+21:05 < Snow-Man> That's all for me.
+21:05 < schultmc> [item 4, Treasurer's Report]
+21:05 < schultmc> zumbi?
+21:05 < zumbi> The backlog is being processed, business as usual.
+21:05 < zumbi> .
+21:06 < schultmc> [item 5, Secretary's report]
+21:06 < schultmc> tpot?
+21:06 < tpot> No updates since the last meeting.
+21:07 < tpot> (Agenda link which doesn't seem to have made it to the website for today: https://www.spi-inc.org/meetings/agendas/2022/2022-03-28/)
+21:07 < schultmc> [item 6, Outstanding minutes]
+21:07 < schultmc> The minutes for the 2021-12-13 and 2022-02-14 meetings require approval.
+21:07 < schultmc> They can be found at
+21:07 < schultmc> https://www.spi-inc.org/meetings/minutes/2021/2021-12-13/ and
+21:08 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-02-14/
+21:08 < tpot> Voting started, 8 people (schultmc,snow-man,tpot,jconway,milan,lamby,zumbi,fsf) allowed to vote on Accept minutes for meeting Monday 13th December 2021. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:08 < lamby> Pretty sure I sent regrets for 2021-12-13, but I am correctly marked as 'absent [..]' :)
+21:08 < lamby> !vote abstain
+21:08 < Snow-Man> !vote yes
+21:08 < jconway> !vote yes
+21:09 < zumbi> !vote abstain
+21:09 < tpot> lamby: will fix
+21:09 < fsf> !vote yes
+21:09 < schultmc> !vote yes
+21:09 < milan> !vote yes
+21:09 < lamby> tpot: :-)
+21:09 < tpot> !vote yes
+21:09 < tpot> Current voting results for "Accept minutes for meeting Monday 13th December 2021": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:09 < tpot> Current voting results for "Accept minutes for meeting Monday 13th December 2021": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+21:09 < tpot> Voting for "Accept minutes for meeting Monday 13th December 2021" closed.
+21:09 < tpot> Voting started, 8 people (schultmc,snow-man,tpot,jconway,milan,lamby,zumbi,fsf) allowed to vote on Accept minutes for meeting Monday 14th February 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:09 < schultmc> !vote yes
+21:09 < lamby> !vote yes
+21:09 < Snow-Man> !vote yes
+21:09 < zumbi> !vote yes
+21:09 < fsf> !vote yes
+21:09 < jconway> !vote yes
+21:09 < tpot> !vote abstain
+21:09 < milan> !vote yes
+21:10 < tpot> Current voting results for "Accept minutes for meeting Monday 14th February 2022": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+21:10 < tpot> Voting for "Accept minutes for meeting Monday 14th February 2022" closed.
+21:10 < tpot> Thanks everone
+21:10 < schultmc> [item 7, Items up for discussion]
+21:10 < schultmc> [Item 7.1, Annual Report]
+21:10 < schultmc> tbm has asked if we'd like him to compile the 2021 Annual Report. He estimates up to 15 hours of work to compile the report.
+21:11 < Snow-Man> yes
+21:11 < lamby> Sounds good
+21:11 < schultmc> yes from me as well
+21:11 < milan> yes
+21:11 < schultmc> any objections?
+21:11 < zumbi> of course
+21:11 < fsf> +1 from me
+21:11 < jconway> +1
+21:11 < schultmc> I'll let him know
+21:11 < zumbi> no objections, +1
+21:12 < schultmc> [item 8, Any other business]
+21:12 < schultmc> Anything to discuss?
+21:12 < zumbi> I had 3 items up for discussion
+21:12 < lamby> I have 1
+21:12 < lamby> go ahead, zumbi? :)
+21:12 < schultmc> zumbi: go ahead, please
+21:13 < zumbi> First and second is about a couple projects leaving SPI
+21:13 < zumbi> I prepared a couple resolution drafts to review, and maybe vote if needed
+21:14 < zumbi> those are in the spi gsuite
+21:15 < zumbi> The third topic is about authorizing signing aws documents on behalf of spi to debian cloud people
+21:15 < schultmc> we can review them before the 2022-04-11 meeting
+21:15 < zumbi> How do you suggest we proceed with that?
+21:16 < zumbi> sounds good
+21:16 < zumbi> handing over to lamby
+21:16 < lamby> Do we have director elections coming up? Or, rather: is anyone about to term out?
+21:16 < schultmc> a formal resolution granting limited signing authority may be prudent, zumbi.
+21:17 < tpot> fsf, lamby and zobel are ageing out at the end of June.
+21:17 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-02-14/ has the election dates
+21:17 < lamby> Neat, thanks!
+21:17 < schultmc> zumbi, fsf, lamby and zobel according to that appendix
+21:18 < tpot> also hector, apparently. I think we're on the tail end of arranging director terms so they expire in equal amounts every year.
+21:18 < fsf> aka the covid crew v_v
+21:19 < tpot> zumbi: if you can post links to your resolutions to the board list I'll make sure they are on the website and in the agenda for the upcoming meeting in april
+21:20 < zumbi> tpot: I sent those March 9th, I have pinged the thread? could you please confirm you are receiving my emails to board@?
+21:21 < tpot> got it
+21:22 < zumbi> great! :)
+21:24 < schultmc> Any other business?
+21:24 < lamby> None here. :)
+21:24 < schultmc> [item 9, Next board meeting]
+21:24 < schultmc> The next board meeting is scheduled for: April 11, 2022 at 2000 UTC.
+21:24 < jconway> none here
+21:24 < schultmc> Any objections?
+21:24 < Snow-Man> wfm
+21:24 < jconway> wfm
+21:24 < zumbi> No objections here
+21:24 -!- tpot changed the topic of #spi to: Next SPI board meeting is on April 11th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-04-11/
+21:24 < lamby> I may be unavailable (IRL conference!), but will be there depending on schedule. Will know in advance.
+21:25 < schultmc> My new job starts 2022-04-04. I don't anticipate issues unless there's an active meeting at that time.
+21:25 < zumbi> good luck with it :)
+21:26 < milan> no objections
+21:27 < schultmc> *GAVEL*
+21:27 < schultmc> Thank you everyone for your attendance and participation
