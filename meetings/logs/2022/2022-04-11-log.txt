@@ -1,0 +1,248 @@
+21:00 < schultmc> *GAVEL*
+21:00 < schultmc> [item 1, Opening]
+21:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+21:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+21:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-04-11/
+21:00 < schultmc> [item 2, Roll Call]
+21:00 < schultmc> Directors, please state your name
+21:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+21:00 < Snow-Man> Stephen Frost
+21:00 < schultmc> recorded in the minutes of this meeting.
+21:00 < schultmc> .
+21:00 < schultmc> tpot, do we have any regrets?
+21:00 < schultmc> .
+21:00 < zumbi> Héctor Orón Martínez
+21:00 < schultmc> Michael Schultheiss
+21:00 < milan> Milan Kupcevic
+21:01 < schultmc> fsf: ping
+21:01 < schultmc> tpot: ping
+21:01 < schultmc> jconway: ping
+21:02 < tpot> Tim Potter
+21:03 < schultmc> still need one more board member for quorum
+21:03 < tpot> No regrets received
+21:04 < schultmc> at the last meeting lamby said he'd be at an IRL conference and may be unavailable
+21:05 < jconway> here now
+21:05 < jconway> sorry first day at new job
+21:06 < schultmc> no problem - thanks for coming
+21:06 < jconway> Joe Conway
+21:06 < jconway> for the record
+21:06 < schultmc> [item 3, President's Report]
+21:06 < schultmc> Stephen Frost, Héctor Orón Martínez, and I are planning on an in person meeting
+21:06 < schultmc> in Indianapolis this spring to update the signatories on our bank accounts,
+21:06 < schultmc> meet with our wealth management advisors, and finalize handover of treasury tasks.
+21:06 < schultmc> The scheduling of this face to face meeting is still being finalized.
+21:06 < schultmc> .
+21:06 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+21:06 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic job working
+21:06 < schultmc> with our contractors and legal counsel.
+21:06 < schultmc> .
+21:06 < schultmc> </done>
+21:06 < schultmc> .
+21:06 < schultmc> Snow-Man: do you have anything to add?
+21:06 < schultmc> Treasury f2f is tentatively scheduled for May 5-8, 2022
+21:07 < Snow-Man> Just that our IT contractor has let me know that they've made progress on the development work of the membership application
+21:07 < Snow-Man> and also dealt with some recent issues around emails from it ending up in spam
+21:07 < Snow-Man> We also renewed our RT agreement recently, though that's not of much note, but it's been working well imv to have it hosted.
+21:07 < Snow-Man> .
+21:08 < schultmc> [item 4, Treasurer's Report]
+21:08 < schultmc> zumbi?
+21:08 < zumbi> We have asked auditor to do last year audit, and they are ok with that, so we are going ahead with that
+21:09 < zumbi> Signed AWS logo usage policy for openzfs
+21:09 < zumbi> and processing payments as usual, we are in good state
+21:09 < zumbi> .
+21:10 < schultmc> [item 5, Secretary's report]
+21:10 < schultmc> tpot?
+21:11 < tpot> I have no updates.
+21:11 < schultmc> [item 6, Outstanding minutes]
+21:11 < schultmc> The minutes for the 2022-03-14 and 2022-03-28 meetings require approval.
+21:11 < schultmc> They can be found at
+21:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-03-14/ and
+21:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-03-28/
+21:12 < Snow-Man> not seeing the one for the 28th..?
+21:12 < jconway> same
+21:12 < tpot> Apologies - I haven't prepared the 28th yet
+21:13 < schultmc> ah - sorry, assumed it was there
+21:13 < Snow-Man> happy to vote on the 14th minutes, heh.
+21:14 < tpot> ok - we didn't really decide anything though
+21:14 < Snow-Man> I mean, if we need to vote on them, then we need to, if we don't, that's fine too..
+21:14 < zumbi> there was no quorum and we did 3/28 meeting
+21:15 < schultmc> it was inquorate - minutes are just a record of that
+21:15 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,jconway,milan,lamby,zumbi) allowed to vote on Accept minutes for meeting Monday 14th March 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:15 < Snow-Man> !vote yes
+21:15 < schultmc> !vote yes
+21:15 < jconway> !vote abstain
+21:15 < zumbi> !vote abstain
+21:15 < tpot> !vote yes
+21:15 < milan> !vote yes
+21:16 < tpot> whoops - left lamby in
+21:16 < tpot> Current voting results for "Accept minutes for meeting Monday 14th March 2022": Yes: 4, No: 0, Abstain: 2, Missing: 1 ( lamby )
+21:16 < tpot> Voting for "Accept minutes for meeting Monday 14th March 2022" closed.
+21:16 < schultmc> [item 7, Items up for discussion]
+21:16 < schultmc> Nothing on the agenda
+21:16 < schultmc> [item 8, Any other business]
+21:16 < schultmc> Anything to discuss?
+21:17 < tpot> zumbi had a few items
+21:17 < Snow-Man> Looking forward to the May f2f.
+21:17  * jesusalva thought he was present in 2022-03-14
+21:17 < zumbi> right, I had 3 drafts pending to vote, if you like
+21:17 < Snow-Man> Would like to get that f2f confirmed, for my 2c.
+21:18  * schultmc is available
+21:18 < tpot> Removal of Chakra Linux as an associated projecg
+21:18 < schultmc> zumbi: please confirm your availability asap
+21:18 < tpot> https://docs.google.com/document/d/1mj9gnuLRq5uJ9ZDxq7WG4pO-Z8RZhzaFx4YpGO8Mo1Y/edit
+21:18 < fsf> Sorry for my tardiness
+21:18 < fsf> (Forrest Fleming, very late)
+21:20 < Snow-Man> tpot: 'to the SPI fund'..?
+21:20 < schultmc> should be SPI General fund IMHO
+21:20 < Snow-Man> yeah, that would be better.
+21:20 < tpot> good catch
+21:20 < Snow-Man> rest of it lgtm
+21:20 < tpot> noted
+21:21 < tpot> if there are no more comments...
+21:21 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,jconway,milan,zumbi,fsf) allowed to vote on Removal of Chakra Linux as an associated project 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:21 < Snow-Man> !vote yes
+21:21 < schultmc> !vote yes
+21:22 < jconway> !vote yes
+21:22 < tpot> !vote yes
+21:22 < zumbi> !vote yes
+21:22 < milan> !vote yes
+21:22 < fsf> !vote yes
+21:22 < tpot> Current voting results for "Removal of Chakra Linux as an associated project 2022": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:22 < tpot> Voting for "Removal of Chakra Linux as an associated project 2022" closed.
+21:22 < tpot> Ditto for Glucosia, subject to the same change about the fund name.
+21:23 < tpot> https://docs.google.com/document/d/1Kb66OFcfE8xPEaxZMmculrtTBQWGm2YDsa-3dTWsTmg/edit
+21:23 < Snow-Man> lgtm
+21:24 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,jconway,milan,zumbi,fsf) allowed to vote on Removal of Glucosio as an associated project 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:24 < schultmc> !vote yes
+21:24 < jconway> !vote yes
+21:24 < fsf> !vote yes
+21:24 < Snow-Man> !vote yes
+21:24 < zumbi> !vote yes
+21:24 < milan> !vote yes
+21:24 < tpot> !vote yes
+21:24 < tpot> Current voting results for "Removal of Glucosio as an associated project 2022": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:24 < tpot> Voting for "Removal of Glucosio as an associated project 2022" closed.
+21:25 < tpot> last one
+21:25 < tpot> https://docs.google.com/document/d/1se5knbXXHMk0n2nOIXMnxLNoSkfZCrq7lXCH4xgFMmc/edit
+21:25 < tpot> the dreaded aws agreements
+21:25 < tpot> Thanks to zumbi for sorting this out finally and getting it moving again
+21:25 < Snow-Man> for my 2c, I'm not comfortable giving carte blanch delegation to a non-officer for signing documents on behalf of SPI
+21:26 < schultmc> The last paragraph seems spurious
+21:26 < zumbi> feel free to edit
+21:26 < zumbi> I find it quite limited, and not find this any carte blanch
+21:26 < Snow-Man> eh?  edit what?  I disagree with the entire premise.
+21:27 < zumbi> edit the last paragraph
+21:27 < zumbi> .. which has been editted
+21:27 < Snow-Man> looks to have already been removed, but that doesn't do anything to address my concern.
+21:27  * schultmc removed it - it seemed left over from the disassociation resolutions
+21:27 < Snow-Man> Has this been reviewed by counsel?
+21:27 < fsf> Right, there were a couple separate concerns. For my part, I'm similarly uncomfortable with this
+21:27 < Snow-Man> surely that's something we should do if the board is going to move forward with this.
+21:28 < Snow-Man> but "$person can sign anything with $org on behalf of SPI" is not something I'd be ok with
+21:28 < zumbi> From my side, no counsel has reviewed it
+21:28 < Snow-Man> if we want to talk about specific things that the board has reviewed and counsel has reviewed and we want to allow someone else to sign it, maybe we can do that
+21:28 < Snow-Man> but this is not at all ok, imv.
+21:29 < fsf> I would like to know more about what scoping mechanisms are possible for something like this. If they are impossible, I want to see what the potential downside is, why it's a risk we accept, and what we're doing to mitigate that risk where possible
+21:29 < tpot> My suggestion from past arguments about this was to create an aws user for a spi directory and have them log in, read, and accept the agreement but that didn't fly with Debian.
+21:30 < Snow-Man> I don't get why that's an issue.
+21:30 < fsf> naively, it seems like the potential downside is huge, we haven't done much/any mitigation, and the upside is minimal
+21:30 < tpot> It would be nice to read a copy of the agreement before having someone else sign it, if that's what we go withl
+21:30 < Snow-Man> I am certainly against have SPI sign things that we aren't able to see, heh.
+21:30 < tpot> From memory the agreement is pretty standardly one-sided in favor of AWS.
+21:31 < Snow-Man> they don't have any other kind, ime :)
+21:31 < fsf> tpot: I think that's the reasonable thing to do here. They can limit the user as much as they like, but it seems strange to me for this delegation to be the way forward
+21:31 < fsf> 'that' meaning "debian adds an SPI user to their account, suitably limited, etc"
+21:32 < tpot> they can delete it when done of course
+21:32 < Snow-Man> idk that there's really much more to discuss on this specific proposal.
+21:32 < zumbi> for reference, check rt#3574
+21:32 < Snow-Man> I won't be voting for it.
+21:32 < zumbi> ... and maybe rt#3383
+21:33 < tpot> ok so can we get a copy of said agreement before anyone signs it first?
+21:33 < zumbi> we can amend the resolution to make it a requirement
+21:34 < fsf> will that be legally enforceable? ie if the process is not followed, but the document is signed, has SPI still engaged in the contract? Would like a lawyer to answer that one
+21:34 < tpot> should we continue discussing on board@?
+21:34 < zumbi> Snow-Man: at https://rt.spi-inc.org/Ticket/ShowEmailRecord.html?id=3574&Transaction=104739&Attachment=81552 you suggest authority should be delegated
+21:34 < Snow-Man> for signing one specific document after it's been reviewed by the board and counsel
+21:34 < zumbi> and we are dragging this issue forever
+21:34 < tpot> or the RT
+21:34 < Snow-Man> this is not that, at all
+21:34 < tpot> yeah i'd like to see this one finished finally
+21:35 < Snow-Man> (and I'd still prefer it be done by an officer)
+21:35 < zumbi> it is clear the contract to sign is AWS GovCloud agreement, which is standard document
+21:36 < zumbi> I do not see any problem on delegating the vote to Debian cloud folks
+21:36 < zumbi> s/vote/signing
+21:36 < Snow-Man> that is not what this resolution says
+21:36 < zumbi> I'd have sign it, but I believe it needs to be US person
+21:36 < Snow-Man> Is it possible to have an officer sign it?
+21:36 < Snow-Man> How would you be able to?
+21:37 < zumbi> I cannot sign it
+21:37 < Snow-Man> This is the foolishness of this- if we can have an SPI officer sign it, then I'd be willing to do so once reviewed, as I've said before.
+21:37 < Snow-Man> I'm a US person, blah, blah.
+21:37 < zumbi> you did not seem to want to sign it
+21:37 < Snow-Man> erm
+21:38 < zumbi> otherwise I do not understand why we are discussing this for years
+21:38 < Snow-Man> I don't get this confusion.  I've signed a number of things on behalf of SPI
+21:38 < Snow-Man> my understanding was that the debian cloud folks didn't want to have an account for me to sign whatever this thing is
+21:39 < Snow-Man> if they're going to stick with that, then fine, maybe we delegate it, as I said, but it would be a very constrained delegation for that one thing, *after* it's been reviewed
+21:39 < zumbi> But you suggested if you sign it - it is SPI thing, not Debian
+21:39 < Snow-Man> uh
+21:39 < Snow-Man> it's an SPI thing either way
+21:39 < milan> Is this the agreement text: https://aws.amazon.com/agreement/
+21:40 < Snow-Man> if they want to sign it as Debian, that's a whole different thing and brings a whole lot of risk
+21:40 < Snow-Man> (to every DD, to be clear)
+21:40 < zumbi> The point is they want to avoid that, they want SPI to sign/own it
+21:40 < Snow-Man> (... and if 'debian' starts doing that, I'd probably resign as a DD, heh)
+21:40 < Snow-Man> yes, then it's an SPI thing
+21:41 < Snow-Man> which is fine, I've signed SPI things before, as have other officers
+21:41 < zumbi> milan: I do not think that's the one, since I understood requires US person (AWS GovCloud (US) agreement)
+21:42 < tpot> ah yes that was the other wrinkle - us person required
+21:42 < milan> We could authorize a person to sign a specific agreement. We should run this question by a counsel on how to do that properly.
+21:42  * jesusalva Actually, just like Valve/Steam, they have public agreements and confidential agreements depending on what you're dealing with.
+21:42 < tpot> we have a few of those
+21:42 < schultmc> Snow-Man and I are both .us based officers
+21:43 < tpot> zumbi: can we get a copy of the agreement to review? then maybe try asking for a SPI user to create
+21:43 < zumbi> sure - we can try that
+21:43 < tpot> I can test out on my personal account, but there should be no problems createing a perission0-less user who can loig into the console.
+21:43 < zumbi> (but I do not get why this is still open after so long)
+21:44 < tpot> yeah i agree it's bad
+21:44 < Snow-Man> because they refuse to let an officer be the one to sign it, frankly.
+21:44 < zumbi> let's defer, since they want us to do similar thing on Huawei cloud
+21:44 < zumbi> we can review whatever concerns you may have
+21:45 < zumbi> Snow-Man: I think there is a disconect somewhere
+21:45 < Snow-Man> if you say so.
+21:45 < Snow-Man> zumbi: let's get that May 5th meeting to happen and maybe you and I can hash it out in person.
+21:46 < zumbi> I am happy to mediate and find out the issues there
+21:46 < jesusalva> May I ask a question?
+21:47  * jesusalva is not a board member so will wait for permission
+21:48 < zumbi> I have no issue with jesusalva question, but I defer to my colleagues
+21:49 < schultmc> jesusalva: please ask your question
+21:49 < jesusalva> If SPI is to sign it (and therefore "own" it, at least legally), what's the rationale behind a non-officer signing it? It's a bit confusing here on the sidelines 😅
+21:49 < Snow-Man> imv, there really isn't one.
+21:50 < milan> It is probably just a question of technicality on how to practically get a person in position to execute the agreement.
+21:51 < tpot> well if we can at least get a copy of the agreement that wiull be progress
+21:51 < Snow-Man> if you want my 2c on it, the issue is that they went and created all of these things, probably agreed to things that they really shouldn't have in doing so, and are now trying to back-in to get SPI to essentially bless what they did and sign these other things that they're concerned about signing
+21:52 < Snow-Man> making all of this very backwards
+21:52 < tpot> can we move on to f2f? I am not planning to do any i18n travel for the moment
+21:52 < Snow-Man> I don't think there's much more to be gained by continuing this here tho.
+21:52  * jesusalva is also wondering if anyone asked Amazon about it, just in case Amazon got some magic solution.
+21:53  * jesusalva already spoke too much, though. Thanks for the answer.
+21:53 < tpot> a printed agreement would be nice
+21:53 < tpot> i suspect they are not in the business of making exceptions for small customers
+21:56 < zumbi> I sent follow-up to RT#3574
+21:56 < Snow-Man> maybe some of them would like to run for the board .. :)
+21:57 < Snow-Man> (that folks seem to imagine that having a debian-specific org would somehow make things better amuses me, as then they'd need to fill yet another board with willing people who will spend time on these things..)
+21:58 < zumbi> RT#5526 has some interesting rationale
+21:58 < Snow-Man> 'interesting'
+21:58 < Snow-Man> anyway, we need to move on, we're already at time
+21:59 < schultmc> [item 9, Next board meeting]
+21:59 < schultmc> The next board meeting is scheduled for: May 9, 2022 at 2000 UTC.
+21:59 < schultmc> Any objections?
+21:59 < jconway> wfm
+21:59 < Snow-Man> I'm not sure if I'll be able to make that one
+21:59 < zumbi> interesting as this account has not yet been created and they want SPI to sign it, but there is no contract/agreement to review, but some clicky webby stuff to accept
+21:59 < schultmc> works for me
+22:00 < Snow-Man> I'll try to, to be clear, but just want to let folks know that I might miss it.
+22:00 -!- tpot changed the topic of #spi to: Next SPI board meeting is on May 9th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-05-09/
+22:00 < Snow-Man> zumbi: do you think you'd be able to make a meeting on May 9, if you're in Indy on the 8th?
+22:00 < zumbi> I might be getting back from f2f, otherwise is ok
+22:00 < schultmc> *GAVEL*
