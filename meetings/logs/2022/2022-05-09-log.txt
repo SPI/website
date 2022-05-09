@@ -1,0 +1,189 @@
+06:00 < schultmc> *GAVEL*
+06:00 < schultmc> [item 1, Opening]
+06:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+06:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+06:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-05-09/
+06:00 < schultmc> [item 2, Roll Call]
+06:01 < schultmc> Directors, please state your name
+06:01 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+06:01 < schultmc> recorded in the minutes of this meeting.
+06:01 < schultmc> .
+06:01 < tpot> Tim Potter
+06:01 < milan> Milan Kupcevic
+06:01 < schultmc> tpot, do we have any regrets?
+06:01 < zumbi> Héctor Orón Martínez
+06:01 < schultmc> .
+06:01 < tpot> No regrets
+06:01 < jconway> Joe Conway
+06:01 < fsf> Forrest Fleming
+06:01 < schultmc> Michael Schultheiss
+06:01 < lamby> Chris Lamb
+06:01 < schultmc> Snow-Man mentioned possible regrets due to travel. Regardless, we're quorate
+06:02 < schultmc> [item 3, President's Report]
+06:02 < schultmc> Stephen Frost, Héctor Orón Martínez, and I met the past few days in Indianapolis. We got
+06:02 < schultmc> signatories updated on all of our bank accounts and met with our wealth management advisor
+06:02 < schultmc> at Merrill Lynch and are planning some account consolidations. We also worked heavily in RT
+06:02 < schultmc> and got both the board and treasurer queues to a more reasonable level. Héctor should have
+06:02 < schultmc> full access to handle all treasury tasks now but I continue to be available to assist with
+06:02 < schultmc> treasury tasks as needed.
+06:02 < schultmc> .
+06:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling
+06:02 < schultmc> contracting with SPI's contractors. Stephen continues to do a fantastic job working
+06:02 < schultmc> with our contractors and legal counsel.
+06:02 < schultmc> .
+06:02 < schultmc> </done>
+06:02 < schultmc> Any questions?
+06:03 < lamby> No questions, just to say loving the RT activity!
+06:03 < jconway> Is there a reason the emails from RT don't use the new gsuite accounts?
+06:04 < schultmc> they should - Perdu can verify your RT account is using your @spi-inc.org address.
+06:04 < jconway> ok thanks
+06:04 < schultmc> [item 4, Treasurer's Report]
+06:04 < schultmc> zumbi?
+06:04 < Snow-Man> Stephen Frost
+06:04 < zumbi> - Updated signatories for bank accounts
+06:04 < zumbi> - Enabled Zelle donations via treasurer@spi-inc.org, website updated
+06:04 < zumbi> - Cleaned up treasurer and board RT queues
+06:04 < zumbi> - Treasurer has now more access for billing information and USD payments processing
+06:04 < zumbi> .
+06:04 < Snow-Man> (apologies for being a bit late)
+06:05 < lamby> (hey Snow-Man)
+06:05 < tpot> Yeah that's everyone!
+06:05 < schultmc> Snow-Man: do you have anything to add report wise?
+06:06 < Snow-Man> Our IT contractor continues to work on the members app website, he's now deployed a beta version that I'm starting to play with.
+06:06 < Snow-Man> Other than that, main update is that the meetings in Indy went quite well and I'll be following up on my actions regarding those next week (mostly getting myself set up with electronic access to various accounts).
+06:06 < Snow-Man> I did also try to go back through missed items sent to board@
+06:07 < Snow-Man> if anyone else has time to help with those things, that would really be great.
+06:07 < Snow-Man> .
+06:07 < schultmc> [item 5, Secretary's report]
+06:08 < schultmc> tpot?
+06:08 < tpot> Minutes and resolutions are all up to date. Please let me know if you see any errors and I'm happy to fix things up.
+06:08 < tpot> .
+06:08 < schultmc> [item 6, Outstanding minutes]
+06:08 < schultmc> The minutes for the 2022-03-28 and 2022-04-11 meetings require approval.
+06:08 < schultmc> They can be found at
+06:08 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-03-28/ and
+06:08 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-04-11/
+06:09 < tpot> Please take a moment to read through the minutes.
+06:09 < tpot> Voting started, 8 people (schultmc,tpot,jconway,milan,lamby,zumbi,fsf,snow-man) allowed to vote on Accept minutes for meeting Monday 28th March 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:09 < schultmc> !vote yes
+06:09 < jconway> !vote yes
+06:09 < tpot> !vote yes
+06:09 < lamby> !vote yes
+06:09 < milan> !vote yes
+06:09 < zumbi> !vote yes
+06:09 < Snow-Man> !vote yes
+06:10 < schultmc> fsf: ping
+06:10 < fsf> !vote yes
+06:10 < tpot> Current voting results for "Accept minutes for meeting Monday 28th March 2022": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+06:10 < tpot> Voting for "Accept minutes for meeting Monday 28th March 2022" closed.
+06:10 < tpot> - /vote_start Accept minutes for meeting Monday 11th April 2022:schultmc,tpot,jconway,milan,lamby,zumbi,fsf,Snow-Man
+06:10 < tpot> Voting started, 8 people (schultmc,tpot,jconway,milan,lamby,zumbi,fsf,snow-man) allowed to vote on Accept minutes for meeting Monday 11th April 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:11 < lamby> !vote abstain
+06:11 < zumbi> !vote yes
+06:11 < jconway> !vote yes
+06:11 < Snow-Man> !vote yes
+06:11 < tpot> !vote yes
+06:11 < milan> !vote yes
+06:11 < fsf> !vote yes
+06:11 < schultmc> !vote yes
+06:11 < tpot> Current voting results for "Accept minutes for meeting Monday 11th April 2022": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+06:11 < tpot> Current voting results for "Accept minutes for meeting Monday 11th April 2022": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+06:11 < tpot> Voting for "Accept minutes for meeting Monday 11th April 2022" closed.
+06:11 < tpot> Thanks everyone
+06:11 < zumbi> Note there is a typo Glucosia -> Glucosio
+06:12 < tpot> Noted
+06:12 < bittin_> ah thats why i did not found what it was (was curious and googled)
+06:13 < schultmc> [item 7, Items up for discussion]
+06:13 < schultmc> [item 7.1, Updated SPI Financial Account Resolution]
+06:13 < tpot> https://www.spi-inc.org/corporate/resolutions/2022/2022-05-09.mcs.1/
+06:13 < schultmc> I drafted a resolution with the most up to date permissions and signatories.
+06:13 -!- bittin_ [~luna@81-231-116-57-no53.tbcn.telia.com] has quit [Remote host closed the connection]
+06:14 < schultmc> None of the banks we met with explicitly requested this but it's good to keep our records up to date regardless.
+06:14 < Snow-Man> +1
+06:14 < lamby> +1
+06:14 < tpot> LGTM also - saves having to do an emergency resolution
+06:14 < jconway> +1
+06:15 < tpot> If there is no discussion I will start a vote.
+06:15 < schultmc> +1
+06:15 < tpot> Voting started, 1 people ( updated spi financial account resolution) allowed to vote on Accept resolution 2022-05-09.mcs.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:15 < schultmc> !vote yes
+06:15 < zumbi> !vote yes
+06:15 < jconway> !vote yes
+06:15 < tpot> !vote yes
+06:15 < milan> !vote yes
+06:15 < Snow-Man> !vote yes
+06:15 < lamby> !vote yes
+06:16 < tpot> Current voting results for "Accept resolution 2022-05-09.mcs.1": Yes: 0, No: 0, Abstain: 0, Missing: 1 (  updated spi financial account resolution )
+06:16 < tpot> Voting for "Accept resolution 2022-05-09.mcs.1" closed.
+06:16 < tpot> whoops - fsf?
+06:17 < Snow-Man> (Yes: 0 ? lol(
+06:17 < tpot> wait wat
+06:17 < tpot> voting script fail
+06:17 < schultmc> bad bot LOL
+06:17 < Snow-Man> hahaha
+06:17 < bittin> laptop died, but i am still here watching on my desktop
+06:18 < tpot> Don't think it copes with leading spaces.
+06:18 < schultmc> bittin: only SPI board members should speak during the meeting unless called upon.
+06:18 < bittin> (sorry)
+06:18 < tpot> fsf: ping?
+06:18 < schultmc> tpot: should we move on or wait for fsf?
+06:19 < tpot> Let's move on
+06:19 < schultmc> [item 8, Any other business]
+06:19 < schultmc> Anything to discuss?
+06:19 < schultmc> I have 2 items
+06:19 < lamby> (nothing here)
+06:19 < Snow-Man> I wanted to bring up emails to board@ getting missed..
+06:19 < jconway> nothing here
+06:19 < zumbi> Following up on AWS discussion, debian cloud agreed to provide us with credentials to be able to review and sign AWS agreements, this is work in progress
+06:20 < Snow-Man> In particular, it seems to me that it's part of secretary@'s mandate to try to make sure things sent to the board aren't missed.  I recently went through and found like 3 or 4 emails that went to board@ which didn't have any response that I saw.  If secretary@ isn't the right role to handle that- then what is?
+06:21 < tpot> OK - is it appropriate to create board tickets or make any assignations?
+06:22 < Snow-Man> I don't have any issue with making tickets as appropriate.
+06:22 < Snow-Man> I'm less a fan of just assigning tickets to people with the assumption that they'll realize they've been given something.
+06:22 < tpot> I will work on being more responsive.
+06:23 < Snow-Man> Thanks.
+06:23 < schultmc> My items:
+06:23 < schultmc> 1. Nominations for SPI's 2022 board election open 2022-07-01. 4 board seats
+06:23 < schultmc> are up for election this year. If you are interested in running for the
+06:23 < schultmc> SPI board, feel free to reach out to current board members to get
+06:23 < schultmc> information about the SPI board and its director needs.
+06:23 < Snow-Man> (I did respond to those, CC'd board@, and will try to continue to follow up on those threads)
+06:25 < schultmc> 2. Drizzle Trademark. The Drizzle trademark is up for renewal soon.
+06:25 < schultmc> Drizzle was disassociated from SPI on 2019-08-12. The disassociation
+06:25 < schultmc> resolution includes: "It is SPI's good-faith intention to manage the
+06:25 < schultmc> Drizzle trademark in a manner that appropriately befits the overall
+06:25 < schultmc> mission of SPI." Should we continue to renew the Drizzle trademark
+06:25 < schultmc> or let it expire?
+06:26 < Snow-Man> Given that it's not actively in use, it probably wouldn't really be appropriate for us to try to renew it.
+06:26 < zumbi> expire - without holding strong opiniono on it
+06:26 < tpot> If there's een no interest in the last 3 years I agree with letting it expire
+06:26 < milan> If it is not in use just let it expire.
+06:26 < jconway> +1 to expire
+06:26 < schultmc> Sounds reasonable - I'll mention it to Pam.
+06:27 < lamby> +1
+06:28 < jesusalva> Regarding Drizzle ─ What's https://trufflesuite.com/drizzle/ ?
+06:29 < jesusalva> (I want to know if I'm looking at the right Drizzle or if I'm lost -.-)
+06:29 < tpot> No that's someting new.
+06:29 < tpot> Drizzle was a MySqL clone of some kind I beliee.
+06:30  * bittin helped removing Chakra and Glucosio from the SPI Wikipedia page also think its this Drizzle: https://en.wikipedia.org/wiki/Drizzle_(database_server)
+06:31 < tpot> I suspect we might want to investigate if there is some kind of overlap or deliberate/accidental confusion with MySQL, but this looks new.
+06:31 -!- mordred [~mordredin@2001:470:1af1:101::88c7] has joined #spi
+06:31 < tpot> Still in favor of letting it expire and have another project take up the trademark if they want.
+06:33 < zumbi> Also I want to add that (to the treasurer report) audit 2021 has been provided with all data they need for now, so they can start the audit this month as agreed.
+06:33 < lamby> neat, thanks
+06:33 < Snow-Man> I did also want to mention to everyone- SPI is very interested in having folks help us move things forward, and you don't have to be a board member to help!  We have started working on a specific document of things that we need help with and ideas we have about what can be done, including- project liason (from SPI back to projects to ask them about how SPI can help them and other things), Website
+06:33 < Snow-Man> design/development (we are working on moving towards a django/python stack for this which will hopefully be easier for new folks to help with), and there's more that volunteers could definitely help us out with!  Of course, we also need folks on the board who can commit to making the regular meetings and handling tasks which need to be done.
+06:34 < zumbi> Big thanks to Martin (tbm) and rest of SPI contractors, they doing great
+06:34 < mordred> (former Drizzle core dev here) - I'm pretty sure none of us have touched anything in several years. Last I checked I needed to do work to even get it to build and I didn't have much motivation to do so. I'd be hard pressed to justify keeping a trademark around
+06:35 < lamby> Thanks all.
+06:35 < zumbi> Thanks mordred for input on that one
+06:36 < lamby> Any other Any Other Business? :)
+06:36 < schultmc> [item 9, Next board meeting]
+06:36 < schultmc> The next board meeting is scheduled for: June 13, 2022 at 2000 UTC.
+06:36 < schultmc> Any objections?
+06:36 < lamby> wfm :)
+06:36 -!- tpot changed the topic of #spi to: Next SPI board meeting is on June 13th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-06-13/
+06:36 < zumbi> No objection
+06:36 < Snow-Man> Should be good for me.
+06:36 < jconway> none here
+06:37 < schultmc> wfm
+06:37 < schultmc> *GAVEL*
