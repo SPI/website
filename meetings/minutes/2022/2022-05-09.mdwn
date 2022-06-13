@@ -1,0 +1,167 @@
+[[!meta copyright="Copyright © 2022 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, May 9th, 2022
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Joe Conway (jconway)
+* Forrest Fleming (fsf)
+* Milan Kupcevic (milan)
+* Chris Lamb (lamby)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Martin Zobel-Helas (zobel)
+
+__Registered guests present__
+
+* Luna Jernberg (bittin)
+* Jonatas Luis Nogueira (jesusalva)
+
+These are the minutes for the May 9th, 2022 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2022/2022-05-09-log.txt).
+
+## President's Report
+
+<pre>
+Stephen Frost, Héctor Orón Martínez, and I met the past few days in
+Indianapolis. We got signatories updated on all of our bank accounts
+and met with our wealth management advisor at Merrill Lynch and are
+planning some account consolidations. We also worked heavily in RT and
+got both the board and treasurer queues to a more reasonable
+level. Héctor should have full access to handle all treasury tasks now
+but I continue to be available to assist with treasury tasks as
+needed.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling
+contracting with SPI's contractors. Stephen continues to do a
+fantastic job working with our contractors and legal counsel.
+</pre>
+
+## Treasurer's report
+
+<pre>
+- Updated signatories for bank accounts
+- Enabled Zelle donations via treasurer@spi-inc.org, website updated
+- Cleaned up treasurer and board RT queues
+- Treasurer has now more access for billing information and USD payments
+</pre>
+
+## Secretary's report
+
+<pre>
+Minutes and resolutions are all up to date. Please let me know if you
+see any errors and I'm happy to fix things up.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday March 28th 2022
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 8 yes, 0 no and 0 abstain.
+
+### Vote on minutes for meeting Monday April 11th 2022
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Abstain</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 no and 1 abstain.
+
+## Items up for discussion
+
+### Vote on resolution 2022-05-09.mcs.1: Updated SPI Financial Account resolution
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 no and 0 abstain.
+
+## Any other business
+
+Stephen Frost reminded directors to be more resonsive in addressing
+mails sent to the board address as this is the primary contact point
+for SPI board members and directors.
+
+Nominations for SPI's 2022 board election open 2022-07-01. Four board
+seats are up for election this year. If you are interested in running
+for the SPI board, feel free to reach out to current board members to
+get information about the SPI board and its director needs.
+
+It was decided that SPI would not renew the expiring Drizzle trademark
+due to the project being abandoned many years ago.
+
+SPI is very interested in having folks help us move things forward,
+and you don't have to be a board member to help!  We have started
+working on a specific document of things that we need help with and
+ideas we have about what can be done, including- project liason (from
+SPI back to projects to ask them about how SPI can help them and other
+things). We are working on moving the member websire towards a
+django/python stack for this which will hopefully be easier for new
+folks to help with), and there's more that volunteers could definitely
+help us out with!  Of course, we also need folks on the board who can
+commit to making the regular meetings and handling tasks which need to
+be done.
+
+## Adjournment
+
+The meeting was adjourned until Monday June 13th 2022 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2020</td><td>Tim Potter</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td></tr>
+</tbody>
+</table>
