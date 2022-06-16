@@ -28,11 +28,10 @@ This is a *draft*.
    4093.64 USD    4103.41 USD      -9.77 USD    PaypalSPI
   30543.52 USD   42113.34 USD  -11569.82 USD    Receivable
   37579.35 USD   37579.35 USD              0    Transfers
-  52650.48 USD      39.14 USD   52611.34 USD  Expenses
+  42650.48 USD      39.14 USD   42611.34 USD  Expenses
     777.07 USD      19.10 USD     757.97 USD    Bank-Fees
-  10507.71 USD              0   10507.71 USD    Conferences
+    507.71 USD              0     507.71 USD    Conferences
     430.48 USD              0     430.48 USD      Dining
-  10000.00 USD              0   10000.00 USD      Services
      77.23 USD              0      77.23 USD      Venue
       3.94 USD              0       3.94 USD    Currency-Exchange
    9094.65 USD              0    9094.65 USD    IT
@@ -53,9 +52,9 @@ This is a *draft*.
              0      16.59 USD     -16.59 USD    Interest
              0     650.00 USD    -650.00 USD    Sponsorship
      15.10 USD     392.68 USD    -377.58 USD    Unrealized-Gain
-  65607.26 USD   63168.34 USD    2438.92 USD  Liabilities:Payable
+  65607.26 USD   53168.34 USD   12438.92 USD  Liabilities:Payable
 --------------------------------------------
- 272270.82 USD  272270.82 USD              0
+ 262270.82 USD  262270.82 USD              0
 </pre>
 
 ### Year to date, ending 2022-06-01
@@ -86,13 +85,12 @@ This is a *draft*.
              0 3073194.99 USD -3073194.99 USD  Equity:Net-Assets
              0 2572016.86 USD -2572016.86 USD    Restricted
              0  501178.13 USD -501178.13 USD    Unrestricted
- 183463.38 USD    1362.47 USD  182100.91 USD  Expenses
+ 173463.38 USD    1362.47 USD  172100.91 USD  Expenses
   16452.43 USD              0   16452.43 USD    Accounting
    4248.75 USD      36.14 USD    4212.61 USD    Bank-Fees
-  10530.86 USD              0   10530.86 USD    Conferences
+    530.86 USD              0     530.86 USD    Conferences
     430.48 USD              0     430.48 USD      Dining
      23.15 USD              0      23.15 USD      Materials
-  10000.00 USD              0   10000.00 USD      Services
      77.23 USD              0      77.23 USD      Venue
      90.22 USD              0      90.22 USD    Currency-Exchange
      39.84 USD      39.84 USD              0    Disassociation
@@ -117,9 +115,9 @@ This is a *draft*.
      48.76 USD    1348.72 USD   -1299.96 USD    Interest
              0    1075.00 USD   -1075.00 USD    Sponsorship
     258.86 USD    6730.50 USD   -6471.64 USD    Unrealized-Gain
- 231845.23 USD  256441.23 USD  -24596.00 USD  Liabilities:Payable
+ 231845.23 USD  246441.23 USD  -14596.00 USD  Liabilities:Payable
 --------------------------------------------
-4429543.05 USD 4429543.05 USD              0
+4419543.05 USD 4419543.05 USD              0
 </pre>
 
 ## Per project summaries
@@ -291,12 +289,10 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  10040.15 USD              0  -10040.15 USD  Expenses
-  10000.00 USD              0  -10000.00 USD    Conferences:Services
-     40.15 USD              0     -40.15 USD    IT:Hosting
+     40.15 USD              0     -40.15 USD  Expenses:IT:Hosting
      50.00 USD    1000.00 USD     950.00 USD  Income:Donations
 --------------------------------------------
-  10090.15 USD    1000.00 USD   -9090.15 USD
+     90.15 USD    1000.00 USD     909.85 USD
 
 </pre>
 
@@ -742,15 +738,14 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  125817.84 USD  125817.84 USD  Equity:Net-Assets:Restricted
-  10469.17 USD              0  -10469.17 USD  Expenses
+    469.17 USD              0    -469.17 USD  Expenses
     201.13 USD              0    -201.13 USD    Bank-Fees
-  10000.00 USD              0  -10000.00 USD    Conferences:Services
     268.04 USD              0    -268.04 USD    IT
      85.83 USD              0     -85.83 USD      Domains
     182.21 USD              0    -182.21 USD      Hosting
     825.25 USD   16505.00 USD   15679.75 USD  Income:Donations
 --------------------------------------------
-  11294.42 USD  142322.84 USD  131028.42 USD
+   1294.42 USD  142322.84 USD  141028.42 USD
 
 </pre>
 
