@@ -1,0 +1,153 @@
+21:06 < Snow-Man> *GAVEL*
+21:06 < Snow-Man> [item 1, Opening]
+21:06 < Snow-Man> Welcome to this meeting of the board of Software In The Public Interest (SPI)
+21:06 < Snow-Man> [item 2, Roll call]
+21:06 < Snow-Man> Directors, please state your name
+21:06 < milan> Milan Kupcevic
+21:06 < jconway> Joe Conway
+21:06 < Snow-Man> Stephen Frost
+21:06 < fsf> Forrest Fleming
+21:07 < Snow-Man> tpot: any regrets?
+21:07 < tpot> Tim Potter
+21:07 < tpot> No regrets
+21:07 < zumbi> Héctor Orón Martínez
+21:07 < lamby> Chris Lamb
+21:07 < Snow-Man> [item 3, President's Report]
+21:07 < Snow-Man> Michael's not here
+21:07  * jesusalva is forgotten
+21:07 < Snow-Man> Anyone joining who wishes to be on record, please msg tpot
+21:08 < Snow-Man> In terms of VP, we continue to work with our contractors to move things forward, in particular the new membership system and also getting off of the old systems and on to the new ones.
+21:08 < Snow-Man> We recently chatted w/ Gandi and it sounds like they're open to potentially helping with domains and renewals.
+21:09 < Snow-Man> Projects who have domains with SPI should expect to hear from our IT contractor soon regarding getting them set up with the Gandi group that is supporting SPI with domain renewals.
+21:09 < Snow-Man> [item 4, Treasurer's Report]
+21:10 < Snow-Man> zumbi: ?
+21:10 < zumbi> Slow progress, due to paternity. However, payments are being processed, but there is some backlog that should be addressed end of this week. Statements had been collected for April and May, and website should also get updated real soon now.Audit is progressing and we keep looking for required documentation for auditor.
+21:10 < zumbi> .
+21:10 < Snow-Man> great, thanks.
+21:10 < Snow-Man> [item 5, Secretary's report]
+21:10 < Snow-Man> tpot: ?
+21:11 < tpot> Board elections are coming up in July. I'll be sending out the usual email to the members list asking for nominations.
+21:11 < tpot> Existing directors are encouraged to reapply and we'd love to have new people on the board as well.
+21:11 < tpot> .
+21:12 < Snow-Man> thanks
+21:12 < tpot> Oh - one more thing
+21:12 < Snow-Man> go ahea
+21:12 < Snow-Man> +d
+21:13 < tpot> I will be resigning at the conclusion of the election (one year early) for personal reasons. I'm happy to help out anyone who would like to take over with advice, templates etc.
+21:13 < Snow-Man> If anyone's been interested about joining the board and could help with the secretary role, that would be really great and please reach out to us.
+21:13 < tpot> I've had a great time with everone especially at the F2F meetings but family comittements make me unable to continue.
+21:13 < tpot> .
+21:14 < zumbi> Thanks tpot for all those years.
+21:14 < Snow-Man> We really appreciate all you've done, tpot.
+21:14 < Snow-Man> [item 6, Outstanding minutes]
+21:14 < Snow-Man> Do we have minutes to approve?
+21:14 < tpot> Yes - last month - let me find the link
+21:15 < tpot> https://www.spi-inc.org/meetings/minutes/2022/2022-05-09
+21:15 < tpot> Please take a few minutes to read through.
+21:15 < Snow-Man> awesome, thanks.
+21:15 < Snow-Man> lgtm
+21:16 < Snow-Man> ready to move to vote when you are, tpot
+21:16 < tpot> Voting started, 7 people (snow-man,tpot,jconway,milan,lamby,zumbi,fsf) allowed to vote on Accept minutes for meeting Monday 9th May 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:16 < lamby> !vote yes
+21:16 < Snow-Man> !vote yes
+21:16 < jconway> !vote yes
+21:16 < zumbi> !votes yes
+21:16 < fsf> !vote yes
+21:16 < tpot> !vote yes
+21:16 < milan> !vote yes
+21:16 < tpot> Current voting results for "Accept minutes for meeting Monday 9th May 2022": Yes: 6, No: 0, Abstain: 0, Missing: 1 ( zumbi )
+21:16 < tpot> Voting for "Accept minutes for meeting Monday 9th May 2022" closed.
+21:16 < tpot> zumbi?
+21:17 < Snow-Man> typo
+21:17 < zumbi> !vote yes
+21:17 < tpot> thanks everyone
+21:17 < Snow-Man> thank you
+21:17 -!- michaelni [~michael@213-47-68-29.cable.dynamic.surfer.at] has quit [Ping timeout: 480 seconds]
+21:17 < Snow-Man> [item 7, Items up for discussion]
+21:17 < Snow-Man> [item 7.1, Considering application for MPI to join as an associated project]
+21:18 < Snow-Man> They've asked to join, I don't have any particular issue with it.
+21:18 < tpot> LGTM
+21:18 < Snow-Man> Hopefully others on the board saw the email traffic on it.
+21:18 < Snow-Man> tpot: I didn't have the actual resolution formally ready, do you, perhaps?
+21:19 < Snow-Man> (Technically it's the "MPI Forum", I think, btw)
+21:19 < tpot> I was unsure whether it was at that stage or not.
+21:20 < Snow-Man> I believe it to be unless someone feels otherwise..?
+21:20 < Snow-Man> I had a conf call with them and discussed things also
+21:21 < Snow-Man> And they've formally submitted an application via email.
+21:21 < tpot> give me a sec - move on to the next item perhaps?
+21:21 < zumbi> That's fine to me
+21:22 < Snow-Man> sure
+21:22 < Snow-Man> [item 7.2, RT-5046: Debian invoice 1054]
+21:23 < Snow-Man> Basically, it's unclear who signed what agreement with the group that's doing that work, but we're being asked to pay the invoice.
+21:23 < Snow-Man> it's only $2k and Debian's authorized it for their part
+21:23 < Snow-Man> so, for my 2c anyway, I'm alright with us paying it.
+21:24 < Snow-Man> Any objections or concerns..?
+21:24 < Snow-Man> details on it are available in RT
+21:24 < zumbi> I am ok paying it, then asking for agreement letter for later audit
+21:24 < Snow-Man> yes, agreed.
+21:25 < Snow-Man> [item 7.3, Considering application for Battle for Wesnoth to join as an associated project]
+21:25 < Snow-Man> I'd put this in the same boat as 7.1, pretty sure they're ready to join and I don't see any problem with that.
+21:26 < Snow-Man> it's related a bit to 7.4, but not too much, thanks to tpot for pointing out we already have an apple account, heh.
+21:26 < Snow-Man> [item 7.4, SPI Apple account]
+21:26 < Snow-Man> ... we apparently already have one.
+21:26 -!- michaelni [~michael@213-47-68-29.cable.dynamic.surfer.at] has joined #spi
+21:27 < Snow-Man> [item 7.5, RT-5673: additional domain registrar]
+21:27 < Snow-Man> This has been more-or-less handled, I think, and they'll just be using Gandi.
+21:28 < Snow-Man> Perdu is working with them to get that all set up and going, so I don't think we have any action to take on that.
+21:28 < Snow-Man> [item 8, Any other business]
+21:28 < Snow-Man> I had another RT ticket to discuss real quick
+21:29 < zumbi> go ahead
+21:29 < Snow-Man> yeah, sorry, was trying to find it
+21:29 < Snow-Man> 5626
+21:30 < Snow-Man> basically similar to 5046 (above)
+21:30 < Snow-Man> we don't have an actual agreement and are being asked to pay an invoice
+21:30 < Snow-Man> in this case, it's to another 501c3 and apparently it's to support speaker travel for an event, so I'm generally alright with it, again with the admonition that we need to get an actual agreement in place
+21:30 < tpot> https://docs.google.com/document/d/1Fw_PjE6wib2Y_QUkjtJRmgmejvRmieraYXlCBu3jDyQ/edit?usp=sharingn
+21:31 < Snow-Man> awesome, thank you tpot
+21:31 < tpot> without the tailing 'n' sorry
+21:31 < tpot> Ah website update - took a bit longer than expected
+21:31 < tpot> official version is https://www.spi-inc.org/corporate/resolutions/2022/2022-06-13.tmp.1/
+21:31 < Snow-Man> perfect.
+21:32 < Snow-Man> ok, when you're ready tpot to vote on 7.1, go for it.
+21:32 < zumbi> re 5626 - agreed
+21:32 < tpot> Voting started, 7 people (snow-man,tpot,jconway,milan,lamby,zumbi,fsf) allowed to vote on Accept The MPI Forum as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+21:32 < lamby> !vote yes
+21:32 < Snow-Man> !vote yes
+21:32 < zumbi> !vote yes
+21:32 < tpot> !vote yes
+21:32 < milan> !vote yes
+21:33 < fsf> !vote yes
+21:33 < jconway> !vote yes
+21:33 < tpot> Current voting results for "Accept The MPI Forum as an associated project": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+21:33 < tpot> Voting for "Accept The MPI Forum as an associated project" closed.
+21:33 < tpot> yay
+21:33 < Snow-Man> \o/
+21:33 < zumbi> Welcome MPI Forum!
+21:34 < Snow-Man> tpot: can you do one for Battle too?
+21:35 < tpot> Can you save me searching and send me the name of the liason?
+21:35 < Snow-Man> zumbi: I'm good with that, I'd say go ahead and pay those two invoices.
+21:36 < Snow-Man> I can try, sec
+21:36  * jesusalva can only find "Pentarctagon" in forums -.-
+21:37 < Snow-Man> hrmpf.
+21:38 < Snow-Man> Yeah, that's a point...  maybe we should push back on that and say we need a more formal application from them
+21:38 < Snow-Man> ok, I'll move that back to them since I'm not seeing it
+21:38 < tpot> OK - sounds sensible. I'll create the resolution for next time.
+21:38 < zumbi> I was looking email inbox and I agree we need more information from them before joining
+21:39 < zumbi> .. unless I missed something
+21:39 < Snow-Man> any other business to discuss then?
+21:39 < zumbi> Nothing from me
+21:39 < jconway> none
+21:39 < lamby> Nothing from me...
+21:40 < milan> none here
+21:40  * jesusalva found https://forums.wesnoth.org/viewtopic.php?t=55702 but it doesn't mention the liaison na,e
+21:40 < Snow-Man> when's the next board meeting?
+21:40 -!- tpot changed the topic of #spi to: Next SPI board meeting is on July 11th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-06-11/
+21:40 < zumbi> is that AGM?
+21:40 < tpot> Agenda not up yet
+21:40 < tpot> whoops -
+21:41 -!- tpot changed the topic of #spi to: Next SPI board meeting is on July 11th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-07-11/
+21:41 < tpot> I think it is the AGM - cool!
+21:41 < Snow-Man> yeah, fun times, lol.
+21:41 < lamby> Neat. :)
+21:41 < Snow-Man> alright, unless there's anything else?
+21:42 < Snow-Man> *GAVEL*
