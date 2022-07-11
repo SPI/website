@@ -1,0 +1,147 @@
+06:00 < schultmc> *GAVEL*
+06:00 < schultmc> [item 1, Opening]
+06:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which
+06:00 < schultmc> is now called to order. Today's agenda can be found on the web at:
+06:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-07-11/
+06:00 < schultmc> [item 2, Roll Call]
+06:00 < schultmc> Directors, please state your name
+06:00 < Snow-Man> Stephen Frost
+06:00 < milan> Milan Kupcevic
+06:00 < schultmc> Guests, please /msg your names to tpot if you wish your attendance to be
+06:00 < schultmc> recorded in the minutes of this meeting.
+06:00 < tpot> Tim Potter
+06:00 < schultmc> .
+06:00 < jconway> Joe Conway
+06:00 < zumbi> Héctor Orón Martínez
+06:00 < schultmc> tpot, do we have any regrets?
+06:00 < schultmc> .
+06:00 < tpot> fsf sends his regrets
+06:00 < schultmc> Michael Schultheiss
+06:00 < schultmc> *quorum*
+06:00 < lamby> Chris Lamb
+06:00 < schultmc> we can move on - others can join if they're available
+06:01 < schultmc> [item 3, President's Report]
+06:01 < schultmc> The July meeting of SPI is its Annual General Meeting. Thank you to
+06:01 < schultmc> Martin Michlmayr for compiling our Annual Report.
+06:01 < schultmc> .
+06:01 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2021
+06:01 < schultmc> financial statements audited. We are also working with the auditing firm
+06:01 < schultmc> on filing our New York State and Federal annual filings. We have received
+06:01 < schultmc> a 6 month extension for the time to file and are confident the filings will
+06:01 < schultmc> be completed by the November 15, 2022 deadline.
+06:01 < schultmc> .
+06:01 < schultmc> Thank you for all  of our officers and directors who have served SPI for the
+06:01 < schultmc> past several years. Best wishes to those officers and directors who are leaving
+06:01 < schultmc> the SPI board and welcome to all new and continuing directors.
+06:01 < schultmc> .
+06:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting
+06:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our
+06:01 < schultmc> contractors and legal counsel.
+06:01 < schultmc> .
+06:01 < schultmc> </done>
+06:01 < schultmc> .
+06:01 < schultmc> Snow-Man: do you have anything to add?
+06:01 < Snow-Man> Just a couple things-
+06:02 < Snow-Man> We got an update from counsel which I forwarded on to the board.  If any questions or concerns there, please let me know, otherwise my intention is to continue using our counsel moving forward.
+06:02 < Snow-Man> We continue to make progress with our IT contractor getting the new membership system in place and handling other IT related tasks.
+06:02 < milan> Agree
+06:03 < Snow-Man> Projects may have received notification that we're working with our domain registrar to get domains for projects covered by them without having to charge the project.
+06:03 < Snow-Man> That's still in progress but we have confirmation from our registrar that they're generally willing to support domain registration for domains which are actively being used by projects which are associated with SPI.
+06:04 < schultmc> excellent
+06:04 < Snow-Man> Of course, we don't wish to over-use this, so we do ask that projects be sure to only ask for actively used domains to be covered in this manner.
+06:04 < tpot> That's very cool.
+06:04 < Snow-Man> Yes, it's certainly good stuff. :)
+06:05 < Snow-Man> We are also looking into a possible issue with RT around initial ticket ack's being sent to CC's.  That's not happening when tickets are created through the website and we aren't 100% sure if that's correct or not.
+06:05 < Snow-Man> Not a huge deal either way but may have lead to some confusion which we are working to rectify.  Apologies to anyone from any projects who was confused.
+06:05 < Snow-Man> If anyone has questions regarding domain registrations, please feel free to reach out to me.
+06:05 < Snow-Man> .
+06:05 < schultmc> [item 4, Treasurer's Report]
+06:05 < schultmc> zumbi?
+06:05 < zumbi> Payments are being processed. Collected statements for June, treasurer monthly reports should go out soo
+06:06 < zumbi> n. Audit keeps in progress. Thanks Martin (tbm) for all the great work.
+06:06 < zumbi> .
+06:06 < schultmc> [item 5, Secretary's report]
+06:06 < schultmc> tpot?
+06:06 < tpot> I am pleased to report that we have four applicants for the five open positions on the SPI Board. No election was required.
+06:07 < tpot> fsf and zumbi are standing for their positions again. I'd like to thank lamby for his service on the board this last three years, and this will be my last meeting as well.
+06:08 < schultmc> thank you to lamby, tpot and zobel. All of you are welcome to rejoin the board in the future should you choose to run again.
+06:08 < tpot> Zach van Rijn and jesusalva have volunteered as new members - congraulations and thanks to you both for volunteering to help out at SPI.
+06:08 < lamby> And in return I'd like to thank everyone for being great colleagues these past few years. :)
+06:08 < zumbi> Thanks tpot and lamby !
+06:08 < jconway> +1
+06:08 < milan> +1
+06:08 < lamby> Do let me know if a vacancy arises in future years. :-)
+06:08 < zumbi> You'll be missed !
+06:09 < schultmc> lamby: there's technically a vacancy now ;)
+06:09 < zumbi> Welcome and congratulations jesusalva and Zach van Rijn
+06:09 < schultmc> tpot: anything further?
+06:09 < Snow-Man> Yes, many thanks to our retiring directors.
+06:09 < tpot> There's also an annual report for 2021 again many thanks to tbm. Michael would you like to officially present the report?
+06:09 < Snow-Man> Should anyone else be interested in joining the board, please reach out to the board.
+06:10 < schultmc> As mentioned at the start of the meeting, The July meeting of SPI is its Annual General Meeting. Thank you to
+06:10 < schultmc> Martin Michlmayr for compiling our Annual Report
+06:10 < schultmc> It is available on our website at https://www.spi-inc.org/corporate/annual-reports/2021.pdf
+06:10 < tpot> yay!
+06:11 < schultmc> tpot: ok to move on to the next agenda item?
+06:11 < tpot> yup - thanks everyone!
+06:11 < schultmc> [item 6, Outstanding minutes]
+06:11 < schultmc> The minutes for the 2022-06-13 meeting require approval.
+06:11 < schultmc> They can be found at
+06:11 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-06-13/
+06:12 < tpot> Voting started, 7 people (schultmc,snow-man,tpot,jconway,milan,lamby,zumbi) allowed to vote on Accept minutes for meeting Monday 13th June 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+06:12 < schultmc> !vote abstain
+06:12 < jconway> !vote yes
+06:12 < milan> !vote yes
+06:12 < lamby> !vote yes
+06:12 < tpot> !vote yes
+06:13 < Snow-Man> !vote yes
+06:13 < zumbi> !vote yes
+06:13 < tpot> Current voting results for "Accept minutes for meeting Monday 13th June 2022": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+06:13 < tpot> Voting for "Accept minutes for meeting Monday 13th June 2022" closed.
+06:13 < schultmc> [item 7, Items up for discussion]
+06:13 < schultmc> Nothing on the agenda
+06:13 < schultmc> [item 8, Any other business]
+06:13 < tpot> thanks everyone
+06:13 < schultmc> Anything to discuss?
+06:14 < zumbi> Nothing from me
+06:14 < jconway> none here
+06:14 < schultmc> nothing from me
+06:14 < tpot> Do we open up to the floor?
+06:14 < jesusalva> If I may, I would like to ask about not filled seat.
+06:15 < lamby> My only AOB is just to underscore what I said above re. thanking colleagues. :)
+06:15 < schultmc> jesusalva: welcome to the SPI board. We'll get you in touch with our IT contractor to get your e-mail and list memberships setup
+06:15 < zv> fwiw, I am Zach
+06:15 < schultmc> with tpot stepping down, we do have a vacancy for secretary. officer elections are typically in august.
+06:16 < Perdu> Noted
+06:16 < schultmc> zv: welcome
+06:16 < tpot> hi zach! apologies for not chasing down your nick earlier
+06:16 < tpot> jesusalva: go head
+06:16 < tpot> go ahead
+06:16 < jesusalva> In 2010 there was a similar situation and SPI went from 10 to 9 members. Now we are with a similar situation and going from 9 to 8 members, which iirc is the minimum. Will SPI open more seats on the next elections, or will it only be done when/if it falls to 7 members?
+06:17 < jesusalva> (similar situation where the elections did not fill all seats)
+06:17 < Snow-Man> Note that membership and being on the board aren't the same thing. :)
+06:17 < jesusalva> Ah yes, I used the term "member" as a short for "board member". Is there a specific term?
+06:18 < Snow-Man> jesusalva: The seat is open at this point and if someone is interested and contacts the board, then the board can decide to appoint them, or not.
+06:18 < Snow-Man> Otherwise, we'll hold elections again next year.
+06:18 < Snow-Man> (for the full set)
+06:19 < Snow-Man> (Hope that makes sense and note that this is from memory, what's in the bylaws is what we need to actually follow)
+06:19 < jesusalva> (bylaws say SPI board must have from 8 to 12 members)
+06:20 < schultmc> anything else to discuss?
+06:20 < Snow-Man> Nothing here offhand.
+06:20 < Snow-Man> jesusalva: if you have further questions, feel free to reach out to discuss.
+06:20 < schultmc> [item 9, Next board meeting]
+06:20 < schultmc> The next board meeting is scheduled for: August 8, 2022 at 2000 UTC.
+06:20 < schultmc> Any objections?
+06:20 < jconway> none here
+06:20 < Snow-Man> looks good to me
+06:21 -!- tpot changed the topic of #spi to: Next SPI board meeting is on August 8th, 2022, 20:00 UTC on #spi. Agenda: https://spi-inc.org/meetings/agendas/2022/2022-08-08/
+06:21 < schultmc> jesusalva and zv - your input is requested as well. we typically meet on the 2nd Monday of the month at 2000 UTC
+06:21 < schultmc> no objection from me
+06:21 < zv> I'm always here. See you then.
+06:21 < Snow-Man> Please be sure to get your email accounts set up and be watching for board emails.
+06:21 < Snow-Man> And get your RT accounts too.
+06:21 < Snow-Man> et al
+06:22 < jesusalva> (The time is fine for me as well)
+06:22 < Snow-Man> +1
+06:22 < schultmc> FYI, Perdu is our IT contractor - he can reach out via IRC or email
+06:22 < schultmc> *GAVEL*
