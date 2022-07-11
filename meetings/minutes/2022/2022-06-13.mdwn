@@ -1,0 +1,166 @@
+[[!meta copyright="Copyright © 2022 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, June 13th, 2022
+
+__Board members present__
+
+* Stephen Frost (Snow-Man) (Vice President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Tim Potter (tpot) (Secretary)
+* Joe Conway (jconway)
+* Forrest Fleming (fsf)
+* Milan Kupcevic (milan)
+* Chris Lamb (lamby)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* Michael Schultheiss (schultmc) (President)
+* Martin Zobel-Helas (zobel)
+
+__Registered guests present__
+
+* Jonatas Luis Nogueira (jesusalva)
+* Célestin Matte (Perdu), contractor
+* Jonathan McDowell (Noodles)
+
+These are the minutes for the June 13th, 2022 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2022/2022-06-13-log.txt).
+
+## President's Report
+
+Michael Schultheiss was not present. Stephen Frost gave an update as
+Vice President:
+
+<pre>
+We continue to work with our contractors to move things forward, in
+particular the new membership system and also getting off of the old
+systems and on to the new ones.
+
+We recently chatted w/ Gandi and it sounds like they're open to
+potentially helping with domains and renewals. Projects who have
+domains with SPI should expect to hear from our IT contractor soon
+regarding getting them set up with the Gandi group that is supporting
+SPI with domain renewals.
+</pre>
+
+## Treasurer's report
+
+<pre>
+Slow progress, due to paternity. However, payments are being
+processed, but there is some backlog that should be addressed end of
+this week. Statements had been collected for April and May, and
+website should also get updated real soon now.Audit is progressing and
+we keep looking for required documentation for auditor.
+</pre>
+
+## Secretary's report
+
+<pre>
+Board elections are coming up in July. I'll be sending out the usual
+email to the members list asking for nominations.Existing directors
+are encouraged to reapply and we'd love to have new people on the
+board as well.
+
+I will be resigning at the conclusion of the election (one year early)
+for personal reasons. I'm happy to help out anyone who would like to
+take over with advice, templates etc.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday April 9th 2022
+
+<table>
+  <tr><td>Joe Conway</td><td>Yess</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yess</td></tr>
+  <tr><td>Stephen Frost</td><td>Yess</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yess</td></tr>
+  <tr><td>Chris Lamb</td><td>Yess</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yess</td></tr>
+  <tr><td>Tim Potter</td><td>Yess</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 no and 0 abstain.
+
+## Items up for discussion
+
+### Considering application for Battle for Wesnoth as an associated project
+
+Formal resolution has not been created as missing an official liaison
+for the project but is very close to being ready for a vote.
+
+### Debian invoice 1054
+
+It was agreed to pay this invoice in advance of a formal agreement due
+to time contraints. Details are contained in the RT ticket.
+
+### Vote on application for MPI Forum as an associted project
+
+[Resolution 2022-06-13.tmp.1: MPI Forum as an Associated Project](https://www.spi-inc.org/corporate/resolutions/2022/2022-06-13.tmp.1/)
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Chris Lamb</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Tim Potter</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 no and 0 abstain.
+
+### SPI Apple Developer account
+
+SPI already has a developer account for use by associated projects to
+publish on the various Apple App Stores. At the moment the small
+yearly cost (~US$100) is allocated to the 0.ad associated project as
+they are the only user, but additional projects could be changed pro-rata.
+
+### Additional Domain registrar
+
+Stephen Frost says this has been more-or-less handled and the project in question will just be using Gandi.
+
+Célestin Matte is working with them to get that all set up and going,
+so I don't think we have any action to take on that.
+
+## Any other business
+
+Another RT ticket (5626) involving an invoice was identified as
+lacking some formal paperwork and agreement was reached that this was
+OK, but the project will be admonished to use prer channels in the
+future.
+
+## Adjournment
+
+The meeting was adjourned until Monday July 11th 2022 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2019</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2020</td><td>Tim Potter</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2019</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2019</td><td>Chris Lamb</td></tr>
+<tr><td>July 2019</td><td>Martin Zobel-Helas</td></tr>
+</tbody>
+</table>
