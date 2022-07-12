@@ -14,7 +14,7 @@ jobs:
       - run: rm -f README.md CONTRIBUTING.md  # don't build
       - run: ./bin/build-site . ../html
       - run: sudo gem install html-proofer
-      - run: htmlproofer --disable-external --check-html ../html
+      - run: htmlproofer --disable-external ../html
   docs:
     name: Annual reports
     runs-on: ubuntu-latest
