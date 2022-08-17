@@ -16,9 +16,11 @@ mount and automount points, and implements an elaborate transactional
 dependency-based service control logic. systemd supports SysV and LSB
 init scripts and works as a replacement for sysvinit.
 
-### Project Liaison
+### Project Liaisons
 
-Lennart Poettering
+* Lennart Poettering
+* Zbigniew Jędrzejewski-Szmek
+* Luca Boccassi
 
 ### Services
 
