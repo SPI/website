@@ -12,7 +12,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
- 104913.30 USD   98937.43 USD    5975.87 USD  Assets
+  94913.30 USD   98937.43 USD   -4024.13 USD  Assets
       0.12 USD              0       0.12 USD    Ameriprise Cash Mgmt Acct
              0     880.15 USD    -880.15 USD    Bank of America Business Advantage Checking
       0.08 USD              0       0.08 USD    Chase Business Select High Yield Savings
@@ -26,7 +26,7 @@ This is a *draft*.
     555.58 USD   16093.84 USD  -15538.26 USD    Merrill Lynch EMA
    2415.58 USD    2474.01 USD     -58.43 USD    PaypalDebian
   18447.75 USD   15290.48 USD    3157.27 USD    PaypalSPI
-  41136.41 USD   24640.97 USD   16495.44 USD    Receivable
+  31136.41 USD   24640.97 USD    6495.44 USD    Receivable
   17083.08 USD   17083.08 USD              0    Transfers
   53854.34 USD     683.61 USD   53170.73 USD  Expenses
    6300.00 USD              0    6300.00 USD    Accounting
@@ -41,14 +41,14 @@ This is a *draft*.
      41.70 USD              0      41.70 USD    Office:Postal
    5235.65 USD              0    5235.65 USD    Software-Development
   16737.59 USD     643.75 USD   16093.84 USD    Unrealized-Loss
-   2001.73 USD   48632.26 USD  -46630.53 USD  Income
+   1501.73 USD   38132.26 USD  -36630.53 USD  Income
              0     402.20 USD    -402.20 USD    Currency-Exchange
-   1979.55 USD   47362.21 USD  -45382.66 USD    Donations
+   1479.55 USD   36862.21 USD  -35382.66 USD    Donations
      22.18 USD     592.85 USD    -570.67 USD    Interest
              0     275.00 USD    -275.00 USD    Sponsorship
   38452.06 USD   50968.13 USD  -12516.07 USD  Liabilities:Payable
 --------------------------------------------
- 199221.43 USD  199221.43 USD              0
+ 188721.43 USD  188721.43 USD              0
 </pre>
 
 ### Year to date, ending 2022-05-01
@@ -56,7 +56,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
-3853591.93 USD  728683.27 USD 3124908.66 USD  Assets
+3843591.93 USD  728683.27 USD 3114908.66 USD  Assets
              0   80625.21 USD  -80625.21 USD    Accumulated-Depreciation
   13916.62 USD              0   13916.62 USD    Ameriprise Cash Mgmt Acct
   84345.51 USD    6776.19 USD   77569.32 USD    Bank of America Business Advantage Checking
@@ -74,7 +74,7 @@ This is a *draft*.
   23928.78 USD   21819.75 USD    2109.03 USD    PaypalDebian
   61900.86 USD   58159.92 USD    3740.94 USD    PaypalSPI
      27.80 USD      27.80 USD              0    Prepaid-Expenses
- 197250.36 USD  142615.99 USD   54634.37 USD    Receivable
+ 187250.36 USD  142615.99 USD   44634.37 USD    Receivable
  190804.84 USD  190804.84 USD              0    Transfers
              0 3073194.99 USD -3073194.99 USD  Equity:Net-Assets
              0 2572016.86 USD -2572016.86 USD    Restricted
@@ -96,15 +96,15 @@ This is a *draft*.
      79.85 USD              0      79.85 USD      Supplies
   13035.65 USD              0   13035.65 USD    Software-Development
   32922.05 USD    1266.23 USD   31655.82 USD    Unrealized-Loss
-   6629.43 USD  160797.75 USD -154168.32 USD  Income
+   6129.43 USD  150297.75 USD -144168.32 USD  Income
              0    1207.66 USD   -1207.66 USD    Currency-Exchange
-   6336.91 USD  151495.14 USD -145158.23 USD    Donations
+   5836.91 USD  140995.14 USD -135158.23 USD    Donations
      48.76 USD    1332.13 USD   -1283.37 USD    Interest
              0     425.00 USD    -425.00 USD    Sponsorship
     243.76 USD    6337.82 USD   -6094.06 USD    Unrealized-Gain
  166237.97 USD  193272.89 USD  -27034.92 USD  Liabilities:Payable
 --------------------------------------------
-4157272.23 USD 4157272.23 USD              0
+4146772.23 USD 4146772.23 USD              0
 </pre>
 
 ## Per project summaries
@@ -353,12 +353,12 @@ shown as a positive amount.
     390.00 USD              0    -390.00 USD    Legal
      41.70 USD              0     -41.70 USD    Office:Postal
    3862.52 USD              0   -3862.52 USD    Unrealized-Loss
-             0    3546.98 USD    3546.98 USD  Income
+             0    3046.98 USD    3046.98 USD  Income
              0      34.67 USD      34.67 USD    Currency-Exchange
-             0    3363.14 USD    3363.14 USD    Donations
+             0    2863.14 USD    2863.14 USD    Donations
              0     149.17 USD     149.17 USD    Interest
 --------------------------------------------
-  16031.65 USD    3586.84 USD  -12444.81 USD
+  16031.65 USD    3086.84 USD  -12944.81 USD
 
 </pre>
 
@@ -406,9 +406,9 @@ shown as a positive amount.
     380.63 USD              0    -380.63 USD  Expenses
       4.67 USD              0      -4.67 USD    Bank-Fees
     375.96 USD              0    -375.96 USD    IT:Hosting
-   1303.80 USD   26076.03 USD   24772.23 USD  Income:Donations
+    803.80 USD   16076.03 USD   15272.23 USD  Income:Donations
 --------------------------------------------
-   1684.43 USD   26076.03 USD   24391.60 USD
+   1184.43 USD   16076.03 USD   14891.60 USD
 </pre>
 
 ### Year to date, ending 2022-05-01
@@ -892,13 +892,13 @@ shown as a positive amount.
     612.69 USD              0    -612.69 USD      Postal
      79.85 USD              0     -79.85 USD      Supplies
    7597.40 USD              0   -7597.40 USD    Unrealized-Loss
-      1.16 USD   23428.67 USD   23427.51 USD  Income
+      1.16 USD   22928.67 USD   22927.51 USD  Income
              0     698.98 USD     698.98 USD    Currency-Exchange
-      1.16 USD   20910.18 USD   20909.02 USD    Donations
+      1.16 USD   20410.18 USD   20409.02 USD    Donations
              0     356.94 USD     356.94 USD    Interest
              0    1462.57 USD    1462.57 USD    Unrealized-Gain
 --------------------------------------------
-  37455.83 USD  524646.70 USD  487190.87 USD
+  37455.83 USD  524146.70 USD  486690.87 USD
 
 </pre>
 
@@ -972,9 +972,9 @@ shown as a positive amount.
    4418.30 USD              0   -4418.30 USD  Expenses
     114.32 USD              0    -114.32 USD    Bank-Fees
    4303.98 USD              0   -4303.98 USD    IT:Hosting
-   2060.70 USD   41214.03 USD   39153.33 USD  Income:Donations
+   1560.70 USD   31214.03 USD   29653.33 USD  Income:Donations
 --------------------------------------------
-   6479.00 USD  207381.86 USD  200902.86 USD
+   5979.00 USD  197381.86 USD  191402.86 USD
 
 </pre>
 
