@@ -13,6 +13,8 @@ jobs:
       - run: mkdir ../html
       - run: rm -f README.md CONTRIBUTING.md  # don't build
       - run: ./bin/build-site . ../html
+      - run: pip install html5validator
+      - run: html5validator --root ../html
   docs:
     name: Annual reports
     runs-on: ubuntu-latest
