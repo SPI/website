@@ -1,0 +1,103 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-11-14/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < milan> Milan Kupcevic
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+20:00 < fungi> Jeremy Stanley
+20:00 < zv> Zach van Rijn
+20:00 < fsf> Forrest Fleming
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < schultmc> fsf, do we have any regrets?
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < fsf> No regrets
+20:00 < jconway> Joe Conway
+20:00 < Snow-Man> Stephen Frost
+20:00 < schultmc> Jesusalva[m]: ping
+20:01 < schultmc> zumbi: ping
+20:01 < schultmc> we're quorate so we can move on
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> I've been working with the associated projects that recently held conferences to finalize
+20:01 < schultmc> their recent events.
+20:01 < schultmc> .
+20:01 < schultmc> Our auditing firm is filing our federal tax form and has provided us the information to file our New York State form. Our 2021 audit is nearly complete as well.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < jesusalva> Jonatas L. Nogueira
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> </done>
+20:01 < schultmc> .
+20:01 < schultmc> Snow-Man: do you have anything to add?
+20:02 < Snow-Man> Biggest thing is to ask the board to please, please, please review the work done by our IT contractor
+20:02 < Snow-Man> so that we can continue to make progress moving off of the old infrastructure and on to the new
+20:02 < zv> Where would be the best place to discuss any items that come up during review?
+20:03 < Snow-Man> Perdu ?
+20:03 < jesusalva> Snow-Man: I did saw the work being done on the membership, but I think that "how application management will be handled going forth" is a bigger problem.
+20:03 < fungi> i poked around a bit and from outward appearances it seemed the same as the prior system, but i suppose that's the point
+20:03 < Snow-Man> that is generally the point, yes.
+20:03 < Perdu> I sent an email to board@, just respond to that email thread I guess
+20:03 < Snow-Man> works for me
+20:03 < fungi> thanks!
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi isn't currently here.
+20:04 < schultmc> .
+20:04 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:04 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:04 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:04 < schultmc> help is always welcome.
+20:04 < schultmc> .
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> fsf?
+20:04 < fsf> The Fabrik project is applying to join SPI; we expect to have a vote regarding their joining at the December meeting.
+20:04 < fsf> ,'
+20:04 < fsf> <eom>
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The minutes for the 2022-10-10 meeting need to be approved.
+20:04 < schultmc> They are available at
+20:04 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-10-10/
+20:05 < fsf> Voting started, 8 people (schultmc,snow-man,fsf,jconway,milan,jesusalva,fungi,zv) allowed to vote on Meeting minutes for Monday 10 October 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:05 < Snow-Man> !vote yes
+20:05 < schultmc> !vote yes
+20:05 < zv> !vote yes
+20:05 < fsf> !vote yes
+20:05 < jconway> !vote yes
+20:05 < milan> !vote yes
+20:05 < fungi> @vote yes
+20:05 < fungi> gah
+20:05 < fungi> !vote yes
+20:05 < jesusalva> !vote yes
+20:06 < fsf> Current voting results for "Meeting minutes for Monday 10 October 2022": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:06 < fsf> Voting for "Meeting minutes for Monday 10 October 2022" closed.
+20:06 < schultmc> [item 7, Items up for discussion]
+20:06 < schultmc> Nothing on the agenda
+20:06 < schultmc> [item 8, Any other business]
+20:06 < schultmc> Anything to discuss?
+20:06 < zv> I would like some help with answering the questions posed in a recent email to the board,
+20:06 < jesusalva> Kinda, we still need to reply to another project which asked about onboarding
+20:06 < jesusalva> Yes that
+20:06 < zv> the document is in Google Docs and a link was sent on Signal.
+20:07 < jesusalva> The UPS Tools project, glad zv and me are on same page :P
+20:07 < fsf> I think it's OK to communicate on signal, but please don't solely use it. Especially for doc review etc, please also send to email
+20:07 < schultmc> +1
+20:07 < fungi> yes, a post to the board ml would be appreciated since i don't use signal
+20:07 < zv> OK. jesusalva would you mind sending that mail please?
+20:08 < zv> (to the board). thanks.
+20:08 < schultmc> [item 9, Next board meeting]
+20:08 < schultmc> The next board meeting is scheduled for: December 12, 2022 at 2000 UTC.
+20:08 < schultmc> Any objections?
+20:09 < fsf> No objections here
+20:09 < jesusalva> Done
+20:09 < jconway> nope
+20:09 < jesusalva> No objections
+20:09 < milan> no objections
+20:09 < fungi> sounds good to me
+20:09 < Snow-Man> should work for me
+20:09 < bittin> should work here too i think
+20:09 < schultmc> *GAVEL*
