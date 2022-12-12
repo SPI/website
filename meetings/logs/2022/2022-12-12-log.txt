@@ -1,0 +1,165 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2022/2022-12-12/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+20:00 < jconway> Joe Conway
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < zumbi> Hector Oron Martinez
+20:00 < fsf> Forrest Fleming
+20:00 < schultmc> .
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < schultmc> zumbi sent his regrets. fsf, do we have any other regrets?
+20:00 < schultmc> .
+20:01 < schultmc> Michael Schultheiss
+20:01 < fsf> We do not - but I note that zumbi was able to make it
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> That's quorum - we can move on and other board members can join in if they're available
+20:01 < milan> Milan Kupcevic
+20:01 < schultmc> That's everyone - thank you all for your attendance
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> Our 2021 audit has been completed. Our Federal tax filing has been submitted and we are finalizing the submission of our New York State filing.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:02 < schultmc> contractors and legal counsel.
+20:02 < schultmc> .
+20:02 < schultmc> </done>
+20:02 < schultmc> .
+20:02 < schultmc> Snow-Man: do you have anything to add?
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> zumbi?
+20:04 < zumbi> Payments are being processed. Collected statements from past months and monthly reports should go out so
+20:04 < zumbi> on. Since this is last month of the year, we should close books, we'd appreciate if you have some reques
+20:04 < zumbi> t for this year to do it sooner that later.
+20:04 < zumbi> .
+20:04 < zumbi> s/that/than
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> fsf?
+20:04 < fsf> Battle for Wesnoth still requires the Apple account holder to accept the transfer. We mistakenly believed that account ownership had been transferred to the President, but further investigation revealed that the previous secretary's personal account is still in use. I am contacting him to resolve this issue.
+20:04 < fsf> I received no recommendations from SPI membership for the membership committee. Therefore, our vote today will be to include officers and jesusalva as the membership committee, unless a board member wishes to add or remove themselves from that list.
+20:04 < fsf> EOM
+20:05 < schultmc> [item 6, Outstanding minutes]
+20:05 < schultmc> The minutes for the 2022-11-14 meeting need to be approved.
+20:05 < schultmc> They are available at
+20:05 < fungi> i'm happy to serve on the membership committee if we need more people involved
+20:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-11-14/
+20:06 < fsf> ACK, thank you fungi!
+20:06 < schultmc> more people are definitely welcome to avoid backlogs
+20:06 < fsf> +1 to that
+20:06 < fsf> Voting started, 9 people (schultmc,zumbi,jconway,fungi,fsf,zv,snow-man,milan,jesusalva) allowed to vote on Meeting minutes for Monday November 14, 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:06 < schultmc> !vote yes
+20:06 < zv> !vote yes
+20:06 < jesusalva> !vote yes
+20:06 < fsf> !vote yes
+20:06 < jconway> !vote yes
+20:06 < zumbi> !vote abstain
+20:06 < milan> !vote yes
+20:06 < fungi> !vote yes
+20:07 < fsf> Snow-Man ?
+20:09 < fsf> Any objections to ending the vote and moving on to the next item?
+20:09 < jesusalva> None here
+20:09 < jconway> nope
+20:09 < schultmc> none here
+20:09 < milan> no objection
+20:09 < schultmc> [item 7, Items up for discussion]
+20:09 < schultmc> [item 7.1, Fabrik membership application]
+20:09 < fsf> Current voting results for "Meeting minutes for Monday November 14, 2022": Yes: 7, No: 0, Abstain: 1, Missing: 1 ( snow-man )
+20:09 < fsf> Voting for "Meeting minutes for Monday November 14, 2022" closed.
+20:09 < jesusalva> fsf
+20:10 < schultmc> fsf: was this the item to postpone or was that a different potential associated project?
+20:10 < jesusalva> Yes, it is the item
+20:10 < fungi> this was the item to postpone, yes
+20:10  * jesusalva was writing that, this saves time
+20:10 < fsf> The Fabrik project wants to postpone our vote due to some internal alignment that needs to happen.
+20:10 < fungi> per e-mail (today?) from the proposer
+20:11 < schultmc> I'm fine with postponing - we can move on
+20:11 < schultmc> [item 7.2, Membership committee roster]
+20:12 < fsf> As per the email sent to the list, the default for the roster was to be officers; jesusalva and fungi have also volunteered. I heard no additional recommendations from the membership.
+20:12 < fsf> Voting started, 1 people (2022) allowed to vote on Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < fsf> oops, i clearly goofed that - let me try again
+20:12 < fsf> Current voting results for "Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi": Yes: 0, No: 0, Abstain: 0, Missing: 1 ( 2022 )
+20:12 < fsf> Voting for "Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi" closed.
+20:13 < fsf> Voting started, 9 people (schultmc,zumbi,jconway,fungi,fsf,zv,snow-man,milan,jesusalva) allowed to vote on Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < schultmc> !vote yes
+20:13 < fungi> !vote yes
+20:13 < fsf> !vote yes
+20:13 < zumbi> !vote yes
+20:13 < jesusalva> !vote yes
+20:13 < zv> !vote yes
+20:13 < jconway> !vote yes
+20:13 < milan> !vote yes
+20:14 < fsf> While we give Snow-man a moment (and will move on in a bit), I note that any additions (or deletions) may be voted upon at further meetings - this need not be a particularly long-term arrangement.
+20:14 < fsf> Current voting results for "Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi": Yes: 8, No: 0, Abstain: 0, Missing: 1 ( snow-man )
+20:14 < fsf> Voting for "Set the membership committee roster to schultmc,Snow-Man,zumbi,fsf,jesusalva,fungi" closed.
+20:15 < jesusalva> fsf: Reminds me, didn't Perdu remove some old names?
+20:15 < fungi> pointers to documentation etc about the membership review process is appreciated, when someone with that information has time (i've only direct familiarity with the applicant side of things)
+20:15 < jesusalva> We probably should make a symbolic vote to confirm that decision
+20:15 < fsf> Jesusalva, this vote has set the membership roster to that mentioned - there is no additional delta to be voted upon
+20:15 < jesusalva> Oh, good!
+20:15 < schultmc> [item 7.3, Change of mailing address]
+20:16 < schultmc> The Treasury team was notified by our mailbox provider that their third party partner lost the lease to our current mailing list location. They were able to obtain a new location down the street but it is also possible it may be lost at some point in the future since it's not owned by the mailbox provider.
+20:17 < fungi> postal address presumably, not mailing list?
+20:17 < zumbi> correct
+20:17 < schultmc> They do own their main facility in Sanford, North Carolina and suggest for the best service (faster turnaround and no potential future lost lease) we migrate to that address.
+20:18 < Snow-Man> (presently 30k feet in the air85;95;0c
+20:18 < Snow-Man> sorry
+20:18 < schultmc> We have a NY address in Albany for official service via our registered agent service.
+20:18 < schultmc> we've had a non-New York address in the past without negative impact.
+20:18 < fungi> thankfully now i'm not the only one in this channel who knows where sanford is ;)
+20:19 < schultmc> I don't know where it is besides North Carolina ;)
+20:19 < jesusalva> schultmc: I don't even know where North Carolina is except "somewhere in the US"
+20:19  * jesusalva hides
+20:19 < schultmc> +1
+20:19 < fungi> i used to live next to it (it's near raleigh/durham/chapel hill), but now i'm in a different part of north carolina
+20:20 < fungi> jesusalva: middle of the east coast, where it curves outward (i'm on the islands that define that curve now)
+20:20 < schultmc> the mailbox provider has setup a forward with the post office to go to the new NYC address but since we'll need to update our postal address with any organization using it, it would be best to select a more permanent address now
+20:21 < fsf> Shall we call a vote regarding moving to the Sanford, NC address?
+20:21 < schultmc> yes please
+20:21 < fungi> seconded
+20:21 < schultmc> if for some reason we determine we need a NY based address in the future we can always sign up for one again.
+20:22 < fsf> Voting started, 9 people (schultmc,zumbi,jconway,fungi,fsf,zv,snow-man,milan,jesusalva) allowed to vote on Change SPI Inc's mailing address to that maintained by our third-party provider at their main facility in Sanford, NC, USA. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:22 < fsf> !vote yes
+20:22 < jconway> !vote yes
+20:22 < milan> !vote yes
+20:22 < schultmc> !vote yes
+20:22 < zv> !vote yes
+20:22 < fungi> !vote yes
+20:22 < zumbi> !vote yes
+20:22 < jesusalva> !vote yes
+20:22 < fsf> Current voting results for "Change SPI Inc's mailing address to that maintained by our third-party provider at their main facility in Sanford, NC, USA": Yes: 8, No: 0, Abstain: 0, Missing: 1 ( snow-man )
+20:22 < fsf> Voting for "Change SPI Inc's mailing address to that maintained by our third-party provider at their main facility in Sanford, NC, USA" closed.
+20:23 < schultmc> [item 8, Any other business]
+20:23 < schultmc> Anything to discuss?
+20:23 < zv> I would like to share an observation and am seeking to open discussion (not here) about how to improve it.
+20:24 < zv> The board doesn't seem to consistently respond to, or take action on, inquiries and matters raised to the board in a timely manner.
+20:24 < zv> Sometimes it appears that matters are forgotten entirely. My concern is that this could harm the organization's credibility.
+20:24 < zv> Initial thoughts are welcome.
+20:24 < fungi> where do you propose to hold that discussion? spi-general?
+20:25 < schultmc> Utilizing RT or some other trackable system besides regular email is typically helpful.
+20:25 < zv> IRC or email, or anywhere else, just with a smaller audience.
+20:25 < schultmc> spi-general seems reasonable
+20:25 < fungi> i welcome such discussion
+20:26 < zv> OK. I will mail spi-general. that's all from me at the moment.
+20:26 < fungi> the general ml doesn't get nearly enough activity, would love to see us have more open discussions there
+20:27 < jesusalva> Not like spi-private had much more activity, though XD
+20:29 < schultmc> Anything else to discuss?
+20:29 < zumbi> Nothing here
+20:29 < fungi> i have nothing
+20:29 < jconway> none here
+20:30 < fsf> Nothing here
+20:30 < milan> nothing in particular
+20:30 < schultmc> [item 9, Next board meeting]
+20:30 < schultmc> The next board meeting is scheduled for: January 9, 2023 at 2000 UTC.
+20:30 < schultmc> Any objections?
+20:30 < zumbi> None
+20:30 < jconway> nope
+20:30 < fsf> No objections here
+20:30 < milan> no objections
+20:30 < fungi> works for me, thanks
+20:31 < schultmc> *GAVEL*
