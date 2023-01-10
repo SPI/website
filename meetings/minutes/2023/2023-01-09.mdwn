@@ -1,0 +1,140 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, January 9th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Forrest Fleming (fsf) (Secretary)
+* Joe Conway (jconway)
+* Jonatas L. Nogueira (jesusalva)
+* Jeremy Stanley (fungi)
+
+__Board members partially present__
+
+* Stephen Frost (Snow-Man) (Vice-President)
+
+__Board members absent with regrets__
+
+* Milan Kupcevic (milan)
+
+__Board members absent__
+
+* Zach van Rijn (zv)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+
+__Registered guests present__
+
+## President's Report
+
+<pre>
+After months of hassle, I was able to get the verification for Debian's EV SSL
+certificate completed. I've added an agenda item discussing our
+telecommunications infrastructure so we can hopefully alleviate the issues in
+the future.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling contracting
+with SPI's contractors. Stephen continues to do a fantastic job working with
+our contractors and legal counsel.
+</pre>
+
+Vice-president's report:
+
+Provided by Perdu, after meeting (not reflected in logs):
+<pre>
+Since Snow-Man wasn't able to mention IT-related stuff, I wanted to add
+something, as I think nobody saw my RT ticket: I switched off the chic server
+(chic.spi-inc.org and chic2.spi-inc.org), which is supposedly a defunct server
+with no service running. If someone sees a missing service, please shout as I
+will completely remove this server at end of the month so that RapidSwitch
+stops.
+</pre>
+
+## Treasurer's report
+
+<pre>
+The SPI treasury team is continuing to process requests and is striving for
+more timely ticket handling. The backlog is being processed but if there are
+any board members who would like to assist with treasury tasks, additional
+help is always welcome.
+
+We are working on collecting all data to close last year's books and providing
+the relevant reports.
+</pre>
+
+## Secretary's report
+
+<pre>
+The process of getting appropriate Apple App Store permissions for Battle for
+Wesnoth is ongoing. Happy new year! Please be on the lookout for new conflict
+of interest forms. Thanks to jesusalva for the reminder on that!
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday December 12th 2022
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>\*</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+</table>
+
+\*: Snow-Man was not able to vote at the time-of-vote.
+
+Vote passed with 5 yes, 0 abstain, 0 no.
+
+## Items up for discussion
+
+* None
+
+## Other business
+
+### Fabrik application
+
+Fabrik has withdrawn their application
+
+### Telecommunications infrastructure
+
+Debian required a new extended validation (EV) certificate. The process of
+procuring this was quite difficult due to address changes, a phone number's
+having been decommissioned, and so on. To prevent similar issues in the future,
+SPI will investigate a paid VOIP provider
+
+Individual board members have had good success with https://voip.ms; board
+members are generally in agreement that a paid provider with service level
+agreements (SLAs), etc. is the appropriate path forward.
+
+### Financial audit
+ 
+tbm will get a quote from our firm for an audit of the SPI books. All board
+members are in general, informal agreement. No formal vote was needed, and
+as such none was taken.
+
+## Adjournment
+
+The meeting was adjourned until Monday February 13th, 2023 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td></tr>
+</tbody>
+</table>

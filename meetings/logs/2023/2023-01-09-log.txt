@@ -1,0 +1,120 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-01-09/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:01 < schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < schultmc> .
+20:01 < fsf> Forrest Fleming
+20:01 < schultmc> milan sent his regrets. fsf, do we have any other regrets?
+20:01 < jconway> Joe Conway
+20:01 < schultmc> .
+20:01 < schultmc> Michael Schultheiss
+20:01 < fungi> Jeremy Stanley
+20:01 < fsf> No other regrets
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> one more for quorum
+20:05 < schultmc> I pinged zumbi on Signal
+20:05 < schultmc> jesusalva: PING
+20:05 < schultmc> zv: ping
+20:06 < schultmc> sorry - hit caps lock on accident
+20:06 < jesusalva> Jonatas L. Nogueira
+20:06 < jesusalva> (sorry I'm late)
+20:06 < schultmc> yay, quorum!
+20:06 < jconway> \o/
+20:06 < fsf> there it is!
+20:06 < schultmc> [item 3, President's Report]
+20:06 < schultmc> After months of hassle, I was able to get the verification for Debian's EV SSL certificate
+20:06 < schultmc> completed. I've added an agenda item discussing our telecommunications infrastructure so we
+20:06 < schultmc> can hopefully alleviate the issues in the future
+20:06 < schultmc> .
+20:06 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:06 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:06 < schultmc> contractors and legal counsel.
+20:06 < schultmc> .
+20:07 < schultmc> </done>
+20:07 < schultmc> .
+20:07 < schultmc> Snow-Man: do you have anything to add?
+20:08 < schultmc> [item 4, Treasurer's Report]
+20:08 < schultmc> zumbi?
+20:08 < schultmc> zumbi isn't currently here.
+20:08 < schultmc> .
+20:08 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:08 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:08 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:08 < schultmc> help is always welcome.
+20:08 < schultmc> .
+20:08 < schultmc> [item 5, Secretary's report]
+20:08 < schultmc> fsf?
+20:08 < fsf> The process of getting appropriate Apple App Store permissions for Battle for Wesnoth is ongoing. Happy new year! Please be on the lookout for new conflict of interest forms. Thanks to jesusalva for the reminder on that! <EOM>
+20:09 < schultmc> [item 6, Outstanding minutes]
+20:09 < schultmc> The minutes for the 2022-12-12 meeting need to be approved.
+20:09 < schultmc> They are available at
+20:09 < schultmc> https://www.spi-inc.org/meetings/minutes/2022/2022-12-12/
+20:09 < fsf> One moment - sorry for the delay
+20:10 < fsf> Voting started, 6 people (schultmc,fsf,fungi,snow-man,jesusalva,jconway) allowed to vote on Meeting minutes for Monday, December 12, 2022. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:10 < fungi> !vote yes
+20:10 < jesusalva> The "\*" syntax is a bit weird and not all decisions seem to have been implemented yet,  but otherwise is fine
+20:10 < jesusalva> !vote yes
+20:10 < jconway> !vote yes
+20:10 < schultmc> !vote yes
+20:10 < fsf> !vote yes
+20:11 < fsf> I will give Snow-Man a minute, but will close voting soon
+20:12 < fsf> Current voting results for "Meeting minutes for Monday, December 12, 2022": Yes: 5, No: 0, Abstain: 0, Missing: 1 ( snow-man )
+20:12 < fsf> Voting for "Meeting minutes for Monday, December 12, 2022" closed.
+20:13 < schultmc> [item 7, Items up for discussion]
+20:13 < schultmc> [item 7.1, Fabrik membership application]
+20:13 < schultmc> As I understand it, Fabrik is withdrawing its associated project application.
+20:13 < fsf> That's correct
+20:13 < jesusalva> According to Sophist-UK, the project seems to be defunct.
+20:14 < schultmc> If their situation changes, they're welcome to re-apply in the future if they choose.
+20:14 < schultmc> [item 7.2, Telecommunications Infrastructure]
+20:15 < schultmc> As I mentioned in my report, I had a lot of hassle completing the validation for Debian's EV SSL certificate. Most of the hassle was due to the vendor's strict rules on where it would obtain information coupled with the loss of one of SPI's Google Voice numbers due to dormancy.
+20:16 < schultmc> The SPI Treasury team actively uses its Google Voice number but I wasn't able to get a trusted source to update SPI's registered phone number to that GV number.
+20:16 < schultmc> It may be prudent to research a paid VOIP solution that allows call forwarding and SMS at some point.
+20:16 < schultmc> .
+20:17 < schultmc> [item 7.3, Financial audit]
+20:17 < fungi> that makes sense, i'm wary of continued reliance on free voip accounts
+20:17 < fsf> +1, I support SPI using services with contracts, SLAs, etc
+20:17 < schultmc> a paid service is less likely to arbitrarily cut off service
+20:18  * jesusalva notes that he doesn't usually do phone calls nor read/send SMS
+20:18 < jesusalva> So don't forward anything to me, because I won't even take notice you did, and it's probably good :)
+20:18 < schultmc> I don't often do so for SPI but lack of a stable number was a hindrance
+20:18 < jconway> FWIW I have been using https://voip.ms for years -- it is dirt cheap and been very reliable
+20:18 < schultmc> +1
+20:19 < fungi> we used voip.ms for the opendev community pbx as well
+20:19 < fungi> worked fine
+20:19 < schultmc> Regarding the audit, we have voluntarily had our financial reports audited for the past several years. tbm is wondering if we should authorize him to obtain a quote for an audit of our 2022 financial reports.
+20:20 < schultmc> I've been pleased with the current firm and don't mind tbm obtaining a quote for a 2022 audit.
+20:20 < fungi> i think it's great that we do it, adds to our transparency
+20:20 < jconway> +1
+20:20 < fsf> From the discussion on the list, I think we're all on board - I certainly am. The question in my mind is if we call a formal vote or not. I actually lean towards _not_ calling a vote, so that we can remain fairly agile for such things.
+20:20 < jesusalva> I would be a bit more extreme: say we should authorize to get quotes forever in the future until another meeting says we don't need to be audited anymore. We review the quotes anyway
+20:21 < schultmc> Seems like there's consensus - I'll ask tbm to obtain a quote
+20:21 < fungi> thanks!
+20:21 < schultmc> [item 8, Any other business]
+20:21 < schultmc> Anything to discuss?
+20:21 < fungi> schultmc: was the package delivery problem for debian's ev key something we need to worry about with the mailbox provider? or was it related to spi's change of mailing address we approved in the december meeting?
+20:22 < schultmc> fungi: it was likely complicated by SPI's address change - once the dust settles and everything's updated to the new address deliveries should be more smooth
+20:23 < fungi> okay, great. thanks for clarifying!
+20:23 < jesusalva> Reminds me we kept postponing F2F discussions
+20:23  * jesusalva has a lot of stuff in his "postponed" list, not just that
+20:23 < schultmc> we can discuss f2f on list
+20:23 < jesusalva> Yes, just a reminder :b
+20:23 < schultmc> anything else to discuss?
+20:24 < jconway> none here
+20:24 < schultmc> [item 9, Next board meeting]
+20:24 < schultmc> The next board meeting is scheduled for: February 13, 2023 at 2000 UTC.
+20:24 < schultmc> Any objections?
+20:24 < fsf> SGTM
+20:24 < schultmc> no issues for me
+20:24 < jesusalva> I might not be able to attend
+20:25 < jconway> wfm
+20:25 < schultmc> *GAVEL*
+20:25 < schultmc> Thank you everyone!
+20:25 < fungi> had to check my calendar but that date works for me
+20:49 < zumbi> hello!
+20:51 < zumbi> sorry joining late, fsf if you can still take minutes, for treasurer report: Treasurer is working on collecting all data to close last year books and provide the reports.
