@@ -1,0 +1,21 @@
+[[!meta title="Domains handling"]]
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Domains handling
+
+SPI offers projects to handle their domain names. For this, SPI hosts them on [Gandi](https://gandi.net) and can handle DNS records. Projects are given access to their domains and can handle them by themselves, renew domains etc.
+
+Gandi sponsors SPI and covers the costs of some domain renewals, to their appreciation.
+
+## Transferring domains to SPI
+
+If your organization is a SPI-associated project and you want its domains to be handled by SPI, the procedure is the following:
+- contact us by creating a [RT ticket](https://www.spi-inc.org/corporate/rt/) in the sysadmin queue (i.e. send an email to sysadmin@rt.spi-inc.org). We will create an organization in the Gandi interface and invite you to it.
+- Unlock the domain(s) in your current registrar.
+- Send us the transfer code(s).
+Indicate whether you want to keep using external nameservers or the ones provided by Gandi. If you want to use Gandi's one, send us the zone file (DNS records) of each domain.
+
+If your domains are already hosted by Gandi, please initiate a [domain owner change](https://docs.gandi.net/en/domain_names/change_owner/standard_process.html) instead.
+
+To have domains renewal costs covered by Gandi, we give access to the domains of organizations to the Gandi_Supports account. If you do not agree with this, please indicate it to us.
