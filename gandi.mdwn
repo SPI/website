@@ -11,9 +11,11 @@ Gandi sponsors SPI and covers the costs of some domain renewals, to their apprec
 ## Transferring domains to SPI
 
 If your organization is a SPI-associated project and you want its domains to be handled by SPI, the procedure is the following:
-- contact us by creating a [RT ticket](https://www.spi-inc.org/corporate/rt/) in the sysadmin queue (i.e. send an email to sysadmin@rt.spi-inc.org). We will create an organization in the Gandi interface and invite you to it.
-- Unlock the domain(s) in your current registrar.
-- Send us the transfer code(s).
+
+* contact us by creating a [RT ticket](https://www.spi-inc.org/corporate/rt/) in the sysadmin queue (i.e. send an email to sysadmin@rt.spi-inc.org). We will create an organization in the Gandi interface and invite you to it.
+* Unlock the domain(s) in your current registrar.
+* Send us the transfer code(s).
+
 Indicate whether you want to keep using external nameservers or the ones provided by Gandi. If you want to use Gandi's one, send us the zone file (DNS records) of each domain.
 
 If your domains are already hosted by Gandi, please initiate a [domain owner change](https://docs.gandi.net/en/domain_names/change_owner/standard_process.html) instead.
