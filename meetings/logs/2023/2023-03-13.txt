@@ -1,0 +1,128 @@
+[20:00:07] <schultmc> *GAVEL*
+[20:00:08] <schultmc> [item 1, Opening]
+[20:00:08] <schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+[20:00:08] <schultmc> is now called to order. Today's agenda can be found on the web at: 
+[20:00:08] <schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-03-13/
+[20:00:11] <schultmc> [item 2, Roll Call]
+[20:00:13] <schultmc> Directors, please state your name
+[20:00:18] <fungi> Jeremy Stanley
+[20:00:19] <jconway> Joe Conway
+[20:00:22] <zv> Zach van Rijn
+[20:00:31] <schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+[20:00:31] <schultmc> recorded in the minutes of this meeting.
+[20:00:31] <schultmc> .
+[20:00:31] <schultmc> Snow-Man and zumbi sent possible regrets
+[20:00:31] <schultmc> .
+[20:00:32] <milan> o/
+[20:00:34] <schultmc> fsf, do we have any other regrets?
+[20:00:34] <milan> Milan Kupcevic
+[20:00:41] <schultmc> Michael Schultheiss
+[20:00:41] <jesusalva> Jonatas L. Nogueira
+[20:00:47] <schultmc> yay, quorum!
+[20:01:24] <schultmc> we can move on and other board members can join if they're available
+[20:01:29] <schultmc> [item 3, President's Report]
+[20:01:29] <schultmc> After months of hassle, I was able to get the verification for Debian's EV SSL certificate
+[20:01:32] <schultmc> completed. I've added an agenda item discussing our telecommunications infrastructure so we
+[20:01:35] <schultmc> can hopefully alleviate the issues in the future
+[20:01:38] <schultmc> .
+[20:01:40] <schultmc> I worked with Key Bank to close down our money market account where we were earning negligible
+[20:01:43] <schultmc> interest and got the funds wired to Merrill Lynch where at least temporarily we will earn over
+[20:01:46] <schultmc> 4% interest. Once Stephen Frost and I complete the paperwork for our newest Merrill account,
+[20:01:49] <schultmc> we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+[20:01:52] <schultmc> with our financial advisor.
+[20:01:55] <schultmc> .
+[20:01:57] <schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+[20:02:00] <schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+[20:02:02] <schultmc> contractors and legal counsel.
+[20:02:05] <fsf> No additional regrets
+[20:02:05] <schultmc> .
+[20:02:07] <schultmc> </done>
+[20:02:09] <fsf> (Also: Forrest Fleming)
+[20:02:27] <schultmc> [item 4, Treasurer's Report]
+[20:02:27] <schultmc> zumbi isn't currently here.
+[20:02:27] <schultmc> .
+[20:02:27] <schultmc> The SPI treasury team is continuing to process requests and is striving for
+[20:02:27] <schultmc> more timely ticket handling. The backlog is being processed but if there are
+[20:02:30] <schultmc> any board members who would like to assist with treasury tasks, additional
+[20:02:32] <schultmc> help is always welcome.
+[20:02:35] <schultmc> .
+[20:02:38] <schultmc> [item 5, Secretary's report]
+[20:02:39] <schultmc> fsf?
+[20:03:11] <fsf> I've sent out the conflict of interest form, so please be on the lookout. Battle for Wesnoth's Apple Developer signing certificate situation is resolved.
+[20:03:15] <fsf> <EOM>
+[20:03:36] <schultmc> [item 6, Outstanding minutes]
+[20:03:36] <schultmc> The minutes for the 2023-01-09 meeting need to be approved.
+[20:03:36] <schultmc> They are available at
+[20:03:37] <schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-01-09/
+[20:03:53] <fsf>  /load ~/.irssi/vote.pl
+[20:04:01] <fsf> Apologies for that
+[20:06:16] <fsf> Voting started, 6 people (schultmc,fsf,fungi,zv,jconway,milan) allowed to vote on Meeting minutes for Monday 9 January 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[20:06:24] <fungi> !vote yes
+[20:06:25] <zv> !yes
+[20:06:25] <jconway> !vote yes
+[20:06:25] <schultmc> !vote yes
+[20:06:27] <jesusalva> I can't vote? :(
+[20:06:27] <zv> !vote yes
+[20:06:37] <fsf> Current voting results for "Meeting minutes for Monday 9 January 2023": Yes: 4, No: 0, Abstain: 0, Missing: 2 ( fsf  milan )
+[20:06:40] <fsf> Voting for "Meeting minutes for Monday 9 January 2023" closed.
+[20:06:42] <fsf> Voting started, 7 people (schultmc,fsf,fungi,zv,jconway,milan,jesusalva) allowed to vote on Meeting minutes for Monday 9 January 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[20:06:43] <schultmc> fsf: we have 7 board members here
+[20:06:44] <milan> !vote abstain
+[20:06:45] <fungi> !vote yes
+[20:06:46] <schultmc> !vote yes
+[20:06:47] <jesusalva> !vote yes
+[20:07:08] <fsf> !vote yes
+[20:07:16] <jconway> !vote yes
+[20:07:30] <schultmc> zv: please revote
+[20:07:33] <zv> !vote yes
+[20:07:48] <fsf> Current voting results for "Meeting minutes for Monday 9 January 2023": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+[20:07:51] <fsf> Voting for "Meeting minutes for Monday 9 January 2023" closed.
+[20:08:07] <schultmc> [item 7, Items up for discussion]
+[20:08:09] <schultmc> [item 7.1, Change of postal mailing address]
+[20:08:09] <schultmc> Our CPA/Auditing firm suggested SPI utilize a New York State based mailing
+[20:08:09] <schultmc> address since we are nominally soliciting donations within New York State.
+[20:08:09] <schultmc> Our mail box provider had already migrated us to a new address down the street
+[20:08:21] <schultmc> from our previous address. Again, this is a leased location and subject to change
+[20:08:23] <schultmc> in the future should the lease be unable to be renewed.
+[20:09:02] <schultmc> The treasury team has already updated https://www.spi-inc.org/donations/ and is working on updating our address with vendors
+[20:11:04] <schultmc> We did vote to move to the permanent address of our mailbox provider in North Carolina so we should probably vote again to switch to the new NYC address
+[20:11:51] <fsf> Voting started, 7 people (schultmc,fsf,fungi,zv,jconway,milan,jesusalva) allowed to vote on Change mailing address to new NYC address. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+[20:12:00] <fsf> !vote yes
+[20:12:01] <zv> !vote yes
+[20:12:05] <jconway> !vote yes
+[20:12:08] <schultmc> !votes yes
+[20:12:10] <jesusalva> !vote abstain
+[20:12:11] <fungi> !vote yes
+[20:12:12] <milan> !vote yes
+[20:12:20] <fsf> Current voting results for "Change mailing address to new NYC address": Yes: 5, No: 0, Abstain: 1, Missing: 1 ( schultmc )
+[20:12:23] <fsf> Voting for "Change mailing address to new NYC address" closed.
+[20:12:36] <fungi> though sad to see the address no longer be in a tiny town only i've ever been to ;)
+[20:12:37] <schultmc> whoops
+[20:12:41] <fsf> minutes will reflect schultmc's vote despite typo there
+32 [20:12:42] schultmc said !votes
+[20:13:00] <schultmc> [item 8, Any other business]
+[20:13:01] <schultmc> Anything to discuss?
+[20:13:21] <zv> informally, https://gcc.gnu.org/wiki/CompileFarm wishes to begin discussing possible affiliation
+[20:13:57] <zv> I will take care of communication for the time being
+[20:14:08] <schultmc> awesome, thank you
+[20:14:29] <fsf> Rad, thanks zv!
+[20:15:03] <schultmc> anything else to discuss?
+[20:15:10] <jesusalva> Also, The Mana World requested in board@rt.spi-inc.org to change sitting liaison and to my knowledge haven't received a reply yet
+[20:15:58] <zumbi> Hector Oron Martinez
+[20:15:59] <fungi> is that normally just done with a gitlab mr?
+[20:16:16] <jesusalva> fungi: I assume you need to edit the liaisons mailing list as well?
+[20:16:46] <fungi> oh, likely so! i've never been on the liaison side of things and didn't realize there was a ml for that
+[20:16:50] <jesusalva> I couldn't find any info about how this is done in the website, so documenting better this procedure in the future might be desirable.
+[20:17:09] <fsf> +1 to jesusalva's comment re: documentation
+[20:17:21] <schultmc> +1
+[20:17:46] <schultmc> [item 9, Next board meeting]
+[20:17:46] <schultmc> The next board meeting is scheduled for: April 10, 2023 at 2000 UTC.
+[20:17:47] <schultmc> Any objections?
+[20:17:56] <schultmc> Works for me
+[20:17:56] <jconway> none here
+[20:17:59] <milan> no objection here
+[20:18:09] <zumbi> I am not available that date.
+[20:18:32] <zumbi> ... but do not need to change it for me
+[20:18:44] <zv> 4/10 date works for me
+[20:18:58] <fungi> i'll be on an airplane, may or may not be able to make it
+[20:19:13] <schultmc> *GAVEL*
