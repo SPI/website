@@ -12,9 +12,12 @@ This is the proposed agenda for the SPI board meeting of Monday, April 10th
 4. Treasurer's report (Héctor Orón Martínez)
 5. Secretary's report (Forrest Fleming)
 6. Outstanding minutes
-   1. pending
 7. Items up for discussion
    1. Amendment of resolution 2009-11-04.jmd.1
+   2. Compile Farm as an Associated Project
+     1. Conflict of Interests
+   3. Steamworks Account
+   4. Revocate defunct committees
 8. Any other business
 9. Next board meeting: May 8, 2023, 20:00 UTC
 
@@ -47,4 +50,87 @@ pending
 ### Amendment of resolution 2009-11-04.jmd.1
 
 “Whereas Consideration #3 has been false since at least 2015, update the procedures as the election is no longer strictly required for contributing membership expiry.”
+
+### Compile Farm as an Associated Project
+
+<pre>
+SPI resolution 2023-03-31.zv.1
+
+WHEREAS
+
+1. Compile Farm is a substantial and significant Free Software project.
+   The Compile Farm project helps free software developers to build,
+   test, and debug their code. To this end, the project maintains
+   machines with a wide variety of architectures and operating systems.
+
+2. Compile Farm developers would like SPI's support and assistance, including
+   accepting donations and holding funds, holding substantial and intangible assets,
+   and legal assistance.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Compile Farm is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI Resolution
+   1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be found at
+   https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Zach van Rijn is recognised by SPI as the authoritative decision maker
+   and SPI liaison for Compile Farm.  Successors will be appointed by vote
+   by the core team. The SPI Board reserves the right to break ties.
+
+5. If the last known SPI liaison for Compile Farm is missing in action,
+   and no new SPI liaison is appointed for two consecutive years the
+   associated project is deemed defunct.
+
+6. In such a circumstance, the SPI Board will, in its good-faith discretion,
+   proceed as follows: the Board will identify one or more other SPI associated
+   projects or 501(c)(3) charities which can accept the project's assets and
+   use them for a similar purpose, and transfer the assets to the identified
+   destination or destinations as feasible. Assets for which no such transfer
+   can be arranged within a reasonable time will become part of the SPI general
+   fund.
+
+7. This invitation will lapse, if not accepted, 60 days after it is approved by
+   the SPI Board.
+</pre>
+
+#### Conflict of Interests
+
+There are questions regarding whether the N-PCL Modernization Act,
+or any applicable New York law, requires special handling of Compile
+Farm's Application to become an Associated Project, due to a potential
+Conflict of Interest. Details regarding this matter may be found here:
+
+    https://gitlab.com/spi-inc/website/-/merge_requests/25
+
+Additional documentation has been shared on the Board mailing list,
+in particular the message "Navigating Possible CoI w.r.t. Compile Farm",
+proposing mitigation strategies to avoid an appearance/actual Conflict.
+
+### Steamworks Account
+
+The Battle for Wesnoth and The Mana World have both requested a SPI controlled
+Steamworks account. This requires signing a Non Disclosure Agreement, and after
+this, a few confidential contracts such as the Developers Agreement.
+
+I would like to request SPI to assign someone to review these contracts and sign
+them on SPI's behalf, or relay them to the Board for deliberation if they contain
+problematic clauses, through the private lists due to the sensitive nature of the
+Non Disclosure Agreement.
+
+### Dissolve defunct committees
+
+The By-Law Committee, the Trademark Committee and the Open Source Committee have
+been defunct for the past two decades and are not mandated by the By-Laws.
+
+Two of them have an upkeep to keep mailing lists around which have not seen
+activity from ten to twenty years, which would be better archived.
+
+<pre>
+It is resolved that:
+
+The By-Law Committee, the Trademark Committee, and the Open Source Committee
+charters be revoked and the committee be abolished.
+</pre>
+
 
