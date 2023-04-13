@@ -1,0 +1,154 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, March 13th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Forrest Fleming (fsf) (Secretary)
+* Jeremy Stanley (fungi)
+* Joe Conway (jconway)
+* Zach van Rijn (zv)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+
+__Board members partially present__
+
+* Héctor Orón Martínez (zumbi) (Treasurer)
+
+__Board members absent with regrets__
+
+* Stephen Frost (Snow-Man) (Vice-President)
+
+__Board members absent__
+
+* None
+
+__Registered guests present__
+
+* None
+
+These are the minutes for the March 13th, 2023 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2023/2023-03-13.txt).
+
+## President's Report
+
+<pre>
+After months of hassle, I was able to get the verification for Debian's EV SSL certificate
+completed. I've added an agenda item discussing our telecommunications infrastructure so we
+can hopefully alleviate the issues in the future
+
+I worked with Key Bank to close down our money market account where we were earning negligible
+interest and got the funds wired to Merrill Lynch where at least temporarily we will earn over
+4% interest. Once Stephen Frost and I complete the paperwork for our newest Merrill account,
+we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+with our financial advisor.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+with SPI's contractors. Stephen continues to do a fantastic job working with our 
+contractors and legal counsel.
+</pre>
+
+## Vice President's Report
+
+Stephen Frost was not present.
+
+## Treasurer's report
+
+<pre>
+The SPI treasury team is continuing to process requests and is striving for
+more timely ticket handling. The backlog is being processed but if there are
+any board members who would like to assist with treasury tasks, additional
+help is always welcome.
+</pre>
+
+## Secretary's report
+
+<pre>
+I've sent out the conflict of interest form, so please be on the lookout. Battle for Wesnoth's Apple Developer signing certificate situation is resolved.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday January 9th 2023
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Abstain</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 1 abstain, 0 no.
+
+## Items up for discussion
+
+### Change of postal mailing address
+
+<pre>
+Our CPA/Auditing firm suggested SPI utilize a New York State based mailing
+address since we are nominally soliciting donations within New York State.
+
+Our mail box provider had already migrated us to a new address down the street
+from our previous address. Again, this is a leased location and subject to change
+in the future should the lease be unable to be renewed.
+
+The treasury team has already updated https://www.spi-inc.org/donations/
+and is working on updating our address with vendors.
+
+We did vote to move to the permanent address of our mailbox provider in
+North Carolina so we should probably vote again to switch to the new NYC address.
+</pre>
+
+#### Vote on change mailing address to new NYC address
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 1 abstain, 0 no.
+
+## Other business
+
+### Compile Farm
+
+The [Compile Farm](https://gcc.gnu.org/wiki/CompileFarm) project wishes to begin discussing possible affiliation; Zach van Rijn will take care of initial communication.
+
+### The Mana World
+
+The Mana World requested in `board@rt.spi-inc.org` to change the sitting liaison and haven't received a reply yet.
+
+## Adjournment
+
+The meeting was adjourned until Monday April 10th, 2023 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,290 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, April 10th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice-President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+* Joe Conway (jconway)
+* Zach van Rijn (zv)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Forrest Fleming (fsf) (Secretary)
+* Jeremy Stanley (fungi)
+
+__Board members absent__
+
+* None
+
+__Registered guests present__
+
+* David Edelsohn
+
+These are the minutes for the April 10th, 2023 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2023/2023-04-10.txt).
+
+## President's Report
+
+I worked with Key Bank to close down our money market account where we were earning negligible
+interest and got the funds wired to Merrill Lynch where at least temporarily we will earn over
+4% interest. Once Stephen Frost and I complete the paperwork for our newest Merrill account,
+we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+with our financial advisor.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+with SPI's contractors. Stephen continues to do a fantastic job working with our 
+contractors and legal counsel.
+</pre>
+
+## Vice President's Report
+
+<pre>
+Kudos to Perdu_ for their work on the IT side of things and getting things migrated, finally.
+For my own part, anticipate picking things up this month now that some PG-related items are mostly handled.
+If you've been waiting on me for things- feel free to ping me again.
+</pre>
+
+## Treasurer's report
+
+<pre>
+Payments are being processed. Nothing significant to comment in the past month. 
+</pre>
+
+## Secretary's report
+
+<pre>
+Thank you to everyone who has provided your conflict of interest form. If
+you have not yet done so, please provide your CoI form to fsf. Thank you
+to Jonatas, Zach, and others for your continued support with secretarial duties.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+<pre>
+Minutes are pending.
+</pre>
+
+## Items up for discussion
+
+### Amendment of resolution 2009-11-04.jmd.1
+
+The Board agreed that a new resolution should be voted on, instead of striking the third clause from the existing resolution.
+
+<pre>
+"Whereas Consideration #3 has been false since at least 2015, update the
+procedures as the election is no longer strictly required for contributing
+membership expiry."
+</pre>
+
+For reference, the current resolution is [https://www.spi-inc.org/corporate/resolutions/2009/2009-11-04.jmd.1/](/corporate/resolutions/2009/2009-11-04.jmd.1/.)
+
+### Resolution 2023-04-10.jln.1: Contributing membership expiry
+
+Resolution 2009-11-04.jmd.1 will be superseded by 2023-04-10.jln.1 if passed.
+
+### Vote on resolution 2023-04-10.jln.1: Contributing membership expiry
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 abstain, 0 no.
+
+### Vote on resolution 2023-03-31.zv.1: Compile Farm as an Associated Project
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Abstain</td></tr>
+</table>
+
+Vote passed with 6 yes, 1 abstain, 0 no.
+
+### Conflicts of Interest
+
+<pre>
+There are questions regarding whether the N-PCL Modernization Act, or any applicable New York law, requires special handling of Compile Farm's Application to become an Associated Project, due to a potential Conflict of Interest. Details regarding this matter may be found here:
+https://gitlab.com/spi-inc/website/-/merge_requests/25
+Additional documentation has been shared on the Board mailing list, in particular the message "Navigating Possible CoI w.r.t. Compile Farm", proposing mitigation strategies to avoid an appearance/actual Conflict.
+</pre>
+
+It has been requested that Counsel review relevant materials.
+
+### Steamworks Account
+
+<pre>
+The Battle for Wesnoth and The Mana World have both requested a SPI controlled Steamworks account. This requires signing a Non Disclosure Agreement, and after this, a few confidential contracts such as the Developers Agreement.
+</pre>
+
+This requires Officer-level coordination.
+
+### Dissolve defunct committees
+
+<pre>
+The By-Law Committee, the Trademark Committee and the Open Source Committee have been defunct for the past two decades and are not mandated by the By-Laws.
+Two of them have an upkeep to keep mailing lists around which have not seen activity from ten to twenty years, which would be better archived.
+It is resolved that:
+The By-Law Committee, the Trademark Committee, and the Open Source Committee
+charters be revoked and the committee be abolished.
+</pre>
+
+### Vote to dissolve defunct committees
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Abstain</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 abstain, 0 no.
+
+### Contracts questions/decisions
+
+It was decided to assign the handling of
+[ticket 6224](https://rt.spi-inc.org/Ticket/Display.html?id=6224)
+to Stephen Frost, and
+[ticket 6282](https://rt.spi-inc.org/Ticket/Display.html?id=6282)
+to Michael Schultheiss.
+
+### Chakra Linux Trademark
+
+<pre>
+Our trademark attorneys reached out to me regarding renewing the Chakra trademark (due 2023-10)
+Chakra is no longer an associated project and the project is defunct. Should we let this trademark expire?
+</pre>
+
+We will let the trademark expire. Michael Schultheiss will inform the trademark attorneys of this decision.
+
+## Other business
+
+None.
+
+## Adjournment
+
+The meeting was adjourned until Monday May 8th, 2023 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td></tr>
+</tbody>
+</table>
+
+## Appendix B: Resolutions
+
+### Resolution 2023-03-31.zv.1: Compile Farm as an Associated Project
+
+<pre>
+WHEREAS
+
+1. Compile Farm is a substantial and significant Free Software project.
+   The Compile Farm project helps free software developers to build,
+   test, and debug their code. To this end, the project maintains
+   machines with a wide variety of architectures and operating systems.
+
+2. Compile Farm developers would like SPI's support and assistance, including
+   accepting donations and holding funds, holding substantial and intangible assets,
+   and legal assistance.
+
+THE SPI BOARD RESOLVES THAT
+
+3. Compile Farm is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI Resolution
+   1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of which can be found at
+   https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Zach van Rijn is recognised by SPI as the authoritative decision maker
+   and SPI liaison for Compile Farm.  Successors will be appointed by vote
+   by the core team. The SPI Board reserves the right to break ties.
+
+5. If the last known SPI liaison for Compile Farm is missing in action,
+   and no new SPI liaison is appointed for two consecutive years the
+   associated project is deemed defunct.
+
+6. In such a circumstance, the SPI Board will, in its good-faith discretion,
+   proceed as follows: the Board will identify one or more other SPI associated
+   projects or 501(c)(3) charities which can accept the project's assets and
+   use them for a similar purpose, and transfer the assets to the identified
+   destination or destinations as feasible. Assets for which no such transfer
+   can be arranged within a reasonable time will become part of the SPI general
+   fund.
+
+7. This invitation will lapse, if not accepted, 60 days after it is approved by
+   the SPI Board.
+</pre>
+
+### Resolution 2023-04-10.jln.1: Contributing membership expiry
+
+<pre>
+WHEREAS
+
+1. Article 3 of the corporate by-laws state: "If a contributing
+   membership is not renewed, the member's status will be downgraded to
+   a non-contributing member.";
+
+2. Voter turnout and quorum is measured as a function of
+   contributing membership;
+
+3. Elections are the most effective means of verifying a member's
+   activity and our electoral system does not require a voting member
+   to express an opinion on their ballot
+
+
+THE SPI BOARD RESOLVES THAT
+
+1. Be it resolved that any contributing member who does not cast a ballot
+   in an annual Board member election shall be considered potentially
+   inactive.
+
+2. In the event that no annual Board member election takes place,
+   regardless of reason, potentially inactive members will be decided
+   based on their last activity in the membership portal;
+
+3. Any contributing membership that exists under any other resolutions
+   or clauses that is not subject to expiry will not expire.
+
+4. Any contributing member considered potentially inactive shall
+   be contacted to confirm their status; if no response is received within
+   4 weeks of this initial contact they shall be deemed inactive and
+   downgraded to a non-contributing member. However no such downgrading shall
+   preclude any member from restoring their contributing membership status at
+   any later date.
+</pre>
