@@ -1,0 +1,219 @@
+20:01 < schultmc> *GAVEL*
+20:01 < schultmc> [item 1, Opening]
+20:01 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:01 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:01 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-04-10/
+20:01 < schultmc> [item 2, Roll Call]
+20:01 < schultmc> Directors, please state your name
+20:01 < zumbi_roam> Thanks! :-)
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < milan> Milan Kupcevic
+20:01 < schultmc> .
+20:01 < jesusalva> Jonatas L. Nogueira
+20:01 < jconway> Joe Conway
+20:01 < schultmc> fsf and fungi sent regrets. I'm not aware of any other regrets.
+20:01 < schultmc> .
+20:01 < schultmc> Michael Schultheiss
+20:01 < zv> Zach van Rijn
+20:01 < zumbi_roam> Héctor Orón Martínez 
+20:01 < schultmc> That's quorum+1 - everyone else has sent regrets
+20:02 < Snow-Man> +1
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> I worked with Key Bank to close down our money market account where we were earning negligible
+20:02 < schultmc> interest and got the funds wired to Merrill Lynch where at least temporarily we will earn over
+20:02 < schultmc> 4% interest. Once Stephen Frost and I complete the paperwork for our newest Merrill account,
+20:02 < schultmc> we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+20:02 < schultmc> with our financial advisor.
+20:02 < schultmc> .
+20:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:02 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:02 < schultmc> contractors and legal counsel.
+20:02 < schultmc> .
+20:02 < schultmc> </done>
+20:02 < schultmc> .
+20:02 < schultmc> Snow-Man: do you have anything to add?
+20:03 < Snow-Man> Not really.  Kudos to Perdu_ for their work on the IT side of things and getting things migrated, finally.
+20:03 < Snow-Man> For my own part, anticipate picking things up this month now that some PG-related items are mostly handled.
+20:03 < Snow-Man> If you've been waiting on me for things- feel free to ping me again.
+20:03 < Snow-Man> (and apologies for it being delayed)
+20:03 < Snow-Man> .
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi_roam: ?
+20:05 < Snow-Man> they mentioned possibly not having time to provide it
+20:05 < schultmc> ok
+20:05 < zumbi_roam> Payments are being processed. Nothing significant to comment in the past month. 
+20:05 < zumbi_roam> Done.
+20:05 < schultmc> [item 5, Secretary's report]
+20:05 < schultmc> fsf isn't here but provided a report:
+20:05 < schultmc> Thank you to everyone who has provided your conflict of interest form. If
+20:05 < schultmc> you have not yet done so, please provide your CoI form to fsf. Thank you
+20:05 < schultmc> to Jonatas, Zach, and others for your continued support with secretarial duties.
+20:06 < schultmc> [item 6, Outstanding minutes]
+20:06 < schultmc> Minutes are pending
+20:07 < schultmc> [item 7, Items up for discussion]
+20:07 < schultmc> [item 7.1, Amendment of resolution 2009-11-04.jmd.1]
+20:07 < schultmc> “Whereas Consideration #3 has been false since at least 2015, update the
+20:07 < schultmc> procedures as the election is no longer strictly required for contributing
+20:07 < schultmc> membership expiry.”
+20:07 < schultmc> For reference, the current resolution is https://www.spi-inc.org/corporate/resolutions/2009/2009-11-04.jmd.1/
+20:08 < jesusalva> The full details was forwarded via email, but essentially, there has been a way to mark yourself as active since at least 2015
+20:08 < jesusalva> So no reason to do spring cleaning because election didn't happen.
+20:09 < jesusalva> These are important for quorums in case we submit stuff for membership to vote, such as By-Laws revisions
+20:09 < jesusalva> </done>
+20:10 < schultmc> I don't have the vote bot but unless there's further discussion, we can vote on whether to strike point 3 from the WHEREAS clause from Resolution 2009-11-04.jmd.1: Contributing membership expiry
+20:10 < jesusalva> (also point 2 from the resolution itself)
+20:10 < jconway> everything else remains the same?
+20:11 < schultmc> stripe point 3 from the WHEREAS clause and point 2 from the resolution.
+20:11 < schultmc> for consistency's sake this should be a new resolution superceding the old one
+20:12 < Snow-Man> yeah, new resolution which rescinds the prior and then adds back what we want
+20:12 < jconway> personally I would find it helpful to see the new resolution in total -- imagining the old without those two points leaves me feeling like the whole thing needs rewriting
+20:13 < schultmc> jesusalva provided a diff file
+20:14 < jesusalva> jconway: Something like https://paste.debian.net/1276961/
+20:14 < jesusalva> Note that I split what is now point 1 in two parts
+20:14 < jesusalva> Because otherwise it would risk implying that if no election happen you could clean up without pinging people
+20:15 < Snow-Man> jesusalva: could we drop 'after the election' from point 4?
+20:15 < jesusalva> Point 1 and Point 4 in the draft is essentially point 1 in the current resolution, but making clear the ping is for all cases
+20:15 < jesusalva> Snow-Man: Yes
+20:16 < Snow-Man> other than that, lgtm
+20:16 < Snow-Man> (and would be great to get this done so that we can start sending pings..)
+20:18 < schultmc> Vote for amend Resolution 2009-11-04.jmd.1: Contributing membership expiry is now active
+20:18 < jconway> +1 with that change
+20:18 < schultmc> !vote yes
+20:18 < zv> !vote ys
+20:18 < zv> !vote yes
+20:18 < jesusalva> !vote yes
+20:18 < jconway> !vote yes
+20:18 < Snow-Man> !vote yes
+20:18 < milan> !vote yes
+20:18 < schultmc> zumbi_roam: ping
+20:19 < zumbi_roam> !vote yes
+20:19 < schultmc> Vote for amend Resolution 2009-11-04.jmd.1: Contributing membership expiry is now closed. Yes: 7, No: 0, Abstain: 0
+20:20 < schultmc> [7.2 SPI resolution 2023-03-31.zv.1: Compile Farm as an Associated Project]
+20:20 < schultmc> zv: would you like to say anything before the vote?
+20:20 < zv> Regarding a possible Conflict of Interest, I will remind the Board of this document:
+20:20 < zv> https://gitlab.com/spi-inc/website/-/merge_requests/25
+20:20 < zv> and emphasize that I am available to answer any remaining questions.
+20:20 < zv> (done)
+20:21 < schultmc> I don't have any questions - does anyone else?
+20:22 < jesusalva> fungi and I reviewed the whole thing too in case there is a conflict of interest
+20:22 < jesusalva> (fungi however is not present)
+20:22 < jesusalva> We did not see anything which would prevent this from going forward, except possibly N-PCL bureaucracy.
+20:22 < zumbi_roam> No questions from me
+20:22 < Snow-Man> I'm happy to vote
+20:23 < jconway> none here
+20:23 < schultmc> Vote for SPI resolution 2023-03-31.zv.1: Compile Farm as an Associated Project is now active
+20:23 < zv> !vote abstain
+20:23 < jesusalva> !vote yes
+20:23 < schultmc> !vote yes
+20:23 < zumbi_roam> !vote yes
+20:23 < jconway> !vote yes
+20:23 < milan> !vote yes
+20:23 < Snow-Man> !vote yes
+20:24 < schultmc> Vote for SPI resolution 2023-03-31.zv.1: Compile Farm as an Associated Project is now closed. Yes: 6, No: 0, Abstain: 1
+20:24 < schultmc> [7.3 Conflicts of Interest]
+20:24 < schultmc> There are questions regarding whether the N-PCL Modernization Act, or any applicable New York law, requires special handling of Compile Farm's Application to become an Associated Project, due to a potential Conflict of Interest. Details regarding this matter may be found here:
+20:24 < schultmc> https://gitlab.com/spi-inc/website/-/merge_requests/25
+20:24 < schultmc> Additional documentation has been shared on the Board mailing list, in particular the message "Navigating Possible CoI w.r.t. Compile Farm", proposing mitigation strategies to avoid an appearance/actual Conflict.
+20:26 -!- jesusalva [~jesusalva@000218ef.user.oftc.net] has quit [Read error: Connection reset by peer]
+20:26 < jesusalva-bot> <Jesusaves> Btw I'm here by phone
+20:27 -!- jesusalva [~jesusalva@179.214.115.5] has joined #spi
+20:27 < jesusalva-bot> <Jesusaves> For short, zv and I are not sure if he being a liaison would cause a conflict of interest, and how restrictive it would be
+20:28 < jesusalva> In this case, zv is a SPI board member and also the liaison acknowledged for CompileFarm, which under N-PCL could cause a conflict.
+20:28 < zumbi_roam> Since many of us are related to other projects and it has never been a real issue, I would not worry about that right now, unless there is some real thread
+20:29 < zumbi_roam> I am unsure what is N-PCL
+20:29 < jesusalva> zumbi_roam: Compile Farm was not associated before (it is different from e.g. Debian). N-PCL refers to New York State Non Profit Law
+20:30 < jesusalva> My advise is to just ask the legal counsel if anything need to be done and heed their advise, this seems to be mostly legal bureaucracy imho.
+20:30 < jesusalva> There is no precedent in the resolutions from what fungi and I looked, but it was not an extensive search
+20:31 < schultmc> Snow-Man: please ask legal counsel to review this issue.
+20:31 < Snow-Man> Sure.
+20:31 < Snow-Man> I have to say that I seriously doubt anything really needs doing on this.
+20:31 < schultmc> [7.4 Steamworks Account]
+20:31 < schultmc> The Battle for Wesnoth and The Mana World have both requested a SPI controlled Steamworks account. This requires signing a Non Disclosure Agreement, and after this, a few confidential contracts such as the Developers Agreement.
+20:31 < schultmc> I would like to request SPI to assign someone to review these contracts and sign them on SPI's behalf, or relay them to the Board for deliberation if they contain problematic clauses, through the private lists due to the sensitive nature of the Non Disclosure Agreement.
+20:32  * schultmc isn't sure who "I" is in the above
+20:34 < jesusalva> Valve requires signing a bunch of contracts (both in personal as in institutional capacity), and most of them can't even been revised before signing the Non Disclosure Agreement. Someone with or invested with enough power to sign them on behalf of SPI must start this. It'll also ask for a lot of information and documents to conclude.
+20:34 < schultmc> regardless, this needs someone on the board's attention.
+20:35 < Snow-Man> needs an officer more specifically, it sounds like
+20:35  * schultmc should have some availability through 2023-04-23
+20:35 < jesusalva> Yes, I think the process in involved enough to warrant an officer to go through this, unfortunately
+20:35 < jesusalva> s/in/is
+20:35 < Snow-Man> schultmc: if you could take the lead on it then I could help
+20:36 < jesusalva> Operationally, you must go to https://partner.steamgames.com/ ─ if memory serves me right, there's at least ten steps to go through.
+20:36 < jesusalva> They're in the same place, but one block each other.
+20:36 < schultmc> Snow-Man: sounds like a plan
+20:36 < Snow-Man> +1
+20:36 < jesusalva> Feel free to ask me if you have questions, but I (obviously) can't conduct this :)
+20:37 < schultmc> [7.5 Dissolve defunct committees]
+20:37 < schultmc> The By-Law Committee, the Trademark Committee and the Open Source Committee have been defunct for the past two decades and are not mandated by the By-Laws.
+20:37 < schultmc> Two of them have an upkeep to keep mailing lists around which have not seen activity from ten to twenty years, which would be better archived.
+20:37 < schultmc> It is resolved that:
+20:37 < schultmc> The By-Law Committee, the Trademark Committee, and the Open Source Committee
+20:37 < schultmc> charters be revoked and the committee be abolished.
+20:38 < schultmc> Any discussion? We could always reform any committees deemed necessary in the future
+20:38 < Snow-Man> I'm ready to vote on it
+20:38 < jconway> +1
+20:38 < zumbi_roam> +1
+20:38 < jesusalva> +1
+20:39 < milan> +1
+20:39 < schultmc> Vote for Dissolve defunct committes is now open.
+20:39 < zumbi_roam> !vote yes
+20:39 < zv> !vote yes
+20:39 < Snow-Man> !vote yes
+20:39 < jconway> !vote yes
+20:39 < schultmc> !vote yes
+20:39 < jesusalva> !vote yes
+20:40 < milan> !vote yes
+20:40 < schultmc> Vote for Dissolve defunct committes is now closed. Yes: 7, No: 0, Abstain: 0
+20:40 < schultmc> [7.6 Contracts questions/decisions]
+20:41 < schultmc> Contracts questions/decisions
+20:41 < schultmc> How can we best unblock the following?
+20:41 < schultmc> https://rt.spi-inc.org/Ticket/Display.html?id=6224
+20:41 < schultmc> Arch Linux request to contract with Fastly Inc. open-source program
+20:41 < jesusalva> schultmc: These are two different tickets
+20:42 < Snow-Man> 6224 should be easily handlable
+20:42 < schultmc> Snow-Man: it looks like RT 6224 requires your attention (contractor)
+20:42 < jesusalva> I believe 6282 was also assigned to Snow-Man
+20:42 < jesusalva> ...Who justified just earlier why he hadn't done them. Do we (the board) need to do anything?
+20:43 < schultmc> Snow-Man or I can handle 6282
+20:43 < Snow-Man> hrmpf.  6224 needs a clarification
+20:43 < Snow-Man> I'll follow up
+20:43 < schultmc> there have been some issues with RT emil notification
+20:43 < schultmc> email
+20:44 < Snow-Man> We do need to engage with fastly directly wrt 6282
+20:45 < Snow-Man> I can pick that up
+20:45 < Snow-Man> Since we're all here- my thought would be to ask Fastly about an agreement that's a bit broader than just for one assoc. project
+20:45 < zv> +1
+20:45 < Snow-Man> any concerns or objections to that?
+20:45 < schultmc> +1
+20:45 < Snow-Man> (ideally similar to what we now have arranged w/ Gandi)
+20:45 < schultmc> no concerns
+20:45 < Snow-Man> alright, I'll follow up on that this week then.
+20:46 < schultmc> [7.7 Chakra Linux Trademark]
+20:46 < schultmc> Our trademark attorneys reached out to me regarding renewing the Chakra trademark (due 2023-10)
+20:46 < schultmc> Chakra is no longer an associated project and the project is defunct. Should we let this trademark expire?
+20:47 < Snow-Man> yes
+20:47 < Snow-Man> Even if we don't, if it's not being used then it's really hard to defend it, so...
+20:47 < schultmc> OK - I'll let them  know
+20:47 < zumbi_roam> +1 
+20:47 < jesusalva> Didn't we discuss this earlier?
+20:47 < jconway> makes sense
+20:48 < schultmc> I don't recall - I'll let the trademark attorneys know
+20:48 < schultmc> [8. Any other business]
+20:48 < schultmc> Anything else to discuss?
+20:48 < zumbi_roam> Nothing from me
+20:48 < zv> nothing from me
+20:48 < jconway> none here
+20:48 < milan> none here
+20:48 < Snow-Man> nope
+20:49 < schultmc> [item 9, Next board meeting]
+20:49 < schultmc> The next board meeting is scheduled for: May 8, 2023 at 2000 UTC.
+20:49 < schultmc> Any objections?
+20:49 < zv> nope
+20:49 < zumbi_roam> None 
+20:49 < milan> nope
+20:49 < Snow-Man> I have a conflict, just fyi
+20:49 < jconway> nope
+20:50 < Snow-Man> might still be able to make it tho
+20:50 < schultmc> *GAVEL*
