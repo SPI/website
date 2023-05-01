@@ -1,0 +1,43 @@
+[[!meta title="Compile Farm"]]
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Compile Farm
+
+[[!img cfarm-logo.png alt="Compile Farm logo" class="projectlogo" link="no"]]
+
+<!-- this link will become https://cfarm.net/ soon -->
+
+[Compile Farm](https://cfarm.tetaneutral.net/) is a volunteer-run project that maintains a distributed network of diverse computing resources for developers of software with OSI-approved licenses. Machines are owned and hosted by third party sponsors.
+
+The Compile Farm Project traces its roots to a 2005 initiative by Laurent Guerby to make a wide range of computers with numerous architectures available to GCC developers. FSF France was an early sponsor.
+
+Today, it remains a 100% independent and volunteer-driven project, not affiliated with any sponsors or projects.
+
+We maintain a vast collection of 32- and 64- bit hardware, big- and little- endian, as well as diversity in operating systems across over 800 cores of riscv64, mips64, LoongArch64, ARM, x86, POWER, and SPARC.
+
+### Project Liaisons
+
+* Zach van Rijn
+
+### Services
+
+* Accepting donations
+* Holding assets
+* Legal assistance
+
+### Donate via PayPal
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<fieldset>
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="93NR6F59JTDEU" />
+<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to Compile Farm via PayPal" />
+</fieldset>
+</form>
+
+### Donate via Click & Pledge
+
+<a href="https://co.clickandpledge.com/advanced/default.aspx?wid=34115">
+<img src="../../images/CP_EN_BL_A_001.gif" alt="Donate to Compile Farm via Click &amp; Pledge">
+</a>
