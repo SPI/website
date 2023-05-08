@@ -1,0 +1,164 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-05-08/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to fsf if you wish your attendance to be
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < fsf> Forrest Fleming
+20:00 < jconway> Joe Conway
+20:00 < schultmc> .
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> fsf, do we have any regrets?
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < schultmc> quorum!
+20:00 < fsf> Snowman will be late; Milan sends his regrets
+20:00 < schultmc> ok.
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> Stephen Frost and I are completing the paperwork for our newest Merrill account,
+20:01 < schultmc> we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+20:01 < schultmc> with our financial advisor.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> </done>
+20:01 < schultmc> .
+20:01 < schultmc> [item 4, Treasurer's Report]
+20:01 < schultmc> zumbi?
+20:01 < zumbi> There have been some delays processing payments in the past month or so, however the pending payments queue is very much under control now.
+20:01 < zumbi> All statements have been collected up to last month, April 2023. Monthly reports published up to February 2023.
+20:01 < zumbi> A stripe account has been created, we are currently investigating, therefore if you find this useful, do not hesitate to reach out.
+20:01 < zumbi> .
+20:02 < schultmc> [item 5, Secretary's report]
+20:02 < schultmc> fsf?
+20:02 < fsf> Because I have been unable to devote sufficient time to secretarial tasks, I plan to step down as secretary. Zach (zv@) has picked up my slack, and so I think it appropriate for him to take over the title of secretary until positions are voted upon in August. This should go into effect for June's meeting.
+20:02 < fsf> I plan to maintain my position as a board memter. That said, I haven't received all conflict-of-interest forms; please send those along if you have not already.
+20:03 < fsf> Any necessary formal votes should happen at June's meeting - please let this serve as ample notice of my plans in this regard :)
+20:03 < fsf> <EOM>
+20:03 < fungi> thanks fsf (and zv now too) for all your hard work!
+20:03 < schultmc> if one has a new conflict, should a new CoI form be submitted when the conflict becomes active?
+20:03 < schultmc> (hypothetical at the moment)
+20:04 < fsf> IMO yes, to err on the side of maximum transparency
+20:04 < jesusalva> iirc yes
+20:05 < jesusalva> Yearly
+20:05 < fsf> The question is if one should submit a new form _as soon as_ the conflict arises
+20:05 < jesusalva> I think it is mandated both by the resolution itself as by the law
+20:05 < schultmc> yes
+20:05 < schultmc> if this becomes non hypothetical I'll submit an updated form ASAP
+20:06 < fsf> We _always_ do yearly - should we _also_ submit off-cadence if we e.g. get a new job that may present a conflict. I think we should, but that it should be a "best-practrice" thing, not a "mandated by formal regulation" thing
+20:06 < jesusalva> https://www.spi-inc.org/corporate/resolutions/2016/2016-02-10.djl.1/ "Each director shall submit to the Secretary prior to initial election to the board, and annually thereafter, the SPI Conflict Disclosure form "
+20:06 < fsf> Correct, but that does not answer schultmc's question :)
+20:07 < fsf> (Well, maybe it does somewhere in there - I'm going by the excerpt)
+20:07 < schultmc> Anything else for the secretary's report or may we move on?
+20:07 < Snow-Man> Stephen Frost
+20:07 < Snow-Man> (apologies)
+20:07 < jesusalva> I'm looking at https://www.ptny.org/application/files/6415/1302/5791/2KeyFeatures-of-NPRA.pdf too
+20:08 < fsf> Nothing else - we can move on
+20:08 < jesusalva> The annual requirement comes from the NPCL after all
+20:08 < jesusalva> Yes, go ahead
+20:08 < schultmc> Snow-Man: do you have anything to report as VP?
+20:08 < Snow-Man> Nothing other than I have a few things I know folks are waiting on and I'm going to be moving those forward shortly.
+20:10 < schultmc> [item 6, Outstanding minutes]
+20:10 < schultmc> The minutes for the 2023-02-13, 2023-03-13, and 2023-04-10 meetings need to be approved.
+20:10 < schultmc> They are available at
+20:10 < schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-02-13/
+20:10 < schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-03-13/
+20:10 < schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-04-10/
+20:11 < fsf> Voting started, 8 people (schultmc,fsf,jesusalva,jconway,fungi,zumbi,snow-man,zv) allowed to vote on Meeting minutes for February 13th, 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:11 < Snow-Man> !vote yes
+20:11 < zv> !vote yes
+20:11 < schultmc> !vote yes
+20:11 < jconway> !vote yes
+20:11 < zumbi> !vote yes
+20:11 < fsf> !vote abstain
+20:12 < jesusalva> !vote abstain
+20:12 < fungi> !vote abstain
+20:12 < fungi> i was not present for the 2023-04-10 meeting
+20:12 < zv> this is for february
+20:12 < fungi> oops, thanks
+20:12 < fungi> !vote yes
+20:12 < jesusalva> Ah
+20:12 < fungi> i misread your intro and thought we had one vote for all three
+20:12 < jesusalva> No, that's fine, I wasn't present either, should abstain :b
+20:12 < jesusalva> fungi: Likewise :p
+20:13 < jesusalva> I only intend to abstain on April's one, but abstaining on February one is fine as I was not present.
+20:14 < fsf> All good on voting for Feb?
+20:14 < fsf> Current voting results for "Meeting minutes for February 13th, 2023": Yes: 6, No: 0, Abstain: 2, Missing: 0 ()
+20:14 < fsf> Voting for "Meeting minutes for February 13th, 2023" closed.
+20:15 < fsf> Voting started, 8 people (schultmc,fsf,jesusalva,jconway,fungi,zumbi,snow-man,zv) allowed to vote on Meeting minutes for March 13th, 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:15 < zumbi> !vote yes
+20:15 < jconway> !vote yes
+20:15 < jesusalva> !vote yes
+20:15 < zv> !vote yes
+20:15 < Snow-Man> !vote abstain
+20:15 < schultmc> !vote yes
+20:15 < fsf> !vote yes
+20:15 < fungi> !vote yes
+20:15 < fsf> Current voting results for "Meeting minutes for March 13th, 2023": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:15 < fsf> Voting for "Meeting minutes for March 13th, 2023" closed.
+20:16 < fsf> Voting started, 8 people (schultmc,fsf,jesusalva,jconway,fungi,zumbi,snow-man,zv) allowed to vote on Meeting minutes for April 10th, 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:16 < zv> !vote yes
+20:16 < Snow-Man> !vote yes
+20:16 < zumbi> !vote yes
+20:16 < jconway> !vote yes
+20:16 < schultmc> !vote yes
+20:16 < fsf> !vote abstain
+20:16 < jesusalva> !vote abstain
+20:16 < fungi> !vote abstain
+20:16 < fsf> Current voting results for "Meeting minutes for April 10th, 2023": Yes: 5, No: 0, Abstain: 3, Missing: 0 ()
+20:16 < fsf> Voting for "Meeting minutes for April 10th, 2023" closed.
+20:16 < schultmc> [item 7, Items up for discussion]
+20:16 < schultmc> Nothing on agenda
+20:16 < schultmc> [item 8, Any other business]
+20:16 < schultmc> Anything to discuss?
+20:16 < zumbi> Do we want to plan for F2F?
+20:16 < Snow-Man> yes
+20:16 < schultmc> yes
+20:17 < jesusalva> I had a question but Snow-Man already replied to it
+20:17 < zv> yes to f2f from me
+20:17 < jesusalva> And I remembered an email from Sovereign Tech Fund
+20:17 < Snow-Man> I guess I could note that we are also trying some things wrt improving the deliverability of RT emails
+20:17 < fungi> i should be free to do f2f in the coming months, other scheduled travel permitting
+20:17 < Snow-Man> hopefully that gets better
+20:18 < jesusalva> Last and not least there was a suggestion from membership forwarded to the board
+20:18 < jesusalva> I hope the other directors get to read it and if an action is to be taken, to schedule it for June's meeting.
+20:18 < fungi> oh, and thanks to Perdu for adding e-mail notifications about contributing member application submissions and updates
+20:18 < fsf> Quick note: Perdu was present at the three meetings whose minutes we just approved, but is not noted as present on the minutes page; that ought to be fixed. Also, he is present today and wishes this presence to be reflected in the minutes
+20:18 < jesusalva> fungi: +1
+20:18 < Snow-Man> my upcoming months are surprisingly reasonably available
+20:18 < zv> fsf: ack
+20:18 < zv> I did not receive notice of registered guests
+20:19 < zv> please see that those notices get forward to me or board@
+20:19 < jesusalva> I kinda assumed this would be fixed later, we have precedents for that :b
+20:19 < jesusalva> registered guests whisper their name to the secretary
+20:19 < schultmc> My script says /msg fsf - I'll update that to say /msg zv for june and beyond
+20:19 < jesusalva> So only fsf would have this in any case
+20:20 < fsf> Right, it's on me for not forwarding that on (noone else is to blame)
+20:20 < zv> The 2023-04-10 meeting e.g. did not have an fsf, so the notice went to someone else.
+20:20 < jesusalva> But it wouldn't be the first time we amend registered guest list after the minutes are approved
+20:20 < jesusalva> should be fine
+20:20 < schultmc> fsf was logged in fwiw regardless if he was present
+20:21 < jesusalva> Yea, if anything needs to be done, just note on minutes approval that registered guest list may be updated later and call it a day
+20:21 < jesusalva> Or "this approval is contingent in having the registered guests list updated"
+20:22 < zv> moving on. any other business?
+20:22 < jesusalva> Only these three points from me
+20:22 < jesusalva> (from which one was answered before even being asked)
+20:22 < jesusalva> (and the other two do not require any action on the meeting)
+20:23 < schultmc> [item 9, Next board meeting]
+20:23 < schultmc> The next board meeting is scheduled for: June 12, 2023 at 2000 UTC.
+20:23 < schultmc> Any objections?
+20:23 < schultmc> Works for me at the moment.
+20:23 < jesusalva> It's a holiday here but I expect to be present.
+20:23 < jconway> none here
+20:24 < Snow-Man> Will be traveling but should be able to make it
+20:24 < fungi> no objection from me
+20:24 < fsf> Should work for me
+20:24 < schultmc> *GAVEL*
