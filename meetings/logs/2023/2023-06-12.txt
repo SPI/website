@@ -1,0 +1,224 @@
+20:11 < schultmc> *GAVEL*
+20:11 < schultmc> [item 1, Opening]
+20:11 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:11 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:11 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-06-12/
+20:11 < milan> Milan Kupcevic
+20:11 < schultmc> [item 2, Roll Call]
+20:11 < schultmc> Directors, please state your name
+20:12 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:12 < fsf> Forrest Fleming
+20:12 < jconway> Joe Conway
+20:12 < schultmc> recorded in the minutes of this meeting.
+20:12 < schultmc> .
+20:12 < schultmc> zv, do we have any regrets?
+20:12 < schultmc> .
+20:12 < zv> Zach van Rijn
+20:12 < schultmc> Michael Schultheiss
+20:12 < Snow-Man> Stephen Frost
+20:12 < jesusalva> Jonatas L. Nogueira
+20:12 < zv> regrets only from fungi today
+20:12 < schultmc> That's quorum - we can continue regardless of regrets/absences
+20:12 < schultmc> [item 3, President's Report]
+20:12 < schultmc> Stephen Frost and I are completing the paperwork for our newest Merrill account,
+20:13 < schultmc> we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+20:13 < schultmc> with our financial advisor.
+20:13 < schultmc> .
+20:13 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:13 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:13 < schultmc> contractors and legal counsel.
+20:13 < schultmc> .
+20:13 < schultmc> </done>
+20:13 < schultmc> Snow-Man: do you have anything to add?
+20:13 < schultmc> .
+20:13 < Snow-Man> Not at the moment.  Thanks to folks for stepping up to help.
+20:14 < schultmc> [item 4, Treasurer's Report]
+20:14 < schultmc> zumbi isn't currently here.
+20:14 < schultmc> .
+20:14 < schultmc> The SPI treasury team is continuing to process requests and is striving for
+20:14 < schultmc> more timely ticket handling. The backlog is being processed but if there are
+20:14 < schultmc> any board members who would like to assist with treasury tasks, additional
+20:14 < schultmc> help is always welcome.
+20:14 < schultmc> sorry - my paste buffer seems wonky today
+20:14 < schultmc> [item 5, Secretary's report]
+20:14 < schultmc> zv?
+20:15 < zv> I will defer to fsf for any immediate points, otherwise add my $0.02 after.
+20:15 < fsf> Thank you, zv, for your continued support. After this meeting, zv will take over secretarial duties. Please ensure he receives all conflict of interst forms that have not yet been sent to secretary@. Many of those are still outstanding - please complete them.
+20:15 < fsf> eom
+20:16 < zv> I have nothing to add to this, other than that I will be sending mail around soon to coordinate a face-to-face meeting.
+20:16 < schultmc> [item 6, Outstanding minutes]
+20:16 < schultmc> The minutes for the 2023-05-08 meeting need to be approved.
+20:16 < schultmc> They are available at
+20:16 < schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-05-08/
+20:17 < fsf> Voting started, 7 people (schultmc,snow-man,fsf,milan,zv,jconway,jesusalva) allowed to vote on Meeting minutes for Monday, 8 May, 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:17 < zv> !vote yes
+20:17 < jconway> !vote yes
+20:17 < schultmc> !vote yes
+20:17 < jesusalva> !vote yes
+20:17 < fsf> !vote yes
+20:17 < milan> !vote abstain
+20:18 < Snow-Man> !vote yes
+20:18 < Snow-Man> (think I was there 'enough', lol)
+20:18 < fsf> Current voting results for "Meeting minutes for Monday, 8 May, 2023": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:18 < fsf> Voting for "Meeting minutes for Monday, 8 May, 2023" closed.
+20:18 < schultmc> [item 7, Items up for discussion]
+20:18 < schultmc> [item 7.1, Interim replacement secretary]
+20:18 < schultmc> fsf/zv?
+20:18 < schultmc> .
+20:19 < fsf> I think we're all aligned, but to make it official:
+20:19 < fsf> Voting started, 7 people (schultmc,snow-man,fsf,milan,zv,jconway,jesusalva) allowed to vote on Confirm Zach van Rijn as Secretary. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:19 < fsf> !vote yes
+20:19 < zv> !vote abstain
+20:19 < schultmc> !vote yes
+20:19 < jesusalva> !vote yes
+20:19 < milan> !vote yes
+20:19 < jconway> !vote yes
+20:19 < Snow-Man> !vote yes
+20:19 < fsf> Current voting results for "Confirm Zach van Rijn as Secretary": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:19 < fsf> Voting for "Confirm Zach van Rijn as Secretary" closed.
+20:19 < schultmc> [item 7.2, Proposal for communication committee]
+20:19 < schultmc> .
+20:20 < jesusalva> Some members have been demanding more transparency and communication from SPI Board. I've drafted a minute also available at https://paste.debian.net/hidden/1a4104e2/
+20:20 < Snow-Man> ... we'd love to have more involvement in the board from projects :)
+20:21 < jesusalva> It was sent past month to board list. We can also forward this to spi-general so membership can see the minute and comment.
+20:21 < zv> I would personally like to see some of the language simplified/clarified.
+20:22 < zv> (We can discuss that in other venues.)
+20:22 < schultmc> [item 7.3, Decide How to Handle 2019 By-Laws Revision]
+20:23 < jesusalva> It is not like it could not be reformed anyway.
+20:23 -!- WildX [~Wilpy@2a00:23c7:dc9e:3201:110b:1c1d:62e6:9b85] has joined #spi
+20:23 < jesusalva> Ideally those whom have been around the 2019 draft have insight to offer. Anything we do will require work. Whatever we do, wherever we go, we must go together, or we'll only waste each other's time.
+20:23 < jesusalva> We can keep handling all omissions via resolutions, we can try a new bylaws, we can submit 2019 bylaws back to membership for comments (or even for vote), but we must be united as one.
+20:24 < schultmc> Revising the bylaws has been a goal for as long as I can remember. IIRC, the last change failed due to voting quorum issues.
+20:24 < schultmc> The bylaws deficiencies still need addressed
+20:24 < Snow-Man> agreed
+20:24 < jconway> maybe f2f meeting is good place to attempt that?
+20:24 < jesusalva> Wait, before that, on the earlier point. Everyone is fine in submitting https://paste.debian.net/hidden/1a4104e2/ to spi-general appraisal? I assume this passed as consensus but if there were objections...
+20:25 < Snow-Man> wrt the committee proposal, just as a side-note, imv it'd be good clarify that the committee is not to have signing authority for the org (that is, it's not a committee of the board)
+20:25 < fsf> jesusalva: I believe it needs some workshopping wrt. language, but I don't think there are objections to the idea
+20:25 -!- danvet_ [~Daniel@212-51-149-33.fiber7.init7.net] has quit [Ping timeout: 480 seconds]
+20:25 < Snow-Man> I tend to agree that it's ok in principal but may need some workshopping and clarification
+20:25 < zv> +1
+20:25 < Snow-Man> the secretary can't delegate their signing authority to the committee, imv, as an example
+20:25 < jesusalva> fsf: Okay, good. In this case, I'll add it to a google doc and share the link later. We can then nitpick language, ask input, and if approved have it on July's AGM.
+20:26 < fsf> I agree that the bylaw deficiencies need to be fixed; IIRC at the last f2f we tried to brainstorm ways to do that and didn't get anywhere. We couldn't figure out a way to change the bylaws without running into the same quorum issues. Doesn't mean that we shouldn't try again though!
+20:26 < fsf> also +1 to Snow-Man's re: signing
+20:27 < Snow-Man> There was at least some feedback from membership regarding the last attempt that we didn't communicate clearly enough the quorum issue.. so we could try to harp on that more while going through the same process..
+20:27 < Snow-Man> might work, heh.
+20:27 < fsf> Can't hurt, at least
+20:27 < Snow-Man> indeed
+20:28 < jesusalva> Okay, so will we discuss this at F2F, or should we see about poking membership about it?
+20:28 < zv> +1 to discussing f2f as well as informing membership about our intentions
+20:28 < schultmc> +1
+20:28 < jesusalva> wfm
+20:28 < jesusalva> works for me
+20:28 < fsf> +1
+20:29 < schultmc> [item 8, Any other business]
+20:29 < fsf> I don't think we need a formal vote for this - correct me if y'all want one
+20:29 < schultmc> Arch Linux needs follow up on a prospective contractor.
+20:29 < zv> Ticket 6282, https://rt.spi-inc.org/Ticket/Display.html?id=6282
+20:29 < jesusalva> Not only Arch Linux
+20:29 < jesusalva> Arch Linux, Ardupilot, The Mana World and The Battle For Wesnoth have all filled complains through different means.
+20:29 < jesusalva> From those I'm aware of
+20:29 < jesusalva> Not to mention that Debconf and Systemd sent contracts earlier this morning, so... it's not just them either >_>
+20:30 < jesusalva> I've been revising contracts as they arrive to the best of my abilities, but I am  an accountant, not a lawyer, nor was I explicitly trusted for this, so I expect the presidency to step up.
+20:30 < jesusalva> As the last meeting we assigned both Arch Linux's as Ardupilot's and not much got done
+20:30 < jesusalva> Keep in mind that while most are on RT, some aren't. I can add them to if convenient.
+20:30 < jesusalva> (Also: some are on treasurer queue. I can't edit that one.)
+20:31 < zv> should they be added? formally where do they belong?
+20:31 < Snow-Man> Provided the contract is the one we've had reviewed and the questionaire responses look reasonable, we should be able to move forward.  I'm happy with others reviewing these and signing them as long as they've done a review and made sure that there haven't been changes from the contract we've had reviewed and it is in a country we have contracted through before.
+20:31 < Snow-Man> Everything really should go through RT so we have a record of it.
+20:32 < zv> jesusalva: please add to RT
+20:32 < schultmc> +1 on utilizing RT for tracking purposes
+20:32 < jesusalva> Except for Arch Linux's request, I have reviewed every other contract and they looked OK. Some are going to board@ and others to treasurer@, but where should they be?
+20:32 < Snow-Man> idk about going through treasurer RT... feel like board would be the more appropriate one
+20:32 < fsf> +1 to that - I wonder how many complaints could be forestalled with better "please use RT for this" messaging (to be clear, the number may be 0)
+20:32 < jesusalva> Snow-Man: +1, I think board@rt.spi-inc.org would be the proper place too
+20:32 < Snow-Man> imv treasurer is a double-check on board
+20:32 < schultmc> board@ seems appropriate
+20:32 < Snow-Man> so they should go through board@
+20:32 < Snow-Man> but any officer is able to sign contracts for SPI
+20:33 < jesusalva> Okay, I'll make sure those not on RT are on board@rt and I count on someone else moving the contract tickets from treasurer@ to board@
+20:33 < Snow-Man> I do hope that our officers are cognizant of the requisite caution they should have regarding using that, but if things are stalled..
+20:33 < jesusalva> Again, I have revised all of them, so any officer can double check if they wish and sign.
+20:33 < zv> Snow-Man: to be explicit, "using that" means?
+20:33 < Snow-Man> revised them ... how?  Again, we should be using the contracts that we have gone over with our corporate lawyer
+20:34 < Snow-Man> using their signing authority
+20:34 < zv> ack
+20:34 < jesusalva> Snow-Man: revised as in proof read for anything outstanding.
+20:34 < jesusalva> Systemd however is the master contract, so it doesn't really needed a review :P
+20:34 < fsf> Ah I think 'reviewed' might be what you meant - "revised" usually means you changed them while reviewing
+20:35 < Snow-Man> as long as the contract is basically the one we have had reviewed, the questionaire comes back reasonable clean, and the rates are reasonable for the work being contracted, we should be able to move forward...
+20:35 < Snow-Man> indeed, revised implies some change, imv, which is a flag for concern
+20:36 < jesusalva> No, I think the only change which was ever needed was one about Covid-19 procedures (which... is not really a concern?)
+20:36 < anthraxx> I'd like to add some thoughts related to the Arch Linux case. I'm also a bit loosing the overview if you are currently discussing anything that really applies to Ticket 6282, or just about the other issues.
+20:36 < Snow-Man> then why would it be in the contract if it isn't a concern..?
+20:36 < jesusalva> Snow-Man: The original minute was before the WHO declared the end of the pandemic, so the laws changed on the meanwhile.
+20:36 < jesusalva> Between first draft and final draft I mean
+20:37 < jesusalva> anthraxx: From what I gathered, you needed Snow-Man or schultmc to set up an account with you after this meeting?
+20:38 < jesusalva> Is that correct?
+20:38 < anthraxx> jesusalva: that is step 1) and for step 2) we need to align on the actual details you or we should submit to Fastly.
+20:39 < Snow-Man> jesusalva: I'm a bit confused as to what change is being suggested wrt our regular contracting agreement...
+20:39 < jesusalva> Snow-Man: No, the Covid thing was from... Debconf I think. It is a presencial event, so the venue contract had it mentioned.
+20:39 < Snow-Man> oh, I was referring to contracting agreements with bringing on contractors and not talking about venue contracts, the latter is a whole different thing...
+20:40 < jesusalva> Yes. It is also the only venue one
+20:40 < jesusalva> Systemd is SPI's standard SOW
+20:40 < jesusalva> Battle for Wesnoth and The Mana World is with Valve, so neither
+20:40 < Snow-Man> an SOW is an attachment to our contract, not a thing itself..
+20:40 < jesusalva> Snow-Man: Yes, the MSC and SOW I meant
+20:40 < Snow-Man> We need our services agreement signed and then a reasonable SOW included with appropriate rates
+20:41 < jesusalva> ArduPilot I forgot, and Arch Linux is what anthraxx just mentioned ─ not a contractor, a sponsorship agreement
+20:41 < Snow-Man> Again, provided it's our reviewed services agreement, unchanged, and the SOW is reasonable with reasonable rates, then I don't see an issue moving forward with those.
+20:41 < Snow-Man> wrt venue agreements, those are definitely more involved and need to be reviewed more carefully
+20:42 < Snow-Man> They may also rise to the level of needing to be reviewed by our lawyer, but it depends.
+20:42 < anthraxx> jesusalva: its a sponsorship with a high volume commitment, but a contract after all in case certain ingress volumes are exceeded.
+20:42 < anthraxx> We never got an update and while reading the April board meeting logs we noticed SPI was aiming to apply Fastly on a broader scale instead.
+20:43 < Snow-Man> (also, wrt our services agreement, that's a per-country thing, for the country the contractor is in ... if we have a new country that we're hiring a contractor in, then that's another thing altogether)
+20:43 < jesusalva> Snow-Man: That solves it for systemd. There are four others: The venue is on board for ~1 month, I commented about Covid-19 and they changed it, there's a new version essentially unchanged there. Steamworks one is sitting for two months in board@ as well. Like Arch Linux, it needs someone to interactively make accounts and stuff.
+20:43 < anthraxx> While trying to solve the needs of one project, we feel like SPI is losing sight of what actually benefits said project for the sake of trying to apply a benefit for everyone else instead.
+20:43 < jesusalva> And the last one is Ardupilot, which you disagreed with the questionnarie, ArduPilot replied and it got stale for ~2 months as well.
+20:43 < Snow-Man> The Fastly agreement is another thing and I think it's definitely an interesting opportunity for us and generally speaking am in support of it.  I'd intended to work on that but haven't had opportunity to.  If someone is available to do so though, that would be great, and I'd support it.
+20:43 < anthraxx> Ultimately the project that has an actual need is effectively thrown under the bus. I respect the strive for applying benefits for a broader spectrum, but that should be aside and not instead of focusing on an individual project.
+20:44 < Snow-Man> Any officer is able to make accounts and such, but please be sure to save credentials in the appropriate places.
+20:44  * jesusalva issue right now is that contracts have been piling up faster than Snow-Man and schultmc alone can review.
+20:45 < Snow-Man> hrmpf.  I don't think I disagreed with the ardupilor questionnaire so much as was a bit concerned about it... but my recollection is that we can probably move forward with it.
+20:45 < jesusalva> In this case, we could get a volunteer to see Fastly with anthraxx right after meeting ends, and someone else to see Steamworks thing?
+20:45 < anthraxx> jesusalva: the frustrating part is that the actual contract hasn't even been sent to SPI because that depends on SPI and Arch Linux agreeing on how to setup the account, and forward information to Fastly. Which we are sitting on for months.
+20:46 < jesusalva> Snow-Man: Given schultmc is on the clinic, can you solve this with anthraxx after the meeting is dismissed?
+20:47 < Snow-Man> ... that
+20:47 < Snow-Man> that's very open-ended :)
+20:47 < Snow-Man> I'll be around for a bit post-meeting
+20:48  * schultmc has some time after 00:00 UTC 
+20:48 < jesusalva> Okay, so... That would say that #6372 (systemd), #6244 (ArduPilot), and the Steamworks one (not on RT yet) are ready to move on. Arch Linux sets the account after meeting is dismissed with Snow-Man, if it does not work, then anthraxx go after schultmc after 0000 UTC.
+20:48 < jesusalva> Debconf venue... I'm not sure, I reviewed it, looked OK, but I assume Snow-Man has to forward the email to legal counsel
+20:48 < jesusalva> Did I forget anyone?
+20:49 < Snow-Man> jesusalva: if you'd like it reviewed, I'm not against having you send it to counsel and for you to work with them on it
+20:49 < Snow-Man> if there's questions about it, lmk
+20:49 < jesusalva> I can do it, although I never contacted counsel before.
+20:49 < Snow-Man> I don't feel like that overlaps anything currently, so I don't think it's an issue
+20:49 < anthraxx> jesusalva: that sounds fantastic
+20:50 < Snow-Man> (I'd be mostly concerned with confusing counsel if there's multiple people trying to engage them on the same thing)
+20:50 < Snow-Man> please do CC board tho
+20:50 < jesusalva> Alright.
+20:51 < jesusalva> I vaguely sense there were other business from WIPO, RT Backups and RT bounced messages, but I think all three are more "I want Snow-Man input" things
+20:51 < schultmc> Looks to me like we have a handle on how to move forward with the outstanding items.
+20:51 < jesusalva> These have arrived earlier so it doesn't seems to make sense to include on today's meeting.
+20:51 < schultmc> [item 9, Next board meeting]
+20:51 < schultmc> The next board meeting is scheduled for: July 10, 2023 at 2000 UTC.
+20:51 < schultmc> Any objections?
+20:51 < Snow-Man> sigh.  the RT backups thing is frustrating- I don't care that they want to move us to RDS ... and feel like they're also moving us to a shared PG instance, which I also don't like
+20:52 < jesusalva> schultmc: That's the AGM, right?
+20:52 < Snow-Man> wrt RT bounces.. we've tried to improve that situation
+20:52 < schultmc> jesusalva: yes, typically July is our AGM
+20:53 < jesusalva> So zv will got to manage the election for jconway chair?
+20:53 < jesusalva> I wanted to ask earlier if a director were to resign and candidate right after, if that would fix the chair term as well so we have staged elections as originally planned.
+20:54 < jesusalva> But might be easier to just take advantage of only one chair in the election and go ahead with F2F and Bylaws plan instead.
+20:54 < jesusalva> s/easier/make more sense/
+20:54 < jesusalva> So... I guess the date works for me. Sorry if I've been disruptive today.
+20:55 < jesusalva> Snow-Man: Also: I meant https://rt.spi-inc.org/Transaction/Display.html?id=130276 about bouncing
+20:55 < schultmc> we had 3 current members elected in 2021, 5 in 2022, and 1 in 2020
+20:55 < schultmc> so we'd need 2 people to resign/rerun to fix the stairstepping issue
+20:56 < schultmc> regardless, july 10 works for me and I have another appointment to get to at 2130
+20:56 < zv> +1 on july 10
+20:56 < jesusalva> Yes. If someone else is up to it, I can do it, but it could make slightly harder to plan the F2F in case there are more candidates. We can continue this discussion privately I think.
+20:57 < schultmc> continuing the discussion elsewhere seems prudent
+20:57 < schultmc> *GAVEL*
