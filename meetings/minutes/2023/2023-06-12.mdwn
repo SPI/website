@@ -1,0 +1,207 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, June 12th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Stephen Frost (Snow-Man) (Vice-President)
+* Forrest Fleming (fsf) (Secretary)
+* Joe Conway (jconway)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+* Zach van Rijn (zv)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Jeremy Stanley (fungi)
+
+__Board members absent__
+
+* Héctor Orón Martínez (zumbi) (Treasurer)
+
+__Registered guests present__
+
+* Síle Ekaterin Liszka
+* Célestin Matte
+* Levente Polyák
+
+These are the minutes for the June 12th, 2023 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2023/2023-06-12.txt).
+
+## President's Report
+
+<pre>
+Stephen Frost and I are completing the paperwork for our newest Merrill account,
+we will implement the tiered Certificate of Deposit (CD) and investment strategy we discussed
+with our financial advisor.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+with SPI's contractors. Stephen continues to do a fantastic job working with our 
+contractors and legal counsel.
+</pre>
+
+## Treasurer's report
+
+Héctor Orón Martínez was not present.
+
+<pre>
+The SPI treasury team is continuing to process requests and is striving for
+more timely ticket handling. The backlog is being processed but if there are
+any board members who would like to assist with treasury tasks, additional
+help is always welcome.
+</pre>
+
+## Secretary's report
+
+Forrest Fleming:
+
+<pre>
+Thank you, zv, for your continued support. After this meeting, zv will take
+over secretarial duties. Please ensure he receives all conflict of interest
+forms that have not yet been sent to secretary@. Many of those are still
+outstanding - please complete them.
+</pre>
+
+Zach van Rijn:
+
+<pre>
+I will be sending mail around soon to coordinate a face-to-face meeting.
+</pre>
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday May 8th 2023
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Abstain</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 1 abstain, 0 no.
+
+## Items up for discussion
+
+### Vote to Confirm Zach van Rijn as Interim Secretary
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Abstain</td></tr>
+</table>
+
+Vote passed with 6 yes, 1 abstain, 0 no.
+
+### Proposal for Communication Committee
+
+Some members have been demanding more transparency and communication from SPI Board.
+Jonatas L. Nogueira (jesusalva) has drafted a proposal to allow the Secretary to
+delegate certain tasks to the Board or Membership. See Appendix B.
+
+Zach van Rijn would like to see some of the language simplified/clarified.
+
+The Board will discuss minor changes to this draft proposal, but there were no objections
+to its content. The final proposal will be added to the agenda for the next meeting,
+as well as to the <code>spi-general</code> mailing list for additional feedback.
+
+### Decide How to Handle 2019 By-Laws Revision
+
+By-Laws deficiencies still need to be addressed.
+
+We plan to discuss it at the next face-to-face Board meeting.
+
+## Other business
+
+Arch Linux is asking for priority assistance in resolving [Ticket 6282](https://rt.spi-inc.org/Ticket/Display.html?id=6282).
+
+Jonatas L. Nogueira will add contract- and agreement- related tasks to Board RT to ensure consistency and for tracking purposes.
+
+Stephen Frost and Michael Schultheiss will work with Levente Polyák (anthraxx) of Arch Linux after the meeting adjourns.
+
+## Adjournment
+
+The meeting was adjourned until Monday July 10th, 2023 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td><td>Secretary</td></tr>
+<tr><td>July 2020</td><td>Joe Conway</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td></tr>
+</tbody>
+</table>
+
+## Appendix B: Proposal for Communication Committee
+
+<pre>
+A charter is hereby granted for the formation and operation of a committee
+within the guidelines and objectives stated herein. The committee shall
+operate in the best interest of the free software community and is
+responsible to the board of directors and to the membership of the
+organization.
+Purpose of the Committee
+It is the responsibility of this committee to aid the Secretary of Software
+in the Public Interest, Inc. in its communication tasks. This includes the
+tasks mandated by resolutions regarding SPI's decision making openness.
+
+This committee is defined in accordance with Article 10 of the SPI bylaws.
+
+Operating Guidelines
+The committee will be chaired by the Secretary and aid them by request or
+by craft, when noticing that a task assigned to the secretary regarding
+communications was not made. The members of the committee may also propose
+to the Secretary and operationalize once approved, new means to communicate
+with membership, observing SPI's governance.
+
+While membership in this committee does not include nor preclude any
+specific power, right or grant, the Secretary may delegate part of their
+powers and responsibilities regarding communication to the committee,
+including and not limited to managing social media accounts, writing
+minutes, moderating, or posting summaries about SPI's activities in the
+relevant mailing lists.
+
+Any power, right or grant directly and expressly attributed to the
+Secretary by the By-Laws, such as summoning board directors for meetings,
+managing votes and elections, the objective responsibility over SPI's
+documents and representation in Board meetings, may not be delegated to the
+committee without the Board's express approval.
+
+Membership and Organization
+
+This committee will be chaired by the Secretary, and will consist of a
+group of up to four people including the Secretary, which may be from SPI's
+contributing membership or from the Board itself. Members will be designed
+by the Secretary or by the Board of Directors.
+
+The  secretary may establish guidelines in how the committee will be
+operated, the term for the committee members, how contributing members may
+join the committee, and may also remove any committee member at their sole
+discretion. The Secretary should provide a summary in the next Board
+Meeting in case it happens.
+</pre>
