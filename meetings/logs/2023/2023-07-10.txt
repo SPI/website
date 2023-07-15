@@ -1,0 +1,186 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-07-10/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < fsf_> Thanks Michael!
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < jconway> Joe Conway
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> .
+20:00 < zv> none
+20:00 < fungi> Jeremy Stanley
+20:00 < fsf_> Forrest Fleming (proper ident will happen in a minute)
+20:00 < schultmc> Michael Schultheiss
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> That's quorum - we can continue and others can join if they're available
+20:01 < jesusalva> Jonatas L. Nogueira
+20:02 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> The July meeting of SPI is its Annual General Meeting. Thank you to
+20:02 < schultmc> Martin Michlmayr for compiling our Annual Report. 
+20:02 < schultmc> .
+20:02 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2022
+20:02 < schultmc> financial statements audited. We are also working with the auditing firm
+20:02 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:02 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:02 < schultmc> be completed by the November 15, 2023 deadline.
+20:02 < schultmc> .
+20:02 -!- chealer [~cheal@217.28.26.226] has joined #spi
+20:02 < schultmc> Thank you for all  of our officers and directors who have served SPI for the
+20:02 < schultmc> past several years. Best wishes to those officers and directors who are leaving
+20:02 < schultmc> the SPI board and welcome to all new and continuing directors.
+20:02 < schultmc> .
+20:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:02 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:02 < schultmc> contractors and legal counsel.
+20:02 < schultmc> .
+20:02 < schultmc> </done>
+20:02 < schultmc> .
+20:02 < schultmc> Snow-Man: do you have anything to add?
+20:02 -!- fsf is now known as Guest5596
+20:02 -!- fsf_ is now known as fsf
+20:03 < Snow-Man> Not too much, I know the Fastly thing is outstanding and I've followed up again today to try to get that sorted.
+20:03 < milan> o/
+20:03 < zv> milan: please state your name
+20:03 < schultmc> Snow-Man: I believe ML needs a signature from you - I can resend the email if needed
+20:03 < milan> Milan Kupcevic
+20:04 < Snow-Man> schultmc: Hrmpf.  Yes, please do.
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi?
+20:04 < zumbi> Payments are being processed, but we are having some technical difficulties with payments to India and Brazil, we are currently exploring options. Steam account was created this month, we need someone to admi
+20:04 < zumbi> n it.
+20:04 < zumbi> .
+20:05 < schultmc> [item 5, Secretary's report]
+20:05 < schultmc> zv?
+20:05 < zv> We are currently in a Board election cycle. This is a reminder
+20:05 < zv> that the nomination period ends before Friday, July 14th UTC.
+20:05 < zv> Details may be found in the spi-announce mailing list archives.
+20:05 < zv> The 2022 SPI Annual Report is now available. It can be found at:
+20:05 < zv> https://www.spi-inc.org/corporate/annual-reports/2022.pdf
+20:05 < zv> Thanks to Martin Michlmayr for preparing it. tbm, would you like
+20:05 < zv> to announce it to the spi-announce mailing list as before?
+20:05 < zv> I am trying to set up a face-to-face board meeting; I understand
+20:05 < zv> that there are ongoing international logistics challenges. Thank
+20:05 < zv> you for your continued patience and flexibility during planning.
+20:05 < zv> All board members need to submit new Conflict of Interest forms;
+20:05 < zv> they are intended to be refreshed every twelve (12) months. If
+20:05 < zv> you've already done this recently, please re-send it.
+20:05 < zv> (done)
+20:06 < schultmc> [item 6, Outstanding minutes]
+20:06 < schultmc> The minutes for the 2023-06-12 meeting require approval.
+20:06 < schultmc> They can be found at 
+20:06 < schultmc> https://www.spi-inc.org/meetings/minutes/2023/2023-06-12/ 
+20:06 < schultmc> fsf, schultmc, zv, zumbi, fungi, Snow-Man, jesusalva, milan are authorized to vote. Please vote !$yourchoice
+20:06 < zv> !vote yes
+20:06 < schultmc> !vote yes
+20:06 < Snow-Man> !vote yes
+20:06 < jconway> !vote yes
+20:06 < fungi> !vote yes
+20:07 < jesusalva> !vote abstain
+20:07 < zumbi> !vote abstain
+20:07 < milan> !vote yes
+20:07 < zv> authorized list should include jconway ^
+20:07 < schultmc> sorry - it's a manual list :)
+20:07 < fsf> !vote yes
+20:07 < schultmc> Vote closed. 7 yes, 0 no, 2 abstain
+20:09 < schultmc> [item 7, Items up for discussion]
+20:09 < schultmc> [item 7.1, Proposal for Communications Committee]
+20:10 < zv> Per an earlier conversation, the latest draft is temporarily available at: https://docs.google.com/document/d/1R9sULJWpE8onA_nUai4UaSnuoz6DeKkIHkGG_LDviGI/edit
+20:10 < zv> It should be moved to a more permanent location. jesusalva ^?
+20:11 < jesusalva> It was suggested earlier to post it as a merge request
+20:11 < fungi> (for eventual inclusion in the same place as other committee charters)
+20:13 < jesusalva> Yes. Given it was not properly sent to spi-general, I would prefer to have it postponed for the next meeting.
+20:13 < fsf> I think that google docs is a great place to edit, and then once ratified it can go into a PR for permanent safekeeping. Wordsmithing in PRs can get obnoxious
+20:13 < zv> Let's continue to work on the draft and postpone further discussion until the next meeting, then.
+20:13 < jesusalva> My main concern was, naturally, the lack of comments in the google docs one.
+20:13 < jesusalva> zv +1
+20:14 < Snow-Man> The google doc is fine to draft it, but it should be in a PR or something harder to change before we go to vote on it, imv..
+20:14 < schultmc> +1
+20:14 < jconway> +1
+20:15 < fungi> i'm iffy on linking to google docs in a mailing list post as the official place for requesting community feedback on a proposal, but won't rock the boat of that's the greater consensus
+20:15 < fsf> Yeah, I think "board drafts in google doc, puts in something more durable for membership ratification" makes sense too
+20:15 < zv> jesusalva: please create a draft MR in gitlab and let's use the comment functionality for tracking changes.
+20:15 < fungi> (google docs isn't open source, it's inaccessible from places like mainland china, we don't have control over its persistence long-term, et cetera)
+20:16 < jesusalva> ok
+20:16 < schultmc> [item 7.2, Decide whether counsel needs to review clause change]
+20:17 < Snow-Man> I'm a bit confused why this is a question
+20:17 < Snow-Man> Or why it was put in as something to wait for / vote on at a board meeting
+20:17 < Snow-Man> Yes, let's have counsel review it
+20:17 < schultmc> +1
+20:17 < Snow-Man> As we should with any changes to our contracts..
+20:18 < jesusalva> For the record
+20:18 < Snow-Man> Don't feel like it needed to wait for a board meeting to decide on that..
+20:18 < jesusalva> This refers to 6224 and 6571
+20:18 < schultmc> None of us are attornies afaik - substantive changes to our contracts should have legal review
+20:18 < fsf> +1
+20:18 < zumbi> +1
+20:18 < jconway> yep
+20:18 < fungi> i get the feeling some of us are uncertain when it's okay to spend money on legal review, but i agree that's just a cost of being an organization
+20:19 < zumbi> this is for our (SPI) own interest
+20:19 < fungi> in theory any of us should be okay to forward something to counsel and request feedback, that's what they're there for
+20:19 < jesusalva> If everyone is fine with it, then I'll forward 6224 and 6571 proposed changes to the legal counsel.
+20:19 < schultmc> jesusalva: thank you
+20:20 < schultmc> [item 8, Any other business]
+20:20 < schultmc> Anything to discuss?
+20:20 < Snow-Man> Please try to make sure that whatever is sent to legal for review is clear and concise.. don't send whole ticket threads to them
+20:20 < zumbi> Snow-Man: one question might be if we need counsel on contracts were SPI template was used, i.e. ardupilot contractor
+20:21 < Snow-Man> and while I agree that we can generally be ok with different folks contacting legal when it's about specific things, let's try to avoid having multiple people bugging counsel about the same thing as that could end up being confusing and expensive, heh.
+20:21 < fungi> was the template altered other than filling in the designated fields?
+20:21 < Snow-Man> I'd say that generally just run whatever you want to send by the board first and if no one pushes back then go ahead
+20:21 < jesusalva> Snow-Man: I think that as long as we always copy the board, and check the board before asking legal counsel, this won't be an issue :b
+20:21 < jesusalva> (the board ML*)
+20:21 < zumbi> fungi: I am unsure about details there
+20:21 < jesusalva> fungi: In ArduPilot's case, they added a clause
+20:22 < jesusalva> About how they deal with SPI's confidential information, I think
+20:22 < Snow-Man> zumbi: I'm a bit confused by the question but generally I'd say we want to have counsel adjust the template and then we'll ask for existing contractors to use the new template when we renew their contract.
+20:22 < fungi> then that almost certainly warrants counsel review
+20:22 < zumbi> indeed
+20:22 < zumbi> at very least review the new clause
+20:22 < jesusalva> (I'm unsure if said new clause was already present in other, not standard template contracts, btw)
+20:23 < fungi> they'll review the new clause in the context of the entire contract, a new clause can change the meaning of existing provisions after all
+20:23 < Snow-Man> err, unless something's happened recently, I don't think we have any contractors who have a non-standard contract..
+20:23 < jesusalva> Snow-Man: I was thinking in 2019~2021 contracts
+20:24 < Snow-Man> I don't think that changes my statement?
+20:24 < jesusalva> Anyway, the legal counsel typically replies within a business day, as long that I know what to do so things are not stuck and we aren't short on cash, it is not a big deal
+20:24 < Snow-Man> If we do have any that aren't following one of the existing established and counsel-reviewed templates, then we should be working to get those over to the templated version
+20:25 < Snow-Man> but I don't think we do..
+20:25 < jesusalva> I think 6571 change would have a template ─ for Australia. Unfortunately, 6571 is for the US
+20:26 < Snow-Man> eh?  We have a .au template
+20:26 < jesusalva> Yes. It is a MCA, not a MSA
+20:26 < jesusalva> We have both for AU
+20:26 < jesusalva> But only a MSA for the US
+20:26 < jesusalva> ...At least, last I checked
+20:27 < jesusalva> MCA = Master Contribution Agreement; MSA = Master Services Agreement
+20:27 < Snow-Man> Asking for a contributor agreement for .us would be fine
+20:27 < Snow-Man> but.. we should ask for it from counsel and get them to provide it..
+20:28 < Snow-Man> I don't think it'd be an issue and likely wouldn't take very long at all..
+20:28 < jesusalva> Yes. I'll likely spend a couple minutes thinking if for 6571 I send the AU contract and ask for an US version for it, or if I send just the changed clause, but I am leaning toward the former for sake of template
+20:28 < jesusalva> (So it can be reused by other projects)
+20:28 < Snow-Man> Counsel should have our existing templates..
+20:29  * jesusalva is the sort of annoying guy who tends to attach even blank W-9 forms so people can't excuse themselves with "sorry, I couldn't find it!" ─ this happens a lot IRL...
+20:29  * Snow-Man shrugs
+20:29 < Snow-Man> you can send it to counsel as a reminder if you want, whatever
+20:30 < Snow-Man> but I don't think this needs to be a long board discussion or need a board vote..
+20:30 < fungi> hopefully that doesn't happen with our lawyers. they, of anyone, shouldn't be losing paperwork
+20:30 < jesusalva> fungi: Yea, but "old habits die hard" :P
+20:30 < Snow-Man> idk that I'd send something out of context like just a new clause though, heh.
+20:31 < jesusalva> I have nothing else ─ What I had to discuss with zumbi is already discussed and I already got all the help I needed for board queue.
+20:31 < jesusalva> (Or at very least, everything open on it was addressed now or earlier)
+20:32 < schultmc> I have nothing else personally
+20:32 < schultmc> [item 9, Next board meeting]
+20:32 < schultmc> The next board meeting is scheduled for: August 14, 2023 at 2000 UTC.
+20:32 < schultmc> Any objections?
+20:33 < fsf> none here
+20:33 < zumbi> None
+20:33 < fungi> i do not object
+20:33 < schultmc> Works for me
+20:33 < milan> none here
+20:33 < jconway> I am traveling that day I believe
+20:33 < schultmc> *GAVEL*
