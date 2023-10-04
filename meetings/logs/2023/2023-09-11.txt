@@ -1,0 +1,128 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> .
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-09-11/
+20:00 < schultmc> .
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:01 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < fsf> Forrest Fleming
+20:01 < schultmc> .
+20:01 < jesusalva> Jonatas L. Nogueira
+20:01 < jconway> Joe Conway
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> zv, do we have any regrets?
+20:01 < schultmc> Michael Schultheiss
+20:01 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:01 < schultmc> milan, zv: please state your names for the record
+20:01 < milan> Milan Kupcevic
+20:02 < schultmc> That's quorum - we can move on
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2022
+20:02 < schultmc> financial statements audited. We are also working with the auditing firm
+20:02 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:02 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:02 < schultmc> be completed by the November 15, 2023 deadline.
+20:02 < schultmc> .
+20:02 < schultmc> I am working with our broker at Merrill Lynch to establish the recommended
+20:02 < schultmc> investment strategy we discussed at the last in person meeting. They are
+20:02 < schultmc> drafting new paperwork for myself and Stephen Frost to sign and we should have
+20:02 < schultmc> that paperwork available to sign asap.
+20:02 < schultmc> .
+20:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:02 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:03 < schultmc> contractors and legal counsel.
+20:03 < schultmc> .
+20:03 < schultmc> </done>
+20:03 < schultmc> .
+20:03 < schultmc> Snow-Man: do you have anything to add?
+20:03 < Snow-Man> I've yet to see the paperwork to sign for Merrill, but I'm ready whenever it shows up.
+20:03 < Snow-Man> I heard back from counsel regarding one of the contractor agreements and we can move forward on that.
+20:03 < Snow-Man> I'll respond on that here shortly.
+20:04 < Snow-Man> We've had some progress on getting things upstream wrt pglister changes.  Thanks to Perdu for continuing to push on that.
+20:04 < schultmc> They were working on getting it redrafted since the old paperwork expired. I'll ping them again.
+20:04 < Snow-Man> Just generally things are picking back up and should be able to be a bit more responsive now.
+20:04 < Snow-Man> .
+20:04 < Snow-Man> schultmc:ok
+20:05 < schultmc> [item 4, Treasurer's Report]
+20:05 < jesusalva> zumbi has sent regrets due to being on a conference, and should be back on the 22nd.
+20:05 < jesusalva> His email asked to send all urgent treasury requests to schultmc1
+20:05 < schultmc> zumbi is unavailable. The treasurer team is continuing to process requests. If any escalations are needed while zumbi is unavailable, please ping schultmc
+20:06 < schultmc> [item 5, Secretary's report]
+20:06 < schultmc> zv is apparently unavailable
+20:07 < schultmc> [item 6, Outstanding minutes]
+20:07 < schultmc> The minutes for the 2023-08-14 meeting require approval.
+20:07 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2023/2023-08-14/
+20:07 < schultmc> fsf: can you run the vote bot?
+20:07 < fsf> on it!
+20:07 < schultmc> otherwise I have to manually take the vote
+20:07 < schultmc> thank you
+20:08 < fsf> Voting started, 6 people ( fsf,jconway,jesusalva,milan,schultmc,snow-man) allowed to vote on Meeting minutes for Monday, August 14, 2023 . - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < jesusalva> !vote yes
+20:08 < jconway> !vote abstain
+20:08 < Snow-Man> !vote yes
+20:08 < milan> !vote yes
+20:08 < fsf> !vote yes
+20:08 < fungi> Jeremy Stanley (sorry, late!!!)
+20:08 < fsf> Current voting results for "Meeting minutes for Monday, August 14, 2023 ": Yes: 3, No: 0, Abstain: 1, Missing: 2 (  fsf  schultmc )
+20:08 < fsf> Voting for "Meeting minutes for Monday, August 14, 2023 " closed.
+20:08 < fsf> Voting started, 7 people ( fsf,fungi,jconway,jesusalva,milan,schultmc,snow-man) allowed to vote on Meeting minutes for Monday, August 14, 2023 . - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < fungi> !vote yes
+20:08 < jesusalva> !vote yes
+20:08 < fsf> !vote yes
+20:08 < schultmc> !vote yes
+20:08  * fungi hangs his head in shame
+20:08 < milan> !vote yes
+20:09 < Snow-Man> !vote yes
+20:09 < jconway> !vote abstain
+20:09 < fsf> Current voting results for "Meeting minutes for Monday, August 14, 2023 ": Yes: 5, No: 0, Abstain: 1, Missing: 1 (  fsf )
+20:09 < fsf> Voting for "Meeting minutes for Monday, August 14, 2023 " closed.
+20:09 < fsf> please let the record reflect that I voted yes, and also that the script does not trim spaces :)
+20:09 < Snow-Man> hah
+20:09 < schultmc> heh
+20:09 < schultmc> [item 7, Items up for discussion]
+20:09 < schultmc> Nothing on agenda
+20:09 < schultmc> [item 8, Any other business]
+20:09 < schultmc> Anything to discuss?
+20:09 < jesusalva> Yes
+20:09 < jesusalva> OpenZFS requests urgency with their conference requests.
+20:10 < jesusalva> SFC asked stuff regarding X.Org transition I'm unable to answer, help from presidency is appreciated
+20:10 < jesusalva> The Battle for Wesnoth asked again about ticket 6571
+20:10  * schultmc can handle them after the meeting (ozfs and xorg)
+20:10 < jesusalva> (But I believe Snow-Man cited it on his report)
+20:10 < Snow-Man> yes
+20:11 < Lyude> yes - I was about to ask about the xorg thing as well :), did you guys see the question from SFC btw?
+20:11 < jesusalva> And ARDC asked for the refund of a donation made, which should show up on next board meeting
+20:11 < Lyude> I think they just resent it to the correct email
+20:11 < fungi> i saw it come through, like, yesterday yes
+20:12 < Lyude> yeah - I assume that's where most of the delay was from
+20:12 < Lyude> I had assumed they sent it to the main board email at first
+20:12 < Lyude> that's pretty much all I was wondering :), thanks!
+20:12 < jesusalva> (For clarification, ARDC is a non-profit and our legal counsel encouraged returning the refund after passing a board vote)
+20:12 < jesusalva> (returning the refund -> returning the money)
+20:12 < fungi> communication impedance mismatches account for 99% of all delays (not just here)
+20:13 < jesusalva> Nothing else from my side, but fungi might want to update re. OSI
+20:13 < fungi> jesusalva: so we should call for a vote in the meeting i guess?
+20:13 < jesusalva> fungi: I assume it'll be on next meeting
+20:13 < fungi> okay, thanks, makes sense
+20:14 < fungi> i don't have progress to report on the osi side yet, i spent too much time digging into inter-organizational politics from the early 2000s
+20:14 < fungi> though the breadcrumbs everyone provided from before the dawn of time were appreciated
+20:15 < fungi> i still need to put together a board resolution to vote on for next month
+20:16 < schultmc> Any other items to discuss?
+20:16 < fungi> i have none
+20:16 < jesusalva> None from me
+20:17 < jconway> none here
+20:17 < schultmc> [item 9, Next board meeting]
+20:17 < schultmc> The next board meeting is scheduled for: October 9, 2023 at 2000 UTC.
+20:17 < schultmc> Any objections?
+20:17 < schultmc> works for me
+20:17 < jconway> wfm
+20:17 < fsf> Should work for me
+20:17 < fungi> sounds good to me, thanks
+20:17 < milan> sounds good
+20:17 < jesusalva> I'm not sure if I'll be able to attend, but I'll try
+20:17 < Snow-Man> Should be able to make it.
+20:17 < schultmc> *GAVEL*
