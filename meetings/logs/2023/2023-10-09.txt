@@ -1,0 +1,118 @@
+20:01 < schultmc> *GAVEL*
+20:01 < schultmc> .
+20:01 < schultmc> [item 1, Opening]
+20:01 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:01 < chealer> zv: done
+20:01 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:01 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-10-09/
+20:01 < schultmc> .
+20:01 < schultmc> [item 2, Roll Call]
+20:01 < schultmc> Directors, please state your name
+20:01 < fungi> Jeremy Stanley
+20:01 < fsf> Forrest Fleming
+20:01 < zv> formal regrets from zumbi but it appears he is here.
+20:01 < Snow-Man> Stephen Frost
+20:01 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:01 < jconway> Joe Conway
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < zv> Zach van Rijn
+20:01 < schultmc> .
+20:01 < jesusalva> Jonatas L. Nogueira
+20:01 < schultmc> zv, do we have any regrets?
+20:01 < schultmc> .
+20:01 < zumbi> Héctor Orón Martínez
+20:01 < schultmc> Perdu: I should have access to fry - I can check later this evening
+20:01 < schultmc> Michael Schultheiss
+20:01 < Lyude> Lyude (from X.org)
+20:02 < schultmc> Lyude: please msg zv
+20:02 < Lyude> ah right oops
+20:02 < zv> Lyude: I will record this separately
+20:03 < schultmc> [item 3, President's Report]
+20:03 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2022
+20:03 < schultmc> financial statements audited. We are also working with the auditing firm
+20:03 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:03 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:03 < schultmc> be completed by the November 15, 2023 deadline.
+20:03 < schultmc> .
+20:04 < schultmc> I am working with our broker at Merrill Lynch to establish the recommended
+20:04 < schultmc> investment strategy we discussed at the last in person meeting. They are
+20:04 < schultmc> drafting new paperwork for myself and Stephen Frost to sign and we should have
+20:04 < schultmc> that paperwork available to sign asap. I am following up with the brokerage staff
+20:04 < milan> Milan Kupcevic
+20:04 < schultmc> to check the status on the updated paperwork.
+20:04 < schultmc> .
+20:04 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:04 < schultmc> .
+20:04 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:04 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:04 < schultmc> contractors and legal counsel.
+20:04 < schultmc> .
+20:04 < schultmc> </done>
+20:04 < schultmc> .
+20:04 < schultmc> Snow-Man: do you have anything to add?
+20:06 < schultmc> [item 4, Treasurer's Report]
+20:06 < schultmc> zumbi?
+20:06 < zv> (from zumbi)
+20:06 < zv> Payments queue is being processed as usual, but we have some requests pending review before we can issue payment. We are working on them, if there is any urgency, please let us know.
+20:06 < zv> .
+20:06 < zv> Debian has created a reimbursement system for DebConf reimbursements, SPI has accepted to try the new system out without any compromise, however the desire is to extend the use of the system and engage with other SPI associated projects and external communities when this is more mature.
+20:06 < zv> .
+20:06 < zv> Monthly statements have been collected, but there is some lag processing them and publishing monthly reports, I hope we can publish them ASAP.
+20:06 < zv> .
+20:07 < zumbi> .
+20:07 < schultmc> [item 5, Secretary's report]
+20:07 < schultmc> zv?
+20:07 < zv> I am catching up on tasks around a possible in-person meeting;
+20:07 < zv> thank you for your continued patience on this matter.
+20:07 < zv> .
+20:07 < zv> (done)
+20:07 < schultmc> [item 6, Outstanding minutes]
+20:07 < schultmc> The minutes for the 2023-09-11 meeting require approval.
+20:07 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2023/2023-09-11/
+20:07 < fsf> Voting started, 8 people (fsf,fungi,jconway,jesusalva,schultmc,snow-man,zumbi,zv) allowed to vote on Meeting minutes for Monday, 11 September 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < Snow-Man> Not too much.  Thaks to Jonatas for helping get things over to counsel to ask about.  We've been working to decomm the bytemark stuff, thanks to Perdu for moving that forward.  Let us know if anything breaks.
+20:08 < Lyude> zv: fwiw - could definitely use some attention w/r/t to the qualcomm sponsorship if possible
+20:08 < Snow-Man> ll
+20:08 < Snow-Man> (sorry about that, wifi decided to drop out)
+20:08 < zv> !vote yes
+20:08 < jconway> !vote yes
+20:08 < zv> Lyude: please keep comments to the end
+20:08 < zumbi> !vote abstain
+20:08 < fsf> !vote yes
+20:08 < milan> !vote yes
+20:08 < jesusalva> !vote yes
+20:08 < fungi> !vote yes
+20:08 < Snow-Man> !vote yes
+20:08 < fsf> Current voting results for "Meeting minutes for Monday, 11 September 2023": Yes: 6, No: 0, Abstain: 1, Missing: 1 ( schultmc )
+20:08 < fsf> Voting for "Meeting minutes for Monday, 11 September 2023" closed.
+20:08 < schultmc> !vote yes
+20:08 < schultmc> sorry
+20:09 < zv> I'll amend that.
+20:09 < fsf> whoops sorry about that schultmc, I counted incorrectly. Thanks for the amendment zv
+20:09 < schultmc> [item 7, Items up for discussion]
+20:09 < schultmc> Nothing on agenda
+20:09 < schultmc> [item 8, Any other business]
+20:09 < schultmc> Anything to discuss?
+20:09 < zv> I will work with chealer out of band to see what can be done about mailing list archive complaints.
+20:09 < zumbi> lyude, I signed Qualcomm contract, is there anything else?
+20:10 < Lyude> ah cool, the other thing is I was just looking for an update on the status of coming up with an evoc contract
+20:10 < jesusalva> I'm currently traveling (hence some delays from my side), but should be back home by November
+20:10 < schultmc> Lyude: I'm sending out the feedback from our attorney shortly
+20:10 < Lyude> oh awesome, thank you
+20:11 < schultmc> Anything else for AOB?
+20:13 < zv> doesn't seem like it
+20:14 < zumbi> none here
+20:14 < fungi> nope
+20:14 < jconway> none
+20:15 < milan> nope
+20:16 < schultmc> [item 9, Next board meeting]
+20:16 < schultmc> The next board meeting is scheduled for: November 13, 2023 at 2000 UTC.
+20:16 < schultmc> Any objections?
+20:16 < schultmc> Sorry - trash service just came unexpectedly
+20:16 < jconway> not here
+20:16 < Snow-Man> think it should be ok
+20:16 < schultmc> Works for me
+20:16 < fungi> sounds good to me, thanks
+20:17 -!- jesusalva [~jesusalva@000218ef.user.oftc.net] has quit [Read error: Connection reset by peer]
+20:17 < zumbi> ok for me
+20:17 < schultmc> *GAVEL*
