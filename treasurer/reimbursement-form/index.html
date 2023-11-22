@@ -59,17 +59,7 @@ SPI Reimbursement Request
 
         <p>Please read all the instructions before proceeding.</p>
 
-        <h3>Step 1: Prepare an SPI Reimbursement Request Form</h3>
-        <p>Use the form at the bottom of this page to generate an SPI Reimbursement Request Form.</p>
-        <p>Click the 'Generate PDF' button and save the PDF file locally.</p>
-        <p>Notes:</p>
-        <ul>
-            <li>Ensure that the banking information is accurate as incorrect details are a major source of delays.</li>
-	    <li>The currency field is the currency of your bank account. Only say USD here if you have a USD bank account (e.g. because you live in the US). Check <a href="https://wise.com/help/articles/2571907/what-currencies-can-i-send-to-and-from">list of supported currencies</a>.</li>
-            <li>Note that the PDF is generated on your machine via JavaScript. Nothing is transmitted to SPI servers until you email us.</li>
-        </ul>
-
-        <h3>Step 2: Prepare an Expense Report</h3>
+        <h3>Step 1: Prepare an Expense Report</h3>
 
         <p>You have to prepare an Expense Report with a list of all your expenses.</p>
         <p>We have created a Google Sheets spreadsheet that you can fill out and export as PDF. You need a Google account to fill out the spreadsheet. (Sorry for the use of proprietary technology! This is a temporary solution until we implement a proper reimbursement system. If the use of Google Sheets is a problem for you, email treasurer@spi-inc.org and we will figure something out.)
@@ -87,14 +77,25 @@ SPI Reimbursement Request
         <li>Enter the currency code of the expense in <tt>Currency</tt>.</li>
         <li>The field <tt>Converted amount</tt> should automatically update and convert the amount to your requested currency. This used the exchange rate from the date of the expense plus the adjustment for transaction fees mentioned above.)</li>
         <li>Enter each expense in one row until you are done.</li>
-        <li>When you are done, note down the total you will receive from cell <tt>G30</tt>.</li>
+        <li>When you are done, note down the total you will receive from cell <tt>G30</tt>.  You will need this figure for step 2.</li>
         <li>Save the spreadsheet (in case you need it again or we require changes).</li>
         <li>Export the spreadsheet as PDF by clicking on <tt>File</tt> &rarr; <tt>Download</tt> &rarr; <tt>PDF (.pdf)</tt>. You will see a preview.  Click on <tt>export</tt> to save the PDF.</li>
          </ul>
         <p>You can also look at our <a href = "https://docs.google.com/spreadsheets/d/1YHTP3-EPP3APTgi_d-DCAFw_bDUHEL_5nUX7tagA_YA/edit?usp=sharing">example spreadsheet</a> if you have questions on how to fill it out. If you're unsure or have problems, email us at treasurer@spi-inc.org (ideally, include a link to your spreadsheet so we can see what's going on).</p>
 
+        <h3>Step 2: Prepare an SPI Reimbursement Request Form</h3>
+        <p>Use the form at the bottom of this page to generate an SPI Reimbursement Request Form.</p>
+        <p>Click the <tt>Generate PDF</tt> button and save the PDF file locally.</p>
+        <p>Notes:</p>
+        <ul>
+            <li>Ensure that the banking information is accurate as incorrect details are a major source of delays.</li>
+            <li>The <tt>Currency</tt> field is the currency of your bank account. Only say USD here if you have a USD bank account (e.g. because you live in the US). Check <a href="https://wise.com/help/articles/2571907/what-currencies-can-i-send-to-and-from">list of supported currencies</a>. This currency should match the <tt>requested currency</tt> from the Expense Report (cell <tt>C2</tt>).</li>
+            <li>Enter the total amount from the Expense Report as <tt>Amount</tt> (cell <tt>G30</tt> in the Expense Report).</li>
+            <li>Note that the PDF is generated on your machine via JavaScript. Nothing is transmitted to SPI servers until you email us.</li>
+        </ul>
+
         <h3>Step 3: Collect and Order your Receipts</h3>
-        <p>Collect your receipts in the SAME ORDER as the rows in the Expense Report from Step 2.</p>
+        <p>Collect your receipts in the SAME ORDER as the rows in the Expense Report from Step 1.</p>
         <p>Save them in PDF format.</p>
         <p>Notes:</p>
         <ul>
@@ -102,10 +103,10 @@ SPI Reimbursement Request
         </ul>
 
         <h3>Step 4: Prepare the Submission Package</h3>
-        <p>Collect into a Submission Package (a single PDF file), the following:</p>
+        <p>Collect into a Submission Package (a single PDF file), the following (in this order):</p>
         <ul>
-            <li>from Step 1, the SPI Reimbursement Request Form</li>
-            <li>from Step 2, the Expense Report</li>
+            <li>from Step 2, the SPI Reimbursement Request Form</li>
+            <li>from Step 1, the Expense Report</li>
             <li>from Step 3, the Ordered Receipts</li>
         </ul>
         <p>Save it in PDF format with filename <em>ReimbursementRequest_«YourName»_«IsoDate».pdf</em>.</p>
