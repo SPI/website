@@ -70,20 +70,28 @@ SPI Reimbursement Request
         </ul>
 
         <h3>Step 2: Prepare an Expense Report</h3>
-        <p>Use the <a href="http://www.xe.com/travel-expenses-calculator/">XE Travel Expenses Calculator</a> to prepare an Expense Report (even for non-travel expenses).</p>
-        <p>Click the printer icon at the bottom of the form and save a PDF file rather than printing.</p>
-        <p>Notes:</p>
+
+        <p>You have to prepare an Expense Report with a list of all your expenses.</p>
+        <p>We have created a Google Sheets spreadsheet that you can fill out and export as PDF. You need a Google account to fill out the spreadsheet. (Sorry for the use of proprietary technology! This is a temporary solution until we implement a proper reimbursement system. If the use of Google Sheets is a problem for you, email treasurer@spi-inc.org and we will figure something out.)
         <ul>
-            <li>Enter Your Name, which must match the name in the SPI Reimbursement Request Form from Step 1.</li>
-            <li>Set <tt>Your Company Name</tt> to the open source project that you're seeking reimbursement from.</li>
-            <li>Set <tt>Your Home Currency</tt> to the currency you want the reimbursement to be in. If <a href="https://wise.com/help/articles/2571907/what-currencies-can-i-send-to-and-from">Wise supports your home currency</a>, but it's not listed in the drop-down list, please email us at treasurer@spi-inc.org</li>
-            <li>Leave/set Credit Card @ 3%, Debit Card @ 5%, Foreign Cash @ 5%, Traveller's Cheque @ 2%.</li>
-            <li>Enter Receipt Details, one row per receipt</li>
-            <ul>
-                    <li>specify the correct date of the transactions</li>
-                    <li>set the currency per transaction to the currency you paid in</li>
-            </ul>
-        </ul>
+        <li>Open the <a href="https://docs.google.com/spreadsheets/d/1pJjQWqGcndKy0GQj70yX0i7Bk3vpL3OEZy4ErhMzQGM/edit?usp=sharing">spreadsheet</a>.</li>
+        <li>Go to <tt>File</tt> &rarr; <tt>Make a copy</tt> to make your own copy.</li>
+        <li>Open your copy and fill it out.</li>
+        <li>Go to cell <tt>C1</tt> and enter your name.</li>
+        <li>Go to cell <tt>C2</tt> and enter the 3-letter currency code of the currency that you wish to receive. This is usually the currency of your country (although some countries have a preference for other currencies, such as <tt>USD</tt> and <tt>EUR</tt>). Wikipedia has a <a href = "https://en.wikipedia.org/wiki/ISO_4217">list of currency codes</a>.</li>
+        <li>For each expense you incurred, fill out one row in the spreadsheet.</li>
+        <li>Double click on the <tt>Date</tt> column to get a calendar and pick the date of that particular expense (not the current date).</li>
+        <li>Enter a brief description in <tt>Description</tt> (e.g. <em>Bus to airport</em> or just <em>Bus</em>).</li>
+        <li>Choose one of the expense types (<tt>cash</tt>, <tt>debit card</tt>, <tt>credit card</tt>) in <tt>Type</tt>. Note: if the currency of the expense is the same as your requested currency, you can leave this empty.  This field is only used to adjust the conversion rate if a currency conversion is necessary. We add 3% for credit cards, and 5% for debit cards and cash expenses to account for any transaction fees you might have incurred.</li>
+        <li>Enter the amount in <tt>Amount</tt>. (Note: when you enter an amount, you will get an error in <tt>Converted amount</tt> until you enter the currency in the next step. This is expected.)</li>
+        <li>Enter the currency code of the expense in <tt>Currency</tt>.</li>
+        <li>The field <tt>Converted amount</tt> should automatically update and convert the amount to your requested currency. This used the exchange rate from the date of the expense plus the adjustment for transaction fees mentioned above.)</li>
+        <li>Enter each expense in one row until you are done.</li>
+        <li>When you are done, note down the total you will receive from cell <tt>G30</tt>.</li>
+        <li>Save the spreadsheet (in case you need it again or we require changes).</li>
+        <li>Export the spreadsheet as PDF by clicking on <tt>File</tt> &rarr; <tt>Download</tt> &rarr; <tt>PDF (.pdf)</tt>. You will see a preview.  Click on <tt>export</tt> to save the PDF.</li>
+         </ul>
+        <p>You can also look at our <a href = "https://docs.google.com/spreadsheets/d/1YHTP3-EPP3APTgi_d-DCAFw_bDUHEL_5nUX7tagA_YA/edit?usp=sharing">example spreadsheet</a> if you have questions on how to fill it out. If you're unsure or have problems, email us at treasurer@spi-inc.org (ideally, include a link to your spreadsheet so we can see what's going on).</p>
 
         <h3>Step 3: Collect and Order your Receipts</h3>
         <p>Collect your receipts in the SAME ORDER as the rows in the Expense Report from Step 2.</p>
@@ -118,7 +126,7 @@ SPI Reimbursement Request
             <li>body: (the text below)
 <pre>By submitting this reimbursement request, I declare:
   - that I have prepared an SPI Reimbursement Request Form including bank account details,
-  - that I have prepared an Expense Report using XE's Travel Expense Calculator,
+  - that I have prepared an Expense Report,
   - that I have attached sufficient documentation substantiating my request,
   - that I seek reimbursement of expenses that are compliant with SPI and applicable Associate Project policies, and
   - that I have not sought nor will seek reimbursement of these expenses from any other source.</pre>
@@ -387,7 +395,7 @@ SPI Reimbursement Request
 
 <div class="pagecopyright">
 <a name="pagecopyright"></a>
-Copyright © 2017-2018 Software in the Public Interest, Inc.
+Copyright © 2017-2023 Software in the Public Interest, Inc.
 </div>
 
 
