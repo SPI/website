@@ -1,0 +1,212 @@
+20:07 < Snow-Man> *GAVEL*
+20:07 < Snow-Man> .
+20:07 < Snow-Man> [item 1, Opening]
+20:07 < Snow-Man> Welcome to today's Software in the Public Interest Board Meeting, which is now called to order. Today's agenda can be found on the web at: https://www.spi-inc.org/meetings/agendas/2023/2023-11-13/
+20:07 < Snow-Man> .
+20:07 < Snow-Man> [item 2, Roll Call]
+20:07 < Snow-Man> Directors, please state your name
+20:07 < milan> Milan Kupcevic
+20:07 < fungi> Jeremy Stanley
+20:07 < jconway> Joe Conway
+20:07 < zv> Zach van Rijn
+20:07 < Snow-Man> Stephen Frost
+20:08 < zumbi> Héctor Orón Martínez
+20:08 < jesusalva> Jonatas L Nogueira
+20:08 < Snow-Man> [item 3, President's Report]
+20:08 < Snow-Man> Michael isn't here  ...
+20:08 < Snow-Man> I haven't got much to add either.
+20:09 < Snow-Man> [item 4, Treasurer's Report]
+20:09 < Snow-Man> zumbi, zv?
+20:09 < zv> Nothing from me for treasurer.
+20:10 < Snow-Man> zumbi: ?
+20:10 < zumbi> yes, something from me, but zv?
+20:10 < zumbi> Payments are being processed as usual, there were some issues with BRL and INR which we have been work around them and we have already been paying some of the pending requests, I expect to complete remaining BRL and INR payments over the week.
+20:10 < Snow-Man> sorry, zv shared report from last time, that's all
+20:10 < zumbi> Jonatas has accepted to join treasurer team as assistant and we are pretty excited about it. Treasurer has acquired new computer to deal with SPI treasury stuff in a better way going forward (i.e. personal laptop holding SPI confidential data broke)
+20:10 < zumbi> Treasurer has been using new Debian reimbursement system and asked SPI sysadmin to start working on deploying the system for SPI. This system is not yet usable, but a heads-up that this is coming.
+20:10 < zumbi> 2021 CHAR500 has been signed and paid. Awaiting charities bureau review.
+20:10 < zumbi> We are working with auditors to finalize last year accounting audit.
+20:10 < zumbi> Monthy reports have not been updated since 202302, but we have been working on them (thanks tbm) and those are expected to be updated this week.
+20:11 < zumbi> .
+20:11 < Snow-Man> great, thanks, questions for zumbi on that?
+20:11 < Snow-Man> [item 5, Secretary's report]
+20:12 < zv> There are some ongoing discussions about planning a face-to-face meeting. Nothing solid yet.
+20:12 < zv> I remain available to support other roles.
+20:12 < Snow-Man> I'm +1 on trying to get a f2f planned
+20:12 < zv> Please send conflict-of-interest forms if you have not.
+20:12 < zv> I will directly mail anyone with outstanding forms.
+20:12 < zv> .
+20:12 < Snow-Man> [item 6, Outstanding minutes]
+20:13 < Snow-Man> October minutes need to be approved, they're available here: https://www.spi-inc.org/meetings/minutes/2023/2023-10-09/
+20:13 < Snow-Man> can we vote?
+20:13 < Snow-Man> (I don't have the script but hopefully someone does? :)
+20:14 < zv> fungi: ?
+20:15 < jesusalva> I don't. Off topic, "Guests, please /msg your names to zv if you wish your attendance to be recorded"
+20:15 < jconway> can't we just manually tally votes?
+20:16 < fungi> i don't have the vote script set up (elsewhere i normally rely on an in-channel meetbot instance to conduct votes)
+20:16 < Snow-Man> We can just do it, one sec
+20:17 < Snow-Man> Voting started to vote on Meeting minutes for Monday, 9 October, 2023.  Please vote yes/no/abstain.
+20:17 < Snow-Man> !yes
+20:17 < fungi> !yes
+20:17 < jconway> !yes
+20:17 < jesusalva> !yes
+20:17 < milan> !vote yes
+20:17 < zumbi> !vote yes
+20:17 < Snow-Man> !vote yes
+20:17 < Snow-Man> (hah)
+20:17 < fungi> !vote yes
+20:17 < jesusalva> !vote yes
+20:17 < jconway> !vote yes
+20:18 < jesusalva> (missing: zv)
+20:18 < zv> !vote yes
+20:18 < Snow-Man> [item 7, Items up for discussion]
+20:18 < Snow-Man> [item 7.1, Apple Developer Account Billing]
+20:18 < Snow-Man> Who wants to speak on that?
+20:18 < Snow-Man> (Please go ahead)
+20:19 < jesusalva> For short, we're charging Apple Developer Account to all projects using it, which doesn't make much sense
+20:19 < jesusalva> tbm proposed earlier to move it to SPI General Fund as it is not much and there are no costs to scale it up or down.
+20:19 < jesusalva> The other details are on the agenda page. /done
+20:20  * jesusalva can answer any questions which arise
+20:20 < fungi> the proposed handling makes sense to me, probably not worth the work of trying to split the cost among multiple projects
+20:21 < milan> Sounds reasonable.
+20:21 < Snow-Man> Seems reasonable to me too.
+20:21 < zumbi> is there an option to revert to non-profit account?
+20:21 < Snow-Man> Do you want to make a motion on it?
+20:22 < zumbi> ..however, I am fine with moving this to SPI General fund
+20:22 < jesusalva> zumbi: I believe we should ask later the projects if they need the features restricted to non-profits, and if not, consider asking that to Applie
+20:22 < jesusalva> Snow-Man: Yes, go ahead with the vote
+20:23 < Snow-Man> erm, please propose a motion
+20:23 < jesusalva> Hm? The motion is to move Apple Developer Account billing to SPI General Fund
+20:23 < jesusalva> (effectively overturning an earlier decision to split the fixed cost between projects)
+20:24 < fungi> i second the motion
+20:25 < Snow-Man> Ok, votes please?
+20:25 < Snow-Man> !vote yes
+20:25 < fungi> !vote yes
+20:25 < zv> !vote yes
+20:25 < jconway> !vote yes
+20:25 < zumbi> !vote yes
+20:25 < milan> !vote yes
+20:25 < jesusalva> !vote yes
+20:25 < Snow-Man> [item 7.2, Assign someone to oversee/deal with #6983]
+20:27 < jesusalva> For short, I agree with tbm - we're understaffed. This, just like Steamworks and another one I forgot, are tasks which don't need officers and at current pace will never ever be done.
+20:27 < jesusalva> My current goal is still getting a director or trusted volunteer to deal with this specifically, but I believe we really should consider hiring another indendent contractor.
+20:27 < jesusalva> So I suggest that if the board cannot spare a director or someone to deal with the outstanding, time consuming tasks, to approve budget so it can be seen about hiring another independent contractor to support our activities.
+20:28 < jesusalva> For the context, #6983 is a request to, if memory serves, merge a couple Microsoft Azure accounts. Lots of back and forth with Microsoft support expected.
+20:28 < jesusalva> </done>
+20:29  * jesusalva points out that if there's a budget, he can arrange people willing to do independent contractor work, although he would rather not oversee it
+20:30 < Snow-Man> I can probably help out with the Azure stuff
+20:30 < fungi> thanks, that's definitely a different meaning than i took from the agenda item. that said, i'm in favor of earmarking funds for (contract or permanent) staff. we've still got the challenge that an officer's time with any hiring/search too
+20:30 < fungi> er, that an officer's time would be needed for
+20:30 < jesusalva> Yeah, I'm hoping we can sort out the specific Azure question now, as it has renewal dates
+20:31 < fungi> it seems like two discussions to me, probably
+20:31 < schultmc> Michael Schultheiss
+20:31 < schultmc> apologies - got busy at work
+20:31 < jconway> \o/
+20:31 < jesusalva> Sec, too many PMs at once
+20:33 < jesusalva> Snow-Man: Perdu believes he can also help with #6983
+20:33 < fsf> Well, heck - I do believe that I got DST'd
+20:33 < Snow-Man> schultmc: glad you could join
+20:33 < Snow-Man> jesusalva: anything else?
+20:33 < Snow-Man> on 7.2?
+20:33 < fsf> apologies for my absence on that
+20:33 < jesusalva> fsf: Full name?
+20:33 < jesusalva> Snow-Man: No, hopefully we can have this specific one unblocked
+20:33 < fungi> having Perdu help with those sorts of tasks sounds great to me, as we already have a contractual relationship established, hence less work for officers/board
+20:33 < Snow-Man> great
+20:33 < jesusalva> And discuss later about extra contractors
+20:33 < Snow-Man> [7.3, NTPSEC/ARDC refund of grants]
+20:34 < Snow-Man> I generally agree on having Perdu help with things if possible
+20:35 < Snow-Man> jesusalva: did you want to talk to the refund / make a motion?
+20:35 < jesusalva> Snow-Man: Can I move that + the Steamworks one to sysadmin queue, then?
+20:35 < jesusalva> Snow-Man: Feel free to motion that one, as you have more context than me
+20:35 < Snow-Man> jesusalva: sure
+20:35 < Snow-Man> bleh, I'm not in a great place to write a lot of text, heh
+20:36 < Snow-Man> The gist of it is that we're ok with the refund, right?
+20:36 < Snow-Man> We've not had anything further really on it?
+20:36 < MarkAtwood> wait wait wait
+20:36 < MarkAtwood> may i speak?
+20:36 < fungi> the motion from last meeting stated "if no objections are raised"
+20:37 < fungi> there was an e-mail discussion between the board members and representatives of ardc and ntpsec, objections were raised, rebuttals went unanswered for nearly a month though
+20:37 < jesusalva> To be clear, I'm neutral ─ ARDC did a donation to NTPSEC a while ago, the funds were not spent (Snow-Man can talk on this), and ARDC is asking the money to be returned. Legal counsel said it is OK to do that
+20:37 < jesusalva> fungi: ARDC did reply
+20:37 < jesusalva> I put their reply in the end of the agenda item
+20:37 < jesusalva> "[...] We await correspondence following the SPI board meeting."
+20:37 < fsf> Forrest Fleming
+20:38 < zumbi> I would like to hear what MarkAtwood has to say
+20:38 < jesusalva> +1
+20:38 < jconway> +1
+20:38 < fungi> right, a representative of ardc replied to ntpsec representative's points on october 17, and there was no subsequent reply from ntpsec that i saw
+20:38 < MarkAtwood> thank you
+20:39 < MarkAtwood> some background:
+20:40 < MarkAtwood> after LF CII collapsed, i went hunting for a new home for NTPsec's foundation umbrella.  because of my positive experience with Drizzle at SPI and at Bdale's recommendation, I asked to set up here, and it was approved, and we were set up
+20:40 < MarkAtwood> we got grant money from 6Sigma, Cisco Security, and then ARDC for doing general ongoing security improvments to NTPsec and for fixing CVEs on discovery
+20:42 < MarkAtwood> after we successfully hit Cisco's goal list, they send the grant money to our account at SPI. and then i tried to ask for the developers invoces to be paid, and it was refused, because... reasons.  something about how i was not authorized to speak for SPI to tell the developres they would get paid.   6Sigma, Cisco, and ARDC knew who the developers work and had send the money with the understandin that they woudl be applied tpo those 
+20:42 < MarkAtwood> kind of invoices
+20:43 < MarkAtwood> it was on me to follow up and find out what was going on.  and i dropped that ball.   Conway can attest how working at Amazon will EAT YOUR LIFE.  we dont believe in work-life balance at the bookstore.  
+20:44 < Snow-Man> Frankly, I don't view this as being something that you need to convince SPI of.
+20:44 < MarkAtwood> its been on my "ill get to that" until i saw the emails from SPI.  and i reacted fast.  and enough time had gone by that i misremembered things from other projects i have managed at Amazon, and you correctly called me out that there were emails
+20:44 < Snow-Man> We've been asked for a refund which is an entirely reasonable ask because nothing has been done.
+20:44 < MarkAtwood> so....  my asks are... keep the money here and then tell me how i can use the grants we were sent to pay
+20:45 < MarkAtwood> nothing was done because you refused our invoices
+20:45 < Snow-Man> There's been no progress in the last month towards anything actually changing here either as far as I can tell.
+20:45 < Snow-Man> There wasn't a contract ... so, yeah, we're gonna refuse those invoices.
+20:45 < Snow-Man> That hasn't changed.
+20:45 < MarkAtwood> i didnt need a contract when i disbursed Drizzle money
+20:45 < Snow-Man> Nor has there been any serious good faith effort towards getting a contract in place.
+20:45 < Snow-Man> I don't care.
+20:45 < MarkAtwood> I do.  does everyone else here Not Care as well?
+20:46 < Snow-Man> That things weren't done in a sane way in the past doesn't mean it's ok to just continue that way.
+20:46 < Snow-Man> If anyone wants to discuss it further from the SPI side, I would urge that we discuss it with counsel and not here.
+20:46 < MarkAtwood> why do i need a contract with SPI. i had a contract with 6Sigam, a contract with Cisco, and a handshake with ARDC
+20:46 < Snow-Man> Thank you for your input.
+20:47 < jesusalva> Oh right, worth mentioning that the "don't pay invoices without the contract" was, iirc, the counsel advice
+20:47 < Snow-Man> I'm open to accepting a delay to allow you further time to discuss with the organziation who made the refund request.
+20:47 < Snow-Man> jesusalva: We do not need to share what advice we received from counsel and we should be careful sharing it as such.
+20:47 < MarkAtwood> do you ahve a tempate for those contracts?  you rejected the template we sent that Cisco sent us for theior contract
+20:48 < Snow-Man> If the organization changes their mind regarding the refund they requested, then perhaps there's more to discuss.
+20:48 < Snow-Man> If they don't, then I would say we move forward with their request.
+20:48 < fungi> as for the earlier question, i do care, but what i especially care about is that funds handled by spi are managed in a way that we can defend in financial audits, and does not threaten the continued existence of spi so that it can continue to serve the needs of associated projects
+20:49 < MarkAtwood> fair enough. do you hae a contract template, since the Cisco one was not acceptable?
+20:49 < Snow-Man> We did and we shared it previously, it's not materially changed.  Again, this is not where we are at this point, however.
+20:50 < Snow-Man> MarkAtwood: You need to convince the people who made the donation and who requested the refund.
+20:50 < Snow-Man> You had however many years to work on this and that isn't what happened.
+20:50 < Snow-Man> now they've asked for it back and that's completely reasonable and up to them
+20:51 < Snow-Man> I will not be in favor of trying to figure out some way to spend it all right away or even entering into a contract with someone to spend it now that they've asked for it back.
+20:51 < Snow-Man> If you convince them to recind their refund request, that's different
+20:51 < Snow-Man> We're running up on the time for this meeting and so we will continue.
+20:52 < Snow-Man> Unless anyone else from spi has a comment
+20:52 < MarkAtwood> i will reach back out to them directly.     however, you still have our the Cisco and the 6Sigma money as well. and i just serached my email, and do not have a contract template from SPI
+20:52 < Snow-Man> MarkAtwood: Please feel free to reach out to us outside of this meeting to discuss.  Thank you.
+20:52 < zv> no comment from Secretary other than to support Stephen's position
+20:53 < Snow-Man> [item 8, Any other business]
+20:53 < Snow-Man> Anything else to discuss?
+20:53 < jesusalva> I'll be quick
+20:53 < jesusalva> Spring cleaning of board queue: Can tickets 6282 (Arch Linux), 6571 (Battle for Wesnoth), 6646 (OpenZFS) and 6759 (OpenZFS) be closed?
+20:53 < Snow-Man> Don't have those currently loaded into my brain, at least, heh.
+20:54 < Snow-Man> Ping those tickets maybe and ask on them?
+20:54 < jesusalva> They're discussion for already signed contracts
+20:54 < jesusalva> The contract was signed, some are still ongoing though. Not sure if they should be closed or kept open until they're concluded.
+20:54 < Snow-Man> I don't see any need to keep them open if the work on the ticket has been resolved (and a signed contract would be a resolution)
+20:54 < jesusalva> they're concluded -> their effects ceased
+20:54 < schultmc> Snow-Man: We received updated paperwork needing your signature from Merrill Lynch - please sign it and get it back to me at your convenience
+20:55 < Snow-Man> jesusalva: They don't need to stay open for that
+20:55 < Snow-Man> schultmc: yes, I saw, will try to do today
+20:55 < jesusalva> Okay, thanks. Also, I sent everyone on board a minute to make a resolution for the 5% fee
+20:55 < jesusalva> As the 5% fee is scattered all over the place
+20:55 < zumbi> jesusalva: I am happy to review and sign any pending document/ticket
+20:55 < schultmc> Martin Michlmayr has been working on outstanding treasurer's reports and should have them completed shortly
+20:56 < Snow-Man> great, thanks.
+20:56 < jesusalva> Also, I said earlier about an "iirc" about legal counsel. I want to disclose that what I was thinking on was not for SPI
+20:56 < Snow-Man> jesusalva: great, thanks.
+20:57 < Snow-Man> [item 9, Next board meeting]
+20:57 < jesusalva> Also, TMW liaison is asking to remember he opened a ticket about a Google Play account which wasn't answered.
+20:57 < Snow-Man> December 11, 2023, 20:00 UTC is scheduled
+20:57 < jesusalva> LGTM
+20:57 < Snow-Man> I'll be traveling then and not sure if I'll make that meeting, just fyi.
+20:57 < Snow-Man> I'll try to though.
+20:57 < schultmc> Works for me
+20:57 < jconway> wfm
+20:57 < milan> works for me
+20:57 < fungi> i can make that, thanks
+20:58 < zumbi> works for me
+20:58 < Snow-Man> *GAVEL*

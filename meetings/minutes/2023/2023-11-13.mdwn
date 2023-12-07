@@ -1,0 +1,199 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, November 13th, 2023
+
+__Board members present__
+
+* Stephen Frost (Snow-Man) (Vice-President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Zach van Rijn (zv) (Secretary)
+* Joe Conway (jconway)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+* Jeremy Stanley (fungi)
+
+__Board members partially present__
+
+* Michael Schultheiss (schultmc) (President)
+* Forrest Fleming (fsf)
+
+__Board members absent with regrets__
+
+* None
+
+__Board members absent__
+
+* None
+
+__Registered guests present__
+
+* William Pine (Liaison, The Mana World)
+* Mark Atwood (of NTPsec and of Amazon)
+* Célestin Matte
+
+These are the minutes for the November 13th, 2023 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2023/2023-11-13.txt).
+
+
+## President's report
+
+<pre>
+We received updated paperwork needing Stephen's signature from Merrill Lynch.
+
+Martin Michlmayr has been working on outstanding treasurer's reports and should
+have them completed shortly.
+</pre>
+
+## Vice President's report
+
+* None
+
+
+## Treasurer's report
+
+<pre>
+Payments are being processed as usual, there were some issues with BRL and INR
+which we have been work around them and we have already been paying some of the
+pending requests, I expect to complete remaining BRL and INR payments over the week.
+
+Jonatas has accepted to join treasurer team as assistant and we are pretty excited
+about it. Treasurer has acquired new computer to deal with SPI treasury stuff in a
+better way going forward (i.e. personal laptop holding SPI confidential data broke)
+
+Treasurer has been using new Debian reimbursement system and asked SPI sysadmin to
+start working on deploying the system for SPI. This system is not yet usable, but a
+heads-up that this is coming.
+
+2021 CHAR500 has been signed and paid. Awaiting charities bureau review.
+
+We are working with auditors to finalize last year accounting audit.
+Monthy reports have not been updated since 202302, but we have been working on
+them (thanks tbm) and those are expected to be updated this week.
+</pre>
+
+
+## Secretary's report
+
+<pre>
+There are some ongoing discussions about planning a face-to-face meeting.
+Nothing solid yet. I remain available to support other roles.
+
+Please send conflict-of-interest forms if you have not.
+I will directly mail anyone with outstanding forms.
+</pre>
+
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday October 9th 2023
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 abstain, 0 no.
+
+
+## Items up for discussion
+
+### Apple Developer Account Billing
+
+(From Jonatas):
+
+* We're charging Apple Developer Account to all projects using it, which doesn't make much sense
+* Martin Michlmayr proposed earlier to move it to SPI General Fund as it is not much and there are no costs to scale it up or down.
+* The other details are on the agenda page.
+* Propose a Motion to move Apple Developer Account billing to SPI General Fund, effectively overturning an earlier decision to split the fixed cost between projects
+
+#### Vote on Motion to move Apple Developer Account billing
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Stephen Frost</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 7 yes, 0 abstain, 0 no.
+
+### Assign someone to oversee/deal with #6983
+
+(From Jonatas)
+
+* #6983 is a request to merge a couple Microsoft Azure accounts. Lots of back and forth with Microsoft support expected.
+
+Stephen and/or Perdu can probably help.
+
+There is a separate discussion about the possibility of hiring an independent contractor or finding a trusted volunteer to help with tasks that do not require Officer approval.
+
+### NTPSEC/ARDC refund of grants
+
+(From Fungi)
+
+* The motion from last meeting stated "if no objections are raised"
+* There was an e-mail discussion between the board members and representatives of ardc and ntpsec, objections were raised, rebuttals went unanswered for nearly a month though
+
+(From Jonatas)
+
+* The funds were not spent (Snow-Man can talk on this), and ARDC is asking the money to be returned. Legal counsel said it is OK to do that
+* ARDC did reply, "[...] We await correspondence following the SPI board meeting."
+
+(From Fungi)
+
+* A representative of ardc replied to ntpsec representative's points on october 17, and there was no subsequent reply from ntpsec that i saw
+
+Mark Atwood provides some background on the situation from his perspective.
+
+Stephen points out that SPI is only able to approve invoices when a valid contract is in place.
+
+Stephen is open to further delays only if Mark is able to convince ARDC to rescind their refund request.
+
+Mark will reach out to ARDC directly.
+
+
+## Other business
+
+(From Jonatas)
+
+* TMW liaison is asking to remember he opened a ticket about a Google Play account which wasn't answered.
+* Spring cleaning of board queue: Can tickets 6282 (Arch Linux), 6571 (Battle for Wesnoth), 6646 (OpenZFS) and 6759 (OpenZFS) be closed?
+
+Stephen does not see any need to keep them open if the work on the ticket has been resolved (and a signed contract would be a resolution).
+
+
+## Adjournment
+
+The meeting was adjourned until Monday December 11th, 2023 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td><td>Secretary</td></tr>
+<tr><td>July 2023</td><td>Joe Conway</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+
+</tbody>
+</table>
