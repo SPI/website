@@ -14,7 +14,9 @@ This is the proposed agenda for the SPI board meeting of Monday, December 11th
 6. Outstanding minutes
     1. [Monday, 13 November, 2023](/meetings/minutes/2023/2023-11-13/)
 7. Items up for discussion
-    1. 
+    1. SPI Administrative Overhead Fee Resolution
+    2. NTPSEC/ARDC refund of grants
+    3. C++ Portable Components (POCO) as an associated project
 8. Any other business
 9. Next board meeting: January 8, 2024, 20:00 UTC
 
@@ -38,3 +40,142 @@ pending
 
 ## Items up for Discussion
 
+### SPI Administrative Overhead Fee Resolution
+
+(From Jonatas)
+
+It is an attempt to formalize SPI proceedings regarding its fee which are scattered in several places, including the Finance Handbook, Resolution 2020-06-22, ticket #4689, and the Associated Project HOWTO. It also includes a new rules for non monetary donations, which are exceedingly rare, and is supposed to go into effect on January 1st 2024.
+
+<pre>
+# Resolution 2023-XX-XX.jln.2: Formalize SPI 5% fee
+
+WHEREAS
+
+1. SPI has a non zero upkeep, and
+
+2. SPI has historically charged a 5% fee to cover its upkeep, which however is not
+   properly documented, even if it is well known,
+
+
+THE SPI BOARD RESOLVES THAT
+
+1. SPI will charge all project donations and conference sponsorships a 5%
+   administrative fee, as is SPI's current practice. The fee is calculated
+   and collected before the transaction costs (such as wire transfer fees).
+
+2. SPI will not charge the fee on transfer of existing funds.
+
+3. SPI will not charge the fee twice, such when a project sells an asset purchased
+   with the project funds.
+
+4. When non-cash donations are made, such as securities or goods, the fee will be
+   charged at the fair market value of the asset. If the fair market value increase,
+   SPI will also collect the fee over the increase.
+
+5. If the collection of the fee for any reason would cause the project balance to
+   go negative, the collection may be postponed or waived by SPI.
+
+6. SPI may, at its sole discretion, waive the fee. Such waiver shall not affect
+   SPI's capabilities to resume the fee collection in the future.
+
+7. Interest over unspent project cash will be collected to the General Fund, however
+   dividends over securities owned by projects will instead be subject to the fee.
+
+8. Omissions and questions in this resolution shall be decided by the treasurer
+   and the president (or vice president) of SPI.
+
+This resolution supersedes resolution 2020-06-22.mcs.1
+</pre>
+
+and
+
+<pre>
+# Resolution 2024-XX-XX.jln.1: Use of SPI General Fund by Projects
+
+WHEREAS
+
+1. SPI General Fund exists to ensure SPI operational continuity, such as paying for
+   accountants, tax forms, insurance and others, being composed of unrestricted
+   assets, and
+
+2. SPI attains its purposes with the associated projects,
+
+
+THE SPI BOARD RESOLVES THAT
+
+1. SPI will charge domains registered on behalf of associated projects from said
+   projects restricted assets, at a discounted rate if an agreement with the
+   registrar exists.
+
+2. If a project requests the use of SPI's legal counsel for project specific
+   questions, they'll be charged from the project restricted assets. SPI may, at its
+   sole discretion, pay it from the general fund if it deems the question to be
+   non-specific, useful for multiple projects, relevant to SPI itself, or any other
+   justification.
+
+3. SPI will use the project restricted assets to pay trademark filling fees, but
+   their maintenance and renewal will be paid from SPI General Fund. If such would
+   cause an undue burden on SPI General Fund, SPI may use the project restricted
+   assets for payment, as long that it communicates the fact to said project
+   beforehand and provides a reasonable time-frame for the project to opt to drop
+   the trademark.
+
+4. SPI may, at its sole discretion and when having surplus on the General Fund,
+   make grants available to its associated projects in order to further its goals.
+   This shall not be construed as a standard or usual practice.
+
+5. This resolution shall be interpreted as general guidelines; nothing herein shall
+   prevent SPI Board from using the General Fund for any specific purpose or manner.
+</pre>
+
+### NTPSEC/ARDC refund of grants
+
+
+
+### C++ Portable Components (POCO) as an associated project
+
+(From Jeremy)
+
+<pre>
+# Resolution 2023-12-11.js.1: POCO as an associated project
+
+WHEREAS
+
+1. C++ Portable Components (POCO) is a substantial and significant
+   free/libre open source software project providing libraries used
+   in the creation of other software projects and included in
+   popular distributions.
+
+2. POCO's developers would like SPI's support and assistance,
+   including accepting donations, holding funds, paying for project
+   expenses, signing contracts, and legal assistance.
+
+THE SPI BOARD RESOLVES THAT
+
+3. POCO is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+   https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Aleksandar Fabijanic is recognised by SPI as the authoritative
+   decision maker and SPI liaison for POCO. Successors will be
+   appointed by by the outgoing liaison or, failing that, by the
+   members of POCO's Technical Steering Committee.
+
+5. If the last known SPI liaison for POCO is unreachable and no new
+   SPI liaison is appointed for two consecutive years, the
+   associated project is deemed defunct.
+
+6. In such a circumstance, the SPI Board will, in its good-faith
+   discretion, proceed as follows: the Board will identify one or
+   more other SPI associated projects or 501(c)(3) charities which
+   can accept the project's assets and use them for a similar
+   purpose, and transfer the assets to the identified destination or
+   destinations as feasible. Assets for which no such transfer can
+   be arranged within a reasonable time will become part of the SPI
+   general fund.
+
+7. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>
