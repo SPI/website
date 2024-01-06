@@ -1,0 +1,277 @@
+[[!meta copyright="Copyright © 2023 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, December 11th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Zach van Rijn (zv) (Secretary)
+* Joe Conway (jconway)
+* Forrest Fleming (fsf)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+* Jeremy Stanley (fungi)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Stephen Frost (Snow-Man) (Vice-President)
+
+__Board members absent__
+
+* None
+
+__Registered guests present__
+
+* Alex Fabijanic
+* Célestin Matte
+* William Pine (Liaison, The Mana World)
+
+These are the minutes for the December 11th, 2023 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2023/2023-12-11.txt).
+
+
+## President's report
+
+<pre>
+Martin, Héctor and I worked with our auditor to get our 2022
+financial statements audited. The 2022 audited financial statements
+are available at https://www.spi-inc.org/treasurer/2022-financial-statements.pdf
+We also with the auditing firm on filing our New York State and Federal annual filings.
+The federal filing has been submitted and accepted and we are finalizing the filing
+of the New York State 2022 filing. New York State informed us of a technical issue
+with the filing of our 2021 New York State filing which has been successfully
+resolved.
+
+I am working with our broker at Merrill Lynch to establish the recommended
+investment strategy we discussed at the last in person meeting. They drafted new
+paperwork for myself and Stephen Frost to sign and we should have
+that paperwork signed and submitted shortly.
+
+Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+
+Continued thanks to SPI Vice President, Stephen Frost, for handling contracting
+with SPI's contractors. Stephen continues to do a fantastic job working with our
+contractors and legal counsel.
+</pre>
+
+## Vice President's report
+
+* None
+
+
+## Treasurer's report
+
+<pre>
+Payments are being processed, there has been a big backlog as few conferences have
+been asking for reimbursements.
+
+There are pending payments for BRL and INR, but it should be paid before end of year.
+
+Treasurer reports have been out now, apologies for the delays,
+https://www.spi-inc.org/treasurer/reports/, big thanks to tbm.
+
+SPI is setting up Debian reimbursement system and it should be usable (for test)
+starting next year. We'll keep you updated.
+</pre>
+
+
+## Secretary's report
+
+<pre>
+If you receive an email from me about your Conflict of Interest form,
+please address it as soon as possible.
+
+I am hoping to have more clarity on a face-to-face meeting soon.
+
+Please try to be concise when proposing items for the Agenda.
+</pre>
+
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday November 13th 2023
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Abstain</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Abstain</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 2 abstain, 0 no.
+
+
+## Items up for discussion
+
+### SPI Administrative Overhead Fee Resolution
+
+#### Vote on resolution 2023-12-07.jln.1: Formalize SPI 5% fee
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 8 yes, 0 abstain, 0 no.
+
+### NTPSEC/ARDC refund of grants
+
+Agreement was reached that money donated by ARDC to the NTPsec Project under the SPI should be returned to the ARDC.
+
+### C++ Portable Components (POCO) as an associated project
+
+#### Vote on resolution 2023-12-11.js.1: POCO as an associated project
+
+<table>
+  <tr><td>Joe Conway</td><td>Yes</td></tr>
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 8 yes, 0 abstain, 0 no.
+
+
+## Other business
+
+Secretary will compile a list of cities and associated costs for a face-to-face meeting and send details to the Board.
+
+Brief discussion about whether Directors are in favor of grants.
+
+
+## Adjournment
+
+The meeting was adjourned until Monday January 8th, 2024 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2021</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2021</td><td>Stephen Frost</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td><td>Secretary</td></tr>
+<tr><td>July 2023</td><td>Joe Conway</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2021</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+
+</tbody>
+</table>
+
+## Appendix B: Resolutions
+
+### Resolution 2023-12-07.jln.1: Formalize SPI 5% fee
+
+<pre>
+WHEREAS
+
+1. SPI has a non zero upkeep, and
+
+2. SPI has historically charged a 5% fee to cover its upkeep, which however is not
+   properly documented, even if it is well known,
+
+
+THE SPI BOARD RESOLVES THAT
+
+1. SPI will charge all project donations and conference sponsorships a 5%
+   administrative fee, as is SPI's current practice. The fee is calculated
+   and collected before the transaction costs (such as wire transfer fees).
+
+2. SPI will not charge the fee on transfer of existing funds.
+
+3. SPI will not charge the fee twice, such when a project sells an asset purchased
+   with the project funds.
+
+4. When non-cash donations are made, such as securities or goods, the fee will be
+   charged at the fair market value of the asset. If the fair market value increase,
+   SPI will also collect the fee over the increase.
+
+5. If the collection of the fee for any reason would cause the project balance to
+   go negative, the collection may be postponed or waived by SPI.
+
+6. SPI may, at its sole discretion, waive the fee. Such waiver shall not affect
+   SPI's capabilities to resume the fee collection in the future.
+
+7. Interest over unspent project cash will be collected to the General Fund, however
+   dividends over securities owned by projects will instead be subject to the fee.
+
+8. Donation of materials and services ("in kind donation") directly related to SPI
+   goals and mission and which are not meant to be sold will not be subject to the fee.
+
+9. Omissions and questions in this resolution shall be decided by the treasurer
+   and the president (or vice president) of SPI.
+
+This resolution supersedes resolution 2020-06-22.mcs.1
+</pre>
+
+### Resolution 2023-12-11.js.1: POCO as an associated project
+
+<pre>
+WHEREAS
+
+1. C++ Portable Components (POCO) is a substantial and significant
+   free/libre open source software project providing libraries used
+   in the creation of other software projects and included in
+   popular distributions.
+
+2. POCO's developers would like SPI's support and assistance,
+   including accepting donations, holding funds, paying for project
+   expenses, signing contracts, and legal assistance.
+
+THE SPI BOARD RESOLVES THAT
+
+3. POCO is formally invited to become an SPI Associated Project,
+   according to the SPI Framework for Associated Projects, SPI
+   Resolution 1998-11-16.iwj.1-amended-2004-08-10.iwj.1, a copy of
+   which can be found at
+   https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/
+
+4. Aleksandar Fabijanic is recognised by SPI as the authoritative
+   decision maker and SPI liaison for POCO. Successors will be
+   appointed by by the outgoing liaison or, failing that, by the
+   members of POCO's Technical Steering Committee.
+
+5. If the last known SPI liaison for POCO is unreachable and no new
+   SPI liaison is appointed for two consecutive years, the
+   associated project is deemed defunct.
+
+6. In such a circumstance, the SPI Board will, in its good-faith
+   discretion, proceed as follows: the Board will identify one or
+   more other SPI associated projects or 501(c)(3) charities which
+   can accept the project's assets and use them for a similar
+   purpose, and transfer the assets to the identified destination or
+   destinations as feasible. Assets for which no such transfer can
+   be arranged within a reasonable time will become part of the SPI
+   general fund.
+
+7. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board.
+</pre>

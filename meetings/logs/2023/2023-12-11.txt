@@ -1,0 +1,236 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> .
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2023/2023-12-11/
+20:00 < schultmc> .
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < jconway> Joe Conway
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < schultmc> .
+20:00 < milan> Milan Kupcevic
+20:00 < schultmc> Michael Schultheiss
+20:01 < zumbi> Héctor Orón Martínez
+20:01 -!- alex____ [~oftc-webi@c-76-138-79-46.hsd1.tn.comcast.net] has joined #spi
+20:01 < schultmc> jesusalva: ping
+20:01 < jesusalva> Jonatas L. Nogueira
+20:01 < schultmc> zv: ping
+20:01 < schultmc> That's quorum - we can continue, others can join as they're able
+20:02 < alex____> Alex Fabijanic
+20:02 < fsf> Forrest Fleming
+20:02 < schultmc> alex____: please /msg zv
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> Martin, Héctor and I worked with our auditor to get our 2022
+20:02 < schultmc> financial statements audited. The 2022 audited financial statements
+20:02 < schultmc> are available at https://www.spi-inc.org/treasurer/2022-financial-statements.pdf
+20:02 < schultmc> We also with the auditing firm on filing our New York State and Federal annual filings. 
+20:02 < schultmc> The federal filing has been submitted and accepted and we are finalizing the filing
+20:02 < schultmc> of the New York State 2022 filing. New York State informed us of a technical issue
+20:02 < schultmc> with the filing of our 2021 New York State filing which has been successfully
+20:02 < schultmc> resolved.
+20:02 < schultmc> .
+20:02 < schultmc> I am working with our broker at Merrill Lynch to establish the recommended
+20:02 < schultmc> investment strategy we discussed at the last in person meeting. They drafted new 
+20:02 < schultmc> paperwork for myself and Stephen Frost to sign and we should have
+20:02 < schultmc> that paperwork signed and submitted shortly.
+20:02 < schultmc> .
+20:02 < zv> hi
+20:02 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:02 < schultmc> .
+20:03 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:03 < zv> Zach van Rijn
+20:03 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:03 < schultmc> contractors and legal counsel.
+20:03 < schultmc> .
+20:03 < schultmc> </done>
+20:03 < zv> schultmc: no regrets
+20:03 < schultmc> iirc Snow-Man said last month he may be travelling today and thus was a tentative regret
+20:03 < schultmc> regardless, 8/9 of us are here
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi?
+20:04 < schultmc> .
+20:04 < zumbi> yep - allow me a minute
+20:05 < zumbi> Payments are being processed, there has been a big backlog as few conferences have been asking for reimb
+20:05 < zumbi> ursements. There are pending payments for BRL and INR, but it should be paid before end of year.
+20:05 < zumbi> Treasurer reports have been out now, apologies for the delays, https://www.spi-inc.org/treasurer/reports/, big thanks to tbm.
+20:05 < zumbi> SPI is setting up Debian reimbursement system and it should be usable (for test) starting next year. We'
+20:05 < zumbi> ll keep you updated.
+20:05 < zumbi> .
+20:06 < schultmc> [item 5, Secretary's report]
+20:06 < schultmc> zv?
+20:06 < zv> If you receive an email from me about your Conflict of Interest form,
+20:06 < zv> please address it as soon as possible.
+20:06 < zv> .
+20:06 < zv> I am hoping to have more clarity on a face-to-face meeting soon.
+20:06 < zv> .
+20:06 < zv> Please try to be concise when proposing items for the Agenda.
+20:06 < zv> (done)
+20:06 < schultmc> [item 6, Outstanding minutes]
+20:06 < schultmc> The minutes for the 2023-11-13 meeting require approval.
+20:06 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2023/2023-11-13/
+20:07 < fsf> Voting started, 8 people (schultmc,fungi,jconway,zv,milan,jesusalva,fsf,zumbi) allowed to vote on Meeting minutes for Monday 13 November 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:07 < schultmc> !abstain
+20:07 < zv> !vote yes
+20:07 < jconway> !vote yes
+20:07 < zv> schultmc: need bang vote
+20:07 < schultmc> !vote abstain
+20:07 < milan> !vote yes
+20:07 < fungi> !vote yes
+20:07 < jesusalva> !vote yes
+20:07 < fsf> !vote abstain
+20:08 < fsf> Current voting results for "Meeting minutes for Monday 13 November 2023": Yes: 5, No: 0, Abstain: 2, Missing: 1 ( zumbi )
+20:08 < fsf> Voting for "Meeting minutes for Monday 13 November 2023" closed.
+20:08 < zumbi> !vote yes
+20:08 < zv> I will amend that
+20:08 < fsf> Thanks zumbi, sorry about that, I miscounted before closing
+20:08 < schultmc> [item 7, Items up for discussion]
+20:08 < schultmc> [item 7.1] SPI Administrative Overhead Fee Resolution
+20:08 < schultmc> jesusalva?
+20:08 < schultmc> .
+20:09 < jesusalva> The copy of the resolution is on https://www.spi-inc.org/meetings/agendas/2023/2023-12-11/ and was forwarded to spi-projects list earlier. It pretty much sums up SPI current practices regarding the 5% fee SPI charges to projects.
+20:09 < jesusalva> Thanks to tbm for helping in finding out SPI current practices to fill that one out
+20:10 < schultmc> I'm glad to see our procedures being formalized
+20:11 < jesusalva> Note: There are some controversial points being discussed in spi-general where the membership believes SPI can adopt better practices regarding how interest is handled. The resolution may reflect SPI current practices, but it is not to prevent SPI from changing them later.
+20:12 < jesusalva> </dine>
+20:12  * jesusalva meant done, but dine does make me hungry.
+20:13 < fsf> Shall we vote, or is this simply a notification of a resolution for future vote?
+20:13 < jesusalva> For vote
+20:13 < jesusalva> The resolution is complete
+20:14 < fsf> Voting started, 8 people (schultmc,fungi,jconway,zv,milan,jesusalva,fsf,zumbi) allowed to vote on Adopt SPI Administrative Overhead Fee Resolution. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:14 < schultmc> !vote yes
+20:14 < fungi> !vote yes
+20:14 < jesusalva> !vote yes
+20:14 < milan> !vote yes
+20:14 < fsf> !vote yes
+20:14  * zumbi allow me to read resolution
+20:14 < zv> !vote yes
+20:14 < jconway> !vote yes
+20:15 < zumbi> !vote yes
+20:15 < fsf> Current voting results for "Adopt SPI Administrative Overhead Fee Resolution": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:15 < fsf> Voting for "Adopt SPI Administrative Overhead Fee Resolution" closed.
+20:16 < schultmc> [item 7.2] NTPSEC/ARDC refund of grants
+20:16 < schultmc> jesusalva?
+20:16 < schultmc> .
+20:17 < jesusalva> MarkAtwood said it was fine to go ahead with the reimbursement, if you give me a couple minutes I can look the email to quote
+20:17 < jesusalva> err refund *
+20:17 < jesusalva> "Hello, people from ARDC and SPI: As the project manager of the NTPsec project, I agree, the money donated by ARDC to the NTPsec Project under the SPI should be returned to the ARDC."
+20:18 < jesusalva> Therefore, given there are no longer any objections regarding SPI obligation to return the fund, we would like to proceed with the reimbursement.
+20:18 < jesusalva> * refund
+20:18 < jesusalva> </done>
+20:19 < schultmc> Glad to see agreement was reached on that.
+20:19 < schultmc> [item 7.3] C++ Portable Components (POO) as an associated proejct
+20:19 < schultmc> jesusalva?
+20:19 < schultmc> .
+20:19 < jesusalva> This one is fungi
+20:19 < zv> POCO*
+20:19 < schultmc> apologies for the confusion
+20:19 < fungi> POCO is not currently a legal entity, but is comprised of many contributors, some volunteer and some employed by for-profit ecosystem companies which build commercial products based on or extending POCO. It has a Technical Steering Committee currently consisting of the two earliest contributors (one of whom, Aleksandar Fabijanic, has been identified as POCO's initial SPI liaison).
+20:19 < fungi> Since 2004, the POCO project has developed open source (BOOST license) C++ based libraries for network programming, XML (and later JSON) processing, database access, and other solutions essential for modern applications. It is packaged and incorperated into popular GNU/Linux distributions, including those represented by SPI (Arch Linux and Debian).
+20:19 < schultmc> sorry - i hand typed that :)
+20:19 < fungi> The POCO Web site is at https://pocoproject.org/ and POCO contributors maintain Git repositories at https://github.com/pocoproject .
+20:20 < fsf> The resolution is available at https://www.spi-inc.org/meetings/agendas/2023/2023-12-11/
+20:20 < fungi> thanks, was just typing that ;)
+20:20 < fsf> Voting started, 8 people (schultmc,fungi,jconway,zv,milan,jesusalva,fsf,zumbi) allowed to vote on Accept C++ Portable Components (POCO) as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:20 < zv> !vote yes
+20:20 < schultmc> !vote yes
+20:20 < fsf> !vote yes
+20:20 < jesusalva> !vote yes
+20:20 < jconway> !vote yes
+20:20 < fungi> !vote yes
+20:20 < milan> !vote yes
+20:20 < zumbi> !vote yes
+20:21 < fsf> Current voting results for "Accept C++ Portable Components (POCO) as an associated project": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:21 < fsf> Voting for "Accept C++ Portable Components (POCO) as an associated project" closed.
+20:21 < schultmc> [item 8, Any other business]
+20:21 < schultmc> Anything to discuss?
+20:21 < zumbi> F2F meeting
+20:21 < zumbi> any progress? dates?
+20:21 < zv> The important part we'd need to agree on is a country, first, since visas do complicate the situation.
+20:22  * jesusalva suggests Portugal
+20:22 < zumbi> Portugal or NYC could be
+20:22 < fungi> nyc is a country now? i guess it might as well be ;)
+20:22 < zumbi> NYC, USA :)
+20:22 < jesusalva> I suggest portugal because all countries in https://www.spi-inc.org/corporate/board/ are in Schengen Zone free-entry list, so it does not require Visas.
+20:23 < jesusalva> But if we need stuff signed by treasurer, NYC or Indianopolis were usually chosen
+20:23 < jesusalva> (So the F2F could also get banks sorted out thus reducing SPI overall costs with travel expenses)
+20:23 < zumbi> usually being at NYC is convenient if we need to do banking stuff... but I think we can move on without that, so Portugal could be an option
+20:24  * fungi will rely on jesusalva for portuguese translations
+20:24 < schultmc> we had an in person treasurer sprint in Indianapolis where we handled all signature needs. I'm not aware of any outstanding bank signatures needed
+20:25 < zv> How about I take the action item here and send a list of possible cities, estimate their costs (travel + hotels + conference venue), and send to board@?
+20:25 < jconway> +1
+20:25 < schultmc> sounds like a plan
+20:26 < zv> I want some help with drafting an agenda.
+20:26 < jesusalva> LGTM
+20:26 < jconway> approximate dates would help too
+20:26 < zumbi> zv, in Portugal and NYC I can probably help to get free venue
+20:26 < zumbi> dates would be helpful for me
+20:27 < fsf> +1 zv
+20:27 < zv> zumbi: thanks, maybe good to send me a list of cities that you think are worth looking into?
+20:27 < zv> all: please send me any countries that you cannot get to
+20:27 < zumbi> Lisbon and NYC
+20:27 < zv> other than that I have nothing more on the subject.
+20:28 < jesusalva> I have other stuff to ask but on this subject I also have nothing else to say
+20:28 < zv> is there a hard budget that I should be considering?
+20:28 < zv> can talk with Treasurer offline about that
+20:28 < zumbi> should we invite contractors, like tbm? we are likely to hold treasurer sprint few days before F2F
+20:29 < zv> seems reasonable to me
+20:29 < jesusalva> ...Last I checked, we finally managed to "get out of" the deficit trend from the pandemic years, so I don't expect much issues budget-wise
+20:29 < jesusalva> Still, check with zumbi on this
+20:30 < zumbi> keeping reasonable prices for flights and hotels should be all fine
+20:30 < jesusalva> As for contractors, I'm not sure as how many expenses we can pay for them ─ but given its nature I'm not expecting restrictions on this.
+20:30 < zumbi> plus Q1 is usually cheaper than travelling in Q2-Q3
+20:32 < zumbi> I think we can move on to the next topic - if any
+20:32 < jesusalva> I have
+20:32 < jesusalva> Question 1/3: Is SPI Board fine with making grants? Prior to this year we never made one before, but given we are receiving multiple requests for them and their risks are different from usual operations, I want to be sure everyone on board is OK with them. See also https://rt.spi-inc.org/Ticket/Display.html?id=7026
+20:32 < jesusalva> I just want to make sure I won't put work on this and then find out we're not fine with grants :P
+20:32 < jesusalva> As I'm not paid for the time I invest in SPI :P
+20:33 < jesusalva> If no one has any objection on this, then my actual point was about OFTC, as said a couple hours before the meeting.
+20:33 < zumbi> I am not a fan of grants, but it can be helpful to solve some urgent/extreme cases... so I'd not do them as normal operations, but something to consider (maybe vote for it) in special cases.
+20:34 < zv> broadly I am not OK with grants except on case-by-case agreements
+20:34 < zumbi> grants as in transferring funds to other organizations I was thinking... 
+20:34 < schultmc> I agree with zumbi. For special cases I'm fine with them but in general funds donated to SPI should be used for SPI rather than other organizations
+20:36 < zumbi> re OFTC, what was the question?
+20:37 < zv> 15:26 < jesusalva-bot> <Jesusaves> zumbi: Due to the change in the domain billing policy, OFTC balance went to the red. Should we add this to today's meeting other discussions?
+20:37 < zv> 15:26 < tbm> I was going to email OFTC tomorrow
+20:37 < jesusalva> OFTC is not under the Associated Project Framework ─ its resolution predates that and was never updated, see https://www.spi-inc.org/corporate/resolutions/2002/2002-07-02.iwj.5/ 
+20:38 < jesusalva> Due to exact wording, and also taking in account OFTC does not actively collect donations, I believe SPI should not charge the oftc.net domain.
+20:38 < zumbi> I am fine SPI to cover OFTC expense... which is less than $100
+20:38 < jesusalva> (And yes, that ^)
+20:40 < zv> jesusalva: questions 2 and 3?
+20:40 < jesusalva> That's question 2
+20:40 < zv> ok, and 3?
+20:40 < jesusalva> Although I guess it is kinda of a vote?
+20:41 < jesusalva> Ah, about OpenVAS ─ they're still not in the red, but at current rate they'll get in the red in Q1/2024
+20:41 < jesusalva> Would prefer to have tbm inform them now
+20:41 < zumbi> +1
+20:41 < schultmc> iirc OpenVAS disassociated years ago unless I'm misremembering
+20:41 < jesusalva> schultmc: They did, in 2006
+20:41 < jesusalva> And re-associated in 2007
+20:41 < jesusalva> seven months later
+20:42 < schultmc> ah
+20:42 < jesusalva> Another reason why making sure to preempt them
+20:42 < schultmc> IIRC Greenbone reabsorbed OpenVAS more recently but I may be misremembering
+20:43 < schultmc> wouldn't hurt to reach out to them regardless
+20:43 < jesusalva> Yeah, and if they no longer wish SPI association, it can also be resolved without SPI suffering any loss :)
+20:43 < jesusalva> (...even if it would be a small one)
+20:45 < schultmc> yes, I found an email from 2018 - I'll forward it to the board for review
+20:45 < jesusalva> That would be all, I don't think 7026 can be resolved without a grant so I would also want to know with officers/board would be fine with this specific ticket, although, this probably should be discussed in the ticket itself?
+20:46 < jesusalva> From my side, I have nothing else which I can remember
+20:46 < schultmc> [item 9, Next board meeting]
+20:46 < schultmc> The next board meeting is scheduled for: January 8, 2024 at 2000 UTC.
+20:46 < schultmc> Any objections?
+20:46 < zv> none
+20:46 < schultmc> Works for me
+20:46 < fungi> none for me
+20:46 < jconway> wfm
+20:47 < jesusalva> I don't know if it'll coincide with my travel but I don't expect a regret
+20:47 < jesusalva> (i.e. I expect to be able to attend)
+20:47 < zumbi> fine for me too
+20:47 < milan> Will travel. 
+20:47 < schultmc> *GAVEL*
