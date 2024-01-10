@@ -149,32 +149,34 @@ SPI Reimbursement Request
 
         <h2>SPI Reimbursement Form</h2>
 
+        <form>
         <table>
-            <tr> <td>Date</td>                <td><input type="text" maxlength="120" id="date"></td>                           </tr>
-            <tr> <td>Project</td>             <td><select id="project"><option selected value="--">--</option></select></td>   </tr>
-            <tr> <td>Name</td>                <td><input type="text" maxlength="120" id="name"></td>                           </tr>
-            <tr> <td>Email</td>              <td><input type="text" maxlength="120" id="email"></td>                           </tr>
-            <tr> <td>Address</td>             <td><input type="text" maxlength="120" id="address1"></td>                       </tr>
-            <tr> <td>Address (cont)</td>      <td><input type="text" maxlength="120" id="address2"></td>                       </tr>
-            <tr> <td>City</td>                <td><input type="text" maxlength="100" id="city"></td>                           </tr>
-            <tr> <td>State</td>               <td><input type="text" maxlength="30" id="state"></td>                           </tr>
-            <tr> <td>Postal Code</td>         <td><input type="text" maxlength="20" id="postal_code"></td>                     </tr>
-            <tr> <td>Country</td>             <td><input type="text" maxlength="100" id="country"></td>                        </tr>
-            <tr> <td>Currency</td>            <td><select id="currency"></select></td>                                         </tr>
-            <tr> <td>Amount</td>              <td><input type="text" maxlength="100" id="amount"></td>                         </tr>
-            <tr> <td>Bank Name</td>           <td><input type="text" maxlength="100" id="bank"></td>                           </tr>
-            <tr> <td>Account Number</td>      <td><input type="text" maxlength="100" id="account"></td>                        </tr>
-            <tr> <td>IBAN</td>                <td><input type="text" maxlength="100" id="IBAN"></td>                           </tr>
-            <tr> <td>Bank Branch Number</td>  <td><input type="text" maxlength="100" id="BSB"></td>                            </tr>
-            <tr> <td>SWIFT/BIC Code</td>      <td><input type="text" maxlength="100" id="swift"></td>                          </tr>
-            <tr> <td>Bank Address</td>        <td><input type="text" maxlength="100" id="bank_address1"></td>                  </tr>
-            <tr> <td>Bank Address (cont)</td> <td><input type="text" maxlength="100" id="bank_address2"></td>                  </tr>
-            <tr> <td>City</td>                <td><input type="text" maxlength="100" id="bank_city"></td>                      </tr>
-            <tr> <td>State</td>               <td><input type="text" maxlength="100" id="bank_state"></td>                     </tr>
-            <tr> <td>Postal Code</td>         <td><input type="text" maxlength="100" id="bank_postal_code"></td>               </tr>
-            <tr> <td>Country</td>             <td><input type="text" maxlength="100" id="bank_country"></td>                   </tr>
+            <tr><td><label for="date">Date</label></td><td><input type="text" maxlength="120" id="date"></td> </tr>
+            <tr><td><label for="project">Project</label></td><td><select id="project"><option selected value="--">--</option></select></td>   </tr>
+            <tr><td><label for="name">Name</label></td><td><input type="text" maxlength="120" id="name"></td>                           </tr>
+            <tr><td><label for="email">Email</label></td><td><input type="text" maxlength="120" id="email"></td>                           </tr>
+            <tr><td><label for="address1">Address</label></td><td><input type="text" maxlength="120" id="address1"></td>                       </tr>
+            <tr><td><label for="address2">Address (cont)</label></td><td><input type="text" maxlength="120" id="address2"></td>                       </tr>
+            <tr><td><label for="city">City</label></td><td><input type="text" maxlength="100" id="city"></td>                           </tr>
+            <tr><td><label for="state">State</label></td><td><input type="text" maxlength="30" id="state"></td>                           </tr>
+            <tr><td><label for="postal_code">Postal Code</label></td><td><input type="text" maxlength="20" id="postal_code"></td>                     </tr>
+            <tr><td><label for="country">Country</label></td><td><input type="text" maxlength="100" id="country"></td>                        </tr>
+            <tr><td><label for="currency">Currency</label></td><td><select id="currency"></select></td>                                         </tr>
+            <tr><td><label for="amount">Amount</label></td><td><input type="text" maxlength="100" id="amount"></td>                         </tr>
+            <tr><td><label for="bank">Bank Name</label></td><td><input type="text" maxlength="100" id="bank"></td>                           </tr>
+            <tr><td><label for="account">Account Number</label></td><td><input type="text" maxlength="100" id="account"></td>                        </tr>
+            <tr><td><label for="IBAN">IBAN</label></td><td><input type="text" maxlength="100" id="IBAN"></td>                           </tr>
+            <tr><td><label for="BSB">Bank Branch Number</label></td><td><input type="text" maxlength="100" id="BSB"></td>                            </tr>
+            <tr><td><label for="swift">SWIFT/BIC Code</label></td><td><input type="text" maxlength="100" id="swift"></td>                          </tr>
+            <tr><td><label for="bank_address1">Bank Address</label></td><td><input type="text" maxlength="100" id="bank_address1"></td>                  </tr>
+            <tr><td><label for="bank_address2">Bank Address (cont)</label></td><td><input type="text" maxlength="100" id="bank_address2"></td>                  </tr>
+            <tr><td><label for="bank_city">City</label></td><td><input type="text" maxlength="100" id="bank_city"></td>                      </tr>
+            <tr><td><label for="bank_state">State</label></td><td><input type="text" maxlength="100" id="bank_state"></td>                     </tr>
+            <tr><td><label for="bank_postal_code">Postal Code</label></td><td><input type="text" maxlength="100" id="bank_postal_code"></td>               </tr>
+            <tr><td><label for="bank_country">Country</label></td><td><input type="text" maxlength="100" id="bank_country"></td>                   </tr>
         </table>
         <p><input type="Submit" value="Generate PDF" onclick="generate_PDF();"></p>
+        </form>
         <!-- (ABA routing number, BACS, CHAPS, Sort Code, Transit Number, BSB, etc.) -->
 
         <!-- javascript processing -->
