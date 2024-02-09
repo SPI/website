@@ -1,0 +1,234 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> .
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < zumbi> \o
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-01-08/
+20:00 < schultmc> .
+20:00 < jconway> o/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < jconway> Joe Conway
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < fungi> Jeremy Stanley
+20:00 < milan> Milan Kupcevic
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < schultmc> .
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> Michael Schultheiss
+20:00 < zv> no regrets
+20:00 < fsf> Forrest Fleming
+20:00 < schultmc> Snow-Man did mention earlier today he was unavailable
+20:00 < jesusalva> Jonatas L. Nogueira
+20:01 < schultmc> So that's everyone available today
+20:01 < zv> technically that is < 24 hours notice
+20:01 < zv> I don't know how much we want to be strict about that
+20:01 < schultmc> iirc last meeting he did mention he may not be available
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> I am working with our broker at Merrill Lynch to establish the recommended
+20:01 < schultmc> investment strategy we discussed at the last in person meeting. They drafted new 
+20:01 < schultmc> paperwork for myself and Stephen Frost to sign and we should have
+20:01 < schultmc> that paperwork signed and submitted shortly.
+20:01 < schultmc> .
+20:01 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> </done>
+20:02 < schultmc> [item 4, Treasurer's Report]
+20:02 < schultmc> zumbi?
+20:02 < zumbi> Most 2023 payments were processed and we are working towards closing 2023 books, thanks tbm.
+20:02 < zumbi> New reimbursement system is now deployed in SPI infrastructure, thanks Perdu and we are starting its evaluation.
+20:02 < zumbi> .
+20:03 < schultmc> [item 5, Secretary's report]
+20:03 < schultmc> zv?
+20:03 < zv> I am catching up on Secretarial duties regarding an in-person
+20:03 < zv> meeting and ensuring CoI forms are current and done correctly.
+20:03 < zv> .
+20:03 < zv> No other news or updates.
+20:03 < zv> .
+20:03 < zv> Please reach out if I may be of assistance in any way.
+20:03 < zv> (done)
+20:03 < jesusalva> schultmc: But Snow-Man wasn't present in last meeting? He may have sent the regret earlier in some other way, though, zv would need to check
+20:04 < fsf> I don't think we need to index too much on whether something is marked as 'regretted' or not :)
+20:04 < schultmc> jesusalva: ah - I must be misremembering
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The minutes for the 2023-12-11 meeting require approval.
+20:04 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2023/2023-12-11/
+20:04 < fsf> Voting started, 8 people (fsf,fungi,jesusalva,jconway,milan,schultmc,zv,zumbi) allowed to vote on Meeting minutes for Monday December 11, 2023. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:04 < fungi> !vote yes
+20:04 < jesusalva> !vote yes
+20:04 < schultmc> !vote yes
+20:04 < jconway> !vote yes
+20:05 < zv> !vote yes
+20:05 < zumbi> !vote yes
+20:05 < milan> !vote yes
+20:05 < fsf> !vote yes
+20:05 < fsf> Current voting results for "Meeting minutes for Monday December 11, 2023": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:05 < fsf> Voting for "Meeting minutes for Monday December 11, 2023" closed.
+20:05 < schultmc> [item 7, Items up for discussion]
+20:05 < schultmc> [item 7.1] Phone system
+20:05 < schultmc> Perdu?
+20:06 < Perdu> As said just before the meeting, you answered most questions in the tickets
+20:06 < Perdu> 2 remain
+20:06 < zumbi> jesusalva: I vaguely remember Stephen arrived late to the last meeting and mentioned he might be away this meeting... I have not checked meeting minute logs, it should be there
+20:06 < Perdu> - can a director review the ToS for voips.ms? https://voip.ms/terms-of-service
+20:06 < Perdu> - What's SPI official number (i.e. the one I should put for instance as domain contact for domains)? Is this the treasurer one?
+20:06  * schultmc read through the terms and didn't see anything glaringly bad
+20:06 < jesusalva> fsf: https://www.spi-inc.org/corporate/resolutions/2006/2006-08-07.dbg.2.iwj.1/ ─ regrets allow twice the absences than not marking as a regret do. It doesn't need to be sorted out right now, though. (A year allows 2 absences without regrets, or 4 with regrets)
+20:07 < jesusalva> zv: It's not https://www.spi-inc.org/meetings/logs/2023/2023-12-11.txt he might have came after the gavel tho
+20:07 < jesusalva> But if he did then it still counts
+20:07 < schultmc> the only active number is the treasurer one
+20:07 < zumbi> gvoice one?
+20:07 < schultmc> we can either use that or obtain a new one for non-treasurer use
+20:07 < schultmc> but voip.ms also has usage requirements
+20:07 < zumbi> we do not really track phone calls on that one
+20:08 < schultmc> the treasurer one is used frequently, the non-treasurer one is rarely utilized thus subject to cancellation for non-use
+20:08 < zumbi> I was suggested some other phone service I had in my backlog to check on https://grasshopper.com/
+20:08 < zv> personal recommendation, anveo.com
+20:09 < schultmc> I've used grasshopper in other capacities
+20:09  * jesusalva doesn't uses phone for telephoning, so no comments here
+20:09 < schultmc> fwiw, the only time I've needed to answer incoming calls for SPI was for Dun & Bradstreet verification
+20:09 < zumbi> It was recommended to me as it was good for multiple users using the same line
+20:09 < schultmc> that was a very complicated process due to difficulty in updating official phone numbers with D&B
+20:10 < schultmc> so whatever solution we use should have the ability to forward calls as needed
+20:11 < zumbi> I am fine if we use treasurer phone for now
+20:11 < zumbi> .. it is certainly not used a lot for phone calls
+20:12 < schultmc> treasurer team's primary need is shared incoming SMS 
+20:12 < schultmc> secondary is incoming phone calls (rarely used)
+20:12 < zumbi> .. but if we need non treasurer access, it is probably worth investigating new number
+20:12 < schultmc> +1
+20:13 < Perdu> So, should I compare the different providers? Or just stick with voips.ms (which was mentioned in a previous meeting - not sure if it was a decision or not)
+20:13 < jesusalva> I don't believe it was
+20:13 < jesusalva> It is not in the minutes either
+20:14 < zumbi> We need to come up with required needs then check which platform fullfil the most
+20:14 < Perdu> There was no official vote at least
+20:14 < jesusalva> No wait
+20:14 < jesusalva> "Individual board members have had good success with https://voip.ms; board members are generally in agreement that a paid provider with service level agreements (SLAs), etc. is the appropriate path forward."
+20:15 < Perdu> 20:21 < schultmc> Seems like there's consensus - I'll ask tbm to obtain a quote
+20:15 < jesusalva> "To prevent similar issues in the future, SPI will investigate a paid VOIP provider"
+20:15 < jesusalva> Perdu: I advise to use the minutes in preference to logs, because minutes are later voted, confirming them
+20:15 < jesusalva> So while there was no vote on this specifically, the minute as a whole mentioning that was voted
+20:15 < zumbi> - for example, we need multiple users to be able to access the phone line or call forwarding to multiple users, etc..
+20:16 < schultmc> Seems like a feature comparison would be prudent
+20:16 < jesusalva> Also, Perdu, once minute is released the logs lose their power ─ https://www.spi-inc.org/corporate/resolutions/2004/2004-05-28.dbg.1.iwj.1/
+20:17 < Perdu> Oh I see
+20:18 < Perdu> So, how and when will required needs be decided and redacted?
+20:18 < Perdu> This has been on hold for a while, having a clear process would help
+20:18 < schultmc> The shared SMS is needed by the treasury team almost daily
+20:19 < schultmc> incoming calls are needed <1 time per year usually but could potentially be used more often
+20:19 < schultmc> separate phone number for non-treasury use would be prudent given the need to limit access to treasury info
+20:20 < schultmc> although we need to not hit expiry for non usage quotas
+20:20 < Perdu> There's no need to move the treasurer number from google phone, is there?
+20:20 < schultmc> porting it to a paid provider would help protect it from future deletion by Google
+20:20 < schultmc> Google does sunset technologies on occasion
+20:22 < Perdu> Also mentioned earlier: ability to forward call to multiple users
+20:22 < Perdu> Alright, I'll use this list of criteria to compare provider and send result to board@
+20:22 < Perdu> providers
+20:22 < Perdu> *
+20:22 < schultmc> Thank you
+20:23 < schultmc> [item 8, Any other business]
+20:23 < schultmc> Anything to discuss?
+20:23 < jesusalva> Yes
+20:24 < jesusalva> The financial audit is upon us again, and there's still discussion pending if we'll rotate auditing firm or not
+20:25 < zumbi> can you give more context on why we should rotate auditing firm?
+20:25 < zv> there was a general guideline to rotate at least every 4 years iirc
+20:26 < jesusalva> I was corrected, IRS uses 5 years in their guidelines, and we probably should observe their guideline I think
+20:26 < jconway> +1
+20:26 < zv> jesusalva: didn't you say this would be year 6?
+20:26 < jesusalva> zv: Yes, given their first completed audit was 2018
+20:26 < jesusalva> So 2023 report will or would be the sixth
+20:27 < jesusalva> We're not required to rotate, but we should if we want to follow best practices.
+20:27 < zumbi> do we have quotes from other firms?
+20:27 < zv> how much notice would a firm need to have before we can reasonably commit to changing firms?
+20:28 < schultmc> Availability to file the extension by 2024-05-15 and complete the audit and tax filings by 2024-11-15
+20:28 < zumbi> current one asks us every year if we want to go ahead and send us a quote. I think this needs no notice.
+20:29 -!- milan [~milan@000268e7.user.oftc.net] has quit [Remote host closed the connection]
+20:29 < jesusalva> I don't believe we asked tbm to get quotes from others, so we probably don't have
+20:29 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:30 < jesusalva> PS. I also have no opposition to staying with current one if we others are more expensive or cannot meet the deadlines
+20:30 < fungi> i agree with what was suggested in the e-mail thread, that this might be tight timing for picking a new auditing firm for fy2023, so i'd be okay with focusing on what we should do for the fy2024 audit well in advance and proceed with the current relationship for fy2023
+20:30 < zv> +1
+20:30 -!- milan [~milan@000268e7.user.oftc.net] has quit [Remote host closed the connection]
+20:31 < zumbi> my personal opinion is that we should check with tbm, ask current firm to fo 2023 and start looking for new firm to do 2024
+20:31 < jesusalva> Well, I'm the one who gave that suggestion, so I obviously +1 it as well :)
+20:31 < jconway> +1
+20:31 < zumbi> s/fo/do
+20:31 < fsf> +1
+20:32 < zv> anything else for Other Business?
+20:32 < jesusalva> I think zumbi wanted to say about website?
+20:32 < schultmc> tbm's contract is up for renewal as of 2024-01-01 - does anyone have any objection to asking him if he'd like to continue contracting with us?
+20:32 < fungi> no objection from me
+20:32 < jesusalva> I think we should take advantage of the communication commitee and see if we have CM interested in maintaining SPI digital presence, this would help fungi in making sure we're not forgotten
+20:32 < zumbi> +1 on asking tmb
+20:32 < jconway> any further thoughts/plans for face-to-face board meeting?
+20:33 < jesusalva> No objections on me regarding tbm renewal
+20:33 < zv> no objection for contract
+20:33 < jconway> no objection
+20:33 < zv> I'd ask for f2f meeting comments to be emailed to me if they aren't concise/immediate for this meeting
+20:33 < jesusalva> Right now, our only social presence is a Twitter account unmaintained since 2017, and the annual report we publish
+20:34 < jesusalva> And as I said earlier, that's usually the sort of stuff easier to resolve through a f2f...
+20:34 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:35 < zv> question from Secretary: are there other core responsibilities that I should be picking up that I am not aware of within SPI? is anyone picking up Secretary slack in ways I might not be aware?
+20:35 < zumbi> There is an old ticket to refurbish website and logo, maybe check on social media renewals for owners too... I was planning to ask for quotes to local web design company - which I engaged with them about year ago or so. This is not high priority, but asking directors if they are fine to start on getting quotes for such purpose.
+20:36 < jesusalva> I still feel refurbishing the website has risks on maintainability or to scare some of our users if it relies on JavaScript (as we actually do cater to JS-free people)
+20:37 < jesusalva> (and forcing our members to use JavaScript would not be a nice thing to do :P)
+20:37 < zumbi> note this is design only, we keep same technology
+20:37 < zv> a modern static site generator could be worth looking into if maintainability is a concern, independent of design
+20:37 < zumbi> essentially, updating the CSS
+20:38 < jesusalva> Most web designers I know jump straight to adding JavaScript stuff. If you know better ones, I will not oppose, although we feel we lack a bit in content
+20:38 < zv> jesusalva: that subject is probably premature
+20:38 < zumbi> new logo does not need JS :)
+20:38 < zv> content is relevant imo
+20:38 -!- danvet_ [~Daniel@2a02:168:57f4:0:efd0:b9e5:5ae6:c2fa] has quit [Ping timeout: 480 seconds]
+20:38 < jesusalva> s/we feel/I feel/
+20:39 < jesusalva> Our logo is kinda ugly, but given we barely have digital presence, it doesn't really matter? I feel fungi would have better opinions
+20:39 < jesusalva> As fungi is currently doing outreach to others like OSI
+20:39 < zumbi> We could do an open call to the community as a contest or something, but we have failed to do that for years now
+20:40 < zv> zumbi: clarify "failed" in this context? failed to do it, or failed to obtain satisfactory results?
+20:40 < zumbi> jesusalva: it'd be good to change our digital presence, that's one step on that direction
+20:40 < zumbi> zv: failed to do it
+20:40 < zv> ack
+20:40 < fungi> eh, i mean, i have some familiarity with the web stacks used by some other open source foundations for their sites, but i don't think our interactions with other foundations necessitate refreshing our site design
+20:40 < zumbi> RT#2564
+20:41 < zv> I feel brand and reputation are worth further discussion, a separate meeting, or a topic for f2f, to have honest/candid conversations
+20:41 < fungi> i do agree that the look of the site could stand to be "jazzed up" a little, and that's totally doable with static html, no browser-side scripts needed
+20:42 < fungi> but i think our web presence, and any presence on social media for that matter, is somewhat tangential to establishing relationships with other organizations/foundations
+20:42 < jesusalva> I did said these stuff are easier to resolve in a F2F, didn't I? :p
+20:42 < zumbi> .. but the question is if we should gather a quote
+20:43 < fsf>  Sorry folks, I need to run. I have nothing pressing to add
+20:43 < zv> imo table that until we have more clarity on our needs
+20:43 < zv> (that == quote)
+20:44 < fungi> seeking quotes/tenders for that work seems fine to me if we agree it needs doing, it's the sort of thing our general fund is there to cover
+20:44 < zumbi> zv: I assume you have seen this is tabled since 2018 per https://rt.spi-inc.org/Ticket/Display.html?id=2564
+20:44 < jesusalva> I feel we're discussing more if it needs doing now or anytime soon than if it needs to be done at all
+20:46 < jesusalva> zumbi: That was a whole two terms ago :)
+20:46 < jesusalva> Only schultmc from then remains, iirc
+20:46 < zumbi> fsf and myself too
+20:46 < zv> zumbi: ok, so broadly we agree on a possible visual overhaul, but perhaps more thought is needed for content, possible campaigns, etc
+20:47 < jesusalva> For those without RT access i.e. members: https://www.spi-inc.org/meetings/minutes/2018/2018-10-05-f2f-new-york/ item 1:40
+20:47 < schultmc> Discussing this at the f2f seems like a good option
+20:47 < zumbi> what I am suggesting is to do the basic stuff, logo and few images, then we can move from there, we can discuss more at F2FF
+20:47 < zv> while not as important for existing relationships, our website is the first impression for prospective projects
+20:48 < zv> seeking quotes for a cursory redesign is OK with me, then, if we can discuss a larger overhaul f2f or in the future
+20:48 < jesusalva> +1
+20:48 < schultmc> Anything else to discuss?
+20:49 < jesusalva> Hopefully not
+20:49 < schultmc> [item 9, Next board meeting]
+20:49 < schultmc> The next board meeting is scheduled for: February 12, 2024 at 2000 UTC.
+20:49 < schultmc> Any objections?
+20:49 < zumbi> None
+20:49 < schultmc> wfm
+20:49 < jconway> none
+20:49 < jesusalva> Tentative regret
+20:49 < fungi> sounds goof to me, i'll be available
+20:49 < fungi> s/goof/good/ too
+20:49 < zv> +1
+20:49 < milan> none here
+20:49 < schultmc> *GAVEL*
