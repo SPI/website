@@ -1,0 +1,155 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> .
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00  * jesusalva yawns
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-04-08/
+20:00 < schultmc> .
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < milan> Milan Kupcevic
+20:00 < jconway> Joe Conway
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < fsf> Forrest Fleming
+20:00 < jesusalva> Jonatas L Nogueira
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < schultmc> .
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < Snow-Man> Stephen Frost
+20:00 < schultmc> .
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> Michael Schultheiss
+20:00 < zumbi> .
+20:00 < jesusalva> zv sent his own regret
+20:00 < schultmc> ok
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> I am working with our broker at Merrill Lynch to establish the recommended
+20:01 < schultmc> investment strategy we discussed at the last in person meeting. They drafted new 
+20:01 < schultmc> paperwork for myself and Stephen Frost to sign and we should have
+20:01 < schultmc> that paperwork signed and submitted shortly.
+20:01 < schultmc> .
+20:01 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> </done>
+20:01 < schultmc> .
+20:01 < schultmc> Snow-Man: do you have anything to add?
+20:01 < Snow-Man> No, not really, thanks.
+20:02 < schultmc> [item 4, Treasurer's Report]
+20:02 < schultmc> zumbi?
+20:02 < schultmc> .
+20:02 < zumbi> I'm pleased to report that the payment queue backlog has been cleared! This means all outstanding invoices and reimbursements have been processed.
+20:02 < zumbi> The treasury team is currently finalizing the financial reports for the past months. Thanks Martin for the work (tbm).
+20:02 < zumbi> Significant progress has been made on improving the online reimbursement system. While the core functionality of the new reimbursement system is complete, further testing is necessary before a full launch.
+20:02 < zumbi> Please don't hesitate to contact me if you have any questions or require further information.
+20:02 < zumbi> .
+20:03 < schultmc> [item 5, Secretary's report]
+20:03 < schultmc> zv is unavailable. AIUI, planning for the treasurer/board f2f meeting is in progress.
+20:03 < schultmc> [item 6, Outstanding minutes]
+20:03 < schultmc> The minutes for the 2024-03-11 meeting require approval.
+20:03 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2024/2024-03-11/
+20:03 < fsf> Voting started, 8 people (fsf,fungi,jconway,jesusalva,milan,schultmc,snow-man,zumbi) allowed to vote on Meeting minutes for Monday 11 March, 2024. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:03 < jesusalva> Do you want me to transcribe zv's report?
+20:03 < Snow-Man> !vote abstain
+20:03 < schultmc> jesusalva: sure - you can post it after the vote
+20:03 < schultmc> !vote yes
+20:03 < jconway> !vote yes
+20:03 < jesusalva> Okay
+20:03 < zumbi> !vote yes
+20:03 < fsf> !vote yes
+20:03 < fungi> !vote yes
+20:03 < jesusalva> !vote yes
+20:03 < milan> !vote yes
+20:04 < fsf> Current voting results for "Meeting minutes for Monday 11 March, 2024": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:04 < fsf> Voting for "Meeting minutes for Monday 11 March, 2024" closed.
+20:04 < jesusalva> «Thanks to all who have submitted their renewed Conflict of Interest forms. Please get those to me ASAP if you have not done so this year.
+20:04 < jesusalva> Details of possible face-to-face meeting options will be sent by email within the next few days.»
+20:05 < schultmc> [item 7, Items up for discussion]
+20:05 < schultmc> Nothing on agenda
+20:05 < schultmc> .
+20:05 < schultmc> [item 8, Any other business]
+20:05 < schultmc> Anything to discuss?
+20:06 < zumbi> Nothing from my side
+20:06 < jesusalva> I sent everyone on board earlier two proposals about an additional contractor for SPI
+20:06 < jesusalva> While I expect to conclude this on the F2F meeting, I want to know if I can speed up any of the proposals.
+20:07 < fungi> what next steps would you speed up?
+20:07 < jesusalva> For instance, the second proposal would need to check with the attorney while the first proposal is simple enough to only need to be put into a more formal term
+20:08 < jesusalva> (i.e. a SOW template)
+20:08 < Snow-Man> I can't see us hiring on someone salaried ...
+20:08 < jesusalva> My impression from the mail replies is that it would be fine to proceed with drafting the SOW for the first proposal, and discuss it during the F2F (assuming it happens in a timely manner?)
+20:08 < fsf> Quick, probably already-answered question: are we sure that another contractor is a better decision than upping the current folks' hours?
+20:09 < jesusalva> I'm not sure ─ tbm, are you around? Can you answer?
+20:09 < fungi> have we capped theor hours?
+20:09 < fungi> er, their
+20:09 < Snow-Man> I don't know that we have, but we should update the contract if we are changing their remit.
+20:09 < schultmc> our contract agreement has a soft limit but they can request additional hours
+20:10 < fsf> Mostly I want to make sure that the "no thanks, get someone else" is coming from tbm's side and generally get clarity around that. I have no objections to however that works out, though. I do have objections to the idea of a salaried position that I've already articulated on-list - no need to bring 'em up here :)
+20:10 < Snow-Man> Changes to the SOW to allow them to do more would almost certainly be reasonable, if it's something they could do and have the bandwidth for.
+20:11 < jesusalva> Do you want me to discuss this with tbm and prepare whatever document is required for that or the first proposal (or both) for the next F2F (if it happens in a timely manner)?
+20:11 < Snow-Man> jesusalva: I'd put that to you- you're the one arguing that you're spending more time than you committed to.
+20:11 < fsf> Sounds good to me - thanks!
+20:12 < Snow-Man> Why not pick whatever makes sense and is most likely to be the least effort on your part and do that, rather than offering to do more that probably won't be needed?
+20:12 < jesusalva> Alright, then I'll continue discussing with tbm and show a more final proposal for the F2F (assuming both happen in a timely manner, else the email will have to do). Do I have clearance to ask attorney if some question arise?
+20:13 < jesusalva> (I also thank for the input everyone sent on the email chain and will take those in consideration)
+20:13 < zumbi> I'd like to suggest online meeting for discussing this topic might help speeding up the final decision.
+20:14 < schultmc> +1
+20:14 < Snow-Man> jesusalva: I'm fine with asking the attorney if you really think something needs to go to them ... but I can't see right now why there would be anything in this that would unless you're suggesting tbm be given signing authority or something, which I'd be against...
+20:15 < jesusalva> Sounds fine, I also want to see if we can improve SPI response time on other day-to-day tasks like signing contracts which are taking much longer than expected
+20:16 < zumbi> I do not think tbm is interested on taking up this role.
+20:16 < jesusalva> Yes, tbm also stated he had no interest in taking the second proposal for himself
+20:16 < Snow-Man> we aren't talking about that tho ...
+20:17 < jesusalva> I'm assuming we have no issues in further discussing the first proposal, right?
+20:17 < fungi> to reframe, the question is whether tbm would be interested in taking on additional time-consuming tasks like those jesusalva has been performing, as i see it
+20:18 < fungi> and whether the soft cap on billable hours is what's preventing that from happening now
+20:18 < Snow-Man> Or if the contract needs adjustment to the tasking
+20:18 < Snow-Man> (or both)
+20:18 < fungi> makes sense
+20:19 < jesusalva> Yes, and if that's not the case and tbm is simply too busy, to prepare a contract for an additional hand to handle these additional tasks and discuss it on the F2F or a virtual meeting later
+20:19 < jesusalva> (Well... In any case we'll discuss this later, this is mostly to not waste effort and make sure we're all on the same page)
+20:19 < fungi> that sounds like a fine high-level sequence to me
+20:20 < Snow-Man> +1
+20:20 < zumbi> I think tbm is fustrated and demotivated with the time it takes SPI to reply to questions and/or sign some kind of contracts. He does not want to take on that, but decrease the reply timing
+20:21 < fungi> so i suppose a related agenda item for the face-to-face would be possible ways to further speed up officer feedback/signature processes?
+20:21 < jesusalva> (I mean, tbm is the one who originally suggested getting an extra pair of hands to SPI contractors)
+20:22 < jesusalva> fungi: My original proposal for that, is having the officers actively signing these day-to-day contracts (president, vice president, maybe treasurer/secretary) choose a day of the week each (e.g. Tuesdays)
+20:22 < jesusalva> Then on the day they chose, the go through RT looking for a label (e.g. "checked")
+20:23 < fungi> is it specifically questions that need responses from officers which are the source of frustration, or also tasks which can be performed by non-officer board members?
+20:23 < jesusalva> For things which all diligences have been made and only need signing.
+20:23 < schultmc> I can certainly dedicate a specific day for more SPI work.
+20:24 < zumbi> we could do rotations
+20:24 < jesusalva> Ideally, we should have someone to do the diligences (like collecting the contracts, and forwarding to legal counsel when relevant) so the officer is not overburdened
+20:25 < jesusalva> (This does not remove the need of the officer to read what they're signing beforehand, obviously)
+20:27 < jesusalva> Another thing which may be related... Ticket 6552 (Steamworks) ─ only officers have access to the account. It's mostly technical things to do, and this been stale for months. Either because no one knows how to, or because no one knows who will handle it.
+20:27 < jesusalva> I expect that the proposal will prevent such situations as outlined above from happening in the future
+20:28 < jesusalva> (It's still stale in case anyone is wondering)
+20:29 < zumbi> jesusalva: could you collect those kind of issues in a shared document? Those are time consuming as well, at least if you are not up to speed with it
+20:29 < jesusalva> zumbi: I've been mostly classifying them in the board rt queue, but outstanding there is that + 7287
+20:30 < jesusalva> About 7287... I'll need to ask our accountant
+20:30 < jesusalva> If you could send me the contact or add them to the ticket it would help, as the question affects how SPI currently reports its assets.
+20:30 < jesusalva> It's the transfer of "Wesnoth" trademark
+20:30  * jesusalva is supposed to have asked this a week ago but RL got in the way
+20:32 < jesusalva> By the way, that's ^ also the last thing I planned to ask in today's meeting
+20:33 < jesusalva> zumbi: If you prefer, we can set up something like Trello for that (GitLab actually has something very similar which we can use, and avoid one more service)
+20:34 < zumbi> I personally like gdocs
+20:34 < schultmc> We use kanban boards to track projects at work (and past employers did too). They're often helpful to track progress better than email/RT
+20:35 < jesusalva> I think https://gitlab.com/spi-inc/board-private/-/boards is roughly what GitLab offers us
+20:35 < jesusalva> Or.. something like that, I kinda made up that URL just now
+20:35 < jesusalva> Hopefully that doesn't 404
+20:35 < jesusalva> But Trello, Kanban, and that are all the same purpose
+20:36 < schultmc> Atlassian changed the limits on their free trello tier - using gitlab may be more featureful
+20:37 < schultmc> Anyway, can we move on from AOB or are their more discussions?
+20:37 < jesusalva> I'll add about adding a better way to track these tasks to the TODO we are/were discussing and report both together.
+20:37 < fungi> i had no aob topics
+20:37 < schultmc> [item 9, Next board meeting]
+20:37 < schultmc> The next board meeting is scheduled for: May 13, 2024 at 2000 UTC.
+20:37 < schultmc> Any objections?
+20:37 < schultmc> Works for me
+20:37 < jconway> wfm
+20:37 < milan> Works for me
+20:38 < jesusalva> None here
+20:38 < schultmc> *GAVEL*
