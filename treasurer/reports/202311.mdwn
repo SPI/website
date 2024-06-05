@@ -12,7 +12,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
- 420759.73 USD  451585.89 USD  -30826.16 USD  Assets
+ 420958.73 USD  451585.89 USD  -30627.16 USD  Assets
      63.17 USD              0      63.17 USD    Ameriprise Cash Mgmt Acct
  100010.00 USD   71483.86 USD   28526.14 USD    Bank of America Business Advantage Checking
    2941.63 USD              0    2941.63 USD    Chase Performance Business Checking
@@ -25,7 +25,7 @@ This is a *draft*.
   25854.97 USD  100000.00 USD  -74145.03 USD    Merrill Lynch EMA
    3164.52 USD    1345.57 USD    1818.95 USD    PaypalDebian
    3206.45 USD    1672.06 USD    1534.39 USD    PaypalSPI
-  41381.73 USD   50095.99 USD   -8714.26 USD    Receivable
+  41580.73 USD   50095.99 USD   -8515.26 USD    Receivable
  120249.94 USD  120249.94 USD              0    Transfers
   61684.39 USD   49011.41 USD   12672.98 USD    Wise
   61664.39 USD   49011.41 USD   12652.98 USD      Business
@@ -50,15 +50,15 @@ This is a *draft*.
     734.64 USD              0     734.64 USD      Accommodation
      24.03 USD              0      24.03 USD      Dining
    8669.19 USD              0    8669.19 USD      Transportation
-   2190.25 USD   70671.75 USD  -68481.50 USD  Income
+   2190.25 USD   70870.75 USD  -68680.50 USD  Income
              0      70.97 USD     -70.97 USD    Currency-Gain
     195.67 USD              0     195.67 USD    Currency-Loss
-   1994.58 USD   44682.22 USD  -42687.64 USD    Donations
+   1994.58 USD   44881.22 USD  -42886.64 USD    Donations
              0    5639.75 USD   -5639.75 USD    Interest
              0   20278.81 USD  -20278.81 USD    Unrealized-Gain
  155116.86 USD  141186.19 USD   13930.67 USD  Liabilities:Payable
 --------------------------------------------
- 663461.68 USD  663461.68 USD              0
+ 663660.68 USD  663660.68 USD              0
 </pre>
 
 ### Year to date, ending 2023-12-01
@@ -66,7 +66,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
-9183393.70 USD 6251575.24 USD 2931818.46 USD  Assets
+9183592.70 USD 6251575.24 USD 2932017.46 USD  Assets
              0  121992.76 USD -121992.76 USD    Accumulated-Depreciation
   14645.77 USD              0   14645.77 USD    Ameriprise Cash Mgmt Acct
  173640.39 USD  107300.84 USD   66339.55 USD    Bank of America Business Advantage Checking
@@ -82,7 +82,7 @@ This is a *draft*.
 2580243.76 USD  115845.42 USD 2464398.34 USD    Merrill Lynch EMA
   36419.82 USD   34507.17 USD    1912.65 USD    PaypalDebian
   53759.18 USD   51990.01 USD    1769.17 USD    PaypalSPI
- 304958.86 USD  284226.62 USD   20732.24 USD    Receivable
+ 305157.86 USD  284226.62 USD   20931.24 USD    Receivable
 2577999.84 USD 2577999.84 USD              0    Transfers
  139680.25 USD   97687.31 USD   41992.94 USD    Wise
  139660.25 USD   97687.31 USD   41972.94 USD      Business
@@ -118,18 +118,18 @@ This is a *draft*.
   13715.27 USD              0   13715.27 USD      Accommodation
     726.23 USD              0     726.23 USD      Dining
   77646.46 USD              0   77646.46 USD      Transportation
-  34097.19 USD  474293.66 USD -440196.47 USD  Income
+  34097.19 USD  474492.66 USD -440395.47 USD  Income
     363.50 USD    7269.58 USD   -6906.08 USD    Conferences:Registrations
              0     691.89 USD    -691.89 USD    Currency-Gain
    3210.17 USD              0    3210.17 USD    Currency-Loss
-  14678.10 USD  338277.55 USD -323599.45 USD    Donations
+  14678.10 USD  338476.55 USD -323798.45 USD    Donations
              0   63840.36 USD  -63840.36 USD    Interest
              0     900.00 USD    -900.00 USD    Sponsorship
              0   63314.28 USD  -63314.28 USD    Unrealized-Gain
   15845.42 USD              0   15845.42 USD    Unrealized-Loss
  765932.82 USD  818559.52 USD  -52626.70 USD  Liabilities:Payable
 --------------------------------------------
-10518962.22 USD 10518962.22 USD              0
+10519161.22 USD 10519161.22 USD              0
 </pre>
 
 ## Per project summaries
@@ -403,13 +403,13 @@ shown as a positive amount.
    9200.00 USD              0   -9200.00 USD      Services
    2128.50 USD              0   -2128.50 USD    Legal
      52.70 USD              0     -52.70 USD    Office:Postal
-     99.44 USD   30710.55 USD   30611.11 USD  Income
+     99.44 USD   30909.55 USD   30810.11 USD  Income
      99.44 USD              0     -99.44 USD    Currency-Loss
-             0    4791.99 USD    4791.99 USD    Donations
+             0    4990.99 USD    4990.99 USD    Donations
              0    5639.75 USD    5639.75 USD    Interest
              0   20278.81 USD   20278.81 USD    Unrealized-Gain
 --------------------------------------------
-  22073.11 USD   30710.57 USD    8637.46 USD
+  22073.11 USD   30909.57 USD    8836.46 USD
 
 </pre>
 
@@ -1022,15 +1022,15 @@ shown as a positive amount.
     923.15 USD              0    -923.15 USD      Postal
     211.42 USD              0    -211.42 USD      Supplies
     434.94 USD              0    -434.94 USD    Travel:Transportation
-  16202.23 USD  176207.23 USD  160005.00 USD  Income
+  16202.23 USD  176406.23 USD  160204.00 USD  Income
              0     374.33 USD     374.33 USD    Currency-Gain
     301.81 USD              0    -301.81 USD    Currency-Loss
-     55.00 USD   48678.26 USD   48623.26 USD    Donations
+     55.00 USD   48877.26 USD   48822.26 USD    Donations
              0   63840.36 USD   63840.36 USD    Interest
              0   63314.28 USD   63314.28 USD    Unrealized-Gain
   15845.42 USD              0  -15845.42 USD    Unrealized-Loss
 --------------------------------------------
- 126129.75 USD  558308.22 USD  432178.47 USD
+ 126129.75 USD  558507.22 USD  432377.47 USD
 
 </pre>
 
