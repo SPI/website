@@ -1,0 +1,113 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> .
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-05-13/
+20:00 < schultmc> .
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < milan> Milan Kupcevic
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < Snow-Man> Stephen Frost
+20:00 < jconway> Joe Conway
+20:00 < schultmc> .
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> zv, do we have any regrets?
+20:01 < zv> Zach van Rijn
+20:01 < schultmc> Michael Schultheiss
+20:01 -!- anthraxx [~anthraxx@static.5.92.251.148.clients.your-server.de] has joined #spi
+20:01 < zv> regrets, one,
+20:01 < zv> jesusalva: who was it? I don't have access to my computer at the moment
+20:01 < jesusalva> Hector
+20:01 < zv> thanks
+20:02 < jesusalva> zv: Do you want me to transcribe the treasurer report on his stead?
+20:02 < zv> please.
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:02 < schultmc> .
+20:02 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:02 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:02 < schultmc> contractors and legal counsel.
+20:02 < schultmc> .
+20:02 < schultmc> </done>
+20:02 < schultmc> .
+20:02 < schultmc> Snow-Man: do you have anything to add?
+20:02 < Snow-Man> No, nothing at this time.
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> zumbi is unavailable. The treasurer team is continuing to process requests.
+20:03 < jesusalva> We have cleared most of the account payable treasurer queue tickets in RT.
+20:03 < jesusalva> Collected last month statements and hoping to update treasurer reports soon, while we are
+20:03 < jesusalva> mostly focused on providing needed information to the auditor for last year's audit.
+20:03 < jesusalva> Congrats to FFmpeg for joining STF program and finally contract has been signed today.
+20:03 < jesusalva> .
+20:03 < jesusalva> </done>
+20:03 < jesusalva> We have cleared most of the account payable treasurer queue tickets in RT.
+20:03 < jesusalva> Collected last month statements and hoping to update treasurer reports soon, while we are
+20:03 < jesusalva> mostly focused on providing needed information to the auditor for last year's audit.
+20:03 < jesusalva> Congrats to FFmpeg for joining STF program and finally contract has been signed today.
+20:03 < jesusalva> .
+20:03 < jesusalva> </done>
+20:03 < jesusalva> (Why did it went twice?)
+20:03 < schultmc> [item 5, Secretary's report]
+20:03 < zv> Please, submit your Conflict of Interest forms if you have not done so this year. This needs to be done ASAP. I will send follow-up emails to remind specific individual(s).
+20:03 < zv> I had previously promised a follow-up email with details and options relating to a face-to-face meeting. Due to unexpected personal matters, I was not able to send this out as planned. I will try to have this out today.
+20:03 < schultmc> zv?
+20:03 < zv> .
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The minutes for the 2024-04-08 meeting require approval.
+20:04 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2024/2024-04-08/
+20:06 < schultmc> fsf isn't here to run the bot - we can collect votes manually
+20:06 < fsf> Sorry to be late - one sec and I can run it. Or if you don't wanna wait for me to scroll back that's OK too!
+20:06 < fsf> I'm multitasking a work meeting, and did not do a good job of it
+20:06 < zv> (fsf,fungi,jconway,jesusalva,milan,schultmc,snow-man) allowed to vote on Meeting minutes for Monday 8 April, 2024. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:06 < schultmc> !vote yes
+20:06 < jconway> !vote yes
+20:06 < jesusalva> !vote yes
+20:06 < zv> is that list correct?
+20:06 < fungi> !vote yes
+20:06 < zv> !vote yes
+20:06 < Snow-Man> !vote yes
+20:07 < milan> !vote yes
+20:07 < fsf> !vote yes
+20:07 < fsf> for posterity/roll-call: my name is Forrest Fleming
+20:07 < zv> fsf: thanks
+20:07 < zv> I am also allowed to vote in that, will amend
+20:07 < schultmc> zv: missing yourself, otherwise correct
+20:07 < zv> Voting closed, 7 yes, 0 no, 0 abstain
+20:08 < zv> 8 yes**
+20:08 < schultmc> [item 7, Items up for discussion]
+20:08 < schultmc> Nothing on agenda
+20:08 < schultmc> .
+20:08 < schultmc> [item 8, Any other business]
+20:08 < schultmc> Anything to discuss?
+20:09 < jesusalva> I've set up https://gitlab.com/spi-inc/board-private/-/boards/7478563 as promised to track some stuff and try to help keep things more orderly; not all of them have RT
+20:10 < jesusalva> (I also wrote a Limnoria plugin for SPI meetings because I was bored, there currently is no plan to use that but just to let SPI aware it now exists)
+20:10 < jesusalva> (It's in my personal repo but let me know if I should move it to SPI's repository instead)
+20:11 < fungi> fwiw, there is a meetbot plugin already which handles voting and recording of minutes
+20:11 < jesusalva> Yeah and that plugin does the same XD was surprised how little time it takes to write such thing
+20:11 < fungi> came from debian, but we're using an updated fork of it for openinfra communities
+20:11 < jesusalva> Anyway. That's surprisingly all; most stuff seems to be more or less going as expected.
+20:11 < jesusalva> (At least from side that's all)
+20:12 < jesusalva> fungi: I am of mind of having a bot for meetings, be it meetbot or limnoria, could help with issues like logs not getting uploaded in time or voting bot being offline
+20:12 < jesusalva> But that is better discussed in a F2F meeting
+20:13 < jesusalva> The only important AOB from me was the gitlab board (link sent earlier), feel free to give a look on it
+20:14 < jesusalva> See how it feels, if it is worth maintaining or expanding or changing or even if it is a bad idea overall.
+20:14 < jesusalva> I'll keep seeing if I can come up with more ideas to hopefully improve SPI overall efficiency.
+20:14  * jesusalva is done
+20:15 < schultmc> Anything else?
+20:15 < schultmc> Nothing further from me
+20:15 < milan> none here
+20:15 < jconway> nothing here
+20:15 < fungi> i have nothing
+20:15 < schultmc> [item 9, Next board meeting]
+20:15 < schultmc> The next board meeting is scheduled for: June 10, 2024 at 2000 UTC.
+20:15 < schultmc> Any objections?
+20:15 < zv> no objections
+20:15 < schultmc> Works for me
+20:15 < milan> works for me
+20:16 < jconway> wfm
+20:16 < jesusalva> wfm
+20:16 < schultmc> *GAVEL*
