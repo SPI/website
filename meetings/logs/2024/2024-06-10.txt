@@ -1,0 +1,154 @@
+(no *GAVEL* -- zv)
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-06-10/
+20:00 < schultmc> .
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < zv> Zach van Rijn
+20:00 < jconway> Joe Conway
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < schultmc> .
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < zv> no regrets today
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < milan> Milan Kupcevic
+20:01 -!- WildX [~Wilpy@2a00:23c7:dc90:af01:3d82:be3f:cc69:61d] has joined #spi
+20:01 < schultmc> That's quorum - we can move on and others can join if they're available
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> Thank you to SPI Director Jonatas L. Nogueira for helping track outstanding tasks.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < zumbi> Hector Oron Martinez
+20:01 < schultmc> </done>
+20:02 < schultmc> [item 4, Treasurer's Report]
+20:02 < schultmc> zumbi?
+20:02 < zumbi> one sec
+20:03 < zumbi> A lot of effort to finalize auditor requested data, so they can proceed with audit for 2023. SPI is now available as a fiscal sponsor option at GitHub, coordinated with sysadmin on transferring several Debian domains to SPI, released monthly reports, coordinated with associated projects about best practices to process payments for events, then there are pending payments which we plan to clear as soon as some 
+20:03 < zumbi> of the treasurer accounts are rebalanced, in one or two weeks the queue should be clear. If you have any other urgent matter, please do not hesitate to reach out. Thanks to all members supporting treasurer activities.
+20:03 < zumbi> .
+20:03 < fsf> Sorry for the delay : Forrest Fleming
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> zv?
+20:04 < zv> Any remaining Board members who have not submitted an up-to-date
+20:04 < zv> Conflict of Interest form will receive a direct email after this
+20:04 < zv> meeting requesting as much. Thanks for your prompt cooperation!
+20:04 < zv> .
+20:04 < zv> Face-to-Face meeting proposals will be sent to board@ imminently.
+20:04 < zv> </>
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The minutes for the 2024-05-13 meeting require approval.
+20:04 < schultmc> They are available at https://www.spi-inc.org/meetings/minutes/2024/2024-05-13/
+20:05 < fsf> ]/vote_start Meeting minutes for Monday 2024-05-13:schultmc,zv,jconway,fsf,jesusalva,fungi,milan,zumbi
+20:05 < zv> Voting started for Meeting minutes for Monday 2024-05-13; vote with !vote $choice..
+20:05 < milan> !vote yes
+20:05 < jconway> !vote yes
+20:05 < fsf> Voting started, 8 people (schultmc,zv,jconway,fsf,jesusalva,fungi,milan,zumbi) allowed to vote on Meeting minutes for Monday 2024-05-13. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:05 < fungi> !vote yes
+20:05 < zv> !vote yes
+20:05 < schultmc> !vote yes
+20:05 < zumbi> !vote abstaim
+20:05 < jesusalva> !vote yes
+20:05 < jconway> !vote yes
+20:05 < fsf> !vote yes
+20:05 < zumbi> !vote abstain
+20:05 < milan> !vote yes
+20:06 < fsf> Current voting results for "Meeting minutes for Monday 2024-05-13": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+20:06 < fsf> Voting for "Meeting minutes for Monday 2024-05-13" closed.
+20:06 < schultmc> [item 7, Items up for discussion]
+20:06 < schultmc> Nothing on agenda
+20:06 < schultmc> .
+20:06 < schultmc> [item 8, Any other business]
+20:06 < schultmc> Anything to discuss?
+20:06 < jesusalva> Yes, a few AOB for today's meeting. Six items from my side, lettered from A to F.
+20:06 < jesusalva> A. MPI Forum group wants to know SPI policy for conference proceedings (if SPI strictly require open proceedings) as they're being overcharged for making open proceedings. The details are all on email or https://gitlab.com/spi-inc/board-private/-/issues/16
+20:06 < jesusalva> * I don't know how to answer them. Help explicitly requested.
+20:07 < zv> jesusalva: for posterity, please copy each point here, since Debian Paste links do expire.
+20:07 < zv> thanks
+20:08 < jesusalva> No problem zv. Now hoping someone present can answer this question D:
+20:08 < schultmc> I don't know if we have a specific policy on procedings but as a general rule we would likely lean towards open procedings.
+20:08 < jesusalva> See the link if you want MPI's exact words
+20:08 < schultmc> MPI Forum and other industry groups are likely different from other conferences our associated projects hold
+20:10 < schultmc> I would say open procedings are strongly preferred but wouldn't want to create a policy that causes undue financial hardship for an associated project.
+20:11 < schultmc> Perhaps there could be a future date where the procedings are made open at a reduced rate?
+20:11 < fungi> i think the main concern is that acm is reselling the proceedings for profit, which means the charitable donations paying for the conference are indirectly creating a product for resale, but in theory it also does provide some benefit to the project and the organization profiting off the proceedings is more of a side effect of that
+20:13 < fungi> if the primary goal of funding the conference is to produce these (for profit) proceedings then that's a problem, if it's just a secondary artifact offsetting the cost of holding the conference then it's less concerning
+20:13 < jesusalva> So to answer them that it is strongly preferred, and if they can find open proceedings at a reasonable price they should do so, but if it can't be done at all, then SPI won't put any undue financial burden on them ─ they may go ahead with closed proceedings?
+20:13 < schultmc> https://www.springernature.com/gp/open-research/funding does mention organizations that help with funding procedings
+20:14 < schultmc> jesusalva: that seems reasonable to me. The issue mentions doubling the cost of attendance to pay the open procedings fee
+20:14 < schultmc> that seems excessive
+20:14 < zv> can we (SPI) budget to fund/support projects who pursue open proceedings? vote on each case by case?
+20:15 < fungi> jesusalva: also the middle-ground of "eventually open" proceedings, if such a thing exists
+20:15 < schultmc> zv: that's a potential solution
+20:16 < jesusalva> I think their conference is in September ─ I can also add that option to the message, suggesting them to ask for SPI to fund it on a future meeting (also include the agenda inclusion deadlines)
+20:16 < zv> jesusalva: i'd hold off making that suggestion yet, we'd want to discuss internally if/how that could work
+20:16 < fungi> i would be in favor of that possibility as well. open proceedings do provide a greater public benefit, after all
+20:18 < jesusalva> More like signaling that if they can afford to wait until July's AGM and don't find a suitable open proceeding option, we can discuss internally and vote during the AGM
+20:18 < jesusalva> i.e. July 14
+20:19 < jesusalva> (In case they have enough spare time in their deadline to we discuss this and it apply to them)
+20:20 < jesusalva> I don't think discussing this today, right now in AOB, would be prudent.
+20:20 < fungi> just a reminder, we're 20 minutes in and you had 4 more items for aob ;)
+20:20 < jesusalva> Yes, I'll go ahead then.
+20:20 < jesusalva> B. There is ticket 7349 about migrating some stuff to Stripe to reduce a bit the donation processing fees (about 0.15%). It currently seems stale, or at least, not updated. Do anyone on board knows well how to operate Stripe? This normally is something done during F2F meetings but we're too close to elections, so worth asking here.
+20:20 < jesusalva> * If 0.15% is not substantial enough and everyone is swapped with work, I can also remind about this again after July's AGM.
+20:21 < jesusalva> This one is non-urgent, it just been stale for a couple months and would be prudent to make sure it is not overlooked.
+20:21 < schultmc> I have some stripe experience but it's normally integrated with a shopping cart system, crm, etc, which SPI doesn't currently have
+20:21 < zv> that's $15 on a $10k transaction, which I feel is not worth the effort at the moment?
+20:22 < jconway> seems hardly worth it
+20:22 < jesusalva> Yes. schultmc: Do you want to look at ticket 7349 later? Not worth the effort at the moment, you just don't want to overlook it as fees do tend to stack up
+20:23 < schultmc> yes, I'll take a look but agree it doesn't seem worth the effort to rush it through
+20:23 < jesusalva> C. Books have been closed, but some questions remained to be sorted out: 1. Martin made a question a while ago (May 3rd) about SPI policy for lawyer fees - Snow-Man can you/did you answer? 2. Was ARDC refund already paid or was there any unexpected and unforeseen issue along the way? 3. Did Wesnoth receive their trademark donation receipt, and did the question regarding how to register it in the books got solved?
+20:23 < jesusalva> 1. is at https://gitlab.com/spi-inc/board-private/-/issues/15 ; and 2. is at https://gitlab.com/spi-inc/board-private/-/issues/2 while 3. is ticket 7287. Given the three points are yes/no questions, I put them in a single bullet point.
+20:24 < schultmc> ARDC refund is in progress - unforseen issues due to problems with bank systems. I should have the refund processed this week.
+20:24 < jesusalva> Snow-Man seems absent, so I'll ask him about the lawyer fees later
+20:26  * jesusalva is asking this in AOB exactly because after the audit, if SPI procedure is different from the one Martin informed, it'll not be really possible to apply retroactively
+20:26 < jesusalva> Incidentally, I think point 3 was taken by tbm, who also doesn't seem to be present. So I'll move on
+20:26 < schultmc> I don't think we have a defined procedure and would defer to the attorney or CPA for guidance.
+20:26 < jesusalva> D. Postgresql has some really specific question about how to reimburse their conference. It requires either the treasurer, or an officer with capacity to make payments, to answer. zumbi, will you remain dealing with this (or do you want to delegate, I know you're stretched thin)?
+20:27 < jesusalva> schultmc: Yes, the question was if "foreign lawyer" expenses are invoiced against project or SPI General Funds
+20:28 < jesusalva> Martin informed he was going to assign to General Funds and justified why. He asked Snow-Man and copied the board though, and I didn't saw any reply on it.
+20:29 < jesusalva> (So either Stephen replied and forgot to copy the board, or didn't reply at all :p )
+20:29 < zumbi> jesusalva, if someone takes it up is fine, otherwise I'll look it up when I get to it.
+20:31 < jesusalva> That's satisfactory to me. I'll keep going, I'm almost done.
+20:31 < jesusalva> E. Some of the projects which joined recently~ish have their own domains. Should we ask in spi-projects if they want to transfer the domains to SPI as well? I'm tracking this on https://gitlab.com/spi-inc/board-private/-/issues/8 as I know it is better to make as a batch than individually. I can coordinate with Perdu if this is desired.
+20:31 < jesusalva> * I thought that asking in spi-projects if any (other) project is interested would be a more optimal use of our time and limited resources. Perdu also volunteered to send the message.
+20:32 < zv> For context, the idea here is to batch any transfers to reduce the administrative burden on our end, not to proactively encourage projects to transfer domains.
+20:32 < zumbi> SPI offers the service upon request, why should we contact projects directly?
+20:32 < zumbi> ah! got it zv, thanks!
+20:33 < zv> I would let this be and have projects reach out to us directly if they want to do this. Jonatas is asking because at least one project was inquiring about how to transfer.
+20:33 < fungi> it could in theory apply to less recently added projects too, so a general reminder and a request for transfers by a certain date for ease of batching seems reasonable
+20:34 < jesusalva> Yes, pretty much.
+20:35 < jesusalva> So if another project(s) wants to do it, we can do all of them in one go rather than doing the same thing several times
+20:36 < jesusalva> If that's fine to go ahead, then I only have one last AOB point.
+20:38 < schultmc> sounds good to me
+20:38 < jesusalva> F. As discussed a few months ago, I also made a template for getting an additional contractor to aid with "board tasks" (in hopes to improve SPI efficiency). I don't expect elections to disrupt anything; the draft is currently with Martin and progressing steadly (albeit slowly). I shared with the board in case any one wants to comment later.
+20:38 < jesusalva> </done>
+20:40 < zumbi> Thanks
+20:41 < jesusalva> I have nothing else on AOB. Finally.
+20:41 < zv> going once..
+20:42 < zv> twice....
+20:42 < schultmc> [item 9, Next board meeting]
+20:42 < schultmc> The next board meeting is scheduled for: July 8, 2024 at 2000 UTC.
+20:42 < schultmc> Any objections?
+20:42 < jconway> nope
+20:42 < fungi> sounds good to me
+20:42 < jesusalva> July 8 or 14?
+20:42 < zv> 8?
+20:42 < jesusalva> Alright
+20:42 < fungi> 8 would be the second monday
+20:43 < jesusalva> None from me
+20:43 < milan> wfm
+20:43 < schultmc> 2nd monday is our standard meeting date. The bylaws say the AGM is held on the first day of July
+20:43 < schultmc> we've typically held the AGM at our normal July date iirc
+20:44 < jesusalva> Yes, using a rather odd device from the Bylaws, I'm aware
+20:44 < jesusalva> 8th wfm
+20:44 < schultmc> yet another bylaws quirk that should be resolved
+20:45 < schultmc> *GAVEL*
