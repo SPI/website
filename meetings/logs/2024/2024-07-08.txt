@@ -1,0 +1,123 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2023-07-08/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < milan> Milan Kupcevic
+20:00 < jconway> Joe Conway
+20:00 < schultmc> .
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < zv> oh, that may be a typo with the agenda URL?
+20:00 < zv> No formal regrets, but Stephen mentioned earlier today that he
+20:00 < zv> would not be able to make this meeting.
+20:00 < schultmc> .
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> Michael Schultheiss
+20:00 < fsf> Forrest Fleming
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> yes - sorry
+20:00 < schultmc> Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-07-08/
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> The July meeting of SPI is its Annual General Meeting. Thank you to
+20:01 < schultmc> Martin Michlmayr for compiling our Annual Report. 
+20:01 < schultmc> .
+20:01 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2022
+20:01 < schultmc> financial statements audited. We are also working with the auditing firm
+20:01 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:01 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:01 < schultmc> be completed by the November 15, 2024 deadline.
+20:01 < schultmc> .
+20:01 < schultmc> Thank you for all  of our officers and directors who have served SPI for the
+20:01 < schultmc> past several years. Best wishes to those officers and directors who are leaving
+20:01 < schultmc> the SPI board and welcome to all new and continuing directors.
+20:01 < schultmc> .
+20:01 < schultmc> Continued thanks to SPI Vice President, Stephen Frost, for handling contracting 
+20:01 < schultmc> with SPI's contractors. Stephen continues to do a fantastic job working with our 
+20:01 < schultmc> contractors and legal counsel.
+20:01 < schultmc> .
+20:01 < schultmc> </done>
+20:01 < schultmc> [item 4, Treasurer's Report]
+20:01 < schultmc> zumbi?
+20:02 < zumbi> There is work in progress coordinating with different sponsors for different events such DebConf, XDC, etc.
+20:02 < zumbi> There are pending payments in the queue, which should be addressed in the upcoming weeks.
+20:02 < zumbi> .
+20:02 < schultmc> The ARDC donation refund was completed a few weeks ago.
+20:02 < schultmc> [item 5, Secretary's report]
+20:02 < schultmc> zv?
+20:02 < zv> are these ^ both part of Treasurer report?
+20:03 < zumbi> yes
+20:03 < schultmc> zv: yes 
+20:03 < zv> This is the SPI Annual General Meeting. In accordance with
+20:03 < zv> Resolution 2004-08-10.dbg.2, we are launching an election for
+20:03 < zv> Board seats that are filled but will imminently become vacant.
+20:03 < zv> .
+20:03 < zv> Three (3) seats will become vacant this cycle.
+20:03 < zv> President, Vice President, and a Director position.
+20:03 < zv> .
+20:03 < zv> No one else has stepped down, so I am assuming everyone else is
+20:03 < zv> interested in continuing in their current role(s). Speak up...
+20:03 < zv> .
+20:03 < zv> No nominations have been received thus far, however I will send
+20:03 < zv> an announcement after this meeting soliciting nominations with a
+20:03 < zv> formalized timeline and details of how this election will be run.
+20:03 < zv> .
+20:03 < zv> I amended all of the 2024 minutes thus far, which all had a copy
+20:03 < zv> paste error stating imaginary dates in 2023.
+20:03 < zv> .
+20:03 < zv> Thank you to Martin Michlmayr for prioritizing the Annual Report
+20:03 < zv> and getting that published this morning. If any project have not
+20:03 < zv> yet, but wish to have their summaries included, I am sure tbm is
+20:03 < zv> flexible in this regard.
+20:03 < zv> .
+20:03 < zv> Please note that minutes have been updated just moments ago, such
+20:03 < zv> that the "Other Business" section from 2024-06-10 is now complete.
+20:03 < zv> No other notable changes were made.
+20:03 < zv> </>
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The minutes for the 2024-06-10 meeting require approval.
+20:04 < schultmc> They can be found at 
+20:04 < schultmc> https://www.spi-inc.org/meetings/minutes/2024/2024-06-10/ 
+20:04 -!- jesusalva [~jesusalva@000218ef.user.oftc.net] has quit [Quit: Good bye, may Jesus bless you.]
+20:06 < schultmc> I don't have the vote bot but can run the vote manually if needed
+20:07 < zv> Voting to approve 2024-06-10 meeting minutes started; allowed to vote: (milan,jconway,jesusalva,zumbi,fungi,schultmc,fsf,zv)
+20:07 < zumbi> !vote yes
+20:07 < schultmc> !vote yes
+20:07 < zv> vote with $choice as usual
+20:07 < jconway> !vote yes
+20:07 < fungi> !vote yes
+20:07 < milan> !vote yes
+20:07 -!- WildX [~Wilpy@2a00:23c7:dc90:af01:c839:dd51:d835:727b] has joined #spi
+20:07 < zv> !vote yes
+20:07 < zv> jesusalva-bot: ?
+20:07 < fsf> !vote yes
+20:08 < schultmc> jesusalva mentioned he was ill and had to leave
+20:08 < zv> ok.
+20:08 < fsf> apologies. I have the command ready to go and can run it if you like for a re-vote, or we can just ride with the manual vote
+20:08 < zv> voting closed, 6 yes, 0 no, 0 abstain, 1 absent.
+20:08 < schultmc> [item 7, Items up for discussion]
+20:08 < schultmc> none on agenda
+20:08 < schultmc> [item 8, Any other business]
+20:08 < schultmc> Anything to discuss?
+20:08 < zumbi> o/
+20:09 < zumbi> I have one topic
+20:09 < zv> (Jonatas had several things but I wanted to let him speak directly about them rather than put things on the agenda myself.)
+20:10 < zumbi> There are some contracts that need to be arranged with FFmpeg community and STF to be able to proceed with payments. Is there someone able to handle that? I assume this may need Snow-Man hand.
+20:12 < zumbi> .
+20:12 < zumbi> If no comments, I think we can move on
+20:12 < schultmc> I may be able to assist but Snow-Man has handled most of our contracts with counsels help
+20:12 < schultmc> [item 9, Next board meeting]
+20:12 < schultmc> The next board meeting is scheduled for: August 12, 2024 at 2000 UTC.
+20:12 < schultmc> Any objections?
+20:13 < schultmc> No objection from me
+20:13 < jconway> none here
+20:13 < milan> none here
+20:13 < zumbi> None
+20:13 < fungi> i have no objection, thanks
+20:13 < schultmc> *GAVEL*
