@@ -1,0 +1,223 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2024/2024-08-12/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < jesusalva> Jonatas L. Nogueira
+20:00 < schultmc> .
+20:00 < fungi> Jeremy Stanley
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < zumbi> Héctor Orón Martínez
+20:00 < schultmc> zv: ping
+20:01 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:01 < schultmc> milan: welcome - please state your name
+20:01 < milan> Milan Kupcevic
+20:02 < schultmc> As I understand it we may have 3 regrets but will be quorate if zv is available
+20:02 < zv> hi
+20:02 < zv> Zach van Rijn
+20:02 < zv> Regrets from .. (moment)
+20:02 < zv> Forrest, Joe, and Stephen.
+20:03 < schultmc> Thank you
+20:03 < schultmc> [item 3, President's Report]
+20:03 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2023
+20:03 < schultmc> financial statements audited. We are also working with the auditing firm
+20:03 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:03 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:03 < schultmc> be completed by the November 15, 2024 deadline.
+20:03 < schultmc> .
+20:03 < schultmc> </done>
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> zumbi?
+20:04 < zumbi> Processed pending payments in the queue, but still big amounts are pending.
+20:04 < zumbi> Signed some sponsorship contracts, DebConf and Debian intership.
+20:04 < zumbi> .
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> zv?
+20:04 < zv> The 2024 Board Election cycle is now complete and I am pleased to announce
+20:04 < zv> that the following members are appointed to the SPI board:
+20:04 < zv>   * Milan Kupcevic
+20:04 < zv>   * Katherine (Katie) McMillan
+20:04 < zv>   * Michael Schultheiss
+20:04 < zv>  
+20:04 < zv> Full results are available at:
+20:04 < zv> https://www.spi-inc.org/corporate/votes/2024-board-election/
+20:04 < zv> </>
+20:04 < zv> Katie, feel free to introduce yourself after the meeting.
+20:04 < zv> Welcome!
+20:06 < schultmc> zv: I updated the agenda since AIUI today's meeting should include officer elections - apologies if you meant for those to be held at an alternate time
+20:06 < zv> Thank you; we can proceed with that.
+20:07 < schultmc> [item 6, Outstanding minutes]
+20:07 < schultmc> The minutes for the 2024-07-08 meeting require approval.
+20:07 < schultmc> They can be found at 
+20:07 < schultmc> https://www.spi-inc.org/meetings/minutes/2024/2024-07-08/ 
+20:08 < zv> Voting started for 2024-07-08 minutes, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:09 < schultmc> !vote yes
+20:09 < milan> !vote yes
+20:09 < jesusalva> !vote abstain
+20:09 < fungi> !vote yes
+20:09 < zumbi> !vote yes
+20:09 < zv> !vote yes
+20:09 < zv> Vote closed. 5 yes, 1 abstain.
+20:10 < schultmc> [item 7, Items up for discussion]
+20:10 < schultmc> [item 7.1 The Mana World rebrand as Manasource]
+20:10 < schultmc> jesusalva?
+20:11 < jesusalva> Early in July, The Mana World Team (the directive body in charge of TMW project) decided to rename the group to better reflect they're doing multiple open source MMORPGs now
+20:11 < jesusalva> SPI has a single precedent for an associated project name change, namely https://www.spi-inc.org/corporate/resolutions/2010/2010-10-11.jmd.1/
+20:12 < jesusalva> While the reason is not contentious like in 2010, I feel no reason why SPI shouldn't update its records to reflect this fact.
+20:12 < jesusalva> </done>
+20:12 < jesusalva> Note: This change has no conflict with whereas 1 from https://www.spi-inc.org/corporate/resolutions/2014/2014-07-07.mzh.1/ ─ when they were admitted as an associated project.
+20:13 < fungi> i see no reason for concern
+20:13 < zv> As a personal side note, since SPI does not control or govern projects, and they are free to rename at will, such a resolution should only be for internal recordkeeping and not be any more restrictive than the case of onboarding the newly-named project.
+20:13 < schultmc> Seems straightforward
+20:14 < zv> The only concern I would have is, what happens if a different project claims to be "The Mana World"? Is that a non-issue?
+20:14 < jesusalva> It's a non-issue, because they're keeping their older MMORPG with that brand name
+20:15 < zv> OK
+20:16  * jesusalva waits for a vote to be called
+20:17 < zv> schultmc: shall I start a vote?
+20:17 < schultmc> zv: yes please
+20:17 < zv> Voting started for The Mana World rebrand as Manasource, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:17 < schultmc> !vote yes
+20:17 < jesusalva> !vote yes
+20:17 < zv> !vote yes
+20:17 < zumbi> !vote yes
+20:17 < milan> !vote yes
+20:17 < fungi> !vote yes
+20:17 < zv> Vote closed. 6 yes, 0 abstain.
+20:18 < schultmc> [item 7.2 Legal Counsel Fees]
+20:18 < schultmc> jesusalva?
+20:19 < jesusalva> This one I sent in spi-general list earlier so the community could provide feedback. I received privately feedback from both schultmc and tbm, which were already reflected in the resolution.
+20:19 < jesusalva> The goal is to ensure General Fund remains sustainable and available to all projects and SPI as a whole, without really changing SPI current practices
+20:20 < jesusalva> I received no further feedback so I submit the resolution for SPI Board to vote.
+20:20 < jesusalva> </done>
+20:21 < zv> I have some opinions/questions on this one.
+20:21 < zv> (1) "will be billed against the project" does not leave room for discretion.
+20:21 < jesusalva> It's the general rule, yes. The exception/discretion is at (7)
+20:22 < zv> How are rates communicated? Does the project get to agree to move forward?
+20:22 < jesusalva> Yes, see item (4)
+20:22 < jesusalva> And (5) I guess
+20:22 < zv> "the project will only be billed with the liaison's acknowledgement;" OK
+20:22 < zv> I'd substitute for "approval"
+20:23 < jesusalva> I'm fine with that word change
+20:24 < zv> no further questions from me on this matter. I would like to solicit board opinions about whether everyone feels comfortable as written, pr requests more time to review/consider
+20:24 < zv> s/pr/or
+20:24 < fungi> good point, the liaison could refuse/object, but that's still an acknowledgement of sorts
+20:25 < fungi> i'm okay with moving forward on it, assuming the requested edit is made
+20:25 < zv> minor nit: "Legal fees which can benefit multiple projects" --> "Legal services which can benefit multiple projects"
+20:25 < fungi> i think it reflects well what we've discussed in the past for better aligning extraordinary legal expenses
+20:25 < zv> Voting started for Legal Counsel Fees, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:25 < jesusalva> !vote yes
+20:26 < jesusalva> (with those two word changes)
+20:26 < schultmc> !vote yes
+20:26 < fungi> !vote yes
+20:26 < zv> !vote yes
+20:26 < milan> !vote yes
+20:26 < zumbi> usually we never get a quote beforehand, so it might be hard to disclose cost for approval
+20:26 < zumbi> !vote abstain
+20:26 < zv> Vote closed. 5 yes, 1 abstain.
+20:26 < zv> I will amend with the agreed points.
+20:27 < schultmc> [item 7.3 Officer Elections]
+20:27 < jesusalva> Yes zumbi, (5) is a safeguard for this case too.
+20:27 < schultmc> zv?
+20:27 < zv> The results of the election are as described in the Secretary Report, which are repeated here:
+20:27 < zv> The 2024 Board Election cycle is now complete and I am pleased to announce
+20:27 < zv> that the following members are appointed to the SPI board:
+20:27 < zv>   * Milan Kupcevic
+20:27 < zv>   * Katherine (Katie) McMillan
+20:27 < zv>   * Michael Schultheiss
+20:27 < zv>  
+20:27 < zv> Full results are available at:
+20:27 < zv> https://www.spi-inc.org/corporate/votes/2024-board-election/
+20:27 < schultmc> Thank you for all  of our officers and directors who have served SPI for the
+20:27 < schultmc> past several years. Best wishes to those officers and directors who are leaving
+20:27 < schultmc> the SPI board and welcome to all new and continuing directors.
+20:28 < zv> Of note, Stephen Frost's term has expired.
+20:28 < zv> Thank you, Stephen, for your hard work and dedication.
+20:29 < zv> We need to fill the following positions:
+20:29 < zv> (1) President
+20:29 < zv> (2) Vice President
+20:29 < zv> (3) Director
+20:29 < zv> schultmc: how do you wish to do this?
+20:29 < jesusalva> I would like to nominate myself for the position of Vice President. Of note is that all officer terms are of one year.
+20:29 < schultmc> AIUI, we need to elect all 4 officers
+20:30 < schultmc> We should have calls for nominations and votes for each officer
+20:30 < jesusalva> (That's how I understand it as well, and iirc how it was done in the past as well)
+20:30 < schultmc> I am interested in serving as president if the board decides to select me
+20:30 < zv> Right. First, is everyone still present?
+20:31 < fungi> i'm fairly sure i am
+20:31 < zv> schultmc, milan, jesusalva, zumbi, poke.
+20:31 < zumbi> pong
+20:31 < schultmc> pong
+20:31 < jesusalva> pong
+20:31 < milan> present
+20:32 < fungi> so we still (barely) have quorum
+20:32 < zv> Excellent. Is anyone interested in continuing in their current position except as stated above, as in jesusalva --> Vice President, and schultmc --> President?
+20:32 < jesusalva> fungi: Better than going a week without officers, I guess? ^_-
+20:33  * fungi nods
+20:33 < zumbi> I am fins continuing one more term in my current role if board is in favor of it
+20:33 < zumbi> fine*
+20:33 < zv> Voting started to confirm schultmc as President, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:33 < jesusalva> !vote yes
+20:33 < schultmc> !vote yes
+20:33 < fungi> !vote yes
+20:33 < zv> !vote yes
+20:33 < milan> !vote yes
+20:33 < zumbi> !vote yes
+20:34 < zv> Vote closed. 6 yes, 0 abstain.
+20:34 < zv> Other than jesusalva, anyone for Vice President?
+20:34 < zv> assuming no.
+20:35 < zv> Voting started to confirm jesusalva as Vice President, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:35 < zumbi> !vote yes
+20:35 < fungi> !vote yes
+20:35 < milan> !vote yes
+20:35 < jesusalva> !vote yes
+20:35 < zv> !vote yes
+20:35 < schultmc> !vote yes
+20:35 < zv> Vote closed. 6 yes, 0 abstain.
+20:35 < zv> other than zumbi, anyone for Treasurer?
+20:36 < zv> assuming no.
+20:36 < zv> Voting started to confirm zumbi as Treasurer, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:36 < jesusalva> !vote yes
+20:36 < schultmc> !vote yes
+20:36 < zumbi> !vote yes
+20:36 < fungi> !vote yes
+20:36 < zv> !vote yes
+20:36 < milan> !vote yes
+20:36 < zv> Vote closed. 6 yes, 0 abstain.
+20:37 < zv> other than myself, anyone for Secretary?
+20:37 < zv> (I would like to continue as Secretary)
+20:37 < zv> assuming no.
+20:38 < zv> Voting started to confirm zv as Secretary, eligible to vote: { schultmc, milan, jesusalva, zumbi, fungi, zv }
+20:38 < zumbi> !vote yes
+20:38 < jesusalva> !vote yes
+20:38 < zv> !vote yes
+20:38 < milan> !vote yes
+20:38 < fungi> !vote yes
+20:38 < schultmc> !vote yes
+20:38 < zv> Vote closed. 6 yes, 0 abstain.
+20:39 < schultmc> Thank you to our new and continuing officers and thank you again to Stephen Frost for his service to SPI. We wish him well in his future endeavors.
+20:39 < schultmc> [item 8, Any other business]
+20:40 < schultmc> Anything to discuss?
+20:40 < schultmc> Nothing from me
+20:40 < zumbi> Nothing from me
+20:40 < fungi> nope
+20:40 < jesusalva> Not really
+20:40 < milan> nothing here
+20:40 < schultmc> [item 9, Next board meeting]
+20:40 < schultmc> The next board meeting is scheduled for: September 9, 2024 at 2000 UTC.
+20:40 < schultmc> Any objections?
+20:40 < schultmc> No objections here
+20:40 < zv> No objections. Katie (anyone have her username?) will need to fill out a CoI form.
+20:40 < zumbi> None
+20:40 < fungi> i should be available, thanks
+20:40 < milan> non objections
+20:40 < jesusalva> None here
+20:41 < jesusalva> Also no idea on Katherine's username/nickname, I only know her email
+20:41 < jesusalva> (Because she posted in SPI mailing lists before)
+20:41 < schultmc> iirc she was previously involved but I don't recall her nick
+20:42 < schultmc> *GAVEL*

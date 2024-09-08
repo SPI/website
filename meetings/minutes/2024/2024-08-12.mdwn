@@ -1,0 +1,268 @@
+[[!meta copyright="Copyright © 2024 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, August 12th, 2023
+
+__Board members present__
+
+* Michael Schultheiss (schultmc) (President)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Zach van Rijn (zv) (Interim Secretary)
+* Milan Kupcevic (milan)
+* Jonatas L. Nogueira (jesusalva)
+* Jeremy Stanley (fungi)
+
+__Board members partially present__
+
+* None
+
+__Board members absent with regrets__
+
+* Stephen Frost (Snow-Man) (Vice-President)
+* Joe Conway (jconway)
+* Forrest Fleming (fsf)
+
+__Board members absent__
+
+* None
+
+__Registered guests present__
+
+* Célestin Matte
+
+These are the minutes for the August 14th, 2024 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2024/2024-08-12.txt).
+
+
+## President's report
+
+<pre>
+Martin, Héctor and I have been working with our auditor to get our 2023
+financial statements audited. We are also working with the auditing firm
+on filing our New York State and Federal annual filings. We have received
+a 6 month extension for the time to file and are confident the filings will
+be completed by the November 15, 2024 deadline.
+</pre>
+
+
+## Vice President's report
+
+* Vice President was not present.
+
+## Treasurer's report
+
+<pre>
+Processed pending payments in the queue, but still big amounts are pending.
+Signed some sponsorship contracts, DebConf and Debian intership.
+</pre>
+
+
+## Secretary's report
+
+<pre>
+The 2024 Board Election cycle is now complete and I am pleased to announce
+that the following members are appointed to the SPI board:
+  * Milan Kupcevic
+  * Katherine (Katie) McMillan
+  * Michael Schultheiss
+
+Full results are available at:
+https://www.spi-inc.org/corporate/votes/2024-board-election/
+</pre>
+
+
+## Vote On Minutes For Previous Meetings
+
+### Vote on minutes for meeting Monday July 8th 2024
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 5 yes, 1 abstain, 0 no.
+
+
+## Items up for discussion
+
+### The Mana World rebrand as Manasource
+
+(Jonatas)
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 0 abstain, 0 no.
+
+### Legal Counsel Fees
+
+(Jonatas, with minor language change)
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Abstain</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Yes</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 5 yes, 1 abstain, 0 no.
+
+### Board Election Results
+
+See Secretary's report.
+
+### Officer Elections
+
+All officers are interested in continuing in their current roles, except:
+
+Jonatas L.Nogueira is interested in a full term as Vice President.
+
+#### Vote on Confirm schultmc as President of SPI
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 0 abstain, 0 no.
+
+#### Vote on Confirm jesusalva as Vice President of SPI
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 0 abstain, 0 no.
+
+#### Vote on Confirm zumbi as Treasurer of SPI
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 0 abstain, 0 no.
+
+#### Vote on Confirm zv as Secretary of SPI
+
+<table>
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr>
+  <tr><td>Héctor Orón Martínez</td><td>Yes</td></tr>
+  <tr><td>Jonatas L. Nogueira</td><td>Abstain</td></tr>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr>
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr>
+  <tr><td>Zach van Rijn</td><td>Yes</td></tr>
+</table>
+
+Vote passed with 6 yes, 0 abstain, 0 no.
+
+## Other business
+
+* None
+
+## Adjournment
+
+The meeting was adjourned until Monday September 9th, 2024 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2024</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2022</td><td>Jonatas L. Nogueira</td><td>Vice President</td></tr>
+<tr><td>July 2022</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2022</td><td>Zach van Rijn</td><td>Secretary</td></tr>
+<tr><td>July 2023</td><td>Joe Conway</td></tr>
+<tr><td>July 2022</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2024</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2024</td><td>Katie McMillan</td></tr>
+<tr><td>July 2022</td><td>Jeremy Stanley</td></tr>
+
+</tbody>
+</table>
+
+## Appendix B: The Mana World rebrand as Manasource
+
+<pre>
+# Resolution 2024-XX-XX.jln.1: The Mana World rebrand as Manasource
+
+WHEREAS
+
+1. SPI currently recognizes The Mana World as a SPI associated project (as per [2014-07-07.mzh.1](/corporate/resolutions/2014/2014-07-07.mzh.1)).
+
+2. The Mana World decided to rename its organization to "Manasource", with no
+changes to their intents and values, to reduce confusion with their different game
+projects. A new homepage reflecting these changes is available at https://manasource.org
+
+3. The administrative team and executive body of the organisation remains unchanged in its sturcture and
+is now known as Mana Team (formerly TMW Team or TMW Committee).
+
+4. "The Mana World" brand will continue being used for their oldest game and retain its website at https://themanaworld.org
+
+THE SPI BOARD RESOLVES THAT
+
+1. SPI recognises the name change of the Manasource project from The Mana World and
+will update its records accordingly.
+
+2. SPI recognises the name change of Mana Team from TMW Team/TMW Committee and
+will endavour to keep references to it consistent on its website and in regards to the 2014 resolution.
+
+3. William Pine continues to be recognised as the current authoritative decision
+maker and SPI liaison for Manasource. Future liaisons will be appointed in turn by
+the sitting project liaison, or by a simple majority of existing Mana Team
+members, as defined in https://forums.themanaworld.org/viewtopic.php?f=1&t=17166
+</pre>
+
+## Appendix C: Legal Counsel Fees
+
+<pre>
+# Resolution 2024-08-12.jln.1: Legal Counsel Fees
+
+CONSIDERING that SPI no longer has a free as in gratis legal counsel; and
+
+CONSIDERING that having a paid attorney option provides strategic advantages to SPI and its associated projects, and that SPI purpose is to support its projects collectively, as stated in the Certificate of Incorporation,
+
+THE SPI BOARD RESOLVES THAT
+
+In this resolution, "attorney", "lawyer" and "legal counsel" terms are used interchangeably.
+
+1. Legal fees incurred by projects which require the use of a paid attorney will be billed against the project;
+2. If a pro bono attorney offers SPI their services, or withdraw their offer for free services, SPI will inform that at least in the projects mailing list, so the projects may opt for the option more aligned with their goals;
+3. Legal fees which can benefit multiple projects, such as templates, will be invoiced against SPI General Fund as is current practice;
+4. If SPI decides that consulting a paid attorney is required as part of the process for providing some other service, the project will only be billed with the liaison's acknowledgement;
+5. When a project has requested SPI legal counsel, has no assets to cover for it, and SPI has no pro bono lawyers available, SPI will decide administratively to either temporarily refuse the request until a pro bono attorney becomes available, or to sponsor the request with the General Fund.
+6. Legal Fees incurred of SPI's interest as a whole, or which cannot be appropriately divided by project, will be billed against SPI general fund.
+7. When financial reality allows for it, SPI Treasury or Board may resolve to cover certain low volume, day to day or regular expenses such as trademark renewals with the General Fund.
+8. Revoke resolutions 2007-11-14.jdd.1.jb.1 and 2004-09-07.dbg.2
+</pre>
