@@ -13,7 +13,7 @@ jobs:
       - run: mkdir ../html
       - run: rm -f README.md CONTRIBUTING.md  # don't build
       - run: ./bin/build-site . ../html
-      - run: pip --break-system-packages install html5validator
+      - run: pip install html5validator --break-system-packages
       - run: html5validator --root ../html
   docs:
     name: Annual reports
