@@ -1,0 +1,197 @@
+[truncated due to copy/paste error, also missing *GAVEL* // ~zv]
+20:01 < schultmc1> is now called to order. Today's agenda can be found on the web at: 
+20:01 < schultmc1> https://www.spi-inc.org/meetings/agendas/2024/2024-10-14/
+20:01 < schultmc1> [item 2, Roll Call]
+20:01 < schultmc1> Directors, please state your name
+20:01 < schultmc1> Guests, please /msg your names to zv if you wish your attendance to be
+20:01 < schultmc1> recorded in the minutes of this meeting.
+20:01 < schultmc1> .
+20:01 < zv> Zach van Rijn
+20:01 < jconway> Joe Conway
+20:01 < schultmc1> zv, do we have any regrets?
+20:01 < zv> Regrets from Jeremy and Jonatas.
+20:01 < schultmc1> .
+20:01 -!- schultmc1 is now known as schultmc
+20:01 < milan> Milan Kupcevic
+20:01 < zv> zumbi: please clarify, present or absent?
+20:01 < schultmc> Michael Schultheiss
+20:03 < zumbi> Hector Oron Martinez
+20:03 < schultmc> We're currently inquorate - have we heard from any others?
+20:03 -!- fsf [fsf@00029520.user.oftc.net] has joined #spi
+20:03 < schultmc> fsf: please state your name
+20:03 < fsf> Forrest Fleming
+20:04 < schultmc> [item 3, President's Report]
+20:04 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2023
+20:04 < schultmc> financial statements audited. We are also working with the auditing firm
+20:04 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:04 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:04 < schultmc> be completed by the November 15, 2024 deadline.
+20:04 < schultmc> .
+20:04 < schultmc> jesusalva is unavailable but submitted this VP report:
+20:04 < schultmc> .
+20:04 < schultmc> I have identified seven project liaisons which were
+20:04 < schultmc> not subscribed to spi-projects mailing list. I 
+20:04 < schultmc> reached out to them and all but archlinux32 replied.
+20:04 < schultmc> I have also regularized SPI/Debian's affiliation to 
+20:04 < zumbi> zv, I am not at home, office, but on a trip - I can participate async
+20:04 < schultmc> Open Infra Foundation. There was a task in the VP 
+20:04 < schultmc> backlog to regularize Debian's membership to OSI. 
+20:04 < schultmc> When I asked, neither Debian nor Open Source Initiative
+20:04 < schultmc> replied. I have provisionally dismissed the task as a
+20:04 < schultmc> wontfix/completed and removed it from my backlog.
+20:04 < schultmc> </done>
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi?
+20:05 < zumbi> defer for later.
+20:05 < zumbi> .
+20:05 < zumbi> (I'll send by email)
+20:05 < zv> please CC me and thanks
+20:05 < schultmc> [item 5, Secretary's report]
+20:05 < schultmc> zv?
+20:05 < zv> I am still awaiting the Treasurer report for 2024-09-09.
+20:05 < zv> .
+20:05 < zv> With respect to discussions at previous meetings and out-of-band
+20:05 < zv> conversations about SPI housekeeping tasks, task management, and
+20:05 < zv> whether we need to hire additional contractors for assistance, I
+20:05 < zv> am working to get a system in place for better organization. I
+20:05 < zv> have been broadly less available the past few months for prior
+20:05 < zv> commitments, but now have stable and consistent availability.
+20:05 < zv> .
+20:05 < zv> Planning for a face-to-face meeting has resumed.
+20:05 < zv> .
+20:05 < zv> Finally, I would like to ask how the Board would like to address
+20:05 < zv> the our Director Katie McMillan's absence. I had not heard from
+20:05 < zv> her by email even around the time of the election.
+20:05 < zv> </>
+20:06 < zv> s/the our/our
+20:07 < jconway> Is there anything in the bylaws regarding removing a Director for cause?
+20:07 < schultmc> I'm not sure if I have any current contact info for her. It's been ~5 years since I met her in person in NYC before a f2f board meeting
+20:07 < zv> yes, repeated absence
+20:07 < Perdu> (I have, a bit)
+20:10 < schultmc> [item 6, Outstanding minutes]
+20:10 < schultmc> The minutes for the 2024-09-09 meeting require approval.
+20:10 < schultmc> They can be found at 
+20:10 < schultmc> https://www.spi-inc.org/meetings/minutes/2024/2024-09-09/ 
+20:10 < Jesusalva[m]> zv I emailed you re Katie
+20:10 < zv> Jesusalva[m]: thanks.
+20:10 < fsf> I missed the roll call and have the following people: fsf,jconway,schultmc,zumbi,zv. Could others please sounds off so that I can make sure they're included in the vote?
+20:10 < zv> I would exclude zumbi
+20:10 < mappx> My apologies, I am here
+20:11 < mappx> (Katie)
+20:11 < fsf> ACK - and looks like I can include jesusalva. Katie, please state your full name for The Record
+20:11 < schultmc> mappx: please state your name for the record
+20:11 < mappx> Katie McMillan
+20:11 < schultmc> fsf: jesusalva is absent, milan is here
+20:12 < fsf> Voting started, 6 people (fsf,jconway,mappx,milan,schultmc,zv) allowed to vote on Meeting minutes for Monday 9 September 2024. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:12 < schultmc> !vote yes
+20:12 < jconway> !vote abstain
+20:12 < milan> !vote yes
+20:12 < zv> !vote yes
+20:12 < fsf> !vote yes
+20:12 < mappx> !vote yes
+20:12 < fsf> Current voting results for "Meeting minutes for Monday 9 September 2024": Yes: 5, No: 0, Abstain: 1, Missing: 0 ()
+20:13 < fsf> Voting for "Meeting minutes for Monday 9 September 2024" closed.
+20:13 < fsf> NB that mappx wasn't present at the meeting - not sure if that's an oversight or there was later review of logs or similar
+20:13 < schultmc> [item 7, Items up for discussion]
+20:13 < schultmc> Nothing on the agenda
+20:13 < schultmc> [item 8, Any other business]
+20:13 < schultmc> Anything to discuss?
+20:13 < mappx> exactly, I was not present. later review of logs.
+20:13 < robbat2> Hi; robbat2 (Robin H. Johnson, representing Gentoo Linux); i have an any other business item
+20:14 < robbat2> Gentoo has been waiting for a few months now for tbm to provide the paypal integration pieces we asked for
+20:14 < robbat2> i have provided specific instructions, and offered a 1:1 zoom session
+20:14 < robbat2> tbm has said multiple times they would get to it
+20:14 < robbat2> what further actions can we take to get it completed?
+20:14 < zv> schultmc: there is one item for discussion; it is not in the summary section but is below on the agenda: "Gallery disassociation resolution"
+20:15 < Jesusalva[m]> I sent my AOB via email, Jenkins one have an update but I think zumbi can handle it without help? tbm also reports to be behind the schedule, several tasks have been impacted.
+20:15 < schultmc> zv: my apologies - we can go back to that item after dealing with Gentoo's AOB item
+20:15 < Jesusalva[m]> Ah yes, Gallery requested dissociation. Also in email
+20:15 < zv> I will amend the agenda for clarity. I believe the resolution is copied in board@ but will verify.
+20:16 < schultmc> robbat2: others from the treasury team (myself, zumbi) can work with you if tbm continues to be less available
+20:17 < robbat2> tbm ensured you were CC'd on Sept 14th - is there a problem with the instructions or the offer?
+20:19 < robbat2> I just verified, the email thread has been going since April 19th
+20:19 < schultmc> I'll review the thread and will make sure this gets completed this week.
+20:19 < robbat2> thank you
+20:20 < robbat2> that is all from me
+20:20 < zv> there are 5 AOBs on the agenda (again I will update the summary to reflect it)
+20:21 < schultmc> zv: we can handle the Gallery resolution or continue AOB, whichever makes more sense for your minutes
+20:21 < zv> Gallery first please. I was stating the AOBs so we didn't miss it. Thanks.
+20:22 < schultmc> I was part of the core team of Gallery and am familiar with it's long term dormant state. I'm ready to move on to a vote.
+20:23 < zv> Voting started, 6 people (fsf,jconway,mappx,milan,schultmc,zv) allowed to vote on Resolution 2024-10-14.jln.1: Removing Gallery as an associated project". - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:23 < schultmc> !vote yes
+20:23 < zv> !vote yes
+20:23 < fsf> !vote yes
+20:23 < jconway> !vote yes
+20:23 < milan> !vote yes
+20:24 < mappx> !abstain
+20:24 < mappx> !vote abstain
+20:24 < zv> Voting for "Resolution 2024-10-14.jln.1: Removing Gallery as an associated project" closed. 5 yes, 1 abstain, 0 absent.
+20:27 < schultmc> Returning to AOB: spi-projects mailing list non-liaison emails
+20:27 < zv> Jesusalva[m]: ?
+20:28 < schultmc> I'm not aware of who is currently subscribed to spi-projects - we can likely discuss those via email since I doubt a blanket policy is appropriate for all.
+20:29 < zv> For context, the email discussing it is dated approximately 
+20:29 < zv> Thu, Sep 26, 9:17 AM Central
+20:29 < Jesusalva[m]> Perdu help
+20:30 < Perdu> sure
+20:30 < schultmc> I see Perdu's message and my comment that a blanket policy likely won't apply to all 30 email addresses still stands.
+20:30 < Perdu> Basically, there isn't a 1:1 match between the project liaisons list and the spi-projects mailing list
+20:30 < Perdu> Should this be a full match? Are "secondary" liaisons accepted in this list?
+20:31 < Perdu> ok
+20:32 < schultmc> full match plus secondary liaisons (if they exist for a given project) + board seems prudent to me
+20:32 < Perdu> and should old liaisons be removed?
+20:32 < Perdu> (from spi-projects@)
+20:33 < schultmc> I would say yes - former liaisons or dissassociated projects shouldn't need to remain subscribed IMHO
+20:34 < Perdu> That makes sense to me as well
+20:34 < Perdu> (I have nothing to add on this topic)
+20:35 < schultmc> AOB: secondary liaisons seems to have already been covered in the above discussion
+20:35 < schultmc> AOB: Twitter vs Mastadon account
+20:36 < Perdu> That's the email I sent to board@
+20:36 < Perdu> Copy: https://ploudseeker.com/files/tmp/twitter.txt
+20:38 < mappx> I like the idea of posting a redirect on Twitter (aka X) to our Mastodon account, and then putting energy into that (the Mastodon) account.
+20:39 < zv> I am not clear on what the benefit of a social media presence is for SPI.
+20:40 < Jesusalva[m]> mappx: That's however not allowed by their ToS, mappx
+20:40 < schultmc> My LUG uses it to post information about upcoming meetings
+20:41 < schultmc> the original purpose of our Twitter presence was to have a broader presence amongst the community - not many are aware of what SPI does
+20:41 < mappx> Jesusalva[m]: understood, thank you
+20:41 < zv> I have thoughts/questions about how active SPI wishes to be, which I will take offline.
+20:42 < schultmc> zv: sounds good
+20:42 < schultmc> AOB: Form 8233
+20:42 < Jesusalva[m]> I recall someone saying they "would never run for SPI board because they had no idea wtf SPI board members do and website was essentially useless"
+20:42 < Jesusalva[m]> schultmc: Tracked by ticket 15512 and completely stale. Can't even be assigned as I don't know who has to do it
+20:43 < schultmc> I looked into Form 8233 and it relies on knowledge of tax treaties between the US and a contractor's country. I'm not sure if any of the board members are qualified to answer but we can ask legal counsel or accounting staff
+20:45 < Jesusalva[m]> Didn't knew how to ask — our legal don't do tax advice, apparently
+20:45 < Jesusalva[m]> * who to ask
+20:46 < schultmc> We can reach out to gary's firm but not sure if they're knowledgeable in that area. They may know who we could ask if they can't answer directly.
+20:48 < zv> let's do that and try to wrap up the rest of the AOB
+20:49 < schultmc> AOB: phone service discussion/vote
+20:49 < Perdu> Not sure this one is worthdealing with today as zumbi is only partially present and tbm isn't
+20:49 < Perdu> But it's the email is sent to board: https://ploudseeker.com/files/tmp/voip.txt
+20:50 < zv> OK to defer; I'd like to not rush this one.
+20:50 < schultmc> I'm in favor of moving our phone infrastructure to a paid provider. I recently lost my personal long term google voice number due to not following Google's definition of "active use"
+20:50 < Perdu> I'd like to add to this that I would very much appreciate if the voips.ms account could be tied to a director's name instead of mine
+20:50 < schultmc> I'm fine for tabling this until zumbi/tbm are able to weigh in
+20:50 < Jesusalva[m]> I, ah, had minor informs
+20:51 < Jesusalva[m]> They're on emails, so be sure to follow them for actual info
+20:51 < Jesusalva[m]> Fungi and I are handling a possibly controversial project association called Whisper. Accessibility. iOS. See also tbm reply.
+20:52 < Jesusalva[m]> Attorney remains waiting reply about openVAS
+20:52 < Jesusalva[m]> It's stuck with no way to proceed until board decides what it wants to do
+20:53 < Jesusalva[m]> And last, Jenkins still has money with us, they sent a plan to spend it a few minutes ago via email
+20:53 < Jesusalva[m]> Thanks
+20:53 < schultmc> I read over the Whisper information and don't see what we can decide briefly during a meeting.
+20:54 < schultmc> for openvas, I'm fine with reaching out to counsel's suggested associate who is likely more knowledgeable in what we should do.
+20:56 < schultmc> re: jenkins, the suggested list they proprosed all seem prudent
+20:57 < Perdu> Perdu │ I'd like to add to this that I would very much appreciate if the voips.ms account could be tied to a director's name instead of mine → This point doesn't need treasurer to decide. Is it ok?
+20:57 < schultmc> yes, that's fine. we can transfer it to my name and update as necessary should my role change in the future
+20:57 < Perdu> Thanks
+20:59 < schultmc> I think we've covered all the AOB items for this meeting - anything further to discuss?
+20:59 < jconway> none here
+20:59 < milan> nothing here
+21:00 < mappx> none here
+21:00 < schultmc> [item 9, Next board meeting]
+21:00 < schultmc> The next board meeting is scheduled for: November 11, 2024 at 2000 UTC.
+21:00 < schultmc> Any objections?
+21:00 < jconway> wfm
+21:00 < schultmc> Works for me
+21:00 < zv> sounds good. see everyone there. thanks.
+21:00 < milan> Sounds good
+21:00 < schultmc> *GAVEL*
