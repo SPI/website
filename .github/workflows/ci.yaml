@@ -9,7 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
+      - run: sudo apt update
+      - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl python3-pip
       - run: mkdir ../html
       - run: rm -f README.md CONTRIBUTING.md  # don't build
       - run: ./bin/build-site . ../html
