@@ -10,11 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: sudo apt update
-      - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl python3-pip
+      - run: sudo apt install ikiwiki libtext-multimarkdown-perl libimage-magick-perl
       - run: mkdir ../html
       - run: rm -f README.md CONTRIBUTING.md  # don't build
       - run: ./bin/build-site . ../html
-      - run: pip install html5validator --break-system-packages
+      - run: pip install html5validator --break-system-packages || pip install html5validator
       - run: html5validator --root ../html
   docs:
     name: Annual reports
