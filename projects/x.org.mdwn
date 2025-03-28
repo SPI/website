@@ -4,39 +4,5 @@
 
 # X.Org
 
-[[!img x.org-logo.png alt="X.Org logo" class="projectlogo" link="no"]]
-
-The X.Org community creates a free and open accelerated graphics stack with
-the major components:
-
-* DRM kernel graphics subsystem
-* [Mesa 3D](https://www.mesa3d.org/) graphics library
-* [Wayland compositor](https://wayland.freedesktop.org/)
-* [X.Org Window System](https://x.org/wiki/)
-* and many other smaller bits and pieces.
-
-The [X.Org Foundation](https://www.x.org/wiki/XorgFoundation/) itself aims
-to support the community as much as possible by organizing and sponsoring
-student internships, sponsoring travel to conferences, selecting a new
-location and organizers for the annual [X.Org Developer
-Summit](https://www.x.org/wiki/Events/), and providing hosting services
-via [freedesktop.org](https://freedesktop.org/).
-
-### Project Liaison
-
-Lyude Paul (Secretary of the X.Org board)
-
-### Services
-
-* Accepting donations
-
-### Donate via PayPal
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<fieldset>
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="YAB2ZQYVYDNJW" />
-<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to X.Org via PayPal" />
-</fieldset>
-</form>
-
+X.Org is no longer associated with SPI.  You can donate to X.Org via
+[Software Freedom Conservancy](https://sfconservancy.org/projects/current/#xorg).
