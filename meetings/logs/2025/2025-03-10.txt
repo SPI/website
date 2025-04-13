@@ -1,0 +1,113 @@
+20:01 < schultmc> *GAVEL*
+20:01 < schultmc> [item 1, Opening]
+20:01 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:01 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:01 < schultmc> https://www.spi-inc.org/meetings/agendas/2025/2025-03-10/
+20:01 < schultmc> [item 2, Roll Call]
+20:01 < schultmc> Directors, please state your name
+20:01 < zumbi> Héctor Orón Martínez
+20:01 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:01 < zv> Zach van Rijn
+20:01 < jconway> Joe Conway
+20:01 < schultmc> recorded in the minutes of this meeting.
+20:01 < schultmc> .
+20:01 < milan> Milan Kupcevic
+20:01 < schultmc> zv, do we have any regrets?
+20:01 < Jesusalva[m]> Jonatas Luis Nogueira 
+20:01 < zv> schultmc: regrets only include fsf today
+20:01 < schultmc> .
+20:01 < mappx> Katie McMillan
+20:01 < schultmc> Michael Schultheiss
+20:02 < fungi> Jeremy Stanley
+20:02 < schultmc> That's everyone available
+20:03 < schultmc> [item 3, President's Report]
+20:03 < schultmc> Martin has reached out to our auditing firm to obtain a quote for our 2024 financial audit.
+20:03 < schultmc> .
+20:03 < schultmc> </done>
+20:03 < schultmc> .
+20:03 < schultmc> jesusalva, do you have anything you would like to add?
+20:03 < Jesusalva[m]> Sorry, not today 
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> zumbi?
+20:04 < zumbi> Processed pending payments, there were quite a few, including FOSDEM reimbursments and SPI associated project events. Collected bank statements and treasurer reports update is in progress, those should be published really soon.
+20:04 < zumbi> Thanks very much for the continuous work of the treasurer team, including president, vice-president and contractors.
+20:04 < zumbi> .
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> zv?
+20:04 < zv> I do not have any updates at this time.
+20:04 < zv> .
+20:05 < schultmc> [item 6, Outstanding minutes]
+20:05 < schultmc> The minutes for the 2025-02-10 meeting require approval
+20:05 < schultmc> They can be viewed at
+20:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2025/2025-02-10/
+20:06 < schultmc> fsf is unavailable - do we have someone else who can run the vote bot or should we tally manually?
+20:07 < zv> I can start it manually. Hold on.
+20:07 < fungi> thanks zv!
+20:08 < zv> Vote to approve 2025-02-10 minutes. Permitted to vote: { schultmc fungi zv mappx milan jconway zumbi Jesusalva[m] }
+20:08 < schultmc> !vote yes
+20:08 < milan> !vote yes
+20:08 < jconway> !vote yes
+20:08 < fungi> !vote yes
+20:08 < Jesusalva[m]> !vote abstain
+20:08 < zumbi> !vote yes
+20:08 < zv> !vote yes
+20:08 < mappx> !vote yes
+20:08 < zv> voting closed. 7 yes. 1 abstain. 0 no. 0 absent.
+20:09 < schultmc> [item 7, Items up for discussion]
+20:09 < schultmc> [item 7.1 Resolution 2025-03-10.js.1: Remove Fluxbox as an Associated Project]
+20:09 < schultmc> fungi?
+20:09 < Jesusalva[m]> I'm abstaining because it says "the condition was not met" ftr
+20:09 < fungi> based on research performed by kassia into the various projects who had not engaged in annual reporting, it appeared that fluxbox was long inactive
+20:10 < fungi> i reached out to the liaison, who confirmed this to be the case
+20:10 < Jesusalva[m]> Also, because it didn't mention the Board approved me to ask the attorney to go ahead with producing Model C required legal documents for an eventual vote
+20:10 < Jesusalva[m]> (sorry fungi please continue)
+20:10 < fungi> so i'm moving that we disassociate fluxbox from spi
+20:10 < fungi> no worries Jesusalva[m]
+20:10 < zv> Vote for 2025-03-10.js.1: Remove Fluxbox. Permitted to vote: { schultmc fungi zv mappx milan jconway zumbi Jesusalva[m] }
+20:10 < schultmc> !vote yes
+20:10 < zumbi> !vote yes
+20:10 < mappx> !vote yes
+20:10 < jconway> !vote yes
+20:10 < Jesusalva[m]> !vote yes
+20:10 < zv> !vote yes
+20:10 < milan> !vote yes
+20:10 < fungi> !vote yes
+20:11 < zv> Voting closed. 8 yes. 0 abstain. 0 no. 0 absent.
+20:11 < schultmc> [item 7.2 Resolution 2025-03-10.js.2: Remove Aptosid as an Associated Project]
+20:11 < schultmc> fungi?
+20:12 < fungi> similar research indicated aptosid was long inactive, so i attempted to reach out to their liaison, but the domain for their e-mail address was no longer registered
+20:12 < fungi> as such, i'm moving that we disassociate aptosid from spi
+20:12 < schultmc> aptosid.com mentions a release on 2013-01 (i.e. over 12 years ago)
+20:12 < zv> Vote for 2025-03-10.js.2: Remove Aptosid. Permitted to vote: { schultmc fungi zv mappx milan jconway zumbi Jesusalva[m] }
+20:12 < milan> !vote yes
+20:12 < schultmc> !vote yes
+20:12 < jconway> !vote yes
+20:12 < zv> !vote yes
+20:12 < mappx> !vote yes
+20:13 < fungi> !vote yes
+20:13 < zumbi> !vote yes
+20:13 < Jesusalva[m]> !vote abstain
+20:13 < zv> Voting closed. 7 yes. 1 abstain. 0 no. 0 absent.
+20:13 < schultmc> [item 8, Any other business]
+20:13 < schultmc> Anything to discuss?
+20:13 < Jesusalva[m]> FTR, I abstained because as the liaison couldn't be contacted, I don't feel neither favorable nor against it
+20:14 < Jesusalva[m]> schultmc: sec
+20:14 < Jesusalva[m]> Our legal counsel has started producing the documents required for a possible Model C sponsorship.
+20:15 < Jesusalva[m]> I'm probably behind other stuff, lmk if there's anything urgent
+20:15 < Jesusalva[m]> </done>
+20:15 < fungi> just want to apologize for takiong so long to get around to responding to requests for project association, i'm at the point where i seem to be able to handle about one per week again. preparing to reply to another request, but there are several more outstanding (as well as a couple of contributing member requests i need to look at)
+20:15 < Jesusalva[m]> I think they're also project applications 
+20:15 < Jesusalva[m]> Just sent in the wrong place
+20:16 < fungi> those seem to be coming through in increasing volume this year
+20:18 < schultmc> Jesusalva[m] thank you for working with counsel to formalize possible model C sponsorship.
+20:18 < schultmc> Anything else to discuss?
+20:20 < schultmc> [item 9, Next board meeting]
+20:20 < schultmc> The next board meeting is scheduled for: April 14, 2025 at 2000 UTC.
+20:20 < schultmc> Any objections?
+20:20 < schultmc> works for me
+20:21 < zumbi> fine with me
+20:21 < mappx> works for me
+20:21 < fungi> looks clear on my calendar, thanks!
+20:21 < jconway> I believe I will be on a plane that day
+20:21 < milan> wfm
+20:21 < schultmc> *GAVEL*
