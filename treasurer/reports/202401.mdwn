@@ -118,9 +118,9 @@ This is a *draft*.
      11.27 USD     225.33 USD    -214.06 USD    Merchandise
              0     100.00 USD    -100.00 USD    Sponsorship
    1064.54 USD              0    1064.54 USD    Unrealized-Loss
- 113298.83 USD  243622.25 USD -130323.42 USD  Liabilities:Payable
+ 113123.73 USD  243447.15 USD -130323.42 USD  Liabilities:Payable
 --------------------------------------------
-3336927.24 USD 3336927.24 USD              0
+3336752.14 USD 3336752.14 USD              0
 </pre>
 
 ## Per project summaries
@@ -200,35 +200,24 @@ shown as a positive amount.
 
 </pre>
 
-#### debconf23
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    466.66 USD              0    -466.66 USD  Expenses
-    427.01 USD              0    -427.01 USD    Conferences
-     29.49 USD              0     -29.49 USD      Dining
-     36.14 USD              0     -36.14 USD      Materials
-    361.38 USD              0    -361.38 USD      Venue
-     39.65 USD              0     -39.65 USD    Travel:Transportation
---------------------------------------------
-    466.66 USD              0    -466.66 USD
-
-</pre>
-
 #### debian
 
 <pre>
          debit         credit          total
 --------------------------------------------
-   1029.58 USD              0   -1029.58 USD  Expenses
+   1496.24 USD              0   -1496.24 USD  Expenses
     396.14 USD              0    -396.14 USD    Bank-Fees
+    427.01 USD              0    -427.01 USD    Conferences
+     29.49 USD              0     -29.49 USD      Dining
+     36.14 USD              0     -36.14 USD      Materials
+    361.38 USD              0    -361.38 USD      Venue
     633.44 USD              0    -633.44 USD    IT
      56.99 USD              0     -56.99 USD      Domains
     576.45 USD              0    -576.45 USD      Hardware
+     39.65 USD              0     -39.65 USD    Travel:Transportation
     436.80 USD    8735.43 USD    8298.63 USD  Income:Donations
 --------------------------------------------
-   1466.38 USD    8735.43 USD    7269.05 USD
+   1933.04 USD    8735.43 USD    6802.39 USD
 
 </pre>
 
@@ -526,36 +515,25 @@ shown as a positive amount.
 
 </pre>
 
-#### debconf23
-
-<pre>
-         debit         credit          total
---------------------------------------------
-    466.66 USD              0    -466.66 USD  Expenses
-    427.01 USD              0    -427.01 USD    Conferences
-     29.49 USD              0     -29.49 USD      Dining
-     36.14 USD              0     -36.14 USD      Materials
-    361.38 USD              0    -361.38 USD      Venue
-     39.65 USD              0     -39.65 USD    Travel:Transportation
---------------------------------------------
-    466.66 USD              0    -466.66 USD
-
-</pre>
-
 #### debian
 
 <pre>
          debit         credit          total
 --------------------------------------------
              0  549042.41 USD  549042.41 USD  Equity:Net-Assets:Restricted
-   1029.58 USD              0   -1029.58 USD  Expenses
+   1496.24 USD              0   -1496.24 USD  Expenses
     396.14 USD              0    -396.14 USD    Bank-Fees
+    427.01 USD              0    -427.01 USD    Conferences
+     29.49 USD              0     -29.49 USD      Dining
+     36.14 USD              0     -36.14 USD      Materials
+    361.38 USD              0    -361.38 USD      Venue
     633.44 USD              0    -633.44 USD    IT
      56.99 USD              0     -56.99 USD      Domains
     576.45 USD              0    -576.45 USD      Hardware
+     39.65 USD              0     -39.65 USD    Travel:Transportation
     436.80 USD    8735.43 USD    8298.63 USD  Income:Donations
 --------------------------------------------
-   1466.38 USD  557777.84 USD  556311.46 USD
+   1933.04 USD  557777.84 USD  555844.80 USD
 
 </pre>
 
