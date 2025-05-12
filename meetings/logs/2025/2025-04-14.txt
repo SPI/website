@@ -1,0 +1,209 @@
+20:01 < schultmc> *GAVEL*
+20:01 < schultmc> [item 1, Opening]
+20:01 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:01 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:01 < schultmc> https://www.spi-inc.org/meetings/agendas/2025/2025-04-14/
+20:01 < schultmc> [item 2, Roll Call]
+20:01 < schultmc> Directors, please state your name
+20:01 < zumbi> Héctor Orón Martínez
+20:02 < zv> Zach van Rijn
+20:02 < fsf> Forrest Fleming
+20:02 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:02 < jconway> Joe Conway
+20:02 < milan> Milan Kupcevic
+20:02 < schultmc> recorded in the minutes of this meeting.
+20:02 < mappx> Katie McMillan
+20:02 < schultmc> .
+20:02 < fungi> Jeremy Stanley
+20:02 < schultmc> zv, do we have any regrets?
+20:02 < schultmc> .
+20:02 < schultmc> Michael Schultheiss
+20:02 < zv> Regrets from Joe, who appears to be here? And me, who I think is also here.
+20:02 < Jesusalva[m]> Jonatas Luis Nogueira
+20:02 < jconway> yes
+20:02 < schultmc> That's everyone by my count
+20:02 < Jesusalva[m]> That's rare... Yay!
+20:02 < schultmc> [item 3, President's Report]
+20:02 < schultmc> Martin has reached out to our auditing firm to obtain a quote for our 2024 financial audit.
+20:02 < schultmc> .
+20:03 < schultmc> I am working with our brokerage firm to transfer funds to our regular checking a
+20:03 < schultmc> </done>
+20:03 < schultmc> .
+20:03 < schultmc> jesusalva, do you have anything you would like to add?
+20:03 < schultmc> </done>
+20:03 < Jesusalva[m]> VP Report... (full message at <https://matrix.org/oftc/media/v1/media/download/AekqdF1PxiTvWs5Oe9OzDVn0DLCnrqtChLTuWZ8dZ56OaTriUo5EPeLK071VhWTsqicdyQxMPdJ110YsY_WthMxCeWff8d8wAG1hdHJpeC5vcmcvVHpseVRQT2dLc1pUVGt6WEdtTG9HZWd3>)
+20:03 < Jesusalva[m]> </done>
+20:03 < Jesusalva[m]> Uglifier by Matrix 
+20:03 < zv> translated:
+20:03 < zv> VP Report 
+20:03 < zv> Kassia contract was extended until the end of the month to finish ongoing tasks.
+20:03 < zv> OpenSSL Model C sponsorship proposal was sent. It may be on next month's meeting and does not submit to the APF.
+20:03 < zv> VP mailbox is full, still 40 emails pending, if something is urgent scream.
+20:03 < zv> Trademark Attorney changed, Mojda Waterman will be replacing Pamela Chestek as legal representative.
+20:03 < zv> STF and Celestin Invoices were delayed. Sorry.
+20:03 < zv> Kassia working on a Privacy Policy for SPI.
+20:03 < zv> </report>
+20:04 < schultmc> [item 4, Treasurer's Report]
+20:04 < schultmc> zumbi?
+20:04 < zumbi> Treasurer reports have been updated, see https://www.spi-inc.org/treasurer/reports/
+20:04 < zumbi> 2024 external audit shall be done by Gary Eisenkraft CPA and his team, we are scheduled for June and audited financial statements will be available within a few months after that.
+20:04 < zumbi> If your project needs any information about 2024 transactions, email
+20:04 < zumbi> treasurer@spi-inc.org
+20:04 < zumbi> We are rebalancing cash to be able to clear pending payments, apologies for any delays.
+20:04 < zumbi> Thanks very much for the continuous work of the treasurer team, including president, vice-president and contractors.
+20:04 < zumbi> .
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> zv?
+20:05 < zv> Nothing to report other than a continued reduction in my capacity to handle duties here due to personal reasons, and a reiterated desire to find a replacement. (Which as of yet has not been solidifed).
+20:05 < schultmc> [item 6, Outstanding minutes]
+20:05 < schultmc> The minutes for the 2025-03-10 meeting require approval
+20:05 < schultmc> They can be viewed at
+20:05 < schultmc> https://www.spi-inc.org/meetings/minutes/2025/2025-03-10/
+20:06 < zv> fsf: mind running the vote, or should I?
+20:06 < fsf> Voting started, 9 people (fsf,fungi,jconway,jesusalva,mappx,milan,schultmc,zumbi,zv) allowed to vote on Meeting minutes for Monday 10 March 2025. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:06 < fungi> !vote yes
+20:06 < zv> !vote yes
+20:06 < jconway> !vote yes
+20:06 < mappx> !vote yes
+20:06 < milan> !vote yes
+20:06 < schultmc> !vote yes
+20:06 < fsf> !vote abstain
+20:06 < zumbi> !vote yes
+20:07 < zv> Jesusalva[m]: ?
+20:07 < Jesusalva[m]> Sorry
+20:07 < Jesusalva[m]> ! vote yes 
+20:07 < Jesusalva[m]> !vote yes
+20:08 < fsf> Current voting results for "Meeting minutes for Monday 10 March 2025": Yes: 7, No: 0, Abstain: 1, Missing: 1 ( jesusalva )
+20:08 < fsf> Voting for "Meeting minutes for Monday 10 March 2025" closed.
+20:08 < zv> i will amend that
+20:08 < schultmc> [item 7, Items up for discussion]
+20:08 < schultmc> [item 7.1 Resolution 2025-04-04.jln.1: Removal of X.Org as an associated project]
+20:08 < schultmc> Jesusalva[m]?
+20:09 < Jesusalva[m]> It mostly already happened and we're just formalizing it. Longest deboarding ever
+20:09 < Jesusalva[m]> Took over a year
+20:09 < Jesusalva[m]> Let me know if anyone needs more context tho
+20:11 < schultmc> Does this require a vote or is this just informative?
+20:11 < Jesusalva[m]> Requires a vote
+20:11 < fungi> as it's a resolution, i would expect a vote
+20:12 < schultmc> fsf: please start the vote
+20:12 < fsf> Sorry, on it
+20:12 < fungi> (the text of the resolution is in an attachment in e-mail from 2025-04-08)
+20:13 < schultmc> it's also in the agenda
+20:13 < fsf> Voting started, 9 people (fsf,fungi,jconway,jesusalva[m],mappx,milan,schultmc,zumbi,zv) allowed to vote on Resolution 2025-04-04.jln.1-  Removal of X.Org as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:13 < zumbi> !vote yes
+20:13 < schultmc> !vote yes
+20:13 < fungi> !vote yes
+20:13 < jconway> !vote yes
+20:13 < mappx> !vote yes
+20:13 < fsf> !vote yes
+20:13 < zv> !vote yes
+20:13 < milan> !vote yes
+20:13 < Jesusalva[m]> !vote yes
+20:13 < fsf> Current voting results for "Resolution 2025-04-04.jln.1-  Removal of X.Org as an associated project": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+20:13 < fsf> Voting for "Resolution 2025-04-04.jln.1-  Removal of X.Org as an associated project" closed.
+20:14 < schultmc> [item 8, Any other business]
+20:14 < schultmc> Anything to discuss?
+20:14 < Jesusalva[m]> (1) Approval of Celestin's Plan of Action for member cleanup; and (2) Kassia Contract's Term End. As per email 
+20:14 < Jesusalva[m]> (1) the plan is by email but feel free to ask Perdu if there are questions 
+20:14 -!- Kassia [~oftc-webi@189.6.25.215] has quit [Remote host closed the connection]
+20:15 < Perdu> Should I re-explain or copy-paste?
+20:15 < fungi> the plan is the one outlined in your message from 2025-01-17 yes?
+20:16 < Perdu> Yes
+20:16 < zv> copy-paste or explanation is helpful please thanks
+20:16 < Perdu> My first point was about whether non-contributing members require cleaning due to privacy legislation, but I guess this is what the privacy policy Kassia has been assigned to is about
+20:16 < fungi> ah, though the resolution text is e-mail from 2025-04-01
+20:16 < Perdu> Second point was basically whether login is sufficient to estimate activity (for yearly members cleaning), or is there a need for a manual validation
+20:16 < Perdu> Full rationale:
+20:17 -!- Kassia [~oftc-webi@177.174.217.205] has joined #spi
+20:17 < Perdu> Following resolution 2023-04-10.jln.1, the logic for cleaning contributing members changes in absence of a recent vote. However, I still need clarification for implementation.
+20:17 < Perdu> Is login sufficient to estimate activity? Current system requires user to either vote on election, or click on a link they're only given in the ping email to prove they're still active.
+20:17 < Perdu> - Proposed change would mean that 2 systems exist in parallel:
+20:17 < Perdu>   - when a vote happens, check whether user has voted, and if not, ask them to manually click on a link to prove they're still active
+20:17 < Perdu>   - when no vote happens, use login activity instead
+20:17 < Perdu> The difference between manual validation of activity in one case and simply checking last login in the other case seems incoherent to me. Shouldn't this always be manual?
+20:17 < Perdu> Members may log in but not wish to remain contributing members, for instance to unsubscribe from mailing lists. As members don't have a way to delete their account, I think manual confirmation is necessa
+20:18 < Perdu> ry
+20:19 < fungi> i agree, basing continued membership on whether they've logged in recently is dubious
+20:20 < fungi> voting exercises their membership and is a clear sign of its intended activity, manual confirmation has a similar effect in the absence of a vote
+20:20 < jconway> seems reasonable to me
+20:21 < Jesusalva[m]> I thought users had to press an "I'm active" button to update last activity time 
+20:21 < jconway> as in vote or manual confirm that is
+20:22 < Perdu> resolution 2023-04-10.jln.1 says "In the event that no annual Board member election takes place, regardless of reason, potentially inactive members will be decided based on their last activity in the membership portal;"
+20:22 < Perdu> which I understand as "login activity" instead of manual confirm
+20:22 < fungi> i guess "activity" is not clearly defined in the text of the resolution
+20:22 < zv> if membership doesn't require renewal (hypothetical membership cards) via email reminders, if we have not communicated that membership can and will be automatically revoked, I do not personally feel we are in the position to responsibly cull the rolls like this
+20:23 < zv> in my opinion we should first define a rigorous policy/requirement for making members be responsible to ensure they stay active, then develop a transitory process
+20:23 < Jesusalva[m]> I feel we are legally required to in face of SPI By Laws needs and privacy laws worldwide 
+20:23 < fungi> well, we do communicate that it will be automatically revoked based on failure to engage in membership votes, correct? so it's not that there is no revocation
+20:24 < Jesusalva[m]> For instance, by laws cannot be modified if a certain amount of CM aren't active
+20:24 < Jesusalva[m]> Because they're counted for the vote as nays
+20:24 < zumbi> That has already been problematic in the past
+20:24 < fungi> yes, if we accumulate too many defunct "members" it can become impossible to achieve quorum for any future vote
+20:26 < Jesusalva[m]> It already happened in 2019
+20:27 < mappx> zumbi, would it be possible for you to expand on how it has been problematic in the past, or is it restricted to the 2019 instance that Jesusalva mentioned?
+20:27 < Jesusalva[m]> When you login, isn't the a button to update last activity time?
+20:27 < Perdu> There is
+20:28 < Jesusalva[m]> mappx, 2019 vote was inquorate, Board has not attempted any further membership wide vote since then
+20:28 < Jesusalva[m]> Perdu: We could just use that button, no?
+20:28 < zumbi> mappx: yes, the same Jesusalva[m] refers
+20:28 < Perdu> Wait no, it only appears in certain cases I think
+20:28 < mappx> Jesusalva: thank you
+20:28 < mappx> zumbi: thank you
+20:29 -!- Kassia [~oftc-webi@177.174.217.205] has quit [Remote host closed the connection]
+20:29 < Perdu> I think it only appears when you're downgraded to ncm for inactivity or something
+20:29 < Perdu> But yea, modifying this is not hard technically
+20:30 < Perdu> The question is more: how to respect the resolution/by-laws, and is a new resolution necessary if the former one is not acceptable
+20:32 < Jesusalva[m]> I feel the former one is just vague enough that it can be solved with adding a clarification of what we consider activity
+20:33 < fungi> if, in the absence of any vote for the year, we communicate to members the alternative mechanism for asserting their activity through the same channels as we notify them of a vote, then that seems to meet the resolution
+20:34 < Jesusalva[m]> fungi +1
+20:34 -!- sima_ [~Simona@2a02:168:57f4:0:5485:d4b2:c087:b497] has quit [Ping timeout: 480 seconds]
+20:34 < schultmc> That seems reasonable
+20:34 < Perdu> OK, so I just implement manual validation (+ prior email), and there is no need for any vote or additional resolution?
+20:35 < schultmc> also, a member downgraded to NCM can re-become a CM in the future if they so desire
+20:35 < Perdu> Yes, this is the case
+20:36 < fungi> the resolution doesn't define "last activity in the membership portal" as merely "logged into the account" so it's up to us to clarify anyway
+20:37 < Perdu> I guess everyone agrees and the meeting can move on?
+20:37 < fungi> from a procedural perspective, it would make sense to do it immediately after a board member election would have been held, in the event that none is held
+20:38 < fungi> (doing it too close to an upcoming vote can be seen as election tampering)
+20:39 -!- Kassia [~oftc-webi@177.174.217.205] has joined #spi
+20:40 < Jesusalva[m]> +1
+20:41 < schultmc> FYI, I need to leave in 5-10 mins. I'll bring my laptop and hotspot but will be driving thus less able to type interactively
+20:41 < fungi> Perdu: i won't speak for everyone, but i agree and didn't have any further questions
+20:42 < Jesusalva[m]> Item (2) is that Kassia contract is set to expire at the end of the month, and we've been using only ~12 hours from the original estimate of 32
+20:42  * schultmc has no further comments or questions on the membership
+20:43 < Jesusalva[m]> zumbi had a proposal to renew the contract with 12h and use the 20h which aren't being required by the board in something else
+20:43 < Jesusalva[m]> (in any case, we'll only pay for the hours which were worked on)
+20:44 < jconway> do we need to be that specific regarding how the hours are used? Seems like as long as we only get billed for actual usage, any legitimate usage is ok, no?
+20:45 < Jesusalva[m]> I think zumbi wants to bring someone else to do some Python programming tasks for treasury
+20:45 < Jesusalva[m]> And yes jconway, although it should ideally be in the SOW
+20:45 < fungi> reducing the hour cap on the contract means we don't have to budget for more than we're using, but also limits our flexibility if something comes up where we suddenly need more hours unexpectedly
+20:46 < jconway> ah, ok
+20:46 < jconway> well that was kind of my thinking
+20:46 < jconway> why be less flexible
+20:47 < zumbi> Yes, I'd like to contract some frontend/backend developers to help fully automating current workflows we do in treasury, in a more consolidated platform, then we can provide more efficient and timely reports to associated projects
+20:47 < fungi> the risk being that we use the maximum hours for both contractors and go over budget as a result of oversubscribing the same pool of funds, i guess
+20:47 < Perdu> (Why not just asking me? Seems to match my SOW already)
+20:48 < jconway> seems like low/manageable risk
+20:48 < zv> make the python contract fixed / milestone?
+20:49 < zumbi> It has not been thought or detailed, it is the initial idea
+20:50 < zumbi> probably by milestones
+20:52 < zumbi> If no other complains, we'll work on preparing more detailed information for a potential job offer
+20:52 < mappx> +1
+20:52 < jconway> +1
+20:53 < fungi> thanks
+20:53 < Jesusalva[m]> LGTM. What do we do with Kassia's contract? It's quite late tho, if people want to discuss later we can renew a month and rediscuss next meeting tho 
+20:54 < jconway> wfm
+20:54 < zumbi> Does Kassia want to renew?
+20:54 < fungi> i'd be fine with that
+20:54 < mappx> I would also be fine with that approach
+20:55 < Jesusalva[m]> Then assuming Kassia agrees to, let's do that and I have no other AOB
+20:55 < zumbi> +1
+20:55 < schultmc> [item 9, Next board meeting]
+20:55 < schultmc> The next board meeting is scheduled for: May 12, 2025 at 2000 UTC.
+20:55 < schultmc> Any objections?
+20:55 < schultmc> wfm
+20:55 < fsf> None here
+20:55 < fungi> that works, thanks
+20:55 < zumbi> Fine here
+20:55 < Jesusalva[m]> Should wfm
+20:56 < schultmc> *GAVEL*
