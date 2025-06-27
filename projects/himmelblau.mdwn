@@ -19,3 +19,13 @@ Originating as a fork of the Kanidm OAuth2 client led by William Brown, a SUSE e
 * Accepting donations and holding funds
 * Pay for Project Expenses
 * Holding intangible assets
+
+### Donate via PayPal
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<fieldset>
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="8GYKFLX9UNCH2" />
+<input type="image" src="../../images/paypal_btn_donateCC_LG.gif" style="border: 0px;" name="submit" alt="Donate to Himmelblau via PayPal" />
+</fieldset>
+</form>
