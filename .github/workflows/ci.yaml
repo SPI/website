@@ -24,6 +24,7 @@ jobs:
         working-directory: corporate/annual-reports
     steps:
       - uses: actions/checkout@v2
+      - run: sudo apt update
       - run: sudo apt install texlive-latex-base texlive-latex-extra texlive-fonts-recommended
       - run: rm *.pdf
       - run: make all
