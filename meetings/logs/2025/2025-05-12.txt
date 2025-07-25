@@ -1,0 +1,179 @@
+20:03 < schultmc> *GAVEL*
+20:03 < schultmc> [item 1, Opening]
+20:03 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:03 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:03 < schultmc> https://www.spi-inc.org/meetings/agendas/2025/2025-05-12/
+20:03 < schultmc> [item 2, Roll Call]
+20:03 < schultmc> Directors, please state your name
+20:03 < milan> Milan Kupcevic
+20:03 < fsf> Forrest Fleming
+20:03 < zumbi> Héctor Orón Martínez
+20:03 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:03 < jesusalva> Jonatas Luis Nogueira
+20:03 < mappx> Katie McMillan
+20:03 < schultmc> Michael Schultheiss
+20:04 < fungi> Jeremy Stanley
+20:04 < luna> schultmc: done
+20:04 < schultmc> That's quorum - others can join us if they're available
+20:04 < dmulder> zv, David Mulder
+20:04 -!- sima_ [~Simona@2a02:168:57f4:0:5485:d4b2:c087:b497] has quit [Ping timeout: 480 seconds]
+20:04 -!- Maulkin [~maulkin@maulkin.emeritus.oftc.net] has joined #spi
+20:04 < schultmc> [item 3, President's Report]
+20:04 < schultmc> We have received a quote for the 2024 audit and will be moving forward with the audit.
+20:04 < schultmc> I've worked with our broker and have transferred funds from our brokerage account
+20:04 < schultmc> to our other accounts to help with Treasury team processing of requests.
+20:04 < schultmc> .
+20:04 < schultmc> </done>
+20:04 < schultmc> .
+20:05 < schultmc> jesusalva, do you have anything you would like to add?
+20:05 < jesusalva> FFMpeg x STF contract is finally over. Kassia has already sent the Final Invoice to Sovereign Tech Fund, and we're now waiting for FFmpeg to complete the Final Report.
+20:05 < jesusalva> We have signed an engagement letter with Karl Mill law center. A meeting with Aaron Williamson in scheduled to happen earlier but was delayed due to agenda conflicts.
+20:05 < jesusalva> Célestin and the Treasury Team are working on finishing the requisites for the new Reimbursement System.
+20:05 < jesusalva> Célestin is also taking an inventory of all services in SPI's name. If any associated project has a service registered in SPI's name, please reply to his e-mail.
+20:05 < jesusalva> Kassia has finished an early draft of SPI's Privacy Policy, which was relayed to Martin and Célestin. It shouldn't require a vote* but it'll be sent to Board's appraisal before publishing.
+20:05 < schultmc> </done>
+20:05 < jesusalva> The vice president of SPI also formally notifies the Board to read the email sent by The Document Foundation. If any director feels an action is required, please raise in the AOB section or start a mail chain.
+20:05 < jesusalva> The VP backlog is currently ~51 items long, with oldest one being from about April 10. Feel free to poke me over IRC or bump your e-mail if you require urgency or if your demand is older and I haven't replied.
+20:05 < jesusalva> *: It might need, however, an accompainying resolution to govern how SPI treats personal data, and _that_ one would need a vote.
+20:05 < jesusalva> </done>
+20:05 < schultmc> [item 4, Treasurer's Report]
+20:05 -!- kassia [~oftc-webi@179.214.68.242] has joined #spi
+20:05 < schultmc> zumbi?
+20:05 < zumbi> Payment queue is empty, but there are many payments pending for review, treasurer team will process them in the upcoming weeks. If you have any urgency, please reach out.
+20:05 < zumbi> Thanks very much for the continuous work of the treasurer team, including president, vice-president and contractors.
+20:05 < zumbi> </done>
+20:05 < zumbi> .
+20:05 < schultmc> [item 5, Secretary's report]
+20:05 < schultmc> zv?
+20:06 < fsf> fwiw, I didn't see zv during roll call
+20:06 < jesusalva> schultmc: Joe Conway has sent regrets by email in May 7th. I think zv also sent regrets due to drive needs, not sure if he'll make it
+20:06 < schultmc> ah, we can move on then. iirc he may have been around earlier
+20:07 < schultmc> The minutes for the 2025-04-14 meeting require approval but are
+20:07 < schultmc> not yet available. They will be voted on at an upcoming meeting.
+20:07 < schultmc> [item 7, Items up for discussion]
+20:07 < schultmc> [item 7.1 Resolution 2025-05-12.js.1: Himmelblau Foundation as an Associated Project]
+20:07 < schultmc> fungi?
+20:07 < fungi> Himmelblau Foundation ( https://himmelblau-idm.org/ ) is applying to become an SPI Associated Project, and is interested in the following services: Accepting donations and holding funds, pay for project expenses, holding substantial assets, and holding intangible assets (currently a domain name).
+20:07 < fungi> Himmelblau Foundation is currently not hosted by or affiliated with any formal organization, and although it has been taking some donations via OpenCollective, it would prefer to do so through a charitable nonprofit instead.
+20:07 < fungi> Based on prior discussion with David Mulder, its maintainer and primary author, Himmelblau Foundation is ready to start leveraging more donations from its community in order to expand the project's resources and reach.
+20:07 < fungi> David Mulder would serve as the initial SPI Liaison for Himmelblau Foundation, with future successors appointed by the project leadership once it has been formalized.
+20:07 < fungi> I am sponsoring Himmelblau Foundation's application with resolution 2025-05-12.js.1, presented to the Board a week ago in E-mail.
+20:07 < fungi> Any questions before we vote?
+20:08 < fsf> Voting started, 7 people (fsf,fungi,jesusalva,mappx,milan,schultmc,zumbi) allowed to vote on Resolution 2025-05-12.js.1 - Himmelblau Foundation as an associated project. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:08 < schultmc> !vote yes
+20:08 < fsf> !vote yes
+20:08 < fungi> !vote yes
+20:08 < jesusalva> Just wanted to ask if the "Foundation" in the name is just stylistic or if they have an actual foundation somewhere
+20:08 < jesusalva> !vote yes
+20:08 < milan> !vote yes
+20:08 < dmulder> dmulder, stylistic
+20:08 < mappx> !vote yes
+20:08 < fungi> thanks for clarifying dmulder!
+20:09 < fungi> but yes, that was also my understanding per the informal discussion the board was copied on
+20:09 < jesusalva> zumbi?
+20:10 < zumbi> !vote abstain
+20:10 < fsf> Current voting results for "Resolution 2025-05-12.js.1 - Himmelblau Foundation as an associated project": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:10 < fsf> Voting for "Resolution 2025-05-12.js.1 - Himmelblau Foundation as an associated project" closed.
+20:10 < schultmc> [item 7.2 ]
+20:10 < schultmc> jesusalva? fungi mentioned you also had items to discuss but a quick search prior
+20:10 < schultmc> to the meeting didn't bring them up for me.
+20:10 < fungi> i think it was about the jenkins balance?
+20:11 < fungi> he replied saying something along the lines of "please add this to the meeting agenda"
+20:11 < jesusalva> Yes, Jenkins, a former associated project, still has a couple thousands with us
+20:11 < jesusalva> They asked if they can donate it to OSUOSL, considering the Oregon State University supports their infrastructure and is in need of support
+20:12 < jesusalva> And OSUOSL failing could impact the availability of Jenkins. Alternatively, they asked to hold the money for another year if that's not possible
+20:12 < zumbi> if OSUOSL sends an invoice, it should be doable to pay them
+20:12 < fungi> seems there ought to be a way to work that out since spi and osuosl are both usa irs 501(c)(6) charities
+20:12 < luna> that sounds good 
+20:12 < jesusalva> We're 501(c)(3) fungi
+20:13 < schultmc> (c)(3) not c(6) btw
+20:13 < fungi> er, both (3) SORRY
+20:13 < fungi> finger memory :/
+20:13 < zumbi> then, that should be no problem
+20:13 < jesusalva> :>
+20:13 < zumbi> in anycase, do we have RT ticket for it?
+20:14 < zumbi> if not, open one and we deal with it
+20:14 < fungi> not that i've seen yet, just the e-mail thread
+20:14 < jesusalva> Understood, I'll forward the e-mail from board@spi to treasurer@rt.spi
+20:14 < zumbi> Thanks
+20:15 < jesusalva> Also, I think 7.2 was Kassia contract from the previous meeting decision to postpone to this one?
+20:15 < jesusalva> Ticket 16147 was opened for Jenkins
+20:18 < jesusalva> (For context, Kassia's contract expired and because it was late the Board decided to renew for a month and rediscuss it today)
+20:18 < jesusalva> kassia is also present if anyone has any questions
+20:19 < kassia> Yes, im here
+20:19 < schultmc> I'm very pleased with the work kassia did for SPI
+20:19 < fungi> absolutely, it's been a big help
+20:19 < mappx> I am as well
+20:20 < fungi> the deep dive into inactive projects was greatly appreciated, for example
+20:21 < fungi> i have no qualms with renewing the contract under similar terms for a while (the previous one was 6 months?)
+20:21 < jesusalva> I think so, or maybe less
+20:21 < jesusalva> Although we would reduce from 30h to 12h
+20:21 < jesusalva> To keep the estimation accurate with actual usage
+20:21 < zumbi> If the question is about contract renewal, I'd go for it until end of year
+20:22 < jesusalva> +1
+20:22 < milan> +1
+20:22 < jesusalva> kassia, for the record and for sake of formality, would you be willing to renew? I recall zumbi asked this last meeting too
+20:22 < kassia> Yes, I do
+20:22 < fungi> zumbi: you were also wanting to steer some of the budget to a contractor for accounting systems development, is that still the case?
+20:23 < zumbi> Yes, I was planning to work on a proposal, but it has been delayed for personal reasons
+20:23 < fungi> (or am i misremembering?)
+20:23 < fungi> okay, so it's not on the table yet. thanks
+20:23 < zumbi> I plan to have something over the upcoming weeks, for the next meetig
+20:23 < zumbi> meeting*
+20:24 < jesusalva> I have nothing else to add or question. If anyone has anything else to add, fsf can start the vote.
+20:24 < jesusalva> Err if no one...
+20:27 < fungi> it seems like no one does, unless they're typing v e r y  s l o w l y
+20:27 < schultmc> I'm ready to vote
+20:27 < jesusalva> I'll abstain to avoid the appearance of improperty
+20:28 < jesusalva> (Also, I have two AOBs, so...)
+20:29 < jesusalva> fsf: ping
+20:30 < zumbi> if it is inconvenient for fsf, I'd not mind voting manually
+20:32 < mappx> same
+20:34 < fsf> Whoops, sorry! What shall I call the proposal?
+20:35 < jesusalva> Renew Kassia's contract until the end of the year
+20:35 < fsf> ty 1sec
+20:36 < fsf> Voting started, 7 people (fsf,fungi,jesusalva,mappx,milan,schultmc,zumbi) allowed to vote on Renew Kassia's contract until the end of the year. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:36 < jesusalva> !vote abstain
+20:36 < fungi> !vote yes
+20:36 < fsf> !vote yes
+20:36 < zumbi> !vote yes
+20:36 < mappx> !vote yes
+20:36 < milan> !vote yes
+20:36 < schultmc> !vote yes
+20:36 < fsf> Current voting results for "Renew Kassia's contract until the end of the year": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+20:36 < fsf> Voting for "Renew Kassia's contract until the end of the year" closed.
+20:37 < schultmc> [item 8, Any other business]
+20:37 < schultmc> Anything to discuss?
+20:37 < jesusalva> Yes, unfortunately
+20:37 < luna> jesusalva said they had 2 things
+20:38 < jesusalva> First is the inventory Celestin is doing of services registered under SPI's name. We were wondering if we should publish the list (without disclosing which project uses what) for transparency and also for safeguard
+20:38 < jesusalva> Safeguard as in, if someone says they're donating a service to us, that would provide a quick way to prove or disprove that
+20:38 < fungi> i'm in favor of transparency whenever possible
+20:39 < luna> same
+20:39 < schultmc> I agree
+20:39 < fungi> this seems like a good opportunity for it
+20:39 < jesusalva> It also has the upside that requests for platforms we already have an account at process faster than those we doesn't
+20:39 < jesusalva> If there is no opposition we'll follow with that plan, then.
+20:40 < fsf> I also like this id ea
+20:40 < fungi> probably the only concern with such a list is making it clear we're not necessarily endorsing them. a sentence on the same page should suffice
+20:41 < Perdu> Sure
+20:43 < jesusalva> The second is that fungi asked for an update on TDF situation. While parts of it are confidential (and were sent via email), the Advisory Board (AB) of The Document Foundation, from which SPI is part of, expressed concerns regarding some transactions performed by TDF's Board of Directors.
+20:43 < jesusalva> These concerns were validated by experts, independently hired by TDF to ascertain the facts. I'm following up with the AB to verify if any action will be required by SPI.
+20:43 < fungi> thanks!
+20:45 < jesusalva> I'm hoping the situation is resolved soon. Because SPI is independent from TDF board, it should not directly affect us.
+20:46 < mappx> Are we directly a part of the Advisory Board (AB)?
+20:46 < jesusalva> But as LibreOffice is an associated project, we're still working with the AB to come to a solution to the problematic transactions.
+20:46 < jesusalva> Yes mappx, we have a seat at the AB
+20:48 < schultmc> Anything else for AOB?
+20:48 < jesusalva> Thankfully not
+20:48 < schultmc> [item 9, Next board meeting]
+20:48 < schultmc> The next board meeting is scheduled for: June 9, 2025 at 2000 UTC.
+20:48 < schultmc> Any objections?
+20:48 < schultmc> Works for me
+20:48 < milan> wfm
+20:48 < jesusalva> It's my Mother's birthday, I'll try to be present but will inform if not
+20:48 < luna> works for me
+20:48 < mappx> wfm
+20:49 < zumbi> Fine with me too
+20:49 < fungi> i'll be around
+20:49 < schultmc> *GAVEL*

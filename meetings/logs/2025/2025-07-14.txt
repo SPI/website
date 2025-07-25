@@ -1,0 +1,199 @@
+20:00 < schultmc> *GAVEL*
+20:00 < schultmc> [item 1, Opening]
+20:00 < schultmc> Welcome to today's Software in the Public Interest Board Meeting, which 
+20:00 < schultmc> is now called to order. Today's agenda can be found on the web at: 
+20:00 < schultmc> https://www.spi-inc.org/meetings/agendas/2025/2025-07-14/
+20:00 < schultmc> [item 2, Roll Call]
+20:00 < schultmc> Directors, please state your name
+20:00 < schultmc> Guests, please /msg your names to zv if you wish your attendance to be
+20:00 < zv> Zach van Rijn
+20:00 < schultmc> recorded in the minutes of this meeting.
+20:00 < jconway> Joe Conway
+20:00 < schultmc> .
+20:00 < schultmc> zv, do we have any regrets?
+20:00 < schultmc> .
+20:00 < schultmc> Michael Schultheiss
+20:00 < zv> no regrets that I am aware of
+20:00 < fungi> Jeremy Stanley
+20:00 < mappx> Katie McMillan
+20:00 < fsf> Forrest Fleming
+20:01 < schultmc> That's quorum - others may join if they're available
+20:01 < zumbi> Héctor Orón Martínez
+20:01 < schultmc> [item 3, President's Report]
+20:01 < schultmc> The July meeting of SPI is its Annual General Meeting. Thank you to
+20:01 < schultmc> Martin Michlmayr, Zach van Rijn, and Kassia Nogueira for compiling
+20:01 < schultmc> our Annual Report. 
+20:01 < schultmc> .
+20:01 < schultmc> Martin, Héctor and I have been working with our auditor to get our 2024
+20:01 < schultmc> financial statements audited. We are also working with the auditing firm
+20:01 < schultmc> on filing our New York State and Federal annual filings. We have received
+20:01 < schultmc> a 6 month extension for the time to file and are confident the filings will
+20:01 < schultmc> be completed by the November 15, 2025 deadline.
+20:01 < schultmc> .
+20:01 < schultmc> The SPI Board is currently seeking nominations for 5 open/expiring board terms.
+20:01 < schultmc> Nominations will be open through 23:59 UTC on 2025-07-21. See the announcement
+20:01 < schultmc> at 
+20:02 < schultmc> https://archives.spi-inc.org/message-id/CALE%3D2%3D9BZ%2B%2BL%2BQnm78uem%3DEJOYcpsb1oZA-GSO%3DRrNZb6k7dfQ%40mail.gmail.com
+20:02 < schultmc> for more information
+20:02 < schultmc> </done>
+20:03 < schultmc> [item 4, Treasurer's Report]
+20:03 < schultmc> Not sure if zumbi is available
+20:03 < zumbi> better if you skip and I give update later.
+20:03 < schultmc> ok
+20:03 < Jesusalva[m]> Sorry, I'm late
+20:04 < Jesusalva[m]> Jonatas Luis Nogueira 
+20:04 < schultmc> [item 5, Secretary's report]
+20:04 < schultmc> zv?
+20:04 < zv> I have no organization-specific announcements or notices at this
+20:04 < zv> time. Please excuse any delays in having up-to-date minutes, and
+20:04 < zv> thank you to the others at SPI who have been helping with that.
+20:04 < zv> </done>
+20:04 < schultmc> [item 6, Outstanding minutes]
+20:04 < schultmc> The outstanding minutes are not yet ready for a vote and will be voted
+20:04 < schultmc> on at an upcoming board meeting.
+20:04 < schultmc> [item 7, Items up for discussion]
+20:04 < schultmc> [item 7.1, Libreboot association]
+20:04 < fungi> Libreboot ( https://libreboot.org/ ) is applying to become an SPI Associated Project, and is interested in the following services: Accepting donations and holding funds, pay for project expenses, holding substantial assets, holding intangible assets, signing contracts, accounting and auditing, legal assistance.
+20:04 < fungi> Libreboot is currently not hosted by or affiliated with any formal organization, and although it has been taking some donations via Patreon in order to cover project expenses, it would prefer to do so through a software-focused charitable nonprofit instead. Leah Rowe, the lead developer, would serve as the initial SPI Liaison for Libreboot, with future successors appointed by the current
+20:04 < fungi> liaison or surviving contributors.
+20:05 < fungi> I am sponsoring Libreboot's application with resolution 2025-07-14.js.1, presented to the Board a week ago in E-mail.
+20:05 < fungi> Any questions before we vote?
+20:05 < fsf> Voting started, 8 people (fsf,fungi,jconway,jesusalva,mappx,schultmc,zumbi,zv) allowed to vote on Accept Libreboot as an SPI associated project via resolution 2025-07-14.js.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:05 -!- Kassia [~oftc-webi@179.214.68.139] has joined #spi
+20:05 < schultmc> !vote yes
+20:05 < zv> !vote yes
+20:05 < fsf> !vote yes
+20:05 < jconway> !vote yes
+20:05 < zumbi> !vote yes
+20:05 < fungi> !vote yes
+20:05 < Jesusalva[m]> !vote yes
+20:05 < mappx> !vote yes
+20:06 < fsf> Current voting results for "Accept Libreboot as an SPI associated project via resolution 2025-07-14.js.1": Yes: 7, No: 0, Abstain: 0, Missing: 1 ( jesusalva )
+20:06 < fsf> Voting for "Accept Libreboot as an SPI associated project via resolution 2025-07-14.js.1" closed.
+20:06 < fungi> thanks!
+20:06 < schultmc> [item 7.2, Bylaws amendment proposal]
+20:06 < fsf> Please let the record reflect jesusalva's positive vote
+20:07 < Jesusalva[m]> I mostly described by the attorney message, three changes from which most notable is a quorum reduction.
+20:07 < Jesusalva[m]> All bylaws amendments must pass a membership vote
+20:07 < Jesusalva[m]> Right now it needs about 100 affirmative votes to pass, but we usually have the Board vote an authorization before submitting to membership.
+20:08 < Jesusalva[m]> Vote on amendment would happen alongside director elections.
+20:08 < schultmc> I reviewed the attorney's recommendation and the proposal seems fine to me
+20:09 < Jesusalva[m]> Do I need to type anything else? From phone is harder and I'm kinda busy IRL
+20:09 < fungi> i've gone through this in another open source nonprofit, as we saw voting member interest decline we struggled to get any high-bar bylaws amendments approved, and only just barely squeaked by on a vote to reduce the quorum requirement
+20:09 < schultmc> Not for this item 
+20:09 -!- milan [~milan@000268e7.user.oftc.net] has joined #spi
+20:09 < Jesusalva[m]> (ps. Reminder about the annual report, though, it's supposedly completed or almost complete)
+20:09 < milan> o/
+20:09 < fsf> Voting started, 8 people (fsf,fungi,jconway,jesusalva[m],mappx,schultmc,zumbi,zv) allowed to vote on Approve of bylaws amendment proposal to be delivered to membership. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:09 < fungi> !vote yes
+20:10 < schultmc> !vote yes
+20:10 < jconway> !vote yes
+20:10 < zv> !vote yes
+20:10 < fsf> !vote yes
+20:10 < mappx> !vote yes
+20:10 < milan> !vote yes
+20:10 < Jesusalva[m]> !vote yes
+20:10 < mappx> o/ milan :)
+20:10 < zumbi> !vote yes
+20:10 < fsf> Current voting results for "Approve of bylaws amendment proposal to be delivered to membership": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+20:10 < zv> The 2024 annual report has been completed and announced to the announcements mailing list.
+20:10 < fsf> Voting for "Approve of bylaws amendment proposal to be delivered to membership" closed.
+20:10 < zv> milan: please state your name
+20:10 < fsf> Please let the record refelct milan's positive vote
+20:10 < milan> Milan Kupcevic
+20:10 < fungi> getting this sort of amendment voted on during director elections, as part of the same ballot action, tends to have the highest chance of getting sufficient quorum, whereas running a vote on it stand-alone is quite likely to fail that minimum
+20:11 < fungi> huge thanks to Perdu for work on improving the voting system to support that sort of activity
+20:12 < schultmc> [item 7.3, Question regarding arbitration clauses]
+20:13 < schultmc> Jesusalva[m]: ?
+20:14 < Jesusalva[m]> We don't have a policy about this
+20:14 < Jesusalva[m]> Wanted to collect directors feelings 
+20:14 < Jesusalva[m]> And any membership available 
+20:15 < fungi> what is the specific question regarding arbitration clauses?
+20:15 < Jesusalva[m]> Arbitration prevents entering court litigation, so we usually have ~30 days to opt out if we don't want to
+20:15 < Jesusalva[m]> Except we have no policy or general feelings to guide opting in or out 
+20:16 < fungi> is this the sort of thing we should ask counsel about for each new unique occurrence?
+20:16 < Jesusalva[m]> We probably should just make a general policy, although I believe arbitrations have less costs... And more arbitrary decisions as well
+20:17 < fungi> it seems like arbitration works differently in each jurisdiction, and i personally don't know in which cases it works in our favor or against us
+20:17 < milan> Lets get counsel opinion about having a general policy on this question.
+20:18 < Jesusalva[m]> Sounds good to me
+20:18 < schultmc> I agree we should have counsel's opinion
+20:18 < fungi> that seems like a worthwhile initial step
+20:18 < fsf> I agree
+20:18 < schultmc> [item 7.4, Question about MinGW being unreachable]
+20:18 < Jesusalva[m]> Already addressed.
+20:18 < schultmc> Perdu said this may be resolved
+20:18 < schultmc> ok
+20:18 < schultmc> [item 8, Any other business]
+20:18 < schultmc> Anything to discuss?
+20:18 < Jesusalva[m]> Kássia likely can comment if she remains having issues
+20:19 < zumbi> I can give treasurer update now too.
+20:19 < Jesusalva[m]> Michael, it's the AGM, remember to open the floor (I forgot to add it to agenda)
+20:19 < schultmc> zumbi: please go ahead
+20:19 < zumbi> Treasurer reports are in progress being prepared and to be published soon.
+20:19 < zumbi> There are few payments in the queue, we'll work on those over the month.
+20:19 < zumbi> If you have any urgency, please reach out.
+20:19 < zumbi> Thanks very much for the continuous work of the treasurer team, including president, vice-president and contractors.
+20:19 < zumbi> .
+20:19 < zumbi> </done>
+20:19 < schultmc> As Jesusalva[m] mentioned, this is our annual general meeting, if any members present have anything to discuss, please feel free to speak now
+20:20 < zv> I neglected to put the Synthea application on the agenda but it had been discussed in the preceding weeks via email. Is it appropriate to include that today or shall it wait?
+20:21 < Jesusalva[m]> I think it's fine during the AGM
+20:21 < zv> proceeding..
+20:21 < zv> This refers to proposed Resolution 2025-07-14.zv.1: Synthea as an Associated Project. The project can be found here: https://synthetichealth.github.io/synthea/ (though this is not necessarily the canonical project URL).
+20:21 < zv> Synthea is a substantial and significant Free Software project. Synthea is an open-source, synthetic patient generator that models the medical history of synthetic patients.
+20:21 < zv> The Synthea project would like SPI's support and assistance, including: accepting donations and holding funds, and paying for project expenses.
+20:21 < zv> I am sponsoring Synthea's application. Andre Quina will be the project liaison.
+20:21 < zv> .
+20:21 < Jesusalva[m]> (I wanted to put OpenSSL and iCn3D but both are waiting someone to reply) 
+20:21 < Jesusalva[m]> How are future liaisons appointed?
+20:22 < zv> Successors will be appointed by the project leadership.
+20:22 < zv> it is in the resolution; above was summarized.
+20:22 < Jesusalva[m]> LGTM, and sorry for missing that too 😅
+20:23 < fungi> and under what circumstances should the project be considered defunct? and what happens to remaining funds in that circumstance?
+20:23 < zv> fungi: boilerplate, in the resolution (see email?) 
+20:23 < zv> If the last known SPI liaison for Synthea is unreachable, and no new SPI liaison is appointed for two consecutive years, the associated project is deemed defunct.
+20:23 < fungi> i should check e-mail, i missed the full resolution
+20:24 < fungi> aha, i see it covered there. thanks!
+20:24 < Jesusalva[m]> (I missed it too)
+20:24 < fungi> it was sent only a few hours ago looks like, but mea culpa
+20:26 < fsf> Shall we vote, or would you prefer to postpone?
+20:26 < fungi> i'm fine to proceed
+20:26 < Jesusalva[m]> I have ~12 emails from last few hours 😅
+20:26 < zv> I prefer to vote today if possible but will not force it if there are any objections.
+20:26 < Jesusalva[m]> I'm fine to proceed
+20:26 < fsf> Voting started, 9 people (fsf,fungi,jconway,jesusalva[m],mappx,milan,schultmc,zumbi,zv) allowed to vote on Accept Synthea as an associated project via resolution 2025-07-14.zv.1. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+20:27 < fungi> !vote yes
+20:27 < fsf> !vote yes
+20:27 < schultmc> !vote yes
+20:27 < zv> !vote yes
+20:27 < mappx> !vote yes
+20:27 < zumbi> !vote yes
+20:27 < jconway> !vote yes
+20:27 < milan> !vote yes
+20:28 < Jesusalva[m]> !vote yes
+20:28 < fsf> Current voting results for "Accept Synthea as an associated project via resolution 2025-07-14.zv.1": Yes: 9, No: 0, Abstain: 0, Missing: 0 ()
+20:28 < fsf> Voting for "Accept Synthea as an associated project via resolution 2025-07-14.zv.1" closed.
+20:28 < fungi> anything to make progress clearing out the backlog of association requests, we still have several more outstanding that i personally haven't found time for, sadly ;)
+20:29 < Jesusalva[m]> Kassia did a summary of many but many lack a sponsor in the board
+20:30 < Jesusalva[m]> eg. OIE
+20:30 < schultmc> Anyone else have anything to discuss?
+20:30 < fungi> also as before, i'm happy to help mentor any other self-motivated directors on researching association requests
+20:32 < zumbi> Nothing from my side.
+20:32 < Jesusalva[m]> Not really, just remember to send nominations before they close
+20:32 < Jesusalva[m]> Once they close it'll be too late to do anything about it
+20:33 < zumbi> Are nominations expected to be acknowledged?
+20:33 < fungi> ideally we'll have enough nominees to run a poll this time
+20:34 < schultmc> [item 9, Next board meeting]
+20:34 < schultmc> The next board meeting is scheduled for: August 11, 2025 at 2000 UTC.
+20:34 < fungi> acknowledgement would be great. i remember when i was first elected, i had submitted my self-nomination to secretary and it got overlooked
+20:34 < schultmc> Any objections?
+20:34 < jconway> none here
+20:34 < zv> I will ACK any nominations that I've received, soon.
+20:34 < Jesusalva[m]> fungi I think we do
+20:34 < zumbi> No objections. 
+20:34 < milan> works for me
+20:34 < fungi> 2025-08-11 sounds good to me, i'll be around
+20:34 < schultmc> works for me
+20:34 < Jesusalva[m]> I hope, at least 
+20:34 < Jesusalva[m]> I think it WFM 
+20:34 < schultmc> *GAVEL*
