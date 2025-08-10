@@ -1,0 +1,186 @@
+[[!meta copyright="Copyright © 2025 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Meeting agenda for Monday 11th August, 2025
+
+This is the proposed agenda for the SPI board Meeting of Monday, August 11th
+2025, to be held at 20:00 UTC in #spi on irc.spi-inc.org.
+
+1. Opening
+2. Roll Call
+3. President's report
+    1. Election Results
+4. Treasurer's report
+5. Secretary's report
+6. Outstanding minutes
+7. Items up for discussion
+    1. Bylaws Amendment Result
+    2. OpenSSL as an associated project
+8. Officer Elections
+9. Any other business
+10. Next board meeting: September 8, 2025, 20:00 UTC
+
+## President's report
+
+<pre>
+pending
+</pre>
+
+### Election Results
+
+<pre>
+Count of first choices. Candidates Forrest Fleming and Héctor Orón Martínez have
+reached the threshold and are elected. Candidates Borden, Jeremy Stanley, and
+Jonatas Luis Nogueira are elected.
+
+All newly elected board members must, according to
+[Resolution 2016-02-10.djl.1](https://www.spi-inc.org/corporate/resolutions/2016/2016-02-10.djl.1/),
+send their Conflict of Interests statement to secretary@spi-inc.org. As per
+N-PCL 715-A (6)(c) the form is submitted prior to the initial election of a
+director.
+
+In case of conflict, N-PCL 715-A prevails over current SPI Bylaws.
+</pre>
+
+## Treasurer's report
+
+<pre>
+pending
+</pre>
+
+## Secretary's report
+
+<pre>
+pending
+</pre>
+
+## Items up for Discussion
+
+## Outstanding Minutes
+
+Minutes still pending. Membership reported missing some recent logs as well.
+Given the need of logs in the absence of minutes, any board member present on the
+meetings for which no minutes or logs were produced gently requested to publish
+the logs in the Secretary's stead for the 2024-2025 cycle.
+
+### Bylaws Amendment Result
+
+There are 148 eligible voters, and as such, the quorum defined on Bylaws is
+of 99 votes.
+
+82 votes were received.
+
+The amendment has therefore failed.
+
+### OpenSSL as an associated project
+
+(From Jonatas)
+
+<pre>
+# SPI resolution 2025-XX-XX.jln.1: OpenSSL as an associated project
+
+WHEREAS
+
+1. OpenSSL is a substantial and significant component for publicly available
+   software, providing a safe internet to the general public[1].
+
+2. SPI purposes include aid, assistance, cooperation and co-sponsoring with
+   organizations and association on all issues and matters concerning the use
+   of computers and computer software, insofar as aligned with SPI charitable
+   goals.
+
+3. OpenSSL Foundation would like SPI's support and assistance,
+   including accepting donations, holding funds, and paying for project
+   expenses, under a Model C sponsorship.
+
+THE SPI BOARD RESOLVES THAT
+
+4. OpenSSL is formally invited to become an SPI Associated Project,
+   and this fiscal sponsorship will be made according to the appended document[2],
+   which will constitute the **entire** agreement between OpenSSL Foundation and
+   Software in the Public Interest, Inc.
+
+THE SPI BOARD ALSO INFORMS FOR SAKE OF CLARITY THAT, ACCORDING TO THE AGREEMENT:
+
+5. The OpenSSL Foundation will appoint a SPI Liaison and all successors
+   to maintain contact. Failure from OpenSSL in appointing a liaison,
+   or if the last known SPI Liaison for OpenSSL is unreachable and
+   no new SPI Liaison is appointed for two consecutive years, is a cause
+   which prevent SPI from accomplishing the objectives of the project, and
+   cause termination of the agreement under section 7(b)(i) of the agreement.
+
+6. In the event of OpenSSL Foundation being declared defunct, bankrupt, facing
+   insolvency, or in any event on which OpenSSL Foundation continuity could
+   be reasonably questioned or ceases to exist, including by it being absorbed by
+   a for-profit corporation, SPI shall exert its variance power as reasonable,
+   to ensure the restricted funds remain in the charitable assets flow and in use
+   of the charitable project to which they were restricted to, as defined
+   in section 3 of the agreement; and nothing shall prevent SPI from deeming that
+   continued sponsorship of the Project is inconsistent with SPI's tax-exempt
+   status, causing termination of the agreement under section 7(b)(ii) of the
+   agreement.
+
+7. In the event the agreement and any SPI resolution contradicts each other,
+   including this resolution, the agreement itself shall prevail.
+
+THE SPI BOARD ALSO RESOLVES THAT
+
+8. This invitation will lapse, if not accepted, 60 days after it is
+   approved by the SPI Board. The invite will be considered accepted once the
+   contract is signed by an authorized representative of both parties.
+
+[1]: https://spi-inc.org/meetings/agendas/2025/OpenSSL_Activities.pdf
+[2]: https://spi-inc.org/meetings/agendas/2025/FSA_OpenSSL.pdf
+</pre>
+
+## Officer Elections
+
+Officers are elected for one year, with their term starting and ending in August.
+
+## Other Business
+
+This is a list of anything marked as "outstanding" or "in progress" in the spi-board
+in the previous month. Things in progress from before this month are not present,
+unless they were bumped. Not everything is present. These items are only discussed
+if a director asks about them; otherwise they're here for transparency only.
+(Some of these are from August).
+
+- Windows Code Signing Certificate
+- Communication Committee and Secretary
+- Difficulties reaching out to MinGW
+- More pending association requests, from oldest to newest: iCn3D, OSHIE, CoMaps,
+  U-boot.
+    - iCn3D: Waiting for reply from project
+    - Open Source Heathcare Integration Engine: Waiting for SPI
+    - CoMaps: Waiting for SPI
+    - U-boot: Waiting for SPI
+- Pending membership requests (due to membership vote restrictions)
+- Need to better specify how membership votes are done
+- Reported difficulty from CMs in accessing spi-private
+- Reported difficulty from "IRC registration instructions" concerning elections
+- Possible contradictions between Resolution 
+  [2004-08-10.dbg.2/](https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.dbg.2/),
+  SPI By-laws, current practice and possibly the applicable law given its age.
+- Treasurer reports, graphs balances, and other stuff Héctor is working on
+- STF sponsorship to associated project, and Kassia as point-of-contact
+- General discussion about TDF new Conflict of Interest policy and
+  Code of Ethics, and what SPI can learn or improve from it
+- Removal of Yourcause UK, as deliberated in the previous meeting and advised by
+  accounting team
+- Malpractice: Replies to spi-announcement should go to spi-general
+  (need to document this better)
+- Apple Developer Program successful renewal
+- X.Org grant letter pending (Necessary to finish deboarding; Jonatas is waiting
+  for the exact value to send the minute to the SPI Treasury Team)
+- Lack of policy regarding "late invoices". Specially after calendar year closes,
+  but in some cases it makes difficult to do proper accrual of expenses on the date
+  they were incurred as mandated by IASB.
+- Lack of a written, adequate and comprehensive accounting policies by SPI.
+- Board is supposed to periodically redo the due diligence on associated projects.
+  Right now, Board's periodic diligence happens during the annual report
+  preparation, but it is undocumented and might not be sufficient to address all
+  compliance concerns, specially given currently, not all directors participate.
+- Donor restricted funds and the accounting challenges concerning them
+- Audit 2024 currently in progress, check treasurer report
+- SPI Privacy Policy is ready but remains unpublished (does this needs Board?)
+- No progress on arbitral clauses question (Jonatas forgot to send the email)
