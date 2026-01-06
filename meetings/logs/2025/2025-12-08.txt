@@ -1,0 +1,303 @@
+2025-12-08 20:00:06	schultmc	[item 1, Opening]
+2025-12-08 20:00:06	schultmc	Welcome to today's Software in the Public Interest Board Meeting, which 
+2025-12-08 20:00:06	schultmc	is now called to order. Today's agenda can be found on the web at: 
+2025-12-08 20:00:08	schultmc	https://www.spi-inc.org/meetings/agendas/2025/2025-12-08/
+2025-12-08 20:00:10	schultmc	[item 2, Roll Call]
+2025-12-08 20:00:13	schultmc	Directors, please state your name
+2025-12-08 20:00:14	milan	Milan Kupcevic
+2025-12-08 20:00:15	schultmc	Guests, please /msg your names to fungi if you wish your attendance to be
+2025-12-08 20:00:18	jconway	Joe Conway
+2025-12-08 20:00:18	schultmc	recorded in the minutes of this meeting.
+2025-12-08 20:00:20	schultmc	.
+2025-12-08 20:00:21	fungi	Jeremy Stanley
+2025-12-08 20:00:21	mappx	Katie McMillan
+2025-12-08 20:00:23	schultmc	fungi, do we have any regrets?
+2025-12-08 20:00:25	schultmc	Michael Schultheiss
+2025-12-08 20:00:26	<--	borden_ (~borden@99.209.53.2) has quit
+2025-12-08 20:00:27	fsf	forrest fleming
+2025-12-08 20:00:43	fungi	yes, i erceived regrets from borden and fsf, though they may be partially present
+2025-12-08 20:00:48	fungi	received
+2025-12-08 20:01:00	-->	borden_ (~borden@99.209.53.2) has joined #spi
+2025-12-08 20:01:11	schultmc	That's quorum - others may join if they're available
+2025-12-08 20:01:18	borden_	Borden Rhodes
+2025-12-08 20:01:21	schultmc	[item 3, President's Report]
+2025-12-08 20:01:21	schultmc	Martin, Héctor and I worked with our auditor to get our 2024
+2025-12-08 20:01:21	schultmc	financial statements audited. We are also worked with the auditing firm
+2025-12-08 20:01:21	schultmc	on filing our New York State and Federal annual filings. We received
+2025-12-08 20:01:21	schultmc	a 6 month extension for the time to file and the filings were
+2025-12-08 20:01:23	schultmc	completed by the November 15, 2025 deadline. The audit report and filings
+2025-12-08 20:01:26	-->	Amy_ (~oftc-webi@pool-108-45-90-188.washdc.fios.verizon.net) has joined #spi
+2025-12-08 20:01:26	schultmc	will be published on the Treasurer page on our website shortly.
+2025-12-08 20:01:28	schultmc	</done>
+2025-12-08 20:01:31	schultmc	.
+2025-12-08 20:01:33	schultmc	Jesusalva[m]: Anything to add?
+2025-12-08 20:03:02	-->	borden__ (~borden@2607:f2c0:e385:ffe2:4ff:8d8:57c1:30a2) has joined #spi
+2025-12-08 20:03:10	Jesusalva[m]	Jonatas L Nogueira 
+2025-12-08 20:03:18	Jesusalva[m]	Nothing to add, sorry 
+2025-12-08 20:03:26	schultmc	[item 4, Treasurer's Report]
+2025-12-08 20:03:26	schultmc	zumbi is unavailable.
+2025-12-08 20:03:26	schultmc	.
+2025-12-08 20:03:26	schultmc	The treasury team is continuing to process reimbursements and payments. If
+2025-12-08 20:03:26	schultmc	there is an urgent need (i.e. other than NET 30) please let
+2025-12-08 20:03:28	schultmc	treasurer@rt.spi-inc.org know
+2025-12-08 20:03:33	-->	jericson_ (~oftc-webi@2607:fb91:434:493:450e:d5a8:fe3e:1adc) has joined #spi
+2025-12-08 20:03:34	schultmc	[item 5, Secretary's report]
+2025-12-08 20:03:36	schultmc	fungi?
+2025-12-08 20:03:40	fungi	This is a final reminder to directors to complete your 2025 conflict of interest forms and send them to the secretary address before the end of the year, please. In reviewing the secretary inbox I see that we're still missing them for fsf, jconway, milan, and zumbi (I'm also working with mappx to redo hers with the expected Conflict Disclosure Form).
+2025-12-08 20:03:40	fungi	EOF
+2025-12-08 20:04:04	mappx	Thanks for your help btw
+2025-12-08 20:04:16	fungi	you're welcome
+2025-12-08 20:04:46	jconway	is there an SOP to create this form? I seem to recall it took some esoteric process to create
+2025-12-08 20:05:07	jconway	(and why do we need to redo it annually?)
+2025-12-08 20:05:19	Jesusalva[m]	Because N-PCL says so
+2025-12-08 20:05:30	Jesusalva[m]	(New York Laws)
+2025-12-08 20:05:55	Jesusalva[m]	But I think there's a SOP in the repository 
+2025-12-08 20:05:57	fungi	there's a text-based exhibit at the end of the conflict disclosure policy inside the board-private repo on gitlab, copy that into e-mail and fill out the blanks, then send the result to the secretary inbox
+2025-12-08 20:06:32	fsf	and pgp sign?
+2025-12-08 20:06:48	fungi	there's a readme in the same folder explaining how to sign the form with an openpgp key, but i doubt that's strictly required and a lot of folks don't seem to bother
+2025-12-08 20:06:57	<--	Amy_ (~oftc-webi@pool-108-45-90-188.washdc.fios.verizon.net) has quit (Quit: Page closed)
+2025-12-08 20:07:26	schultmc	[item 6, Outstanding minutes]
+2025-12-08 20:07:26	schultmc	The minutes for 2025-11-10 are outstanding. They may be
+2025-12-08 20:07:26	schultmc	reviewed at:
+2025-12-08 20:07:28	schultmc	https://www.spi-inc.org/meetings/minutes/2025/2025-11-10/
+2025-12-08 20:09:20	fungi	shall i call for a vote or are there any concerns/objections?
+2025-12-08 20:09:32	schultmc	no concerns here
+2025-12-08 20:09:52	fungi	looks like we potentially have everyone except zumbi, so 8 directors this time
+2025-12-08 20:10:00	fungi	Voting started, 8 people (borden_,fsf,fungi,jconway,Jesusalva[m],mappx,milan,schultmc) allowed to vote on Accept meeting minutes for Monday 10 November 2025. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2025-12-08 20:10:04	fungi	!vote yes
+2025-12-08 20:10:04	milan	!vote yes
+2025-12-08 20:10:05	schultmc	!vote yes
+2025-12-08 20:10:07	jconway	!vote yes
+2025-12-08 20:10:09	mappx	!vote yes
+2025-12-08 20:10:09	borden__	!yes
+2025-12-08 20:10:22	<--	borden_ (~borden@99.209.53.2) has quit (Ping timeout: 480 seconds)
+2025-12-08 20:10:45	fungi	fsf? Jesusalva[m]?
+2025-12-08 20:11:00	borden__	!vote yes
+2025-12-08 20:11:17	Jesusalva[m]	!vote yes
+2025-12-08 20:11:18	-->	fsf_ (~fsf@76.168.180.111) has joined #spi
+2025-12-08 20:11:57	fsf_	apologies
+2025-12-08 20:11:59	Jesusalva[m]	Sorry, multitasking + reading the minutes =/
+2025-12-08 20:12:52	fungi	fsf_: voting or abstaining on accepting https://www.spi-inc.org/meetings/minutes/2025/2025-11-10/ ?
+2025-12-08 20:12:54	fsf_	!vote abstain
+2025-12-08 20:13:02	<--	fsf (~fsf@00029520.user.oftc.net) has quit (Read error: Connection reset by peer)
+2025-12-08 20:13:05	fungi	Current voting results for "Accept meeting minutes for Monday 10 November 2025": Yes: 7, No: 0, Abstain: 1, Missing: 0 ()
+2025-12-08 20:13:13	fungi	Voting for "Accept meeting minutes for Monday 10 November 2025" closed.
+2025-12-08 20:13:22	schultmc	[item 7, Items up for discussion]
+2025-12-08 20:13:23	schultmc	[item 7.1, Resolution 2025-12-08.jln.1: SPI Policies Framework]
+2025-12-08 20:13:28	schultmc	Jesusalva[m]: ?
+2025-12-08 20:14:50	Jesusalva[m]	We were advised against making contractor rules a board resolution, but our bylaws are defased and do not have the concept of policied
+2025-12-08 20:14:56	Jesusalva[m]	* policies
+2025-12-08 20:15:32	Jesusalva[m]	This resolution adds some minimal groundwork for policies, in an effort to keep SPI more modern and transparent, while respecting our bylaws constraints 
+2025-12-08 20:16:01	Jesusalva[m]	Ideally, a new Bylaws should be issued and this concept incorporated on it, but on the meanwhile this will have to do.
+2025-12-08 20:16:51	Jesusalva[m]	A policy is essentially a document on how an officer, officers or committee acts, so it's more transparent, but retaining flexibility in changes 
+2025-12-08 20:18:02	Jesusalva[m]	Let me know if there are questions or concerns. </done>
+2025-12-08 20:18:36	borden__	sorry, I missed a bit of the thread. Can you remind me what the objection was to making this a board resolution and who made it?
+2025-12-08 20:18:43	borden__	*who objected
+2025-12-08 20:19:15	Jesusalva[m]	Legal counsel objected
+2025-12-08 20:19:33	fungi	counsel suggested that officers should be able to make contractor hiring decisions without having to block on board votes
+2025-12-08 20:20:27	fungi	so an upcoming topic on the agenda adds a policy about that, but this resolution is about setting the ground rules for adding policies
+2025-12-08 20:20:58	borden__	As I suspected. Thank you for confirming.
+2025-12-08 20:21:26	Jesusalva[m]	Yes. This also adds some formality, transparency and predictability on some decisions officers take ex officio
+2025-12-08 20:23:32	Jesusalva[m]	(I have nothing else to comment; as we gain experience I expect these ground rules to evolve alongside the policies themselves)
+2025-12-08 20:25:01	fungi	is everyone still reviewing the copy from their inbox, and are there objections or are we ready to call a vote? worth noting the next 4 agenda items are policies that use this framework and would need to be voted on to adopt
+2025-12-08 20:26:09	schultmc	I've reviewed the resolution and am ready to vote.
+2025-12-08 20:26:14	borden__	I don't see a problem with codifying the process at the board level. Yes, it somewhat restricts the officers, but there's so much overlap between the two the distinction seems somewhat arbitrary
+2025-12-08 20:26:22	schultmc	For future votes it may be helpful to have the item linked from the agenda
+2025-12-08 20:26:55	borden__	I'm ready to vote
+2025-12-08 20:26:56	fungi	in the past, resolutions weren't often uploaded to the website before the meeting, but i can try to do that in the future if it helps
+2025-12-08 20:27:48	fungi	borden__: my understanding is that it is actually less restrictive for officers than the current situation, which is why we keep having the board vote on decisions they ought to be able to make directly
+2025-12-08 20:28:36	 *	milan is ready to vote
+2025-12-08 20:28:40	fungi	Voting started, 8 people (borden__,fsf_,fungi,jconway,Jesusalva[m],mappx,milan,schultmc) allowed to vote on Resolution 2025-12-08.jln.1: SPI Policies Framework. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2025-12-08 20:28:44	fungi	!vote yes
+2025-12-08 20:28:47	milan	!vote yes
+2025-12-08 20:28:51	schultmc	!vote yes
+2025-12-08 20:28:54	mappx	!vote yes
+2025-12-08 20:28:54	fsf_	!vote yes
+2025-12-08 20:28:55	borden__	!vote yes
+2025-12-08 20:29:04	Jesusalva[m]	!vote yes
+2025-12-08 20:29:06	jconway	!vote yes
+2025-12-08 20:29:18	fungi	Current voting results for "Resolution 2025-12-08.jln.1: SPI Policies Framework": Yes: 8, No: 0, Abstain: 0, Missing: 0 ()
+2025-12-08 20:29:31	fungi	Voting for "Resolution 2025-12-08.jln.1: SPI Policies Framework" closed.
+2025-12-08 20:29:57	schultmc	[item 7.2, SPI Privacy Policy]
+2025-12-08 20:30:15	fungi	i suggest we table this one to the january meeting or vote asynchronously by e-mail, because the actual policy content only made it to my inbox today
+2025-12-08 20:30:42	mappx	I second that
+2025-12-08 20:30:56	Jesusalva[m]	I think we sent it months ago, then forgot, then it resurfaced. But I second it nonetheless 
+2025-12-08 20:31:02	Jesusalva[m]	It's not something to be taken so lightly 
+2025-12-08 20:31:29	fungi	yeah, i mainly would be abstaining if we voted today because i want to have some time to go over it
+2025-12-08 20:31:49	schultmc	[item 7.3, SPI Independent Contractor Hiring Policy]
+2025-12-08 20:31:50	fsf_	same
+2025-12-08 20:33:09	Jesusalva[m]	Note this policy will apply to all contractors who get an additive, be it to extend duration or to receive the inflation correction in their rates 
+2025-12-08 20:33:45	borden__	RE: 7.2: Can someone remind me what compliance we're trying to achieve with the privacy policy? I have some familiarity with Canada's privacy laws, but GPDR is the big one that everyone's trying to appease
+2025-12-08 20:37:30	fungi	Jesusalva[m]: on the contractor hiring policy, did you get Perdu's questions in e-mail from november 26? i never saw any responses to those
+2025-12-08 20:38:08	Perdu	I think he said he included the suggestions, didn't he?
+2025-12-08 20:38:35	fsf_	i must go - apologies. happy holidays!
+2025-12-08 20:38:40	Perdu	Yes, in here on dec 3rd
+2025-12-08 20:38:57	fungi	ah okay, so not included in the e-mail copies the board received
+2025-12-08 20:39:09	fungi	(or that the secretary received)
+2025-12-08 20:39:12	<--	fsf_ (~fsf@76.168.180.111) has quit (Remote host closed the connection)
+2025-12-08 20:39:22	Perdu	I may be wrong, maybe Jesusalva[m] can confirm first
+2025-12-08 20:40:17	Jesusalva[m]	Yes
+2025-12-08 20:40:35	Jesusalva[m]	Although I couldn't actually send the written as amended version 
+2025-12-08 20:40:36	fungi	oh, it was in the separate stf contractor agreements thread?
+2025-12-08 20:40:48	Jesusalva[m]	Nor did I change those only questioned
+2025-12-08 20:40:56	Jesusalva[m]	Wait, stf is a different can of worms. Two, actually 
+2025-12-08 20:41:46	fungi	yeah, i'm looking for an updated contractor hiring policy addressing Perdu's questions, and not finding it
+2025-12-08 20:42:53	fungi	not in the "Things for the Next Board Meeting" thread anyway, if it's buried in another one then i'd love a pointer
+2025-12-08 20:44:32	fungi	so unless i'm overlooking something, it seems like the one secretary and board received is not the final version, in which case we probably ought to table the vote on this for now too?
+2025-12-08 20:44:56	Jesusalva[m]	I only did wording changes 
+2025-12-08 20:45:44	Jesusalva[m]	Those which are actual questions I didn't modify 
+2025-12-08 20:46:59	Jesusalva[m]	Eg. "could this line be an issue for open source software?"
+2025-12-08 20:47:04	Jesusalva[m]	I didn't change it
+2025-12-08 20:47:24	fungi	so references to human resources and legal departments, for example, remain in the final version?
+2025-12-08 20:47:49	Jesusalva[m]	Yes, right now these tasks are with the VP though 
+2025-12-08 20:48:07	Jesusalva[m]	But I plan in splitting it a bit
+2025-12-08 20:48:28	Jesusalva[m]	So I kept the department wording, so I can start sharing this load with other directors as well
+2025-12-08 20:48:47	Jesusalva[m]	(and changing to committee would only make it worse)
+2025-12-08 20:49:06	Jesusalva[m]	Only policy-member missing line about technical details and the many typo fixes, iirc, were modified 
+2025-12-08 20:49:11	fungi	okay, if we were to vote on and approve this today, what's the process for getting it up on the website? should i upload the version we're voting on and then we vote on and amend with the corrections later?
+2025-12-08 20:50:18	fungi	or do we vote on the version the board received, and then i wait to upload the corrected version?
+2025-12-08 20:50:19	Jesusalva[m]	Should be fine. The correction wouldn't really need a vote either, only a communication to Board and the opportunity to object 
+2025-12-08 20:51:17	Jesusalva[m]	The idea is that the first version and full rewrites get a fuller appreciation, but changes only give an opportunity for objections then apply without further bureaucracy 
+2025-12-08 20:52:48	Jesusalva[m]	So it's actually a good test case imo
+2025-12-08 20:53:06	Jesusalva[m]	Can you therefore have a vote on the currently sent version?
+2025-12-08 20:53:47	Jesusalva[m]	The amendments are minor, so we can do them with the new framework
+2025-12-08 20:53:49	-->	Kassia (~oftc-webi@189.6.37.139) has joined #spi
+2025-12-08 20:53:54	fungi	Voting started, 7 people (borden__,fungi,jconway,Jesusalva[m],mappx,milan,schultmc) allowed to vote on Adopting the SPI Independent Contractor Hiring Policy. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2025-12-08 20:54:07	schultmc	!vote yes
+2025-12-08 20:54:13	fungi	!vote yes
+2025-12-08 20:54:14	borden__	!vote yes
+2025-12-08 20:54:14	Jesusalva[m]	!vote yes
+2025-12-08 20:54:14	milan	!vote yes
+2025-12-08 20:54:18	mappx	!vote yes
+2025-12-08 20:54:18	jconway	!vote yes
+2025-12-08 20:54:32	fungi	Current voting results for "Resolution 2025-12-08.jln.1: SPI Policies Framework": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+2025-12-08 20:54:41	fungi	er, no
+2025-12-08 20:55:04	fungi	Current voting results for "Adopting the SPI Independent Contractor Hiring Policy": Yes: 7, No: 0, Abstain: 0, Missing: 0 ()
+2025-12-08 20:55:17	fungi	Voting for "Adopting the SPI Independent Contractor Hiring Policy" closed.
+2025-12-08 20:56:04	fungi	i'll upload the original version and then we can amend with corrections later
+2025-12-08 20:56:23	fungi	that way we'll have revision history in git too
+2025-12-08 20:57:27	<--	borden__ (~borden@2607:f2c0:e385:ffe2:4ff:8d8:57c1:30a2) has quit (Quit: Leaving)
+2025-12-08 20:57:50	-->	borden (~borden@2607:f2c0:e385:ffe2:4ff:8d8:57c1:30a2) has joined #spi
+2025-12-08 20:58:21	fungi	with fsf and now borden gone, i think we're still quorate for the remaining votes, though only barely
+2025-12-08 20:58:28	borden	I'm back
+2025-12-08 20:58:34	borden	Signing in, Borden Rhodes
+2025-12-08 20:58:36	fungi	oh, sorry thanks
+2025-12-08 20:58:36	jconway	I have 2 minutes then I have to drop
+2025-12-08 20:58:58	schultmc	[item 7.4, SPI Membership Policy]
+2025-12-08 21:00:07	Jesusalva[m]	Mostly tried to document how fungi and I were accepting requests 
+2025-12-08 21:00:19	Jesusalva[m]	And formalize other things 
+2025-12-08 21:00:41	<--	jconway (~jconway@162-239-31-113.lightspeed.dybhfl.sbcglobal.net) has quit (Quit: Leaving)
+2025-12-08 21:01:20	-->	fsf (~fsf@00029520.user.oftc.net) has joined #spi
+2025-12-08 21:01:35	<--	jericson_ (~oftc-webi@2607:fb91:434:493:450e:d5a8:fe3e:1adc) has left #spi
+2025-12-08 21:01:47	borden	Which document is this and when did we get it?
+2025-12-08 21:02:11	<--	fsf (~fsf@00029520.user.oftc.net) has quit (Remote host closed the connection)
+2025-12-08 21:02:38	fungi	borden: in that same "Things for the Next Board Meeting" message from Jesusalva[m] on 2025-11-23, the attachment called policy-members.mdwn
+2025-12-08 21:04:04	fungi	the message contained the framework resolution and 4 policies as attachments, though one of the policies (policy-privacy.mdwn) was truncated and missing its content
+2025-12-08 21:07:12	 *	milan is ready to vote
+2025-12-08 21:08:01	borden	Thank you. In general, if we're going to have voting and non-voting memberships, the standards for admission into CM should be fair, objective and transparent. The current wording (which I know has been the always existed wording) is too subjective and political.
+2025-12-08 21:08:20	Jesusalva[m]	Yes, I tried to make it more clear actually 
+2025-12-08 21:08:23	borden	... at least for my liking
+2025-12-08 21:08:37	Jesusalva[m]	But it depends a lot on subjective assessment 
+2025-12-08 21:08:47	Jesusalva[m]	Which is why it has a manager and a committee 
+2025-12-08 21:09:05	fungi	i guess this raises a process question: should we adopt a policy which matches the current practice and guidance, then alter it in-place to make it better? or try to get it right before adopting, leaving effectively the same status quo until then?
+2025-12-08 21:09:37	fungi	the end result is the same either way
+2025-12-08 21:09:47	Jesusalva[m]	A better question: Who, besides myself, will be part of the committee?
+2025-12-08 21:10:11	schultmc	I can help with the committee
+2025-12-08 21:10:53	borden	I'm all in favour of a 70% solution now than a 100% solution never. I was just providing my opinion that the criteria should be based on something other than feels. In an ideal world (which this is not), it should be "You've met X of the Y criteria for inclusion, welcome to CM".
+2025-12-08 21:10:59	fungi	i regret that i've had less time to help with it since becoming secretary. ideally though this would be something we'd get non-officers and newer board members involved in
+2025-12-08 21:11:23	borden	If it's FOT, the committee should only need one person on it.
+2025-12-08 21:11:41	Jesusalva[m]	It doesn't require to be a board member, actually 
+2025-12-08 21:11:47	fungi	true
+2025-12-08 21:12:01	fungi	it just ends up falling to us because of a lack of volunteers
+2025-12-08 21:12:47	fungi	also at least when i was helping with it, there was quite a bit of work involved in trying to vet the claims made by applicants, matching up the addresses in their applications with evidence they linked, and following up with them to get clarification or address mismatches
+2025-12-08 21:12:50	borden	and, not implicating anyone here, if it's largely based on subjective criteria, such a position will most appeal to people with a political axe to grind.
+2025-12-08 21:12:58	Jesusalva[m]	Borden, My idea would be, if it's subjective, let a manager (1 person) decide and appeal to all members (3~5 persons ideally) deliberate as collegiate. Except more flexible than that
+2025-12-08 21:13:36	Jesusalva[m]	So you can consult others whenever, and distribute the cases among all members 
+2025-12-08 21:14:51	-->	b_ (~Borden@2607:f2c0:e385:ffe2:6888:f047:492a:c590) has joined #spi
+2025-12-08 21:14:57	<--	b_ (~Borden@2607:f2c0:e385:ffe2:6888:f047:492a:c590) has quit
+2025-12-08 21:15:33	-->	b_ (~Borden@2607:f2c0:e385:ffe2:6888:f047:492a:c590) has joined #spi
+2025-12-08 21:15:51	b_	This is still Borden Rhodes. IRC's being rather disagreeable to me today
+2025-12-08 21:16:22	Jesusalva[m]	It's already 18:15 here
+2025-12-08 21:16:52	Jesusalva[m]	I suggest we put it to vote as is, then see what the end result is, and if it's not favorable, we chat about how to improve it and resubmit next meeting 
+2025-12-08 21:17:06	schultmc	+1
+2025-12-08 21:17:11	mappx	+1
+2025-12-08 21:17:15	milan	+1
+2025-12-08 21:17:18	fungi	Voting started, 6 people (borden,fungi,Jesusalva[m],mappx,milan,schultmc) allowed to vote on Adopting the SPI Membership Policy. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2025-12-08 21:17:23	fungi	!vote yes
+2025-12-08 21:17:26	milan	!vote yes
+2025-12-08 21:17:26	schultmc	!vote yes
+2025-12-08 21:17:28	mappx	!vote yes
+2025-12-08 21:17:43	b_	!vote yes (borden)
+2025-12-08 21:18:17	Jesusalva[m]	!vote yes
+2025-12-08 21:18:19	fungi	Current voting results for "Adopting the SPI Membership Policy": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+2025-12-08 21:18:30	schultmc	[item 7.5, SPI Reimbursement Policy]
+2025-12-08 21:18:40	fungi	Voting for "Adopting the SPI Membership Policy" closed.
+2025-12-08 21:18:58	Jesusalva[m]	I'll be honest, I had a meeting with Hector about that one.
+2025-12-08 21:19:55	--	borden is now known as Guest33162
+2025-12-08 21:19:56	--	b_ is now known as borden
+2025-12-08 21:20:05	fungi	i take it he gave some unofficial approval of the draft?
+2025-12-08 21:21:04	fungi	i'm kind of hesitant to vote on that policy without his buy-in, so knowing that up front will help
+2025-12-08 21:21:44	Jesusalva[m]	Yes, or at least I hope so. But schultmc can double check if it reflects current practices
+2025-12-08 21:21:45	Jesusalva[m]	Same, fungi 
+2025-12-08 21:21:51	Jesusalva[m]	He didn't ask for any changes, only mentioned what he plans for RT in the future 
+2025-12-08 21:22:08	Jesusalva[m]	It should reflect current practices to the best of my knowledge, but I would prefer if Schultheiss could confirm 
+2025-12-08 21:22:13	<--	Guest33162 (~borden@000327ec.user.oftc.net) has quit (Ping timeout: 480 seconds)
+2025-12-08 21:23:01	borden	I'm confused, why can't people get their expenses approved before spending them and simply set a policy in line with allowable charitable expenses?
+2025-12-08 21:23:49	fungi	to some extent, this policy is preapproval of certain classes of expenses
+2025-12-08 21:24:14	Jesusalva[m]	Yes, that's current practice. Although treasury asked to set a deadline to submit these requests 
+2025-12-08 21:24:22	borden	Like, in a normal contractor relationship, the contractor is responsible for all their expenditures and can only invoice the customer for the agreed rate plus any other clauses
+2025-12-08 21:24:25	Jesusalva[m]	Getting a two years old reimbursement request is...
+2025-12-08 21:24:27	Jesusalva[m]	...
+2025-12-08 21:24:38	borden	expense reimbursement is only relevant in an employment relationship
+2025-12-08 21:25:15	schultmc	many of the expenses are volunteers spending on behalf of an associated project
+2025-12-08 21:25:16	Jesusalva[m]	That's another issue
+2025-12-08 21:25:21	borden	I'm not saying that this policy is bad, it just strikes me as an extra mile of red tape that can be handled more elegantly
+2025-12-08 21:25:21	fungi	borden: this is for things like community members attending their community's conference and getting their costs comped by the conference's funds, i believe
+2025-12-08 21:25:43	Jesusalva[m]	I don't mind people paying for a project and getting reimbursement as they didn't use an SPI card
+2025-12-08 21:25:47	Jesusalva[m]	(we had a long discussion about that)
+2025-12-08 21:26:16	Jesusalva[m]	But some people want to sign contracts by themselves and then want us to pay as if we were a party to the contract 
+2025-12-08 21:26:20	fungi	borden: we're talking about hundreds or thousands of community members and volunteers making small reimbursement requests, less about established contract relationships (which the policy says are excluded and handled separately)
+2025-12-08 21:26:33	Jesusalva[m]	fungi, 80% of reimbursement requests are that, indeed
+2025-12-08 21:26:47	Jesusalva[m]	Then some equipment reimbursements
+2025-12-08 21:26:52	Jesusalva[m]	Anda few troublesome requests
+2025-12-08 21:28:11	Jesusalva[m]	And indeed you're right
+2025-12-08 21:28:26	Jesusalva[m]	Established contracts are a different policy 
+2025-12-08 21:28:41	Jesusalva[m]	That's for food expenses, travel, hotel, taxi
+2025-12-08 21:28:48	fungi	"This policy is for reimbursement requests only; it does not apply to invoices, contracts, use of corporate debit/credit cards."
+2025-12-08 21:29:16	Jesusalva[m]	Occasional expenses which for some odd reason couldn't be invoiced directly to SPI
+2025-12-08 21:29:21	Jesusalva[m]	(As an exception)
+2025-12-08 21:29:22	borden	I guess that wording is a bit ambiguous, since people would need to submit invoices, contracts, receipts, etc., to get money
+2025-12-08 21:30:15	Jesusalva[m]	No contracts 
+2025-12-08 21:30:16	Jesusalva[m]	Contracts aren't reimbursable 
+2025-12-08 21:30:32	Jesusalva[m]	Receipts, mostly 
+2025-12-08 21:32:19	Jesusalva[m]	We can ask zumbi to clarify this later
+2025-12-08 21:32:26	Jesusalva[m]	Is this the last agenda item, fungi?
+2025-12-08 21:32:42	fungi	other than identifying the january meeting date, afaik
+2025-12-08 21:32:54	fungi	i'm okay with voting on this and then working with zumbi to get adjustments made
+2025-12-08 21:32:59	schultmc	yes, I don't have anything further other than AOB
+2025-12-08 21:33:54	Jesusalva[m]	schultmc, what do you think about the policy? We can hold off on it if you prefer, and you're the most qualified of us to ask for a rescheduling. Problem is that we're often having to amend past year books
+2025-12-08 21:34:04	Jesusalva[m]	Due to untimely reimbursement requests
+2025-12-08 21:34:37	schultmc	It seems reasonable to me as a policy. Any issues can result in a revision of the policy
+2025-12-08 21:35:07	Jesusalva[m]	+1
+2025-12-08 21:35:10	fungi	Voting started, 6 people (borden,fungi,Jesusalva[m],mappx,milan,schultmc) allowed to vote on Adopting the SPI Reimbursement Policy. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2025-12-08 21:35:15	borden	!vote yes
+2025-12-08 21:35:15	fungi	!vote yes
+2025-12-08 21:35:17	schultmc	!vote yes
+2025-12-08 21:35:20	mappx	!vote yes
+2025-12-08 21:35:21	milan	!vote yes
+2025-12-08 21:35:25	Jesusalva[m]	!vote yes
+2025-12-08 21:35:27	fungi	Current voting results for "Adopting the SPI Reimbursement Policy": Yes: 6, No: 0, Abstain: 0, Missing: 0 ()
+2025-12-08 21:35:30	schultmc	[item 8, Any other business]
+2025-12-08 21:35:31	schultmc	Anything to discuss?
+2025-12-08 21:35:32	fungi	Voting for "Adopting the SPI Reimbursement Policy" closed.
+2025-12-08 21:35:42	fungi	i have nothing
+2025-12-08 21:35:56	Jesusalva[m]	No, all my aobs became a policy
+2025-12-08 21:35:56	milan	none here
+2025-12-08 21:36:00	borden	move to adjourn until 12 January @ 20:00 UTC
+2025-12-08 21:36:04	schultmc	[item 9, Next board meeting]
+2025-12-08 21:36:04	schultmc	The next board meeting is scheduled for: January 12, 2026 at 2000 UTC.
+2025-12-08 21:36:05	schultmc	Any objections?
+2025-12-08 21:36:16	schultmc	wfm
+2025-12-08 21:36:21	milan	wfm too
+2025-12-08 21:36:23	fungi	i can make that
+2025-12-08 21:36:26	mappx	wfm
