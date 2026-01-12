@@ -1,0 +1,165 @@
+[[!meta copyright="Copyright © 2026 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, January 12th, 2026
+
+__Board members present__
+
+* Milan Kupcevic (milan)
+* Joe Conway (jconway)
+* Michael Schultheiss (schultmc) (President)
+* Jeremy Stanley (fungi) (Secretary)
+* Katie McMillan (mappx)
+* Jonatas L Nogueira (jesusalva) (Vice-President)
+* Forrest Fleming (fsf)
+* Borden Rhodes (borden)
+
+__Board members partially present__
+
+* Héctor Orón Martínez (zumbi) (Treasurer)
+
+__Board members absent with regrets__
+
+* none
+
+__Board members absent__
+
+* none
+
+__Registered guests present__
+
+* Célestin Matte (Perdu), contractor
+* Paul A Freeman (Sophist-UK)
+* Ulrich Müller (ulm)
+
+These are the minutes for the January 12th, 2026 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2026/2026-01-12.txt).
+
+## President's report
+
+<pre>
+Our 2024 audit report and filings will be published on the Treasurer page
+on our website shortly. We are gathering information to begin our 2025 audit.
+
+I am primarily working on assisting the Treasury team with reimbursements
+and other accounts payable activities.
+</pre>
+
+## Vice President's report
+
+<pre>
+It's a new year again, and New York Law explicitly states the yearly submission
+of CoI forms for all directors. While our outdated bylaws prevent us from
+suspending uncompliant members, their votes might be voided by court or SPI
+might be considered to have violated the legal obligations of a non profit. As
+to preserve our NFP status and validity of Board decisions irreproachable, we
+kindly request all directors to provide updated CoI policies to the secretary
+before January 31st.
+
+I'm aware I'm behind several things from contractors such as approving invoices
+or sending updated agreements. I hope to have it sorted out as soon as possible
+but reality might not agree with my plans.
+
+I'm with about two hundred unread emails so if you've sent anything and I
+didn't reply, don't be afraid of bumping it or poking me through IRC, Discord,
+Whatsapp or Signal.
+</pre>
+
+## Treasurer's report
+
+<pre>
+The treasury team is continuing to process reimbursements and payments. If
+there is an urgent need (i.e. other than NET 30) please let
+treasurer@rt.spi-inc.org know
+</pre>
+
+## Secretary's report
+
+<pre>
+Expanding on the Vice President's Report, the Conflict of Interest declaration
+template can be found at conflicts/exhibit-a in the board-private Git
+repository. If you have trouble accessing it, please let Jonatas (jesusalva)
+know.
+
+Based on a recent IRC discussion, starting with the agenda for today's meeting,
+as well as the minutes for December, I've tried to better organize and link
+draft documents which are up for a vote. Please let me know if you see problems
+with it or have any concerns. Thanks!
+</pre>
+
+## Vote on Minutes for Previous Meetings
+
+### Vote on Meeting minutes for Monday, 8 December, 2025
+
+[Board meeting, December 8th, 2025](../../2025/2025-12-08/)
+
+<table>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr><!--schultmc-->
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr><!--milan-->
+  <tr><td>Katie McMillan</td><td>Yes</td></tr><!--mappx-->
+  <tr><td>Borden Rhodes</td><td>Yes</td></tr><!--borden-->
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr><!--fsf-->
+  <tr><td>Joe Conway</td><td>Yes</td></tr><!--jconway-->
+  <tr><td>Jonatas L Nogueira</td><td>Yes</td></tr><!--Jesusalva-->
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr><!--fungi-->
+</table>
+
+Vote passed with 8 yes, 0 abstain, 0 no, 0 absent.
+
+## Items up for discussion
+
+### Vote on SPI Privacy Policy
+
+[SPI Privacy Policy](../../../agendas/2026/2026-01-12/draft-policy-privacy/)
+
+<table>
+  <tr><td>Borden Rhodes</td><td>Yes</td></tr><!--borden-->
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr><!--schultmc-->
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr><!--milan-->
+  <tr><td>Katie McMillan</td><td>Yes</td></tr><!--mappx-->
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr><!--fsf-->
+  <tr><td>Joe Conway</td><td>Yes</td></tr><!--jconway-->
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr><!--fungi-->
+  <tr><td>Jonatas L Nogueira</td><td>Yes</td></tr><!--Jesusalva-->
+</table>
+
+Vote passed with 8 yes, 0 abstain, 0 no, 0 absent.
+
+### Director Sponsors for Project Applications
+
+The board reviewed a list prepared by Kassia of 11 prospective associated projects whose representatives had reached out to initiate an informal discussion between May and October of last year, and identified 5 where directors expressed interest in following up. The remainder will be politely declined for now, pending a final review by one of the board who wanted more time.
+
+### SPI as DMCA Agent for Debian
+
+The board briefly discussed a question from the Debian Project Leader about whether SPI had registered with the USA Copyright Office as a DMCA Designated Agent following a discussion with counsel in October 2024. Directors present had no record or recollection of having registered, nor does the DMCA Designated Agent Directory list SPI or Debian. Further discussion will be required if there is desire for SPI to offer this service to its associated projects.
+
+## Other business
+
+* There was discussion of using the general fund to send Héctor to FOSDEM in order to take in-person meetings on SPI's behalf, which received unanimous support.
+* Marcelo is proposing to follow up the current process mapping work with a risk analysis, but the board will wait to approve it until the current project is completed.
+* The board discussed potential policy around use of general fund surplus to cover ad hoc activities in specific associated projects, and consensus for now is that it's generally discouraged but can be considered on a case-by-case basis.
+
+## Adjournment
+
+The meeting was adjourned until Monday February 9th, 2026 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2024</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2025</td><td>Jonatas L Nogueira</td><td>Vice President</td></tr>
+<tr><td>July 2025</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2025</td><td>Jeremy Stanley</td><td>Secretary</td></tr>
+<tr><td>July 2023</td><td>Joe Conway</td></tr>
+<tr><td>July 2025</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2024</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2024</td><td>Katie McMillan</td></tr>
+<tr><td>July 2025</td><td>Borden Rhodes</td></tr>
+</tbody>
+</table>
