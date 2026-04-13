@@ -1,0 +1,150 @@
+2026-04-13 20:00:16	schultmc	[item 1, Opening]
+2026-04-13 20:00:16	schultmc	Welcome to today's Software in the Public Interest Board Meeting, which
+2026-04-13 20:00:16	schultmc	is now called to order. Today's agenda can be found on the web at:
+2026-04-13 20:00:16	schultmc	https://www.spi-inc.org/meetings/agendas/2026/2026-04-13/
+2026-04-13 20:00:17	schultmc	[item 2, Roll Call]
+2026-04-13 20:00:19	schultmc	Directors, please state your name
+2026-04-13 20:00:21	fsf	Forrest Fleming
+2026-04-13 20:00:22	schultmc	Guests, please /msg your names to fungi if you wish your attendance to be
+2026-04-13 20:00:24	schultmc	recorded in the minutes of this meeting.
+2026-04-13 20:00:27	schultmc	.
+2026-04-13 20:00:29	fungi	Jeremy Stanley
+2026-04-13 20:00:29	schultmc	fungi, do we have any regrets?
+2026-04-13 20:00:32	schultmc	Michael Schultheiss
+2026-04-13 20:00:35	fungi	jconway sent regrets last week
+2026-04-13 20:00:37	mappx	Katie McMillan
+2026-04-13 20:01:25	borden	Borden Rhodes
+2026-04-13 20:01:47	schultmc	Jesusalva[m]: ping
+2026-04-13 20:01:49	Jesusalva[m]	Jonatas L Nogueira
+2026-04-13 20:02:06	schultmc	That's quorum - we can move on, others may join if they're available
+2026-04-13 20:02:23	schultmc	[item 3, President's Report]
+2026-04-13 20:02:24	schultmc	I am continuing to assist with the treasury team to ensure timely processing
+2026-04-13 20:02:24	schultmc	of payments and reimbursements. We are also working with to prepare for
+2026-04-13 20:02:24	schultmc	the auditing of our 2025 financial documents and federal and New York State
+2026-04-13 20:02:24	schultmc	filings.
+2026-04-13 20:02:26	schultmc	</done>
+2026-04-13 20:02:28	schultmc	[item 4, Vice President's Report]
+2026-04-13 20:02:31	schultmc	Jesusalva[m]: Anything to add?
+2026-04-13 20:02:33	schultmc	.
+2026-04-13 20:03:25	milan	Milan Kupcevic
+2026-04-13 20:03:58	Gauthier_KERVYN	Hello everyone.
+2026-04-13 20:04:22	Jesusalva[m]	No, sorry
+2026-04-13 20:04:30	schultmc	[item 5, Treasurer's Report]
+2026-04-13 20:04:30	schultmc	zumbi is unavailable.
+2026-04-13 20:04:30	schultmc	.
+2026-04-13 20:04:30	schultmc	The treasury team is continuing to process reimbursements and payments. If
+2026-04-13 20:04:30	schultmc	there is an urgent need (i.e. other than NET 30) please let
+2026-04-13 20:04:33	schultmc	treasurer@rt.spi-inc.org know
+2026-04-13 20:04:38	mappx	Hello Gauthier! (this is Katie)
+2026-04-13 20:04:40	schultmc	[item 6, Secretary's report]
+2026-04-13 20:04:42	schultmc	fungi?
+2026-04-13 20:04:44	fungi	I have finally recorded 2026 Conflict of Interest declarations from all directors, thanks again to all of you for your patience and diligence!
+2026-04-13 20:04:46	fungi	EOF
+2026-04-13 20:05:05	schultmc	[item 7, Outstanding minutes]
+2026-04-13 20:05:05	schultmc	The minutes for 2026-03-09 are outstanding. They may be
+2026-04-13 20:05:05	schultmc	reviewed at:
+2026-04-13 20:05:06	schultmc	https://www.spi-inc.org/meetings/minutes/2026/2026-03-09/
+2026-04-13 20:05:27	fungi	fsf: do you want to call the votes today or shall i?
+2026-04-13 20:05:34	fsf	I can, no problem
+2026-04-13 20:05:51	fsf	Voting started, 7 people (borden,fsf,fungi,jesusalva[m],mappx,milan,schultmc) allowed to vote on Accept meeting minutes for Monday 9 March 2026. - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2026-04-13 20:05:58	fungi	!vote yes
+2026-04-13 20:05:59	milan	!vote yes
+2026-04-13 20:06:00	fsf	!vote yes
+2026-04-13 20:06:02	schultmc	!vote abstain
+2026-04-13 20:06:05	mappx	!vote yes
+2026-04-13 20:06:06	borden	!vote yes
+2026-04-13 20:06:24	Jesusalva[m]	!vote yes
+2026-04-13 20:06:31	fsf	Current voting results for "Accept meeting minutes for Monday 9 March 2026": Yes: 6, No: 0, Abstain: 1, Missing: 0 ()
+2026-04-13 20:06:34	fsf	Voting for "Accept meeting minutes for Monday 9 March 2026" closed.
+2026-04-13 20:06:38	schultmc	[item 8, Items up for discussion]
+2026-04-13 20:06:38	schultmc	[item 8.1, Resolution 2026-04-13.kam.1 Z-Anatomy as an associated project]
+2026-04-13 20:06:40	schultmc	mappx?!
+2026-04-13 20:07:31	mappx	Yes, the resolution is:
+2026-04-13 20:07:32	mappx	WHEREAS
+2026-04-13 20:07:32	mappx	1. Z-Anatomy is a substantial and significant Free Software project.  It is CC-BY-SA 4.0 licensed, and is a collaborative 3D Atlas of human and veterinary anatomy which includes the following features:
+2026-04-13 20:07:32	mappx	-comparative anatomy modules
+2026-04-13 20:07:33	mappx	-interactive educational tools
+2026-04-13 20:07:35	mappx	-multilingual terminology
+2026-04-13 20:07:37	mappx	-partnerships (VetAgro Sup in France and the University of Montréal currently)
+2026-04-13 20:07:48	mappx	2. The Z-Anatomy developers would like SPI's support and assistance in the following areas:
+2026-04-13 20:07:50	mappx	Accepting Donations and Holding Funds:
+2026-04-13 20:07:50	mappx	-Managing donations and earmarked funds for project expenses (eg. Server costs, development)
+2026-04-13 20:07:50	mappx	-Ensuring compliance with CC-BY-SA 4.0 and donor intent
+2026-04-13 20:07:52	mappx	Paying for Project Expenses:
+2026-04-13 20:08:01	mappx	-Utilizing SPI’s Pay for Project Expenses service to fund predefined work packages (eg. 3D modeling, definitions writing, app/website development) via contractor agreements or reimbursements
+2026-04-13 20:08:04	mappx	Holding Intangible Assets:
+2026-04-13 20:08:06	mappx	-Transfer and protection of domain names (eg. Z-anatomy.com) and trademarks
+2026-04-13 20:08:13	mappx	Accounting and Auditing:
+2026-04-13 20:08:15	mappx	-Handling fund tracking, reimbursements, and financial reporting
+2026-04-13 20:08:17	mappx	-Providing regular updates on project funds/expenses
+2026-04-13 20:08:19	mappx	Legal Assistance:
+2026-04-13 20:08:21	mappx	-Access to SPI-vetted contract templates for engaging contractors (eg. For 3D modelling or development work) with final approval and execution authority retained by the project liaison to ensure alignment with Z-Anatomy’s goals and open source principles
+2026-04-13 20:08:32	mappx	-Support for trademark registration and legal reviews, with all decisions regarding project name, domain, and intellectual property remaining under the project liaison’s control
+2026-04-13 20:08:35	mappx	THE SPI BOARD RESOLVES THAT
+2026-04-13 20:08:37	mappx	3. Z-Anatomy is formally invited to become an SPI Associated Project, according
+2026-04-13 20:08:44	mappx	   to the SPI Framework for Associated Projects (https://www.spi-inc.org/corporate/resolutions/2004/2004-08-10.iwj.1/), SPI Resolution 2004-08-10.iwj.1
+2026-04-13 20:08:49	mappx	4. Gauthier Kervyn is recognised by SPI as the authoritative decision maker and SPI liaison for Z-Anatomy. Gauthier is the Founder and Technical Lead. Replacement of the project liaison requires Gauthier Kervyn’s explicit written consent.  The replacement process is as follows:
+2026-04-13 20:08:51	mappx	Interim liaison:
+2026-04-13 20:09:00	mappx	-Colline Brassard (VetAgro Sup) or Christophe Céleste (University of Montréal)
+2026-04-13 20:09:02	mappx	Permanent changes:
+2026-04-13 20:09:04	mappx	-Require consensus among core contributors (technical team and academic partners)
+2026-04-13 20:09:06	mappx	Documentation:
+2026-04-13 20:09:13	mappx	-Decision will be recorded and communicated to SPI/board
+2026-04-13 20:09:15	mappx	5. If the last known SPI liaison for Z-Anatomy is missing in action, and no new
+2026-04-13 20:09:17	mappx	   SPI liaison is appointed for two consecutive years, the associated project is
+2026-04-13 20:09:19	mappx	   deemed defunct.
+2026-04-13 20:09:21	mappx	6. In such a circumstance, the SPI Board will, in its good-faith discretion,
+2026-04-13 20:09:30	mappx	   proceed as follows: the Board will identify one or more other SPI associated
+2026-04-13 20:09:32	mappx	   projects or 501(c)(3) charities which can accept the project's assets and
+2026-04-13 20:09:34	mappx	   use them for a similar purpose, and transfer the assets to the identified
+2026-04-13 20:09:36	mappx	   destination or destinations as feasible. Assets for which no such transfer
+2026-04-13 20:09:43	mappx	   can be arranged within a reasonable time will become part of the SPI general
+2026-04-13 20:09:45	mappx	   fund.
+2026-04-13 20:09:47	mappx	7. This invitation will lapse, if not accepted, 60 days after it is approved by
+2026-04-13 20:09:49	mappx	   the SPI Board.
+2026-04-13 20:09:52	fungi	(a draft is also linked from the agenda if anyone wants to see a formatted version)
+2026-04-13 20:10:09	mappx	Yes, sorry for the wall of text
+2026-04-13 20:10:34	fsf	If there are no questions, I'll begin the vote
+2026-04-13 20:10:43	fungi	i have none
+2026-04-13 20:11:09	fsf	Voting started, 7 people (borden,fsf,fungi,jesusalva[m],mappx,milan,schultmc) allowed to vote on Resolution 2026-04-13.kam.1 (Z-Anatomy as an associated project). - You may vote yes/no/abstain only, type !vote $yourchoice now.
+2026-04-13 20:11:12	schultmc	!vote yes
+2026-04-13 20:11:13	fsf	!vote yes
+2026-04-13 20:11:13	borden	!vote yes
+2026-04-13 20:11:27	milan	!vote yes
+2026-04-13 20:11:31	fungi	!vote yes
+2026-04-13 20:11:52	mappx	!vote yes (if I'm permitted to vote on this)
+2026-04-13 20:11:57	fungi	you are
+2026-04-13 20:12:03	mappx	okay, thank you
+2026-04-13 20:12:26	Gauthier_KERVYN	Thank you for considering/accepting my application, There is a real need for assistance to open source projects like Z-Anatomy.
+2026-04-13 20:12:29	fungi	sponsoring an application is not in and of itself a conflict of interest, that we've ever determined
+2026-04-13 20:12:43	fungi	Jesusalva[m]?
+2026-04-13 20:14:12	fungi	seems like we've either lost Jesusalva[m] or the matrix/oftc bridge is lagging hard again
+2026-04-13 20:14:16	fsf	Current voting results for "Resolution 2026-04-13.kam.1 (Z-Anatomy as an associated project)": Yes: 5, No: 0, Abstain: 0, Missing: 2 ( jesusalva[m]  mappx )
+2026-04-13 20:14:19	fsf	Voting for "Resolution 2026-04-13.kam.1 (Z-Anatomy as an associated project)" closed.
+2026-04-13 20:14:27	fungi	mappx voted yes
+2026-04-13 20:14:36	fungi	i'll amend the results to reflect that
+2026-04-13 20:14:38	Jesusalva[m]	Sorry, I was mia
+2026-04-13 20:14:46	Jesusalva[m]	I am favorable to the resolution
+2026-04-13 20:14:52	fungi	i can include your vote in the minutes as well then, thanks
+2026-04-13 20:15:12	schultmc	[item 9, Any other business]
+2026-04-13 20:15:14	schultmc	Anything to discuss?
+2026-04-13 20:15:27	fungi	i didn't have anything new
+2026-04-13 20:15:40	Jesusalva[m]	fungi: No, we don't consider application sponsoring as a CoI, even when being the liaison for it
+2026-04-13 20:15:56	Jesusalva[m]	In future, it might be worthwhile revisiting this policy
+2026-04-13 20:16:10	Jesusalva[m]	As it does allow some risks
+2026-04-13 20:16:37	Jesusalva[m]	(when the application sponsor is affiliated with the sponsored project)
+2026-04-13 20:16:54	fungi	i would consider abstaining if sponsoring as a liaison or similarly affiliated, but not if merely an unaffiliated board sponsor
+2026-04-13 20:16:54	Jesusalva[m]	Even if not a conflict of interest, it has a bias risk
+2026-04-13 20:17:10	Gauthier_KERVYN	Wonderful. I have had today another discussion about the diffusive effect of the CCBYSA4.0 3D model of human anatomy on an app that can be developed specifically for it. I believe that in such case, the 'Share alike' part of the license also affects the software.
+2026-04-13 20:17:20	Jesusalva[m]	And speaking in risks, m_rabelo submitted the RACI chart and risk analysis document
+2026-04-13 20:17:30	Jesusalva[m]	I didn't had the time to look through all of them
+2026-04-13 20:17:51	fungi	Perdu mentioned prior to the meeting that he has some followup comments to those documents he hasn't submitted yet
+2026-04-13 20:19:37	schultmc	[item 10, Next board meeting]
+2026-04-13 20:19:37	schultmc	The next board meeting is scheduled for: May 11, 2026 at 2000 UTC.
+2026-04-13 20:19:38	schultmc	Any objections?
+2026-04-13 20:19:44	schultmc	works for me
+2026-04-13 20:19:46	fungi	i'll be around, wfm
+2026-04-13 20:19:55	mappx	wfm
+2026-04-13 20:19:55	milan	wfm
+2026-04-13 20:20:01	m_rabelo	If you find it more interesting, we can talk via email, Git, or Signal.
+2026-04-13 20:20:23	fsf	no objections here
