@@ -1,0 +1,164 @@
+[[!meta copyright="Copyright © 2026 Software in the Public Interest, Inc."]]
+[[!meta license="Creative Commons Attribution-ShareAlike 3.0 Unported"]]
+
+# Board meeting, May 11th, 2026
+
+__Board members present__
+
+* Forrest Fleming (fsf)
+* Milan Kupcevic (milan)
+* Joe Conway (jconway)
+* Borden Rhodes (borden)
+* Jeremy Stanley (fungi) (Secretary)
+* Katie McMillan (mappx)
+* Héctor Orón Martínez (zumbi) (Treasurer)
+* Michael Schultheiss (schultmc) (President)
+* Jonatas L Nogueira (jesusalva) (Vice-President)
+
+__Board members partially present__
+
+* none
+
+__Board members absent with regrets__
+
+* none
+
+__Board members absent__
+
+* none
+
+__Registered guests present__
+
+* Célestin Matte (Perdu), contractor
+* Denislav Velinov (Denvel)
+
+These are the minutes for the May 11th, 2026 SPI Board Meeting,
+held at 20:00 UTC in #spi on irc.spi-inc.org.
+[LOG](../../../logs/2026/2026-05-11.txt).
+
+## President's report
+<pre>
+I am continuing to assist with the treasury team to ensure timely processing of
+payments and reimbursements. We are also working with to prepare for the
+auditing of our 2025 financial documents and federal and New York State
+filings.
+</pre>
+
+## Vice President's report
+<pre>
+I'll be leaving on vacations starting May 21st and ending June 8th. I will have
+limited availability during this time. Please plan accordingly if you require
+me during this period.
+
+Our other officers are expected to remain available as usual.
+</pre>
+
+## Treasurer's report
+
+<pre>
+Payment queue is now processed up to the end of April.
+
+Put contingency plans in place to cover for a contractor’s absence so payments
+keep flowing smoothly.
+
+Spoke with projects depending on STF funds to align expectations and improve
+payment timelines.
+
+Completed registration in Microsoft Partner Center to support the hardware
+certifications needed by some projects.
+
+I'll be away next week May 18th to May 22nd.
+
+If you have any urgency, please reach out.
+
+Thanks very much for the continuous work of the treasurer team, including
+president, vice-president and contractors.
+</pre>
+
+## Secretary's report
+
+<pre>
+As my Secretary term comes to a close in a few months, I want to encourage
+other directors to stand for this office. While taking care of meeting
+agendas/minutes and conflict of interest declarations has been manageable, I
+lack both proficiency and bandwidth for tasks like event coordination, managing
+our social media presence, or getting the nascent Communications Committee off
+the ground.
+
+I'll be happy to assist any incoming Secretary with the duties I've been
+performing so far, if that's desired.
+</pre>
+
+## Vote on Minutes for Previous Meetings
+
+### Vote on Meeting minutes for Monday, 13 April, 2026
+
+[Board meeting, April 13th, 2026](../../2026/2026-04-13/)
+
+<table>
+  <tr><td>Michael Schultheiss</td><td>Yes</td></tr><!--schultmc-->
+  <tr><td>Borden Rhodes</td><td>Yes</td></tr><!--borden-->
+  <tr><td>Jeremy Stanley</td><td>Yes</td></tr><!--fungi-->
+  <tr><td>Héctor Orón Martínez</td><td>Abstain</td></tr><!--zumbi-->
+  <tr><td>Katie McMillan</td><td>Yes</td></tr><!--mappx-->
+  <tr><td>Joe Conway</td><td>Yes</td></tr><!--jconway-->
+  <tr><td>Forrest Fleming</td><td>Yes</td></tr><!--fsf-->
+  <tr><td>Milan Kupcevic</td><td>Yes</td></tr><!--milan-->
+  <tr><td>Jonatas L Nogueira</td><td>Yes</td></tr><!--Jesusalva-->
+</table>
+
+Vote passed with 8 yes, 1 abstain, 0 no, 0 absent.
+
+## Items up for discussion
+
+### Preliminary Planning for In-Person Meeting
+
+The board discussed logistics for a focused multi-day meeting, either remotely
+via teleconferencing or travelling to a common location for an in-person
+gathering. Critical mass for interest in a physical meeting was reached,
+depending on timing and location. Jeremy will coordinate scheduling to work out
+when enough board members might be available.
+
+### Windows Code Signing Certificate
+
+The board reached consensus agreement that Célestin Matte should open a new
+Azure account under the SPI President's identity, in order to apply for a
+Windows Code Signing Certificate for sharing between SPI associated projects,
+financed from SPI's general fund.
+
+### Gitlab Open Source License Renewal
+
+Board members and Célestin Matte brainstormed several possible workarounds in
+case the Gitlab Open Source License used by SPI for corporate matters could not
+be renewed without dropping some private Git repositories. Options included
+moving the affected repositories to Debian's "Salsa" GitLab deployment, setting
+up a self-hosted Git forge, or just doing git-over-ssh to a shared shell on a
+cloud virtual server.
+
+## Other business
+
+* none
+
+## Adjournment
+
+The meeting was adjourned until Monday May 11th, 2026 at 20:00 UTC
+in #spi on irc.spi-inc.org.
+
+## Appendix A: Current Board Membership
+
+<table>
+<thead>
+<tr><th>Last elected</th><th>Name</th><th>Role</th></tr>
+</thead>
+<tbody>
+<tr><td>July 2024</td><td>Michael Schultheiss</td><td>President</td></tr>
+<tr><td>July 2025</td><td>Jonatas L Nogueira</td><td>Vice President</td></tr>
+<tr><td>July 2025</td><td>Héctor Orón Martínez</td><td>Treasurer</td></tr>
+<tr><td>July 2025</td><td>Jeremy Stanley</td><td>Secretary</td></tr>
+<tr><td>July 2023</td><td>Joe Conway</td></tr>
+<tr><td>July 2025</td><td>Forrest Fleming</td></tr>
+<tr><td>July 2024</td><td>Milan Kupcevic</td></tr>
+<tr><td>July 2024</td><td>Katie McMillan</td></tr>
+<tr><td>July 2025</td><td>Borden Rhodes</td></tr>
+</tbody>
+</table>
