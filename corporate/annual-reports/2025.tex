@@ -153,6 +153,327 @@ SPI will publish audited financial statements soon (approximately August 2026).
 
 \section{Updates from Associated Projects}
 
+\subsection{0 A.D.}
+
+0 A.D. (pronounced "zero ey-dee") is a cross-platform, real-time strategy (RTS) game of ancient warfare. To win the game, one must lead an ancient civilization, gather resources, and raise a military force to defeat enemy factions. 0 A.D. is open-source software licensed under the GPL, and its art and sound assets are licensed under CC BY-SA. The game has been under continuous development by Wildfire Games, a global community of game developers, for over two decades.
+
+In 2025, the Germans faction was added to 0 A.D. We were preparing the next release (Release 28, happened in February 2026). We also switched from Alpha to Release naming to highlight the game stability and quality. Gameplay received a wide range of improvements throughout the year. Addition of supported languages: Vietnamese and Catalan as well as native Support for CJK languages previously offered as mods - which with run-time font preparing further enhanced accessibility for both players and contributors. Also initial support of AppImage was added.
+
+We were polishing our transition to git and significantly improved development environment by switching to C++20 and adding support of Visual Studio 2022 as long as adding 64bits support on Windows. Team members also presented the game at FOSDEM 2025. These outreach efforts helped raise awareness of 0 A.D. and facilitated recruitment of contributors.
+
+We wish to extend our thanks to our generous donors and to SPI for helping us achieve this progress.
+
+{\em Submitted by Stanislas Dolcini}
+
+\subsection{Arch Linux}
+
+Arch Linux is a lightweight and flexible Linux distribution that tries to Keep It Simple. In 2025, we continued work on two critical projects essential for multi-architecture support: a remote signing enclave (signstar) and an automated build service tailored to the needs of our distribution (buildbtw). We also accepted RFCs for both projects, expanding support and aligning on the path forward. In addition, we started allowing and implementing non-x86\_64 contributions to our PKGBUILD files.
+
+On the ecosystem side, we are now providing official WSL images in Microsoft's distribution manifest and on our own geo mirrors. Building on top of our nvchecker devtools integration, we created bumpbuddy, which aims to automatically scan for new upstream versions for packages. Package repositories are now following REUSE, which is a specification from the Free Software Foundation Europe (FSFE) that allows downstream projects to clearly map copyright and license information to sources in package repositories.
+
+Pacman saw another major release with version 7.1.0, adding support for architecture-specific split packages, a new xdata field to PKGBUILDs for tracking generic data, and improvements to the downloader sandbox, to name some of them.
+
+The Sovereign Tech Fund funding concluded by end of 2025, and allowed us to create various ALPM specifications, as well as Rust libraries, tools and integrations that we can now build upon.
+
+The Arch Summit 2025, held beginning of November, brought together Arch Linux staff and invited guests for in-depth discussions. We also maintained strong community engagement with our continued presence at FOSDEM, including a community meetup.
+
+{\em Submitted by Levente Polyak}
+
+\subsection{Debian}
+
+Debian turned 32 in 2025. Debian 13 (Trixie) was released in August 2025.
+
+What is new in Trixie?
+
+\begin{itemize}
+\item Official support for RISC-V (64-bit riscv64), a major architecture milestone.
+\item Enhanced security through ROP and COP/JOP hardening on both amd64 and arm64 (Intel CET and ARM PAC/BTI support).
+\item HTTP Boot support in Debian Installer and Live images for UEFI/U-Boot systems.
+\item Upgraded software stack: GNOME 48, KDE Plasma 6, Linux kernel 6.12 LTS, GCC 14.2, Python 3.13, and more.
+\end{itemize}
+
+DebConf25 was held at Campus of IMT Atlantique Bretagne-Pays de la Loire, Brest, France between 14--19 Jul 2025. The DebConf was preceded by a one week DebCamp. We had 443 attendees from 50 countries attend 169 events across the two weeks. We also had a number of MiniDebConfs, release parties etc across the world, bringing in new contributors.
+
+We had 22 Debian Developers and 26 Debian Maintainers join us in 2025. The new contributors joining us helps us ensure that we, as a project and a community, keep evolving.
+
+For regular updates and news about what’s going on in the Debian project, visit the \href{https://bits.debian.org/}{Bits from Debian} blog.
+
+{\em Submitted by Sruthi Chandran}
+
+\subsection{FFmpeg}
+
+\href{https://ffmpeg.org}{FFmpeg} is a complete, cross-platform solution to record, convert and stream audio and video. It is used as the foundation platform of many projects dealing with multimedia, both open source and proprietary, and is used extensively by several web-based multimedia conversion and processing services.
+
+In the year 2025, FFmpeg released version 8.0 ``Huffman'' in August. A complete list of changes can be found in the \href{https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/HEAD:/Changelog}{changelog}, most significantly the FFmpeg CLI now features a more general multi-threading architecture.
+
+The project also had significant infrastructural changes, migrating our mailing list software to Mailman 3 to better cope with modern mail requirements. Furthermore the development process started a transformation phase evaluating Forgejo as the core of the development process away from a dedicated mailing list.
+
+FFmpeg joined the GSoC 2025 program again enrolling 3 student projects.
+
+In addition, FFmpeg was sponsored again by the Sovereign Tech Fund, an agency financed by the German Federal Ministry for Economic Affairs and Climate Action. A total of 6 projects were undertaken under this sponsorship and will be completed by 2026.
+
+There had been developer meetings in February aligned with FOSDEM.
+
+{\em Submitted by Thilo Borgmann, Stefano Sabatini and Michael Niedermayer}
+
+\subsection{Ganeti}
+
+Ganeti is a virtualisation orchestrator, built entirely on free and open source software. It supports multiple hypervisors, storage backends and network modes. Initially started as an internal Google project, it has been open sourced in 2007 and handed over to the Ganeti community in 2017.
+
+In 2025 the project released its stable 3.1.0 version, greatly improving the compatibility with newer versions of Python (up to 3.13), Haskell/GHC (up to 9.10) and Qemu (up to 10). This also paved the way for larger refactorings of the Python codebase which will land in the 3.2.0 release in 2026.
+
+{\em Submitted by Rudolph Bott}
+
+\subsection{Gentoo Linux}
+
+Gentoo is a free operating system based on Linux that can be automatically optimized and customized for just about any application or need. Extreme configurability, performance, and a top-notch user and developer community are all hallmarks of the Gentoo experience.
+
+As of 2025, Gentoo consists of 31663 ebuilds for 19174 different packages. For amd64 (x86-64), there are 89 GBytes of binary packages available on the mirrors. Gentoo each week builds 154 distinct installation stages for different processor architectures and system configurations, with an overwhelming part of these fully up-to-date.
+
+While we continue to host our own primary git, bugs, etc. infrastructure and have no plans to change that, Gentoo currently considers and plans the migration of our repository mirrors and pull request contributions from GitHub to Codeberg.
+
+News of 2025 includes that we have gained four new Gentoo developers. We have been present at FOSDEM 2025, at FrOSCon 2025 in Sankt Augustin, and the toolchain team has represented Gentoo at the GNU Tools Cauldron 2025 in Porto.
+
+On the technical side, news includes RISC-V bootable QCOW2 images, Gentoo for WSL, the introduction of FlexiBLAS, a system-wide jobserver, C++ based Rust bootstrap, support for GPG alternatives, as always bleeding edge KDE support, and much much more.
+
+A detailed 2025 Gentoo retrospective can be found on the Gentoo website at \href{https://www.gentoo.org/news/2026/01/05/new-year.html}{https://www.gentoo.org/news/2026/01/05/new-year.html}.
+
+{\em Submitted by Andreas K. Hüttel}
+
+\subsection{GNU TeXmacs}
+
+During 2025, TeXmacs has integrated a few AI-based tools such as automatic translation, grammar checking, running AI-prompts from inside TeXmacs, etc.
+
+An experimental interface for LanguageTool has also been integrated. There has been progress on installers for various platforms and an upcoming Android version. An interface for Jupyter has been added.
+
+{\em Submitted by Joris van der Hoeven}
+
+\subsection{Himmelblau}
+
+In 2025, Himmelblau made substantial progress toward a complete Linux integration layer for Microsoft Entra ID. Work focused on production-ready authentication and identity behavior, including improved PAM/NSS integration, password-change support, stronger offline authentication, Hello PIN refinements, support for additional MFA paths such as FIDO and Microsoft Authenticator flows, Entra group-based sudo access, POSIX/RFC2307 and object-id based ID mapping, browser SSO through the broker architecture, and expanded aad-tool administration commands.
+
+The project also advanced device management and deployment support. Himmelblau added Intune policy and compliance enforcement, TPM-related key handling, confidential client tooling, SELinux and authselect integration, improved packaging for SUSE/RPM and Debian-based systems, broader enterprise distribution build coverage, NixOS improvements, SBOM generation, dependency auditing, fuzzing, and supply-chain hardening.
+
+Significant reliability and security fixes included better handling of network outages, cached group lookup fallback, prevention of sensitive token and credential leakage in logs, safer debug output, and fixes for PAM/NSS deadlocks and startup ordering issues. Himmelblau also participated in the GitHub Secure Open Source Fund, a program providing maintainers with funding, security education, mentorship, tooling, and support to improve open source security outcomes.
+
+Himmelblau’s outreach continued through presentations at SambaXP 2025 and SUSE Labs 2025. These talks covered the project’s move toward a standalone daemon, the Linux broker architecture for Entra ID, Microsoft’s OAuth and broker extensions, and the practical challenges of delivering secure Entra ID authentication and device policy support on Linux.
+
+{\em Submitted by David Mulder}
+
+\subsection{Libreboot}
+
+Various new mainboards have been added to Libreboot, and continued modernisation efforts are being made on its build system, to further improve the number of boards that can be supported from coreboot and related projects.
+
+{\em Submitted by Leah Rowe}
+
+\subsection{LibreOffice}
+
+In 2025, The Document Foundation (TDF) released two major versions of LibreOffice, starting with LibreOffice 25.2 in February. It introduced the ability to read and write ODF version 1.4, alongside numerous interoperability improvements with proprietary OOXML documents. In Writer, improvements were made to Track Changes management to better handle a large number of changes in long documents, while in Calc, new sheet protection options were also added relating to Pivot Tables, Pivot Charts, and AutoFilters.
+
+LibreOffice 25.8 (in August) included a complete overhaul of word hyphenation and spacing, while the Welcome/What's New dialog began offering access to the user interface picker and appearance options, which allowed new users to leverage LibreOffice's flexible UI and personalise the look and feel according to their preferences. Many new functions were added to Calc as well.
+
+Throughout 2025, TDF and the LibreOffice community organised events and supported free software campaigns around the world. The LibreOffice Conference 2025 took place in Budapest. Community members also organised and attended events in Asia, Latin America and Europe.
+
+{\em Submitted by Sophie Gautier}
+
+\subsection{Lua}
+
+Lua is a powerful, efficient, lightweight, embeddable scripting language. Created and maintained at PUC-Rio in Rio de Janeiro, Brazil, it is used throughout the software industry to extend and script applications. This is Lua's first update as an SPI associated project, and we thank SPI for welcoming the language.
+
+On 22 December 2025 we released Lua 5.5. It introduces declarations for global variables, named vararg tables, more compact arrays (large arrays use about 60\% less memory), and major garbage collections done incrementally. Earlier in the year we shipped Lua 5.4.8, a bug-fix release on the previous branch. Version 5.5 is having a good reception, with the LuaRocks package manager and the Lua language server both adding 5.5 support around the release.
+
+In 2025 the language's three original authors, Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes, published ``The evolution of Lua, continued'' in the \emph{Journal of Computer Languages}, in a special issue celebrating 30 years of Lua. The paper is a sequel to their 2007 \emph{History of Programming Languages} (HOPL) paper and recounts the language's development over the past decade. Roberto also gave a talk, ``Functions in Lua,'' at IFL 2025, the Symposium on Implementation and Application of Functional Languages, in Montevideo.
+
+2025 was also LabLua's tenth year mentoring in Google Summer of Code, collaborating with students from around the world. We completed three projects: a macro system and a documentation generator for Teal, a typed dialect of Lua, and a binding for Lunatik, a framework for scripting the Linux kernel with Lua, that lets HID drivers be written entirely in Lua.
+
+{\em Submitted by Roberto Ierusalimschy}
+
+\subsection{Manasource}
+
+\paragraph{The Mana World}
+
+Players experienced a new Treasure Hunt adventure, alongside Pandora-style reward chests scattered through the world and fresh items such as the Arrows Bundle and Pirate Bandana. A large effort went into migrating long-standing quests over to the in-client Quest Log, making it easier for new players to track what to do. Many dialogues, drops and maps were polished along the way.
+
+The tmwAthena server got modernized: CMake replaced attoconf entirely, multi-architecture Docker images, plus a security fix that prevented a malformed network packet from crashing the game server.
+
+The Mana client has returned with the 0.7 release. After a long quiet period, the client is alive again, now ported to SDL 2 and shipping with popular graphic themes, graphics scaling, VSync and windowed-fullscreen options. Gameplay-facing additions include NPC quest indicators and a Quests window, richer NPC dialogs, and an online player list in the Social window, as weel as rendering fixes and modernizations.
+
+\paragraph{Source of Mana}
+
+The game's now-available 0.8 release provides a feature-complete prototype build of the new game built on Godot. A lot of progress has been made for the 0.9 release, which will bring a playable demo of the game with quests, new areas to explore as well as a lot of new and improved features to try out.
+
+\paragraph{Moubootaur Legends}
+
+The Final Showdown multiplayer quest is now available, marking the completion of game canon lore events. Two new major features improved player economy: Auction House and the bi-monthly Bazaar were added, giving the chance to obtain the item you want or need. Once you reach level 100, you can now select a Job Class, specializing your character, which is necessary for some of the new dungeons. Many minor improvements and bugfixes were done during 2025 for Moubootaur Legends, including some random barrels/boxes/pans/etc in maps containing loot, like usual JRPGs.
+
+{\em Submitted by the Mana Team}
+
+\subsection{NTPsec}
+
+In April 2025 we shipped NTPsec 1.2.4. Highlights include FIPS-140-2 mode support, the ability to listen on a second port so NTS can bypass ISP filtering of port 123, Linux armhf support, and removal of the legacy clock-fuzzing code. This is likely our last release supporting Python 2.7.
+
+The development list saw over 400 messages in 2025, more than triple the prior year, driven by discussions on modernizing the build system, finally retiring Python 2, and the long-running Go/Rust rewrite debate. On the standards front, NTS for the public NTP pool moved forward with a new key-exchange draft, and by early 2026 NTS-with-pool actually worked. NTPsec remains the default or recommended NTP daemon in Debian, Ubuntu, and several other distributions.
+
+We lost our founder's founder in 2024: David L. Mills, who created NTP itself, passed away and was memorialized by the Internet community. The project carried on through the work of its longstanding maintainers: Hal, Gary, Ian, Matt, Richard, and others, and in mid-2026 the former project manager (Mark Atwood) returned to active participation after several years away.
+
+{\em Submitted by Mark Atwood}
+
+\subsection{ns-3}
+
+ns-3 is a discrete-event, packet-level network simulator with an emphasis on networking research and education.
+
+In 2025, ns-3 published three software releases of the simulator, thanks to submissions from between thirteen and twenty two contributors for each release. Many of the model improvements focused on Wi-Fi, a new Zigbee model, and support for cellular technologies. ns-3 also mentored five student projects in the 2025 edition of Google Summer of Code. Finally, the project rebranded its annual academic event as the International Conference on ns-3 (ICNS3) (\href{https://dl.acm.org/doi/proceedings/10.1145/3747204}{https://dl.acm.org/doi/proceedings/10.1145/3747204}), and the inaugural such event was held at the Ritsumeikan University, Osaka Ibaraki Campus, Japan, co-hosted by Tokushima University, and featured the presentation of twenty three papers and several short talks.
+
+{\em Submitted by Tom Henderson}
+
+\subsection{OFTC}
+
+OFTC reported the adoption of a new constitution as a remarkable achievement in 2025.
+
+{\em Submitted by Doug Freed}
+
+\subsection{Open Bioinformatics Foundation}
+
+The \href{https://www.open-bio.org/}{Open Bioinformatics Foundation} (OBF), founded in 2001, is a non-profit, volunteer-run group that promotes open source development and open science in biological research. OBF is led by an elected Board that currently includes 9 members, with Peter Cock as the president. There have been no changes to the OBF Board in the past year.
+
+In 2025, 9 people were awarded \href{https://www.open-bio.org/event-awards/}{OBF Event Fellowships} to attend in-person or virtual events related to open science, including conferences such as the Africa International Biotechnology and Biomedical Conference, 2025 ESIIL Innovation Summit, and International conference on Intelligent Systems for Molecular Biology (ISMB) where BOSC is held. We also funded attendees for 2025 BioHackathon Europe. Additionally, our member projects made multiple software releases during 2025: \href{https://biopython.org/}{Biopython} 1.85 and 1.86; \href{https://biojava.org/}{BioJava} 7.1.4, 7.2.0, 7.2.2, 7.2.3, and 7.2.4; and \href{http://bioruby.org/}{BioRuby} 2.06.
+
+We held our 26th annual \href{https://www.open-bio.org/events/bosc-2025/}{Bioinformatics Open Source Conference (BOSC 2025)} as part of ISMB 2025 in Liverpool, UK, and online. Nearly 300 people participated in BOSC sessions consisting of two keynotes, a panel discussion, 36 talks and 47 posters, covering a wide range of topics in open science and open source bioinformatics. Keynote speakers were Christine Orengo on ``Working together to develop, promote and protect our data resources: Lessons learnt developing CATH and TED,'' and Chris Mungall on ``Open Knowledge Bases in the Age of Generative AI.'' A closing panel on Data Sustainability, moderated by Mónica Muñoz Torres, featured panelists Scott Edmunds, Varsha Khodiyar, Tony Burdett, Nicky Mulder, and Chris Mungall. More details can be found in our full \href{https://f1000research.com/articles/14-887/v1}{BOSC report on F1000}. The \href{https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/}{2025 CollaborationFest (CoFest)} was incorporated as part of the main conference and organized by BOSC with help from the Function and 3D-SIG tracks. Over 60 people participated, with about 50 in person and 10 online.
+
+\href{https://www.open-bio.org/events/bosc-2026/}{BOSC 2026} will take place July 12--16, 2026 in Washington, DC, USA (as part of \href{https://www.iscb.org/ismb2026/home}{ISMB 2026}).
+
+{\em Submitted by Heather Wiencko}
+
+\subsection{OpenEmbedded}
+
+In 2025, the OpenEmbedded project continued supporting developers by organizing meetings and workshops.
+
+We hosted a workshop in February after FOSDEM in Brussels. 60 people attended and heard talks on a range of subjects, from building systemd to SBOMs. For next year, we will research a larger space to meet developer demand.
+
+In August, before the Embedded Linux Conference in Amsterdam, 30 people attended a developer meeting. The one day meeting featured many interesting discussions and helped people across the developer spectrum, from individuals to people working for large corporations, connect and build better working relationships.
+
+{\em Submitted by Philip Balister}
+
+\subsection{OpenSAF}
+
+OpenSAF is a high availability middleware, which helps in achieving 99.999\% of service availability to business and mission critical applications. It is the fastest and the most efficient middleware implementation of AIS specifications from SA Forum. OpenSAF is being used mostly in telecom and defence applications worldwide. OpenSAF can detect fault and perform recovery in few milliseconds.
+
+In 2025, we delivered one major release: OpenSAF-5.25.04.
+
+More information can be found at:
+\href{https://sourceforge.net/p/opensaf/wiki/NEWS-5.26.02/}{https://sourceforge.net/p/opensaf/wiki/NEWS-5.26.02/}
+
+{\em Submitted by Nagendra Kumar}
+
+\subsection{OpenSSL Foundation}
+
+\href{https://openssl.foundation/}{OpenSSL Foundation} continued to support development of the \href{https://openssl-library.org/}{OpenSSL Library} throughout 2025, helping advance one of the world's most widely deployed cryptographic software projects. During the year, the project released OpenSSL 3.5 and 3.6 and continued development toward future releases, including expanded support for modern cryptographic standards and post-quantum cryptography. The OpenSSL community remained highly active, with 160 code contributors, 4,511 commits, 10,461 code reviews, and 355,297 lines of code changed.
+
+Several significant engineering initiatives were launched during 2025. The Foundation secured funding from Germany's Sovereign Tech Fund to improve resistance to timing side-channel attacks in OpenSSL's BIGNUM implementation and reduce the project's issue backlog. Additional support was received for DTLS 1.3 development work, helping advance secure communications technologies used across a wide range of networked systems.
+
+The Foundation also expanded its technical capacity during the year through the addition of new engineering staff and by fostering collaboration across the OpenSSL ecosystem. In October, the inaugural \href{https://2025.openssl-conference.org/}{OpenSSL Conference} brought together developers, security researchers, maintainers, and industry users from around the world to discuss cryptography, secure software development, and the future direction of the project. Together, these efforts helped strengthen the long-term sustainability, security, and reliability of critical open source security infrastructure.
+
+{\em Submitted by Sherry Handel}
+
+\subsection{OpenZFS}
+
+OpenZFS is an open-source storage platform that includes the functionality of both traditional file systems and volume manager.
+
+OpenZFS held its annual Developer Summit in October 2025, with our expanded 4-day format in Portland, Oregon for the second time. Planning for the 2026 event is underway. We also published the v2.4.0 release with many small features and performance improvements, supporting our design philosophy of ``all feature works well together''.
+
+{\em Submitted by Matthew Ahrens}
+
+\subsection{PMIx}
+
+The \href{https://pmix.org/}{PMIx} organization is a collection of academics, researchers, and vendors who develop and maintain cutting-edge technology for deploying, managing and improving interoperability between most-demanding High Performance Computing (HPC) environmental management software, notably for the deployment and runtime management of distributed applications, and their interoperability with launch managers and batch schedulers. The organization supports the development and release of the PMIx standard, and is closely associated with the \href{https://openpmix.org/}{OpenPMIx} and \href{https://github.com/openpmix/prrte}{PRTE} reference implementations.
+
+In 2025:
+
+\begin{itemize}
+\item The organization held four Administrative Steering Committee (ASC) meetings. These quarterly sessions brought together stakeholders to discuss proposed additions and modifications to the PMIx Standard, with eligible ASC members voting on the proposed changes. Elections were also held to renew the organization's chairs.
+
+\item The PMIx working groups reached a largely stable state as the PMIx Standard matured. As a result, much of the project's ongoing technical activity shifted from standards development to implementation work within the closely associated OpenPMIx reference implementation project, where new capabilities are developed, evaluated, and refined before consideration for future standardization.
+
+\item A Birds-of-a-Feather session was held at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC25) in St. Louis, Missouri. The session, titled ``PMIx: Charting the Roadmap,'' reviewed recent PMIx Standard and OpenPMIx implementation releases, discussed the OpenPMIx project roadmap, and included a user experience presentation describing the use of PMIx/OpenPMIx technologies in practice.
+
+\item During the reporting period, the organization continued maintenance and evolution of the PMIx Standard while the associated OpenPMIx project delivered multiple software releases across its library and runtime projects. These releases incorporated new capabilities, performance improvements, bug fixes, and interoperability enhancements, providing production-quality implementations of the PMIx Standard and establishing the implementation experience that will inform future revisions of the standard.
+\end{itemize}
+
+{\em Submitted by Aurelien Bouteiller and Thomas Naughton on behalf of the PMIx ASC}
+
+\subsection{PostgreSQL}
+
+PostgreSQL continued its strong momentum in 2025 with the release of PostgreSQL 18, which delivered major improvements in performance, scalability, and operations. The headline feature was the introduction of asynchronous I/O (AIO), enabling more efficient storage operations and improved performance for many workloads. PostgreSQL 18 also added virtual generated columns, native uuidv7() support, OAuth 2.0 authentication, improved query planning, and streamlined major-version upgrades through enhanced statistics preservation.
+
+The PostgreSQL community also continued to grow in 2025. PostgreSQL maintained its strong standing in developer surveys and remained a popular choice for new application development, analytics platforms, and data-intensive workloads. Community participation remained healthy, with active PostgreSQL conferences, regional PGDay events, user groups, and another successful year participating in Google Summer of Code.
+
+As PostgreSQL approaches its 30th year of development, the project continues to demonstrate the strength of its global community and open development model. The release of PostgreSQL 18 further reinforces PostgreSQL's position as one of the world's leading open source databases and provides a strong foundation for future innovation.
+
+{\em Submitted by Robert Treat}
+
+\subsection{Rigs of Rods}
+
+In 2025, Rigs of Rods saw significant progress through a series of release candidates and pre-release builds. These introduced major engine improvements, environmental audio via OpenAL EFX, new modding and terrain editing tools, multiplayer and security enhancements, UI improvements, and numerous bug fixes. We also welcomed several new code contributors outside the core contributor team. This work culminated in the 2026.01 release, a major milestone that established a stronger technical foundation for future features, expanded content creation workflows, continued graphics modernization, and further improvements to input and sound systems.
+
+{\em Submitted by Rafael Galvan}
+
+\subsection{Swathanthra Malayalam Computing}
+
+In 2025, Swathanthra Malayalam Computing (SMC) maintained its involvement in Malayalam computing initiatives. The majority of our technical project activities centered on maintenance and user support. We released updated versions of our fonts and various software projects. We upstreamed our Poorna input method to m17n-db. Volunteers participated in various Malayalam computing training programs. We presented our academic research in conferences on Malayalam Computing. Our Telegram channel experienced significant engagement and welcomed new users of our tools.
+
+Our community members actively participated in diverse events organized by organizations such as OpenStreetMap, Wikimedia Foundation, Drupal, Debian, and the Indic Digital Archive Foundation. AI and language-related discussions were frequent. We released updated versions of curated text, word, and speech datasets to the public.
+
+{\em Submitted by Santhosh Thottingal}
+
+\subsection{systemd}
+
+systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+
+In 2025 we published two major releases of systemd and 40 point releases with bug fixes. We merged 6160 commits (down from 7372 in 2024) from a total of 379 contributors.
+
+We organized the \href{https://uapi-group.org/conferences/minutes/2025-10-02__image-based-linux-summit/}{Image-Based Linux Summit} and we participated in \href{https://cfp.all-systems-go.io/all-systems-go-2025/schedule/}{All Systems Go!} in Berlin.
+
+We continue to hold a biweekly maintainers meeting and the project is maintaining a steady pace of development.
+
+{\em Submitted by Luca Boccassi}
+
+\subsection{translatewiki.net}
+
+Translatewiki.net is an online translation platform for free and open-source projects, powered by a global community of volunteer translators. In 2025, 1,699 active translators made over 0.6 million translation edits. In this year we welcomed over one thousand new translators, of whom about a quarter returned to make translation edits after their first month.
+
+On the development and operations side, we introduced a cloud proxy to protect the site from excessive crawling. Around 40 new projects or components were added for translation while some others were sunset. We also onboarded about 20 new languages or writing-system variants.
+
+{\em Submitted by Niklas Laxström}
+
+\subsection{Tux4Kids}
+
+Tux Paint had one release in 2025, version 0.9.35 in May, which added the ability to paste text from the system clipboard into Tux Paint's Text and Label tools. It also improved support for loading user-installed fonts to be used by those tools.
+
+A set of new magic tools add trails of hearts, stars, and sparkles onto the canvas, using a fun animated effect while you draw.
+
+Finally, the Hue/Saturation/Value color chooser has been improved.
+
+As usual, new user-provided artwork has been added to the online gallery, and development goes on behind the scenes to improve Tux Paint, add new features and translations, fix bugs, and keep build processes up-to-date, which will be included in a future release.
+
+{\em Submitted by Bill Kendrick}
+
+\subsection{The Whisper Project}
+
+The Whisper Project’s goal is to put high-quality assistive technology, at no cost, into the hands of people who find it difficult or impossible to speak, so that they can participate fully in individual and group conversations with those who can.
+
+In 2025, we focused on expanding support to the head-and-neck cancer community, and cooperated with Washington University in St. Louis on a research study focused on total laryngectomy patients. To that end, we completed a new app, \href{https://apps.apple.com/app/in-my-voice/id6742593911}{In My Voice}, that provides text-to-speech in an AI-generated “cloned” voice of the patient using a variety of text-to-speech technologies, both open source and commercial. This app, and its data-collecting back-end server, were slated to be used in the study to measure whether patients prefer using this technology relative to the “electro-larynx” technology already available. The goal was to convince insurance companies that quality of life is improved by offering these patients text-to-speech capabilities, so that the companies will fund the necessary infrastructure. Unfortunately, due to funding shortfalls, the research project had to be postponed. The new hoped-for start date is in late 2026/early 2027.
+
+{\em Submitted by Daniel Brotsky}
+
+\subsection{Z-Anatomy}
+
+On August 8, 2025, the Z-Anatomy project was reactivated and re-established as a micro-company (individual enterprise). This made it possible to formalize two small collaborations with the University of Montpellier: one to create a dissection module of the brachial plexus based on seven cadaver scans (shared under CC-BY-SA 4.0), and another illustrating pressure ulcer (bedsore) repair techniques.
+
+In partnership with VetAgroSup Lyon and the University of Montreal, and with funding from the Auvergne-Rhône-Alpes Region (France), work began on the first open-source 3D atlas of feline anatomy (CC-BY-SA 4.0), including a full digital reproduction of the official veterinary lexicon (Nomina Anatomica Veterinaria). The project consists of reproducing the official veterinary lexicon in a spreadsheet, compiling a definition for each of its roughly 7,000 structures, representing this hierarchy within a Blender file, extracting and repairing a skeleton from a scan, and modeling ligaments, joint capsules, fasciae, muscles, muscle insertions, and internal organs, together with labeling all of these structures.
+
+Thanks to this funding, the Z-Anatomy app has also been debugged and significantly improved by a freelance contractor. Both human and feline models will soon be available within the same application. New features include a typo-tolerant search function, the ability to save, annotate, and share dissections, support for URLs pointing to specific atlas structures, the ability to dissect organs into their constituent elements, and the option to export images with transparent backgrounds. The new application containing both models is expected to be released after scientific validation by Colline Brassard (VetAgroSup), anticipated around September 2026.
+
+{\em Submitted by Gauthier Kervyn}
 
 \appendix
 \chapter{About SPI}
