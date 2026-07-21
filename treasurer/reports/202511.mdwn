@@ -12,7 +12,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
- 302861.42 USD  233725.86 USD   69135.56 USD  Assets
+ 307914.64 USD  258725.86 USD   49188.78 USD  Assets
      51.86 USD              0      51.86 USD    Ameriprise Cash Mgmt Acct
      57.00 USD   16651.70 USD  -16594.70 USD    Bank of America Business Advantage Checking
   11199.13 USD      95.00 USD   11104.13 USD    Chase Performance Business Checking
@@ -23,19 +23,20 @@ This is a *draft*.
    4323.93 USD              0    4323.93 USD    Merrill Lynch EMA
    3983.52 USD    4951.98 USD    -968.46 USD    PaypalDebian
   16371.14 USD   29283.18 USD  -12912.04 USD    PaypalSPI
-             0     448.98 USD    -448.98 USD    Prepaid-Expenses
-  57253.72 USD   48260.45 USD    8993.27 USD    Receivable
+   4778.00 USD     448.98 USD    4329.02 USD    Prepaid-Expenses
+  57528.94 USD   73260.45 USD  -15731.51 USD    Receivable
   71210.97 USD   71210.97 USD              0    Transfers
   15000.00 USD   15367.02 USD    -367.02 USD    Wise:Business
- 100107.69 USD       0.06 USD  100107.63 USD  Expenses
+ 104889.90 USD    4778.06 USD  100111.84 USD  Expenses
    1690.50 USD              0    1690.50 USD    Accounting
    1125.33 USD              0    1125.33 USD    Admin
-   2524.06 USD       0.06 USD    2524.00 USD    Bank-Fees
+   2528.27 USD       0.06 USD    2528.21 USD    Bank-Fees
   17144.31 USD              0   17144.31 USD    Conferences
    4595.96 USD              0    4595.96 USD      Dining
    3004.46 USD              0    3004.46 USD      Materials
    8637.30 USD              0    8637.30 USD      Services
     906.59 USD              0     906.59 USD      Venue
+   4778.00 USD    4778.00 USD              0    Disassociation
    4545.53 USD              0    4545.53 USD    IT
      79.79 USD              0      79.79 USD      Domains
     175.15 USD              0     175.15 USD      Hardware
@@ -50,16 +51,16 @@ This is a *draft*.
    9576.58 USD              0    9576.58 USD      Accommodation
    1400.37 USD              0    1400.37 USD      Dining
    7822.13 USD              0    7822.13 USD      Transportation
-   4091.87 USD  102051.29 USD  -97959.42 USD  Income
+   2842.64 USD   76081.49 USD  -73238.85 USD  Income
     292.17 USD    5843.63 USD   -5551.46 USD    Conferences:Registrations
              0       7.09 USD      -7.09 USD    Currency-Gain
      13.99 USD              0      13.99 USD    Currency-Loss
-   3785.71 USD   91824.78 USD  -88039.07 USD    Donations
+   2536.48 USD   65854.98 USD  -63318.50 USD    Donations
              0    3835.81 USD   -3835.81 USD    Interest
              0     539.98 USD    -539.98 USD    Unrealized-Gain
-  39200.18 USD  110483.95 USD  -71283.77 USD  Liabilities:Payable
+  39200.18 USD  115261.95 USD  -76061.77 USD  Liabilities:Payable
 --------------------------------------------
- 446261.16 USD  446261.16 USD              0
+ 454847.36 USD  454847.36 USD              0
 </pre>
 
 ### Year to date, ending 2025-12-01
@@ -67,7 +68,7 @@ This is a *draft*.
 <pre>
          debit         credit          total
 --------------------------------------------
-5375013.46 USD 2718480.17 USD 2656533.29 USD  Assets
+5405668.89 USD 2743780.17 USD 2661888.72 USD  Assets
    4589.26 USD    4589.26 USD              0    Accrued-Interest
              0  202762.72 USD -202762.72 USD    Accumulated-Depreciation
   15973.61 USD     100.00 USD   15873.61 USD    Ameriprise Cash Mgmt Acct
@@ -82,8 +83,8 @@ This is a *draft*.
 2246847.46 USD  374875.92 USD 1871971.54 USD    Merrill Lynch EMA
   42583.95 USD   40421.83 USD    2162.12 USD    PaypalDebian
  109104.73 USD  106895.71 USD    2209.02 USD    PaypalSPI
-  11321.52 USD    3382.43 USD    7939.09 USD    Prepaid-Expenses
- 442403.04 USD  415749.46 USD   26653.58 USD    Receivable
+  16099.52 USD    3382.43 USD   12717.09 USD    Prepaid-Expenses
+ 468280.47 USD  441049.46 USD   27231.01 USD    Receivable
  593735.28 USD  593735.28 USD              0    Transfers
  417089.80 USD  385165.32 USD   31924.48 USD    Wise
  329618.95 USD  309557.64 USD   20061.31 USD      Business
@@ -91,17 +92,17 @@ This is a *draft*.
              0 2526739.93 USD -2526739.93 USD  Equity:Net-Assets
              0 1968041.07 USD -1968041.07 USD    Restricted
              0  558698.86 USD -558698.86 USD    Unrestricted
- 559732.35 USD   10977.08 USD  548755.27 USD  Expenses
-  42885.17 USD              0   42885.17 USD    Accounting
+ 566702.79 USD   15755.08 USD  550947.71 USD  Expenses
+  45058.67 USD              0   45058.67 USD    Accounting
    4930.11 USD              0    4930.11 USD    Admin
-  15997.78 USD     222.27 USD   15775.51 USD    Bank-Fees
+  16016.72 USD     222.27 USD   15794.45 USD    Bank-Fees
   66550.30 USD              0   66550.30 USD    Conferences
   29625.59 USD              0   29625.59 USD      Dining
    8285.43 USD              0    8285.43 USD      Materials
    1164.11 USD              0    1164.11 USD      Registration
   13395.65 USD              0   13395.65 USD      Services
   14079.52 USD              0   14079.52 USD      Venue
-  10754.81 USD   10754.81 USD              0    Disassociation
+  15532.81 USD   15532.81 USD              0    Disassociation
  103464.14 USD              0  103464.14 USD    IT
    2391.05 USD              0    2391.05 USD      Domains
    8858.19 USD              0    8858.19 USD      Hardware
@@ -118,20 +119,20 @@ This is a *draft*.
   41320.13 USD              0   41320.13 USD      Accommodation
    3399.93 USD              0    3399.93 USD      Dining
  106153.05 USD              0  106153.05 USD      Transportation
-  53175.60 USD  591430.53 USD -538254.93 USD  Income
+  53192.25 USD  592043.55 USD -538851.30 USD  Income
    2558.20 USD   38672.87 USD  -36114.67 USD    Conferences:Registrations
              0    1167.14 USD   -1167.14 USD    Currency-Gain
    7747.27 USD              0    7747.27 USD    Currency-Loss
-  18028.21 USD  429979.61 USD -411951.40 USD    Donations
+  18044.86 USD  430592.63 USD -412547.77 USD    Donations
              0   60915.99 USD  -60915.99 USD    Interest
              0    1100.00 USD   -1100.00 USD    Sponsorship
              0   59594.92 USD  -59594.92 USD    Unrealized-Gain
   24841.92 USD              0   24841.92 USD    Unrealized-Loss
- 926372.67 USD 1066666.37 USD -140293.70 USD  Liabilities
+ 926372.67 USD 1073617.87 USD -147245.20 USD  Liabilities
   10000.00 USD   10000.00 USD              0    Loans-and-Exchanges
- 916372.67 USD 1056666.37 USD -140293.70 USD    Payable
+ 916372.67 USD 1063617.87 USD -147245.20 USD    Payable
 --------------------------------------------
-6914294.08 USD 6914294.08 USD              0
+6951936.60 USD 6951936.60 USD              0
 </pre>
 
 ## Per project summaries
@@ -214,11 +215,12 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-  18960.21 USD              0  -18960.21 USD  Expenses
+  23738.21 USD              0  -23738.21 USD  Expenses
     596.29 USD              0    -596.29 USD    Bank-Fees
     156.78 USD              0    -156.78 USD    Conferences
      75.19 USD              0     -75.19 USD      Dining
      81.59 USD              0     -81.59 USD      Venue
+   4778.00 USD              0   -4778.00 USD    Disassociation
     254.94 USD              0    -254.94 USD    IT
      79.79 USD              0     -79.79 USD      Domains
     175.15 USD              0    -175.15 USD      Hardware
@@ -229,7 +231,7 @@ shown as a positive amount.
     853.69 USD              0    -853.69 USD      Transportation
     820.41 USD   16407.33 USD   15586.92 USD  Income:Donations
 --------------------------------------------
-  19780.62 USD   16407.33 USD   -3373.29 USD
+  24558.62 USD   16407.33 USD   -8151.29 USD
 
 </pre>
 
@@ -358,9 +360,9 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
       1.40 USD              0      -1.40 USD  Expenses:Bank-Fees
-   1251.25 USD   25025.00 USD   23773.75 USD  Income:Donations
+      1.25 USD      25.00 USD      23.75 USD  Income:Donations
 --------------------------------------------
-   1252.65 USD   25025.00 USD   23772.35 USD
+      2.65 USD      25.00 USD      22.35 USD
 
 </pre>
 
@@ -432,22 +434,23 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-   6436.99 USD       0.06 USD   -6436.93 USD  Expenses
+   6439.22 USD    4778.06 USD   -1661.16 USD  Expenses
    1690.50 USD              0   -1690.50 USD    Accounting
    1125.33 USD              0   -1125.33 USD    Admin
-    426.17 USD       0.06 USD    -426.11 USD    Bank-Fees
+    428.40 USD       0.06 USD    -428.34 USD    Bank-Fees
+             0    4778.00 USD    4778.00 USD    Disassociation
    2867.99 USD              0   -2867.99 USD    IT
      59.01 USD              0     -59.01 USD      Hosting
    2808.98 USD              0   -2808.98 USD      Services
     300.00 USD              0    -300.00 USD    Legal
      27.00 USD              0     -27.00 USD    Office:Postal
-      0.02 USD   20493.28 USD   20493.26 USD  Income
+      0.02 USD   19508.19 USD   19508.17 USD  Income
              0       4.74 USD       4.74 USD    Currency-Gain
-      0.02 USD   16112.75 USD   16112.73 USD    Donations
+      0.02 USD   15127.66 USD   15127.64 USD    Donations
              0    3835.81 USD    3835.81 USD    Interest
              0     539.98 USD     539.98 USD    Unrealized-Gain
 --------------------------------------------
-   6437.01 USD   20493.34 USD   14056.33 USD
+   6439.24 USD   24286.25 USD   17847.01 USD
 
 </pre>
 
@@ -470,10 +473,10 @@ shown as a positive amount.
 <pre>
          debit         credit          total
 --------------------------------------------
-      0.70 USD              0      -0.70 USD  Expenses:Bank-Fees
-      0.30 USD       6.00 USD       5.70 USD  Income:Donations
+      2.68 USD              0      -2.68 USD  Expenses:Bank-Fees
+      1.07 USD      21.29 USD      20.22 USD  Income:Donations
 --------------------------------------------
-      1.00 USD       6.00 USD       5.00 USD
+      3.75 USD      21.29 USD      17.54 USD
 
 </pre>
 
@@ -596,12 +599,12 @@ shown as a positive amount.
   17792.89 USD              0  -17792.89 USD    Travel
    9992.37 USD              0   -9992.37 USD      Accommodation
    7800.52 USD              0   -7800.52 USD      Transportation
-   2277.87 USD   38395.36 USD   36117.49 USD  Income
+   2279.53 USD   38428.70 USD   36149.17 USD  Income
              0       7.74 USD       7.74 USD    Currency-Gain
     358.28 USD              0    -358.28 USD    Currency-Loss
-   1919.59 USD   38387.62 USD   36468.03 USD    Donations
+   1921.25 USD   38420.96 USD   36499.71 USD    Donations
 --------------------------------------------
-  33271.33 USD  484737.57 USD  451466.24 USD
+  33272.99 USD  484770.91 USD  451497.92 USD
 
 </pre>
 
@@ -648,14 +651,14 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  255098.31 USD  255098.31 USD  Equity:Net-Assets:Restricted
- 130076.95 USD              0 -130076.95 USD  Expenses
+ 134854.95 USD              0 -134854.95 USD  Expenses
    4177.69 USD              0   -4177.69 USD    Bank-Fees
    4008.72 USD              0   -4008.72 USD    Conferences
    1534.47 USD              0   -1534.47 USD      Dining
      71.84 USD              0     -71.84 USD      Materials
    1985.21 USD              0   -1985.21 USD      Services
     417.20 USD              0    -417.20 USD      Venue
-  10754.81 USD              0  -10754.81 USD    Disassociation
+  15532.81 USD              0  -15532.81 USD    Disassociation
    8314.07 USD              0   -8314.07 USD    IT
    1244.65 USD              0   -1244.65 USD      Domains
    7017.52 USD              0   -7017.52 USD      Hardware
@@ -672,7 +675,7 @@ shown as a positive amount.
    4027.39 USD   80190.38 USD   76162.99 USD    Donations
              0     350.00 USD     350.00 USD    Sponsorship
 --------------------------------------------
- 134620.45 USD  335954.61 USD  201334.16 USD
+ 139398.45 USD  335954.61 USD  196556.16 USD
 
 </pre>
 
@@ -693,12 +696,12 @@ shown as a positive amount.
    1971.22 USD              0   -1971.22 USD    Travel
     380.94 USD              0    -380.94 USD      Accommodation
    1590.28 USD              0   -1590.28 USD      Transportation
-   8811.42 USD   74425.84 USD   65614.42 USD  Income
+   8813.08 USD   74459.18 USD   65646.10 USD  Income
              0     242.51 USD     242.51 USD    Currency-Gain
    5102.25 USD              0   -5102.25 USD    Currency-Loss
-   3709.17 USD   74183.33 USD   70474.16 USD    Donations
+   3710.83 USD   74216.67 USD   70505.84 USD    Donations
 --------------------------------------------
-  44238.27 USD  268842.93 USD  224604.66 USD
+  44239.93 USD  268876.27 USD  224636.34 USD
 
 </pre>
 
@@ -808,12 +811,12 @@ shown as a positive amount.
   11081.55 USD              0  -11081.55 USD    Travel
    2780.31 USD              0   -2780.31 USD      Accommodation
    8301.24 USD              0   -8301.24 USD      Transportation
-    769.48 USD   13829.38 USD   13059.90 USD  Income
+    771.14 USD   13862.72 USD   13091.58 USD  Income
              0      62.52 USD      62.52 USD    Currency-Gain
      81.15 USD              0     -81.15 USD    Currency-Loss
-    688.33 USD   13766.86 USD   13078.53 USD    Donations
+    689.99 USD   13800.20 USD   13110.21 USD    Donations
 --------------------------------------------
-  12261.83 USD  119307.93 USD  107046.10 USD
+  12263.49 USD  119341.27 USD  107077.78 USD
 
 </pre>
 
@@ -891,9 +894,9 @@ shown as a positive amount.
 --------------------------------------------
              0   40825.80 USD   40825.80 USD  Equity:Net-Assets:Restricted
       6.30 USD              0      -6.30 USD  Expenses:Bank-Fees
-      0.65 USD      13.00 USD      12.35 USD  Income:Donations
+      2.31 USD      46.34 USD      44.03 USD  Income:Donations
 --------------------------------------------
-      6.95 USD   40838.80 USD   40831.85 USD
+      8.61 USD   40872.14 USD   40863.53 USD
 
 </pre>
 
@@ -1016,11 +1019,11 @@ shown as a positive amount.
     345.05 USD              0    -345.05 USD      Domains
    2370.11 USD              0   -2370.11 USD      Hosting
      35.87 USD              0     -35.87 USD    Office:Postal
-   1844.64 USD   36892.82 USD   35048.18 USD  Income
+   1846.30 USD   36926.16 USD   35079.86 USD  Income
     213.79 USD    4275.82 USD    4062.03 USD    Conferences:Registrations
-   1630.85 USD   32617.00 USD   30986.15 USD    Donations
+   1632.51 USD   32650.34 USD   31017.83 USD    Donations
 --------------------------------------------
-  23214.93 USD   80306.49 USD   57091.56 USD
+  23216.59 USD   80339.83 USD   57123.24 USD
 
 </pre>
 
@@ -1112,11 +1115,11 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0  558698.86 USD  558698.86 USD  Equity:Net-Assets:Unrestricted
- 130716.30 USD   10955.23 USD -119761.07 USD  Expenses
-  42885.17 USD              0  -42885.17 USD    Accounting
+ 132892.03 USD   15733.23 USD -117158.80 USD  Expenses
+  45058.67 USD              0  -45058.67 USD    Accounting
    4930.11 USD              0   -4930.11 USD    Admin
-   4072.61 USD     200.42 USD   -3872.19 USD    Bank-Fees
-             0   10754.81 USD   10754.81 USD    Disassociation
+   4074.84 USD     200.42 USD   -3874.42 USD    Bank-Fees
+             0   15532.81 USD   15532.81 USD    Disassociation
   68624.00 USD              0  -68624.00 USD    IT
     222.30 USD              0    -222.30 USD      Domains
    4671.83 USD              0   -4671.83 USD      Hosting
@@ -1128,15 +1131,15 @@ shown as a positive amount.
    1442.72 USD              0   -1442.72 USD    Travel
     698.60 USD              0    -698.60 USD      Accommodation
     744.12 USD              0    -744.12 USD      Transportation
-  25825.11 USD  187059.05 USD  161233.94 USD  Income
+  25825.15 USD  187339.80 USD  161514.65 USD  Income
              0     383.84 USD     383.84 USD    Currency-Gain
     951.65 USD              0    -951.65 USD    Currency-Loss
-     31.54 USD   66164.30 USD   66132.76 USD    Donations
+     31.58 USD   66445.05 USD   66413.47 USD    Donations
              0   60915.99 USD   60915.99 USD    Interest
              0   59594.92 USD   59594.92 USD    Unrealized-Gain
   24841.92 USD              0  -24841.92 USD    Unrealized-Loss
 --------------------------------------------
- 156541.41 USD  756713.14 USD  600171.73 USD
+ 158717.18 USD  761771.89 USD  603054.71 USD
 
 </pre>
 
@@ -1152,12 +1155,12 @@ shown as a positive amount.
    1609.37 USD              0   -1609.37 USD    Travel
    1294.33 USD              0   -1294.33 USD      Accommodation
     315.04 USD              0    -315.04 USD      Transportation
-     58.02 USD     350.14 USD     292.12 USD  Income
+     59.68 USD     383.48 USD     323.80 USD  Income
              0       6.27 USD       6.27 USD    Currency-Gain
      40.81 USD              0     -40.81 USD    Currency-Loss
-     17.21 USD     343.87 USD     326.66 USD    Donations
+     18.87 USD     377.21 USD     358.34 USD    Donations
 --------------------------------------------
-  69779.65 USD  152297.23 USD   82517.58 USD
+  69781.31 USD  152330.57 USD   82549.26 USD
 
 </pre>
 
@@ -1176,12 +1179,12 @@ shown as a positive amount.
          debit         credit          total
 --------------------------------------------
              0    1006.00 USD    1006.00 USD  Equity:Net-Assets:Restricted
-     40.31 USD              0     -40.31 USD  Expenses
-     15.31 USD              0     -15.31 USD    Bank-Fees
+     57.02 USD              0     -57.02 USD  Expenses
+     32.02 USD              0     -32.02 USD    Bank-Fees
      25.00 USD              0     -25.00 USD    IT:Services
-      4.91 USD      97.87 USD      92.96 USD  Income:Donations
+     11.56 USD     230.10 USD     218.54 USD  Income:Donations
 --------------------------------------------
-     45.22 USD    1103.87 USD    1058.65 USD
+     68.58 USD    1236.10 USD    1167.52 USD
 
 </pre>
 
