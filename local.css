@@ -144,9 +144,11 @@ div.recentchanges {
 }
 
 .parentlinks {
-	float: right;
-	font-size: 0.8em;
-	color: #FFF;
+    font-size: 0.8em;
+    color: #FFF;
+    display: block;
+    padding-left: 23ex;
+    box-sizing: border-box;
 }
 
 .parentlinks a {
