@@ -144,20 +144,21 @@ div.recentchanges {
 }
 
 .parentlinks {
-    font-size: 0.8em;
-    color: #FFF;
-    display: block;
-    padding-left: 23ex;
-    box-sizing: border-box;
+        font-size: 0.8em;
+        color: #FFF;
+        display: block;
+        padding-left: 23ex;
+        box-sizing: border-box;
 }
 
 .parentlinks a {
-	background: #EFE;
-	padding: 0.2em;
+        display: inline-block;
+        background: #EFE;
+        padding: 0.2em;
 }
 
 .parentlinks a:hover {
-	background: #CFE;
+        background: #CFE;
 }
 
 .pagecloud {
@@ -244,6 +245,10 @@ fieldset {
 	padding: 1em;
 	transition: 0.3s;
    }
+
+    .parentlinks {
+        padding-left: 0;
+    }
 
 }
 
